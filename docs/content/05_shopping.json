@@ -1,0 +1,451 @@
+{
+  "id": "shopping",
+  "order": 5,
+  "icon": "🛍️",
+  "level": "A2",
+  "title": "Shopping & Money",
+  "title_vi": "Mua sắm & Tiền bạc",
+  "description": "Hỏi giá, mặc cả, thử đồ, đổi trả, thanh toán và quản lý chi tiêu.",
+  "words": [
+    {
+      "id": "sh_price", "word": "price", "pos": "noun", "ipa": "/praɪs/", "level": "A1",
+      "meaning": "giá",
+      "definition": "the amount of money you pay for something",
+      "collocations": ["a high price", "a good price", "price tag", "half price"],
+      "examples": [
+        {"en": "The *price* is a bit high. Can you give me a discount?", "vi": "Giá hơi cao. Bạn giảm giá cho tôi được không?", "context": "mặc cả"},
+        {"en": "I got these shoes at half *price*.", "vi": "Tôi mua đôi giày này được giảm nửa giá.", "context": "khoe"}
+      ],
+      "note": "Giá đi với *high / low*, không dùng expensive/cheap. Món đồ mới là expensive/cheap.",
+      "mistake": {"wrong": "The price is very expensive.", "right": "The price is very high. / It's very expensive.", "explain": "price + high/low; đồ vật + expensive/cheap."},
+      "synonyms": ["cost"]
+    },
+    {
+      "id": "sh_cheap", "word": "cheap", "pos": "adjective", "ipa": "/tʃiːp/", "level": "A1",
+      "meaning": "rẻ; rẻ tiền, kém chất lượng",
+      "definition": "costing little money; sometimes: low quality",
+      "collocations": ["really cheap", "cheap and cheerful", "dirt cheap", "look cheap"],
+      "examples": [
+        {"en": "Street food in Vietnam is *cheap* and delicious.", "vi": "Đồ ăn đường phố ở Việt Nam rẻ mà ngon.", "context": "miêu tả"},
+        {"en": "This bag looks a bit *cheap*. Let's find a better one.", "vi": "Túi này trông hơi rẻ tiền. Tìm cái khác tốt hơn đi.", "context": "nhận xét"}
+      ],
+      "note": "*cheap* đôi khi mang nghĩa xấu (rẻ tiền). Muốn khen rẻ mà tốt dùng *affordable* hoặc *good value*. Nói về người, *cheap* = keo kiệt.",
+      "synonyms": ["inexpensive", "affordable"], "antonyms": ["expensive"]
+    },
+    {
+      "id": "sh_expensive", "word": "expensive", "pos": "adjective", "ipa": "/ɪkˈspensɪv/", "level": "A1",
+      "meaning": "đắt",
+      "definition": "costing a lot of money",
+      "collocations": ["too expensive", "an expensive hobby", "a bit expensive", "way too expensive"],
+      "examples": [
+        {"en": "It's nice, but it's too *expensive* for me.", "vi": "Đẹp đấy, nhưng đắt quá so với tôi.", "context": "từ chối"},
+        {"en": "Living in a big city is *expensive*.", "vi": "Sống ở thành phố lớn đắt đỏ lắm.", "context": "nhận xét"}
+      ],
+      "note": "Thân mật: *pricey* (hơi đắt). Rất đắt: *It costs a fortune* hoặc *It's a rip-off* (bị chặt chém).",
+      "synonyms": ["pricey", "costly"], "antonyms": ["cheap", "affordable"]
+    },
+    {
+      "id": "sh_discount", "word": "discount", "pos": "noun", "ipa": "/ˈdɪskaʊnt/", "level": "A2",
+      "meaning": "sự giảm giá",
+      "definition": "an amount taken off the usual price",
+      "collocations": ["get a discount", "a 20% discount", "student discount", "give a discount"],
+      "examples": [
+        {"en": "Do you have a student *discount*?", "vi": "Ở đây có giảm giá cho sinh viên không?", "context": "hỏi"},
+        {"en": "If I buy two, can I get a *discount*?", "vi": "Nếu tôi mua hai cái thì được giảm giá không?", "context": "mặc cả"}
+      ],
+      "note": "Giảm 20%: *20% off* (rất phổ biến trên biển hiệu) hoặc *a 20% discount*.",
+      "synonyms": ["reduction", "% off"]
+    },
+    {
+      "id": "sh_on_sale", "word": "on sale", "pos": "phrase", "ipa": "/ɑːn seɪl/", "level": "A2",
+      "meaning": "đang giảm giá (Mỹ); đang được bán",
+      "definition": "available at a lower price than usual",
+      "collocations": ["be on sale", "everything is on sale", "the sales", "for sale"],
+      "examples": [
+        {"en": "These jeans are *on sale* this week, 30% off!", "vi": "Quần jean này tuần này đang giảm giá 30%!", "context": "quảng cáo"},
+        {"en": "I'll wait until it goes *on sale*.", "vi": "Tôi đợi khi nào nó giảm giá đã.", "context": "nói chuyện"}
+      ],
+      "note": "*on sale* = đang giảm giá. *for sale* = rao bán (House for sale = nhà cần bán). Hai cụm này rất dễ nhầm!",
+      "mistake": {"wrong": "My house is on sale. (ý: đang rao bán)", "right": "My house is for sale.", "explain": "for sale = có để bán. on sale = đang giảm giá."}
+    },
+    {
+      "id": "sh_receipt", "word": "receipt", "pos": "noun", "ipa": "/rɪˈsiːt/", "level": "B1",
+      "meaning": "hóa đơn, biên lai (sau khi trả tiền)",
+      "definition": "a piece of paper that shows you have paid for something",
+      "collocations": ["keep the receipt", "ask for a receipt", "Do you need a receipt?", "a copy of the receipt"],
+      "examples": [
+        {"en": "Keep your *receipt* in case you want to return it.", "vi": "Giữ hóa đơn phòng khi bạn muốn trả hàng.", "context": "lời khuyên"},
+        {"en": "Would you like a *receipt*? – Yes, please.", "vi": "Anh có lấy hóa đơn không? – Có.", "context": "thu ngân"}
+      ],
+      "note": "Chữ *p* câm: /rɪˈsiːt/ (ri-SIT). *bill* = giấy báo cần trả tiền; *receipt* = giấy xác nhận đã trả.",
+      "mistake": {"wrong": "Can I have the receipt? (khi chưa trả tiền ở nhà hàng)", "right": "Can I have the bill? (trước) / Can I have a receipt? (sau)", "explain": "Trước khi trả → bill/check. Sau khi trả → receipt."}
+    },
+    {
+      "id": "sh_refund", "word": "refund", "pos": "noun / verb", "ipa": "/ˈriːfʌnd/", "level": "B1",
+      "meaning": "hoàn tiền",
+      "definition": "money that is given back to you when you return something",
+      "collocations": ["get a refund", "ask for a refund", "a full refund", "refund policy"],
+      "examples": [
+        {"en": "This phone doesn't work. Can I get a *refund*?", "vi": "Điện thoại này không chạy. Tôi được hoàn tiền không?", "context": "khiếu nại"},
+        {"en": "We'll give you a full *refund* within 7 days.", "vi": "Chúng tôi sẽ hoàn tiền đầy đủ trong vòng 7 ngày.", "context": "cửa hàng"}
+      ],
+      "note": "Danh từ nhấn âm 1 (REE-fund), động từ nhấn âm 2 (ri-FUND).",
+      "synonyms": ["money back", "reimbursement"]
+    },
+    {
+      "id": "sh_exchange", "word": "exchange", "pos": "verb / noun", "ipa": "/ɪksˈtʃeɪndʒ/", "level": "B1",
+      "meaning": "đổi (hàng); trao đổi",
+      "definition": "to give something back and get a different thing",
+      "collocations": ["exchange something for", "exchange rate", "in exchange for", "exchange money"],
+      "examples": [
+        {"en": "Can I *exchange* this shirt for a larger size?", "vi": "Tôi đổi áo này lấy cỡ lớn hơn được không?", "context": "cửa hàng"},
+        {"en": "What's the *exchange* rate today?", "vi": "Tỷ giá hôm nay là bao nhiêu?", "context": "đổi tiền"}
+      ],
+      "note": "exchange A FOR B. *exchange rate* = tỷ giá.",
+      "mistake": {"wrong": "Can I change this shirt to a bigger size?", "right": "Can I exchange this shirt for a bigger size?", "explain": "Đổi hàng ở cửa hàng: exchange … for … (dùng change cũng được hiểu, nhưng exchange chuẩn hơn và đi với for)."},
+      "synonyms": ["swap", "trade"]
+    },
+    {
+      "id": "sh_size", "word": "size", "pos": "noun", "ipa": "/saɪz/", "level": "A1",
+      "meaning": "kích cỡ, cỡ",
+      "definition": "how big or small something is",
+      "collocations": ["What size are you?", "in a bigger size", "the right size", "one size fits all"],
+      "examples": [
+        {"en": "Do you have this in a smaller *size*?", "vi": "Cái này có cỡ nhỏ hơn không?", "context": "cửa hàng"},
+        {"en": "What *size* shoes do you wear? – Size 40.", "vi": "Bạn đi giày cỡ bao nhiêu? – Cỡ 40.", "context": "cửa hàng"}
+      ],
+      "note": "Câu hay dùng: *Do you have this in (a) medium / in blue?* = Cái này có cỡ M / màu xanh không?",
+      "synonyms": ["measurement"]
+    },
+    {
+      "id": "sh_fit", "word": "fit", "pos": "verb", "ipa": "/fɪt/", "level": "A2",
+      "meaning": "vừa (kích cỡ)",
+      "definition": "to be the right size and shape for someone",
+      "collocations": ["fit well", "doesn't fit", "fit perfectly", "a tight fit"],
+      "examples": [
+        {"en": "These jeans don't *fit*. They're too tight.", "vi": "Quần jean này không vừa. Chật quá.", "context": "thử đồ"},
+        {"en": "The jacket *fits* you perfectly!", "vi": "Áo khoác vừa với bạn như in!", "context": "khen"}
+      ],
+      "note": "*fit* = vừa kích cỡ. *suit* = hợp với (màu sắc, phong cách). *match / go with* = hợp với món đồ khác.",
+      "mistake": {"wrong": "This color fits you.", "right": "This color suits you.", "explain": "Màu sắc/kiểu dáng hợp với người → suit. Kích cỡ vừa → fit."},
+      "synonyms": ["be the right size"]
+    },
+    {
+      "id": "sh_try_on", "word": "try on", "pos": "phrasal verb", "ipa": "/traɪ ɑːn/", "level": "A2",
+      "meaning": "mặc thử, đi thử",
+      "definition": "to put on clothes or shoes to see if they fit",
+      "collocations": ["try something on", "try it on", "Can I try this on?", "fitting room"],
+      "examples": [
+        {"en": "Can I *try* this *on*? – Sure, the fitting room is over there.", "vi": "Tôi mặc thử cái này được không? – Được, phòng thử đồ ở đằng kia.", "context": "cửa hàng"},
+        {"en": "I *tried on* five dresses but didn't buy any.", "vi": "Tôi thử năm cái váy mà không mua cái nào.", "context": "kể chuyện"}
+      ],
+      "note": "Đại từ đặt giữa: try IT on (không nói try on it). *fitting room* = phòng thử đồ.",
+      "mistake": {"wrong": "Can I try on it?", "right": "Can I try it on?", "explain": "Với phrasal verb tách được, đại từ (it, them) phải đứng giữa."}
+    },
+    {
+      "id": "sh_afford", "word": "afford", "pos": "verb", "ipa": "/əˈfɔːrd/", "level": "B1",
+      "meaning": "đủ khả năng chi trả",
+      "definition": "to have enough money to pay for something",
+      "collocations": ["can't afford", "afford to buy", "can afford it", "affordable price"],
+      "examples": [
+        {"en": "I can't *afford* a new car right now.", "vi": "Hiện tại tôi không đủ tiền mua xe mới.", "context": "nói chuyện"},
+        {"en": "We can't *afford* to make any more mistakes.", "vi": "Chúng ta không thể để mắc thêm sai lầm nào nữa.", "context": "nghĩa bóng"}
+      ],
+      "note": "Thường đi với *can / can't / be able to*. afford + TO V. *affordable* = giá phải chăng.",
+      "mistake": {"wrong": "I can't afford buying it.", "right": "I can't afford to buy it.", "explain": "afford + to V."}
+    },
+    {
+      "id": "sh_cash", "word": "cash", "pos": "noun", "ipa": "/kæʃ/", "level": "A2",
+      "meaning": "tiền mặt",
+      "definition": "money in coins or bills, not a card",
+      "collocations": ["pay in cash", "cash only", "cash or card?", "short of cash"],
+      "examples": [
+        {"en": "Cash or card? – Card, please.", "vi": "Tiền mặt hay thẻ ạ? – Thẻ.", "context": "thu ngân"},
+        {"en": "Sorry, this shop only takes *cash*.", "vi": "Xin lỗi, cửa hàng chỉ nhận tiền mặt.", "context": "thông báo"}
+      ],
+      "note": "*pay IN cash* nhưng *pay BY card*. Rút tiền: *withdraw cash / take out money*. ATM (Anh: cash machine).",
+      "mistake": {"wrong": "I'll pay by cash.", "right": "I'll pay in cash.", "explain": "pay IN cash, pay BY card / BY bank transfer."}
+    },
+    {
+      "id": "sh_credit_card", "word": "credit card", "pos": "noun", "ipa": "/ˈkredɪt kɑːrd/", "level": "A2",
+      "meaning": "thẻ tín dụng",
+      "definition": "a card you use to buy things now and pay for them later",
+      "collocations": ["pay by credit card", "credit card number", "Do you take credit cards?", "debit card"],
+      "examples": [
+        {"en": "Do you take *credit cards*?", "vi": "Ở đây có nhận thẻ tín dụng không?", "context": "cửa hàng"},
+        {"en": "I paid for the flight with my *credit card*.", "vi": "Tôi trả tiền vé máy bay bằng thẻ tín dụng.", "context": "kể chuyện"}
+      ],
+      "note": "*debit card* = thẻ ghi nợ (trừ tiền trực tiếp từ tài khoản). Hỏi chỗ có nhận thẻ không: *Do you take/accept cards?*"
+    },
+    {
+      "id": "sh_change", "word": "change", "pos": "noun", "ipa": "/tʃeɪndʒ/", "level": "A2",
+      "meaning": "tiền thối, tiền lẻ",
+      "definition": "money you get back when you pay more than the price; coins",
+      "collocations": ["Keep the change", "small change", "Do you have change for…?", "exact change"],
+      "examples": [
+        {"en": "Here's 100,000. Keep the *change*.", "vi": "Đây 100.000. Không cần thối lại đâu.", "context": "trả tiền"},
+        {"en": "Do you have *change* for a 500,000 note?", "vi": "Bạn có tiền lẻ đổi tờ 500.000 không?", "context": "hỏi"}
+      ],
+      "note": "Nghĩa này không đếm được. *exact change* = tiền vừa đủ, không cần thối.",
+      "mistake": {"wrong": "You gave me wrong changes.", "right": "I think you gave me the wrong change.", "explain": "change (tiền thối) không đếm được, không thêm -s."}
+    },
+    {
+      "id": "sh_cost", "word": "cost", "pos": "verb / noun", "ipa": "/kɔːst/", "level": "A2",
+      "meaning": "có giá, tốn (tiền); chi phí",
+      "definition": "to have a price of; the amount of money needed",
+      "collocations": ["How much does it cost?", "cost a lot", "the cost of living", "at no extra cost"],
+      "examples": [
+        {"en": "How much does this *cost*?", "vi": "Cái này giá bao nhiêu?", "context": "hỏi giá"},
+        {"en": "The repair *cost* me 2 million dong.", "vi": "Sửa xong tốn của tôi 2 triệu.", "context": "kể chuyện"}
+      ],
+      "note": "Chủ ngữ của cost là MÓN ĐỒ (It costs…). Chủ ngữ của spend là NGƯỜI (I spent…). cost – cost – cost.",
+      "mistake": {"wrong": "I cost 200,000 for this shirt.", "right": "This shirt cost (me) 200,000. / I spent 200,000 on this shirt.", "explain": "Đồ vật + cost; người + spend … on …"},
+      "synonyms": ["price", "expense"]
+    },
+    {
+      "id": "sh_spend", "word": "spend", "pos": "verb", "ipa": "/spend/", "level": "A2",
+      "meaning": "tiêu (tiền); dành (thời gian)",
+      "definition": "to use money to buy things; to use time doing something",
+      "collocations": ["spend money on", "spend time with", "spend too much", "spend hours doing"],
+      "examples": [
+        {"en": "I *spend* too much money on coffee.", "vi": "Tôi tiêu quá nhiều tiền vào cà phê.", "context": "thú nhận"},
+        {"en": "I *spent* two hours studying English yesterday.", "vi": "Hôm qua tôi dành hai tiếng học tiếng Anh.", "context": "kể chuyện"}
+      ],
+      "note": "spend + tiền + ON + món; spend + thời gian + V-ing. spend – spent – spent.",
+      "mistake": {"wrong": "I spent two hours to study.", "right": "I spent two hours studying.", "explain": "spend + thời gian + V-ing (không dùng to V)."},
+      "antonyms": ["save"]
+    },
+    {
+      "id": "sh_save", "word": "save", "pos": "verb", "ipa": "/seɪv/", "level": "A2",
+      "meaning": "tiết kiệm; để dành; cứu",
+      "definition": "to keep money instead of spending it; to avoid wasting",
+      "collocations": ["save money", "save up for", "save time", "save energy"],
+      "examples": [
+        {"en": "I'm *saving* up for a new laptop.", "vi": "Tôi đang để dành tiền mua laptop mới.", "context": "kể chuyện"},
+        {"en": "Taking the subway *saves* a lot of time.", "vi": "Đi tàu điện ngầm tiết kiệm được nhiều thời gian.", "context": "so sánh"}
+      ],
+      "note": "*save up for something* = dành dụm để mua gì. *savings* = tiền tiết kiệm.",
+      "antonyms": ["spend", "waste"]
+    },
+    {
+      "id": "sh_waste", "word": "waste", "pos": "verb / noun", "ipa": "/weɪst/", "level": "A2",
+      "meaning": "lãng phí; sự lãng phí; rác thải",
+      "definition": "to use more than needed or use badly; something not useful",
+      "collocations": ["waste money", "waste time", "a waste of time", "food waste"],
+      "examples": [
+        {"en": "Don't *waste* your money on things you don't need.", "vi": "Đừng phí tiền vào những thứ bạn không cần.", "context": "lời khuyên"},
+        {"en": "That movie was a total *waste* of time.", "vi": "Bộ phim đó hoàn toàn phí thời gian.", "context": "nhận xét"}
+      ],
+      "note": "*a waste of time/money* = phí thời gian/tiền. waste + thời gian + V-ing.",
+      "antonyms": ["save"]
+    },
+    {
+      "id": "sh_budget", "word": "budget", "pos": "noun", "ipa": "/ˈbʌdʒɪt/", "level": "B1",
+      "meaning": "ngân sách, khoản chi dự tính",
+      "definition": "the amount of money you have or plan to spend",
+      "collocations": ["on a budget", "over budget", "a tight budget", "budget for"],
+      "examples": [
+        {"en": "I'm on a tight *budget* this month.", "vi": "Tháng này tôi phải chi tiêu dè sẻn.", "context": "nói chuyện"},
+        {"en": "What's your *budget* for the trip?", "vi": "Bạn dự tính chi bao nhiêu cho chuyến đi?", "context": "hỏi"}
+      ],
+      "note": "*on a budget* = chi tiêu tiết kiệm. *over budget* = vượt ngân sách. *budget hotel* = khách sạn bình dân.",
+      "synonyms": ["spending plan"]
+    },
+    {
+      "id": "sh_bargain", "word": "bargain", "pos": "noun / verb", "ipa": "/ˈbɑːrɡən/", "level": "B1",
+      "meaning": "món hời; mặc cả",
+      "definition": "something bought for less than its usual price; to discuss a price",
+      "collocations": ["a real bargain", "bargain with", "bargain hunting", "a bargain price"],
+      "examples": [
+        {"en": "Only 100,000 for this jacket? What a *bargain*!", "vi": "Áo khoác này có 100.000 thôi á? Hời quá!", "context": "thân mật"},
+        {"en": "You can *bargain* at the market, but not in the mall.", "vi": "Ở chợ thì mặc cả được, trong trung tâm thương mại thì không.", "context": "lời khuyên"}
+      ],
+      "note": "Động từ mặc cả cũng có thể dùng *haggle*. *What a bargain!* = Hời quá!",
+      "synonyms": ["good deal", "haggle (động từ)"]
+    },
+    {
+      "id": "sh_brand", "word": "brand", "pos": "noun", "ipa": "/brænd/", "level": "B1",
+      "meaning": "nhãn hiệu, thương hiệu",
+      "definition": "a name of a product made by a particular company",
+      "collocations": ["a famous brand", "brand name", "brand-new", "a local brand"],
+      "examples": [
+        {"en": "Which *brand* of phone do you use?", "vi": "Bạn dùng điện thoại hãng nào?", "context": "hỏi"},
+        {"en": "I just bought a *brand*-new bike.", "vi": "Tôi vừa mua một chiếc xe đạp mới tinh.", "context": "khoe"}
+      ],
+      "note": "*brand-new* = mới tinh. *brand* là nhãn hiệu sản phẩm; *company* là công ty.",
+      "synonyms": ["label", "make"]
+    },
+    {
+      "id": "sh_quality", "word": "quality", "pos": "noun", "ipa": "/ˈkwɑːləti/", "level": "B1",
+      "meaning": "chất lượng",
+      "definition": "how good or bad something is",
+      "collocations": ["high quality", "good quality", "poor quality", "quality control"],
+      "examples": [
+        {"en": "It's more expensive, but the *quality* is much better.", "vi": "Đắt hơn nhưng chất lượng tốt hơn nhiều.", "context": "so sánh"},
+        {"en": "The *quality* of this fabric is really poor.", "vi": "Chất lượng vải này kém thật.", "context": "nhận xét"}
+      ],
+      "note": "Đi với *high / good / poor / low*. *quantity* = số lượng (dễ nhầm). Câu thành ngữ: *quality over quantity*.",
+      "antonyms": ["quantity (đối lập về ý)"]
+    },
+    {
+      "id": "sh_customer", "word": "customer", "pos": "noun", "ipa": "/ˈkʌstəmər/", "level": "A2",
+      "meaning": "khách hàng",
+      "definition": "a person who buys things from a shop or business",
+      "collocations": ["customer service", "a regular customer", "happy customers", "customer support"],
+      "examples": [
+        {"en": "I called *customer* service, but no one answered.", "vi": "Tôi gọi tổng đài chăm sóc khách hàng mà không ai nghe.", "context": "than phiền"},
+        {"en": "She's a regular *customer*. She comes here every week.", "vi": "Cô ấy là khách quen. Tuần nào cũng tới.", "context": "miêu tả"}
+      ],
+      "note": "*customer* = khách mua hàng. *client* = khách dùng dịch vụ chuyên môn (luật sư, công ty). *guest* = khách ở khách sạn / được mời.",
+      "synonyms": ["client", "buyer"]
+    },
+    {
+      "id": "sh_cashier", "word": "cashier", "pos": "noun", "ipa": "/kæˈʃɪr/", "level": "B1",
+      "meaning": "thu ngân",
+      "definition": "a person whose job is to take money in a shop or bank",
+      "collocations": ["pay at the cashier", "work as a cashier", "the cashier desk"],
+      "examples": [
+        {"en": "Please pay at the *cashier* on the first floor.", "vi": "Vui lòng thanh toán ở quầy thu ngân tầng một.", "context": "hướng dẫn"},
+        {"en": "The *cashier* gave me the wrong change.", "vi": "Thu ngân thối nhầm tiền cho tôi.", "context": "kể chuyện"}
+      ],
+      "note": "Quầy thu ngân ở siêu thị còn gọi là *checkout* (Go to checkout = đi thanh toán).",
+      "synonyms": ["checkout (quầy)"]
+    },
+    {
+      "id": "sh_out_of_stock", "word": "out of stock", "pos": "phrase", "ipa": "/aʊt əv stɑːk/", "level": "B1",
+      "meaning": "hết hàng",
+      "definition": "not available in a shop at the moment",
+      "collocations": ["be out of stock", "temporarily out of stock", "back in stock", "in stock"],
+      "examples": [
+        {"en": "Sorry, that model is *out of stock*.", "vi": "Xin lỗi, mẫu đó hết hàng rồi.", "context": "cửa hàng"},
+        {"en": "When will it be back in stock?", "vi": "Khi nào có hàng lại vậy?", "context": "hỏi"}
+      ],
+      "note": "*in stock* = còn hàng. Thân mật: *We've run out of it* / *It's sold out* (bán hết).",
+      "synonyms": ["sold out"], "antonyms": ["in stock"]
+    },
+    {
+      "id": "sh_deliver", "word": "deliver", "pos": "verb", "ipa": "/dɪˈlɪvər/", "level": "B1",
+      "meaning": "giao (hàng)",
+      "definition": "to take goods to a person's home or office",
+      "collocations": ["deliver to your door", "free delivery", "home delivery", "delivery fee"],
+      "examples": [
+        {"en": "Do you *deliver* to District 7?", "vi": "Bên bạn có giao hàng tới Quận 7 không?", "context": "hỏi"},
+        {"en": "My order was *delivered* in just two hours.", "vi": "Đơn hàng của tôi được giao chỉ sau hai tiếng.", "context": "kể chuyện"}
+      ],
+      "note": "Danh từ: *delivery* (free delivery = miễn phí giao hàng). *shipping* = vận chuyển (thường dùng khi mua online).",
+      "mistake": {"wrong": "Can you ship it at my house?", "right": "Can you deliver it to my house?", "explain": "Giao tới đâu → deliver TO + địa chỉ."},
+      "synonyms": ["ship", "bring"]
+    },
+    {
+      "id": "sh_available", "word": "available", "pos": "adjective", "ipa": "/əˈveɪləbl/", "level": "A2",
+      "meaning": "có sẵn; rảnh (người)",
+      "definition": "able to be bought or used; free to do something",
+      "collocations": ["available in", "available online", "not available", "Are you available…?"],
+      "examples": [
+        {"en": "Is this shirt *available* in black?", "vi": "Áo này có màu đen không?", "context": "cửa hàng"},
+        {"en": "Are you *available* for a quick call this afternoon?", "vi": "Chiều nay bạn có rảnh nói chuyện nhanh không?", "context": "công việc"}
+      ],
+      "note": "Dùng cho người trong công việc: *I'm available on Monday* = Thứ Hai tôi rảnh (lịch sự hơn *free*).",
+      "synonyms": ["in stock", "free"], "antonyms": ["unavailable", "sold out"]
+    },
+    {
+      "id": "sh_worth", "word": "worth", "pos": "adjective", "ipa": "/wɜːrθ/", "level": "B1",
+      "meaning": "đáng (giá, công sức)",
+      "definition": "having a particular value; good enough to do",
+      "collocations": ["worth it", "worth the money", "worth visiting", "not worth it"],
+      "examples": [
+        {"en": "It's expensive, but it's totally *worth* it.", "vi": "Đắt nhưng hoàn toàn xứng đáng.", "context": "review"},
+        {"en": "Is this museum *worth* visiting?", "vi": "Bảo tàng này có đáng ghé không?", "context": "hỏi"}
+      ],
+      "note": "worth + danh từ (worth the money) hoặc worth + V-ing (worth visiting). Câu cửa miệng: *Is it worth it?*",
+      "mistake": {"wrong": "This book is worth to read.", "right": "This book is worth reading.", "explain": "worth + V-ing, không dùng to V."}
+    },
+    {
+      "id": "sh_pay", "word": "pay", "pos": "verb", "ipa": "/peɪ/", "level": "A1",
+      "meaning": "trả (tiền), thanh toán",
+      "definition": "to give money for something",
+      "collocations": ["pay for something", "pay by card", "pay the bill", "pay back"],
+      "examples": [
+        {"en": "Can I *pay* by card?", "vi": "Tôi trả bằng thẻ được không?", "context": "thanh toán"},
+        {"en": "How much did you *pay* for that phone?", "vi": "Bạn mua điện thoại đó hết bao nhiêu?", "context": "hỏi"}
+      ],
+      "note": "pay FOR + món đồ (pay for dinner); pay + hóa đơn/người (pay the bill, pay the driver). pay – paid – paid.",
+      "mistake": {"wrong": "I paid the coffee.", "right": "I paid for the coffee.", "explain": "Trả tiền cho món đồ → pay FOR. Không có for chỉ khi tân ngữ là tiền, hóa đơn hoặc người."},
+      "synonyms": ["cover", "settle (trang trọng)"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Asking for the price", "situation_vi": "Hỏi giá",
+      "formal": "Excuse me, could you tell me how much this costs?",
+      "neutral": "How much is this?",
+      "casual": "How much for this one?",
+      "vi": "Cái này bao nhiêu tiền?",
+      "reply": "It's 250,000 dong.",
+      "note": "Số nhiều: How much are these? Với giá lớn, người bản xứ hay nói 250K (two-fifty K)."
+    },
+    {
+      "situation": "Bargaining", "situation_vi": "Mặc cả",
+      "formal": "Would you be able to offer a better price if I buy two?",
+      "neutral": "Can you give me a discount if I buy two?",
+      "casual": "Can you do it for 200?",
+      "vi": "Nếu tôi mua hai cái thì bớt cho tôi được không?",
+      "reply": "Okay, 400 for both. That's my best price.",
+      "note": "That's my best price / final offer = giá chót rồi."
+    },
+    {
+      "situation": "Trying on clothes", "situation_vi": "Hỏi thử đồ",
+      "formal": "Excuse me, where are the fitting rooms?",
+      "neutral": "Can I try this on?",
+      "casual": "Mind if I try this on?",
+      "vi": "Tôi mặc thử cái này được không?",
+      "reply": "Of course. The fitting rooms are at the back.",
+      "note": "Sau khi thử: It's a bit tight / loose. Do you have a bigger size?"
+    },
+    {
+      "situation": "Just looking", "situation_vi": "Chỉ xem thôi (từ chối nhân viên)",
+      "formal": "Thank you, I'm just browsing at the moment.",
+      "neutral": "I'm just looking, thanks.",
+      "casual": "Just looking, thanks!",
+      "vi": "Tôi chỉ xem thôi, cảm ơn.",
+      "reply": "No problem. Let me know if you need anything.",
+      "note": "Đây là câu đáp chuẩn khi nhân viên hỏi Can I help you?"
+    },
+    {
+      "situation": "Returning an item", "situation_vi": "Trả hàng / xin hoàn tiền",
+      "formal": "I'd like to return this item. It was faulty when I opened it.",
+      "neutral": "I'd like to return this. It doesn't work. Here's the receipt.",
+      "casual": "Hi, this doesn't work. Can I get my money back?",
+      "vi": "Tôi muốn trả món này. Nó bị hỏng. Hóa đơn đây.",
+      "reply": "Sorry about that. Would you like an exchange or a refund?",
+      "note": "faulty = bị lỗi (trang trọng). It's broken / It doesn't work = hỏng (thông dụng)."
+    },
+    {
+      "situation": "Paying", "situation_vi": "Thanh toán",
+      "formal": "Do you accept credit cards?",
+      "neutral": "Can I pay by card?",
+      "casual": "Card okay?",
+      "vi": "Tôi trả bằng thẻ được không?",
+      "reply": "Sure. Just tap it here.",
+      "note": "tap = chạm thẻ. Insert your card = đưa thẻ vào. Enter your PIN = nhập mã PIN."
+    },
+    {
+      "situation": "Asking for a different color or size", "situation_vi": "Hỏi màu / cỡ khác",
+      "formal": "Would you happen to have this in a medium?",
+      "neutral": "Do you have this in blue?",
+      "casual": "Got this in a medium?",
+      "vi": "Cái này có màu xanh không?",
+      "reply": "Let me check in the back for you.",
+      "note": "Cấu trúc: Do you have this IN + màu/cỡ."
+    },
+    {
+      "situation": "Talking about money habits", "situation_vi": "Nói về thói quen chi tiêu",
+      "formal": "I try to set aside a portion of my salary every month.",
+      "neutral": "I'm trying to save money, so I don't eat out much.",
+      "casual": "I'm broke till payday!",
+      "vi": "Tôi đang cố tiết kiệm nên không hay ăn ngoài.",
+      "reply": "Same here. Let's cook at home this weekend.",
+      "note": "broke = cháy túi (thân mật). payday = ngày lĩnh lương. set aside = để dành ra."
+    }
+  ]
+}

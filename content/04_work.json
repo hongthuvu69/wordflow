@@ -1,0 +1,458 @@
+{
+  "id": "work",
+  "order": 4,
+  "icon": "💼",
+  "level": "A2",
+  "title": "Work & Office",
+  "title_vi": "Công việc & Văn phòng",
+  "description": "Đồng nghiệp, họp hành, deadline, phỏng vấn xin việc và giao tiếp nơi công sở.",
+  "words": [
+    {
+      "id": "wk_colleague", "word": "colleague", "pos": "noun", "ipa": "/ˈkɑːliːɡ/", "level": "B1",
+      "meaning": "đồng nghiệp",
+      "definition": "a person you work with",
+      "collocations": ["a close colleague", "work colleagues", "a former colleague", "my colleague and I"],
+      "examples": [
+        {"en": "I had lunch with a *colleague* from the marketing team.", "vi": "Tôi ăn trưa với một đồng nghiệp bên nhóm marketing.", "context": "kể chuyện"},
+        {"en": "My *colleagues* are really helpful.", "vi": "Đồng nghiệp của tôi rất hay giúp đỡ.", "context": "nói chuyện"}
+      ],
+      "note": "Phát âm 2 âm tiết: KOL-leeg. Thân mật hơn: *coworker*. Rất thân: *work friend*.",
+      "synonyms": ["coworker"]
+    },
+    {
+      "id": "wk_manager", "word": "manager", "pos": "noun", "ipa": "/ˈmænɪdʒər/", "level": "A2",
+      "meaning": "quản lý, người phụ trách",
+      "definition": "a person who controls a team, department or business",
+      "collocations": ["project manager", "my manager", "report to a manager", "line manager"],
+      "examples": [
+        {"en": "I need to ask my *manager* before I take a day off.", "vi": "Tôi phải hỏi quản lý trước khi nghỉ một ngày.", "context": "công việc"},
+        {"en": "She was promoted to *manager* last year.", "vi": "Năm ngoái cô ấy được thăng lên làm quản lý.", "context": "kể chuyện"}
+      ],
+      "note": "*report to* = báo cáo cho, trực thuộc (I report to the sales manager). *boss* thân mật hơn.",
+      "synonyms": ["boss (thân mật)", "supervisor"]
+    },
+    {
+      "id": "wk_meeting", "word": "meeting", "pos": "noun", "ipa": "/ˈmiːtɪŋ/", "level": "A2",
+      "meaning": "cuộc họp",
+      "definition": "an event where people come together to discuss things",
+      "collocations": ["have a meeting", "attend a meeting", "in a meeting", "set up a meeting"],
+      "examples": [
+        {"en": "Sorry, I can't talk now. I'm in a *meeting*.", "vi": "Xin lỗi, giờ tôi không nói chuyện được. Tôi đang họp.", "context": "nhắn tin"},
+        {"en": "Let's set up a *meeting* to discuss the plan.", "vi": "Hãy sắp xếp một buổi họp để bàn kế hoạch.", "context": "công việc"}
+      ],
+      "note": "Đang họp: *in a meeting* (không dùng at/on). *set up / schedule a meeting* = lên lịch họp.",
+      "mistake": {"wrong": "I'm on a meeting now.", "right": "I'm in a meeting now.", "explain": "Đang trong cuộc họp → IN a meeting. (on a call = đang trong cuộc gọi)"},
+      "synonyms": ["conference", "call (online)"]
+    },
+    {
+      "id": "wk_deadline", "word": "deadline", "pos": "noun", "ipa": "/ˈdedlaɪn/", "level": "B1",
+      "meaning": "hạn chót",
+      "definition": "the time or date by which something must be finished",
+      "collocations": ["meet a deadline", "miss a deadline", "a tight deadline", "the deadline for"],
+      "examples": [
+        {"en": "The *deadline* for the report is Friday.", "vi": "Hạn chót nộp báo cáo là thứ Sáu.", "context": "công việc"},
+        {"en": "We worked late to meet the *deadline*.", "vi": "Chúng tôi làm muộn để kịp hạn chót.", "context": "kể chuyện"}
+      ],
+      "note": "*meet a deadline* = kịp hạn. *miss a deadline* = trễ hạn. *a tight deadline* = hạn gấp.",
+      "mistake": {"wrong": "We must finish before the deadline is Friday.", "right": "We must finish by Friday, which is the deadline.", "explain": "Dùng by + thời điểm để nói hạn chót: finish it by Friday."}
+    },
+    {
+      "id": "wk_task", "word": "task", "pos": "noun", "ipa": "/tæsk/", "level": "A2",
+      "meaning": "nhiệm vụ, đầu việc",
+      "definition": "a piece of work you have to do",
+      "collocations": ["a difficult task", "complete a task", "daily tasks", "give someone a task"],
+      "examples": [
+        {"en": "My first *task* every morning is checking emails.", "vi": "Việc đầu tiên mỗi sáng của tôi là kiểm tra email.", "context": "kể chuyện"},
+        {"en": "Can you help me with this *task*?", "vi": "Bạn giúp tôi việc này được không?", "context": "nhờ vả"}
+      ],
+      "note": "*task* là một đầu việc cụ thể; *job* là công việc/nghề nghiệp; *work* là danh từ không đếm được.",
+      "mistake": {"wrong": "I have many works today.", "right": "I have a lot of work / many tasks today.", "explain": "work (công việc) không đếm được. Muốn đếm thì dùng tasks."},
+      "synonyms": ["job", "assignment"]
+    },
+    {
+      "id": "wk_project", "word": "project", "pos": "noun", "ipa": "/ˈprɑːdʒekt/", "level": "A2",
+      "meaning": "dự án",
+      "definition": "a planned piece of work with a particular goal",
+      "collocations": ["work on a project", "a new project", "lead a project", "project deadline"],
+      "examples": [
+        {"en": "I'm working on a new *project* for a client in Japan.", "vi": "Tôi đang làm một dự án mới cho khách hàng ở Nhật.", "context": "giới thiệu"},
+        {"en": "The *project* was a big success.", "vi": "Dự án đã rất thành công.", "context": "báo cáo"}
+      ],
+      "note": "Giới từ: work ON a project. Động từ *project* /prəˈdʒekt/ (nhấn âm 2) nghĩa là dự đoán, chiếu.",
+      "mistake": {"wrong": "I'm working in a project.", "right": "I'm working on a project.", "explain": "Làm dự án → work ON a project."}
+    },
+    {
+      "id": "wk_report", "word": "report", "pos": "noun / verb", "ipa": "/rɪˈpɔːrt/", "level": "A2",
+      "meaning": "báo cáo",
+      "definition": "a document that gives information; to give information about something",
+      "collocations": ["write a report", "a monthly report", "report to someone", "report a problem"],
+      "examples": [
+        {"en": "I have to finish this *report* by tomorrow.", "vi": "Tôi phải xong bản báo cáo này trước ngày mai.", "context": "công việc"},
+        {"en": "Please *report* any problems to the IT team.", "vi": "Vui lòng báo mọi sự cố cho đội IT.", "context": "thông báo"}
+      ],
+      "note": "*report to someone* = trực thuộc ai (I report to the director).",
+      "synonyms": ["document", "inform"]
+    },
+    {
+      "id": "wk_salary", "word": "salary", "pos": "noun", "ipa": "/ˈsæləri/", "level": "B1",
+      "meaning": "lương (cố định theo tháng/năm)",
+      "definition": "the fixed amount of money you earn from your job, usually paid monthly",
+      "collocations": ["a high salary", "salary increase", "earn a salary", "monthly salary"],
+      "examples": [
+        {"en": "The job has a good *salary* and great benefits.", "vi": "Công việc có lương tốt và phúc lợi tuyệt vời.", "context": "nói chuyện"},
+        {"en": "What are your *salary* expectations?", "vi": "Mức lương mong muốn của bạn là bao nhiêu?", "context": "phỏng vấn"}
+      ],
+      "note": "*salary* = lương tháng/năm cố định. *wage* = lương theo giờ/ngày. *raise* (Mỹ) = tăng lương. *benefits* = phúc lợi.",
+      "mistake": {"wrong": "My salary is very expensive.", "right": "My salary is very high.", "explain": "Lương thì high/low, không phải expensive/cheap."},
+      "synonyms": ["pay", "income", "wage"]
+    },
+    {
+      "id": "wk_interview", "word": "interview", "pos": "noun / verb", "ipa": "/ˈɪntərvjuː/", "level": "A2",
+      "meaning": "phỏng vấn",
+      "definition": "a formal meeting where someone asks you questions, e.g. for a job",
+      "collocations": ["job interview", "have an interview", "prepare for an interview", "interview someone"],
+      "examples": [
+        {"en": "I have a job *interview* tomorrow and I'm so nervous.", "vi": "Mai tôi có buổi phỏng vấn xin việc, run quá.", "context": "kể chuyện"},
+        {"en": "How did your *interview* go?", "vi": "Buổi phỏng vấn của bạn thế nào?", "context": "hỏi thăm"}
+      ],
+      "note": "*interviewer* = người phỏng vấn, *interviewee / candidate* = ứng viên. Câu hỏi thăm: *How did it go?*",
+      "mistake": {"wrong": "I will join an interview tomorrow.", "right": "I have an interview tomorrow.", "explain": "Người Việt hay dùng join, nhưng với phỏng vấn người bản xứ nói have / go to an interview."}
+    },
+    {
+      "id": "wk_apply", "word": "apply", "pos": "verb", "ipa": "/əˈplaɪ/", "level": "B1",
+      "meaning": "nộp đơn, ứng tuyển; áp dụng",
+      "definition": "to formally ask for a job, place, etc.; to use something in a situation",
+      "collocations": ["apply for a job", "apply to a company", "apply online", "apply what you learn"],
+      "examples": [
+        {"en": "I *applied* for a job at a tech company.", "vi": "Tôi đã ứng tuyển vào một công ty công nghệ.", "context": "kể chuyện"},
+        {"en": "Try to *apply* new words in real conversations.", "vi": "Hãy cố áp dụng từ mới trong hội thoại thật.", "context": "lời khuyên"}
+      ],
+      "note": "apply FOR + vị trí (a job, a visa). apply TO + tổ chức (a company, a university). *application* = đơn ứng tuyển; *applicant* = người ứng tuyển.",
+      "mistake": {"wrong": "I applied a job at Google.", "right": "I applied for a job at Google.", "explain": "Nộp đơn xin việc → apply FOR a job."}
+    },
+    {
+      "id": "wk_experience", "word": "experience", "pos": "noun / verb", "ipa": "/ɪkˈspɪriəns/", "level": "A2",
+      "meaning": "kinh nghiệm; trải nghiệm",
+      "definition": "knowledge and skill from doing something; something that happens to you",
+      "collocations": ["work experience", "years of experience", "experience in", "a great experience"],
+      "examples": [
+        {"en": "I have three years of *experience* in sales.", "vi": "Tôi có ba năm kinh nghiệm bán hàng.", "context": "phỏng vấn"},
+        {"en": "Traveling alone was an amazing *experience*.", "vi": "Đi du lịch một mình là một trải nghiệm tuyệt vời.", "context": "kể chuyện"}
+      ],
+      "note": "Nghĩa *kinh nghiệm* → không đếm được (much experience). Nghĩa *một trải nghiệm* → đếm được (an experience, experiences).",
+      "mistake": {"wrong": "I have many experiences in marketing.", "right": "I have a lot of experience in marketing.", "explain": "Kinh nghiệm làm việc không đếm được → a lot of experience (không -s)."}
+    },
+    {
+      "id": "wk_skill", "word": "skill", "pos": "noun", "ipa": "/skɪl/", "level": "A2",
+      "meaning": "kỹ năng",
+      "definition": "the ability to do something well",
+      "collocations": ["communication skills", "improve your skills", "soft skills", "a useful skill"],
+      "examples": [
+        {"en": "Good communication *skills* are important in every job.", "vi": "Kỹ năng giao tiếp tốt quan trọng trong mọi công việc.", "context": "thảo luận"},
+        {"en": "I want to improve my presentation *skills*.", "vi": "Tôi muốn cải thiện kỹ năng thuyết trình.", "context": "mục tiêu"}
+      ],
+      "note": "*skilled* = có tay nghề. *soft skills* = kỹ năng mềm. *hard skills* = kỹ năng chuyên môn.",
+      "synonyms": ["ability", "talent"]
+    },
+    {
+      "id": "wk_responsible", "word": "responsible", "pos": "adjective", "ipa": "/rɪˈspɑːnsəbl/", "level": "B1",
+      "meaning": "chịu trách nhiệm, phụ trách; có trách nhiệm",
+      "definition": "having the job of taking care of something; reliable",
+      "collocations": ["responsible for", "a responsible person", "hold someone responsible"],
+      "examples": [
+        {"en": "I'm *responsible* for training new staff.", "vi": "Tôi phụ trách đào tạo nhân viên mới.", "context": "phỏng vấn"},
+        {"en": "She's very *responsible*. She never misses a deadline.", "vi": "Cô ấy rất có trách nhiệm. Chưa bao giờ trễ hạn.", "context": "khen"}
+      ],
+      "note": "responsible FOR + danh từ/V-ing. Danh từ: *responsibility* (My main responsibilities include…).",
+      "mistake": {"wrong": "I'm responsible to manage the team.", "right": "I'm responsible for managing the team.", "explain": "responsible FOR + V-ing, không dùng to V."},
+      "antonyms": ["irresponsible"]
+    },
+    {
+      "id": "wk_hire", "word": "hire", "pos": "verb", "ipa": "/ˈhaɪər/", "level": "B1",
+      "meaning": "thuê, tuyển (người)",
+      "definition": "to give someone a job; to pay to use something for a short time",
+      "collocations": ["hire new staff", "get hired", "hire someone as", "hire a car"],
+      "examples": [
+        {"en": "The company is *hiring* two new developers.", "vi": "Công ty đang tuyển hai lập trình viên mới.", "context": "thông tin"},
+        {"en": "I got *hired* right after graduation.", "vi": "Tôi được tuyển ngay sau khi tốt nghiệp.", "context": "kể chuyện"}
+      ],
+      "note": "*We're hiring!* = Chúng tôi đang tuyển dụng. *get hired* = được nhận vào làm. Trang trọng: *employ, recruit*.",
+      "synonyms": ["employ", "recruit"], "antonyms": ["fire", "let go"]
+    },
+    {
+      "id": "wk_quit", "word": "quit", "pos": "verb", "ipa": "/kwɪt/", "level": "B1",
+      "meaning": "nghỉ việc, bỏ (thói quen)",
+      "definition": "to leave a job; to stop doing something",
+      "collocations": ["quit a job", "quit smoking", "decide to quit", "quit doing something"],
+      "examples": [
+        {"en": "He *quit* his job to start his own business.", "vi": "Anh ấy nghỉ việc để tự kinh doanh.", "context": "kể chuyện"},
+        {"en": "I *quit* drinking coffee last month.", "vi": "Tôi bỏ cà phê từ tháng trước.", "context": "kể chuyện"}
+      ],
+      "note": "quit – quit – quit (bất quy tắc, giữ nguyên). Trang trọng: *resign*. quit + V-ing (quit smoking).",
+      "mistake": {"wrong": "I quitted my job.", "right": "I quit my job.", "explain": "Quá khứ của quit vẫn là quit."},
+      "synonyms": ["resign (trang trọng)", "leave"]
+    },
+    {
+      "id": "wk_promotion", "word": "promotion", "pos": "noun", "ipa": "/prəˈmoʊʃn/", "level": "B1",
+      "meaning": "sự thăng chức; chương trình khuyến mãi",
+      "definition": "a move to a more important job; an activity to help sell a product",
+      "collocations": ["get a promotion", "be promoted to", "a well-deserved promotion", "a special promotion"],
+      "examples": [
+        {"en": "Congratulations on your *promotion*!", "vi": "Chúc mừng bạn được thăng chức!", "context": "chúc mừng"},
+        {"en": "She was *promoted* to team leader.", "vi": "Cô ấy được thăng lên trưởng nhóm.", "context": "kể chuyện"}
+      ],
+      "note": "Động từ ở bị động: *be promoted to + chức vụ*. *Congratulations ON…* (không dùng for).",
+      "mistake": {"wrong": "Congratulations for your promotion!", "right": "Congratulations on your promotion!", "explain": "Congratulations ON something."}
+    },
+    {
+      "id": "wk_overtime", "word": "overtime", "pos": "noun / adverb", "ipa": "/ˈoʊvərtaɪm/", "level": "B1",
+      "meaning": "làm thêm giờ, giờ làm thêm",
+      "definition": "time you work after your normal hours",
+      "collocations": ["work overtime", "overtime pay", "do overtime", "unpaid overtime"],
+      "examples": [
+        {"en": "I had to work *overtime* every day last week.", "vi": "Tuần trước ngày nào tôi cũng phải làm thêm giờ.", "context": "than phiền"},
+        {"en": "Do you get paid for *overtime*?", "vi": "Làm thêm giờ có được trả tiền không?", "context": "hỏi thông tin"}
+      ],
+      "note": "*work overtime* (không có the). Nói về làm việc muộn: *work late*.",
+      "synonyms": ["extra hours"]
+    },
+    {
+      "id": "wk_day_off", "word": "day off", "pos": "noun phrase", "ipa": "/ˌdeɪ ˈɔːf/", "level": "A2",
+      "meaning": "ngày nghỉ",
+      "definition": "a day when you do not have to work",
+      "collocations": ["take a day off", "have a day off", "my day off", "a few days off"],
+      "examples": [
+        {"en": "I'm taking a *day off* on Friday to visit my parents.", "vi": "Thứ Sáu tôi nghỉ một ngày để về thăm bố mẹ.", "context": "kể chuyện"},
+        {"en": "What do you usually do on your *day off*?", "vi": "Ngày nghỉ bạn thường làm gì?", "context": "small talk"}
+      ],
+      "note": "*take a day off* = xin nghỉ một ngày. *sick leave* = nghỉ ốm. *annual leave* = nghỉ phép năm. Số nhiều: *days off*.",
+      "mistake": {"wrong": "Tomorrow I will off.", "right": "I'm off tomorrow. / I'm taking tomorrow off.", "explain": "off không phải động từ. Dùng be off hoặc take … off."}
+    },
+    {
+      "id": "wk_attend", "word": "attend", "pos": "verb", "ipa": "/əˈtend/", "level": "B1",
+      "meaning": "tham dự, có mặt",
+      "definition": "to go to an event such as a meeting or class",
+      "collocations": ["attend a meeting", "attend a class", "attend a conference", "be well attended"],
+      "examples": [
+        {"en": "All staff must *attend* the training on Monday.", "vi": "Tất cả nhân viên phải tham dự buổi đào tạo thứ Hai.", "context": "thông báo"},
+        {"en": "Unfortunately, I won't be able to *attend* the meeting.", "vi": "Rất tiếc tôi không thể tham dự cuộc họp.", "context": "email"}
+      ],
+      "note": "attend là ngoại động từ: attend + sự kiện (KHÔNG có to/in). Trang trọng hơn *go to*.",
+      "mistake": {"wrong": "I will attend to the meeting.", "right": "I will attend the meeting.", "explain": "attend + tân ngữ trực tiếp. attend to = giải quyết, chăm sóc (nghĩa khác)."},
+      "synonyms": ["go to", "join"]
+    },
+    {
+      "id": "wk_discuss", "word": "discuss", "pos": "verb", "ipa": "/dɪˈskʌs/", "level": "A2",
+      "meaning": "thảo luận, bàn bạc",
+      "definition": "to talk about something with someone",
+      "collocations": ["discuss a problem", "discuss something with someone", "discuss in detail", "need to discuss"],
+      "examples": [
+        {"en": "Let's *discuss* this at the meeting tomorrow.", "vi": "Mai họp chúng ta bàn chuyện này nhé.", "context": "công việc"},
+        {"en": "I'd like to *discuss* my schedule with you.", "vi": "Tôi muốn trao đổi với anh về lịch làm việc.", "context": "lịch sự"}
+      ],
+      "note": "discuss + tân ngữ trực tiếp. Danh từ *discussion* thì đi với about: a discussion about…",
+      "mistake": {"wrong": "We discussed about the plan.", "right": "We discussed the plan.", "explain": "discuss không đi với about. (talk about = discuss)"},
+      "synonyms": ["talk about", "go over"]
+    },
+    {
+      "id": "wk_agree", "word": "agree", "pos": "verb", "ipa": "/əˈɡriː/", "level": "A2",
+      "meaning": "đồng ý",
+      "definition": "to have the same opinion as someone",
+      "collocations": ["agree with someone", "agree on something", "agree to do", "I totally agree"],
+      "examples": [
+        {"en": "I totally *agree* with you.", "vi": "Tôi hoàn toàn đồng ý với bạn.", "context": "thảo luận"},
+        {"en": "We *agreed* on a new deadline.", "vi": "Chúng tôi đã thống nhất hạn chót mới.", "context": "công việc"}
+      ],
+      "note": "agree WITH + người/ý kiến, agree ON + điều cùng quyết định, agree TO + V. Lưu ý: agree là động từ, không phải tính từ.",
+      "mistake": {"wrong": "I am agree with you.", "right": "I agree with you.", "explain": "agree là động từ, không dùng am phía trước."},
+      "antonyms": ["disagree"]
+    },
+    {
+      "id": "wk_suggest", "word": "suggest", "pos": "verb", "ipa": "/səˈdʒest/", "level": "B1",
+      "meaning": "đề xuất, gợi ý",
+      "definition": "to put forward an idea or plan for people to consider",
+      "collocations": ["suggest an idea", "suggest doing", "suggest that", "I'd suggest"],
+      "examples": [
+        {"en": "I *suggest* having a short break.", "vi": "Tôi đề nghị nghỉ giải lao một chút.", "context": "họp"},
+        {"en": "Can you *suggest* a good restaurant for the team dinner?", "vi": "Bạn gợi ý một nhà hàng ngon cho buổi ăn tối của nhóm được không?", "context": "nhờ vả"}
+      ],
+      "note": "suggest + V-ing hoặc suggest that + S + V. KHÔNG dùng suggest sb to do.",
+      "mistake": {"wrong": "He suggested me to take a break.", "right": "He suggested that I take a break. / He suggested taking a break.", "explain": "suggest không có cấu trúc suggest + người + to V."},
+      "synonyms": ["recommend", "propose"]
+    },
+    {
+      "id": "wk_postpone", "word": "postpone", "pos": "verb", "ipa": "/poʊstˈpoʊn/", "level": "B1",
+      "meaning": "hoãn lại",
+      "definition": "to change an event to a later time",
+      "collocations": ["postpone a meeting", "postpone until", "be postponed", "postpone doing"],
+      "examples": [
+        {"en": "Can we *postpone* the meeting until Thursday?", "vi": "Chúng ta dời cuộc họp sang thứ Năm được không?", "context": "công việc"},
+        {"en": "The event has been *postponed* due to bad weather.", "vi": "Sự kiện đã bị hoãn do thời tiết xấu.", "context": "thông báo"}
+      ],
+      "note": "Trang trọng hơn *put off*. Dời sớm hơn: *bring forward*. Dời giờ: *reschedule*. postpone + V-ing.",
+      "mistake": {"wrong": "We postponed to meet.", "right": "We postponed meeting. / We postponed the meeting.", "explain": "postpone + V-ing hoặc danh từ, không dùng to V."},
+      "synonyms": ["put off", "delay", "reschedule"], "antonyms": ["bring forward"]
+    },
+    {
+      "id": "wk_handle", "word": "handle", "pos": "verb", "ipa": "/ˈhændl/", "level": "B1",
+      "meaning": "xử lý, giải quyết, đảm đương",
+      "definition": "to deal with a situation, problem or task",
+      "collocations": ["handle a problem", "handle pressure", "handle customers", "I'll handle it"],
+      "examples": [
+        {"en": "Don't worry, I'll *handle* it.", "vi": "Đừng lo, để tôi xử lý.", "context": "thân mật"},
+        {"en": "How do you *handle* stress at work?", "vi": "Bạn đối phó với áp lực công việc thế nào?", "context": "phỏng vấn"}
+      ],
+      "note": "Câu hỏi phỏng vấn kinh điển: *How do you handle pressure?* Đồng nghĩa: *deal with*.",
+      "synonyms": ["deal with", "manage", "take care of"]
+    },
+    {
+      "id": "wk_achieve", "word": "achieve", "pos": "verb", "ipa": "/əˈtʃiːv/", "level": "B1",
+      "meaning": "đạt được",
+      "definition": "to succeed in doing something after a lot of effort",
+      "collocations": ["achieve a goal", "achieve success", "achieve results", "a sense of achievement"],
+      "examples": [
+        {"en": "We *achieved* our sales goal two weeks early.", "vi": "Chúng tôi đạt mục tiêu doanh số sớm hai tuần.", "context": "báo cáo"},
+        {"en": "What do you want to *achieve* in the next five years?", "vi": "Bạn muốn đạt được gì trong năm năm tới?", "context": "phỏng vấn"}
+      ],
+      "note": "*achievement* = thành tựu. Phỏng vấn hay hỏi: *What's your biggest achievement?*",
+      "synonyms": ["reach", "accomplish"], "antonyms": ["fail"]
+    },
+    {
+      "id": "wk_improve", "word": "improve", "pos": "verb", "ipa": "/ɪmˈpruːv/", "level": "A2",
+      "meaning": "cải thiện, tiến bộ",
+      "definition": "to make something better, or to become better",
+      "collocations": ["improve your English", "improve a lot", "need to improve", "room for improvement"],
+      "examples": [
+        {"en": "My English has *improved* a lot since I started using this app.", "vi": "Tiếng Anh của tôi tiến bộ nhiều từ khi dùng app này.", "context": "kể chuyện"},
+        {"en": "How can we *improve* our customer service?", "vi": "Làm sao để cải thiện dịch vụ khách hàng?", "context": "họp"}
+      ],
+      "note": "Vừa là nội động từ (My English improved) vừa là ngoại động từ (I improved my English). *room for improvement* = còn chỗ để cải thiện.",
+      "mistake": {"wrong": "I want to improve my English better.", "right": "I want to improve my English.", "explain": "improve đã có nghĩa làm tốt hơn, không cần thêm better."},
+      "synonyms": ["get better", "develop"], "antonyms": ["get worse"]
+    },
+    {
+      "id": "wk_efficient", "word": "efficient", "pos": "adjective", "ipa": "/ɪˈfɪʃnt/", "level": "B1",
+      "meaning": "hiệu quả, năng suất (không lãng phí)",
+      "definition": "working well without wasting time or energy",
+      "collocations": ["more efficient", "an efficient way", "energy-efficient", "work efficiently"],
+      "examples": [
+        {"en": "Using templates makes our work much more *efficient*.", "vi": "Dùng mẫu có sẵn giúp công việc hiệu quả hơn nhiều.", "context": "công việc"},
+        {"en": "She's very *efficient*. She finishes everything on time.", "vi": "Cô ấy làm việc rất năng suất. Việc gì cũng xong đúng hạn.", "context": "khen"}
+      ],
+      "note": "*efficient* = làm nhanh, ít lãng phí. *effective* = mang lại kết quả mong muốn. Một cách làm có thể effective mà không efficient.",
+      "mistake": {"wrong": "This medicine is very efficient.", "right": "This medicine is very effective.", "explain": "Có tác dụng, đem lại kết quả → effective. Nhanh gọn, ít lãng phí → efficient."},
+      "synonyms": ["productive"], "antonyms": ["inefficient"]
+    },
+    {
+      "id": "wk_workload", "word": "workload", "pos": "noun", "ipa": "/ˈwɜːrkloʊd/", "level": "B2",
+      "meaning": "khối lượng công việc",
+      "definition": "the amount of work a person has to do",
+      "collocations": ["a heavy workload", "manage your workload", "reduce the workload", "workload is too much"],
+      "examples": [
+        {"en": "My *workload* is really heavy this month.", "vi": "Tháng này khối lượng công việc của tôi rất nặng.", "context": "than phiền"},
+        {"en": "Can we share the *workload* more fairly?", "vi": "Chúng ta có thể chia việc công bằng hơn không?", "context": "đề xuất"}
+      ],
+      "note": "Đi với *heavy / light* (không dùng big/small). Thân mật: *I'm swamped* = tôi ngập việc.",
+      "synonyms": ["amount of work"]
+    },
+    {
+      "id": "wk_remote", "word": "remote", "pos": "adjective", "ipa": "/rɪˈmoʊt/", "level": "B1",
+      "meaning": "từ xa; xa xôi, hẻo lánh",
+      "definition": "working from home or another place, not in the office; far away",
+      "collocations": ["remote work", "work remotely", "a remote job", "a remote village"],
+      "examples": [
+        {"en": "I work *remotely* three days a week.", "vi": "Tôi làm từ xa ba ngày một tuần.", "context": "giới thiệu"},
+        {"en": "Is this a *remote* position or do I need to come to the office?", "vi": "Vị trí này làm từ xa hay phải lên văn phòng?", "context": "phỏng vấn"}
+      ],
+      "note": "*work from home (WFH)*, *work remotely*, *hybrid* (kết hợp văn phòng và ở nhà). *remote control* = điều khiển từ xa.",
+      "synonyms": ["work from home", "distant"]
+    },
+    {
+      "id": "wk_feedback", "word": "feedback", "pos": "noun", "ipa": "/ˈfiːdbæk/", "level": "B1",
+      "meaning": "phản hồi, góp ý",
+      "definition": "comments about how well someone has done something",
+      "collocations": ["give feedback", "get feedback", "positive feedback", "feedback on"],
+      "examples": [
+        {"en": "Could you give me some *feedback* on my presentation?", "vi": "Bạn góp ý giúp tôi về bài thuyết trình được không?", "context": "nhờ vả"},
+        {"en": "We got a lot of positive *feedback* from customers.", "vi": "Chúng tôi nhận được rất nhiều phản hồi tích cực từ khách hàng.", "context": "báo cáo"}
+      ],
+      "note": "Không đếm được: *some feedback, a lot of feedback* (không có feedbacks). Giới từ: feedback ON something.",
+      "mistake": {"wrong": "Thank you for your feedbacks.", "right": "Thank you for your feedback.", "explain": "feedback không đếm được, không thêm -s."},
+      "synonyms": ["comments", "opinion"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Introducing yourself at work", "situation_vi": "Giới thiệu bản thân ở chỗ làm mới",
+      "formal": "Good morning, everyone. My name is Huy, and I've just joined the IT department.",
+      "neutral": "Hi, I'm Huy. I'm the new developer on the team.",
+      "casual": "Hey, I'm Huy. I just started here this week.",
+      "vi": "Chào mọi người, tôi là Huy, lập trình viên mới của nhóm.",
+      "reply": "Welcome to the team! Let me know if you need anything.",
+      "note": "Thêm một câu về bản thân giúp bắt chuyện: Before this, I worked at…"
+    },
+    {
+      "situation": "Asking for help", "situation_vi": "Nhờ đồng nghiệp giúp",
+      "formal": "Would you have a moment to help me with this report?",
+      "neutral": "Do you have a minute? I need some help with this.",
+      "casual": "Got a sec? Can you take a look at this?",
+      "vi": "Bạn rảnh một chút không? Tôi cần giúp việc này.",
+      "reply": "Sure, what's up?",
+      "note": "Got a sec? = Got a second? (thân mật). What's up? = Có chuyện gì vậy?"
+    },
+    {
+      "situation": "Asking to postpone a meeting", "situation_vi": "Xin dời lịch họp",
+      "formal": "Would it be possible to reschedule our meeting to Thursday?",
+      "neutral": "Can we move our meeting to Thursday?",
+      "casual": "Can we push the meeting to Thursday?",
+      "vi": "Chúng ta dời cuộc họp sang thứ Năm được không?",
+      "reply": "Thursday works for me. How about 10 a.m.?",
+      "note": "push / move = dời (thân mật). X works for me = X tiện cho tôi."
+    },
+    {
+      "situation": "Disagreeing politely", "situation_vi": "Phản đối một cách lịch sự",
+      "formal": "I see your point, but I'm not sure that's the best approach.",
+      "neutral": "I understand, but I think there might be a better way.",
+      "casual": "Hmm, I'm not so sure about that.",
+      "vi": "Tôi hiểu ý bạn, nhưng tôi nghĩ có thể có cách tốt hơn.",
+      "reply": "Okay, what do you suggest?",
+      "note": "Người bản xứ hiếm khi nói thẳng I disagree. Họ khen/ghi nhận trước rồi mới dùng but."
+    },
+    {
+      "situation": "Asking for a day off", "situation_vi": "Xin nghỉ phép",
+      "formal": "I was wondering if I could take next Friday off for a family matter.",
+      "neutral": "Would it be okay if I took Friday off?",
+      "casual": "Is it cool if I take Friday off?",
+      "vi": "Tôi có thể nghỉ thứ Sáu tuần sau được không?",
+      "reply": "That should be fine. Just let the team know.",
+      "note": "I was wondering if… là cách mở đầu lời xin phép rất lịch sự."
+    },
+    {
+      "situation": "Giving a status update", "situation_vi": "Báo cáo tiến độ",
+      "formal": "The project is on schedule, and we expect to finish by the end of the month.",
+      "neutral": "We're on track. It should be done by the end of the month.",
+      "casual": "All good. Should be done by the end of the month.",
+      "vi": "Dự án đúng tiến độ, dự kiến xong vào cuối tháng.",
+      "reply": "Great, thanks for the update.",
+      "note": "on track / on schedule = đúng tiến độ. behind schedule = chậm tiến độ."
+    },
+    {
+      "situation": "Answering: Tell me about yourself", "situation_vi": "Phỏng vấn: Giới thiệu bản thân",
+      "formal": "I have three years of experience in software development, and I'm particularly interested in mobile apps.",
+      "neutral": "I'm a developer with three years of experience. I mostly work on mobile apps.",
+      "casual": "",
+      "vi": "Tôi là lập trình viên với 3 năm kinh nghiệm, chủ yếu làm ứng dụng di động.",
+      "reply": "Interesting. What made you apply for this position?",
+      "note": "Công thức: hiện tại (đang làm gì), quá khứ (kinh nghiệm), tương lai (vì sao muốn vị trí này). Phỏng vấn không dùng giọng thân mật."
+    },
+    {
+      "situation": "Ending a conversation", "situation_vi": "Kết thúc cuộc trò chuyện",
+      "formal": "It was a pleasure talking to you. I'll follow up by email.",
+      "neutral": "Great talking to you. I'll send you an email later.",
+      "casual": "Cool, catch you later!",
+      "vi": "Rất vui được nói chuyện với bạn. Lát nữa tôi sẽ gửi email.",
+      "reply": "Sounds good. Have a nice day!",
+      "note": "follow up = liên hệ tiếp sau đó. Catch you later = Gặp sau nhé (thân mật)."
+    }
+  ]
+}

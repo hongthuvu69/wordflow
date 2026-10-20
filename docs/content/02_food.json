@@ -1,0 +1,453 @@
+{
+  "id": "food",
+  "order": 2,
+  "icon": "🍜",
+  "level": "A2",
+  "title": "Food & Restaurants",
+  "title_vi": "Ăn uống & Nhà hàng",
+  "description": "Gọi món, nói về hương vị, nấu ăn, thanh toán và góp ý ở nhà hàng.",
+  "words": [
+    {
+      "id": "fd_menu", "word": "menu", "pos": "noun", "ipa": "/ˈmenjuː/", "level": "A1",
+      "meaning": "thực đơn",
+      "definition": "a list of the food and drinks you can order in a restaurant",
+      "collocations": ["look at the menu", "on the menu", "the lunch menu", "Could I see the menu?"],
+      "examples": [
+        {"en": "Could we see the *menu*, please?", "vi": "Cho chúng tôi xem thực đơn được không?", "context": "nhà hàng"},
+        {"en": "Is there anything vegetarian on the *menu*?", "vi": "Trong thực đơn có món chay không?", "context": "nhà hàng"}
+      ],
+      "note": "Món có trong thực đơn: *on the menu* (không dùng in).",
+      "mistake": {"wrong": "What's in the menu today?", "right": "What's on the menu today?", "explain": "Thực đơn đi với giới từ ON."}
+    },
+    {
+      "id": "fd_order", "word": "order", "pos": "verb / noun", "ipa": "/ˈɔːrdər/", "level": "A2",
+      "meaning": "gọi món, đặt hàng; món đã gọi",
+      "definition": "to ask for food or drinks in a restaurant; the food you asked for",
+      "collocations": ["order food", "take someone's order", "Are you ready to order?", "order online"],
+      "examples": [
+        {"en": "Are you ready to *order*?", "vi": "Anh chị gọi món chưa ạ?", "context": "phục vụ nói"},
+        {"en": "Excuse me, this isn't what I *ordered*.", "vi": "Xin lỗi, đây không phải món tôi gọi.", "context": "phàn nàn"}
+      ],
+      "note": "Phục vụ hỏi *Can I take your order?*. Bạn trả lời *I'll have…* hoặc *I'd like…*",
+      "mistake": {"wrong": "I want order a pizza.", "right": "I'd like to order a pizza.", "explain": "want/would like + TO + V. Dùng I'd like lịch sự hơn I want."},
+      "synonyms": ["ask for", "get (thân mật)"]
+    },
+    {
+      "id": "fd_dish", "word": "dish", "pos": "noun", "ipa": "/dɪʃ/", "level": "A2",
+      "meaning": "món ăn; cái đĩa",
+      "definition": "food prepared in a particular way; a plate or bowl",
+      "collocations": ["a traditional dish", "main dish", "side dish", "do the dishes"],
+      "examples": [
+        {"en": "Pho is the most famous Vietnamese *dish*.", "vi": "Phở là món ăn Việt Nam nổi tiếng nhất.", "context": "giới thiệu"},
+        {"en": "What's your favorite *dish* here?", "vi": "Món bạn thích nhất ở đây là gì?", "context": "nói chuyện"}
+      ],
+      "note": "*do the dishes* = rửa bát. *main dish* = món chính, *side dish* = món ăn kèm.",
+      "mistake": {"wrong": "Vietnam has many delicious foods.", "right": "Vietnam has many delicious dishes.", "explain": "food thường không đếm được; muốn nói nhiều món thì dùng dishes."},
+      "synonyms": ["meal", "food"]
+    },
+    {
+      "id": "fd_delicious", "word": "delicious", "pos": "adjective", "ipa": "/dɪˈlɪʃəs/", "level": "A2",
+      "meaning": "ngon",
+      "definition": "having a very pleasant taste",
+      "collocations": ["absolutely delicious", "smell delicious", "a delicious meal", "look delicious"],
+      "examples": [
+        {"en": "This soup is absolutely *delicious*!", "vi": "Món súp này ngon tuyệt!", "context": "khen"},
+        {"en": "Something smells *delicious*. What are you cooking?", "vi": "Thơm quá. Bạn đang nấu gì vậy?", "context": "thân mật"}
+      ],
+      "note": "delicious đã là *rất ngon* nên không dùng *very delicious*. Dùng *absolutely/really delicious*. Thân mật: *yummy*, *so good*.",
+      "mistake": {"wrong": "The food is very delicious.", "right": "The food is really / absolutely delicious.", "explain": "Tính từ mạnh (delicious, amazing, terrible) không đi với very."},
+      "synonyms": ["tasty", "yummy (thân mật)"], "antonyms": ["disgusting", "tasteless"]
+    },
+    {
+      "id": "fd_spicy", "word": "spicy", "pos": "adjective", "ipa": "/ˈspaɪsi/", "level": "A2",
+      "meaning": "cay",
+      "definition": "having a strong, hot taste from spices or chili",
+      "collocations": ["too spicy", "spicy food", "a little spicy", "not spicy, please"],
+      "examples": [
+        {"en": "Is this dish *spicy*? I can't eat very *spicy* food.", "vi": "Món này cay không? Tôi không ăn được đồ quá cay.", "context": "nhà hàng"},
+        {"en": "Can you make it less *spicy*, please?", "vi": "Làm ít cay giúp tôi được không?", "context": "yêu cầu"}
+      ],
+      "note": "*hot* cũng có nghĩa cay nhưng dễ nhầm với nóng. Muốn rõ ràng dùng *spicy*.",
+      "synonyms": ["hot"], "antonyms": ["mild"]
+    },
+    {
+      "id": "fd_taste", "word": "taste", "pos": "verb / noun", "ipa": "/teɪst/", "level": "A2",
+      "meaning": "có vị; nếm; vị",
+      "definition": "to have a particular flavor; to try food; the flavor of something",
+      "collocations": ["taste good", "taste like", "have a taste", "a strange taste"],
+      "examples": [
+        {"en": "This cake *tastes* amazing!", "vi": "Bánh này ngon tuyệt!", "context": "khen"},
+        {"en": "Here, have a *taste*. Is it too salty?", "vi": "Đây, nếm thử đi. Có mặn quá không?", "context": "thân mật"}
+      ],
+      "note": "taste + TÍNH TỪ (tastes good), không dùng trạng từ. taste LIKE + danh từ (tastes like chicken).",
+      "mistake": {"wrong": "It tastes well.", "right": "It tastes good.", "explain": "taste, smell, look, sound + tính từ (good), không phải trạng từ (well)."},
+      "synonyms": ["flavor", "try"]
+    },
+    {
+      "id": "fd_recipe", "word": "recipe", "pos": "noun", "ipa": "/ˈresəpi/", "level": "B1",
+      "meaning": "công thức nấu ăn",
+      "definition": "a set of instructions for cooking a dish",
+      "collocations": ["follow a recipe", "a recipe for", "a family recipe", "share a recipe"],
+      "examples": [
+        {"en": "This is my grandmother's *recipe* for spring rolls.", "vi": "Đây là công thức nem rán của bà tôi.", "context": "kể chuyện"},
+        {"en": "Can you send me the *recipe*?", "vi": "Gửi mình công thức được không?", "context": "nhờ vả"}
+      ],
+      "note": "Phát âm 3 âm tiết: RE-ci-pe /ˈresəpi/, không đọc *ri-xíp*. Cũng dùng nghĩa bóng: *a recipe for disaster* = công thức dẫn tới thảm họa.",
+      "mistake": {"wrong": "the receipt for this cake", "right": "the recipe for this cake", "explain": "receipt = hóa đơn; recipe = công thức nấu ăn. Hai từ dễ nhầm."}
+    },
+    {
+      "id": "fd_ingredient", "word": "ingredient", "pos": "noun", "ipa": "/ɪnˈɡriːdiənt/", "level": "B1",
+      "meaning": "nguyên liệu (nấu ăn)",
+      "definition": "one of the foods used to make a dish",
+      "collocations": ["fresh ingredients", "main ingredient", "simple ingredients", "list of ingredients"],
+      "examples": [
+        {"en": "The main *ingredient* in this soup is pumpkin.", "vi": "Nguyên liệu chính của món súp này là bí đỏ.", "context": "giải thích"},
+        {"en": "We only use fresh, local *ingredients*.", "vi": "Chúng tôi chỉ dùng nguyên liệu tươi, địa phương.", "context": "quảng cáo"}
+      ],
+      "note": "Cũng dùng nghĩa bóng: *the key ingredient of success* = yếu tố then chốt của thành công.",
+      "synonyms": ["component"]
+    },
+    {
+      "id": "fd_meal", "word": "meal", "pos": "noun", "ipa": "/miːl/", "level": "A2",
+      "meaning": "bữa ăn",
+      "definition": "the food eaten at one time, such as breakfast, lunch or dinner",
+      "collocations": ["have a meal", "a light meal", "skip a meal", "a home-cooked meal"],
+      "examples": [
+        {"en": "Breakfast is the most important *meal* of the day.", "vi": "Bữa sáng là bữa quan trọng nhất trong ngày.", "context": "lời khuyên"},
+        {"en": "Let's have a *meal* together sometime.", "vi": "Hôm nào mình đi ăn với nhau nhé.", "context": "thân mật"}
+      ],
+      "note": "*skip a meal* = bỏ bữa. *have* dùng phổ biến hơn *eat* khi nói về bữa ăn: have breakfast/lunch/dinner.",
+      "mistake": {"wrong": "I eat the breakfast at 7.", "right": "I have breakfast at 7.", "explain": "Không dùng THE trước tên bữa ăn; dùng have tự nhiên hơn eat."}
+    },
+    {
+      "id": "fd_snack", "word": "snack", "pos": "noun / verb", "ipa": "/snæk/", "level": "A2",
+      "meaning": "đồ ăn vặt, bữa phụ; ăn vặt",
+      "definition": "a small amount of food eaten between meals",
+      "collocations": ["have a snack", "a quick snack", "healthy snacks", "snack on"],
+      "examples": [
+        {"en": "I usually have a small *snack* at around 3 p.m.", "vi": "Tôi thường ăn nhẹ lúc khoảng 3 giờ chiều.", "context": "kể chuyện"},
+        {"en": "I try to *snack* on fruit instead of chips.", "vi": "Tôi cố ăn vặt bằng trái cây thay vì khoai tây chiên.", "context": "sức khỏe"}
+      ],
+      "note": "*snack on something* = ăn vặt món gì.",
+      "synonyms": ["bite (thân mật)"]
+    },
+    {
+      "id": "fd_vegetarian", "word": "vegetarian", "pos": "noun / adjective", "ipa": "/ˌvedʒəˈteriən/", "level": "B1",
+      "meaning": "người ăn chay; chay",
+      "definition": "a person who does not eat meat or fish; without meat",
+      "collocations": ["vegetarian food", "a vegetarian restaurant", "become a vegetarian", "vegetarian options"],
+      "examples": [
+        {"en": "I'm *vegetarian*. Do you have any dishes without meat?", "vi": "Tôi ăn chay. Ở đây có món nào không có thịt không?", "context": "nhà hàng"},
+        {"en": "This restaurant has a lot of *vegetarian* options.", "vi": "Nhà hàng này có nhiều lựa chọn món chay.", "context": "giới thiệu"}
+      ],
+      "note": "*vegan* = thuần chay (không cả trứng, sữa). Người bản xứ hay nói *veggie* cho thân mật."
+    },
+    {
+      "id": "fd_bill", "word": "bill", "pos": "noun", "ipa": "/bɪl/", "level": "A2",
+      "meaning": "hóa đơn (tính tiền)",
+      "definition": "a piece of paper that shows how much you have to pay",
+      "collocations": ["ask for the bill", "pay the bill", "split the bill", "the electricity bill"],
+      "examples": [
+        {"en": "Could we have the *bill*, please?", "vi": "Cho chúng tôi tính tiền nhé.", "context": "nhà hàng"},
+        {"en": "Let's split the *bill*.", "vi": "Mình chia tiền nhé.", "context": "thân mật"}
+      ],
+      "note": "Ở Mỹ nhà hàng hay dùng *check*: *Can I get the check?* Anh-Anh dùng *bill*. *split the bill* = chia đều tiền.",
+      "synonyms": ["check (Mỹ)"]
+    },
+    {
+      "id": "fd_tip", "word": "tip", "pos": "noun / verb", "ipa": "/tɪp/", "level": "B1",
+      "meaning": "tiền boa; mẹo",
+      "definition": "extra money you give for good service; a useful piece of advice",
+      "collocations": ["leave a tip", "a 10% tip", "give someone a tip", "useful tips"],
+      "examples": [
+        {"en": "In the US, people usually leave a 15–20% *tip*.", "vi": "Ở Mỹ người ta thường để lại 15–20% tiền boa.", "context": "văn hóa"},
+        {"en": "Here's a *tip*: learn ten words a day.", "vi": "Mẹo nè: mỗi ngày học mười từ.", "context": "lời khuyên"}
+      ],
+      "note": "Hai nghĩa đều rất phổ biến: tiền boa và mẹo.",
+      "synonyms": ["gratuity (trang trọng)", "advice"]
+    },
+    {
+      "id": "fd_waiter", "word": "waiter", "pos": "noun", "ipa": "/ˈweɪtər/", "level": "A1",
+      "meaning": "bồi bàn, nhân viên phục vụ",
+      "definition": "a person who serves food and drinks in a restaurant",
+      "collocations": ["call the waiter", "ask the waiter", "a friendly waiter", "work as a waiter"],
+      "examples": [
+        {"en": "The *waiter* recommended the grilled fish.", "vi": "Anh phục vụ gợi ý món cá nướng.", "context": "kể chuyện"},
+        {"en": "I worked as a *waiter* when I was a student.", "vi": "Hồi sinh viên tôi làm phục vụ bàn.", "context": "kể chuyện"}
+      ],
+      "note": "Nữ: *waitress*. Ngày nay hay dùng *server* (trung tính). Gọi phục vụ thì nói *Excuse me!*, không gọi *Waiter!*",
+      "mistake": {"wrong": "Waiter! Come here!", "right": "Excuse me! Could we have some water, please?", "explain": "Gọi Waiter! hay Come here! nghe thô lỗ. Dùng Excuse me + yêu cầu lịch sự."},
+      "synonyms": ["server"]
+    },
+    {
+      "id": "fd_takeout", "word": "takeout", "pos": "noun", "ipa": "/ˈteɪkaʊt/", "level": "B1",
+      "meaning": "đồ ăn mang đi",
+      "definition": "food you buy at a restaurant to eat somewhere else",
+      "collocations": ["order takeout", "get takeout", "takeout food", "for here or to go?"],
+      "examples": [
+        {"en": "I'm too tired to cook. Let's get *takeout*.", "vi": "Mệt quá không nấu được. Mua đồ về ăn đi.", "context": "thân mật"},
+        {"en": "Is this for here or to go? – To go, please.", "vi": "Ăn tại đây hay mang đi ạ? – Mang đi.", "context": "quán ăn"}
+      ],
+      "note": "Mỹ: *takeout*. Anh: *takeaway*. Ở quầy, nhân viên hỏi *For here or to go?*",
+      "synonyms": ["takeaway (Anh)", "to go"]
+    },
+    {
+      "id": "fd_fresh", "word": "fresh", "pos": "adjective", "ipa": "/freʃ/", "level": "A2",
+      "meaning": "tươi; mới",
+      "definition": "recently made, picked or caught; not old",
+      "collocations": ["fresh vegetables", "fresh air", "freshly made", "fresh fruit juice"],
+      "examples": [
+        {"en": "The fish here is really *fresh*. It was caught this morning.", "vi": "Cá ở đây tươi lắm. Sáng nay mới đánh bắt.", "context": "miêu tả"},
+        {"en": "Let's go outside and get some *fresh* air.", "vi": "Ra ngoài hít thở không khí trong lành đi.", "context": "thân mật"}
+      ],
+      "note": "*fresh air* = không khí trong lành. *freshly baked bread* = bánh mì mới nướng.",
+      "antonyms": ["stale", "frozen", "rotten"]
+    },
+    {
+      "id": "fd_raw", "word": "raw", "pos": "adjective", "ipa": "/rɔː/", "level": "B1",
+      "meaning": "sống (chưa nấu chín)",
+      "definition": "not cooked",
+      "collocations": ["raw fish", "raw vegetables", "eat something raw", "raw meat"],
+      "examples": [
+        {"en": "In Japan, people often eat *raw* fish.", "vi": "Ở Nhật, người ta thường ăn cá sống.", "context": "văn hóa"},
+        {"en": "This chicken is still *raw* in the middle.", "vi": "Thịt gà này ở giữa vẫn còn sống.", "context": "phàn nàn"}
+      ],
+      "note": "Thịt bò tái: *rare*. Chín vừa: *medium*. Chín kỹ: *well-done*.",
+      "antonyms": ["cooked"]
+    },
+    {
+      "id": "fd_boil", "word": "boil", "pos": "verb", "ipa": "/bɔɪl/", "level": "A2",
+      "meaning": "đun sôi, luộc",
+      "definition": "to heat liquid until it bubbles; to cook food in boiling water",
+      "collocations": ["boil water", "boiled eggs", "bring to the boil", "boiled vegetables"],
+      "examples": [
+        {"en": "*Boil* the noodles for three minutes.", "vi": "Luộc mì trong ba phút.", "context": "công thức"},
+        {"en": "I'd like two *boiled* eggs, please.", "vi": "Cho tôi hai quả trứng luộc.", "context": "gọi món"}
+      ],
+      "note": "Các cách nấu: boil (luộc), fry (chiên), grill (nướng vỉ), bake (nướng lò), steam (hấp), stir-fry (xào).",
+      "synonyms": ["cook in water"]
+    },
+    {
+      "id": "fd_fry", "word": "fry", "pos": "verb", "ipa": "/fraɪ/", "level": "A2",
+      "meaning": "chiên, rán",
+      "definition": "to cook food in hot oil",
+      "collocations": ["fried rice", "deep-fried", "stir-fry", "fry an egg"],
+      "examples": [
+        {"en": "I'll have the *fried* rice with chicken.", "vi": "Cho tôi cơm chiên gà.", "context": "gọi món"},
+        {"en": "Don't eat too much *fried* food. It's not good for you.", "vi": "Đừng ăn nhiều đồ chiên quá, không tốt đâu.", "context": "lời khuyên"}
+      ],
+      "note": "*stir-fry* = xào. *deep-fry* = chiên ngập dầu. Món: fried rice, fried chicken, French fries.",
+      "synonyms": ["sauté (xào nhanh)"]
+    },
+    {
+      "id": "fd_bake", "word": "bake", "pos": "verb", "ipa": "/beɪk/", "level": "A2",
+      "meaning": "nướng (bằng lò)",
+      "definition": "to cook food in an oven",
+      "collocations": ["bake a cake", "bake bread", "freshly baked", "baked potatoes"],
+      "examples": [
+        {"en": "My sister loves to *bake* cakes on weekends.", "vi": "Chị tôi thích nướng bánh vào cuối tuần.", "context": "kể chuyện"},
+        {"en": "Nothing smells better than freshly *baked* bread.", "vi": "Không gì thơm bằng bánh mì mới nướng.", "context": "miêu tả"}
+      ],
+      "note": "*bake* = nướng trong lò (bánh). *grill / barbecue* = nướng trên lửa, vỉ (thịt). *roast* = quay, nướng thịt lớn trong lò.",
+      "mistake": {"wrong": "I like baked meat on the street.", "right": "I like grilled meat on the street.", "explain": "Thịt nướng than ngoài đường là grilled hoặc barbecued, không phải baked."},
+      "synonyms": ["roast", "grill"]
+    },
+    {
+      "id": "fd_portion", "word": "portion", "pos": "noun", "ipa": "/ˈpɔːrʃn/", "level": "B1",
+      "meaning": "khẩu phần, phần ăn",
+      "definition": "the amount of food for one person",
+      "collocations": ["a large portion", "a small portion", "generous portions", "portion size"],
+      "examples": [
+        {"en": "The *portions* here are huge. Let's share one dish.", "vi": "Phần ăn ở đây to lắm. Mình ăn chung một món đi.", "context": "nhà hàng"},
+        {"en": "Can I get a smaller *portion*, please?", "vi": "Cho tôi phần nhỏ hơn được không?", "context": "yêu cầu"}
+      ],
+      "note": "*generous portions* = phần ăn đầy đặn (lời khen hay gặp trong review nhà hàng).",
+      "synonyms": ["serving", "helping"]
+    },
+    {
+      "id": "fd_starving", "word": "starving", "pos": "adjective", "ipa": "/ˈstɑːrvɪŋ/", "level": "B1",
+      "meaning": "đói lả, đói cồn cào (thân mật)",
+      "definition": "very hungry (informal)",
+      "collocations": ["I'm starving!", "absolutely starving", "starving after work"],
+      "examples": [
+        {"en": "I'm *starving*! I haven't eaten since breakfast.", "vi": "Đói quá! Từ sáng tới giờ tôi chưa ăn gì.", "context": "thân mật"},
+        {"en": "Let's eat. The kids are *starving*.", "vi": "Ăn thôi. Bọn trẻ đói lắm rồi.", "context": "gia đình"}
+      ],
+      "note": "Thang mức độ: a bit hungry → hungry → really hungry → starving. Đây là cách nói phóng đại, không có nghĩa là chết đói thật.",
+      "mistake": {"wrong": "I'm very starving.", "right": "I'm starving. / I'm absolutely starving.", "explain": "starving đã là rất đói, không đi với very."},
+      "synonyms": ["really hungry"], "antonyms": ["full", "stuffed"]
+    },
+    {
+      "id": "fd_full", "word": "full", "pos": "adjective", "ipa": "/fʊl/", "level": "A1",
+      "meaning": "no (bụng); đầy",
+      "definition": "having eaten enough; containing as much as possible",
+      "collocations": ["I'm full", "too full", "full of", "a full glass"],
+      "examples": [
+        {"en": "No more for me, thanks. I'm *full*.", "vi": "Tôi không ăn thêm nữa đâu, cảm ơn. Tôi no rồi.", "context": "lịch sự"},
+        {"en": "The restaurant was *full*, so we went somewhere else.", "vi": "Nhà hàng kín chỗ nên chúng tôi đi chỗ khác.", "context": "kể chuyện"}
+      ],
+      "note": "Từ chối thêm đồ ăn lịch sự: *I couldn't eat another bite!* hoặc *I'm full, thank you.* Thân mật: *I'm stuffed.*",
+      "synonyms": ["stuffed (thân mật)"], "antonyms": ["hungry", "empty"]
+    },
+    {
+      "id": "fd_allergic", "word": "allergic", "pos": "adjective", "ipa": "/əˈlɜːrdʒɪk/", "level": "B1",
+      "meaning": "bị dị ứng",
+      "definition": "having a bad physical reaction to something you eat, touch or breathe",
+      "collocations": ["allergic to", "an allergic reaction", "seriously allergic"],
+      "examples": [
+        {"en": "I'm *allergic* to peanuts. Does this dish have any nuts?", "vi": "Tôi dị ứng đậu phộng. Món này có hạt không?", "context": "nhà hàng"},
+        {"en": "She had an *allergic* reaction to the seafood.", "vi": "Cô ấy bị phản ứng dị ứng với hải sản.", "context": "sức khỏe"}
+      ],
+      "note": "Cấu trúc: allergic TO something. Danh từ: *allergy* (I have a peanut allergy).",
+      "mistake": {"wrong": "I'm allergic with shrimp.", "right": "I'm allergic to shrimp.", "explain": "Luôn dùng giới từ TO sau allergic."}
+    },
+    {
+      "id": "fd_dessert", "word": "dessert", "pos": "noun", "ipa": "/dɪˈzɜːrt/", "level": "A2",
+      "meaning": "món tráng miệng",
+      "definition": "sweet food eaten at the end of a meal",
+      "collocations": ["for dessert", "dessert menu", "skip dessert", "room for dessert"],
+      "examples": [
+        {"en": "What would you like for *dessert*?", "vi": "Bạn muốn ăn tráng miệng món gì?", "context": "nhà hàng"},
+        {"en": "I'm full, but there's always room for *dessert*!", "vi": "No rồi, nhưng lúc nào cũng còn chỗ cho món tráng miệng!", "context": "đùa"}
+      ],
+      "note": "Phát âm: de-ZERT (nhấn âm 2). *desert* /ˈdezərt/ = sa mạc (nhấn âm 1). Mẹo: dessert có 2 chữ s vì bạn muốn ăn 2 lần!",
+      "mistake": {"wrong": "We had ice cream for desert.", "right": "We had ice cream for dessert.", "explain": "desert (1 s) = sa mạc. dessert (2 s) = tráng miệng."},
+      "synonyms": ["sweet (Anh-Anh)"]
+    },
+    {
+      "id": "fd_thirsty", "word": "thirsty", "pos": "adjective", "ipa": "/ˈθɜːrsti/", "level": "A1",
+      "meaning": "khát",
+      "definition": "needing to drink something",
+      "collocations": ["feel thirsty", "really thirsty", "thirsty after running"],
+      "examples": [
+        {"en": "I'm so *thirsty*. Can I have some water?", "vi": "Khát quá. Cho tôi xin ít nước được không?", "context": "thân mật"},
+        {"en": "Salty food makes you *thirsty*.", "vi": "Đồ ăn mặn làm bạn khát nước.", "context": "giải thích"}
+      ],
+      "note": "Chú ý âm /θ/ (đặt lưỡi giữa hai hàm răng). Nói sai thành *first-y* là lỗi phổ biến.",
+      "mistake": {"wrong": "I'm thirsty of water.", "right": "I'm thirsty. / I need some water.", "explain": "thirsty đứng một mình là đủ, không cần thêm of water."}
+    },
+    {
+      "id": "fd_appetizer", "word": "appetizer", "pos": "noun", "ipa": "/ˈæpɪtaɪzər/", "level": "B1",
+      "meaning": "món khai vị",
+      "definition": "a small dish eaten before the main course",
+      "collocations": ["order an appetizer", "as an appetizer", "share an appetizer"],
+      "examples": [
+        {"en": "Let's get spring rolls as an *appetizer*.", "vi": "Gọi nem cuốn làm món khai vị đi.", "context": "gọi món"},
+        {"en": "Would you like to start with an *appetizer*?", "vi": "Anh chị có muốn bắt đầu với món khai vị không?", "context": "phục vụ nói"}
+      ],
+      "note": "Mỹ: *appetizer*. Anh: *starter*. Thứ tự bữa ăn: appetizer → main course → dessert.",
+      "synonyms": ["starter (Anh)"]
+    },
+    {
+      "id": "fd_flavor", "word": "flavor", "pos": "noun", "ipa": "/ˈfleɪvər/", "level": "B1",
+      "meaning": "hương vị",
+      "definition": "the particular taste of food or drink",
+      "collocations": ["strong flavor", "full of flavor", "What flavor…?", "add flavor"],
+      "examples": [
+        {"en": "What *flavor* of ice cream do you want? – Chocolate, please.", "vi": "Bạn muốn kem vị gì? – Sô-cô-la.", "context": "quầy kem"},
+        {"en": "Fish sauce adds a lot of *flavor* to Vietnamese food.", "vi": "Nước mắm làm món Việt đậm đà hơn nhiều.", "context": "giải thích"}
+      ],
+      "note": "Anh-Anh viết *flavour*. *taste* là cảm giác chung, *flavor* là hương vị đặc trưng (vanilla flavor).",
+      "synonyms": ["taste"]
+    },
+    {
+      "id": "fd_bitter", "word": "bitter", "pos": "adjective", "ipa": "/ˈbɪtər/", "level": "B1",
+      "meaning": "đắng",
+      "definition": "having a strong, sharp taste that is not sweet",
+      "collocations": ["bitter taste", "a little bitter", "bitter coffee", "bitter melon"],
+      "examples": [
+        {"en": "Vietnamese coffee is strong and a bit *bitter*.", "vi": "Cà phê Việt Nam đậm và hơi đắng.", "context": "miêu tả"},
+        {"en": "*Bitter* melon is good for your health.", "vi": "Khổ qua tốt cho sức khỏe.", "context": "giới thiệu"}
+      ],
+      "note": "Các vị: sweet (ngọt), salty (mặn), sour (chua), bitter (đắng), spicy (cay). Nghĩa bóng: *bitter* = cay đắng, uất ức.",
+      "antonyms": ["sweet"]
+    },
+    {
+      "id": "fd_recommend", "word": "recommend", "pos": "verb", "ipa": "/ˌrekəˈmend/", "level": "A2",
+      "meaning": "giới thiệu, gợi ý, khuyên dùng",
+      "definition": "to say that something is good and someone should try it",
+      "collocations": ["What do you recommend?", "highly recommend", "recommend doing", "recommend something to someone"],
+      "examples": [
+        {"en": "What do you *recommend*? It's my first time here.", "vi": "Bạn gợi ý món gì? Đây là lần đầu tôi tới.", "context": "nhà hàng"},
+        {"en": "I highly *recommend* this place. The food is amazing.", "vi": "Tôi rất khuyên bạn tới quán này. Đồ ăn tuyệt lắm.", "context": "review"}
+      ],
+      "note": "Cấu trúc đúng: recommend + V-ing, recommend that sb do, recommend sth TO sb.",
+      "mistake": {"wrong": "I recommend you to try the pho.", "right": "I recommend trying the pho. / I recommend that you try the pho.", "explain": "recommend không đi với cấu trúc sb + to V trong văn chuẩn."},
+      "synonyms": ["suggest"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Asking for a table", "situation_vi": "Hỏi bàn khi vào nhà hàng",
+      "formal": "Good evening. Do you have a table for two, please?",
+      "neutral": "Hi, a table for two, please.",
+      "casual": "Hey, got room for two?",
+      "vi": "Chào bạn, cho tôi một bàn hai người.",
+      "reply": "Sure, right this way. / Do you have a reservation?",
+      "note": "Nếu đã đặt bàn: I have a reservation under the name Huy."
+    },
+    {
+      "situation": "Ordering food", "situation_vi": "Gọi món",
+      "formal": "I'd like the grilled salmon, please.",
+      "neutral": "I'll have the grilled salmon, please.",
+      "casual": "Can I get the grilled salmon?",
+      "vi": "Cho tôi món cá hồi nướng.",
+      "reply": "Great choice. Anything to drink?",
+      "note": "I'll have… và Can I get… là hai cách gọi món phổ biến nhất. Tránh nói I want… vì nghe cộc."
+    },
+    {
+      "situation": "Asking for a recommendation", "situation_vi": "Nhờ gợi ý món",
+      "formal": "What would you recommend for someone who's never been here before?",
+      "neutral": "What do you recommend?",
+      "casual": "What's good here?",
+      "vi": "Ở đây có món gì ngon bạn gợi ý?",
+      "reply": "Our beef noodle soup is really popular.",
+      "note": "What's good here? rất tự nhiên ở quán ăn bình dân."
+    },
+    {
+      "situation": "Special requests", "situation_vi": "Yêu cầu đặc biệt (ít cay, không hành...)",
+      "formal": "Would it be possible to have it without onions?",
+      "neutral": "Could I have it without onions, please?",
+      "casual": "No onions, please.",
+      "vi": "Làm giúp tôi không hành nhé.",
+      "reply": "Sure, no problem.",
+      "note": "Cấu trúc: without + món, extra + món (extra cheese), less + tính chất (less spicy, less sugar)."
+    },
+    {
+      "situation": "Complaining about food", "situation_vi": "Phàn nàn về món ăn",
+      "formal": "I'm sorry, but I'm afraid this steak is a little undercooked.",
+      "neutral": "Excuse me, I think this is a bit cold. Could you warm it up?",
+      "casual": "Sorry, this isn't what I ordered.",
+      "vi": "Xin lỗi, món này hơi nguội. Bạn hâm nóng lại được không?",
+      "reply": "I'm so sorry about that. I'll fix it right away.",
+      "note": "I'm afraid… và a bit / a little giúp lời phàn nàn lịch sự hơn."
+    },
+    {
+      "situation": "Asking for the bill", "situation_vi": "Gọi tính tiền",
+      "formal": "Could we have the bill, please?",
+      "neutral": "Can we get the check, please?",
+      "casual": "Check, please!",
+      "vi": "Cho chúng tôi tính tiền.",
+      "reply": "Of course. Will you be paying together or separately?",
+      "note": "paying separately = mỗi người tự trả phần mình. It's on me = để tôi trả."
+    },
+    {
+      "situation": "Offering to pay", "situation_vi": "Mời / giành trả tiền",
+      "formal": "Please, allow me to pay for this.",
+      "neutral": "Let me get this one.",
+      "casual": "It's on me!",
+      "vi": "Để tôi trả nhé.",
+      "reply": "Are you sure? Thanks! I'll get the next one.",
+      "note": "I'll get the next one = lần sau tôi trả. Một câu đáp rất tự nhiên."
+    },
+    {
+      "situation": "Complimenting the food", "situation_vi": "Khen đồ ăn",
+      "formal": "Everything was excellent. Please pass on our compliments to the chef.",
+      "neutral": "That was delicious, thank you!",
+      "casual": "Wow, that was so good!",
+      "vi": "Ngon quá, cảm ơn bạn!",
+      "reply": "I'm glad you enjoyed it!",
+      "note": "Khi được mời ăn ở nhà ai đó: This is amazing. Did you make it yourself?"
+    }
+  ]
+}

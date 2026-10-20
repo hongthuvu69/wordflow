@@ -1,0 +1,451 @@
+{
+  "id": "travel",
+  "order": 3,
+  "icon": "✈️",
+  "level": "A2",
+  "title": "Travel & Hotels",
+  "title_vi": "Du lịch & Khách sạn",
+  "description": "Sân bay, khách sạn, hỏi đường, tham quan và xử lý sự cố khi đi du lịch.",
+  "words": [
+    {
+      "id": "tr_trip", "word": "trip", "pos": "noun", "ipa": "/trɪp/", "level": "A2",
+      "meaning": "chuyến đi (ngắn, đi rồi về)",
+      "definition": "a visit to a place and back again, usually for a short time",
+      "collocations": ["go on a trip", "a business trip", "a day trip", "Have a nice trip!"],
+      "examples": [
+        {"en": "We're going on a *trip* to Da Lat next weekend.", "vi": "Cuối tuần sau chúng tôi đi Đà Lạt.", "context": "kể chuyện"},
+        {"en": "How was your *trip*?", "vi": "Chuyến đi của bạn thế nào?", "context": "small talk"}
+      ],
+      "note": "*trip* = cả chuyến đi (đi + ở + về). *journey* = quãng đường di chuyển. *travel* thường là động từ.",
+      "mistake": {"wrong": "How was your travel?", "right": "How was your trip?", "explain": "travel thường dùng như động từ hoặc danh từ chung. Hỏi về một chuyến cụ thể → trip."},
+      "synonyms": ["journey", "vacation (kỳ nghỉ)"]
+    },
+    {
+      "id": "tr_journey", "word": "journey", "pos": "noun", "ipa": "/ˈdʒɜːrni/", "level": "A2",
+      "meaning": "hành trình, quãng đường đi",
+      "definition": "the act of traveling from one place to another, especially a long distance",
+      "collocations": ["a long journey", "a train journey", "the journey home", "Safe journey!"],
+      "examples": [
+        {"en": "The *journey* from Hanoi to Sapa takes about six hours.", "vi": "Đường từ Hà Nội lên Sa Pa mất khoảng sáu tiếng.", "context": "thông tin"},
+        {"en": "Learning English is a long *journey*, not a race.", "vi": "Học tiếng Anh là một hành trình dài, không phải cuộc đua.", "context": "nghĩa bóng"}
+      ],
+      "note": "Nhấn mạnh quá trình di chuyển. Cũng dùng nghĩa bóng cho quá trình dài (my learning journey).",
+      "synonyms": ["trip", "ride (ngắn)"]
+    },
+    {
+      "id": "tr_destination", "word": "destination", "pos": "noun", "ipa": "/ˌdestɪˈneɪʃn/", "level": "B1",
+      "meaning": "điểm đến",
+      "definition": "the place where someone or something is going",
+      "collocations": ["tourist destination", "popular destination", "final destination", "reach your destination"],
+      "examples": [
+        {"en": "Hoi An is a popular tourist *destination*.", "vi": "Hội An là điểm đến du lịch nổi tiếng.", "context": "giới thiệu"},
+        {"en": "We reached our *destination* just before sunset.", "vi": "Chúng tôi đến nơi ngay trước lúc hoàng hôn.", "context": "kể chuyện"}
+      ],
+      "note": "Câu hay gặp khi đặt xe: *Please confirm your destination.* = Vui lòng xác nhận điểm đến.",
+      "antonyms": ["starting point", "origin"]
+    },
+    {
+      "id": "tr_luggage", "word": "luggage", "pos": "noun", "ipa": "/ˈlʌɡɪdʒ/", "level": "A2",
+      "meaning": "hành lý",
+      "definition": "the bags and suitcases you take when you travel",
+      "collocations": ["carry-on luggage", "check in your luggage", "a piece of luggage", "lost luggage"],
+      "examples": [
+        {"en": "How much *luggage* can I bring on the plane?", "vi": "Tôi được mang bao nhiêu hành lý lên máy bay?", "context": "sân bay"},
+        {"en": "I only have one piece of *luggage*.", "vi": "Tôi chỉ có một kiện hành lý.", "context": "sân bay"}
+      ],
+      "note": "Không đếm được! Muốn đếm: *a piece of luggage, two pieces of luggage*, hoặc dùng *bags / suitcases*.",
+      "mistake": {"wrong": "I have two luggages.", "right": "I have two bags. / I have two pieces of luggage.", "explain": "luggage (và baggage) không đếm được, không thêm -s."},
+      "synonyms": ["baggage", "bags"]
+    },
+    {
+      "id": "tr_passport", "word": "passport", "pos": "noun", "ipa": "/ˈpæspɔːrt/", "level": "A2",
+      "meaning": "hộ chiếu",
+      "definition": "an official document you need to travel to other countries",
+      "collocations": ["passport control", "renew your passport", "show your passport", "a valid passport"],
+      "examples": [
+        {"en": "May I see your *passport*, please?", "vi": "Cho tôi xem hộ chiếu của anh chị.", "context": "sân bay"},
+        {"en": "My *passport* expires next month, so I need to renew it.", "vi": "Hộ chiếu tôi tháng sau hết hạn nên phải gia hạn.", "context": "kể chuyện"}
+      ],
+      "note": "*expire* = hết hạn; *renew* = gia hạn; *valid* = còn hiệu lực.",
+      "synonyms": ["travel document"]
+    },
+    {
+      "id": "tr_boarding_pass", "word": "boarding pass", "pos": "noun", "ipa": "/ˈbɔːrdɪŋ pæs/", "level": "B1",
+      "meaning": "thẻ lên máy bay",
+      "definition": "a card you must show before you get on a plane",
+      "collocations": ["print your boarding pass", "mobile boarding pass", "show your boarding pass"],
+      "examples": [
+        {"en": "Please have your *boarding pass* and ID ready.", "vi": "Vui lòng chuẩn bị sẵn thẻ lên máy bay và giấy tờ tùy thân.", "context": "thông báo"},
+        {"en": "I saved my *boarding pass* on my phone.", "vi": "Tôi lưu thẻ lên máy bay trong điện thoại.", "context": "kể chuyện"}
+      ],
+      "note": "*board* = lên (máy bay, tàu). *Now boarding* = đang cho hành khách lên máy bay. *gate* = cửa ra máy bay."
+    },
+    {
+      "id": "tr_flight", "word": "flight", "pos": "noun", "ipa": "/flaɪt/", "level": "A2",
+      "meaning": "chuyến bay",
+      "definition": "a journey in a plane",
+      "collocations": ["book a flight", "catch a flight", "miss a flight", "a direct flight"],
+      "examples": [
+        {"en": "Our *flight* leaves at 7 a.m., so we need to be at the airport by 5.", "vi": "Chuyến bay cất cánh lúc 7h nên phải có mặt ở sân bay trước 5h.", "context": "kế hoạch"},
+        {"en": "Is it a direct *flight* or do I need to change planes?", "vi": "Đây là bay thẳng hay phải đổi máy bay?", "context": "hỏi thông tin"}
+      ],
+      "note": "*direct flight* = bay thẳng; *connecting flight* = chuyến nối; *layover* = quá cảnh. *catch / miss a flight* = kịp / lỡ chuyến bay.",
+      "mistake": {"wrong": "I lost my flight.", "right": "I missed my flight.", "explain": "Lỡ chuyến (xe, tàu, máy bay) dùng miss, không dùng lose."}
+    },
+    {
+      "id": "tr_delay", "word": "delay", "pos": "noun / verb", "ipa": "/dɪˈleɪ/", "level": "B1",
+      "meaning": "sự chậm trễ; trì hoãn, làm chậm",
+      "definition": "a situation where something happens later than planned",
+      "collocations": ["be delayed", "a two-hour delay", "without delay", "flight delay"],
+      "examples": [
+        {"en": "Our flight was *delayed* because of the storm.", "vi": "Chuyến bay của chúng tôi bị hoãn vì bão.", "context": "kể chuyện"},
+        {"en": "We apologize for the *delay*.", "vi": "Chúng tôi xin lỗi vì sự chậm trễ.", "context": "thông báo"}
+      ],
+      "note": "Thường dùng ở dạng bị động: *The flight is delayed* (chuyến bay bị trễ). *delay* = trễ nhưng vẫn đi; *cancel* = hủy hẳn.",
+      "mistake": {"wrong": "The flight delayed two hours.", "right": "The flight was delayed (by) two hours.", "explain": "Chuyến bay bị làm chậm → dùng bị động: was delayed."},
+      "synonyms": ["postpone (hoãn sang ngày khác)", "hold up"]
+    },
+    {
+      "id": "tr_cancel", "word": "cancel", "pos": "verb", "ipa": "/ˈkænsl/", "level": "A2",
+      "meaning": "hủy bỏ",
+      "definition": "to decide that something planned will not happen",
+      "collocations": ["cancel a booking", "cancel a flight", "be cancelled", "cancel at the last minute"],
+      "examples": [
+        {"en": "I need to *cancel* my hotel reservation.", "vi": "Tôi cần hủy đặt phòng khách sạn.", "context": "yêu cầu"},
+        {"en": "The concert was *cancelled* because of the rain.", "vi": "Buổi hòa nhạc bị hủy vì trời mưa.", "context": "thông báo"}
+      ],
+      "note": "Anh-Mỹ: canceled (1 l). Anh-Anh: cancelled (2 l). *cancellation* = sự hủy (cancellation fee = phí hủy).",
+      "antonyms": ["confirm", "book"]
+    },
+    {
+      "id": "tr_reservation", "word": "reservation", "pos": "noun", "ipa": "/ˌrezərˈveɪʃn/", "level": "A2",
+      "meaning": "sự đặt chỗ trước (phòng, bàn, vé)",
+      "definition": "an arrangement to have a room, table or seat kept for you",
+      "collocations": ["make a reservation", "have a reservation", "a reservation for two", "under the name"],
+      "examples": [
+        {"en": "I have a *reservation* under the name Nguyen.", "vi": "Tôi có đặt phòng dưới tên Nguyễn.", "context": "khách sạn"},
+        {"en": "Do I need to make a *reservation*, or can I just walk in?", "vi": "Tôi có cần đặt trước không, hay cứ đến là được?", "context": "hỏi thông tin"}
+      ],
+      "note": "*reservation* và *booking* gần như giống nhau. *book* (động từ) = đặt: book a room, book a table. *walk in* = đến không đặt trước.",
+      "mistake": {"wrong": "I want to make a book for tonight.", "right": "I'd like to make a reservation for tonight. / I'd like to book a table for tonight.", "explain": "book là động từ; danh từ là booking hoặc reservation."},
+      "synonyms": ["booking"]
+    },
+    {
+      "id": "tr_check_in", "word": "check in", "pos": "phrasal verb", "ipa": "/tʃek ɪn/", "level": "A2",
+      "meaning": "làm thủ tục nhận phòng / lên máy bay",
+      "definition": "to arrive and register at a hotel or airport",
+      "collocations": ["check in at the hotel", "check in online", "check-in time", "check-in counter"],
+      "examples": [
+        {"en": "Hi, I'd like to *check in*, please.", "vi": "Chào bạn, tôi muốn nhận phòng.", "context": "khách sạn"},
+        {"en": "What time can we *check in*?", "vi": "Mấy giờ chúng tôi được nhận phòng?", "context": "hỏi thông tin"}
+      ],
+      "note": "Động từ viết rời: *check in*. Danh từ/tính từ có gạch nối: *check-in* (check-in time). Nghĩa thân mật: hỏi thăm (*I'm just checking in* = tôi chỉ hỏi thăm/hỏi tiến độ).",
+      "antonyms": ["check out"]
+    },
+    {
+      "id": "tr_check_out", "word": "check out", "pos": "phrasal verb", "ipa": "/tʃek aʊt/", "level": "A2",
+      "meaning": "trả phòng; xem thử (thân mật)",
+      "definition": "to pay and leave a hotel; (informal) to look at something interesting",
+      "collocations": ["check out of the hotel", "check-out time", "late check-out", "check it out"],
+      "examples": [
+        {"en": "Check-out time is 12 noon.", "vi": "Giờ trả phòng là 12 giờ trưa.", "context": "khách sạn"},
+        {"en": "You should *check out* the night market. It's great!", "vi": "Bạn nên ghé chợ đêm. Hay lắm!", "context": "gợi ý"}
+      ],
+      "note": "Nghĩa thứ hai rất phổ biến: *Check this out!* = Xem cái này nè!",
+      "antonyms": ["check in"]
+    },
+    {
+      "id": "tr_sightseeing", "word": "sightseeing", "pos": "noun", "ipa": "/ˈsaɪtsiːɪŋ/", "level": "B1",
+      "meaning": "việc đi ngắm cảnh, tham quan",
+      "definition": "visiting interesting places as a tourist",
+      "collocations": ["go sightseeing", "a sightseeing tour", "do some sightseeing"],
+      "examples": [
+        {"en": "We spent the whole day *sightseeing* in Hue.", "vi": "Chúng tôi dành cả ngày tham quan Huế.", "context": "kể chuyện"},
+        {"en": "Let's go *sightseeing* tomorrow morning.", "vi": "Sáng mai mình đi ngắm cảnh nhé.", "context": "rủ rê"}
+      ],
+      "note": "*sights* = các thắng cảnh (see the sights). Dùng *go sightseeing* (không có to).",
+      "mistake": {"wrong": "We went to sightseeing.", "right": "We went sightseeing.", "explain": "go + V-ing chỉ hoạt động: go shopping, go swimming, go sightseeing. Không có to."}
+    },
+    {
+      "id": "tr_souvenir", "word": "souvenir", "pos": "noun", "ipa": "/ˌsuːvəˈnɪr/", "level": "B1",
+      "meaning": "quà lưu niệm",
+      "definition": "something you buy to remember a place you visited",
+      "collocations": ["buy souvenirs", "souvenir shop", "as a souvenir", "a souvenir from"],
+      "examples": [
+        {"en": "I bought this hat as a *souvenir* from Hoi An.", "vi": "Tôi mua cái nón này làm quà lưu niệm ở Hội An.", "context": "kể chuyện"},
+        {"en": "Are there any good *souvenir* shops near here?", "vi": "Gần đây có cửa hàng lưu niệm nào hay không?", "context": "hỏi đường"}
+      ],
+      "note": "Phát âm: soo-vuh-NEER (nhấn âm cuối). Quà tặng nói chung là *gift / present*."
+    },
+    {
+      "id": "tr_accommodation", "word": "accommodation", "pos": "noun", "ipa": "/əˌkɑːməˈdeɪʃn/", "level": "B1",
+      "meaning": "chỗ ở (khi đi xa)",
+      "definition": "a place to stay, such as a hotel or an apartment",
+      "collocations": ["find accommodation", "cheap accommodation", "book accommodation", "accommodation costs"],
+      "examples": [
+        {"en": "*Accommodation* in the city center is very expensive.", "vi": "Chỗ ở trung tâm thành phố rất đắt.", "context": "thông tin"},
+        {"en": "The price includes flights and *accommodation*.", "vi": "Giá đã bao gồm vé máy bay và chỗ ở.", "context": "quảng cáo tour"}
+      ],
+      "note": "Anh-Anh: không đếm được (accommodation). Anh-Mỹ hay dùng số nhiều (accommodations). Chính tả: 2 c, 2 m!",
+      "synonyms": ["place to stay", "lodging"]
+    },
+    {
+      "id": "tr_abroad", "word": "abroad", "pos": "adverb", "ipa": "/əˈbrɔːd/", "level": "A2",
+      "meaning": "ở nước ngoài, ra nước ngoài",
+      "definition": "in or to a foreign country",
+      "collocations": ["go abroad", "study abroad", "live abroad", "travel abroad"],
+      "examples": [
+        {"en": "I've never been *abroad*. I'd love to visit Japan.", "vi": "Tôi chưa từng ra nước ngoài. Tôi rất muốn đi Nhật.", "context": "kể chuyện"},
+        {"en": "Many students want to study *abroad*.", "vi": "Nhiều sinh viên muốn đi du học.", "context": "thông tin"}
+      ],
+      "note": "abroad là trạng từ nên KHÔNG dùng giới từ to/in trước nó.",
+      "mistake": {"wrong": "I want to go to abroad.", "right": "I want to go abroad.", "explain": "abroad đã bao hàm nghĩa 'tới nước ngoài', không thêm to. Tương tự: go home, go downtown."},
+      "synonyms": ["overseas"]
+    },
+    {
+      "id": "tr_tourist", "word": "tourist", "pos": "noun", "ipa": "/ˈtʊrɪst/", "level": "A2",
+      "meaning": "khách du lịch",
+      "definition": "a person who visits a place for pleasure",
+      "collocations": ["tourist attraction", "tourist trap", "foreign tourists", "tourist information"],
+      "examples": [
+        {"en": "The old town is full of *tourists* in summer.", "vi": "Phố cổ đầy khách du lịch vào mùa hè.", "context": "miêu tả"},
+        {"en": "That restaurant is a *tourist* trap. The prices are crazy.", "vi": "Nhà hàng đó chuyên chặt chém khách du lịch. Giá điên rồ luôn.", "context": "cảnh báo"}
+      ],
+      "note": "*tourist attraction* = điểm thu hút du khách. *tourist trap* = nơi chặt chém khách du lịch. *tourism* = ngành du lịch.",
+      "synonyms": ["traveler", "visitor"]
+    },
+    {
+      "id": "tr_guide", "word": "guide", "pos": "noun / verb", "ipa": "/ɡaɪd/", "level": "A2",
+      "meaning": "hướng dẫn viên; sách hướng dẫn; dẫn đường",
+      "definition": "a person who shows tourists around; a book with information; to show the way",
+      "collocations": ["tour guide", "guided tour", "travel guide", "guide someone through"],
+      "examples": [
+        {"en": "Our *guide* told us the history of the temple.", "vi": "Hướng dẫn viên kể cho chúng tôi lịch sử của ngôi chùa.", "context": "kể chuyện"},
+        {"en": "Is there a *guided* tour in English?", "vi": "Có tour có hướng dẫn bằng tiếng Anh không?", "context": "hỏi thông tin"}
+      ],
+      "note": "*guided tour* = tour có hướng dẫn viên. *guidebook* = sách hướng dẫn du lịch.",
+      "synonyms": ["tour leader", "lead"]
+    },
+    {
+      "id": "tr_map", "word": "map", "pos": "noun", "ipa": "/mæp/", "level": "A1",
+      "meaning": "bản đồ",
+      "definition": "a drawing of an area showing roads, cities, etc.",
+      "collocations": ["look at a map", "on the map", "a city map", "Google Maps"],
+      "examples": [
+        {"en": "Can you show me where we are on the *map*?", "vi": "Bạn chỉ giúp tôi chúng ta đang ở đâu trên bản đồ?", "context": "hỏi đường"},
+        {"en": "I'll send you the location on Google *Maps*.", "vi": "Tôi gửi bạn vị trí trên Google Maps nhé.", "context": "nhắn tin"}
+      ],
+      "note": "Vị trí trên bản đồ: *on the map* (không dùng in). Nghĩa bóng: *put somewhere on the map* = làm cho nơi nào đó nổi tiếng.",
+      "mistake": {"wrong": "Show me in the map.", "right": "Show me on the map.", "explain": "Bản đồ là bề mặt phẳng → giới từ ON."}
+    },
+    {
+      "id": "tr_directions", "word": "directions", "pos": "noun (plural)", "ipa": "/dəˈrekʃnz/", "level": "A2",
+      "meaning": "chỉ dẫn đường đi",
+      "definition": "instructions that tell you how to get to a place",
+      "collocations": ["ask for directions", "give directions", "follow the directions", "get directions"],
+      "examples": [
+        {"en": "Excuse me, could you give me *directions* to the train station?", "vi": "Xin lỗi, bạn chỉ giúp tôi đường tới ga tàu được không?", "context": "hỏi đường"},
+        {"en": "I got lost, so I stopped to ask for *directions*.", "vi": "Tôi bị lạc nên dừng lại hỏi đường.", "context": "kể chuyện"}
+      ],
+      "note": "Từ vựng chỉ đường: go straight, turn left/right, on the corner, next to, opposite (đối diện), at the traffic lights.",
+      "synonyms": ["the way"]
+    },
+    {
+      "id": "tr_round_trip", "word": "round trip", "pos": "noun / adjective", "ipa": "/ˌraʊnd ˈtrɪp/", "level": "B1",
+      "meaning": "khứ hồi (đi và về)",
+      "definition": "a journey to a place and back again",
+      "collocations": ["round-trip ticket", "a round trip", "one-way or round trip?"],
+      "examples": [
+        {"en": "A *round-trip* ticket is cheaper than two one-way tickets.", "vi": "Vé khứ hồi rẻ hơn hai vé một chiều.", "context": "thông tin"},
+        {"en": "One-way or *round trip*? – Round trip, please.", "vi": "Một chiều hay khứ hồi? – Khứ hồi.", "context": "mua vé"}
+      ],
+      "note": "Mỹ: *round trip / one-way*. Anh: *return / single*.",
+      "synonyms": ["return (Anh)"], "antonyms": ["one-way"]
+    },
+    {
+      "id": "tr_departure", "word": "departure", "pos": "noun", "ipa": "/dɪˈpɑːrtʃər/", "level": "B1",
+      "meaning": "sự khởi hành, chuyến đi (ở sân bay: khu Đi)",
+      "definition": "the act of leaving a place",
+      "collocations": ["departure time", "departure gate", "departures board", "before departure"],
+      "examples": [
+        {"en": "Please arrive two hours before *departure*.", "vi": "Vui lòng có mặt hai tiếng trước giờ khởi hành.", "context": "thông báo"},
+        {"en": "Check the *departures* board for your gate number.", "vi": "Xem bảng giờ đi để biết số cửa ra máy bay.", "context": "sân bay"}
+      ],
+      "note": "Động từ: *depart* (trang trọng) = leave. Biển ở sân bay: *Departures* (Đi), *Arrivals* (Đến).",
+      "antonyms": ["arrival"]
+    },
+    {
+      "id": "tr_arrival", "word": "arrival", "pos": "noun", "ipa": "/əˈraɪvl/", "level": "B1",
+      "meaning": "sự đến nơi (ở sân bay: khu Đến)",
+      "definition": "the act of reaching a place",
+      "collocations": ["on arrival", "arrival time", "arrivals hall", "late arrival"],
+      "examples": [
+        {"en": "Please pay on *arrival* at the hotel.", "vi": "Vui lòng thanh toán khi đến khách sạn.", "context": "thông báo"},
+        {"en": "I'll wait for you in the *arrivals* hall.", "vi": "Tôi sẽ đợi bạn ở sảnh đến.", "context": "hẹn đón"}
+      ],
+      "note": "Động từ *arrive*: arrive IN + thành phố/nước, arrive AT + địa điểm cụ thể. KHÔNG dùng arrive to.",
+      "mistake": {"wrong": "We arrived to Hanoi at 9 p.m.", "right": "We arrived in Hanoi at 9 p.m.", "explain": "arrive in (thành phố, quốc gia), arrive at (sân bay, khách sạn). Không dùng arrive to."},
+      "antonyms": ["departure"]
+    },
+    {
+      "id": "tr_customs", "word": "customs", "pos": "noun", "ipa": "/ˈkʌstəmz/", "level": "B1",
+      "meaning": "hải quan",
+      "definition": "the place at an airport or border where your bags are checked",
+      "collocations": ["go through customs", "customs officer", "customs declaration", "anything to declare"],
+      "examples": [
+        {"en": "It took an hour to go through *customs*.", "vi": "Mất một tiếng để qua hải quan.", "context": "kể chuyện"},
+        {"en": "Do you have anything to declare? – No, nothing.", "vi": "Anh có gì cần khai báo không? – Không có gì.", "context": "hải quan hỏi"}
+      ],
+      "note": "*customs* (luôn có s) = hải quan. *custom* (số ít) = phong tục. *immigration* = khu kiểm tra nhập cảnh.",
+      "mistake": {"wrong": "We waited at the custom.", "right": "We waited at customs.", "explain": "Hải quan luôn là customs (có s). custom = phong tục, tập quán."}
+    },
+    {
+      "id": "tr_view", "word": "view", "pos": "noun", "ipa": "/vjuː/", "level": "A2",
+      "meaning": "cảnh, tầm nhìn; quan điểm",
+      "definition": "what you can see from a place; an opinion",
+      "collocations": ["a room with a view", "a sea view", "a great view of", "in my view"],
+      "examples": [
+        {"en": "Could we have a room with a sea *view*?", "vi": "Cho chúng tôi phòng hướng biển được không?", "context": "khách sạn"},
+        {"en": "The *view* from the top of the mountain was amazing.", "vi": "Cảnh từ đỉnh núi đẹp tuyệt vời.", "context": "kể chuyện"}
+      ],
+      "note": "*a view OF something* (a view of the city). *in my view* = theo quan điểm của tôi (trang trọng).",
+      "synonyms": ["scenery", "opinion"]
+    },
+    {
+      "id": "tr_crowded", "word": "crowded", "pos": "adjective", "ipa": "/ˈkraʊdɪd/", "level": "A2",
+      "meaning": "đông đúc, chật ních",
+      "definition": "full of people",
+      "collocations": ["very crowded", "crowded with tourists", "a crowded bus", "get crowded"],
+      "examples": [
+        {"en": "The beach gets really *crowded* on weekends.", "vi": "Bãi biển rất đông vào cuối tuần.", "context": "miêu tả"},
+        {"en": "Let's go early before it gets *crowded*.", "vi": "Đi sớm trước khi đông người nhé.", "context": "gợi ý"}
+      ],
+      "note": "*crowded WITH* + người/vật. *crowd* (danh từ) = đám đông.",
+      "mistake": {"wrong": "The market was crowded of people.", "right": "The market was crowded with people.", "explain": "crowded đi với giới từ WITH (giống full OF)."},
+      "synonyms": ["busy", "packed"], "antonyms": ["empty", "quiet"]
+    },
+    {
+      "id": "tr_explore", "word": "explore", "pos": "verb", "ipa": "/ɪkˈsplɔːr/", "level": "B1",
+      "meaning": "khám phá",
+      "definition": "to travel around a place to learn about it",
+      "collocations": ["explore the city", "explore on foot", "explore new places", "time to explore"],
+      "examples": [
+        {"en": "We rented bikes to *explore* the countryside.", "vi": "Chúng tôi thuê xe đạp để khám phá vùng quê.", "context": "kể chuyện"},
+        {"en": "I love *exploring* small streets and finding local food.", "vi": "Tôi thích khám phá những con hẻm nhỏ và tìm đồ ăn địa phương.", "context": "sở thích"}
+      ],
+      "note": "*explore* là ngoại động từ: explore the city (không cần giới từ).",
+      "mistake": {"wrong": "We explored around the city.", "right": "We explored the city.", "explain": "explore + tân ngữ trực tiếp, không cần around/about."},
+      "synonyms": ["discover", "look around"]
+    },
+    {
+      "id": "tr_get_lost", "word": "get lost", "pos": "phrase", "ipa": "/ɡet lɔːst/", "level": "A2",
+      "meaning": "bị lạc (đường)",
+      "definition": "to not know where you are or how to get somewhere",
+      "collocations": ["get lost in", "got completely lost", "easy to get lost"],
+      "examples": [
+        {"en": "We *got lost* in the old town, but it was fun.", "vi": "Chúng tôi bị lạc trong phố cổ, nhưng vui lắm.", "context": "kể chuyện"},
+        {"en": "Take a map. It's easy to *get lost* here.", "vi": "Mang theo bản đồ đi. Ở đây dễ lạc lắm.", "context": "lời khuyên"}
+      ],
+      "note": "Cẩn thận: *Get lost!* nói với người khác = Cút đi! (rất thô). Khi tự nói về mình: *I'm lost / I got lost.*",
+      "mistake": {"wrong": "I lost my way. Can you lost me?", "right": "I'm lost. Can you help me?", "explain": "Bị lạc → I'm lost / I got lost. Không dùng lose với nghĩa làm người khác bị lạc."}
+    },
+    {
+      "id": "tr_pack", "word": "pack", "pos": "verb", "ipa": "/pæk/", "level": "A2",
+      "meaning": "đóng gói, xếp đồ vào vali",
+      "definition": "to put things into a bag or suitcase for a trip",
+      "collocations": ["pack your bags", "pack light", "pack for a trip", "unpack"],
+      "examples": [
+        {"en": "Have you *packed* your bags yet? We leave in an hour!", "vi": "Bạn xếp đồ xong chưa? Một tiếng nữa là đi rồi!", "context": "nhắc nhở"},
+        {"en": "I always pack light, just one small backpack.", "vi": "Tôi luôn mang ít đồ, chỉ một ba lô nhỏ.", "context": "kể chuyện"}
+      ],
+      "note": "*pack light* = mang ít đồ. *unpack* = dỡ đồ ra. *packed* (tính từ) = chật cứng người.",
+      "antonyms": ["unpack"]
+    },
+    {
+      "id": "tr_local", "word": "local", "pos": "adjective / noun", "ipa": "/ˈloʊkl/", "level": "A2",
+      "meaning": "địa phương; người dân địa phương",
+      "definition": "from or in the area where you are; a person who lives in an area",
+      "collocations": ["local food", "local people", "ask a local", "local time"],
+      "examples": [
+        {"en": "I always try the *local* food when I travel.", "vi": "Đi du lịch tôi luôn thử món địa phương.", "context": "sở thích"},
+        {"en": "Let's ask a *local*. They know the best places.", "vi": "Hỏi người địa phương đi. Họ biết chỗ ngon nhất.", "context": "gợi ý"}
+      ],
+      "note": "*a local* (danh từ) = người dân bản địa. *local time* = giờ địa phương.",
+      "synonyms": ["native", "resident"], "antonyms": ["foreign", "tourist"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Checking in at a hotel", "situation_vi": "Nhận phòng khách sạn",
+      "formal": "Good afternoon. I have a reservation under the name Nguyen.",
+      "neutral": "Hi, I'd like to check in. The name is Nguyen.",
+      "casual": "Hi, checking in. Nguyen.",
+      "vi": "Chào bạn, tôi muốn nhận phòng. Tên đặt là Nguyễn.",
+      "reply": "Welcome! Can I see your passport, please?",
+      "note": "Câu hỏi thêm hữu ích: What time is breakfast? / What's the Wi-Fi password?"
+    },
+    {
+      "situation": "Asking for directions", "situation_vi": "Hỏi đường",
+      "formal": "Excuse me, could you tell me how to get to the museum?",
+      "neutral": "Excuse me, how do I get to the museum?",
+      "casual": "Sorry, which way is the museum?",
+      "vi": "Xin lỗi, đường tới bảo tàng đi thế nào?",
+      "reply": "Go straight and turn left at the traffic lights. It's on your right.",
+      "note": "Hỏi khoảng cách: Is it far from here? / Can I walk there?"
+    },
+    {
+      "situation": "Reporting a problem in the room", "situation_vi": "Báo sự cố trong phòng",
+      "formal": "I'm sorry to bother you, but the air conditioning in my room doesn't seem to be working.",
+      "neutral": "Hi, the air conditioner in room 305 isn't working. Could someone take a look?",
+      "casual": "Hey, the AC in my room is broken.",
+      "vi": "Điều hòa phòng 305 không chạy. Có thể cho người lên xem được không?",
+      "reply": "I'm sorry about that. I'll send someone up right away.",
+      "note": "doesn't seem to be working nghe lịch sự hơn is broken."
+    },
+    {
+      "situation": "At airport check-in", "situation_vi": "Làm thủ tục ở quầy sân bay",
+      "formal": "Could I possibly have a window seat, please?",
+      "neutral": "Can I get a window seat, please?",
+      "casual": "Window seat if you've got one!",
+      "vi": "Cho tôi ghế cạnh cửa sổ được không?",
+      "reply": "Sure. Are you checking any bags today?",
+      "note": "window seat = ghế cửa sổ, aisle seat /aɪl/ = ghế lối đi (chữ s câm)."
+    },
+    {
+      "situation": "Buying a ticket", "situation_vi": "Mua vé tàu/xe",
+      "formal": "I'd like a round-trip ticket to Da Nang, please.",
+      "neutral": "One round-trip ticket to Da Nang, please.",
+      "casual": "Round trip to Da Nang, please.",
+      "vi": "Cho tôi một vé khứ hồi đi Đà Nẵng.",
+      "reply": "When would you like to come back?",
+      "note": "Hỏi giờ: What time does the next train leave? / How long does it take?"
+    },
+    {
+      "situation": "Asking someone to take a photo", "situation_vi": "Nhờ chụp ảnh",
+      "formal": "Excuse me, would you mind taking a photo of us?",
+      "neutral": "Excuse me, could you take a picture of us, please?",
+      "casual": "Hey, could you snap a quick pic of us?",
+      "vi": "Xin lỗi, bạn chụp giúp chúng tôi một tấm ảnh được không?",
+      "reply": "Sure! Say cheese!",
+      "note": "One more, please? = Chụp thêm một tấm nữa nhé?"
+    },
+    {
+      "situation": "Asking for local tips", "situation_vi": "Hỏi người địa phương gợi ý",
+      "formal": "Could you recommend any places that tourists don't usually know about?",
+      "neutral": "Where do locals like to eat around here?",
+      "casual": "Any cool spots you'd recommend?",
+      "vi": "Quanh đây người địa phương hay ăn ở đâu?",
+      "reply": "You should try the street food market near the river.",
+      "note": "spot = địa điểm (thân mật)."
+    },
+    {
+      "situation": "Flight delayed or cancelled", "situation_vi": "Chuyến bay bị trễ/hủy",
+      "formal": "My flight has been cancelled. Could you please help me rebook?",
+      "neutral": "My flight was cancelled. What are my options?",
+      "casual": "My flight got cancelled. What do I do now?",
+      "vi": "Chuyến bay của tôi bị hủy. Tôi có những lựa chọn nào?",
+      "reply": "Let me check. There's another flight at 6 p.m.",
+      "note": "rebook = đặt lại. compensation = tiền bồi thường. Am I entitled to compensation? = Tôi có được bồi thường không?"
+    }
+  ]
+}

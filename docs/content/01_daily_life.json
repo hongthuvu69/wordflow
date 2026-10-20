@@ -1,0 +1,469 @@
+{
+  "id": "daily_life",
+  "order": 1,
+  "icon": "🏠",
+  "level": "A2",
+  "title": "Daily Life",
+  "title_vi": "Cuộc sống hằng ngày",
+  "description": "Thói quen mỗi ngày, việc nhà, thời gian rảnh, bạn bè và hàng xóm.",
+  "words": [
+    {
+      "id": "dl_routine", "word": "routine", "pos": "noun", "ipa": "/ruːˈtiːn/", "level": "A2",
+      "meaning": "thói quen hằng ngày, lịch sinh hoạt cố định",
+      "definition": "the usual things you do every day, in the same order",
+      "collocations": ["daily routine", "morning routine", "a change of routine", "stick to a routine"],
+      "examples": [
+        {"en": "My morning *routine* starts with a glass of water.", "vi": "Thói quen buổi sáng của tôi bắt đầu bằng một ly nước.", "context": "kể chuyện"},
+        {"en": "It's hard to stick to a *routine* when you travel a lot.", "vi": "Khó giữ nếp sinh hoạt khi bạn đi lại nhiều.", "context": "nói chuyện"}
+      ],
+      "note": "Dùng để nói về chuỗi việc lặp lại mỗi ngày. Muốn nói một thói quen riêng lẻ (hút thuốc, cắn móng tay) thì dùng *habit*.",
+      "mistake": {"wrong": "Smoking is my bad routine.", "right": "Smoking is my bad habit.", "explain": "routine = cả lịch sinh hoạt; habit = một thói quen cụ thể (tốt hoặc xấu)."},
+      "synonyms": ["schedule", "habit (gần nghĩa)"]
+    },
+    {
+      "id": "dl_wake_up", "word": "wake up", "pos": "phrasal verb", "ipa": "/weɪk ʌp/", "level": "A1",
+      "meaning": "thức dậy (tỉnh giấc)",
+      "definition": "to stop sleeping",
+      "collocations": ["wake up early", "wake up late", "wake someone up", "wake up to the sound of"],
+      "examples": [
+        {"en": "I usually *wake up* at 6:30, but I stay in bed for ten minutes.", "vi": "Tôi thường tỉnh dậy lúc 6:30 nhưng nằm thêm 10 phút.", "context": "kể chuyện"},
+        {"en": "Can you *wake* me *up* at seven tomorrow?", "vi": "Mai bạn gọi tôi dậy lúc 7 giờ được không?", "context": "nhờ vả"}
+      ],
+      "note": "*wake up* = mở mắt tỉnh giấc. *get up* = ra khỏi giường. Bạn có thể wake up lúc 6h nhưng get up lúc 6h30.",
+      "mistake": {"wrong": "Please wake up me at 7.", "right": "Please wake me up at 7.", "explain": "Khi tân ngữ là đại từ (me, him, her…), phải đặt giữa động từ và tiểu từ: wake ME up."},
+      "synonyms": ["awake (trang trọng)"], "antonyms": ["fall asleep", "go to sleep"]
+    },
+    {
+      "id": "dl_commute", "word": "commute", "pos": "verb / noun", "ipa": "/kəˈmjuːt/", "level": "B1",
+      "meaning": "đi lại hằng ngày giữa nhà và nơi làm/học; quãng đường đi làm",
+      "definition": "to travel regularly between home and work",
+      "collocations": ["commute to work", "a long commute", "daily commute", "commute by bus"],
+      "examples": [
+        {"en": "I *commute* to work by motorbike. It takes about 30 minutes.", "vi": "Tôi đi làm bằng xe máy. Mất khoảng 30 phút.", "context": "kể chuyện"},
+        {"en": "How long is your *commute*?", "vi": "Bạn đi làm mất bao lâu?", "context": "small talk"}
+      ],
+      "note": "Câu hỏi *How long is your commute?* rất hay dùng khi làm quen đồng nghiệp.",
+      "mistake": {"wrong": "I commute to work by a bus.", "right": "I commute to work by bus.", "explain": "Sau by + phương tiện thì không dùng a/the: by bus, by car, by motorbike."},
+      "synonyms": ["travel to work"]
+    },
+    {
+      "id": "dl_chore", "word": "chore", "pos": "noun", "ipa": "/tʃɔːr/", "level": "B1",
+      "meaning": "việc vặt trong nhà (thường là việc nhàm chán)",
+      "definition": "a small job you have to do regularly at home, like cleaning",
+      "collocations": ["household chores", "do the chores", "share the chores", "a boring chore"],
+      "examples": [
+        {"en": "We share the household *chores*: I cook and my wife does the laundry.", "vi": "Chúng tôi chia việc nhà: tôi nấu ăn còn vợ tôi giặt đồ.", "context": "kể chuyện"},
+        {"en": "Ironing is my least favorite *chore*.", "vi": "Ủi đồ là việc nhà tôi ghét nhất.", "context": "nói chuyện"}
+      ],
+      "note": "Dùng với động từ *do*: do the chores (không dùng make).",
+      "mistake": {"wrong": "I make the chores every weekend.", "right": "I do the chores every weekend.", "explain": "Việc nhà luôn đi với DO: do the chores, do the dishes, do the laundry, do housework."},
+      "synonyms": ["housework", "task"]
+    },
+    {
+      "id": "dl_laundry", "word": "laundry", "pos": "noun", "ipa": "/ˈlɔːndri/", "level": "A2",
+      "meaning": "quần áo cần giặt / đã giặt; việc giặt giũ",
+      "definition": "clothes that need to be washed or have just been washed",
+      "collocations": ["do the laundry", "a pile of laundry", "hang the laundry", "laundry basket"],
+      "examples": [
+        {"en": "I do the *laundry* on Sunday mornings.", "vi": "Tôi giặt đồ vào sáng Chủ nhật.", "context": "kể chuyện"},
+        {"en": "There's a huge pile of *laundry* on my bed.", "vi": "Có một đống đồ giặt to trên giường tôi.", "context": "nói chuyện"}
+      ],
+      "note": "Là danh từ không đếm được: không nói *a laundry* hay *laundries* khi chỉ quần áo.",
+      "mistake": {"wrong": "I have many laundries to do.", "right": "I have a lot of laundry to do.", "explain": "laundry không đếm được → dùng a lot of / much, không thêm -s."},
+      "synonyms": ["washing"]
+    },
+    {
+      "id": "dl_tidy", "word": "tidy", "pos": "adjective / verb", "ipa": "/ˈtaɪdi/", "level": "A2",
+      "meaning": "gọn gàng; dọn dẹp cho gọn",
+      "definition": "neat and in order; to make a place neat",
+      "collocations": ["keep the room tidy", "tidy up", "a tidy desk", "neat and tidy"],
+      "examples": [
+        {"en": "Please *tidy up* your room before the guests arrive.", "vi": "Con dọn phòng cho gọn trước khi khách đến nhé.", "context": "nhắc nhở"},
+        {"en": "Her desk is always *tidy*.", "vi": "Bàn làm việc của cô ấy lúc nào cũng gọn gàng.", "context": "miêu tả"}
+      ],
+      "note": "*tidy up* = sắp xếp lại cho gọn; *clean* = lau chùi cho sạch. Phòng có thể tidy mà chưa clean.",
+      "synonyms": ["neat", "organized"], "antonyms": ["messy", "untidy"]
+    },
+    {
+      "id": "dl_neighbor", "word": "neighbor", "pos": "noun", "ipa": "/ˈneɪbər/", "level": "A2",
+      "meaning": "hàng xóm",
+      "definition": "a person who lives next to you or near you",
+      "collocations": ["next-door neighbor", "a friendly neighbor", "noisy neighbors", "get to know your neighbors"],
+      "examples": [
+        {"en": "Our next-door *neighbor* has a very friendly dog.", "vi": "Nhà hàng xóm sát vách có một con chó rất thân thiện.", "context": "kể chuyện"},
+        {"en": "The *neighbors* were so noisy last night that I couldn't sleep.", "vi": "Tối qua hàng xóm ồn quá nên tôi không ngủ được.", "context": "than phiền"}
+      ],
+      "note": "Anh-Mỹ viết *neighbor*, Anh-Anh viết *neighbour*. Cả hai đều đúng.",
+      "synonyms": ["the people next door"]
+    },
+    {
+      "id": "dl_appointment", "word": "appointment", "pos": "noun", "ipa": "/əˈpɔɪntmənt/", "level": "A2",
+      "meaning": "cuộc hẹn (chính thức: bác sĩ, ngân hàng, công việc)",
+      "definition": "an arrangement to see someone at a particular time, usually for a professional reason",
+      "collocations": ["make an appointment", "have an appointment with", "cancel an appointment", "a dentist appointment"],
+      "examples": [
+        {"en": "I have a doctor's *appointment* at 3 p.m.", "vi": "Tôi có hẹn với bác sĩ lúc 3 giờ chiều.", "context": "công việc"},
+        {"en": "I'd like to make an *appointment* with Dr. Lee, please.", "vi": "Tôi muốn đặt lịch hẹn với bác sĩ Lee.", "context": "trang trọng"}
+      ],
+      "note": "Hẹn bác sĩ, ngân hàng, khách hàng → *appointment*. Hẹn đi chơi với bạn → dùng *plans* (I have plans with friends). Hẹn hò yêu đương → *date*.",
+      "mistake": {"wrong": "I have an appointment with my friends tonight.", "right": "I have plans with my friends tonight.", "explain": "appointment mang tính chính thức/chuyên môn. Với bạn bè, người bản xứ nói have plans hoặc meet up."},
+      "synonyms": ["meeting", "booking"]
+    },
+    {
+      "id": "dl_busy", "word": "busy", "pos": "adjective", "ipa": "/ˈbɪzi/", "level": "A1",
+      "meaning": "bận rộn; đông đúc (đường phố, nơi chốn)",
+      "definition": "having a lot of things to do; full of people or activity",
+      "collocations": ["busy with work", "a busy day", "a busy street", "keep busy"],
+      "examples": [
+        {"en": "Sorry, I'm *busy* with a report right now. Can I call you back?", "vi": "Xin lỗi, giờ tôi đang bận viết báo cáo. Tôi gọi lại sau được không?", "context": "công việc"},
+        {"en": "The market is always *busy* on weekends.", "vi": "Chợ lúc nào cũng đông vào cuối tuần.", "context": "miêu tả"}
+      ],
+      "note": "Cấu trúc: busy WITH + danh từ, hoặc busy + V-ing (I'm busy cooking).",
+      "mistake": {"wrong": "I'm busy to cook dinner.", "right": "I'm busy cooking dinner.", "explain": "Sau busy dùng V-ing, không dùng to V."},
+      "antonyms": ["free", "quiet"]
+    },
+    {
+      "id": "dl_free_time", "word": "free time", "pos": "noun phrase", "ipa": "/ˌfriː ˈtaɪm/", "level": "A1",
+      "meaning": "thời gian rảnh",
+      "definition": "time when you are not working or studying",
+      "collocations": ["in my free time", "have some free time", "spend your free time", "a lot of free time"],
+      "examples": [
+        {"en": "What do you like to do in your *free time*?", "vi": "Lúc rảnh bạn thích làm gì?", "context": "small talk"},
+        {"en": "In my *free time*, I watch movies or go jogging.", "vi": "Lúc rảnh tôi xem phim hoặc chạy bộ.", "context": "giới thiệu bản thân"}
+      ],
+      "note": "Dùng giới từ *in*: in my free time. Câu hỏi này cực kỳ phổ biến khi làm quen.",
+      "mistake": {"wrong": "At my free time, I read books.", "right": "In my free time, I read books.", "explain": "Luôn dùng IN my free time / IN my spare time."},
+      "synonyms": ["spare time", "leisure time (trang trọng)"]
+    },
+    {
+      "id": "dl_hobby", "word": "hobby", "pos": "noun", "ipa": "/ˈhɑːbi/", "level": "A1",
+      "meaning": "sở thích (hoạt động làm lúc rảnh)",
+      "definition": "an activity you enjoy doing in your free time",
+      "collocations": ["take up a hobby", "have a hobby", "an expensive hobby", "turn a hobby into a job"],
+      "examples": [
+        {"en": "Photography started as a *hobby*, but now it's my job.", "vi": "Nhiếp ảnh ban đầu chỉ là sở thích, giờ thì thành công việc của tôi.", "context": "kể chuyện"},
+        {"en": "I want to take up a new *hobby*, maybe painting.", "vi": "Tôi muốn bắt đầu một sở thích mới, có thể là vẽ.", "context": "nói chuyện"}
+      ],
+      "note": "Người bản xứ ít hỏi *What is your hobby?* (nghe như sách giáo khoa). Tự nhiên hơn: *What do you do for fun?* hoặc *What are you into?*",
+      "mistake": {"wrong": "My hobby is listen to music.", "right": "My hobby is listening to music.", "explain": "Sau is cần danh từ → dùng V-ing (listening)."},
+      "synonyms": ["pastime", "interest"]
+    },
+    {
+      "id": "dl_relax", "word": "relax", "pos": "verb", "ipa": "/rɪˈlæks/", "level": "A2",
+      "meaning": "thư giãn, nghỉ ngơi",
+      "definition": "to rest and become calm",
+      "collocations": ["relax at home", "try to relax", "a relaxing weekend", "feel relaxed"],
+      "examples": [
+        {"en": "After work, I like to *relax* with a cup of tea.", "vi": "Sau giờ làm tôi thích thư giãn với một tách trà.", "context": "kể chuyện"},
+        {"en": "*Relax*! It's not a big problem.", "vi": "Bình tĩnh nào! Không phải vấn đề lớn đâu.", "context": "thân mật"}
+      ],
+      "note": "*relaxing* = làm cho người ta thư giãn (a relaxing trip). *relaxed* = cảm thấy thư giãn (I feel relaxed).",
+      "mistake": {"wrong": "I feel very relaxing today.", "right": "I feel very relaxed today.", "explain": "Cảm xúc của người → -ed (relaxed, bored, tired). Tính chất của sự việc → -ing (relaxing, boring)."},
+      "synonyms": ["rest", "chill out (thân mật)"]
+    },
+    {
+      "id": "dl_exercise", "word": "exercise", "pos": "noun / verb", "ipa": "/ˈeksərsaɪz/", "level": "A2",
+      "meaning": "tập thể dục; bài tập",
+      "definition": "physical activity to stay healthy; to do this activity",
+      "collocations": ["do exercise", "get some exercise", "regular exercise", "exercise every day"],
+      "examples": [
+        {"en": "I try to get some *exercise* every day, even just a walk.", "vi": "Tôi cố gắng vận động mỗi ngày, dù chỉ là đi bộ.", "context": "kể chuyện"},
+        {"en": "The doctor told me to *exercise* more.", "vi": "Bác sĩ bảo tôi tập thể dục nhiều hơn.", "context": "sức khỏe"}
+      ],
+      "note": "Nghĩa *vận động* thì không đếm được (get some exercise). Nghĩa *một bài tập/động tác cụ thể* thì đếm được (do these three exercises).",
+      "mistake": {"wrong": "I play exercise every morning.", "right": "I do exercise every morning.", "explain": "play dùng cho môn có bóng/đối kháng (play football). Với exercise, yoga, gym → dùng do."},
+      "synonyms": ["work out", "train"]
+    },
+    {
+      "id": "dl_healthy", "word": "healthy", "pos": "adjective", "ipa": "/ˈhelθi/", "level": "A2",
+      "meaning": "khỏe mạnh; tốt cho sức khỏe",
+      "definition": "physically strong and well; good for your body",
+      "collocations": ["healthy food", "a healthy lifestyle", "stay healthy", "healthy habits"],
+      "examples": [
+        {"en": "Eating more vegetables is a *healthy* habit.", "vi": "Ăn nhiều rau là một thói quen lành mạnh.", "context": "lời khuyên"},
+        {"en": "My grandmother is 85 and still very *healthy*.", "vi": "Bà tôi 85 tuổi mà vẫn rất khỏe.", "context": "miêu tả"}
+      ],
+      "note": "*health* là danh từ (sức khỏe), *healthy* là tính từ. Good for your health = healthy.",
+      "mistake": {"wrong": "Vegetables are good for health.", "right": "Vegetables are good for your health.", "explain": "Thường cần tính từ sở hữu: good for your/our health. Hoặc nói gọn: Vegetables are healthy."},
+      "antonyms": ["unhealthy", "sick"]
+    },
+    {
+      "id": "dl_tired", "word": "tired", "pos": "adjective", "ipa": "/ˈtaɪərd/", "level": "A1",
+      "meaning": "mệt; chán (tired of)",
+      "definition": "feeling that you need to rest; bored with something",
+      "collocations": ["feel tired", "tired after work", "tired of something", "too tired to"],
+      "examples": [
+        {"en": "I'm too *tired* to cook tonight. Let's order food.", "vi": "Tối nay mệt quá không nấu nổi. Mình gọi đồ ăn đi.", "context": "thân mật"},
+        {"en": "I'm *tired of* eating the same thing every day.", "vi": "Tôi chán ăn mãi một món mỗi ngày rồi.", "context": "than phiền"}
+      ],
+      "note": "*tired* = mệt. *tired of + V-ing* = chán ngấy việc gì. *tiring* = gây mệt (a tiring day).",
+      "mistake": {"wrong": "Today was a very tired day.", "right": "Today was a very tiring day.", "explain": "Ngày làm bạn mệt → tiring. Bạn cảm thấy mệt → tired."},
+      "synonyms": ["exhausted (rất mệt)", "worn out"], "antonyms": ["energetic", "rested"]
+    },
+    {
+      "id": "dl_early", "word": "early", "pos": "adjective / adverb", "ipa": "/ˈɜːrli/", "level": "A1",
+      "meaning": "sớm",
+      "definition": "before the usual or expected time; near the beginning of a period",
+      "collocations": ["get up early", "early in the morning", "an early night", "too early"],
+      "examples": [
+        {"en": "I need an *early* night. I have an exam tomorrow.", "vi": "Tối nay tôi cần ngủ sớm. Mai tôi có bài thi.", "context": "nói chuyện"},
+        {"en": "We arrived ten minutes *early*.", "vi": "Chúng tôi đến sớm 10 phút.", "context": "kể chuyện"}
+      ],
+      "note": "*an early night* = đi ngủ sớm (cách nói rất tự nhiên). *soon* = sắp, chẳng bao lâu nữa (I'll be there soon) – khác với early.",
+      "mistake": {"wrong": "I will finish it early. (ý: tôi sẽ xong sớm thôi, chẳng bao lâu)", "right": "I will finish it soon.", "explain": "soon = trong thời gian ngắn tới. early = trước thời điểm thông thường/dự kiến."},
+      "antonyms": ["late"]
+    },
+    {
+      "id": "dl_late", "word": "late", "pos": "adjective / adverb", "ipa": "/leɪt/", "level": "A1",
+      "meaning": "muộn, trễ",
+      "definition": "after the usual or expected time",
+      "collocations": ["be late for work", "stay up late", "late at night", "running late"],
+      "examples": [
+        {"en": "Sorry, I'm running *late*. I'll be there in 15 minutes.", "vi": "Xin lỗi, tôi đang bị trễ. 15 phút nữa tôi tới.", "context": "nhắn tin"},
+        {"en": "Don't be *late* for the meeting.", "vi": "Đừng đến họp trễ nhé.", "context": "nhắc nhở"}
+      ],
+      "note": "*I'm running late* = tôi đang bị trễ (đang trên đường) – cực kỳ hay dùng. *lately* nghĩa là *gần đây*, KHÔNG phải *một cách muộn*.",
+      "mistake": {"wrong": "I was late to work. / I came lately.", "right": "I was late for work. / I came late.", "explain": "be late FOR something. lately = recently (gần đây), không phải trạng từ của late."},
+      "antonyms": ["early", "on time"]
+    },
+    {
+      "id": "dl_usually", "word": "usually", "pos": "adverb", "ipa": "/ˈjuːʒuəli/", "level": "A1",
+      "meaning": "thường, thường thường",
+      "definition": "in most situations; most of the time",
+      "collocations": ["usually go", "I usually", "not usually", "than usual"],
+      "examples": [
+        {"en": "I *usually* have breakfast at home, but today I ate out.", "vi": "Tôi thường ăn sáng ở nhà, nhưng hôm nay tôi ăn ngoài.", "context": "kể chuyện"},
+        {"en": "The bus is *usually* on time.", "vi": "Xe buýt thường đúng giờ.", "context": "miêu tả"}
+      ],
+      "note": "Vị trí: đứng TRƯỚC động từ thường (I usually go), đứng SAU động từ to be (It is usually busy).",
+      "mistake": {"wrong": "I go usually to school by bus.", "right": "I usually go to school by bus.", "explain": "Trạng từ tần suất đứng trước động từ thường, không chen giữa động từ và tân ngữ/bổ ngữ."},
+      "synonyms": ["normally", "generally"], "antonyms": ["rarely", "seldom"]
+    },
+    {
+      "id": "dl_rarely", "word": "rarely", "pos": "adverb", "ipa": "/ˈrerli/", "level": "B1",
+      "meaning": "hiếm khi",
+      "definition": "not often",
+      "collocations": ["rarely see", "very rarely", "rarely if ever", "rarely happen"],
+      "examples": [
+        {"en": "I *rarely* eat fast food. Maybe once a month.", "vi": "Tôi hiếm khi ăn đồ ăn nhanh. Có lẽ một tháng một lần.", "context": "kể chuyện"},
+        {"en": "It *rarely* snows in Ho Chi Minh City. Actually, it never does!", "vi": "Ở TP.HCM hiếm khi có tuyết. Thật ra là không bao giờ!", "context": "đùa"}
+      ],
+      "note": "rarely đã mang nghĩa phủ định → không dùng thêm *not*. Thang tần suất: always > usually > often > sometimes > rarely > never.",
+      "mistake": {"wrong": "I don't rarely go out.", "right": "I rarely go out.", "explain": "rarely đã là phủ định, thêm don't sẽ thành phủ định kép (sai)."},
+      "synonyms": ["seldom", "hardly ever"], "antonyms": ["often", "frequently"]
+    },
+    {
+      "id": "dl_schedule", "word": "schedule", "pos": "noun / verb", "ipa": "/ˈskedʒuːl/", "level": "A2",
+      "meaning": "lịch trình, thời gian biểu; lên lịch",
+      "definition": "a plan of what you will do and when; to plan something for a certain time",
+      "collocations": ["a busy schedule", "on schedule", "behind schedule", "schedule a meeting"],
+      "examples": [
+        {"en": "I have a really busy *schedule* this week.", "vi": "Tuần này lịch của tôi rất kín.", "context": "công việc"},
+        {"en": "The project is two weeks behind *schedule*.", "vi": "Dự án chậm tiến độ hai tuần.", "context": "công việc"}
+      ],
+      "note": "*on schedule* = đúng tiến độ; *behind schedule* = chậm tiến độ; *ahead of schedule* = sớm hơn dự kiến.",
+      "synonyms": ["timetable", "plan"]
+    },
+    {
+      "id": "dl_groceries", "word": "groceries", "pos": "noun (plural)", "ipa": "/ˈɡroʊsəriz/", "level": "A2",
+      "meaning": "thực phẩm và đồ dùng mua ở siêu thị/chợ",
+      "definition": "food and other things you buy regularly for the home",
+      "collocations": ["buy groceries", "do the grocery shopping", "a bag of groceries", "grocery store"],
+      "examples": [
+        {"en": "I need to buy some *groceries* after work.", "vi": "Tan làm tôi phải đi mua ít đồ ăn.", "context": "nói chuyện"},
+        {"en": "Can you help me carry the *groceries* inside?", "vi": "Bạn giúp tôi xách đồ vào nhà được không?", "context": "nhờ vả"}
+      ],
+      "note": "*grocery store* (Mỹ) = cửa hàng thực phẩm. Mua đồ ăn hằng tuần thường nói *do the grocery shopping*.",
+      "synonyms": ["food shopping"]
+    },
+    {
+      "id": "dl_cook", "word": "cook", "pos": "verb / noun", "ipa": "/kʊk/", "level": "A1",
+      "meaning": "nấu ăn; đầu bếp, người nấu",
+      "definition": "to prepare food by heating it; a person who cooks",
+      "collocations": ["cook dinner", "cook for someone", "a good cook", "home-cooked meal"],
+      "examples": [
+        {"en": "My dad is a great *cook*. His fish soup is amazing.", "vi": "Bố tôi nấu ăn rất giỏi. Canh cá của bố ngon tuyệt.", "context": "miêu tả"},
+        {"en": "I'll *cook* dinner tonight. You can relax.", "vi": "Tối nay anh nấu. Em cứ nghỉ đi.", "context": "thân mật"}
+      ],
+      "note": "*cook* (danh từ) = người nấu ăn. *cooker* = cái bếp (đồ vật)! Đây là bẫy rất phổ biến.",
+      "mistake": {"wrong": "My mother is a good cooker.", "right": "My mother is a good cook.", "explain": "cooker là cái bếp/nồi. Người nấu ăn là cook."},
+      "synonyms": ["make (food)", "prepare"]
+    },
+    {
+      "id": "dl_clean", "word": "clean", "pos": "verb / adjective", "ipa": "/kliːn/", "level": "A1",
+      "meaning": "lau chùi, dọn sạch; sạch",
+      "definition": "to remove dirt from something; not dirty",
+      "collocations": ["clean the house", "clean up", "keep something clean", "spotlessly clean"],
+      "examples": [
+        {"en": "I *clean* the kitchen every evening after dinner.", "vi": "Tối nào ăn xong tôi cũng dọn bếp.", "context": "kể chuyện"},
+        {"en": "Let's *clean up* this mess before Mom gets home.", "vi": "Dọn đống bừa bộn này trước khi mẹ về đi.", "context": "thân mật"}
+      ],
+      "note": "*clean up* = dọn dẹp chỗ bừa bộn. *wash* = rửa bằng nước (wash the dishes, wash your hands).",
+      "antonyms": ["dirty", "messy"]
+    },
+    {
+      "id": "dl_borrow", "word": "borrow", "pos": "verb", "ipa": "/ˈbɑːroʊ/", "level": "A2",
+      "meaning": "mượn (lấy của người khác)",
+      "definition": "to take something from someone and promise to give it back",
+      "collocations": ["borrow something from someone", "borrow money", "Can I borrow…?", "borrow a book"],
+      "examples": [
+        {"en": "Can I *borrow* your charger for a minute?", "vi": "Cho tôi mượn cục sạc một chút được không?", "context": "nhờ vả"},
+        {"en": "I *borrowed* this book from the library.", "vi": "Tôi mượn cuốn sách này ở thư viện.", "context": "kể chuyện"}
+      ],
+      "note": "borrow = MƯỢN VỀ (tôi nhận). lend = CHO MƯỢN (tôi đưa). Cấu trúc: borrow sth FROM sb.",
+      "mistake": {"wrong": "Can you borrow me your pen?", "right": "Can you lend me your pen? / Can I borrow your pen?", "explain": "Người đưa đồ đi → lend. Người nhận đồ → borrow."},
+      "antonyms": ["lend"]
+    },
+    {
+      "id": "dl_lend", "word": "lend", "pos": "verb", "ipa": "/lend/", "level": "A2",
+      "meaning": "cho mượn, cho vay",
+      "definition": "to give something to someone for a short time",
+      "collocations": ["lend someone something", "lend money to", "lend a hand", "Could you lend me…?"],
+      "examples": [
+        {"en": "Could you *lend* me 50,000 dong? I'll pay you back tomorrow.", "vi": "Bạn cho mình mượn 50.000 đồng được không? Mai mình trả.", "context": "nhờ vả"},
+        {"en": "Can you *lend* me a hand with these boxes?", "vi": "Giúp tôi một tay với mấy cái thùng này được không?", "context": "thân mật"}
+      ],
+      "note": "*lend a hand* = giúp một tay. Quá khứ: lend → lent → lent.",
+      "mistake": {"wrong": "He lended me his car.", "right": "He lent me his car.", "explain": "lend là động từ bất quy tắc: lend – lent – lent."},
+      "antonyms": ["borrow"]
+    },
+    {
+      "id": "dl_forget", "word": "forget", "pos": "verb", "ipa": "/fərˈɡet/", "level": "A1",
+      "meaning": "quên",
+      "definition": "to not remember something",
+      "collocations": ["forget to do something", "forget about", "Don't forget…", "completely forget"],
+      "examples": [
+        {"en": "Don't *forget* to lock the door when you leave.", "vi": "Đi ra nhớ khóa cửa nhé.", "context": "nhắc nhở"},
+        {"en": "Sorry, I completely *forgot* about your birthday!", "vi": "Xin lỗi, tôi quên béng sinh nhật bạn!", "context": "xin lỗi"}
+      ],
+      "note": "*forget to do* = quên phải làm (việc chưa làm). *forget doing* = quên là đã làm rồi. Quên đồ ở đâu: dùng *leave* (I left my phone at home).",
+      "mistake": {"wrong": "I forgot my phone at home.", "right": "I left my phone at home.", "explain": "Khi có nơi chốn (at home, in the car), dùng leave. forget dùng khi không nói nơi chốn: I forgot my phone."},
+      "antonyms": ["remember"]
+    },
+    {
+      "id": "dl_remember", "word": "remember", "pos": "verb", "ipa": "/rɪˈmembər/", "level": "A1",
+      "meaning": "nhớ, ghi nhớ",
+      "definition": "to keep something in your mind; to bring something back to your mind",
+      "collocations": ["remember to do", "remember doing", "if I remember correctly", "remember someone's name"],
+      "examples": [
+        {"en": "*Remember* to call your mom tonight.", "vi": "Nhớ gọi cho mẹ tối nay nhé.", "context": "nhắc nhở"},
+        {"en": "I *remember* meeting him at a party, but I can't remember his name.", "vi": "Tôi nhớ đã gặp anh ấy ở một bữa tiệc, nhưng không nhớ tên.", "context": "kể chuyện"}
+      ],
+      "note": "*remember* = tự mình nhớ. *remind* = nhắc người khác nhớ. Remind me to call her = nhắc tôi gọi cho cô ấy.",
+      "mistake": {"wrong": "Please remember me to buy milk.", "right": "Please remind me to buy milk.", "explain": "Làm cho ai đó nhớ → remind sb to do sth."},
+      "synonyms": ["recall (trang trọng)"], "antonyms": ["forget"]
+    },
+    {
+      "id": "dl_hang_out", "word": "hang out", "pos": "phrasal verb", "ipa": "/hæŋ aʊt/", "level": "B1",
+      "meaning": "đi chơi, tụ tập (thân mật)",
+      "definition": "to spend time somewhere or with someone in a relaxed way",
+      "collocations": ["hang out with friends", "hang out at a café", "a place to hang out", "Do you want to hang out?"],
+      "examples": [
+        {"en": "Do you want to *hang out* this weekend?", "vi": "Cuối tuần này đi chơi không?", "context": "thân mật"},
+        {"en": "We usually *hang out* at a coffee shop near school.", "vi": "Bọn mình hay tụ tập ở quán cà phê gần trường.", "context": "kể chuyện"}
+      ],
+      "note": "Rất thân mật, dùng với bạn bè. Với đồng nghiệp hoặc khi lịch sự hơn: *get together*, *meet up*.",
+      "mistake": {"wrong": "I hang out my friends every Friday.", "right": "I hang out with my friends every Friday.", "explain": "Cần giới từ WITH trước người: hang out with somebody."},
+      "synonyms": ["meet up", "spend time together"]
+    },
+    {
+      "id": "dl_get_along", "word": "get along", "pos": "phrasal verb", "ipa": "/ɡet əˈlɔːŋ/", "level": "B1",
+      "meaning": "hòa hợp, hợp nhau",
+      "definition": "to have a friendly relationship with someone",
+      "collocations": ["get along with someone", "get along well", "don't get along", "get along with colleagues"],
+      "examples": [
+        {"en": "I *get along* really well with my roommate.", "vi": "Tôi rất hợp với bạn cùng phòng.", "context": "kể chuyện"},
+        {"en": "My sister and I didn't *get along* when we were kids.", "vi": "Hồi nhỏ chị em tôi không hợp nhau.", "context": "kể chuyện"}
+      ],
+      "note": "Anh-Anh hay nói *get on (with)*. Câu hỏi phỏng vấn: *How do you get along with your colleagues?*",
+      "mistake": {"wrong": "I get along my boss.", "right": "I get along with my boss.", "explain": "Phải có WITH trước người: get along with someone."},
+      "synonyms": ["get on with (Anh-Anh)"], "antonyms": ["argue", "not get along"]
+    },
+    {
+      "id": "dl_stay_up", "word": "stay up", "pos": "phrasal verb", "ipa": "/steɪ ʌp/", "level": "B1",
+      "meaning": "thức khuya, không đi ngủ",
+      "definition": "to not go to bed until late",
+      "collocations": ["stay up late", "stay up all night", "stay up to watch", "stay up until midnight"],
+      "examples": [
+        {"en": "I *stayed up* until 2 a.m. watching a series.", "vi": "Tôi thức tới 2 giờ sáng để xem phim bộ.", "context": "kể chuyện"},
+        {"en": "Don't *stay up* too late. You have work tomorrow.", "vi": "Đừng thức khuya quá. Mai còn đi làm.", "context": "khuyên"}
+      ],
+      "note": "Thức để làm gì: stay up + V-ing (stayed up studying) hoặc stay up to + V.",
+      "synonyms": ["be up late"], "antonyms": ["go to bed early"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Asking about someone's routine", "situation_vi": "Hỏi về thói quen hằng ngày",
+      "formal": "Could you tell me a little about your typical day?",
+      "neutral": "What does a normal day look like for you?",
+      "casual": "So what's your day usually like?",
+      "vi": "Một ngày bình thường của bạn như thế nào?",
+      "reply": "Well, I usually get up around six, go to work at eight, and get home at about six.",
+      "note": "Khi trả lời, dùng thì hiện tại đơn + trạng từ tần suất (usually, always, sometimes)."
+    },
+    {
+      "situation": "Making plans with a friend", "situation_vi": "Rủ bạn đi chơi",
+      "formal": "Would you like to get together sometime this weekend?",
+      "neutral": "Are you free this weekend? Do you want to meet up?",
+      "casual": "Wanna hang out this weekend?",
+      "vi": "Cuối tuần này bạn rảnh không? Đi chơi nhé?",
+      "reply": "Sure, I'd love to! How about Saturday afternoon?",
+      "note": "Wanna = want to (chỉ dùng khi nói hoặc nhắn tin thân mật)."
+    },
+    {
+      "situation": "Saying no politely", "situation_vi": "Từ chối lời mời một cách lịch sự",
+      "formal": "Thank you for the invitation, but I'm afraid I already have plans.",
+      "neutral": "I'd love to, but I can't this time. Maybe next weekend?",
+      "casual": "Ah, I can't this time, sorry! Rain check?",
+      "vi": "Mình rất muốn đi, nhưng lần này không được. Hẹn lần sau nhé?",
+      "reply": "No worries! Let's do it another time.",
+      "note": "Rain check = hẹn dịp khác. Người bản xứ thường từ chối bằng I'd love to, but… thay vì nói thẳng No."
+    },
+    {
+      "situation": "Asking a favor from a neighbor", "situation_vi": "Nhờ hàng xóm giúp đỡ",
+      "formal": "I'm sorry to bother you, but would you mind watering my plants while I'm away?",
+      "neutral": "Could you do me a favor and water my plants while I'm away?",
+      "casual": "Hey, can you water my plants while I'm gone?",
+      "vi": "Bạn có thể tưới cây giúp tôi khi tôi đi vắng không?",
+      "reply": "Of course, no problem. When are you leaving?",
+      "note": "Would you mind + V-ing? Đồng ý thì trả lời Not at all (= không phiền gì)."
+    },
+    {
+      "situation": "Complaining about noise", "situation_vi": "Phàn nàn chuyện ồn ào",
+      "formal": "Excuse me, I'm sorry to bring this up, but the music has been quite loud at night.",
+      "neutral": "Hi, could you please keep the noise down a bit after 10? I have to get up early.",
+      "casual": "Hey, could you turn the music down a little? I'm trying to sleep.",
+      "vi": "Bạn có thể bớt ồn một chút sau 10 giờ được không? Tôi phải dậy sớm.",
+      "reply": "Oh, I'm so sorry! I didn't realize it was that loud.",
+      "note": "Mở đầu bằng xin lỗi hoặc giải thích lý do giúp lời phàn nàn nhẹ nhàng hơn."
+    },
+    {
+      "situation": "Talking about how you feel", "situation_vi": "Nói về cảm giác, tâm trạng",
+      "formal": "I'm feeling rather tired today, to be honest.",
+      "neutral": "I'm a bit tired today. I didn't sleep well last night.",
+      "casual": "I'm so tired. I stayed up way too late.",
+      "vi": "Hôm nay tôi hơi mệt. Tối qua ngủ không ngon.",
+      "reply": "Oh no. Maybe you should have an early night tonight.",
+      "note": "a bit / a little / rather / so / really giúp điều chỉnh mức độ cảm xúc."
+    },
+    {
+      "situation": "Running late", "situation_vi": "Báo bị trễ hẹn",
+      "formal": "I apologize, but I'm running about fifteen minutes late.",
+      "neutral": "Sorry, I'm running a bit late. I'll be there in 15 minutes.",
+      "casual": "Running late, sorry! Be there in 15.",
+      "vi": "Xin lỗi, tôi bị trễ một chút. 15 phút nữa tôi tới.",
+      "reply": "No problem, take your time.",
+      "note": "Kiểu nhắn tin thân mật thường bỏ chủ ngữ: (I'll) Be there in 15."
+    },
+    {
+      "situation": "Asking what someone does for fun", "situation_vi": "Hỏi về sở thích",
+      "formal": "What do you enjoy doing in your free time?",
+      "neutral": "What do you like to do for fun?",
+      "casual": "So what are you into?",
+      "vi": "Bạn thích làm gì lúc rảnh?",
+      "reply": "I'm really into hiking. I go almost every weekend.",
+      "note": "be into something = rất thích cái gì (thân mật, rất tự nhiên)."
+    }
+  ]
+}
