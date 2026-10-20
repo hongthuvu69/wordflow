@@ -26,6 +26,7 @@ ApplicationWindow {
         { icon: "🏠", label: "Trang chủ" },
         { icon: "📚", label: "Chủ đề" },
         { icon: "🃏", label: "Ôn tập" },
+        { icon: "✍️", label: "Luyện viết" },
         { icon: "🎯", label: "Quiz" },
         { icon: "💬", label: "Mẫu câu" },
         { icon: "⚙️", label: "Cài đặt" }
@@ -41,9 +42,10 @@ ApplicationWindow {
             stack.replace(null, studyPage, { ids: ids, title: "Bài học hôm nay" })
             break
         }
-        case 3: stack.replace(null, quizPage, { topicId: "", autoStart: false }); break
-        case 4: stack.replace(null, phrasesPage, { topicId: "" }); break
-        case 5: stack.replace(null, settingsPage); break
+        case 3: stack.replace(null, practicePage, { topicId: "", autoStart: false }); break
+        case 4: stack.replace(null, quizPage, { topicId: "", autoStart: false }); break
+        case 5: stack.replace(null, phrasesPage, { topicId: "" }); break
+        case 6: stack.replace(null, settingsPage); break
         }
     }
 
@@ -61,6 +63,7 @@ ApplicationWindow {
         function onStartStudy(ids, title) { stack.push(studyPage, { ids: ids, title: title }) }
         function onStartQuiz(topicId) { stack.push(quizPage, { topicId: topicId, autoStart: true }) }
         function onOpenPhrases(topicId) { stack.push(phrasesPage, { topicId: topicId }) }
+        function onStartPractice(topicId) { stack.push(practicePage, { topicId: topicId, autoStart: true }) }
     }
 
     Component { id: homePage; HomePage {} }
@@ -69,6 +72,7 @@ ApplicationWindow {
     Component { id: wordDetailPage; WordDetailPage {} }
     Component { id: studyPage; StudyPage {} }
     Component { id: quizPage; QuizPage {} }
+    Component { id: practicePage; PracticePage {} }
     Component { id: phrasesPage; PhrasesPage {} }
     Component { id: settingsPage; SettingsPage {} }
 
@@ -184,7 +188,7 @@ ApplicationWindow {
                     MouseArea {
                         anchors.fill: parent
                         cursorShape: Qt.PointingHandCursor
-                        onClicked: window.goTo(5)
+                        onClicked: window.goTo(6)
                     }
                 }
 

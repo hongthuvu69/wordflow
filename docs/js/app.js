@@ -1,5 +1,6 @@
 import { content, progress, shuffle } from "./store.js";
 import { sync } from "./sync.js";
+import * as P from "./practice.js";
 
 const $view = document.getElementById("view");
 
@@ -100,6 +101,14 @@ function phraseOfDay() {
   return all.length ? all[Math.floor(Date.now() / 86400000) % all.length] : null;
 }
 
+// Tiến độ theo cấp độ của chủ đề (A2, B1, B2).
+function levelRoadmap() {
+  return ["A2", "B1", "B2"].map((level) => {
+    const ids = content.topics.filter((t) => t.level === level).flatMap((t) => content.wordIds(t.id));
+    return { level, ...progress.topicStats(ids) };
+  });
+}
+
 function viewHome() {
   const s = progress.stats(content.allIds);
   const total = s.due + s.newRemaining;
@@ -121,6 +130,14 @@ function viewHome() {
       <div class="stat"><span class="i">📖</span><div class="v">${s.seen}/${s.total}</div><div class="l">Từ đã học</div></div>
       <div class="stat"><span class="i">🔥</span><div class="v">${s.streak}</div><div class="l">Ngày liên tiếp · ${s.reviewedToday} lượt hôm nay</div></div>
     </div>
+    <div class="section-title">🗺️ Lộ trình A2 → B2</div>
+    <div class="card">${levelRoadmap()
+      .map(
+        (l) => `<div class="list-row"><b style="width:34px">${l.level}</b>
+          <div class="grow">${l.total ? bar(l.seen, l.total) : '<span class="muted small">Sắp có</span>'}</div>
+          <span class="muted small">${l.total ? `${l.seen}/${l.total}` : ""}</span></div>`
+      )
+      .join("")}</div>
     <div class="section-title">Tiến độ theo chủ đề</div>
     <div class="card">
       ${content.topics
@@ -172,6 +189,7 @@ function viewTopic(id) {
     <div class="btns" style="margin-bottom:12px">
       <button class="btn primary" data-act="start-topic" data-id="${id}">🃏 Học chủ đề</button>
       <a class="btn" href="#/quiz/${id}">🎯 Quiz</a>
+      <a class="btn" href="#/practice/${id}">✍️ Luyện viết</a>
       <a class="btn" href="#/phrases/${id}">💬 Mẫu câu</a>
     </div>
     <input class="field search" type="search" placeholder="🔍 Tìm từ hoặc nghĩa…" data-filter>
@@ -398,6 +416,178 @@ function viewQuiz(topicId) {
     }`;
 }
 
+// ---------------- Luyện viết ----------------
+
+let practice = null;
+const PRACTICE_TYPE = {
+  translate: "✍️ Dịch sang tiếng Anh",
+  reorder: "🧩 Sắp xếp thành câu đúng",
+  write: "💡 Tự đặt câu của bạn",
+};
+
+function startPractice(topicId, mode) {
+  let ids = topicId ? content.wordIds(topicId) : progress.seenIds(content.allIds);
+  if (ids.length < 5) ids = topicId ? ids : content.allIds.slice(0, 30);
+  practice = {
+    topicId, mode,
+    items: P.buildPractice(ids.map((id) => content.word(id)), mode, 8),
+    index: 0, answer: "", checked: false, picked: [], right: 0, wrong: [],
+  };
+}
+
+function practiceItemReset() {
+  practice.answer = "";
+  practice.checked = false;
+  practice.picked = [];
+}
+
+function tokenLine(words, matches, cls) {
+  return words.map((t, i) => `<span class="tok ${matches[i] ? "ok" : cls}">${esc(t)}</span>`).join(" ");
+}
+
+function claudeBox(item, answer) {
+  return `<div class="claude-box">
+    <div class="small"><b>🤖 Muốn AI chấm kỹ hơn?</b> Copy đề kèm câu của bạn, rồi dán vào Claude chat.</div>
+    <div class="btns" style="margin-top:8px">
+      <button class="btn" data-act="pr-copy" data-text="${esc(P.claudePrompt(item, answer))}">📋 Copy để hỏi Claude</button>
+      <a class="btn" href="https://claude.ai/new" target="_blank" rel="noopener">Mở Claude ↗</a>
+    </div></div>`;
+}
+
+function viewPractice(topicId) {
+  const t = topicId ? content.topic(topicId) : null;
+  const title = "✍️ Luyện viết" + (t ? " · " + esc(t.title_vi) : "");
+  if (!practice) {
+    return `${header(title, "Áp dụng từ đã học vào câu: dịch, sắp xếp, tự đặt câu.", { back: !!topicId })}
+      <div class="card stack">
+        <b>Phạm vi</b>
+        <select class="field" id="pr-scope">
+          <option value="">Các từ bạn đã học</option>
+          ${content.topics.map((x) => `<option value="${x.id}" ${x.id === topicId ? "selected" : ""}>${x.icon} ${esc(x.title_vi)}</option>`).join("")}
+        </select>
+        <b>Dạng bài</b>
+        <select class="field" id="pr-mode">
+          <option value="mix">🎲 Trộn các dạng</option>
+          <option value="translate">✍️ Dịch câu Việt → Anh</option>
+          <option value="reorder">🧩 Sắp xếp từ thành câu</option>
+          <option value="write">💡 Tự đặt câu</option>
+        </select>
+        <button class="btn primary block" data-act="pr-start">Bắt đầu 8 câu →</button>
+      </div>
+      <div class="muted small">Mẹo: viết thành tiếng trong đầu trước khi gõ. Sai cũng không sao, so với câu mẫu là cách học nhanh nhất.</div>`;
+  }
+
+  const n = practice.items.length;
+  if (practice.index >= n) {
+    return `${header(title, "")}<div class="done"><div class="emo">${practice.right >= n * 0.7 ? "🏆" : "💪"}</div>
+      <h2>Đúng ${practice.right}/${n} câu</h2>
+      ${practice.wrong.length ? `<p class="muted">Cần ôn lại: ${esc(practice.wrong.map((id) => content.word(id).word).join(", "))}</p>` : ""}
+      <div class="btns" style="justify-content:center">
+        ${practice.wrong.length ? `<button class="btn primary" data-act="pr-review">🃏 Ôn lại các từ này</button>` : ""}
+        <button class="btn" data-act="pr-again">🔁 Luyện tiếp</button></div></div>`;
+  }
+
+  const it = practice.items[practice.index];
+  const w = it.word;
+  const head = `${header(title, `Câu ${practice.index + 1}/${n} · Đúng ${practice.right}`)}
+    <div class="progress" style="margin-bottom:12px">${bar(practice.index, n)}</div>
+    <span class="chip purple">${PRACTICE_TYPE[it.type]}</span>`;
+  const hint = `<div class="muted small" style="margin:6px 0 10px">Từ cần dùng: <b style="color:var(--accent)">${esc(w.word)}</b> (${esc(w.pos)}) – ${esc(w.meaning)}</div>`;
+  const selfMark = `<div class="btns" style="margin-top:12px">
+      <button class="btn primary" data-act="pr-next" data-ok="1">✓ Mình viết đúng</button>
+      <button class="btn" data-act="pr-next" data-ok="0">✗ Cần ôn lại</button></div>`;
+
+  if (it.type === "translate") {
+    if (!practice.checked) {
+      return `${head}<div class="q-prompt">${esc(it.example.vi)}</div>${hint}
+        <textarea class="field" id="pr-answer" rows="3" placeholder="Viết câu tiếng Anh của bạn…" autocapitalize="sentences">${esc(practice.answer)}</textarea>
+        <button class="btn primary block" data-act="pr-check">Kiểm tra</button>
+        <button class="btn block" style="margin-top:8px" data-act="pr-giveup">Mình chịu, xem đáp án</button>`;
+    }
+    const r = P.compare(practice.answer, it.example.en);
+    const v = P.verdict(r.score);
+    const used = P.usesWord(practice.answer, it.target);
+    return `${head}<div class="q-prompt">${esc(it.example.vi)}</div>
+      <div class="explain ${v.cls === "good" ? "good" : "warn"}"><span>${v.cls === "good" ? "🎉" : "💡"}</span><span class="grow"><b>${Math.round(r.score * 100)}%</b> · ${v.label}</span></div>
+      <div class="cmp">
+        <div class="small muted">Câu của bạn:</div><div>${practice.answer.trim() ? tokenLine(r.user, r.userMatch, "extra") : "<i>(bỏ trống)</i>"}</div>
+        <div class="small muted" style="margin-top:8px">Câu mẫu:</div><div class="row"><div class="grow">${tokenLine(r.model, r.modelMatch, "miss")}</div>${spk(it.example.en)}</div>
+        <div class="small" style="margin-top:8px">${used ? "✅ Có dùng" : "⚠️ Chưa dùng"} từ <b>${esc(it.target)}</b></div>
+        <div class="legend small muted"><span class="tok ok">khớp</span> <span class="tok miss">thiếu</span> <span class="tok extra">khác mẫu</span></div>
+      </div>
+      ${practice.answer.trim() ? claudeBox(it, practice.answer) : ""}
+      ${selfMark}`;
+  }
+
+  if (it.type === "reorder") {
+    const done = practice.picked.length === it.pieces.length;
+    const built = practice.picked.map((i) => it.pieces[i]).join(" ");
+    const correct = done && P.tokens(built).join(" ") === P.tokens(it.example.en).join(" ");
+    const answerLine = practice.picked.length
+      ? practice.picked.map((pi, k) => `<button class="chip" data-act="pr-unpick" data-k="${k}">${esc(it.pieces[pi])}</button>`).join("")
+      : `<span class="muted small">Chạm các từ bên dưới theo đúng thứ tự…</span>`;
+    const pool = it.pieces
+      .map((p, i) => (practice.picked.includes(i) ? "" : `<button class="chip plain" data-act="pr-pick" data-i="${i}">${esc(p)}</button>`))
+      .join("");
+    return `${head}<div class="muted" style="margin:10px 0 4px">Nghĩa: ${esc(it.example.vi)}</div>
+      <div class="build ${done ? (correct ? "ok" : "bad") : ""}">${answerLine}</div>
+      <div class="chips" style="margin-top:12px">${pool}</div>
+      ${
+        done
+          ? `<div class="explain ${correct ? "good" : "warn"}"><span>${correct ? "🎉" : "💡"}</span>
+              <span class="grow">${correct ? "Chính xác!" : "Chưa đúng. Câu đúng: <b>" + esc(P.plain(it.example.en)) + "</b>"}</span>${spk(it.example.en)}</div>
+             <div class="btns" style="margin-top:12px">
+               ${correct ? "" : `<button class="btn" data-act="pr-retry">↺ Làm lại</button>`}
+               <button class="btn primary" data-act="pr-next" data-ok="${correct ? 1 : 0}">Tiếp →</button></div>`
+          : practice.picked.length ? `<button class="btn" style="margin-top:12px" data-act="pr-retry">↺ Xếp lại</button>` : ""
+      }`;
+  }
+
+  // write
+  if (!practice.checked) {
+    return `${head}<div class="q-prompt">Đặt một câu về chính bạn có dùng từ “${esc(w.word)}”</div>${hint}
+      ${w.collocations?.length ? `<div class="chips" style="margin-bottom:10px">${w.collocations.map((c) => `<span class="chip">${esc(c)}</span>`).join("")}</div>` : ""}
+      <textarea class="field" id="pr-answer" rows="3" placeholder="Ví dụ: kể về công việc, gia đình, sở thích của bạn…" autocapitalize="sentences">${esc(practice.answer)}</textarea>
+      <button class="btn primary block" data-act="pr-check">Xong, kiểm tra</button>`;
+  }
+  const used = P.usesWord(practice.answer, w.word);
+  return `${head}<div class="card" style="margin-top:10px"><div class="small muted">Câu của bạn:</div><div style="font-size:17px">${esc(practice.answer)}</div>
+      <div class="small" style="margin-top:6px">${used ? "✅ Có dùng" : "⚠️ Chưa thấy"} từ <b>${esc(w.word)}</b></div></div>
+    <div class="stack small">
+      <b>Tự kiểm tra:</b>
+      <div>☐ Động từ đã chia đúng thì chưa? (hôm qua → quá khứ, thói quen → hiện tại đơn)</div>
+      <div>☐ Có dùng cụm từ đi kèm tự nhiên không? ${w.collocations?.length ? "Ví dụ: <i>" + esc(w.collocations.slice(0, 3).join(", ")) + "</i>" : ""}</div>
+      ${w.mistake ? `<div>☐ Tránh lỗi: <s>${esc(w.mistake.wrong)}</s> → <b>${esc(w.mistake.right)}</b></div>` : ""}
+    </div>
+    <div class="sub-title">Câu mẫu để so sánh</div>
+    ${(w.examples || []).map((e) => `<div class="example">${spk(e.en)}<div><div class="en">${hl(e.en)}</div><div class="vi">${esc(e.vi)}</div></div></div>`).join("")}
+    ${claudeBox(it, practice.answer)}
+    ${selfMark}`;
+}
+
+function practiceNext(ok) {
+  const it = practice.items[practice.index];
+  if (ok) practice.right++;
+  else if (!practice.wrong.includes(it.word.id)) practice.wrong.push(it.word.id);
+  practice.index++;
+  practiceItemReset();
+  render();
+  window.scrollTo(0, 0);
+}
+
+function toast(text) {
+  let el = document.getElementById("toast");
+  if (!el) {
+    el = document.createElement("div");
+    el.id = "toast";
+    document.body.appendChild(el);
+  }
+  el.textContent = text;
+  el.classList.add("show");
+  clearTimeout(el._t);
+  el._t = setTimeout(() => el.classList.remove("show"), 2200);
+}
+
 // ---------------- Mẫu câu ----------------
 
 function viewPhrases(topicId) {
@@ -490,6 +680,7 @@ const routes = [
   [/^#\/word\/([\w-]+)$/, "topics", (m) => viewWord(m[1])],
   [/^#\/study(?:\/(\w+))?$/, "study", () => viewStudy()],
   [/^#\/quiz(?:\/([\w-]+))?$/, "quiz", (m) => viewQuiz(m[1])],
+  [/^#\/practice(?:\/([\w-]+))?$/, "practice", (m) => viewPractice(m[1])],
   [/^#\/phrases(?:\/([\w-]+))?$/, "phrases", (m) => viewPhrases(m[1])],
   [/^#\/settings$/, "settings", () => viewSettings()],
 ];
@@ -516,6 +707,7 @@ window.addEventListener("hashchange", () => {
   // Bấm tab "Ôn tập" luôn tạo buổi học mới cho hôm nay.
   if (location.hash === "#/study") session = null;
   if (location.hash === "#/quiz") quiz = null;
+  if (location.hash.startsWith("#/practice")) practice = null;
   render();
 });
 
@@ -610,6 +802,52 @@ document.addEventListener("click", (ev) => {
     case "signup":
       sync.signUp(document.getElementById("lg-email").value, document.getElementById("lg-pass").value);
       break;
+    case "pr-start":
+      startPractice(document.getElementById("pr-scope").value, document.getElementById("pr-mode").value);
+      render();
+      break;
+    case "pr-check":
+      practice.answer = document.getElementById("pr-answer").value;
+      if (!practice.answer.trim()) {
+        toast("Hãy viết câu của bạn trước nhé");
+        break;
+      }
+      practice.checked = true;
+      render();
+      break;
+    case "pr-giveup":
+      practice.answer = document.getElementById("pr-answer").value;
+      practice.checked = true;
+      render();
+      break;
+    case "pr-next":
+      practiceNext(el.dataset.ok === "1");
+      break;
+    case "pr-pick":
+      practice.picked.push(Number(el.dataset.i));
+      render();
+      break;
+    case "pr-unpick":
+      practice.picked.splice(Number(el.dataset.k), 1);
+      render();
+      break;
+    case "pr-retry":
+      practice.picked = [];
+      render();
+      break;
+    case "pr-copy":
+      navigator.clipboard
+        .writeText(el.dataset.text)
+        .then(() => toast("Đã copy! Mở Claude và dán vào nhé"))
+        .catch(() => toast("Không copy được. Hãy tự chọn và copy câu của bạn"));
+      break;
+    case "pr-review":
+      startStudy(practice.wrong.slice(), "Ôn lại sau luyện viết");
+      break;
+    case "pr-again":
+      startPractice(practice.topicId, practice.mode);
+      render();
+      break;
     case "toggle-pass": {
       const input = document.getElementById("lg-pass");
       input.type = input.type === "password" ? "text" : "password";
@@ -645,6 +883,7 @@ document.addEventListener("change", (ev) => {
 });
 
 document.addEventListener("input", (ev) => {
+  if (ev.target.id === "pr-answer" && practice) practice.answer = ev.target.value;
   if (!("filter" in ev.target.dataset)) return;
   const q = ev.target.value.trim().toLowerCase();
   for (const row of document.querySelectorAll("[data-search]")) row.hidden = !!q && !row.dataset.search.includes(q);
@@ -668,7 +907,7 @@ document.addEventListener("keydown", (ev) => {
 
 // Cập nhật giao diện khi dữ liệu thay đổi từ nơi khác (đồng bộ, cài đặt).
 progress.onChange((kind) => {
-  if (kind !== "review" && currentTab !== "study" && currentTab !== "quiz") render();
+  if (kind !== "review" && !["study", "quiz", "practice"].includes(currentTab)) render();
 });
 
 let wasSignedIn = sync.signedIn;
@@ -682,7 +921,7 @@ sync.onChange(() => {
         el.className = "status " + (sync.ok ? "ok" : "err");
         el.textContent = sync.status ? (sync.ok ? "✓ " : "⚠ ") + sync.status : "";
       }
-    } else if (currentTab !== "study" && currentTab !== "quiz") render();
+    } else if (!["study", "quiz", "practice"].includes(currentTab)) render();
     return;
   }
   const line = document.querySelector("[data-sync-line]");

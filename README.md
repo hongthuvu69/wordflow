@@ -35,6 +35,19 @@ Web app cho iPhone nằm trong `docs/`, đưa lên mạng bằng GitHub Pages. T
 
 Tạo file `content/NN_ten_chu_de.json` theo cấu trúc giống các file có sẵn, rồi build lại. ID của từ phải là duy nhất. Trong câu ví dụ, đặt từ cần học trong dấu `*...*` để app tô đậm và dùng cho bài điền từ.
 
+## Nội dung hiện có
+
+- **A2:** Cuộc sống hằng ngày, Ăn uống, Du lịch, Công việc, Mua sắm (150 từ)
+- **B1:** Sức khỏe, Cảm xúc & Tính cách, Công nghệ, Môi trường, Học tập (150 từ)
+- Mỗi chủ đề có 8 tình huống giao tiếp, mỗi tình huống có 3 mức trang trọng / bình thường / thân mật.
+
+## Các chế độ học
+
+- **Ôn tập (flashcard):** học từ mới và ôn lại theo lịch lặp lại ngắt quãng.
+- **Luyện viết:** dịch câu Việt → Anh (chấm tự động so với câu mẫu), sắp xếp từ thành câu, tự đặt câu. Có nút "Copy để hỏi Claude" để AI chấm kỹ hơn bằng gói Claude bạn đang dùng.
+- **Quiz:** chọn nghĩa, điền từ, nghe chọn từ, chọn câu đúng.
+- **Mẫu câu:** hội thoại theo tình huống.
+
 ## Phím tắt
 
 - Flashcard: `Space` để lật thẻ, `1`–`4` để chấm (Quên / Khó / Nhớ / Dễ), `R` để nghe lại.

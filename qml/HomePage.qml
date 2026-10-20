@@ -22,6 +22,27 @@ Item {
         return all[day % all.length]
     }
 
+    // Tiến độ theo cấp độ chủ đề; cấp "đang học" là cấp đầu tiên chưa học hết.
+    readonly property var levels: {
+        if (ProgressStore.revision < 0)
+            return []
+        const names = { A2: "Củng cố nền tảng", B1: "Giao tiếp tự tin", B2: "Diễn đạt trôi chảy" }
+        const out = []
+        let activeSet = false
+        for (const lv of ["A2", "B1", "B2"]) {
+            let ids = []
+            for (const t of ContentStore.topics)
+                if (t.level === lv)
+                    ids = ids.concat(ContentStore.wordIds(t.id))
+            const s = ProgressStore.topicStats(ids)
+            const active = !activeSet && s.total > 0 && s.seen < s.total
+            if (active)
+                activeSet = true
+            out.push({ lv: lv, name: names[lv], total: s.total, seen: s.seen, active: active })
+        }
+        return out
+    }
+
     function startToday() {
         const ids = ProgressStore.buildSession(ContentStore.wordIds(""), ProgressStore.newRemainingToday())
         AppNav.startStudy(ids, "Bài học hôm nay")
@@ -101,7 +122,7 @@ Item {
                         leftPadding: 24
                         rightPadding: 24
                         implicitHeight: 52
-                        onClicked: page.sessionTotal > 0 ? page.startToday() : AppNav.goTo(3)
+                        onClicked: page.sessionTotal > 0 ? page.startToday() : AppNav.goTo(4)
                     }
                 }
             }
@@ -167,15 +188,11 @@ Item {
                         Layout.fillWidth: true
                         spacing: 10
                         Repeater {
-                            model: [
-                                { lv: "A2", name: "Củng cố nền tảng", words: "~800 từ", active: true },
-                                { lv: "B1", name: "Giao tiếp tự tin", words: "+1.200 từ", active: false },
-                                { lv: "B2", name: "Diễn đạt trôi chảy", words: "+1.500 từ", active: false }
-                            ]
+                            model: page.levels
                             Rectangle {
                                 required property var modelData
                                 Layout.fillWidth: true
-                                implicitHeight: 70
+                                implicitHeight: 84
                                 radius: 10
                                 color: modelData.active ? Theme.accentSoft : Theme.surfaceAlt
                                 border.color: modelData.active ? Theme.accent : "transparent"
@@ -192,9 +209,18 @@ Item {
                                     }
                                     Text {
                                         Layout.alignment: Qt.AlignHCenter
-                                        text: modelData.name + " · " + modelData.words
+                                        text: modelData.total > 0 ? modelData.name + " · " + modelData.seen + "/" + modelData.total + " từ"
+                                                                  : modelData.name + " · sắp có"
                                         color: Theme.subtext
                                         font.pixelSize: 13
+                                    }
+                                    ProgressBar {
+                                        Layout.alignment: Qt.AlignHCenter
+                                        Layout.preferredWidth: 160
+                                        visible: modelData.total > 0
+                                        from: 0
+                                        to: Math.max(1, modelData.total)
+                                        value: modelData.seen
                                     }
                                 }
                             }

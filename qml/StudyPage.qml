@@ -133,7 +133,7 @@ Item {
                 }
                 Button {
                     text: "🎯 Làm Quiz"
-                    onClicked: AppNav.goTo(3)
+                    onClicked: AppNav.goTo(4)
                 }
             }
             Item { Layout.fillHeight: true }

@@ -11,6 +11,7 @@ const SHELL = [
   "js/app.js",
   "js/store.js",
   "js/sync.js",
+  "js/practice.js",
   "js/config.js",
   "icons/icon-192.png",
   "icons/apple-touch-icon.png",

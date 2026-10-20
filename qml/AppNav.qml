@@ -10,4 +10,5 @@ QtObject {
     signal startStudy(var ids, string title)
     signal startQuiz(string topicId)
     signal openPhrases(string topicId)
+    signal startPractice(string topicId)
 }

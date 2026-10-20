@@ -1,0 +1,451 @@
+{
+  "id": "feelings",
+  "order": 7,
+  "icon": "😊",
+  "level": "B1",
+  "title": "Feelings & Personality",
+  "title_vi": "Cảm xúc & Tính cách",
+  "description": "Diễn tả cảm xúc, miêu tả tính cách, đồng cảm và nói về các mối quan hệ.",
+  "words": [
+    {
+      "id": "fe_excited", "word": "excited", "pos": "adjective", "ipa": "/ɪkˈsaɪtɪd/", "level": "A2",
+      "meaning": "hào hứng, háo hức",
+      "definition": "very happy and enthusiastic about something",
+      "collocations": ["excited about", "so excited", "get excited", "excited to see"],
+      "examples": [
+        {"en": "I'm so *excited* about our trip to Japan!", "vi": "Mình háo hức với chuyến đi Nhật quá!", "context": "thân mật"},
+        {"en": "The kids are *excited* to see their grandparents.", "vi": "Bọn trẻ háo hức được gặp ông bà.", "context": "kể chuyện"}
+      ],
+      "note": "excited ABOUT + danh từ/V-ing, excited TO + V. *exciting* = thú vị, gây hào hứng (an exciting game).",
+      "mistake": {"wrong": "I'm very exciting for the concert.", "right": "I'm very excited about the concert.", "explain": "Cảm xúc của người → excited. exciting dùng cho sự việc. Giới từ: about."},
+      "synonyms": ["thrilled", "eager"], "antonyms": ["bored"]
+    },
+    {
+      "id": "fe_disappointed", "word": "disappointed", "pos": "adjective", "ipa": "/ˌdɪsəˈpɔɪntɪd/", "level": "B1",
+      "meaning": "thất vọng",
+      "definition": "unhappy because something was not as good as you expected",
+      "collocations": ["disappointed with", "disappointed in someone", "a bit disappointed", "deeply disappointed"],
+      "examples": [
+        {"en": "I was *disappointed* with my test score.", "vi": "Tôi thất vọng với điểm thi của mình.", "context": "kể chuyện"},
+        {"en": "The movie was *disappointing*. The book was much better.", "vi": "Bộ phim gây thất vọng. Sách hay hơn nhiều.", "context": "nhận xét"}
+      ],
+      "note": "disappointed WITH/ABOUT + việc, IN + người. *disappointing* = gây thất vọng.",
+      "mistake": {"wrong": "The result was very disappointed.", "right": "The result was very disappointing.", "explain": "Kết quả gây thất vọng → disappointing. Người thấy thất vọng → disappointed."},
+      "synonyms": ["let down"], "antonyms": ["satisfied", "pleased"]
+    },
+    {
+      "id": "fe_embarrassed", "word": "embarrassed", "pos": "adjective", "ipa": "/ɪmˈbærəst/", "level": "B1",
+      "meaning": "xấu hổ, ngượng",
+      "definition": "feeling shy or uncomfortable because of something silly you did",
+      "collocations": ["feel embarrassed", "embarrassed about", "a bit embarrassed", "embarrassing moment"],
+      "examples": [
+        {"en": "I was so *embarrassed* when I called my teacher Mom.", "vi": "Tôi ngượng chín mặt khi lỡ gọi cô giáo là mẹ.", "context": "kể chuyện"},
+        {"en": "Don't be *embarrassed*. Everyone makes mistakes.", "vi": "Đừng ngại. Ai cũng mắc lỗi mà.", "context": "động viên"}
+      ],
+      "note": "Bẫy: *embarrassed* = ngượng, KHÔNG phải mang thai (*pregnant*). Chính tả: 2 r, 2 s.",
+      "synonyms": ["ashamed (nặng hơn)", "awkward"]
+    },
+    {
+      "id": "fe_nervous", "word": "nervous", "pos": "adjective", "ipa": "/ˈnɜːrvəs/", "level": "A2",
+      "meaning": "hồi hộp, lo lắng, run",
+      "definition": "worried or a little afraid about something that is going to happen",
+      "collocations": ["nervous about", "feel nervous", "get nervous", "a bit nervous"],
+      "examples": [
+        {"en": "I always get *nervous* before a presentation.", "vi": "Tôi luôn run trước khi thuyết trình.", "context": "chia sẻ"},
+        {"en": "Are you *nervous* about the interview?", "vi": "Bạn có hồi hộp về buổi phỏng vấn không?", "context": "hỏi han"}
+      ],
+      "note": "Thân mật: *I have butterflies in my stomach* = bồn chồn, hồi hộp.",
+      "synonyms": ["anxious", "tense"], "antonyms": ["calm", "relaxed"]
+    },
+    {
+      "id": "fe_confident", "word": "confident", "pos": "adjective", "ipa": "/ˈkɑːnfɪdənt/", "level": "B1",
+      "meaning": "tự tin",
+      "definition": "sure about your own abilities",
+      "collocations": ["feel confident", "confident about", "more confident", "self-confident"],
+      "examples": [
+        {"en": "I feel more *confident* speaking English now.", "vi": "Giờ tôi tự tin hơn khi nói tiếng Anh.", "context": "chia sẻ"},
+        {"en": "She's *confident* that she'll pass the exam.", "vi": "Cô ấy tin chắc mình sẽ qua kỳ thi.", "context": "kể chuyện"}
+      ],
+      "note": "Danh từ: *confidence* (build your confidence = xây dựng sự tự tin).",
+      "synonyms": ["self-assured"], "antonyms": ["shy", "insecure"]
+    },
+    {
+      "id": "fe_shy", "word": "shy", "pos": "adjective", "ipa": "/ʃaɪ/", "level": "A2",
+      "meaning": "nhút nhát, ngại ngùng",
+      "definition": "nervous about talking to people you don't know",
+      "collocations": ["a bit shy", "too shy to", "shy around strangers", "painfully shy"],
+      "examples": [
+        {"en": "I was too *shy* to speak in class.", "vi": "Tôi ngại quá nên không dám phát biểu trong lớp.", "context": "kể chuyện"},
+        {"en": "He seems *shy* at first, but he's really funny.", "vi": "Lúc đầu anh ấy có vẻ nhút nhát, nhưng thật ra rất vui tính.", "context": "miêu tả"}
+      ],
+      "note": "too shy TO + V = ngại quá nên không dám làm gì.",
+      "synonyms": ["reserved", "quiet"], "antonyms": ["outgoing", "confident"]
+    },
+    {
+      "id": "fe_outgoing", "word": "outgoing", "pos": "adjective", "ipa": "/ˈaʊtɡoʊɪŋ/", "level": "B1",
+      "meaning": "hướng ngoại, cởi mở",
+      "definition": "friendly and enjoying meeting new people",
+      "collocations": ["an outgoing person", "very outgoing", "outgoing personality"],
+      "examples": [
+        {"en": "My sister is very *outgoing*. She makes friends everywhere.", "vi": "Chị tôi rất hướng ngoại. Đi đâu cũng có bạn.", "context": "miêu tả"},
+        {"en": "You need to be *outgoing* to work in sales.", "vi": "Làm bán hàng thì cần cởi mở.", "context": "nhận xét"}
+      ],
+      "note": "*extrovert* (hướng ngoại) / *introvert* (hướng nội) là danh từ; *outgoing* là tính từ hay dùng hơn trong hội thoại.",
+      "synonyms": ["sociable", "extroverted"], "antonyms": ["shy", "introverted"]
+    },
+    {
+      "id": "fe_patient", "word": "patient", "pos": "adjective / noun", "ipa": "/ˈpeɪʃnt/", "level": "B1",
+      "meaning": "kiên nhẫn; bệnh nhân",
+      "definition": "able to wait calmly; a person receiving medical care",
+      "collocations": ["be patient with", "very patient", "lose patience", "a patient teacher"],
+      "examples": [
+        {"en": "My teacher is very *patient* with beginners.", "vi": "Cô giáo tôi rất kiên nhẫn với người mới học.", "context": "khen"},
+        {"en": "Be *patient*. Learning a language takes time.", "vi": "Kiên nhẫn nhé. Học ngoại ngữ cần thời gian.", "context": "động viên"}
+      ],
+      "note": "Danh từ *patience* = sự kiên nhẫn. Lưu ý *patient* cũng nghĩa là bệnh nhân.",
+      "antonyms": ["impatient"]
+    },
+    {
+      "id": "fe_reliable", "word": "reliable", "pos": "adjective", "ipa": "/rɪˈlaɪəbl/", "level": "B1",
+      "meaning": "đáng tin cậy",
+      "definition": "can be trusted to do what is expected",
+      "collocations": ["a reliable friend", "reliable information", "completely reliable", "reliable source"],
+      "examples": [
+        {"en": "He's very *reliable*. If he says he'll do it, he does it.", "vi": "Anh ấy rất đáng tin. Đã nói sẽ làm là làm.", "context": "khen"},
+        {"en": "Is this a *reliable* source of information?", "vi": "Đây có phải nguồn thông tin đáng tin cậy không?", "context": "hỏi"}
+      ],
+      "note": "Động từ *rely on* = dựa vào, tin cậy vào (You can rely on me).",
+      "synonyms": ["dependable", "trustworthy"], "antonyms": ["unreliable"]
+    },
+    {
+      "id": "fe_lazy", "word": "lazy", "pos": "adjective", "ipa": "/ˈleɪzi/", "level": "A2",
+      "meaning": "lười biếng",
+      "definition": "not wanting to work or make an effort",
+      "collocations": ["too lazy to", "a lazy Sunday", "feel lazy", "lazy about"],
+      "examples": [
+        {"en": "I was too *lazy* to cook, so I ordered pizza.", "vi": "Lười nấu quá nên tôi gọi pizza.", "context": "thú nhận"},
+        {"en": "We had a *lazy* Sunday at home.", "vi": "Chúng tôi có một ngày Chủ nhật lười biếng ở nhà.", "context": "kể chuyện"}
+      ],
+      "note": "*a lazy day* mang nghĩa tích cực: ngày thư thả, không làm gì cả.",
+      "synonyms": ["idle"], "antonyms": ["hard-working", "active"]
+    },
+    {
+      "id": "fe_honest", "word": "honest", "pos": "adjective", "ipa": "/ˈɑːnɪst/", "level": "A2",
+      "meaning": "thật thà, trung thực",
+      "definition": "always telling the truth",
+      "collocations": ["to be honest", "an honest answer", "be honest with", "brutally honest"],
+      "examples": [
+        {"en": "To be *honest*, I didn't like the movie.", "vi": "Nói thật thì tôi không thích bộ phim.", "context": "nêu ý kiến"},
+        {"en": "Please be *honest* with me. What do you think?", "vi": "Hãy nói thật với tôi. Bạn nghĩ sao?", "context": "hỏi ý kiến"}
+      ],
+      "note": "Chữ *h* câm: /ˈɑːnɪst/ → dùng *an honest person*. *To be honest* (TBH) cực kỳ phổ biến khi nêu ý kiến thật.",
+      "mistake": {"wrong": "He is a honest man.", "right": "He is an honest man.", "explain": "honest bắt đầu bằng nguyên âm khi đọc (h câm) → dùng an."},
+      "synonyms": ["truthful", "sincere"], "antonyms": ["dishonest"]
+    },
+    {
+      "id": "fe_jealous", "word": "jealous", "pos": "adjective", "ipa": "/ˈdʒeləs/", "level": "B1",
+      "meaning": "ghen tị, ghen",
+      "definition": "unhappy because someone has something you want",
+      "collocations": ["jealous of", "get jealous", "a bit jealous", "so jealous"],
+      "examples": [
+        {"en": "You're going to Paris? I'm so *jealous*!", "vi": "Bạn đi Paris á? Ghen tị ghê!", "context": "thân mật"},
+        {"en": "He gets *jealous* when his girlfriend talks to other guys.", "vi": "Anh ấy hay ghen khi bạn gái nói chuyện với người khác.", "context": "kể chuyện"}
+      ],
+      "note": "jealous OF + người/vật. *I'm so jealous!* thường là lời khen đùa vui chứ không tiêu cực.",
+      "mistake": {"wrong": "I'm jealous with my brother.", "right": "I'm jealous of my brother.", "explain": "Giới từ của jealous là OF."},
+      "synonyms": ["envious"]
+    },
+    {
+      "id": "fe_grateful", "word": "grateful", "pos": "adjective", "ipa": "/ˈɡreɪtfl/", "level": "B1",
+      "meaning": "biết ơn",
+      "definition": "feeling or showing thanks",
+      "collocations": ["grateful for", "grateful to someone", "really grateful", "I'd be grateful if"],
+      "examples": [
+        {"en": "I'm really *grateful* for your help.", "vi": "Tôi thật sự biết ơn sự giúp đỡ của bạn.", "context": "cảm ơn"},
+        {"en": "I'd be *grateful* if you could reply by Friday.", "vi": "Tôi sẽ rất cảm kích nếu anh có thể phản hồi trước thứ Sáu.", "context": "email"}
+      ],
+      "note": "grateful TO + người, FOR + việc. *I'd be grateful if you could…* là câu nhờ vả rất lịch sự trong email.",
+      "synonyms": ["thankful", "appreciative"]
+    },
+    {
+      "id": "fe_upset", "word": "upset", "pos": "adjective", "ipa": "/ʌpˈset/", "level": "B1",
+      "meaning": "buồn bực, phiền lòng",
+      "definition": "unhappy or worried because something bad has happened",
+      "collocations": ["upset about", "get upset", "really upset", "upset with someone"],
+      "examples": [
+        {"en": "She was *upset* because nobody remembered her birthday.", "vi": "Cô ấy buồn vì không ai nhớ sinh nhật mình.", "context": "kể chuyện"},
+        {"en": "Don't get *upset*. It was just a joke.", "vi": "Đừng giận. Chỉ là đùa thôi mà.", "context": "thân mật"}
+      ],
+      "note": "*upset* nhẹ hơn *angry*: kết hợp buồn và bực. *an upset stomach* = đau bụng, rối loạn tiêu hóa.",
+      "synonyms": ["hurt", "unhappy"], "antonyms": ["happy", "calm"]
+    },
+    {
+      "id": "fe_proud", "word": "proud", "pos": "adjective", "ipa": "/praʊd/", "level": "B1",
+      "meaning": "tự hào",
+      "definition": "pleased about something you or someone close to you has done",
+      "collocations": ["proud of", "so proud", "make someone proud", "proud to be"],
+      "examples": [
+        {"en": "I'm so *proud* of you for passing the exam!", "vi": "Mình rất tự hào về bạn vì đã qua kỳ thi!", "context": "khen"},
+        {"en": "We're *proud* to be part of this team.", "vi": "Chúng tôi tự hào là một phần của đội.", "context": "phát biểu"}
+      ],
+      "note": "proud OF. Danh từ: *pride*.",
+      "mistake": {"wrong": "My parents are proud about me.", "right": "My parents are proud of me.", "explain": "Tự hào về ai/cái gì → proud OF."},
+      "antonyms": ["ashamed"]
+    },
+    {
+      "id": "fe_annoyed", "word": "annoyed", "pos": "adjective", "ipa": "/əˈnɔɪd/", "level": "B1",
+      "meaning": "bực mình, khó chịu",
+      "definition": "a little angry",
+      "collocations": ["annoyed with someone", "annoyed about", "get annoyed", "a bit annoyed"],
+      "examples": [
+        {"en": "I get *annoyed* when people are late.", "vi": "Tôi bực khi người ta đến muộn.", "context": "chia sẻ"},
+        {"en": "That noise is really *annoying*.", "vi": "Tiếng ồn đó thật khó chịu.", "context": "than phiền"}
+      ],
+      "note": "Thang độ: annoyed (bực) < angry (giận) < furious (giận điên). *annoying* = gây khó chịu.",
+      "synonyms": ["irritated"], "antonyms": ["pleased"]
+    },
+    {
+      "id": "fe_mood", "word": "mood", "pos": "noun", "ipa": "/muːd/", "level": "B1",
+      "meaning": "tâm trạng",
+      "definition": "the way you feel at a particular time",
+      "collocations": ["in a good mood", "in a bad mood", "in the mood for", "mood swings"],
+      "examples": [
+        {"en": "The boss is in a great *mood* today.", "vi": "Hôm nay sếp đang vui lắm.", "context": "nơi làm việc"},
+        {"en": "I'm not in the *mood* for a party tonight.", "vi": "Tối nay tôi không có hứng đi tiệc.", "context": "từ chối"}
+      ],
+      "note": "*in the mood for something* = có hứng làm gì. Câu từ chối nhẹ nhàng: *I'm not really in the mood.*",
+      "synonyms": ["feeling", "spirits"]
+    },
+    {
+      "id": "fe_cheer_up", "word": "cheer up", "pos": "phrasal verb", "ipa": "/tʃɪr ʌp/", "level": "B1",
+      "meaning": "vui lên; làm ai vui lên",
+      "definition": "to become happier or to make someone happier",
+      "collocations": ["Cheer up!", "cheer someone up", "try to cheer up"],
+      "examples": [
+        {"en": "*Cheer up*! Things will get better.", "vi": "Vui lên nào! Mọi chuyện sẽ ổn thôi.", "context": "động viên"},
+        {"en": "I bought her flowers to *cheer* her *up*.", "vi": "Tôi mua hoa để làm cô ấy vui.", "context": "kể chuyện"}
+      ],
+      "note": "Đại từ đặt giữa: cheer HER up.",
+      "synonyms": ["lift someone's spirits"]
+    },
+    {
+      "id": "fe_rely_on", "word": "count on", "pos": "phrasal verb", "ipa": "/kaʊnt ɑːn/", "level": "B1",
+      "meaning": "tin cậy, trông cậy vào",
+      "definition": "to trust someone to help you",
+      "collocations": ["count on someone", "You can count on me", "count on someone to do"],
+      "examples": [
+        {"en": "You can always *count on* me.", "vi": "Bạn luôn có thể trông cậy vào mình.", "context": "thân mật"},
+        {"en": "I'm *counting on* you to finish this by Friday.", "vi": "Tôi trông cậy vào bạn hoàn thành việc này trước thứ Sáu.", "context": "công việc"}
+      ],
+      "synonyms": ["rely on", "depend on"]
+    },
+    {
+      "id": "fe_argue", "word": "argue", "pos": "verb", "ipa": "/ˈɑːrɡjuː/", "level": "B1",
+      "meaning": "cãi nhau; tranh luận",
+      "definition": "to disagree angrily with someone; to give reasons for an opinion",
+      "collocations": ["argue with someone", "argue about something", "argue that"],
+      "examples": [
+        {"en": "My brother and I often *argue* about silly things.", "vi": "Anh em tôi hay cãi nhau vì chuyện vặt.", "context": "kể chuyện"},
+        {"en": "Some people *argue* that social media is harmful.", "vi": "Một số người cho rằng mạng xã hội có hại.", "context": "trang trọng"}
+      ],
+      "note": "argue WITH + người, ABOUT + việc. Danh từ: *argument* (have an argument = cãi nhau).",
+      "mistake": {"wrong": "I argued my sister yesterday.", "right": "I argued with my sister yesterday.", "explain": "Cãi nhau với ai → argue WITH someone."},
+      "synonyms": ["fight (thân mật)", "quarrel"], "antonyms": ["agree"]
+    },
+    {
+      "id": "fe_apologize", "word": "apologize", "pos": "verb", "ipa": "/əˈpɑːlədʒaɪz/", "level": "B1",
+      "meaning": "xin lỗi",
+      "definition": "to say that you are sorry",
+      "collocations": ["apologize for", "apologize to someone", "I apologize", "sincerely apologize"],
+      "examples": [
+        {"en": "I *apologize* for the delay.", "vi": "Tôi xin lỗi vì sự chậm trễ.", "context": "trang trọng"},
+        {"en": "You should *apologize* to her.", "vi": "Bạn nên xin lỗi cô ấy.", "context": "lời khuyên"}
+      ],
+      "note": "apologize TO + người, FOR + việc. Trang trọng hơn *say sorry*. Danh từ: *apology*.",
+      "mistake": {"wrong": "I apologize you for being late.", "right": "I apologize for being late. / I apologize to you for being late.", "explain": "apologize cần giới từ: to + người, for + việc."},
+      "synonyms": ["say sorry"]
+    },
+    {
+      "id": "fe_forgive", "word": "forgive", "pos": "verb", "ipa": "/fərˈɡɪv/", "level": "B1",
+      "meaning": "tha thứ",
+      "definition": "to stop being angry with someone for something they did",
+      "collocations": ["forgive someone for", "please forgive me", "forgive and forget"],
+      "examples": [
+        {"en": "I'm sorry. Please *forgive* me.", "vi": "Tôi xin lỗi. Hãy tha thứ cho tôi.", "context": "xin lỗi"},
+        {"en": "She *forgave* him for forgetting their anniversary.", "vi": "Cô ấy tha thứ cho anh ấy vì quên ngày kỷ niệm.", "context": "kể chuyện"}
+      ],
+      "note": "forgive – forgave – forgiven. forgive someone FOR + V-ing.",
+      "synonyms": ["pardon", "excuse"]
+    },
+    {
+      "id": "fe_relationship", "word": "relationship", "pos": "noun", "ipa": "/rɪˈleɪʃnʃɪp/", "level": "B1",
+      "meaning": "mối quan hệ",
+      "definition": "the way people feel and behave toward each other",
+      "collocations": ["a good relationship with", "in a relationship", "build a relationship", "a long-distance relationship"],
+      "examples": [
+        {"en": "I have a good *relationship* with my coworkers.", "vi": "Tôi có quan hệ tốt với đồng nghiệp.", "context": "phỏng vấn"},
+        {"en": "They've been in a *relationship* for three years.", "vi": "Họ đã yêu nhau ba năm.", "context": "kể chuyện"}
+      ],
+      "note": "*in a relationship* = đang hẹn hò. Quan hệ với ai: relationship WITH someone.",
+      "synonyms": ["connection", "bond"]
+    },
+    {
+      "id": "fe_trust", "word": "trust", "pos": "verb / noun", "ipa": "/trʌst/", "level": "B1",
+      "meaning": "tin tưởng; lòng tin",
+      "definition": "to believe that someone is honest and will not hurt you",
+      "collocations": ["trust someone", "build trust", "lose trust", "trust me"],
+      "examples": [
+        {"en": "*Trust* me, this restaurant is amazing.", "vi": "Tin tôi đi, nhà hàng này tuyệt lắm.", "context": "thân mật"},
+        {"en": "It takes years to build *trust* and seconds to lose it.", "vi": "Mất nhiều năm để xây dựng lòng tin nhưng chỉ vài giây để đánh mất.", "context": "câu nói hay"}
+      ],
+      "note": "trust là ngoại động từ: trust someone (không cần in). *trust in* dùng khi nói niềm tin (trust in God).",
+      "mistake": {"wrong": "I trust on you.", "right": "I trust you. / I count on you.", "explain": "trust + tân ngữ trực tiếp. (rely on / count on mới có on)"},
+      "antonyms": ["distrust", "doubt"]
+    },
+    {
+      "id": "fe_kind", "word": "considerate", "pos": "adjective", "ipa": "/kənˈsɪdərət/", "level": "B2",
+      "meaning": "chu đáo, biết nghĩ cho người khác",
+      "definition": "thinking about other people's feelings and needs",
+      "collocations": ["very considerate", "considerate of you", "considerate towards others"],
+      "examples": [
+        {"en": "It was very *considerate* of you to call.", "vi": "Bạn thật chu đáo khi đã gọi điện.", "context": "cảm ơn"},
+        {"en": "Please be *considerate* and keep your voice down.", "vi": "Vui lòng nghĩ cho người khác và nói nhỏ thôi.", "context": "biển nhắc"}
+      ],
+      "note": "Cấu trúc khen: *It's very kind / considerate / thoughtful OF you to…*",
+      "synonyms": ["thoughtful", "kind"], "antonyms": ["selfish", "inconsiderate"]
+    },
+    {
+      "id": "fe_selfish", "word": "selfish", "pos": "adjective", "ipa": "/ˈselfɪʃ/", "level": "B1",
+      "meaning": "ích kỷ",
+      "definition": "caring only about yourself",
+      "collocations": ["a bit selfish", "selfish behavior", "don't be selfish"],
+      "examples": [
+        {"en": "It's *selfish* to play loud music late at night.", "vi": "Bật nhạc to lúc khuya là ích kỷ.", "context": "nhận xét"},
+        {"en": "Sorry, that was *selfish* of me.", "vi": "Xin lỗi, mình đã ích kỷ.", "context": "xin lỗi"}
+      ],
+      "antonyms": ["generous", "considerate"]
+    },
+    {
+      "id": "fe_generous", "word": "generous", "pos": "adjective", "ipa": "/ˈdʒenərəs/", "level": "B1",
+      "meaning": "hào phóng, rộng lượng",
+      "definition": "happy to give money, time or help to others",
+      "collocations": ["very generous", "generous of you", "a generous gift", "generous with"],
+      "examples": [
+        {"en": "Thank you, that's very *generous* of you.", "vi": "Cảm ơn, bạn thật hào phóng.", "context": "cảm ơn"},
+        {"en": "My grandmother is *generous* with her time and love.", "vi": "Bà tôi luôn rộng lượng dành thời gian và tình thương.", "context": "miêu tả"}
+      ],
+      "note": "*generous portions* = phần ăn đầy đặn.",
+      "antonyms": ["selfish", "mean", "stingy"]
+    },
+    {
+      "id": "fe_frustrated", "word": "frustrated", "pos": "adjective", "ipa": "/ˈfrʌstreɪtɪd/", "level": "B1",
+      "meaning": "bực bội, nản (vì không làm được)",
+      "definition": "annoyed because you cannot do what you want",
+      "collocations": ["frustrated with", "feel frustrated", "get frustrated", "frustrating experience"],
+      "examples": [
+        {"en": "I get *frustrated* when I can't understand native speakers.", "vi": "Tôi thấy nản khi không hiểu người bản xứ nói.", "context": "chia sẻ"},
+        {"en": "Waiting in traffic every day is so *frustrating*.", "vi": "Ngày nào cũng kẹt xe thật bực mình.", "context": "than phiền"}
+      ],
+      "note": "*frustrated* = cảm giác bất lực, bực vì bị cản trở. *frustrating* = gây bực bội.",
+      "synonyms": ["annoyed", "discouraged"], "antonyms": ["satisfied"]
+    },
+    {
+      "id": "fe_calm", "word": "calm down", "pos": "phrasal verb", "ipa": "/kɑːm daʊn/", "level": "B1",
+      "meaning": "bình tĩnh lại",
+      "definition": "to become less angry, upset or excited",
+      "collocations": ["calm down", "calm someone down", "try to calm down"],
+      "examples": [
+        {"en": "Take a deep breath and *calm down*.", "vi": "Hít thở sâu và bình tĩnh lại.", "context": "an ủi"},
+        {"en": "Music helps me *calm down* after a long day.", "vi": "Âm nhạc giúp tôi thư thái sau một ngày dài.", "context": "chia sẻ"}
+      ],
+      "note": "Cẩn thận: nói *Calm down!* với người đang giận có thể khiến họ giận hơn. Nhẹ nhàng hơn: *Let's take a moment.*",
+      "synonyms": ["relax", "chill out (thân mật)"]
+    },
+    {
+      "id": "fe_personality", "word": "personality", "pos": "noun", "ipa": "/ˌpɜːrsəˈnæləti/", "level": "B1",
+      "meaning": "tính cách",
+      "definition": "the type of person you are, shown by how you behave",
+      "collocations": ["a strong personality", "a great personality", "personality type", "different personalities"],
+      "examples": [
+        {"en": "She has a great *personality*. Everyone loves her.", "vi": "Cô ấy có tính cách tuyệt vời. Ai cũng quý.", "context": "khen"},
+        {"en": "How would you describe your *personality*?", "vi": "Bạn sẽ miêu tả tính cách mình thế nào?", "context": "phỏng vấn"}
+      ],
+      "note": "Câu hỏi phỏng vấn phổ biến. Trả lời bằng 2–3 tính từ kèm ví dụ: *I'm patient and reliable. For example…*",
+      "synonyms": ["character", "nature"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Showing sympathy", "situation_vi": "Thể hiện sự đồng cảm",
+      "formal": "I'm very sorry to hear that. Please let me know if there's anything I can do.",
+      "neutral": "Oh no, I'm sorry to hear that.",
+      "casual": "Aw, that sucks. Sorry, man.",
+      "vi": "Ôi, tiếc quá. Mình rất tiếc khi nghe vậy.",
+      "reply": "Thanks. I'll be OK.",
+      "note": "That sucks là tiếng lóng, chỉ dùng với bạn thân."
+    },
+    {
+      "situation": "Congratulating someone", "situation_vi": "Chúc mừng ai đó",
+      "formal": "Congratulations on your promotion. It's well deserved.",
+      "neutral": "Congrats! I'm so happy for you!",
+      "casual": "No way! That's awesome!",
+      "vi": "Chúc mừng nhé! Mình mừng cho bạn quá!",
+      "reply": "Thank you! I can't believe it myself.",
+      "note": "well deserved = xứng đáng. Congrats = Congratulations (thân mật)."
+    },
+    {
+      "situation": "Apologizing", "situation_vi": "Xin lỗi",
+      "formal": "I sincerely apologize for the misunderstanding.",
+      "neutral": "I'm really sorry. I didn't mean to upset you.",
+      "casual": "My bad, sorry!",
+      "vi": "Mình thật sự xin lỗi. Mình không cố ý làm bạn buồn.",
+      "reply": "It's OK. Don't worry about it.",
+      "note": "My bad = lỗi của tôi (rất thân mật). I didn't mean to… = tôi không cố ý…"
+    },
+    {
+      "situation": "Describing your personality", "situation_vi": "Miêu tả tính cách bản thân",
+      "formal": "I would describe myself as patient, reliable and eager to learn.",
+      "neutral": "I'm pretty outgoing, but I also like quiet time at home.",
+      "casual": "I'm kind of an introvert, to be honest.",
+      "vi": "Mình khá hướng ngoại, nhưng cũng thích ở nhà yên tĩnh.",
+      "reply": "Same here! I need my alone time too.",
+      "note": "pretty / kind of = khá là (thân mật)."
+    },
+    {
+      "situation": "Cheering someone up", "situation_vi": "Động viên ai đó",
+      "formal": "Don't be too hard on yourself. You did your best.",
+      "neutral": "Cheer up! You'll do better next time.",
+      "casual": "Hey, don't sweat it. It happens to everyone.",
+      "vi": "Vui lên! Lần sau bạn sẽ làm tốt hơn.",
+      "reply": "Thanks, I needed to hear that.",
+      "note": "don't sweat it = đừng lo (thân mật). Don't be too hard on yourself = đừng tự trách mình quá."
+    },
+    {
+      "situation": "Expressing frustration", "situation_vi": "Bày tỏ sự bực bội",
+      "formal": "I have to admit I find this situation quite frustrating.",
+      "neutral": "This is so frustrating. Nothing is working!",
+      "casual": "Ugh, I'm so done with this!",
+      "vi": "Bực thật. Chẳng có gì chạy cả!",
+      "reply": "Take a break. We'll figure it out together.",
+      "note": "figure it out = tìm ra cách giải quyết."
+    },
+    {
+      "situation": "Asking how someone really feels", "situation_vi": "Hỏi thăm tâm trạng",
+      "formal": "You seem a little quiet today. Is everything all right?",
+      "neutral": "Are you OK? You seem a bit down.",
+      "casual": "What's up? You look kinda upset.",
+      "vi": "Bạn ổn không? Trông bạn hơi buồn.",
+      "reply": "I'm fine, just tired. Thanks for asking.",
+      "note": "down = buồn, chán (feeling down)."
+    },
+    {
+      "situation": "Thanking someone sincerely", "situation_vi": "Cảm ơn chân thành",
+      "formal": "I really appreciate everything you've done for me.",
+      "neutral": "Thanks so much. I couldn't have done it without you.",
+      "casual": "You're the best! Thanks a million!",
+      "vi": "Cảm ơn bạn rất nhiều. Không có bạn chắc mình không làm được.",
+      "reply": "Anytime! That's what friends are for.",
+      "note": "I couldn't have done it without you là cách cảm ơn rất chân thành và tự nhiên."
+    }
+  ]
+}

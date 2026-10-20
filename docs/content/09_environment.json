@@ -1,0 +1,443 @@
+{
+  "id": "environment",
+  "order": 9,
+  "icon": "🌿",
+  "level": "B1",
+  "title": "Environment & Weather",
+  "title_vi": "Môi trường & Thời tiết",
+  "description": "Thời tiết hằng ngày, ô nhiễm, biến đổi khí hậu và bảo vệ môi trường.",
+  "words": [
+    {
+      "id": "en_weather", "word": "forecast", "pos": "noun / verb", "ipa": "/ˈfɔːrkæst/", "level": "B1",
+      "meaning": "dự báo (thời tiết)",
+      "definition": "a statement about what will probably happen, especially the weather",
+      "collocations": ["weather forecast", "check the forecast", "rain is forecast", "according to the forecast"],
+      "examples": [
+        {"en": "The *forecast* says it will rain this afternoon.", "vi": "Dự báo nói chiều nay trời mưa.", "context": "nói chuyện"},
+        {"en": "Let me check the *forecast* before we go.", "vi": "Để tôi xem dự báo thời tiết trước khi đi.", "context": "kế hoạch"}
+      ],
+      "note": "Câu hỏi thời tiết phổ biến: *What's the weather like today?* (không nói *How is the weather like?*).",
+      "mistake": {"wrong": "How is the weather like today?", "right": "What's the weather like today? / How's the weather today?", "explain": "Dùng What … like hoặc How … (không kết hợp How với like)."}
+    },
+    {
+      "id": "en_humid", "word": "humid", "pos": "adjective", "ipa": "/ˈhjuːmɪd/", "level": "B1",
+      "meaning": "ẩm ướt, oi bức",
+      "definition": "hot and wet in a way that feels uncomfortable",
+      "collocations": ["hot and humid", "very humid", "humid weather", "humidity"],
+      "examples": [
+        {"en": "Saigon is hot and *humid* most of the year.", "vi": "Sài Gòn nóng ẩm gần như quanh năm.", "context": "miêu tả"},
+        {"en": "It's so *humid* today. My shirt is all wet.", "vi": "Hôm nay oi quá. Áo tôi ướt hết.", "context": "than phiền"}
+      ],
+      "note": "Từ vựng thời tiết: *sunny, cloudy, rainy, windy, foggy (sương mù), chilly (se lạnh), freezing (lạnh cóng), boiling (nóng như đổ lửa)*.",
+      "synonyms": ["muggy", "sticky"], "antonyms": ["dry"]
+    },
+    {
+      "id": "en_pour", "word": "pouring", "pos": "adjective", "ipa": "/ˈpɔːrɪŋ/", "level": "B1",
+      "meaning": "mưa như trút",
+      "definition": "raining very heavily",
+      "collocations": ["pouring rain", "it's pouring", "pouring down", "pour with rain"],
+      "examples": [
+        {"en": "It's *pouring* outside! Take an umbrella.", "vi": "Ngoài trời mưa như trút! Mang ô đi.", "context": "nhắc nhở"},
+        {"en": "We got caught in the *pouring* rain.", "vi": "Chúng tôi bị mắc mưa to.", "context": "kể chuyện"}
+      ],
+      "note": "Thang mưa: drizzle (mưa phùn) < rain < pour (mưa như trút) < storm (bão). *get caught in the rain* = bị mắc mưa.",
+      "synonyms": ["heavy rain"]
+    },
+    {
+      "id": "en_storm", "word": "storm", "pos": "noun", "ipa": "/stɔːrm/", "level": "B1",
+      "meaning": "cơn bão, giông",
+      "definition": "very bad weather with strong wind and rain",
+      "collocations": ["a big storm", "a tropical storm", "thunderstorm", "the storm hit"],
+      "examples": [
+        {"en": "The *storm* knocked down many trees.", "vi": "Cơn bão làm đổ nhiều cây.", "context": "tin tức"},
+        {"en": "Flights were cancelled because of the *storm*.", "vi": "Các chuyến bay bị hủy vì bão.", "context": "thông báo"}
+      ],
+      "note": "*typhoon* = bão lớn ở châu Á. *thunder* = sấm, *lightning* = sét/chớp.",
+      "synonyms": ["typhoon", "hurricane"]
+    },
+    {
+      "id": "en_flood", "word": "flood", "pos": "noun / verb", "ipa": "/flʌd/", "level": "B1",
+      "meaning": "lũ lụt; ngập",
+      "definition": "a lot of water covering an area that is usually dry",
+      "collocations": ["the streets flooded", "flood warning", "heavy flooding", "be flooded"],
+      "examples": [
+        {"en": "The streets *flood* every time it rains heavily.", "vi": "Mỗi lần mưa to là đường ngập.", "context": "than phiền"},
+        {"en": "Thousands of homes were damaged in the *flood*.", "vi": "Hàng nghìn ngôi nhà bị hư hại trong trận lũ.", "context": "tin tức"}
+      ],
+      "note": "Phát âm /flʌd/ (như *flâd*), không đọc *flút*. Nghĩa bóng: *a flood of emails* = vô số email.",
+      "synonyms": ["flooding"], "antonyms": ["drought"]
+    },
+    {
+      "id": "en_pollution", "word": "pollution", "pos": "noun", "ipa": "/pəˈluːʃn/", "level": "B1",
+      "meaning": "sự ô nhiễm",
+      "definition": "damage to air, water or land caused by harmful substances",
+      "collocations": ["air pollution", "reduce pollution", "noise pollution", "plastic pollution"],
+      "examples": [
+        {"en": "Air *pollution* in big cities is a serious problem.", "vi": "Ô nhiễm không khí ở các thành phố lớn là vấn đề nghiêm trọng.", "context": "thảo luận"},
+        {"en": "I wear a mask because of the *pollution*.", "vi": "Tôi đeo khẩu trang vì ô nhiễm.", "context": "giải thích"}
+      ],
+      "note": "Không đếm được. Động từ: *pollute*; tính từ: *polluted* (a polluted river).",
+      "mistake": {"wrong": "The city has many pollutions.", "right": "The city has a lot of pollution.", "explain": "pollution không đếm được, không thêm -s."}
+    },
+    {
+      "id": "en_climate_change", "word": "climate change", "pos": "noun phrase", "ipa": "/ˈklaɪmət tʃeɪndʒ/", "level": "B1",
+      "meaning": "biến đổi khí hậu",
+      "definition": "long-term changes in the Earth's weather and temperature",
+      "collocations": ["fight climate change", "the effects of climate change", "tackle climate change"],
+      "examples": [
+        {"en": "*Climate change* is making summers hotter.", "vi": "Biến đổi khí hậu khiến mùa hè nóng hơn.", "context": "thảo luận"},
+        {"en": "What can we do to fight *climate change*?", "vi": "Chúng ta có thể làm gì để chống biến đổi khí hậu?", "context": "đặt câu hỏi"}
+      ],
+      "note": "*weather* = thời tiết hằng ngày; *climate* = khí hậu (lâu dài). *global warming* = nóng lên toàn cầu.",
+      "synonyms": ["global warming"]
+    },
+    {
+      "id": "en_recycle", "word": "recycle", "pos": "verb", "ipa": "/ˌriːˈsaɪkl/", "level": "B1",
+      "meaning": "tái chế",
+      "definition": "to process used things so they can be used again",
+      "collocations": ["recycle plastic", "recycling bin", "recycled paper", "sort the recycling"],
+      "examples": [
+        {"en": "We *recycle* paper, plastic and glass at home.", "vi": "Ở nhà chúng tôi tái chế giấy, nhựa và thủy tinh.", "context": "kể chuyện"},
+        {"en": "Put the bottles in the *recycling* bin, please.", "vi": "Bỏ chai vào thùng rác tái chế nhé.", "context": "nhắc nhở"}
+      ],
+      "note": "Bộ ba nổi tiếng: *Reduce, Reuse, Recycle* (giảm thiểu, tái sử dụng, tái chế).",
+      "synonyms": ["reuse"]
+    },
+    {
+      "id": "en_waste", "word": "garbage", "pos": "noun", "ipa": "/ˈɡɑːrbɪdʒ/", "level": "B1",
+      "meaning": "rác (sinh hoạt)",
+      "definition": "things that you throw away, such as food or paper",
+      "collocations": ["take out the garbage", "garbage bin", "garbage truck", "sort the garbage"],
+      "examples": [
+        {"en": "Can you take out the *garbage* tonight?", "vi": "Tối nay bạn đổ rác giúp được không?", "context": "việc nhà"},
+        {"en": "In Japan, people sort their *garbage* very carefully.", "vi": "Ở Nhật, người ta phân loại rác rất kỹ.", "context": "văn hóa"}
+      ],
+      "note": "Mỹ: *garbage / trash*; Anh: *rubbish*. Trang trọng (rác thải nói chung): *waste* (plastic waste, food waste). Không đếm được.",
+      "mistake": {"wrong": "There are many garbages on the street.", "right": "There is a lot of garbage on the street.", "explain": "garbage / trash / rubbish đều không đếm được."},
+      "synonyms": ["trash", "rubbish", "waste"]
+    },
+    {
+      "id": "en_heatwave", "word": "heatwave", "pos": "noun", "ipa": "/ˈhiːtweɪv/", "level": "B1",
+      "meaning": "đợt nắng nóng",
+      "definition": "a period of unusually hot weather",
+      "collocations": ["a severe heatwave", "during the heatwave", "a heatwave hits"],
+      "examples": [
+        {"en": "The *heatwave* lasted for two weeks.", "vi": "Đợt nắng nóng kéo dài hai tuần.", "context": "tin tức"},
+        {"en": "Stay indoors and drink lots of water during a *heatwave*.", "vi": "Hãy ở trong nhà và uống nhiều nước khi có nắng nóng.", "context": "lời khuyên"}
+      ],
+      "note": "Có thể viết *heatwave* hoặc *heat wave*. Nóng cực độ: *boiling / scorching hot*.",
+      "antonyms": ["cold snap"]
+    },
+    {
+      "id": "en_protect", "word": "protect", "pos": "verb", "ipa": "/prəˈtekt/", "level": "B1",
+      "meaning": "bảo vệ",
+      "definition": "to keep someone or something safe from harm",
+      "collocations": ["protect the environment", "protect someone from", "protect wildlife", "protected area"],
+      "examples": [
+        {"en": "We all need to *protect* the environment.", "vi": "Tất cả chúng ta cần bảo vệ môi trường.", "context": "thảo luận"},
+        {"en": "Sunscreen *protects* your skin from the sun.", "vi": "Kem chống nắng bảo vệ da khỏi ánh nắng.", "context": "giải thích"}
+      ],
+      "note": "protect A FROM B. Danh từ: *protection*.",
+      "mistake": {"wrong": "Protect your skin against of the sun.", "right": "Protect your skin from the sun.", "explain": "protect … from / against … (không có of)."},
+      "synonyms": ["save", "guard"], "antonyms": ["harm", "damage"]
+    },
+    {
+      "id": "en_environment", "word": "environment", "pos": "noun", "ipa": "/ɪnˈvaɪrənmənt/", "level": "B1",
+      "meaning": "môi trường",
+      "definition": "the natural world; the conditions around you",
+      "collocations": ["protect the environment", "harm the environment", "environmentally friendly", "work environment"],
+      "examples": [
+        {"en": "Plastic bags are bad for the *environment*.", "vi": "Túi ni lông có hại cho môi trường.", "context": "thảo luận"},
+        {"en": "I like working in a friendly *environment*.", "vi": "Tôi thích làm việc trong môi trường thân thiện.", "context": "phỏng vấn"}
+      ],
+      "note": "Chú ý chính tả: environ-MENT (có chữ n ở giữa). *eco-friendly / environmentally friendly* = thân thiện với môi trường."
+    },
+    {
+      "id": "en_reduce", "word": "reduce", "pos": "verb", "ipa": "/rɪˈduːs/", "level": "B1",
+      "meaning": "giảm, giảm bớt",
+      "definition": "to make something smaller in amount or size",
+      "collocations": ["reduce waste", "reduce the risk", "reduce costs", "greatly reduce"],
+      "examples": [
+        {"en": "Taking the bus *reduces* traffic and pollution.", "vi": "Đi xe buýt giúp giảm kẹt xe và ô nhiễm.", "context": "thảo luận"},
+        {"en": "The company wants to *reduce* costs this year.", "vi": "Công ty muốn giảm chi phí năm nay.", "context": "công việc"}
+      ],
+      "note": "Danh từ: *reduction*. Thân mật: *cut down on* (cut down on plastic).",
+      "synonyms": ["cut", "lower", "decrease"], "antonyms": ["increase"]
+    },
+    {
+      "id": "en_energy", "word": "energy", "pos": "noun", "ipa": "/ˈenərdʒi/", "level": "A2",
+      "meaning": "năng lượng; sức lực",
+      "definition": "power used to produce heat or make machines work; the strength to be active",
+      "collocations": ["save energy", "solar energy", "renewable energy", "full of energy"],
+      "examples": [
+        {"en": "Turn off the lights to save *energy*.", "vi": "Tắt đèn để tiết kiệm năng lượng.", "context": "lời khuyên"},
+        {"en": "I don't have the *energy* to go out tonight.", "vi": "Tối nay tôi không còn sức đi chơi.", "context": "thân mật"}
+      ],
+      "note": "*solar* (mặt trời), *wind* (gió), *renewable* (tái tạo). Phát âm: EN-ơ-dzi (không đọc *e-nơ-gi*).",
+      "synonyms": ["power"]
+    },
+    {
+      "id": "en_nature", "word": "nature", "pos": "noun", "ipa": "/ˈneɪtʃər/", "level": "A2",
+      "meaning": "thiên nhiên; bản chất",
+      "definition": "the natural world: plants, animals, mountains, etc.",
+      "collocations": ["in nature", "nature lover", "close to nature", "human nature"],
+      "examples": [
+        {"en": "I love spending weekends in *nature*.", "vi": "Tôi thích dành cuối tuần giữa thiên nhiên.", "context": "sở thích"},
+        {"en": "It's human *nature* to want to be liked.", "vi": "Muốn được yêu quý là bản chất con người.", "context": "nhận xét"}
+      ],
+      "note": "Không dùng *the* khi nói thiên nhiên nói chung: *I love nature* (không nói the nature).",
+      "mistake": {"wrong": "I love the nature.", "right": "I love nature.", "explain": "nature (thiên nhiên) nói chung không dùng mạo từ the."}
+    },
+    {
+      "id": "en_endangered", "word": "endangered", "pos": "adjective", "ipa": "/ɪnˈdeɪndʒərd/", "level": "B2",
+      "meaning": "có nguy cơ tuyệt chủng",
+      "definition": "at risk of disappearing completely",
+      "collocations": ["endangered species", "endangered animals", "critically endangered"],
+      "examples": [
+        {"en": "Tigers are an *endangered* species.", "vi": "Hổ là loài có nguy cơ tuyệt chủng.", "context": "thông tin"},
+        {"en": "We must protect *endangered* animals.", "vi": "Chúng ta phải bảo vệ các loài động vật có nguy cơ tuyệt chủng.", "context": "thảo luận"}
+      ],
+      "note": "*extinct* = đã tuyệt chủng. *species* = loài (số ít và số nhiều giống nhau).",
+      "synonyms": ["threatened"]
+    },
+    {
+      "id": "en_plastic", "word": "single-use", "pos": "adjective", "ipa": "/ˌsɪŋɡl ˈjuːs/", "level": "B2",
+      "meaning": "dùng một lần",
+      "definition": "made to be used once and then thrown away",
+      "collocations": ["single-use plastic", "single-use cups", "ban single-use plastics"],
+      "examples": [
+        {"en": "Many cafés no longer use *single-use* plastic straws.", "vi": "Nhiều quán cà phê không còn dùng ống hút nhựa dùng một lần.", "context": "thông tin"},
+        {"en": "Try to avoid *single-use* bags when you shop.", "vi": "Cố tránh dùng túi dùng một lần khi đi mua sắm.", "context": "lời khuyên"}
+      ],
+      "note": "Ngược lại: *reusable* (tái sử dụng được): a reusable bottle.",
+      "antonyms": ["reusable"]
+    },
+    {
+      "id": "en_temperature", "word": "temperature", "pos": "noun", "ipa": "/ˈtemprətʃər/", "level": "A2",
+      "meaning": "nhiệt độ",
+      "definition": "how hot or cold something is",
+      "collocations": ["high temperature", "the temperature drops", "room temperature", "take someone's temperature"],
+      "examples": [
+        {"en": "The *temperature* reached 40 degrees yesterday.", "vi": "Hôm qua nhiệt độ lên tới 40 độ.", "context": "tin tức"},
+        {"en": "The nurse took my *temperature*.", "vi": "Y tá đo nhiệt độ cho tôi.", "context": "khám bệnh"}
+      ],
+      "note": "Phát âm 3 âm tiết: TEM-prơ-chơ. Nhiệt độ *rises / drops* (tăng / giảm)."
+    },
+    {
+      "id": "en_season", "word": "season", "pos": "noun", "ipa": "/ˈsiːzn/", "level": "A2",
+      "meaning": "mùa",
+      "definition": "one of the periods of the year, e.g. summer or the rainy season",
+      "collocations": ["rainy season", "dry season", "tourist season", "favorite season"],
+      "examples": [
+        {"en": "The rainy *season* in the south lasts from May to November.", "vi": "Mùa mưa ở miền Nam kéo dài từ tháng 5 đến tháng 11.", "context": "thông tin"},
+        {"en": "Autumn is my favorite *season* in Hanoi.", "vi": "Mùa thu là mùa tôi thích nhất ở Hà Nội.", "context": "chia sẻ"}
+      ],
+      "note": "Mùa: spring, summer, autumn (Anh) / fall (Mỹ), winter. Dùng *in*: in summer, in the rainy season."
+    },
+    {
+      "id": "en_drought", "word": "drought", "pos": "noun", "ipa": "/draʊt/", "level": "B2",
+      "meaning": "hạn hán",
+      "definition": "a long period without rain",
+      "collocations": ["a severe drought", "suffer from drought", "drought and floods"],
+      "examples": [
+        {"en": "The *drought* destroyed most of the rice crop.", "vi": "Hạn hán phá hủy phần lớn vụ lúa.", "context": "tin tức"},
+        {"en": "Farmers in the Mekong Delta suffer from *drought* and salt water.", "vi": "Nông dân ở ĐBSCL chịu cảnh hạn mặn.", "context": "thông tin"}
+      ],
+      "note": "Phát âm /draʊt/ (như *đờ-rao-t*), chữ gh câm.",
+      "antonyms": ["flood"]
+    },
+    {
+      "id": "en_public_transport", "word": "public transport", "pos": "noun phrase", "ipa": "/ˌpʌblɪk ˈtrænspɔːrt/", "level": "B1",
+      "meaning": "phương tiện giao thông công cộng",
+      "definition": "buses, trains and other vehicles that everyone can use",
+      "collocations": ["use public transport", "take public transport", "by public transport"],
+      "examples": [
+        {"en": "Using *public transport* is cheaper and greener.", "vi": "Dùng phương tiện công cộng rẻ hơn và xanh hơn.", "context": "thảo luận"},
+        {"en": "Is it easy to get there by *public transport*?", "vi": "Đến đó bằng phương tiện công cộng có dễ không?", "context": "hỏi"}
+      ],
+      "note": "Mỹ: *public transportation*. *green* = thân thiện với môi trường.",
+      "synonyms": ["public transportation"]
+    },
+    {
+      "id": "en_sustainable", "word": "sustainable", "pos": "adjective", "ipa": "/səˈsteɪnəbl/", "level": "B2",
+      "meaning": "bền vững",
+      "definition": "able to continue without harming the environment",
+      "collocations": ["sustainable development", "sustainable living", "sustainable fashion", "more sustainable"],
+      "examples": [
+        {"en": "Bamboo is a *sustainable* material.", "vi": "Tre là vật liệu bền vững.", "context": "thông tin"},
+        {"en": "We need a more *sustainable* way of living.", "vi": "Chúng ta cần một lối sống bền vững hơn.", "context": "thảo luận"}
+      ],
+      "note": "Từ rất hay gặp trong bài thi IELTS/B2. Danh từ: *sustainability*.",
+      "synonyms": ["eco-friendly", "green"]
+    },
+    {
+      "id": "en_harmful", "word": "harmful", "pos": "adjective", "ipa": "/ˈhɑːrmfl/", "level": "B1",
+      "meaning": "có hại",
+      "definition": "causing damage or injury",
+      "collocations": ["harmful to", "harmful effects", "harmful chemicals", "potentially harmful"],
+      "examples": [
+        {"en": "Smoking is *harmful* to your health.", "vi": "Hút thuốc có hại cho sức khỏe.", "context": "cảnh báo"},
+        {"en": "Some sunscreens contain chemicals that are *harmful* to coral.", "vi": "Một số kem chống nắng chứa hóa chất có hại cho san hô.", "context": "thông tin"}
+      ],
+      "note": "harmful TO + đối tượng. Ngược lại: *harmless* (vô hại).",
+      "mistake": {"wrong": "Plastic is harmful for animals.", "right": "Plastic is harmful to animals.", "explain": "Giới từ chuẩn đi với harmful là TO."},
+      "synonyms": ["damaging", "bad for"], "antonyms": ["harmless"]
+    },
+    {
+      "id": "en_volunteer", "word": "volunteer", "pos": "noun / verb", "ipa": "/ˌvɑːlənˈtɪr/", "level": "B1",
+      "meaning": "tình nguyện viên; tình nguyện",
+      "definition": "a person who works without pay to help; to offer to do something",
+      "collocations": ["volunteer work", "volunteer to do", "volunteer at", "a beach clean-up volunteer"],
+      "examples": [
+        {"en": "I *volunteer* at a beach clean-up once a month.", "vi": "Tôi đi làm tình nguyện dọn biển mỗi tháng một lần.", "context": "giới thiệu"},
+        {"en": "We need ten *volunteers* for the event.", "vi": "Chúng tôi cần mười tình nguyện viên cho sự kiện.", "context": "thông báo"}
+      ],
+      "note": "Nhấn âm cuối: vo-lun-TEER. *volunteer to do something* = xung phong làm gì."
+    },
+    {
+      "id": "en_resource", "word": "natural resources", "pos": "noun phrase", "ipa": "/ˌnætʃrəl ˈriːsɔːrsɪz/", "level": "B2",
+      "meaning": "tài nguyên thiên nhiên",
+      "definition": "materials from nature that people use, e.g. water, wood, oil",
+      "collocations": ["protect natural resources", "use up natural resources", "rich in natural resources"],
+      "examples": [
+        {"en": "Vietnam is rich in *natural resources*.", "vi": "Việt Nam giàu tài nguyên thiên nhiên.", "context": "thông tin"},
+        {"en": "We are using up our *natural resources* too quickly.", "vi": "Chúng ta đang dùng cạn tài nguyên thiên nhiên quá nhanh.", "context": "thảo luận"}
+      ],
+      "note": "*use up* = dùng hết. *resource* đơn lẻ = nguồn lực (human resources = nhân sự)."
+    },
+    {
+      "id": "en_deforestation", "word": "cut down", "pos": "phrasal verb", "ipa": "/kʌt daʊn/", "level": "B1",
+      "meaning": "chặt hạ (cây); cắt giảm",
+      "definition": "to make a tree fall by cutting it; to reduce something",
+      "collocations": ["cut down trees", "cut down on sugar", "cut down on plastic"],
+      "examples": [
+        {"en": "Too many trees are being *cut down* every year.", "vi": "Quá nhiều cây bị chặt mỗi năm.", "context": "thảo luận"},
+        {"en": "I'm trying to *cut down* on coffee.", "vi": "Tôi đang cố uống ít cà phê lại.", "context": "chia sẻ"}
+      ],
+      "note": "*cut down on + danh từ* = giảm bớt việc tiêu thụ. Phá rừng: *deforestation*."
+    },
+    {
+      "id": "en_impact", "word": "impact", "pos": "noun", "ipa": "/ˈɪmpækt/", "level": "B2",
+      "meaning": "tác động, ảnh hưởng",
+      "definition": "a strong effect on something",
+      "collocations": ["have an impact on", "a big impact", "environmental impact", "positive impact"],
+      "examples": [
+        {"en": "Small actions can have a big *impact* on the environment.", "vi": "Những hành động nhỏ có thể tác động lớn tới môi trường.", "context": "thảo luận"},
+        {"en": "What *impact* does tourism have on local people?", "vi": "Du lịch tác động thế nào tới người dân địa phương?", "context": "đặt câu hỏi"}
+      ],
+      "note": "have an impact ON. Từ B2 rất hay dùng trong viết luận. Gần nghĩa: *effect*.",
+      "mistake": {"wrong": "It has a big impact to our lives.", "right": "It has a big impact on our lives.", "explain": "impact / effect / influence đi với ON."},
+      "synonyms": ["effect", "influence"]
+    },
+    {
+      "id": "en_solution", "word": "solution", "pos": "noun", "ipa": "/səˈluːʃn/", "level": "B1",
+      "meaning": "giải pháp",
+      "definition": "a way to solve a problem",
+      "collocations": ["find a solution", "a solution to", "the best solution", "a simple solution"],
+      "examples": [
+        {"en": "Is there a *solution* to traffic jams in big cities?", "vi": "Có giải pháp nào cho kẹt xe ở các thành phố lớn không?", "context": "thảo luận"},
+        {"en": "We need to find a *solution* quickly.", "vi": "Chúng ta cần nhanh chóng tìm giải pháp.", "context": "công việc"}
+      ],
+      "note": "a solution TO a problem (không dùng for trong văn chuẩn). Động từ: *solve*.",
+      "mistake": {"wrong": "the solution of this problem", "right": "the solution to this problem", "explain": "Giải pháp cho vấn đề → solution TO."},
+      "synonyms": ["answer", "way out"], "antonyms": ["problem"]
+    },
+    {
+      "id": "en_rubbish", "word": "litter", "pos": "noun / verb", "ipa": "/ˈlɪtər/", "level": "B2",
+      "meaning": "rác vứt bừa; xả rác",
+      "definition": "paper, cans, etc. that people leave on the ground in public places",
+      "collocations": ["drop litter", "pick up litter", "No littering", "litter the streets"],
+      "examples": [
+        {"en": "Please don't *litter*. Use the bins.", "vi": "Xin đừng xả rác. Hãy dùng thùng rác.", "context": "biển báo"},
+        {"en": "We spent the morning picking up *litter* on the beach.", "vi": "Chúng tôi dành cả buổi sáng nhặt rác trên bãi biển.", "context": "kể chuyện"}
+      ],
+      "note": "*No littering* = Cấm xả rác (biển báo).",
+      "synonyms": ["trash", "rubbish"]
+    },
+    {
+      "id": "en_air_quality", "word": "air quality", "pos": "noun phrase", "ipa": "/ˈer ˌkwɑːləti/", "level": "B1",
+      "meaning": "chất lượng không khí",
+      "definition": "how clean or polluted the air is",
+      "collocations": ["poor air quality", "check the air quality", "air quality index (AQI)"],
+      "examples": [
+        {"en": "The *air quality* in Hanoi is very poor today.", "vi": "Chất lượng không khí ở Hà Nội hôm nay rất kém.", "context": "thông tin"},
+        {"en": "I always check the *air quality* before going for a run.", "vi": "Tôi luôn kiểm tra chất lượng không khí trước khi chạy bộ.", "context": "thói quen"}
+      ],
+      "note": "*AQI* = chỉ số chất lượng không khí. Kém: *poor / bad*; tốt: *good*."
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Small talk about the weather", "situation_vi": "Nói chuyện phiếm về thời tiết",
+      "formal": "Lovely weather today, isn't it?",
+      "neutral": "It's so hot today, isn't it?",
+      "casual": "Man, it's boiling!",
+      "vi": "Hôm nay nóng quá nhỉ?",
+      "reply": "I know! I can't wait for the rainy season.",
+      "note": "Câu hỏi đuôi (isn't it?) là cách mở đầu small talk kinh điển."
+    },
+    {
+      "situation": "Asking about the forecast", "situation_vi": "Hỏi dự báo thời tiết",
+      "formal": "Do you happen to know what the weather will be like tomorrow?",
+      "neutral": "What's the weather going to be like this weekend?",
+      "casual": "Is it gonna rain later?",
+      "vi": "Cuối tuần này thời tiết thế nào nhỉ?",
+      "reply": "The forecast says sunny on Saturday, but rain on Sunday.",
+      "note": "gonna = going to (thân mật)."
+    },
+    {
+      "situation": "Giving an opinion on an environmental issue", "situation_vi": "Nêu quan điểm về vấn đề môi trường",
+      "formal": "In my opinion, the government should invest more in public transport.",
+      "neutral": "I think we should use less plastic.",
+      "casual": "Honestly, plastic bags should just be banned.",
+      "vi": "Tôi nghĩ chúng ta nên dùng ít đồ nhựa hơn.",
+      "reply": "I agree, but it's not always easy to avoid.",
+      "note": "Cụm nêu ý kiến: In my opinion…, I believe…, From my point of view…"
+    },
+    {
+      "situation": "Agreeing and disagreeing", "situation_vi": "Đồng ý và phản đối",
+      "formal": "I see your point, but I'm not entirely convinced.",
+      "neutral": "I partly agree, but I think it's more complicated.",
+      "casual": "Yeah, totally. / Nah, I don't think so.",
+      "vi": "Tôi đồng ý một phần, nhưng tôi nghĩ vấn đề phức tạp hơn.",
+      "reply": "What do you mean exactly?",
+      "note": "not entirely convinced = chưa hoàn toàn bị thuyết phục (phản đối nhẹ nhàng)."
+    },
+    {
+      "situation": "Suggesting eco-friendly habits", "situation_vi": "Gợi ý thói quen xanh",
+      "formal": "Why don't we start bringing our own containers?",
+      "neutral": "How about taking the bus instead of driving?",
+      "casual": "Let's just bike there. It's not far.",
+      "vi": "Hay là mình đi xe buýt thay vì lái xe?",
+      "reply": "Good idea! It's cheaper too.",
+      "note": "How about + V-ing? / Why don't we + V? = gợi ý."
+    },
+    {
+      "situation": "Complaining about pollution", "situation_vi": "Phàn nàn về ô nhiễm",
+      "formal": "The air quality has been extremely poor this week.",
+      "neutral": "The air is so bad today. I can barely breathe.",
+      "casual": "Ugh, the smog is crazy today.",
+      "vi": "Hôm nay không khí tệ quá. Tôi khó thở luôn.",
+      "reply": "Make sure you wear a mask when you go out.",
+      "note": "barely = hầu như không. smog = khói bụi lẫn sương."
+    },
+    {
+      "situation": "Talking about a natural disaster", "situation_vi": "Nói về thiên tai",
+      "formal": "The typhoon caused severe damage to the central provinces.",
+      "neutral": "Did you hear about the floods in the central region?",
+      "casual": "That storm was crazy. Is your family OK?",
+      "vi": "Bạn nghe tin lũ ở miền Trung chưa?",
+      "reply": "Yes, it's terrible. I've donated to help the victims.",
+      "note": "victims = nạn nhân. donate = quyên góp."
+    },
+    {
+      "situation": "Making plans depending on weather", "situation_vi": "Lên kế hoạch theo thời tiết",
+      "formal": "If the weather permits, we'll have the event outdoors.",
+      "neutral": "If it doesn't rain, let's go to the park.",
+      "casual": "Beach tomorrow if it's sunny?",
+      "vi": "Nếu không mưa thì mình đi công viên nhé.",
+      "reply": "Sounds good. Let's check the forecast in the morning.",
+      "note": "Câu điều kiện loại 1: If + hiện tại đơn, will/let's + V."
+    }
+  ]
+}

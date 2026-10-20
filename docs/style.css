@@ -78,7 +78,7 @@ input, select { font: inherit; color: var(--text); }
   height: calc(var(--tabbar-h) + env(safe-area-inset-bottom));
   padding-bottom: env(safe-area-inset-bottom);
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   background: var(--surface);
   border-top: 1px solid var(--border);
   z-index: 10;
@@ -89,8 +89,9 @@ input, select { font: inherit; color: var(--text); }
   align-items: center;
   justify-content: center;
   gap: 1px;
-  font-size: 11px;
+  font-size: 10.5px;
   color: var(--sub);
+  white-space: nowrap;
 }
 .tabbar a span { font-size: 21px; line-height: 1; filter: grayscale(0.6); opacity: 0.8; }
 .tabbar a.active { color: var(--accent); font-weight: 600; }
@@ -279,6 +280,26 @@ input, select { font: inherit; color: var(--text); }
 .reg .s { flex: 1; min-width: 0; }
 .reply { background: var(--alt); border-radius: 10px; padding: 8px 10px; font-size: 14px; display: flex; align-items: center; gap: 6px; margin-top: 8px; }
 .tip { color: var(--warn); font-size: 14px; margin-top: 8px; }
+
+/* ---------- Luyện viết ---------- */
+textarea.field { resize: vertical; min-height: 84px; line-height: 1.4; font-family: inherit; }
+.cmp { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px; margin-top: 12px; line-height: 1.9; }
+.tok { border-radius: 6px; padding: 1px 4px; }
+.tok.ok { background: var(--good-soft); color: var(--good); }
+.tok.miss { background: var(--accent-soft); color: var(--accent); font-weight: 700; text-decoration: underline; }
+.tok.extra { background: var(--warn-soft); color: var(--warn); }
+.legend { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.build { min-height: 64px; border: 2px dashed var(--border); border-radius: 12px; padding: 10px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.build.ok { border-color: var(--good); border-style: solid; }
+.build.bad { border-color: var(--bad); border-style: solid; }
+.build .chip, .chips .chip { font-size: 16px; padding: 8px 12px; }
+.claude-box { background: var(--purple-soft); border-radius: 12px; padding: 12px; margin-top: 12px; }
+#toast {
+  position: fixed; left: 50%; bottom: calc(var(--tabbar-h) + 20px + env(safe-area-inset-bottom));
+  transform: translateX(-50%) translateY(20px); opacity: 0; transition: 0.25s;
+  background: #1F2430; color: #fff; padding: 10px 16px; border-radius: 999px; font-size: 14px; z-index: 20; pointer-events: none;
+}
+#toast.show { opacity: 1; transform: translateX(-50%); }
 
 /* ---------- Form ---------- */
 .field {

@@ -1,0 +1,450 @@
+{
+  "id": "health",
+  "order": 6,
+  "icon": "🩺",
+  "level": "B1",
+  "title": "Health & Body",
+  "title_vi": "Sức khỏe & Cơ thể",
+  "description": "Triệu chứng, đi khám bác sĩ, thuốc men, lối sống lành mạnh và tinh thần.",
+  "words": [
+    {
+      "id": "he_symptom", "word": "symptom", "pos": "noun", "ipa": "/ˈsɪmptəm/", "level": "B1",
+      "meaning": "triệu chứng",
+      "definition": "a sign that you have an illness",
+      "collocations": ["have symptoms", "common symptoms", "mild symptoms", "symptoms of the flu"],
+      "examples": [
+        {"en": "What are your *symptoms*? – I have a sore throat and a fever.", "vi": "Anh có triệu chứng gì? – Tôi bị đau họng và sốt.", "context": "khám bệnh"},
+        {"en": "The *symptoms* usually go away after a few days.", "vi": "Các triệu chứng thường hết sau vài ngày.", "context": "giải thích"}
+      ],
+      "note": "Bác sĩ hay hỏi: *What seems to be the problem?* hoặc *What are your symptoms?*",
+      "synonyms": ["sign"]
+    },
+    {
+      "id": "he_fever", "word": "fever", "pos": "noun", "ipa": "/ˈfiːvər/", "level": "A2",
+      "meaning": "cơn sốt",
+      "definition": "a body temperature that is higher than normal",
+      "collocations": ["have a fever", "a high fever", "run a fever", "bring down a fever"],
+      "examples": [
+        {"en": "I have a *fever*, so I'm staying home today.", "vi": "Tôi bị sốt nên hôm nay ở nhà.", "context": "xin nghỉ"},
+        {"en": "Drink lots of water to bring down your *fever*.", "vi": "Uống nhiều nước để hạ sốt.", "context": "lời khuyên"}
+      ],
+      "note": "Dùng *have a fever* (có a). Không nói *I'm fever*.",
+      "mistake": {"wrong": "I'm fever since yesterday.", "right": "I've had a fever since yesterday.", "explain": "fever là danh từ → have a fever. Với since dùng hiện tại hoàn thành (have had)."},
+      "synonyms": ["high temperature"]
+    },
+    {
+      "id": "he_headache", "word": "headache", "pos": "noun", "ipa": "/ˈhedeɪk/", "level": "A2",
+      "meaning": "chứng đau đầu",
+      "definition": "a pain in your head",
+      "collocations": ["have a headache", "a terrible headache", "give someone a headache", "a slight headache"],
+      "examples": [
+        {"en": "I have a terrible *headache*. Do you have any painkillers?", "vi": "Tôi đau đầu kinh khủng. Bạn có thuốc giảm đau không?", "context": "nhờ vả"},
+        {"en": "This noise is giving me a *headache*.", "vi": "Tiếng ồn này làm tôi đau đầu quá.", "context": "than phiền"}
+      ],
+      "note": "Các cơn đau khác: *stomachache* (đau bụng), *toothache* (đau răng), *backache* (đau lưng). Nghĩa bóng: một vấn đề phiền phức (*This project is a real headache*).",
+      "mistake": {"wrong": "My head is hurt.", "right": "My head hurts. / I have a headache.", "explain": "hurt dùng như nội động từ: My head hurts. Không dùng bị động is hurt khi nói về cơn đau."}
+    },
+    {
+      "id": "he_hurt", "word": "hurt", "pos": "verb", "ipa": "/hɜːrt/", "level": "A2",
+      "meaning": "đau; làm đau, làm bị thương",
+      "definition": "to feel pain; to cause pain or injury",
+      "collocations": ["my back hurts", "hurt yourself", "get hurt", "hurt someone's feelings"],
+      "examples": [
+        {"en": "My back *hurts* after sitting all day.", "vi": "Ngồi cả ngày nên tôi đau lưng.", "context": "than phiền"},
+        {"en": "Be careful, you'll *hurt* yourself!", "vi": "Cẩn thận, bạn sẽ bị thương đấy!", "context": "cảnh báo"}
+      ],
+      "note": "hurt – hurt – hurt (bất quy tắc, giữ nguyên). *hurt someone's feelings* = làm ai tổn thương.",
+      "mistake": {"wrong": "I hurted my leg.", "right": "I hurt my leg.", "explain": "Quá khứ của hurt vẫn là hurt."},
+      "synonyms": ["ache", "injure"]
+    },
+    {
+      "id": "he_injury", "word": "injury", "pos": "noun", "ipa": "/ˈɪndʒəri/", "level": "B1",
+      "meaning": "chấn thương, vết thương",
+      "definition": "physical harm to the body, e.g. in an accident",
+      "collocations": ["a serious injury", "a minor injury", "a sports injury", "recover from an injury"],
+      "examples": [
+        {"en": "He missed the match because of a knee *injury*.", "vi": "Anh ấy bỏ lỡ trận đấu vì chấn thương đầu gối.", "context": "thể thao"},
+        {"en": "Luckily, nobody suffered any serious *injuries*.", "vi": "May mắn là không ai bị thương nặng.", "context": "tin tức"}
+      ],
+      "note": "Động từ: *injure* (thường dùng bị động: *be injured*). *injured* = bị thương.",
+      "synonyms": ["wound", "harm"]
+    },
+    {
+      "id": "he_medicine", "word": "medicine", "pos": "noun", "ipa": "/ˈmedɪsn/", "level": "A2",
+      "meaning": "thuốc; y học",
+      "definition": "a substance you take to treat an illness; the study of treating illness",
+      "collocations": ["take medicine", "cough medicine", "study medicine", "medicine for a cold"],
+      "examples": [
+        {"en": "Take this *medicine* twice a day after meals.", "vi": "Uống thuốc này hai lần mỗi ngày sau bữa ăn.", "context": "bác sĩ dặn"},
+        {"en": "My sister is studying *medicine* in Hanoi.", "vi": "Chị tôi đang học y ở Hà Nội.", "context": "giới thiệu"}
+      ],
+      "note": "Uống thuốc là *take medicine*, không dùng *drink*. Viên thuốc: *pill / tablet*.",
+      "mistake": {"wrong": "Don't forget to drink your medicine.", "right": "Don't forget to take your medicine.", "explain": "Thuốc đi với TAKE (take medicine, take a pill), kể cả thuốc nước."},
+      "synonyms": ["medication", "drug"]
+    },
+    {
+      "id": "he_prescription", "word": "prescription", "pos": "noun", "ipa": "/prɪˈskrɪpʃn/", "level": "B1",
+      "meaning": "đơn thuốc",
+      "definition": "a paper from a doctor saying what medicine you need",
+      "collocations": ["write a prescription", "fill a prescription", "on prescription", "without a prescription"],
+      "examples": [
+        {"en": "You can't buy this medicine without a *prescription*.", "vi": "Bạn không thể mua thuốc này nếu không có đơn.", "context": "nhà thuốc"},
+        {"en": "The doctor gave me a *prescription* for antibiotics.", "vi": "Bác sĩ kê đơn kháng sinh cho tôi.", "context": "kể chuyện"}
+      ],
+      "note": "Động từ: *prescribe* (kê đơn). Nhà thuốc: *pharmacy* (Mỹ: drugstore, Anh: chemist's)."
+    },
+    {
+      "id": "he_appointment_doctor", "word": "see a doctor", "pos": "phrase", "ipa": "/siː ə ˈdɑːktər/", "level": "A2",
+      "meaning": "đi khám bác sĩ",
+      "definition": "to visit a doctor to get help with a health problem",
+      "collocations": ["go and see a doctor", "you should see a doctor", "need to see a doctor"],
+      "examples": [
+        {"en": "If the pain doesn't stop, you should *see a doctor*.", "vi": "Nếu cơn đau không hết, bạn nên đi khám bác sĩ.", "context": "lời khuyên"},
+        {"en": "I need to *see a doctor* about my cough.", "vi": "Tôi cần đi khám vì bị ho.", "context": "nói chuyện"}
+      ],
+      "note": "Người bản xứ nói *see a doctor* hoặc *go to the doctor('s)*. Ít khi nói *meet a doctor*.",
+      "mistake": {"wrong": "I will meet the doctor tomorrow for my cough.", "right": "I'm going to see a doctor tomorrow about my cough.", "explain": "Đi khám bệnh → see a doctor. meet = gặp gỡ, làm quen."}
+    },
+    {
+      "id": "he_recover", "word": "recover", "pos": "verb", "ipa": "/rɪˈkʌvər/", "level": "B1",
+      "meaning": "hồi phục, bình phục",
+      "definition": "to become healthy again after an illness or injury",
+      "collocations": ["recover from", "fully recover", "recover quickly", "make a full recovery"],
+      "examples": [
+        {"en": "It took me two weeks to *recover* from the flu.", "vi": "Tôi mất hai tuần mới khỏi cúm.", "context": "kể chuyện"},
+        {"en": "I hope you *recover* soon!", "vi": "Mong bạn sớm bình phục!", "context": "hỏi thăm"}
+      ],
+      "note": "recover FROM + bệnh. Danh từ: *recovery*. Lời chúc thân mật: *Get well soon!*",
+      "mistake": {"wrong": "He recovered his illness.", "right": "He recovered from his illness.", "explain": "Khỏi bệnh → recover FROM. (recover something = lấy lại cái gì đã mất)"},
+      "synonyms": ["get better", "get over"]
+    },
+    {
+      "id": "he_diet", "word": "diet", "pos": "noun", "ipa": "/ˈdaɪət/", "level": "B1",
+      "meaning": "chế độ ăn; ăn kiêng",
+      "definition": "the food you usually eat; a plan to eat less or eat certain foods",
+      "collocations": ["a healthy diet", "a balanced diet", "go on a diet", "be on a diet"],
+      "examples": [
+        {"en": "A balanced *diet* includes plenty of fruit and vegetables.", "vi": "Chế độ ăn cân bằng gồm nhiều rau quả.", "context": "lời khuyên"},
+        {"en": "No cake for me, thanks. I'm on a *diet*.", "vi": "Mình không ăn bánh đâu, cảm ơn. Mình đang ăn kiêng.", "context": "từ chối"}
+      ],
+      "note": "*diet* không chỉ là ăn kiêng mà còn là chế độ ăn nói chung (*Vietnamese diet* = cách ăn uống của người Việt).",
+      "synonyms": ["eating habits"]
+    },
+    {
+      "id": "he_stress", "word": "stress", "pos": "noun / verb", "ipa": "/stres/", "level": "B1",
+      "meaning": "căng thẳng, áp lực",
+      "definition": "a feeling of worry caused by difficult situations",
+      "collocations": ["under stress", "reduce stress", "deal with stress", "stressed out"],
+      "examples": [
+        {"en": "I've been under a lot of *stress* at work lately.", "vi": "Dạo này tôi bị áp lực công việc rất nhiều.", "context": "tâm sự"},
+        {"en": "Yoga helps me deal with *stress*.", "vi": "Yoga giúp tôi đối phó với căng thẳng.", "context": "chia sẻ"}
+      ],
+      "note": "*stressed* = cảm thấy căng thẳng. *stressful* = gây căng thẳng (a stressful job). Thân mật: *I'm stressed out*.",
+      "mistake": {"wrong": "My job is very stressed.", "right": "My job is very stressful. / I'm very stressed.", "explain": "Công việc gây căng thẳng → stressful. Người cảm thấy căng thẳng → stressed."},
+      "synonyms": ["pressure", "tension"], "antonyms": ["relaxation"]
+    },
+    {
+      "id": "he_sleep", "word": "get enough sleep", "pos": "phrase", "ipa": "/ɡet ɪˈnʌf sliːp/", "level": "A2",
+      "meaning": "ngủ đủ giấc",
+      "definition": "to sleep as much as your body needs",
+      "collocations": ["not get enough sleep", "a good night's sleep", "lack of sleep", "sleep well"],
+      "examples": [
+        {"en": "I don't *get enough sleep* during the week.", "vi": "Trong tuần tôi không ngủ đủ giấc.", "context": "than phiền"},
+        {"en": "You look tired. Are you *getting enough sleep*?", "vi": "Trông bạn mệt quá. Bạn có ngủ đủ không?", "context": "quan tâm"}
+      ],
+      "note": "*a good night's sleep* = một giấc ngủ ngon. *I slept like a baby* = ngủ rất ngon (thành ngữ).",
+      "synonyms": ["rest well"]
+    },
+    {
+      "id": "he_fit", "word": "in shape", "pos": "phrase", "ipa": "/ɪn ʃeɪp/", "level": "B1",
+      "meaning": "có thân hình cân đối, khỏe khoắn",
+      "definition": "physically healthy and strong",
+      "collocations": ["stay in shape", "get in shape", "out of shape", "keep in shape"],
+      "examples": [
+        {"en": "I go swimming three times a week to stay *in shape*.", "vi": "Tôi bơi ba buổi mỗi tuần để giữ dáng.", "context": "kể chuyện"},
+        {"en": "I'm so out of shape. I can't even run for five minutes!", "vi": "Tôi yếu quá. Chạy năm phút cũng không nổi!", "context": "tự giễu"}
+      ],
+      "note": "*out of shape* = cơ thể yếu, kém vận động. Đồng nghĩa: *fit* (She's very fit).",
+      "synonyms": ["fit", "healthy"], "antonyms": ["out of shape", "unfit"]
+    },
+    {
+      "id": "he_cough", "word": "cough", "pos": "noun / verb", "ipa": "/kɔːf/", "level": "A2",
+      "meaning": "ho; cơn ho",
+      "definition": "to push air out of your throat with a sudden noise",
+      "collocations": ["have a cough", "a bad cough", "cough medicine", "a dry cough"],
+      "examples": [
+        {"en": "I've had a bad *cough* for a week.", "vi": "Tôi bị ho nặng cả tuần nay.", "context": "khám bệnh"},
+        {"en": "Please cover your mouth when you *cough*.", "vi": "Vui lòng che miệng khi ho.", "context": "nhắc nhở"}
+      ],
+      "note": "Phát âm /kɔːf/, chữ *gh* đọc như *f*. Các bệnh vặt: *a cold* (cảm lạnh), *a runny nose* (sổ mũi), *a sore throat* (đau họng).",
+      "mistake": {"wrong": "I'm coughing since Monday.", "right": "I've been coughing since Monday.", "explain": "Hành động kéo dài từ quá khứ đến nay + since → hiện tại hoàn thành tiếp diễn."}
+    },
+    {
+      "id": "he_allergy", "word": "sore throat", "pos": "noun phrase", "ipa": "/ˌsɔːr ˈθroʊt/", "level": "B1",
+      "meaning": "đau họng, viêm họng",
+      "definition": "a pain in your throat, often when you have a cold",
+      "collocations": ["have a sore throat", "a bad sore throat", "something for a sore throat"],
+      "examples": [
+        {"en": "I have a *sore throat*, so I can't talk much today.", "vi": "Tôi bị đau họng nên hôm nay không nói nhiều được.", "context": "giải thích"},
+        {"en": "Do you have anything for a *sore throat*?", "vi": "Ở đây có thuốc gì trị đau họng không?", "context": "nhà thuốc"}
+      ],
+      "note": "*sore* = đau nhức (sore eyes, sore muscles). Ở nhà thuốc: *Do you have anything for…?* = Có thuốc gì trị… không?"
+    },
+    {
+      "id": "he_exhausted", "word": "exhausted", "pos": "adjective", "ipa": "/ɪɡˈzɔːstɪd/", "level": "B1",
+      "meaning": "kiệt sức, mệt lả",
+      "definition": "extremely tired",
+      "collocations": ["completely exhausted", "feel exhausted", "physically exhausted", "exhausted after"],
+      "examples": [
+        {"en": "I was *exhausted* after working twelve hours.", "vi": "Tôi kiệt sức sau mười hai tiếng làm việc.", "context": "kể chuyện"},
+        {"en": "You look *exhausted*. Go and get some rest.", "vi": "Trông bạn mệt lả rồi. Đi nghỉ đi.", "context": "quan tâm"}
+      ],
+      "note": "exhausted = rất mệt nên không dùng *very exhausted*. Dùng *completely / totally exhausted*. *exhausting* = làm kiệt sức.",
+      "mistake": {"wrong": "I'm very exhausted.", "right": "I'm completely exhausted. / I'm very tired.", "explain": "Tính từ mạnh (exhausted, starving, terrified) không đi với very."},
+      "synonyms": ["worn out", "very tired"]
+    },
+    {
+      "id": "he_pain", "word": "pain", "pos": "noun", "ipa": "/peɪn/", "level": "A2",
+      "meaning": "cơn đau, sự đau đớn",
+      "definition": "the feeling you have when part of your body hurts",
+      "collocations": ["be in pain", "a sharp pain", "back pain", "relieve the pain"],
+      "examples": [
+        {"en": "I have a sharp *pain* in my stomach.", "vi": "Tôi bị đau nhói ở bụng.", "context": "khám bệnh"},
+        {"en": "On a scale of one to ten, how bad is the *pain*?", "vi": "Trên thang điểm từ 1 đến 10, cơn đau tệ đến mức nào?", "context": "bác sĩ hỏi"}
+      ],
+      "note": "*painful* = gây đau. *painkiller* = thuốc giảm đau. Thân mật: *a pain in the neck* = người/việc rất phiền.",
+      "synonyms": ["ache"]
+    },
+    {
+      "id": "he_heal", "word": "heal", "pos": "verb", "ipa": "/hiːl/", "level": "B2",
+      "meaning": "lành (vết thương); chữa lành",
+      "definition": "to become healthy again, especially a wound",
+      "collocations": ["heal quickly", "the wound healed", "time heals", "fully healed"],
+      "examples": [
+        {"en": "The cut on my hand *healed* in a week.", "vi": "Vết cắt ở tay tôi lành sau một tuần.", "context": "kể chuyện"},
+        {"en": "They say time *heals* all wounds.", "vi": "Người ta nói thời gian chữa lành mọi vết thương.", "context": "thành ngữ"}
+      ],
+      "note": "Phân biệt: *heal* (lành vết thương, chữa lành), *cure* (chữa khỏi bệnh), *treat* (điều trị).",
+      "synonyms": ["get better", "recover"]
+    },
+    {
+      "id": "he_treatment", "word": "treatment", "pos": "noun", "ipa": "/ˈtriːtmənt/", "level": "B1",
+      "meaning": "sự điều trị",
+      "definition": "medical care for an illness or injury",
+      "collocations": ["receive treatment", "medical treatment", "treatment for", "respond to treatment"],
+      "examples": [
+        {"en": "She's receiving *treatment* for a back problem.", "vi": "Cô ấy đang điều trị bệnh về lưng.", "context": "thông tin"},
+        {"en": "The *treatment* worked, and I feel much better now.", "vi": "Việc điều trị có hiệu quả, giờ tôi thấy khỏe hơn nhiều.", "context": "kể chuyện"}
+      ],
+      "note": "Động từ: *treat* (điều trị; cũng có nghĩa đối xử, hoặc khao: *It's my treat* = để tôi khao).",
+      "synonyms": ["therapy", "care"]
+    },
+    {
+      "id": "he_emergency", "word": "emergency", "pos": "noun", "ipa": "/ɪˈmɜːrdʒənsi/", "level": "B1",
+      "meaning": "trường hợp khẩn cấp, cấp cứu",
+      "definition": "a sudden dangerous situation that needs action immediately",
+      "collocations": ["in an emergency", "emergency room", "an emergency number", "a medical emergency"],
+      "examples": [
+        {"en": "In an *emergency*, call 115 for an ambulance.", "vi": "Trường hợp khẩn cấp, gọi 115 để có xe cứu thương.", "context": "thông tin"},
+        {"en": "We had to take him to the *emergency* room.", "vi": "Chúng tôi phải đưa anh ấy vào phòng cấp cứu.", "context": "kể chuyện"}
+      ],
+      "note": "*ER (emergency room)* = phòng cấp cứu (Mỹ). Anh-Anh: *A&E*.",
+      "synonyms": ["crisis"]
+    },
+    {
+      "id": "he_habit", "word": "habit", "pos": "noun", "ipa": "/ˈhæbɪt/", "level": "B1",
+      "meaning": "thói quen",
+      "definition": "something you do often and regularly, sometimes without thinking",
+      "collocations": ["a bad habit", "a healthy habit", "break a habit", "get into the habit of"],
+      "examples": [
+        {"en": "I'm trying to break the *habit* of checking my phone in bed.", "vi": "Tôi đang cố bỏ thói quen xem điện thoại trên giường.", "context": "chia sẻ"},
+        {"en": "Get into the *habit* of drinking water every morning.", "vi": "Hãy tập thói quen uống nước mỗi sáng.", "context": "lời khuyên"}
+      ],
+      "note": "*get into the habit of + V-ing* = tập thói quen. *break / kick a habit* = bỏ thói quen.",
+      "mistake": {"wrong": "I have a habit to drink coffee.", "right": "I have a habit of drinking coffee.", "explain": "habit OF + V-ing, không dùng to V."},
+      "synonyms": ["routine", "custom"]
+    },
+    {
+      "id": "he_quit_smoking", "word": "give up", "pos": "phrasal verb", "ipa": "/ɡɪv ʌp/", "level": "B1",
+      "meaning": "từ bỏ, bỏ (thói quen)",
+      "definition": "to stop doing or having something",
+      "collocations": ["give up smoking", "give up sugar", "never give up", "give it up"],
+      "examples": [
+        {"en": "My father *gave up* smoking ten years ago.", "vi": "Bố tôi bỏ thuốc lá từ mười năm trước.", "context": "kể chuyện"},
+        {"en": "Learning English is hard, but don't *give up*!", "vi": "Học tiếng Anh khó, nhưng đừng bỏ cuộc!", "context": "động viên"}
+      ],
+      "note": "give up + V-ing. Hai nghĩa: bỏ thói quen và bỏ cuộc.",
+      "mistake": {"wrong": "I gave up to smoke.", "right": "I gave up smoking.", "explain": "give up + V-ing."},
+      "synonyms": ["quit", "stop"]
+    },
+    {
+      "id": "he_mental_health", "word": "mental health", "pos": "noun phrase", "ipa": "/ˌmentl ˈhelθ/", "level": "B1",
+      "meaning": "sức khỏe tinh thần",
+      "definition": "the health of your mind and emotions",
+      "collocations": ["take care of your mental health", "mental health problems", "good for your mental health"],
+      "examples": [
+        {"en": "Taking breaks is important for your *mental health*.", "vi": "Nghỉ ngơi quan trọng cho sức khỏe tinh thần.", "context": "lời khuyên"},
+        {"en": "More companies now care about employees' *mental health*.", "vi": "Ngày càng nhiều công ty quan tâm sức khỏe tinh thần của nhân viên.", "context": "thảo luận"}
+      ],
+      "note": "*physical health* = sức khỏe thể chất. *burnout* = kiệt sức vì làm việc quá nhiều.",
+      "antonyms": ["physical health"]
+    },
+    {
+      "id": "he_check_up", "word": "check-up", "pos": "noun", "ipa": "/ˈtʃek ʌp/", "level": "B1",
+      "meaning": "kiểm tra sức khỏe định kỳ",
+      "definition": "a general medical examination to see if you are healthy",
+      "collocations": ["have a check-up", "a regular check-up", "an annual check-up", "a dental check-up"],
+      "examples": [
+        {"en": "I have a check-up every year, even when I feel fine.", "vi": "Tôi khám sức khỏe mỗi năm, kể cả khi thấy khỏe.", "context": "kể chuyện"},
+        {"en": "It's time for your dental *check-up*.", "vi": "Đến lịch kiểm tra răng định kỳ của bạn rồi.", "context": "nhắc lịch"}
+      ],
+      "note": "Danh từ có gạch nối *check-up*; động từ: *check up on someone* = hỏi han, kiểm tra xem ai ổn không."
+    },
+    {
+      "id": "he_dizzy", "word": "dizzy", "pos": "adjective", "ipa": "/ˈdɪzi/", "level": "B1",
+      "meaning": "chóng mặt",
+      "definition": "feeling that everything is spinning and you might fall",
+      "collocations": ["feel dizzy", "a dizzy spell", "dizzy and sick"],
+      "examples": [
+        {"en": "I felt *dizzy* when I stood up too fast.", "vi": "Tôi thấy chóng mặt khi đứng dậy quá nhanh.", "context": "kể chuyện"},
+        {"en": "If you feel *dizzy*, sit down for a moment.", "vi": "Nếu thấy chóng mặt, ngồi xuống một lát.", "context": "lời khuyên"}
+      ],
+      "note": "Triệu chứng hay gặp: *feel sick* (buồn nôn), *feel weak* (thấy yếu), *throw up* (nôn).",
+      "synonyms": ["light-headed"]
+    },
+    {
+      "id": "he_avoid", "word": "avoid", "pos": "verb", "ipa": "/əˈvɔɪd/", "level": "B1",
+      "meaning": "tránh",
+      "definition": "to stay away from something; to prevent something from happening",
+      "collocations": ["avoid sugar", "avoid doing something", "avoid mistakes", "avoid traffic"],
+      "examples": [
+        {"en": "Try to *avoid* eating late at night.", "vi": "Cố tránh ăn khuya.", "context": "lời khuyên"},
+        {"en": "We left early to *avoid* the traffic.", "vi": "Chúng tôi đi sớm để tránh kẹt xe.", "context": "kể chuyện"}
+      ],
+      "note": "avoid + V-ing (không dùng to V).",
+      "mistake": {"wrong": "You should avoid to eat sugar.", "right": "You should avoid eating sugar.", "explain": "avoid + V-ing, giống enjoy, finish, mind, suggest."},
+      "synonyms": ["stay away from", "keep away from"]
+    },
+    {
+      "id": "he_lifestyle", "word": "lifestyle", "pos": "noun", "ipa": "/ˈlaɪfstaɪl/", "level": "B1",
+      "meaning": "lối sống",
+      "definition": "the way a person lives",
+      "collocations": ["a healthy lifestyle", "an active lifestyle", "change your lifestyle", "a busy lifestyle"],
+      "examples": [
+        {"en": "A healthy *lifestyle* means good food, exercise and enough sleep.", "vi": "Lối sống lành mạnh là ăn uống tốt, tập thể dục và ngủ đủ.", "context": "giải thích"},
+        {"en": "Moving to the countryside completely changed my *lifestyle*.", "vi": "Chuyển về quê đã thay đổi hoàn toàn lối sống của tôi.", "context": "kể chuyện"}
+      ],
+      "synonyms": ["way of life"]
+    },
+    {
+      "id": "he_ill", "word": "sick", "pos": "adjective", "ipa": "/sɪk/", "level": "A1",
+      "meaning": "ốm, bệnh; buồn nôn",
+      "definition": "not healthy; feeling that you might vomit",
+      "collocations": ["get sick", "call in sick", "feel sick", "sick leave"],
+      "examples": [
+        {"en": "I got *sick* after the trip, so I called in *sick* on Monday.", "vi": "Sau chuyến đi tôi bị ốm nên thứ Hai gọi điện xin nghỉ ốm.", "context": "kể chuyện"},
+        {"en": "The boat made me feel *sick*.", "vi": "Đi thuyền làm tôi buồn nôn.", "context": "kể chuyện"}
+      ],
+      "note": "*call in sick* = gọi báo nghỉ ốm. *ill* cùng nghĩa ốm nhưng ít dùng trước danh từ. *I'm sick of…* = tôi chán ngấy…",
+      "synonyms": ["ill", "unwell"], "antonyms": ["healthy", "well"]
+    },
+    {
+      "id": "he_painkiller", "word": "painkiller", "pos": "noun", "ipa": "/ˈpeɪnkɪlər/", "level": "B1",
+      "meaning": "thuốc giảm đau",
+      "definition": "a medicine that reduces pain",
+      "collocations": ["take a painkiller", "strong painkillers", "over-the-counter painkillers"],
+      "examples": [
+        {"en": "I took a *painkiller* and the headache went away.", "vi": "Tôi uống thuốc giảm đau và hết đau đầu.", "context": "kể chuyện"},
+        {"en": "Don't take too many *painkillers*.", "vi": "Đừng uống quá nhiều thuốc giảm đau.", "context": "lời khuyên"}
+      ],
+      "note": "*over-the-counter* = mua không cần đơn."
+    },
+    {
+      "id": "he_worried", "word": "worried", "pos": "adjective", "ipa": "/ˈwɜːrid/", "level": "A2",
+      "meaning": "lo lắng",
+      "definition": "unhappy because you think something bad might happen",
+      "collocations": ["worried about", "a bit worried", "look worried", "Don't worry"],
+      "examples": [
+        {"en": "I'm a bit *worried* about my mom's health.", "vi": "Tôi hơi lo cho sức khỏe của mẹ.", "context": "tâm sự"},
+        {"en": "You look *worried*. Is everything OK?", "vi": "Trông bạn lo lắng. Mọi chuyện ổn chứ?", "context": "quan tâm"}
+      ],
+      "note": "worried ABOUT. Động từ *worry*: *Don't worry about it*.",
+      "mistake": {"wrong": "I'm worry about the exam.", "right": "I'm worried about the exam. / I worry about the exam.", "explain": "Sau be dùng tính từ worried; worry là động từ."},
+      "synonyms": ["anxious", "concerned"], "antonyms": ["relaxed", "calm"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Describing symptoms to a doctor", "situation_vi": "Mô tả triệu chứng với bác sĩ",
+      "formal": "I've had a headache and a high temperature since yesterday evening.",
+      "neutral": "I've had a fever and a sore throat for two days.",
+      "casual": "",
+      "vi": "Tôi bị sốt và đau họng hai ngày nay rồi.",
+      "reply": "I see. Let me take a look. Open your mouth, please.",
+      "note": "Dùng hiện tại hoàn thành (I've had) + for/since để nói triệu chứng kéo dài đến bây giờ."
+    },
+    {
+      "situation": "Calling in sick", "situation_vi": "Gọi báo nghỉ ốm",
+      "formal": "I'm afraid I'm unwell today and won't be able to come in.",
+      "neutral": "I'm not feeling well, so I won't come in today.",
+      "casual": "I'm sick, not coming in today. Sorry!",
+      "vi": "Hôm nay tôi không khỏe nên không đến được.",
+      "reply": "Sorry to hear that. Take care and get some rest.",
+      "note": "unwell lịch sự hơn sick. Câu đáp thường gặp: Feel better soon!"
+    },
+    {
+      "situation": "At the pharmacy", "situation_vi": "Mua thuốc ở nhà thuốc",
+      "formal": "Could you recommend something for a cough?",
+      "neutral": "Do you have anything for a sore throat?",
+      "casual": "Got anything for a headache?",
+      "vi": "Ở đây có thuốc gì trị đau họng không?",
+      "reply": "Try these lozenges. Take one every four hours.",
+      "note": "Cấu trúc vàng: something / anything FOR + triệu chứng."
+    },
+    {
+      "situation": "Asking how someone feels", "situation_vi": "Hỏi thăm sức khỏe",
+      "formal": "How are you feeling today? Any better?",
+      "neutral": "Are you feeling better?",
+      "casual": "You OK? You don't look great.",
+      "vi": "Bạn thấy đỡ hơn chưa?",
+      "reply": "Much better, thanks. I just need some rest.",
+      "note": "Chúc người ốm: Get well soon! / Feel better soon!"
+    },
+    {
+      "situation": "Giving health advice", "situation_vi": "Khuyên ai đó về sức khỏe",
+      "formal": "It might be a good idea to see a doctor about that.",
+      "neutral": "You should get some rest and drink lots of water.",
+      "casual": "Dude, you need to sleep more.",
+      "vi": "Bạn nên nghỉ ngơi và uống nhiều nước.",
+      "reply": "Yeah, you're right. I'll go to bed early tonight.",
+      "note": "Lời khuyên nhẹ nhàng: It might be a good idea to… / Maybe you should…"
+    },
+    {
+      "situation": "Making a doctor's appointment", "situation_vi": "Đặt lịch khám",
+      "formal": "I'd like to make an appointment with Dr. Tran, please.",
+      "neutral": "Can I book an appointment for tomorrow morning?",
+      "casual": "",
+      "vi": "Tôi muốn đặt lịch khám sáng mai.",
+      "reply": "Let me check. We have a slot at 9:30. Does that work?",
+      "note": "slot = khung giờ trống. Does that work for you? = Giờ đó có tiện không?"
+    },
+    {
+      "situation": "Talking about stress", "situation_vi": "Chia sẻ về áp lực",
+      "formal": "I've been under a lot of pressure at work recently.",
+      "neutral": "I've been really stressed lately.",
+      "casual": "I'm so stressed out right now.",
+      "vi": "Dạo này tôi căng thẳng lắm.",
+      "reply": "That sounds tough. Do you want to talk about it?",
+      "note": "That sounds tough / hard = Nghe vất vả thật (thể hiện đồng cảm)."
+    },
+    {
+      "situation": "Talking about healthy habits", "situation_vi": "Nói về thói quen lành mạnh",
+      "formal": "I try to maintain a balanced diet and exercise regularly.",
+      "neutral": "I try to eat healthy and work out three times a week.",
+      "casual": "I'm trying to cut down on sugar.",
+      "vi": "Tôi cố ăn uống lành mạnh và tập ba buổi mỗi tuần.",
+      "reply": "Good for you! How's it going so far?",
+      "note": "cut down on = giảm bớt. Good for you! = Hay quá / Giỏi đấy!"
+    }
+  ]
+}

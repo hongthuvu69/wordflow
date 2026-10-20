@@ -1,0 +1,449 @@
+{
+  "id": "education",
+  "order": 10,
+  "icon": "🎓",
+  "level": "B1",
+  "title": "Education & Learning",
+  "title_vi": "Học tập & Giáo dục",
+  "description": "Trường lớp, thi cử, kỹ năng học, học ngoại ngữ và mục tiêu học tập.",
+  "words": [
+    {
+      "id": "ed_improve_skill", "word": "practice", "pos": "verb / noun", "ipa": "/ˈpræktɪs/", "level": "A2",
+      "meaning": "luyện tập; sự luyện tập",
+      "definition": "to do something regularly to become better at it",
+      "collocations": ["practice speaking", "need more practice", "practice makes perfect", "in practice"],
+      "examples": [
+        {"en": "I *practice* speaking English with my colleague every lunch break.", "vi": "Tôi luyện nói tiếng Anh với đồng nghiệp mỗi giờ nghỉ trưa.", "context": "kể chuyện"},
+        {"en": "Don't worry, you just need more *practice*.", "vi": "Đừng lo, bạn chỉ cần luyện tập thêm.", "context": "động viên"}
+      ],
+      "note": "practice + V-ing (practice speaking). Anh-Anh: động từ viết *practise*, danh từ *practice*. Thành ngữ: *Practice makes perfect* = có công mài sắt có ngày nên kim.",
+      "mistake": {"wrong": "I practice to speak English every day.", "right": "I practice speaking English every day.", "explain": "practice + V-ing, không dùng to V."},
+      "synonyms": ["train", "rehearse"]
+    },
+    {
+      "id": "ed_fluent", "word": "fluent", "pos": "adjective", "ipa": "/ˈfluːənt/", "level": "B1",
+      "meaning": "trôi chảy, lưu loát",
+      "definition": "able to speak a language easily and well",
+      "collocations": ["fluent in English", "become fluent", "fluent speaker", "speak fluently"],
+      "examples": [
+        {"en": "My goal is to become *fluent* in English in two years.", "vi": "Mục tiêu của tôi là nói tiếng Anh lưu loát trong hai năm.", "context": "mục tiêu"},
+        {"en": "She speaks Japanese *fluently*.", "vi": "Cô ấy nói tiếng Nhật trôi chảy.", "context": "miêu tả"}
+      ],
+      "note": "fluent IN + ngôn ngữ. Danh từ: *fluency*. Trạng từ: *fluently*.",
+      "mistake": {"wrong": "I want to speak English fluent.", "right": "I want to speak English fluently. / I want to be fluent in English.", "explain": "Bổ nghĩa cho động từ speak → trạng từ fluently."}
+    },
+    {
+      "id": "ed_vocabulary", "word": "vocabulary", "pos": "noun", "ipa": "/voʊˈkæbjəleri/", "level": "B1",
+      "meaning": "từ vựng, vốn từ",
+      "definition": "all the words you know or that are used in a language",
+      "collocations": ["expand your vocabulary", "a wide vocabulary", "learn new vocabulary", "vocabulary list"],
+      "examples": [
+        {"en": "Reading helps you expand your *vocabulary*.", "vi": "Đọc sách giúp bạn mở rộng vốn từ.", "context": "lời khuyên"},
+        {"en": "My *vocabulary* is still quite limited.", "vi": "Vốn từ của tôi vẫn khá hạn chế.", "context": "tự nhận xét"}
+      ],
+      "note": "Không đếm được khi nói vốn từ: *a lot of vocabulary*, không nói *vocabularies*. Muốn đếm dùng *words*.",
+      "mistake": {"wrong": "I learned 20 new vocabularies today.", "right": "I learned 20 new words today.", "explain": "vocabulary là vốn từ (không đếm được). Đếm số từ → words."}
+    },
+    {
+      "id": "ed_pronunciation", "word": "pronunciation", "pos": "noun", "ipa": "/prəˌnʌnsiˈeɪʃn/", "level": "B1",
+      "meaning": "cách phát âm",
+      "definition": "the way a word or language is spoken",
+      "collocations": ["improve your pronunciation", "good pronunciation", "pronunciation practice"],
+      "examples": [
+        {"en": "Shadowing is a great way to improve your *pronunciation*.", "vi": "Nói nhại theo là cách tuyệt vời để cải thiện phát âm.", "context": "lời khuyên"},
+        {"en": "Her *pronunciation* is very clear.", "vi": "Phát âm của cô ấy rất rõ.", "context": "khen"}
+      ],
+      "note": "Bẫy chính tả: động từ *pronounce* (có ou) nhưng danh từ *pronunciation* (KHÔNG có o thứ hai).",
+      "mistake": {"wrong": "My pronounciation is bad.", "right": "My pronunciation is bad.", "explain": "Danh từ viết pronUnciation, không phải pronOUnciation."}
+    },
+    {
+      "id": "ed_memorize", "word": "memorize", "pos": "verb", "ipa": "/ˈmeməraɪz/", "level": "B1",
+      "meaning": "học thuộc, ghi nhớ",
+      "definition": "to learn something so that you remember it exactly",
+      "collocations": ["memorize words", "memorize a speech", "learn by heart", "hard to memorize"],
+      "examples": [
+        {"en": "Don't just *memorize* words. Use them in sentences.", "vi": "Đừng chỉ học thuộc từ. Hãy dùng chúng trong câu.", "context": "lời khuyên"},
+        {"en": "I *memorized* the whole speech the night before.", "vi": "Tôi học thuộc cả bài phát biểu vào tối hôm trước.", "context": "kể chuyện"}
+      ],
+      "note": "Đồng nghĩa: *learn by heart*. Anh-Anh viết *memorise*.",
+      "synonyms": ["learn by heart"]
+    },
+    {
+      "id": "ed_exam", "word": "exam", "pos": "noun", "ipa": "/ɪɡˈzæm/", "level": "A2",
+      "meaning": "kỳ thi, bài thi",
+      "definition": "a formal test of knowledge",
+      "collocations": ["take an exam", "pass an exam", "fail an exam", "study for an exam"],
+      "examples": [
+        {"en": "I'm *taking* the IELTS *exam* next month.", "vi": "Tháng sau tôi thi IELTS.", "context": "kế hoạch"},
+        {"en": "Good luck on your *exam*!", "vi": "Thi tốt nhé!", "context": "chúc"}
+      ],
+      "note": "*take an exam* = đi thi (KHÔNG có nghĩa là đỗ). *pass* = đỗ, *fail* = trượt.",
+      "mistake": {"wrong": "I will join the exam tomorrow.", "right": "I'm taking the exam tomorrow.", "explain": "Dự thi → take / sit an exam. join không dùng với exam."},
+      "synonyms": ["test"]
+    },
+    {
+      "id": "ed_pass", "word": "pass", "pos": "verb", "ipa": "/pæs/", "level": "A2",
+      "meaning": "đỗ, vượt qua (kỳ thi)",
+      "definition": "to succeed in an exam or test",
+      "collocations": ["pass an exam", "pass with flying colors", "barely pass", "pass the test"],
+      "examples": [
+        {"en": "I *passed* my driving test on the first try!", "vi": "Tôi đỗ bằng lái ngay lần đầu!", "context": "khoe"},
+        {"en": "She *passed* with flying colors.", "vi": "Cô ấy đỗ với điểm xuất sắc.", "context": "khen"}
+      ],
+      "note": "*with flying colors* = xuất sắc. Ngược lại: *fail* (trượt).",
+      "antonyms": ["fail"]
+    },
+    {
+      "id": "ed_degree", "word": "degree", "pos": "noun", "ipa": "/dɪˈɡriː/", "level": "B1",
+      "meaning": "bằng cấp (đại học); độ",
+      "definition": "a qualification from a university; a unit of temperature",
+      "collocations": ["a degree in", "bachelor's degree", "master's degree", "get a degree"],
+      "examples": [
+        {"en": "I have a *degree* in business administration.", "vi": "Tôi có bằng quản trị kinh doanh.", "context": "phỏng vấn"},
+        {"en": "It's 35 *degrees* outside.", "vi": "Ngoài trời 35 độ.", "context": "thời tiết"}
+      ],
+      "note": "a degree IN + ngành. *bachelor's* = cử nhân, *master's* = thạc sĩ, *PhD* = tiến sĩ. *graduate* = tốt nghiệp.",
+      "mistake": {"wrong": "I have a degree of IT.", "right": "I have a degree in IT.", "explain": "Bằng ngành gì → degree IN."}
+    },
+    {
+      "id": "ed_graduate", "word": "graduate", "pos": "verb / noun", "ipa": "/ˈɡrædʒueɪt/", "level": "B1",
+      "meaning": "tốt nghiệp; người đã tốt nghiệp",
+      "definition": "to finish your studies and get a degree",
+      "collocations": ["graduate from", "a recent graduate", "after graduating", "graduation ceremony"],
+      "examples": [
+        {"en": "I *graduated* from university in 2020.", "vi": "Tôi tốt nghiệp đại học năm 2020.", "context": "giới thiệu"},
+        {"en": "The company hires many recent *graduates*.", "vi": "Công ty tuyển nhiều sinh viên mới tốt nghiệp.", "context": "thông tin"}
+      ],
+      "note": "graduate FROM + trường. Động từ đọc /-eɪt/, danh từ đọc /-ət/.",
+      "mistake": {"wrong": "I graduated university in 2020.", "right": "I graduated from university in 2020.", "explain": "Trong tiếng Anh chuẩn: graduate FROM + trường."}
+    },
+    {
+      "id": "ed_scholarship", "word": "scholarship", "pos": "noun", "ipa": "/ˈskɑːlərʃɪp/", "level": "B1",
+      "meaning": "học bổng",
+      "definition": "money given to a student to help pay for their studies",
+      "collocations": ["win a scholarship", "apply for a scholarship", "full scholarship", "on a scholarship"],
+      "examples": [
+        {"en": "She won a full *scholarship* to study in Australia.", "vi": "Cô ấy giành học bổng toàn phần đi du học Úc.", "context": "kể chuyện"},
+        {"en": "I'm applying for a *scholarship* next year.", "vi": "Năm sau tôi sẽ nộp hồ sơ xin học bổng.", "context": "kế hoạch"}
+      ],
+      "note": "*on a scholarship* = học bằng học bổng."
+    },
+    {
+      "id": "ed_assignment", "word": "assignment", "pos": "noun", "ipa": "/əˈsaɪnmənt/", "level": "B1",
+      "meaning": "bài tập (được giao), nhiệm vụ",
+      "definition": "a piece of work given to a student or employee",
+      "collocations": ["hand in an assignment", "a written assignment", "finish an assignment", "assignment deadline"],
+      "examples": [
+        {"en": "I have to hand in my *assignment* by Friday.", "vi": "Tôi phải nộp bài tập trước thứ Sáu.", "context": "học tập"},
+        {"en": "This *assignment* counts for 30% of the final grade.", "vi": "Bài tập này chiếm 30% điểm cuối kỳ.", "context": "thông tin"}
+      ],
+      "note": "*hand in / submit* = nộp. *homework* (không đếm được) = bài tập về nhà.",
+      "synonyms": ["task", "project", "homework"]
+    },
+    {
+      "id": "ed_knowledge", "word": "knowledge", "pos": "noun", "ipa": "/ˈnɑːlɪdʒ/", "level": "B1",
+      "meaning": "kiến thức",
+      "definition": "information and understanding that you get from learning",
+      "collocations": ["general knowledge", "a good knowledge of", "share knowledge", "gain knowledge"],
+      "examples": [
+        {"en": "He has a good *knowledge* of Vietnamese history.", "vi": "Anh ấy hiểu biết nhiều về lịch sử Việt Nam.", "context": "khen"},
+        {"en": "Teachers love sharing their *knowledge*.", "vi": "Giáo viên thích chia sẻ kiến thức.", "context": "nhận xét"}
+      ],
+      "note": "Chữ *k* câm: /ˈnɑːlɪdʒ/. Không đếm được: không nói *knowledges*.",
+      "mistake": {"wrong": "I learned many knowledges.", "right": "I gained a lot of knowledge.", "explain": "knowledge không đếm được."}
+    },
+    {
+      "id": "ed_concentrate", "word": "concentrate", "pos": "verb", "ipa": "/ˈkɑːnsntreɪt/", "level": "B1",
+      "meaning": "tập trung",
+      "definition": "to give all your attention to something",
+      "collocations": ["concentrate on", "hard to concentrate", "can't concentrate", "lose concentration"],
+      "examples": [
+        {"en": "I can't *concentrate* with all this noise.", "vi": "Ồn thế này tôi không tập trung được.", "context": "than phiền"},
+        {"en": "*Concentrate* on one skill at a time.", "vi": "Tập trung vào từng kỹ năng một.", "context": "lời khuyên"}
+      ],
+      "note": "concentrate ON. Đồng nghĩa: *focus on*.",
+      "mistake": {"wrong": "I can't concentrate in my work.", "right": "I can't concentrate on my work.", "explain": "concentrate / focus đi với ON."},
+      "synonyms": ["focus"]
+    },
+    {
+      "id": "ed_mistake", "word": "make a mistake", "pos": "phrase", "ipa": "/meɪk ə mɪˈsteɪk/", "level": "A2",
+      "meaning": "mắc lỗi",
+      "definition": "to do something wrong",
+      "collocations": ["make mistakes", "a common mistake", "learn from your mistakes", "by mistake"],
+      "examples": [
+        {"en": "Don't be afraid to *make mistakes* when you speak.", "vi": "Đừng sợ mắc lỗi khi nói.", "context": "động viên"},
+        {"en": "I sent the email to the wrong person by mistake.", "vi": "Tôi gửi nhầm email cho người khác.", "context": "kể chuyện"}
+      ],
+      "note": "Dùng MAKE (không dùng do). *by mistake* = do nhầm lẫn.",
+      "mistake": {"wrong": "I did a lot of mistakes in the test.", "right": "I made a lot of mistakes in the test.", "explain": "Lỗi sai → MAKE a mistake."},
+      "synonyms": ["get something wrong"]
+    },
+    {
+      "id": "ed_explain", "word": "explain", "pos": "verb", "ipa": "/ɪkˈspleɪn/", "level": "A2",
+      "meaning": "giải thích",
+      "definition": "to make something clear or easy to understand",
+      "collocations": ["explain something to someone", "explain why", "Let me explain", "clearly explain"],
+      "examples": [
+        {"en": "Could you *explain* this grammar rule to me?", "vi": "Bạn giải thích quy tắc ngữ pháp này cho tôi được không?", "context": "hỏi"},
+        {"en": "Let me *explain* why I was late.", "vi": "Để tôi giải thích vì sao tôi đến muộn.", "context": "giải thích"}
+      ],
+      "note": "explain + VẬT + TO + NGƯỜI. KHÔNG dùng *explain me*.",
+      "mistake": {"wrong": "Can you explain me this word?", "right": "Can you explain this word to me?", "explain": "explain không nhận người làm tân ngữ trực tiếp: explain something TO someone."},
+      "synonyms": ["describe", "clarify"]
+    },
+    {
+      "id": "ed_review", "word": "review", "pos": "verb / noun", "ipa": "/rɪˈvjuː/", "level": "B1",
+      "meaning": "ôn lại; xem xét lại; bài đánh giá",
+      "definition": "to study something again; to look at something carefully",
+      "collocations": ["review your notes", "review for a test", "a quick review", "a product review"],
+      "examples": [
+        {"en": "I *review* new words every morning on my phone.", "vi": "Sáng nào tôi cũng ôn từ mới trên điện thoại.", "context": "thói quen"},
+        {"en": "Let's *review* what we learned last week.", "vi": "Hãy ôn lại những gì đã học tuần trước.", "context": "lớp học"}
+      ],
+      "note": "Anh-Anh hay dùng *revise* cho ôn thi. *review* còn nghĩa là bài đánh giá sản phẩm/phim.",
+      "synonyms": ["go over", "revise (Anh)"]
+    },
+    {
+      "id": "ed_progress", "word": "progress", "pos": "noun", "ipa": "/ˈprɑːɡres/", "level": "B1",
+      "meaning": "sự tiến bộ, tiến triển",
+      "definition": "the process of improving or getting closer to a goal",
+      "collocations": ["make progress", "great progress", "track your progress", "slow progress"],
+      "examples": [
+        {"en": "You've made great *progress* this month!", "vi": "Tháng này bạn tiến bộ nhiều lắm!", "context": "khen"},
+        {"en": "This app helps me track my *progress*.", "vi": "Ứng dụng này giúp tôi theo dõi tiến độ.", "context": "giới thiệu"}
+      ],
+      "note": "Không đếm được: *make progress* (không nói a progress / progresses).",
+      "mistake": {"wrong": "I made a big progress.", "right": "I made a lot of progress. / I made great progress.", "explain": "progress không đếm được, không đi với a."},
+      "synonyms": ["improvement", "development"]
+    },
+    {
+      "id": "ed_goal", "word": "goal", "pos": "noun", "ipa": "/ɡoʊl/", "level": "A2",
+      "meaning": "mục tiêu; bàn thắng",
+      "definition": "something you hope to achieve; a point scored in football",
+      "collocations": ["set a goal", "achieve a goal", "reach your goal", "a long-term goal"],
+      "examples": [
+        {"en": "My *goal* is to reach B2 level by the end of next year.", "vi": "Mục tiêu của tôi là đạt trình độ B2 trước cuối năm sau.", "context": "mục tiêu"},
+        {"en": "Set small daily *goals*, like ten new words a day.", "vi": "Hãy đặt mục tiêu nhỏ hằng ngày, như mười từ mới mỗi ngày.", "context": "lời khuyên"}
+      ],
+      "note": "*set a goal* = đặt mục tiêu; *achieve / reach a goal* = đạt mục tiêu.",
+      "synonyms": ["target", "aim"]
+    },
+    {
+      "id": "ed_motivation", "word": "motivated", "pos": "adjective", "ipa": "/ˈmoʊtɪveɪtɪd/", "level": "B1",
+      "meaning": "có động lực",
+      "definition": "wanting to do something and willing to work hard",
+      "collocations": ["stay motivated", "highly motivated", "feel motivated", "lose motivation"],
+      "examples": [
+        {"en": "How do you stay *motivated* when learning gets hard?", "vi": "Làm sao bạn giữ được động lực khi việc học trở nên khó?", "context": "hỏi"},
+        {"en": "Seeing my progress keeps me *motivated*.", "vi": "Thấy mình tiến bộ giúp tôi có động lực.", "context": "chia sẻ"}
+      ],
+      "note": "Danh từ: *motivation*. *stay motivated* = duy trì động lực.",
+      "antonyms": ["unmotivated", "lazy"]
+    },
+    {
+      "id": "ed_take_notes", "word": "take notes", "pos": "phrase", "ipa": "/teɪk noʊts/", "level": "B1",
+      "meaning": "ghi chép",
+      "definition": "to write down information while listening or reading",
+      "collocations": ["take notes during", "take detailed notes", "notebook"],
+      "examples": [
+        {"en": "I always *take notes* during meetings.", "vi": "Tôi luôn ghi chép trong các cuộc họp.", "context": "thói quen"},
+        {"en": "Can I borrow your notes from yesterday's class?", "vi": "Cho mình mượn vở ghi buổi học hôm qua được không?", "context": "nhờ vả"}
+      ],
+      "note": "Dùng TAKE notes (không dùng write notes trong nghĩa ghi chép bài).",
+      "mistake": {"wrong": "I wrote notes in class.", "right": "I took notes in class.", "explain": "Cụm cố định: take notes."}
+    },
+    {
+      "id": "ed_course", "word": "course", "pos": "noun", "ipa": "/kɔːrs/", "level": "A2",
+      "meaning": "khóa học",
+      "definition": "a series of lessons in a subject",
+      "collocations": ["take a course", "sign up for a course", "an online course", "a three-month course"],
+      "examples": [
+        {"en": "I signed up for an English speaking *course*.", "vi": "Tôi đăng ký một khóa luyện nói tiếng Anh.", "context": "kể chuyện"},
+        {"en": "The *course* lasts three months.", "vi": "Khóa học kéo dài ba tháng.", "context": "thông tin"}
+      ],
+      "note": "*sign up for / enroll in* = đăng ký. *Of course* = tất nhiên (khác nghĩa).",
+      "synonyms": ["class", "program"]
+    },
+    {
+      "id": "ed_attend_class", "word": "skip", "pos": "verb", "ipa": "/skɪp/", "level": "B1",
+      "meaning": "bỏ qua, bỏ (buổi học, bữa ăn)",
+      "definition": "to not do or attend something you should",
+      "collocations": ["skip class", "skip breakfast", "skip a step", "skip ahead"],
+      "examples": [
+        {"en": "I never *skip* class, even when I'm tired.", "vi": "Tôi không bao giờ bỏ học, kể cả khi mệt.", "context": "kể chuyện"},
+        {"en": "You can *skip* this part if you already know it.", "vi": "Bạn có thể bỏ qua phần này nếu đã biết rồi.", "context": "hướng dẫn"}
+      ],
+      "synonyms": ["miss", "leave out"]
+    },
+    {
+      "id": "ed_curious", "word": "curious", "pos": "adjective", "ipa": "/ˈkjʊriəs/", "level": "B1",
+      "meaning": "tò mò, ham hiểu biết",
+      "definition": "wanting to know or learn about something",
+      "collocations": ["curious about", "just curious", "naturally curious", "curiosity"],
+      "examples": [
+        {"en": "Kids are naturally *curious* about everything.", "vi": "Trẻ con vốn tò mò về mọi thứ.", "context": "nhận xét"},
+        {"en": "I'm just *curious*, how old are you?", "vi": "Mình chỉ tò mò thôi, bạn bao nhiêu tuổi?", "context": "thân mật"}
+      ],
+      "note": "*Just curious* = Chỉ hỏi cho biết thôi (làm câu hỏi nhẹ nhàng hơn).",
+      "synonyms": ["inquisitive", "interested"]
+    },
+    {
+      "id": "ed_understand", "word": "figure out", "pos": "phrasal verb", "ipa": "/ˈfɪɡjər aʊt/", "level": "B1",
+      "meaning": "tìm ra, hiểu ra",
+      "definition": "to understand or solve something after thinking about it",
+      "collocations": ["figure out how to", "figure it out", "can't figure out", "figure out the answer"],
+      "examples": [
+        {"en": "I can't *figure out* how to use this app.", "vi": "Tôi không biết cách dùng app này.", "context": "than phiền"},
+        {"en": "Don't worry, we'll *figure* it *out* together.", "vi": "Đừng lo, mình cùng nhau tìm cách giải quyết.", "context": "động viên"}
+      ],
+      "note": "Đại từ đặt giữa: figure IT out. Rất phổ biến trong hội thoại.",
+      "synonyms": ["work out", "understand", "solve"]
+    },
+    {
+      "id": "ed_look_up", "word": "look up", "pos": "phrasal verb", "ipa": "/lʊk ʌp/", "level": "B1",
+      "meaning": "tra cứu (từ điển, thông tin)",
+      "definition": "to find information in a dictionary or online",
+      "collocations": ["look up a word", "look it up", "look up in a dictionary"],
+      "examples": [
+        {"en": "If you don't know a word, *look* it *up*.", "vi": "Không biết từ nào thì tra nó.", "context": "lời khuyên"},
+        {"en": "I *looked up* the meaning online.", "vi": "Tôi tra nghĩa trên mạng.", "context": "kể chuyện"}
+      ],
+      "note": "Đại từ đặt giữa: look IT up. Nghĩa khác: *look up to someone* = ngưỡng mộ ai.",
+      "mistake": {"wrong": "I look up it in the dictionary.", "right": "I look it up in the dictionary.", "explain": "Với đại từ, phải tách: look IT up."}
+    },
+    {
+      "id": "ed_grammar", "word": "grammar", "pos": "noun", "ipa": "/ˈɡræmər/", "level": "A2",
+      "meaning": "ngữ pháp",
+      "definition": "the rules of how words are put together in a language",
+      "collocations": ["grammar rules", "grammar mistake", "good grammar", "grammar exercise"],
+      "examples": [
+        {"en": "English *grammar* isn't hard, but there are many exceptions.", "vi": "Ngữ pháp tiếng Anh không khó, nhưng có nhiều ngoại lệ.", "context": "nhận xét"},
+        {"en": "Your *grammar* is good, but your pronunciation needs work.", "vi": "Ngữ pháp của bạn tốt, nhưng phát âm cần luyện thêm.", "context": "nhận xét"}
+      ],
+      "note": "Chính tả: grammAR (không phải grammer). *needs work* = cần cải thiện.",
+      "mistake": {"wrong": "My grammer is bad.", "right": "My grammar is bad.", "explain": "Viết đúng là grammar (đuôi -ar)."}
+    },
+    {
+      "id": "ed_native_speaker", "word": "native speaker", "pos": "noun phrase", "ipa": "/ˌneɪtɪv ˈspiːkər/", "level": "B1",
+      "meaning": "người bản ngữ",
+      "definition": "someone who learned a language as a child",
+      "collocations": ["sound like a native speaker", "talk to native speakers", "non-native speaker"],
+      "examples": [
+        {"en": "Talking to *native speakers* helps you learn natural expressions.", "vi": "Nói chuyện với người bản ngữ giúp bạn học cách diễn đạt tự nhiên.", "context": "lời khuyên"},
+        {"en": "You don't need to sound like a *native speaker* to communicate well.", "vi": "Bạn không cần nói giống người bản ngữ mới giao tiếp tốt.", "context": "động viên"}
+      ],
+      "note": "*native language / mother tongue* = tiếng mẹ đẻ."
+    },
+    {
+      "id": "ed_confusing", "word": "confusing", "pos": "adjective", "ipa": "/kənˈfjuːzɪŋ/", "level": "B1",
+      "meaning": "khó hiểu, gây bối rối",
+      "definition": "difficult to understand",
+      "collocations": ["a bit confusing", "really confusing", "confused about", "get confused"],
+      "examples": [
+        {"en": "Phrasal verbs are really *confusing* for learners.", "vi": "Cụm động từ thật sự gây bối rối cho người học.", "context": "nhận xét"},
+        {"en": "I'm *confused*. Can you say that again?", "vi": "Tôi bị rối. Bạn nói lại được không?", "context": "hỏi lại"}
+      ],
+      "note": "*confusing* = gây khó hiểu (sự vật). *confused* = cảm thấy bối rối (người).",
+      "mistake": {"wrong": "I'm very confusing about this rule.", "right": "I'm very confused about this rule.", "explain": "Người cảm thấy → -ed (confused). Sự việc gây ra → -ing (confusing)."},
+      "synonyms": ["unclear", "complicated"], "antonyms": ["clear"]
+    },
+    {
+      "id": "ed_effort", "word": "effort", "pos": "noun", "ipa": "/ˈefərt/", "level": "B1",
+      "meaning": "nỗ lực, công sức",
+      "definition": "the physical or mental energy needed to do something",
+      "collocations": ["make an effort", "put effort into", "a lot of effort", "worth the effort"],
+      "examples": [
+        {"en": "Learning a language takes time and *effort*.", "vi": "Học ngoại ngữ cần thời gian và công sức.", "context": "nhận xét"},
+        {"en": "I'm making an *effort* to speak English every day.", "vi": "Tôi đang cố gắng nói tiếng Anh mỗi ngày.", "context": "chia sẻ"}
+      ],
+      "note": "*make an effort to do* = cố gắng làm gì. *put effort into something* = dồn công sức vào.",
+      "synonyms": ["attempt", "hard work"]
+    },
+    {
+      "id": "ed_strength", "word": "weakness", "pos": "noun", "ipa": "/ˈwiːknəs/", "level": "B1",
+      "meaning": "điểm yếu",
+      "definition": "a part of something or someone that is not good or strong",
+      "collocations": ["strengths and weaknesses", "my biggest weakness", "a weakness for"],
+      "examples": [
+        {"en": "Listening is my biggest *weakness* in English.", "vi": "Nghe là điểm yếu lớn nhất của tôi trong tiếng Anh.", "context": "tự nhận xét"},
+        {"en": "What are your strengths and *weaknesses*?", "vi": "Điểm mạnh và điểm yếu của bạn là gì?", "context": "phỏng vấn"}
+      ],
+      "note": "*have a weakness for* = rất thích, khó cưỡng (I have a weakness for chocolate). Đối nghĩa: *strength*.",
+      "antonyms": ["strength"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Asking someone to repeat", "situation_vi": "Nhờ nhắc lại",
+      "formal": "I'm sorry, could you repeat that more slowly, please?",
+      "neutral": "Sorry, could you say that again?",
+      "casual": "Sorry, what?",
+      "vi": "Xin lỗi, bạn nói lại được không?",
+      "reply": "Sure. I said the meeting is at three.",
+      "note": "Pardon? cũng lịch sự. Tránh nói What? cộc lốc với người lạ."
+    },
+    {
+      "situation": "Checking the meaning of a word", "situation_vi": "Hỏi nghĩa của từ",
+      "formal": "Excuse me, what does 'sustainable' mean?",
+      "neutral": "Sorry, what does that word mean?",
+      "casual": "Wait, what's that mean?",
+      "vi": "Xin lỗi, từ đó nghĩa là gì?",
+      "reply": "It means something that can last without harming the environment.",
+      "note": "Cấu trúc: What does X mean? (không nói What is X mean?)."
+    },
+    {
+      "situation": "Asking how to say something", "situation_vi": "Hỏi cách nói một từ",
+      "formal": "How would you say 'phở' in English?",
+      "neutral": "How do you say this in English?",
+      "casual": "What's the word for this?",
+      "vi": "Cái này tiếng Anh nói thế nào?",
+      "reply": "It's just 'pho'. Everyone knows it now!",
+      "note": "How do you pronounce this? = Từ này phát âm thế nào?"
+    },
+    {
+      "situation": "Talking about learning goals", "situation_vi": "Nói về mục tiêu học tập",
+      "formal": "My aim is to reach an upper-intermediate level within a year.",
+      "neutral": "I want to get to B2 by next year.",
+      "casual": "I just want to be able to chat with foreigners.",
+      "vi": "Mình muốn đạt B2 vào năm sau.",
+      "reply": "That's a great goal. How are you studying?",
+      "note": "upper-intermediate ≈ B2, intermediate ≈ B1."
+    },
+    {
+      "situation": "Describing your study routine", "situation_vi": "Kể về cách học",
+      "formal": "I dedicate thirty minutes every morning to reviewing vocabulary.",
+      "neutral": "I study new words for 20 minutes every day with an app.",
+      "casual": "I just watch a lot of YouTube in English.",
+      "vi": "Mình học từ mới 20 phút mỗi ngày bằng app.",
+      "reply": "Nice! Consistency is the key.",
+      "note": "Consistency is the key = Đều đặn là chìa khóa."
+    },
+    {
+      "situation": "Asking for feedback on your English", "situation_vi": "Nhờ góp ý tiếng Anh",
+      "formal": "Would you mind correcting me if I make any mistakes?",
+      "neutral": "Please tell me if I say something wrong.",
+      "casual": "Feel free to correct me!",
+      "vi": "Mình nói sai thì bạn sửa giúp nhé.",
+      "reply": "Sure, but honestly your English is really good.",
+      "note": "Câu rất hữu ích khi nói chuyện với người bản xứ."
+    },
+    {
+      "situation": "Admitting you don't understand", "situation_vi": "Thừa nhận chưa hiểu",
+      "formal": "I'm afraid I don't quite follow. Could you explain it another way?",
+      "neutral": "I'm not sure I understand. Can you give me an example?",
+      "casual": "I'm lost. What do you mean?",
+      "vi": "Mình chưa hiểu lắm. Bạn cho ví dụ được không?",
+      "reply": "Sure. Let me put it another way.",
+      "note": "I don't follow = tôi không theo kịp. put it another way = nói cách khác."
+    },
+    {
+      "situation": "Encouraging a classmate", "situation_vi": "Động viên bạn học",
+      "formal": "You've improved a lot. Keep up the good work.",
+      "neutral": "You're doing great. Don't give up!",
+      "casual": "You got this!",
+      "vi": "Bạn đang làm rất tốt. Đừng bỏ cuộc!",
+      "reply": "Thanks, that means a lot.",
+      "note": "You got this! = Bạn làm được mà! That means a lot = Câu đó có ý nghĩa với mình lắm."
+    }
+  ]
+}

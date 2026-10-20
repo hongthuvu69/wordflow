@@ -1,0 +1,443 @@
+{
+  "id": "technology",
+  "order": 8,
+  "icon": "💻",
+  "level": "B1",
+  "title": "Technology & Internet",
+  "title_vi": "Công nghệ & Internet",
+  "description": "Điện thoại, máy tính, mạng xã hội, sự cố kỹ thuật và an toàn trên mạng.",
+  "words": [
+    {
+      "id": "te_device", "word": "device", "pos": "noun", "ipa": "/dɪˈvaɪs/", "level": "B1",
+      "meaning": "thiết bị",
+      "definition": "a machine or tool, e.g. a phone, tablet or computer",
+      "collocations": ["mobile device", "smart device", "on all your devices", "connect a device"],
+      "examples": [
+        {"en": "You can use this app on all your *devices*.", "vi": "Bạn có thể dùng app này trên mọi thiết bị.", "context": "giới thiệu"},
+        {"en": "Please turn off all electronic *devices* during the flight.", "vi": "Vui lòng tắt mọi thiết bị điện tử trong chuyến bay.", "context": "thông báo"}
+      ],
+      "note": "Phát âm: di-VAIS (nhấn âm 2). Động từ *devise* /dɪˈvaɪz/ = nghĩ ra (khác nghĩa).",
+      "synonyms": ["gadget", "machine"]
+    },
+    {
+      "id": "te_download", "word": "download", "pos": "verb / noun", "ipa": "/ˌdaʊnˈloʊd/", "level": "A2",
+      "meaning": "tải xuống",
+      "definition": "to copy files or programs from the internet to your device",
+      "collocations": ["download an app", "free download", "download a file", "download speed"],
+      "examples": [
+        {"en": "*Download* the app and create an account.", "vi": "Tải ứng dụng về và tạo tài khoản.", "context": "hướng dẫn"},
+        {"en": "The file is too big. It's taking forever to *download*.", "vi": "File nặng quá. Tải mãi không xong.", "context": "than phiền"}
+      ],
+      "note": "Ngược lại: *upload* = tải lên. *taking forever* = lâu kinh khủng (thân mật).",
+      "antonyms": ["upload"]
+    },
+    {
+      "id": "te_install", "word": "install", "pos": "verb", "ipa": "/ɪnˈstɔːl/", "level": "B1",
+      "meaning": "cài đặt",
+      "definition": "to put software or equipment in place so it can be used",
+      "collocations": ["install an app", "install updates", "install software", "uninstall"],
+      "examples": [
+        {"en": "I need to *install* the latest update.", "vi": "Tôi cần cài bản cập nhật mới nhất.", "context": "công nghệ"},
+        {"en": "They're coming to *install* the air conditioner tomorrow.", "vi": "Mai họ đến lắp điều hòa.", "context": "đời sống"}
+      ],
+      "note": "Dùng cho cả phần mềm (cài) và thiết bị (lắp đặt). *uninstall* = gỡ cài đặt.",
+      "antonyms": ["uninstall", "remove"]
+    },
+    {
+      "id": "te_update", "word": "update", "pos": "verb / noun", "ipa": "/ˌʌpˈdeɪt/", "level": "B1",
+      "meaning": "cập nhật; bản cập nhật",
+      "definition": "to make something more modern or add new information",
+      "collocations": ["software update", "keep someone updated", "update your profile", "an important update"],
+      "examples": [
+        {"en": "My phone restarted to install an *update*.", "vi": "Điện thoại tôi khởi động lại để cài bản cập nhật.", "context": "kể chuyện"},
+        {"en": "Please keep me *updated* on the project.", "vi": "Hãy cập nhật cho tôi về dự án nhé.", "context": "công việc"}
+      ],
+      "note": "Động từ nhấn âm 2 (up-DATE), danh từ nhấn âm 1 (UP-date). *Keep me updated / posted* = báo tin cho tôi nhé.",
+      "synonyms": ["upgrade"]
+    },
+    {
+      "id": "te_password", "word": "password", "pos": "noun", "ipa": "/ˈpæswɜːrd/", "level": "A2",
+      "meaning": "mật khẩu",
+      "definition": "a secret word you use to enter an account or system",
+      "collocations": ["enter your password", "reset your password", "a strong password", "forget your password"],
+      "examples": [
+        {"en": "I forgot my *password*, so I had to reset it.", "vi": "Tôi quên mật khẩu nên phải đặt lại.", "context": "kể chuyện"},
+        {"en": "Use a strong *password* with letters and numbers.", "vi": "Hãy dùng mật khẩu mạnh có chữ và số.", "context": "lời khuyên"}
+      ],
+      "note": "*reset* = đặt lại. *log in / sign in* = đăng nhập; *log out / sign out* = đăng xuất.",
+      "synonyms": ["passcode", "PIN"]
+    },
+    {
+      "id": "te_account", "word": "account", "pos": "noun", "ipa": "/əˈkaʊnt/", "level": "A2",
+      "meaning": "tài khoản",
+      "definition": "a registration with a website, bank or service",
+      "collocations": ["create an account", "log into your account", "bank account", "delete your account"],
+      "examples": [
+        {"en": "You need to create an *account* to use this service.", "vi": "Bạn cần tạo tài khoản để dùng dịch vụ này.", "context": "hướng dẫn"},
+        {"en": "Someone tried to log into my *account*.", "vi": "Có người đã cố đăng nhập vào tài khoản của tôi.", "context": "cảnh báo"}
+      ],
+      "note": "log INTO an account. *open a bank account* = mở tài khoản ngân hàng."
+    },
+    {
+      "id": "te_connection", "word": "connection", "pos": "noun", "ipa": "/kəˈnekʃn/", "level": "B1",
+      "meaning": "kết nối; mối liên hệ",
+      "definition": "a link to the internet or a network; a relationship between things",
+      "collocations": ["internet connection", "a slow connection", "lose connection", "a bad connection"],
+      "examples": [
+        {"en": "Sorry, my *connection* is really slow today.", "vi": "Xin lỗi, hôm nay mạng của tôi chậm quá.", "context": "họp online"},
+        {"en": "You're breaking up. I think it's a bad *connection*.", "vi": "Tiếng bạn bị ngắt quãng. Chắc mạng yếu.", "context": "gọi điện"}
+      ],
+      "note": "*You're breaking up* = tiếng bị đứt quãng (khi gọi). *You're on mute* = bạn đang tắt mic.",
+      "synonyms": ["link", "signal"]
+    },
+    {
+      "id": "te_battery", "word": "battery", "pos": "noun", "ipa": "/ˈbætəri/", "level": "A2",
+      "meaning": "pin",
+      "definition": "a thing that provides electricity to a device",
+      "collocations": ["battery life", "low battery", "my battery is dead", "charge the battery"],
+      "examples": [
+        {"en": "My *battery* is about to die. Can I borrow your charger?", "vi": "Điện thoại tôi sắp hết pin. Cho tôi mượn sạc được không?", "context": "nhờ vả"},
+        {"en": "This phone has great *battery* life.", "vi": "Điện thoại này pin rất trâu.", "context": "nhận xét"}
+      ],
+      "note": "Hết pin: *My phone died / My battery is dead*. Sạc: *charge* (động từ), *charger* (cục sạc).",
+      "mistake": {"wrong": "My phone is out of pin.", "right": "My phone is out of battery. / My phone died.", "explain": "pin là từ tiếng Việt; tiếng Anh là battery. PIN trong tiếng Anh là mã số bí mật."}
+    },
+    {
+      "id": "te_screen", "word": "screen", "pos": "noun", "ipa": "/skriːn/", "level": "A2",
+      "meaning": "màn hình",
+      "definition": "the flat surface where you see pictures or information",
+      "collocations": ["screen time", "a cracked screen", "share your screen", "touch screen"],
+      "examples": [
+        {"en": "I dropped my phone and cracked the *screen*.", "vi": "Tôi làm rơi điện thoại và nứt màn hình.", "context": "kể chuyện"},
+        {"en": "Can you share your *screen* so we can see the slides?", "vi": "Bạn chia sẻ màn hình để mọi người xem slide được không?", "context": "họp online"}
+      ],
+      "note": "*screen time* = thời gian dùng màn hình. *screenshot* = ảnh chụp màn hình.",
+      "synonyms": ["display", "monitor"]
+    },
+    {
+      "id": "te_social_media", "word": "social media", "pos": "noun", "ipa": "/ˌsoʊʃl ˈmiːdiə/", "level": "B1",
+      "meaning": "mạng xã hội",
+      "definition": "websites and apps where people share content and communicate",
+      "collocations": ["on social media", "post on social media", "spend time on social media", "social media addiction"],
+      "examples": [
+        {"en": "I spend too much time on *social media*.", "vi": "Tôi dành quá nhiều thời gian cho mạng xã hội.", "context": "thú nhận"},
+        {"en": "She posted the photos on *social media*.", "vi": "Cô ấy đăng ảnh lên mạng xã hội.", "context": "kể chuyện"}
+      ],
+      "note": "Dùng giới từ ON. Thường không đếm được, không nói *a social media*. Một nền tảng cụ thể: *a social media platform / app*.",
+      "mistake": {"wrong": "I saw it in social media.", "right": "I saw it on social media.", "explain": "Trên mạng xã hội / trên internet → ON."}
+    },
+    {
+      "id": "te_post", "word": "post", "pos": "verb / noun", "ipa": "/poʊst/", "level": "B1",
+      "meaning": "đăng (bài); bài đăng",
+      "definition": "to put information or a picture online",
+      "collocations": ["post a photo", "a new post", "post a comment", "like a post"],
+      "examples": [
+        {"en": "Did you see the photo he *posted* yesterday?", "vi": "Bạn thấy tấm ảnh anh ấy đăng hôm qua chưa?", "context": "nói chuyện"},
+        {"en": "Her last *post* got thousands of likes.", "vi": "Bài đăng gần nhất của cô ấy được hàng nghìn lượt thích.", "context": "kể chuyện"}
+      ],
+      "note": "Từ liên quan: *share* (chia sẻ), *comment* (bình luận), *follow* (theo dõi), *go viral* (lan truyền mạnh).",
+      "synonyms": ["share", "upload"]
+    },
+    {
+      "id": "te_search", "word": "search", "pos": "verb / noun", "ipa": "/sɜːrtʃ/", "level": "A2",
+      "meaning": "tìm kiếm",
+      "definition": "to look for information, especially online",
+      "collocations": ["search for", "search online", "a quick search", "search engine"],
+      "examples": [
+        {"en": "I *searched* for the answer online.", "vi": "Tôi tìm câu trả lời trên mạng.", "context": "kể chuyện"},
+        {"en": "Just do a quick *search* and you'll find it.", "vi": "Tìm nhanh một chút là thấy ngay.", "context": "gợi ý"}
+      ],
+      "note": "search FOR + thứ cần tìm. Thân mật: *Just google it* = tra Google đi.",
+      "mistake": {"wrong": "I searched my keys everywhere.", "right": "I searched for my keys everywhere.", "explain": "Tìm vật bị mất → search FOR. (search a place = lục soát nơi nào)"},
+      "synonyms": ["look up", "look for", "google"]
+    },
+    {
+      "id": "te_crash", "word": "crash", "pos": "verb / noun", "ipa": "/kræʃ/", "level": "B1",
+      "meaning": "bị treo, sập (máy); tai nạn đâm xe",
+      "definition": "to suddenly stop working (computers); to hit something violently",
+      "collocations": ["the app crashed", "the system crashed", "a car crash", "keep crashing"],
+      "examples": [
+        {"en": "My computer *crashed* and I lost all my work.", "vi": "Máy tính tôi bị treo và tôi mất hết bài.", "context": "than phiền"},
+        {"en": "The app keeps *crashing* when I open it.", "vi": "Ứng dụng cứ bị văng ra mỗi khi tôi mở.", "context": "báo lỗi"}
+      ],
+      "note": "*freeze* = đơ, đứng hình. *crash* = sập, tắt đột ngột. Thân mật: *crash* = ngủ nhờ (Can I crash at your place?).",
+      "synonyms": ["freeze", "break down"]
+    },
+    {
+      "id": "te_backup", "word": "back up", "pos": "phrasal verb", "ipa": "/bæk ʌp/", "level": "B1",
+      "meaning": "sao lưu",
+      "definition": "to make a copy of files in case the original is lost",
+      "collocations": ["back up your files", "back up to the cloud", "a backup copy", "regular backups"],
+      "examples": [
+        {"en": "Always *back up* your important files.", "vi": "Luôn sao lưu các file quan trọng.", "context": "lời khuyên"},
+        {"en": "Luckily I had a backup, so I didn't lose anything.", "vi": "May là tôi có bản sao lưu nên không mất gì.", "context": "kể chuyện"}
+      ],
+      "note": "Động từ viết rời *back up*; danh từ viết liền *backup*. Nghĩa khác: *back someone up* = ủng hộ ai."
+    },
+    {
+      "id": "te_wifi", "word": "Wi-Fi", "pos": "noun", "ipa": "/ˈwaɪ faɪ/", "level": "A2",
+      "meaning": "mạng không dây",
+      "definition": "a way to connect to the internet without wires",
+      "collocations": ["connect to the Wi-Fi", "free Wi-Fi", "the Wi-Fi password", "the Wi-Fi is down"],
+      "examples": [
+        {"en": "What's the *Wi-Fi* password?", "vi": "Mật khẩu Wi-Fi là gì vậy?", "context": "quán cà phê"},
+        {"en": "The *Wi-Fi* is down again. I can't send emails.", "vi": "Wi-Fi lại sập rồi. Tôi không gửi email được.", "context": "than phiền"}
+      ],
+      "note": "Phát âm: WAI-fai (không phải wi-fi). *is down* = bị sập, không hoạt động.",
+      "mistake": {"wrong": "Can you give me the pass wifi?", "right": "Could you tell me the Wi-Fi password?", "explain": "Tiếng Anh: Wi-Fi password (tính từ đứng trước). 'pass wifi' là cách nói của người Việt."}
+    },
+    {
+      "id": "te_online", "word": "online", "pos": "adjective / adverb", "ipa": "/ˌɑːnˈlaɪn/", "level": "A2",
+      "meaning": "trực tuyến, trên mạng",
+      "definition": "connected to or available on the internet",
+      "collocations": ["shop online", "online course", "go online", "online meeting"],
+      "examples": [
+        {"en": "I'm taking an *online* course in graphic design.", "vi": "Tôi đang học một khóa thiết kế đồ họa trực tuyến.", "context": "giới thiệu"},
+        {"en": "Most people buy clothes *online* now.", "vi": "Giờ hầu hết mọi người mua quần áo trên mạng.", "context": "nhận xét"}
+      ],
+      "note": "Là trạng từ nên không cần giới từ: *buy online* (không nói buy on online).",
+      "antonyms": ["offline", "in person"]
+    },
+    {
+      "id": "te_privacy", "word": "privacy", "pos": "noun", "ipa": "/ˈpraɪvəsi/", "level": "B2",
+      "meaning": "quyền riêng tư, sự riêng tư",
+      "definition": "the right to keep your personal information and life private",
+      "collocations": ["privacy settings", "protect your privacy", "invade someone's privacy", "online privacy"],
+      "examples": [
+        {"en": "Check your *privacy* settings before posting photos.", "vi": "Kiểm tra cài đặt riêng tư trước khi đăng ảnh.", "context": "lời khuyên"},
+        {"en": "Reading someone's messages is an invasion of *privacy*.", "vi": "Đọc tin nhắn của người khác là xâm phạm quyền riêng tư.", "context": "nhận xét"}
+      ],
+      "note": "Tính từ: *private* (riêng tư). *personal data* = dữ liệu cá nhân."
+    },
+    {
+      "id": "te_scam", "word": "scam", "pos": "noun / verb", "ipa": "/skæm/", "level": "B2",
+      "meaning": "trò lừa đảo; lừa đảo",
+      "definition": "a dishonest way to get money from people",
+      "collocations": ["online scam", "fall for a scam", "a phone scam", "get scammed"],
+      "examples": [
+        {"en": "That message is a *scam*. Don't click the link!", "vi": "Tin nhắn đó là lừa đảo. Đừng bấm vào link!", "context": "cảnh báo"},
+        {"en": "My uncle got *scammed* by a fake bank call.", "vi": "Chú tôi bị lừa bởi một cuộc gọi giả ngân hàng.", "context": "kể chuyện"}
+      ],
+      "note": "*fall for* = mắc bẫy, bị lừa. *fake* = giả. *phishing* = lừa lấy thông tin qua email/tin nhắn.",
+      "synonyms": ["fraud", "trick"]
+    },
+    {
+      "id": "te_charge", "word": "charge", "pos": "verb", "ipa": "/tʃɑːrdʒ/", "level": "B1",
+      "meaning": "sạc (pin); tính phí",
+      "definition": "to put electricity into a battery; to ask for money for a service",
+      "collocations": ["charge your phone", "fully charged", "charge a fee", "free of charge"],
+      "examples": [
+        {"en": "I need to *charge* my phone. It's at five percent.", "vi": "Tôi cần sạc điện thoại. Còn có 5% pin.", "context": "nói chuyện"},
+        {"en": "Do they *charge* for delivery?", "vi": "Họ có tính phí giao hàng không?", "context": "hỏi"}
+      ],
+      "note": "*free of charge* = miễn phí. *in charge of* = phụ trách (khác nghĩa).",
+      "synonyms": ["power up", "bill"]
+    },
+    {
+      "id": "te_technology", "word": "technology", "pos": "noun", "ipa": "/tekˈnɑːlədʒi/", "level": "A2",
+      "meaning": "công nghệ",
+      "definition": "the use of science to make machines, tools and systems",
+      "collocations": ["modern technology", "new technology", "information technology (IT)", "keep up with technology"],
+      "examples": [
+        {"en": "*Technology* has changed the way we learn.", "vi": "Công nghệ đã thay đổi cách chúng ta học.", "context": "thảo luận"},
+        {"en": "My grandparents find it hard to keep up with *technology*.", "vi": "Ông bà tôi thấy khó theo kịp công nghệ.", "context": "nhận xét"}
+      ],
+      "note": "*keep up with* = theo kịp. *tech-savvy* = rành công nghệ.",
+      "synonyms": ["tech"]
+    },
+    {
+      "id": "te_artificial_intelligence", "word": "artificial intelligence", "pos": "noun phrase", "ipa": "/ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/", "level": "B2",
+      "meaning": "trí tuệ nhân tạo (AI)",
+      "definition": "computer systems that can do tasks that normally need human intelligence",
+      "collocations": ["use artificial intelligence", "AI tools", "powered by AI", "the future of AI"],
+      "examples": [
+        {"en": "*Artificial intelligence* can help you practice speaking English.", "vi": "Trí tuệ nhân tạo có thể giúp bạn luyện nói tiếng Anh.", "context": "giới thiệu"},
+        {"en": "Some people worry that AI will replace their jobs.", "vi": "Một số người lo AI sẽ thay thế công việc của họ.", "context": "thảo luận"}
+      ],
+      "note": "Thường nói tắt là *AI* /ˌeɪˈaɪ/.",
+      "synonyms": ["AI"]
+    },
+    {
+      "id": "te_attach", "word": "attach", "pos": "verb", "ipa": "/əˈtætʃ/", "level": "B1",
+      "meaning": "đính kèm; gắn vào",
+      "definition": "to add a file to an email; to fix one thing to another",
+      "collocations": ["attach a file", "please find attached", "attached to", "an attachment"],
+      "examples": [
+        {"en": "I've *attached* the report to this email.", "vi": "Tôi đã đính kèm báo cáo trong email này.", "context": "email"},
+        {"en": "Please find *attached* my CV.", "vi": "Xin gửi kèm CV của tôi.", "context": "email trang trọng"}
+      ],
+      "note": "*Please find attached…* là cụm cố định rất phổ biến trong email công việc. Danh từ: *attachment* (file đính kèm).",
+      "mistake": {"wrong": "I attach with this email the report.", "right": "I've attached the report to this email.", "explain": "attach + vật + TO + nơi (không dùng with)."}
+    },
+    {
+      "id": "te_notification", "word": "notification", "pos": "noun", "ipa": "/ˌnoʊtɪfɪˈkeɪʃn/", "level": "B1",
+      "meaning": "thông báo (trên điện thoại/app)",
+      "definition": "a message from an app telling you something new",
+      "collocations": ["turn off notifications", "get a notification", "push notifications", "notification settings"],
+      "examples": [
+        {"en": "I turned off *notifications* so I can focus.", "vi": "Tôi tắt thông báo để tập trung.", "context": "chia sẻ"},
+        {"en": "I got a *notification* that my package has arrived.", "vi": "Tôi nhận thông báo là gói hàng đã đến.", "context": "kể chuyện"}
+      ],
+      "note": "Động từ *notify* (trang trọng) = báo cho biết.",
+      "synonyms": ["alert"]
+    },
+    {
+      "id": "te_tech_support", "word": "fix", "pos": "verb", "ipa": "/fɪks/", "level": "A2",
+      "meaning": "sửa, khắc phục",
+      "definition": "to repair something or solve a problem",
+      "collocations": ["fix a problem", "fix a bug", "get something fixed", "fix it yourself"],
+      "examples": [
+        {"en": "Restarting the router usually *fixes* the problem.", "vi": "Khởi động lại router thường sửa được lỗi.", "context": "mẹo"},
+        {"en": "I need to get my laptop *fixed*.", "vi": "Tôi cần mang laptop đi sửa.", "context": "kể chuyện"}
+      ],
+      "note": "*get something fixed* = mang đi sửa (người khác sửa). *bug* = lỗi phần mềm.",
+      "synonyms": ["repair", "solve"]
+    },
+    {
+      "id": "te_storage", "word": "storage", "pos": "noun", "ipa": "/ˈstɔːrɪdʒ/", "level": "B1",
+      "meaning": "bộ nhớ lưu trữ; kho chứa",
+      "definition": "space for keeping data or things",
+      "collocations": ["run out of storage", "cloud storage", "storage space", "free up storage"],
+      "examples": [
+        {"en": "My phone is running out of *storage*.", "vi": "Điện thoại tôi sắp hết bộ nhớ.", "context": "than phiền"},
+        {"en": "Delete old videos to free up *storage*.", "vi": "Xóa video cũ để giải phóng bộ nhớ.", "context": "mẹo"}
+      ],
+      "note": "*run out of* = hết. *free up* = giải phóng, làm trống.",
+      "synonyms": ["memory", "space"]
+    },
+    {
+      "id": "te_addicted", "word": "addicted", "pos": "adjective", "ipa": "/əˈdɪktɪd/", "level": "B1",
+      "meaning": "nghiện",
+      "definition": "unable to stop doing or using something",
+      "collocations": ["addicted to", "totally addicted", "addicted to my phone", "addictive game"],
+      "examples": [
+        {"en": "I think I'm *addicted* to my phone.", "vi": "Hình như tôi nghiện điện thoại rồi.", "context": "thú nhận"},
+        {"en": "This game is so *addictive*. I can't stop playing.", "vi": "Game này gây nghiện quá. Chơi không dừng được.", "context": "nhận xét"}
+      ],
+      "note": "addicted TO + danh từ/V-ing. *addictive* = gây nghiện. Danh từ: *addiction*.",
+      "mistake": {"wrong": "I'm addicted with games.", "right": "I'm addicted to games.", "explain": "Giới từ đi với addicted là TO."}
+    },
+    {
+      "id": "te_convenient", "word": "convenient", "pos": "adjective", "ipa": "/kənˈviːniənt/", "level": "B1",
+      "meaning": "tiện lợi, thuận tiện",
+      "definition": "easy to use or suitable for your plans",
+      "collocations": ["very convenient", "convenient for", "a convenient time", "more convenient"],
+      "examples": [
+        {"en": "Online banking is really *convenient*.", "vi": "Ngân hàng trực tuyến thật tiện.", "context": "nhận xét"},
+        {"en": "What time is *convenient* for you?", "vi": "Mấy giờ thì tiện cho bạn?", "context": "hẹn lịch"}
+      ],
+      "note": "Hỏi giờ hẹn lịch sự: *When is convenient for you?* Lưu ý: convenient FOR + người (không dùng *Are you convenient?*).",
+      "mistake": {"wrong": "Are you convenient tomorrow?", "right": "Is tomorrow convenient for you?", "explain": "Chủ ngữ của convenient là thời gian/sự việc, không phải người."},
+      "antonyms": ["inconvenient"]
+    },
+    {
+      "id": "te_video_call", "word": "video call", "pos": "noun", "ipa": "/ˈvɪdioʊ kɔːl/", "level": "A2",
+      "meaning": "cuộc gọi video",
+      "definition": "a phone call where you can see each other on screen",
+      "collocations": ["make a video call", "on a video call", "join a video call"],
+      "examples": [
+        {"en": "I have a *video call* with my team at 9.", "vi": "Tôi có cuộc gọi video với nhóm lúc 9 giờ.", "context": "công việc"},
+        {"en": "We talk to my grandma on *video call* every Sunday.", "vi": "Chủ nhật nào chúng tôi cũng gọi video cho bà.", "context": "kể chuyện"}
+      ],
+      "note": "*on a call* = đang gọi. *You're on mute* = bạn đang tắt mic. *Can you hear me?*"
+    },
+    {
+      "id": "te_tap", "word": "tap", "pos": "verb", "ipa": "/tæp/", "level": "B1",
+      "meaning": "chạm nhẹ (vào màn hình)",
+      "definition": "to touch a screen lightly with your finger",
+      "collocations": ["tap the button", "tap and hold", "double-tap", "swipe left"],
+      "examples": [
+        {"en": "*Tap* the icon to open the app.", "vi": "Chạm vào biểu tượng để mở ứng dụng.", "context": "hướng dẫn"},
+        {"en": "Swipe up, then *tap* Settings.", "vi": "Vuốt lên, rồi chạm vào Cài đặt.", "context": "hướng dẫn"}
+      ],
+      "note": "Thao tác điện thoại: *tap* (chạm), *swipe* (vuốt), *scroll* (cuộn), *pinch* (chụm 2 ngón để thu nhỏ).",
+      "synonyms": ["touch", "press"]
+    },
+    {
+      "id": "te_log_in", "word": "log in", "pos": "phrasal verb", "ipa": "/lɔːɡ ɪn/", "level": "A2",
+      "meaning": "đăng nhập",
+      "definition": "to enter your username and password to use an account",
+      "collocations": ["log in to", "can't log in", "log in with Google", "log out"],
+      "examples": [
+        {"en": "I can't *log in*. It says my password is wrong.", "vi": "Tôi không đăng nhập được. Nó báo sai mật khẩu.", "context": "báo lỗi"},
+        {"en": "Don't forget to log out on shared computers.", "vi": "Đừng quên đăng xuất trên máy tính dùng chung.", "context": "lời khuyên"}
+      ],
+      "note": "Động từ viết rời *log in*, danh từ viết liền *login* (login page). Đồng nghĩa: *sign in*.",
+      "synonyms": ["sign in"], "antonyms": ["log out", "sign out"]
+    }
+  ],
+  "phrases": [
+    {
+      "situation": "Tech problems on a video call", "situation_vi": "Sự cố khi gọi video",
+      "formal": "I'm afraid my connection is unstable. Could you repeat that, please?",
+      "neutral": "Sorry, you're breaking up. Can you say that again?",
+      "casual": "You froze! Say that again?",
+      "vi": "Xin lỗi, tiếng bạn bị ngắt quãng. Bạn nói lại được không?",
+      "reply": "Can you hear me now?",
+      "note": "You're on mute = bạn đang tắt mic. Can you see my screen? = Bạn thấy màn hình tôi không?"
+    },
+    {
+      "situation": "Asking for tech help", "situation_vi": "Nhờ giúp về công nghệ",
+      "formal": "Would you mind helping me set up my new laptop?",
+      "neutral": "Could you help me with my phone? It keeps freezing.",
+      "casual": "Can you take a look at my laptop? Something's wrong with it.",
+      "vi": "Bạn giúp mình xem cái điện thoại được không? Nó cứ bị đơ.",
+      "reply": "Sure. Have you tried turning it off and on again?",
+      "note": "Câu kinh điển của dân IT: Have you tried turning it off and on again?"
+    },
+    {
+      "situation": "Asking for the Wi-Fi", "situation_vi": "Hỏi mật khẩu Wi-Fi",
+      "formal": "Excuse me, is there Wi-Fi available here?",
+      "neutral": "What's the Wi-Fi password, please?",
+      "casual": "Hey, what's the Wi-Fi?",
+      "vi": "Mật khẩu Wi-Fi là gì vậy bạn?",
+      "reply": "It's on the receipt, at the bottom.",
+      "note": "Is the Wi-Fi free? = Wi-Fi có miễn phí không?"
+    },
+    {
+      "situation": "Reporting a problem to customer support", "situation_vi": "Báo lỗi với bộ phận hỗ trợ",
+      "formal": "I'm writing to report a problem with my account. I'm unable to log in.",
+      "neutral": "Hi, I can't log into my account. Can you help?",
+      "casual": "",
+      "vi": "Chào bạn, tôi không đăng nhập được tài khoản. Bạn giúp tôi được không?",
+      "reply": "I'm sorry to hear that. Can you tell me the email address on the account?",
+      "note": "Khi báo lỗi nên nói rõ: chuyện gì xảy ra, từ khi nào, đã thử làm gì."
+    },
+    {
+      "situation": "Talking about screen time", "situation_vi": "Nói về thời gian dùng điện thoại",
+      "formal": "I've been trying to reduce my screen time recently.",
+      "neutral": "I spend way too much time on my phone.",
+      "casual": "I'm literally glued to my phone.",
+      "vi": "Mình dùng điện thoại nhiều quá.",
+      "reply": "Me too. I turned off notifications and it helps a lot.",
+      "note": "glued to = dán mắt vào. way too much = quá nhiều."
+    },
+    {
+      "situation": "Sending a file", "situation_vi": "Gửi file",
+      "formal": "Please find attached the documents you requested.",
+      "neutral": "I've sent you the file by email. Let me know if you got it.",
+      "casual": "Just sent it! Check your inbox.",
+      "vi": "Mình gửi file qua email rồi. Nhận được thì báo mình nhé.",
+      "reply": "Got it, thanks!",
+      "note": "Got it = Nhận được rồi / Hiểu rồi."
+    },
+    {
+      "situation": "Warning about scams", "situation_vi": "Cảnh báo lừa đảo",
+      "formal": "Please be aware that the bank will never ask for your password.",
+      "neutral": "Be careful, that message looks like a scam.",
+      "casual": "Don't click that link, it's totally fake!",
+      "vi": "Cẩn thận, tin nhắn đó có vẻ là lừa đảo.",
+      "reply": "Oh, thanks for telling me. I almost clicked it!",
+      "note": "be aware that = xin lưu ý rằng (trang trọng)."
+    },
+    {
+      "situation": "Recommending an app", "situation_vi": "Giới thiệu một ứng dụng",
+      "formal": "I'd highly recommend this app. It's very user-friendly.",
+      "neutral": "You should try this app. It's really useful.",
+      "casual": "Get this app, it's a game changer!",
+      "vi": "Bạn nên thử app này. Nó rất hữu ích.",
+      "reply": "What does it do exactly?",
+      "note": "user-friendly = dễ dùng. game changer = thứ thay đổi cuộc chơi, cực kỳ hữu ích."
+    }
+  ]
+}

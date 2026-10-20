@@ -40,7 +40,11 @@ Item {
                 onClicked: AppNav.startQuiz(page.topicId)
             }
             Button {
-                text: "💬  Mẫu câu giao tiếp (" + (page.topic.phraseCount || 0) + ")"
+                text: "✍️  Luyện viết"
+                onClicked: AppNav.startPractice(page.topicId)
+            }
+            Button {
+                text: "💬  Mẫu câu (" + (page.topic.phraseCount || 0) + ")"
                 onClicked: AppNav.openPhrases(page.topicId)
             }
             Item { Layout.fillWidth: true }

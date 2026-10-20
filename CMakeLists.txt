@@ -40,6 +40,8 @@ qt_add_qml_module(WordFlow
         qml/QuizPage.qml
         qml/PhrasesPage.qml
         qml/SettingsPage.qml
+        qml/PracticePage.qml
+        qml/practice.js
 )
 
 # Nội dung học (JSON) được nhúng vào app tại :/content/

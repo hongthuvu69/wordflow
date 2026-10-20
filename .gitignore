@@ -3,3 +3,4 @@ build/
 .qtcreator/
 CMakeLists.txt.user*
 .claude/
+build-test/
