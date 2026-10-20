@@ -70,6 +70,6 @@ Xong! Học trên máy nào thì tiến độ cũng tự về máy kia.
 
 ## Sửa nội dung học
 
-Sửa hoặc thêm file trong `content/`, chạy `build.bat` (lệnh này tự copy nội dung sang `docs/content/`), rồi commit và push. iPhone sẽ nhận nội dung mới ở lần mở app thứ hai, vì app dùng bản cache trước rồi mới cập nhật ngầm.
+Sửa hoặc thêm file trong `content/`, chạy `build.bat` (lệnh này tự copy nội dung sang `docs/content/`), rồi commit và push. Khoảng 1–2 phút sau, lần mở app tiếp theo trên iPhone (khi có mạng) sẽ có nội dung mới.
 
 Muốn thử web app ngay trên PC: chạy `node tools/serve_web.js` rồi mở <http://localhost:8080>.

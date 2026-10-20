@@ -1,6 +1,8 @@
 // Service worker: cho app chạy offline.
-// Chiến lược "stale-while-revalidate": trả bản trong cache ngay, đồng thời tải bản mới về cho lần mở sau.
-const CACHE = "wordflow-v1";
+// Chiến lược "network-first": có mạng thì luôn lấy bản mới nhất (bỏ qua cache HTTP 10 phút của
+// GitHub Pages), mạng chậm quá 3 giây hoặc mất mạng thì dùng bản đã lưu.
+const CACHE = "wordflow-v2";
+const TIMEOUT_MS = 3000;
 const SHELL = [
   "./",
   "index.html",
@@ -19,10 +21,10 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     (async () => {
       const cache = await caches.open(CACHE);
-      await cache.addAll(SHELL);
+      await cache.addAll(SHELL.map((url) => new Request(url, { cache: "no-cache" })));
       // Tải sẵn toàn bộ file nội dung.
-      const index = await (await fetch("content/index.json")).json();
-      await cache.addAll(index.files.map((f) => "content/" + f));
+      const index = await (await fetch("content/index.json", { cache: "no-cache" })).json();
+      await cache.addAll(index.files.map((f) => new Request("content/" + f, { cache: "no-cache" })));
       await self.skipWaiting();
     })()
   );
@@ -46,18 +48,18 @@ self.addEventListener("fetch", (event) => {
   event.respondWith(
     (async () => {
       const cache = await caches.open(CACHE);
-      const cached = await cache.match(req, { ignoreSearch: true });
-      const network = fetch(req)
+      const network = fetch(req, { cache: "no-cache" })
         .then((res) => {
           if (res.ok) cache.put(req, res.clone());
           return res;
         })
         .catch(() => null);
-      if (cached) {
-        event.waitUntil(network);
-        return cached;
-      }
-      return (await network) || new Response("Offline", { status: 503 });
+      event.waitUntil(network);
+      const timeout = new Promise((resolve) => setTimeout(() => resolve(null), TIMEOUT_MS));
+      const fresh = await Promise.race([network, timeout]);
+      if (fresh) return fresh;
+      const cached = await cache.match(req, { ignoreSearch: true });
+      return cached || (await network) || new Response("Offline", { status: 503 });
     })()
   );
 });
