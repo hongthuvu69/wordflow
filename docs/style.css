@@ -525,3 +525,6 @@ details summary { cursor: pointer; }
 .passage.chat .msg { background: var(--alt); border-radius: 12px; padding: 8px 10px; font-family: -apple-system, "Segoe UI", sans-serif; font-size: 15px; line-height: 1.45; }
 .passage.chat .who { font-size: 12px; margin-bottom: 2px; }
 .passage.chat .who span { color: var(--sub); }
+.passage.table table { width: 100%; border-collapse: collapse; font-family: -apple-system, "Segoe UI", sans-serif; font-size: 14px; }
+.passage.table td { padding: 6px 4px; border-top: 1px solid var(--border); vertical-align: top; }
+.passage.table td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--sub); }

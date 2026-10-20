@@ -1,0 +1,943 @@
+{
+ "id": "toeic_office",
+ "order": 52,
+ "icon": "🖇️",
+ "level": "TOEIC",
+ "title": "TOEIC: Office Life",
+ "title_vi": "TOEIC: Đời sống văn phòng",
+ "description": "Đồ dùng, thiết bị, nội quy và sinh hoạt hằng ngày nơi công sở: từ vựng xuất hiện liên tục ở Part 1, 3 và 7.",
+ "words": [
+  {
+   "id": "tof_supervisor",
+   "word": "supervisor",
+   "pos": "noun",
+   "ipa": "/ˈsuːpərvaɪzər/",
+   "level": "C1",
+   "meaning": "người giám sát, cấp trên trực tiếp",
+   "definition": "a person in charge of a group of workers",
+   "collocations": [
+    "report to your supervisor",
+    "shift supervisor"
+   ],
+   "examples": [
+    {
+     "en": "Please ask your *supervisor* to sign the form.",
+     "vi": "Vui lòng nhờ người giám sát ký vào mẫu đơn."
+    }
+   ]
+  },
+  {
+   "id": "tof_supervise",
+   "word": "supervise",
+   "pos": "verb",
+   "ipa": "/ˈsuːpərvaɪz/",
+   "level": "C1",
+   "meaning": "giám sát",
+   "definition": "to be in charge of people or work",
+   "collocations": [
+    "supervise staff",
+    "closely supervised"
+   ],
+   "examples": [
+    {
+     "en": "She *supervises* a team of ten people.",
+     "vi": "Cô ấy giám sát một đội mười người."
+    }
+   ]
+  },
+  {
+   "id": "tof_memo",
+   "word": "memo",
+   "pos": "noun",
+   "ipa": "/ˈmemoʊ/",
+   "level": "C1",
+   "meaning": "bản ghi nhớ, thông báo nội bộ",
+   "definition": "a short official note sent within a company",
+   "collocations": [
+    "send a memo",
+    "internal memo"
+   ],
+   "examples": [
+    {
+     "en": "The *memo* explains the new parking rules.",
+     "vi": "Bản thông báo nội bộ giải thích quy định đỗ xe mới."
+    }
+   ]
+  },
+  {
+   "id": "tof_photocopier",
+   "word": "photocopier",
+   "pos": "noun",
+   "ipa": "/ˈfoʊtoʊkɑːpiər/",
+   "level": "TOEIC",
+   "meaning": "máy photocopy",
+   "definition": "a machine that makes copies of documents",
+   "collocations": [
+    "use the photocopier",
+    "the photocopier is jammed"
+   ],
+   "examples": [
+    {
+     "en": "The *photocopier* on the second floor is out of order.",
+     "vi": "Máy photocopy ở tầng hai đang hỏng."
+    }
+   ]
+  },
+  {
+   "id": "tof_photocopy",
+   "word": "photocopy",
+   "pos": "verb",
+   "ipa": "/ˈfoʊtoʊkɑːpi/",
+   "level": "TOEIC",
+   "meaning": "photo, sao chụp",
+   "definition": "to make a copy with a machine",
+   "collocations": [
+    "photocopy a document"
+   ],
+   "examples": [
+    {
+     "en": "Could you *photocopy* these pages for me?",
+     "vi": "Bạn photo giúp tôi mấy trang này được không?"
+    }
+   ]
+  },
+  {
+   "id": "tof_copy",
+   "word": "copy",
+   "pos": "noun",
+   "ipa": "/ˈkɑːpi/",
+   "level": "A2",
+   "meaning": "bản sao",
+   "definition": "one example of a document",
+   "collocations": [
+    "make copies",
+    "a copy of the report"
+   ],
+   "examples": [
+    {
+     "en": "Please make ten *copies* of the agenda.",
+     "vi": "Vui lòng photo mười bản chương trình họp."
+    }
+   ]
+  },
+  {
+   "id": "tof_stapler",
+   "word": "stapler",
+   "pos": "noun",
+   "ipa": "/ˈsteɪplər/",
+   "level": "TOEIC",
+   "meaning": "cái dập ghim",
+   "definition": "a tool for joining papers with small metal pieces",
+   "collocations": [
+    "a stapler and staples"
+   ],
+   "examples": [
+    {
+     "en": "Could you pass me the *stapler*?",
+     "vi": "Bạn đưa tôi cái dập ghim được không?"
+    }
+   ]
+  },
+  {
+   "id": "tof_folder",
+   "word": "folder",
+   "pos": "noun",
+   "ipa": "/ˈfoʊldər/",
+   "level": "TOEIC",
+   "meaning": "bìa hồ sơ; thư mục",
+   "definition": "a cover for papers; a place for files on a computer",
+   "collocations": [
+    "a blue folder",
+    "shared folder"
+   ],
+   "examples": [
+    {
+     "en": "Save the file in the shared *folder*.",
+     "vi": "Lưu tệp vào thư mục chung."
+    }
+   ]
+  },
+  {
+   "id": "tof_binder",
+   "word": "binder",
+   "pos": "noun",
+   "ipa": "/ˈbaɪndər/",
+   "level": "TOEIC",
+   "meaning": "bìa còng, kẹp hồ sơ",
+   "definition": "a cover with rings for holding papers",
+   "collocations": [
+    "a three-ring binder"
+   ],
+   "examples": [
+    {
+     "en": "All the training materials are in this *binder*.",
+     "vi": "Toàn bộ tài liệu đào tạo nằm trong bìa còng này."
+    }
+   ]
+  },
+  {
+   "id": "tof_cabinet",
+   "word": "cabinet",
+   "pos": "noun",
+   "ipa": "/ˈkæbɪnət/",
+   "level": "C1",
+   "meaning": "tủ (hồ sơ)",
+   "definition": "a piece of furniture with shelves or drawers",
+   "collocations": [
+    "filing cabinet",
+    "kitchen cabinet"
+   ],
+   "examples": [
+    {
+     "en": "The contracts are kept in a locked filing *cabinet*.",
+     "vi": "Hợp đồng được cất trong tủ hồ sơ có khóa."
+    }
+   ]
+  },
+  {
+   "id": "tof_drawer",
+   "word": "drawer",
+   "pos": "noun",
+   "ipa": "/drɔːr/",
+   "level": "TOEIC",
+   "meaning": "ngăn kéo",
+   "definition": "a box in a desk that slides in and out",
+   "collocations": [
+    "top drawer",
+    "open a drawer"
+   ],
+   "examples": [
+    {
+     "en": "The spare keys are in the top *drawer*.",
+     "vi": "Chìa khóa dự phòng ở ngăn kéo trên cùng."
+    }
+   ]
+  },
+  {
+   "id": "tof_cubicle",
+   "word": "cubicle",
+   "pos": "noun",
+   "ipa": "/ˈkjuːbɪkl/",
+   "level": "TOEIC",
+   "meaning": "ô làm việc (có vách ngăn)",
+   "definition": "a small work area divided by low walls",
+   "collocations": [
+    "work in a cubicle"
+   ],
+   "examples": [
+    {
+     "en": "Her *cubicle* is next to the window.",
+     "vi": "Ô làm việc của cô ấy cạnh cửa sổ."
+    }
+   ]
+  },
+  {
+   "id": "tof_workstation",
+   "word": "workstation",
+   "pos": "noun",
+   "ipa": "/ˈwɜːrksteɪʃn/",
+   "level": "TOEIC",
+   "meaning": "bàn làm việc (kèm máy tính)",
+   "definition": "a desk and computer for one person",
+   "collocations": [
+    "set up a workstation"
+   ],
+   "examples": [
+    {
+     "en": "Each new employee will get their own *workstation*.",
+     "vi": "Mỗi nhân viên mới sẽ có bàn làm việc riêng."
+    }
+   ]
+  },
+  {
+   "id": "tof_reception",
+   "word": "reception",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃn/",
+   "level": "A2",
+   "meaning": "quầy lễ tân; tiệc chiêu đãi",
+   "definition": "the desk where visitors go first; a formal party",
+   "collocations": [
+    "at reception",
+    "wedding reception"
+   ],
+   "examples": [
+    {
+     "en": "Please wait at *reception*.",
+     "vi": "Vui lòng chờ ở quầy lễ tân."
+    }
+   ]
+  },
+  {
+   "id": "tof_receptionist",
+   "word": "receptionist",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃənɪst/",
+   "level": "TOEIC",
+   "meaning": "nhân viên lễ tân",
+   "definition": "a person who greets visitors and answers the phone",
+   "collocations": [
+    "hotel receptionist"
+   ],
+   "examples": [
+    {
+     "en": "The *receptionist* will give you a visitor pass.",
+     "vi": "Lễ tân sẽ đưa bạn thẻ khách."
+    }
+   ]
+  },
+  {
+   "id": "tof_lobby",
+   "word": "lobby",
+   "pos": "noun",
+   "ipa": "/ˈlɑːbi/",
+   "level": "C1",
+   "meaning": "sảnh",
+   "definition": "the entrance hall of a building",
+   "collocations": [
+    "hotel lobby",
+    "in the lobby"
+   ],
+   "examples": [
+    {
+     "en": "Let's meet in the *lobby* at 8.",
+     "vi": "Gặp nhau ở sảnh lúc 8 giờ nhé."
+    }
+   ]
+  },
+  {
+   "id": "tof_conference_room",
+   "word": "conference room",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnfərəns ruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng họp",
+   "definition": "a room for meetings",
+   "collocations": [
+    "book the conference room"
+   ],
+   "examples": [
+    {
+     "en": "The *conference room* is booked all afternoon.",
+     "vi": "Phòng họp đã được đặt cả buổi chiều."
+    }
+   ]
+  },
+  {
+   "id": "tof_whiteboard",
+   "word": "whiteboard",
+   "pos": "noun",
+   "ipa": "/ˈwaɪtbɔːrd/",
+   "level": "TOEIC",
+   "meaning": "bảng trắng",
+   "definition": "a white board you write on with markers",
+   "collocations": [
+    "write on the whiteboard"
+   ],
+   "examples": [
+    {
+     "en": "She wrote the agenda on the *whiteboard*.",
+     "vi": "Cô ấy viết chương trình họp lên bảng trắng."
+    }
+   ]
+  },
+  {
+   "id": "tof_projector",
+   "word": "projector",
+   "pos": "noun",
+   "ipa": "/prəˈdʒektər/",
+   "level": "TOEIC",
+   "meaning": "máy chiếu",
+   "definition": "a machine that shows images on a screen",
+   "collocations": [
+    "set up the projector"
+   ],
+   "examples": [
+    {
+     "en": "The *projector* isn't connecting to my laptop.",
+     "vi": "Máy chiếu không kết nối được với máy tính của tôi."
+    }
+   ]
+  },
+  {
+   "id": "tof_stationery",
+   "word": "stationery",
+   "pos": "noun",
+   "ipa": "/ˈsteɪʃəneri/",
+   "level": "TOEIC",
+   "meaning": "văn phòng phẩm",
+   "definition": "paper, pens and other office items",
+   "collocations": [
+    "order stationery",
+    "stationery cupboard"
+   ],
+   "examples": [
+    {
+     "en": "Pens and paper are in the *stationery* cupboard.",
+     "vi": "Bút và giấy ở trong tủ văn phòng phẩm."
+    }
+   ],
+   "note": "Khác stationary (đứng yên)."
+  },
+  {
+   "id": "tof_cartridge",
+   "word": "cartridge",
+   "pos": "noun",
+   "ipa": "/ˈkɑːrtrɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "hộp mực",
+   "definition": "a container of ink for a printer",
+   "collocations": [
+    "ink cartridge",
+    "replace the cartridge"
+   ],
+   "examples": [
+    {
+     "en": "The printer needs a new *cartridge*.",
+     "vi": "Máy in cần hộp mực mới."
+    }
+   ]
+  },
+  {
+   "id": "tof_jam",
+   "word": "jam",
+   "pos": "noun",
+   "ipa": "/dʒæm/",
+   "level": "A2",
+   "meaning": "sự kẹt (giấy); tắc đường",
+   "definition": "a situation where something is stuck",
+   "collocations": [
+    "paper jam",
+    "traffic jam"
+   ],
+   "examples": [
+    {
+     "en": "There's a paper *jam* in the printer.",
+     "vi": "Máy in bị kẹt giấy."
+    }
+   ]
+  },
+  {
+   "id": "tof_out_of_order",
+   "word": "out of order",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt əv ˈɔːrdər/",
+   "level": "TOEIC",
+   "meaning": "hỏng, không hoạt động",
+   "definition": "not working",
+   "collocations": [
+    "the lift is out of order"
+   ],
+   "examples": [
+    {
+     "en": "The vending machine is *out of order*.",
+     "vi": "Máy bán hàng tự động đang hỏng."
+    }
+   ]
+  },
+  {
+   "id": "tof_vending_machine",
+   "word": "vending machine",
+   "pos": "noun",
+   "ipa": "/ˈvendɪŋ məʃiːn/",
+   "level": "TOEIC",
+   "meaning": "máy bán hàng tự động",
+   "definition": "a machine that sells drinks or snacks",
+   "collocations": [
+    "buy from a vending machine"
+   ],
+   "examples": [
+    {
+     "en": "There's a *vending machine* on every floor.",
+     "vi": "Mỗi tầng đều có máy bán hàng tự động."
+    }
+   ]
+  },
+  {
+   "id": "tof_break_room",
+   "word": "break room",
+   "pos": "noun",
+   "ipa": "/ˈbreɪk ruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng nghỉ (nhân viên)",
+   "definition": "a room where workers rest and eat",
+   "collocations": [
+    "in the break room"
+   ],
+   "examples": [
+    {
+     "en": "There's free coffee in the *break room*.",
+     "vi": "Có cà phê miễn phí trong phòng nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "tof_cafeteria",
+   "word": "cafeteria",
+   "pos": "noun",
+   "ipa": "/ˌkæfəˈtɪriə/",
+   "level": "TOEIC",
+   "meaning": "căng tin",
+   "definition": "a restaurant where you serve yourself",
+   "collocations": [
+    "staff cafeteria"
+   ],
+   "examples": [
+    {
+     "en": "Lunch is served in the *cafeteria* from 12 to 2.",
+     "vi": "Bữa trưa được phục vụ ở căng tin từ 12 đến 2 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tof_premises",
+   "word": "premises",
+   "pos": "noun",
+   "ipa": "/ˈpremɪsɪz/",
+   "level": "TOEIC",
+   "meaning": "khuôn viên, cơ sở",
+   "definition": "the buildings and land of a business",
+   "collocations": [
+    "on the premises",
+    "off the premises"
+   ],
+   "examples": [
+    {
+     "en": "Smoking is not allowed on the *premises*.",
+     "vi": "Không được hút thuốc trong khuôn viên."
+    }
+   ]
+  },
+  {
+   "id": "tof_facility_manager",
+   "word": "facility manager",
+   "pos": "noun",
+   "ipa": "/fəˈsɪləti ˈmænɪdʒər/",
+   "level": "TOEIC",
+   "meaning": "quản lý cơ sở vật chất",
+   "definition": "a person in charge of buildings and equipment",
+   "collocations": [
+    "contact the facility manager"
+   ],
+   "examples": [
+    {
+     "en": "Report broken lights to the *facility manager*.",
+     "vi": "Báo đèn hỏng cho quản lý cơ sở vật chất."
+    }
+   ]
+  },
+  {
+   "id": "tof_maintenance",
+   "word": "maintenance",
+   "pos": "noun",
+   "ipa": "/ˈmeɪntənəns/",
+   "level": "C1",
+   "meaning": "sự bảo trì",
+   "definition": "work to keep something in good condition",
+   "collocations": [
+    "routine maintenance",
+    "maintenance staff"
+   ],
+   "examples": [
+    {
+     "en": "The lift is closed for *maintenance*.",
+     "vi": "Thang máy đóng cửa để bảo trì."
+    }
+   ]
+  },
+  {
+   "id": "tof_janitor",
+   "word": "janitor",
+   "pos": "noun",
+   "ipa": "/ˈdʒænɪtər/",
+   "level": "TOEIC",
+   "meaning": "nhân viên vệ sinh, tạp vụ",
+   "definition": "a person who cleans and looks after a building",
+   "collocations": [
+    "call the janitor"
+   ],
+   "examples": [
+    {
+     "en": "The *janitor* cleans the offices every evening.",
+     "vi": "Nhân viên tạp vụ dọn văn phòng mỗi tối."
+    }
+   ]
+  },
+  {
+   "id": "tof_dress_code",
+   "word": "dress code",
+   "pos": "noun",
+   "ipa": "/ˈdres koʊd/",
+   "level": "TOEIC",
+   "meaning": "quy định trang phục",
+   "definition": "rules about what clothes to wear",
+   "collocations": [
+    "follow the dress code",
+    "business casual dress code"
+   ],
+   "examples": [
+    {
+     "en": "The *dress code* is business casual.",
+     "vi": "Quy định trang phục là lịch sự thoải mái."
+    }
+   ]
+  },
+  {
+   "id": "tof_timesheet",
+   "word": "timesheet",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmʃiːt/",
+   "level": "TOEIC",
+   "meaning": "bảng chấm công",
+   "definition": "a record of hours worked",
+   "collocations": [
+    "fill in a timesheet",
+    "submit timesheets"
+   ],
+   "examples": [
+    {
+     "en": "Submit your *timesheet* every Friday.",
+     "vi": "Nộp bảng chấm công mỗi thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tof_clock_in",
+   "word": "clock in",
+   "pos": "verb",
+   "ipa": "/ˌklɑːk ˈɪn/",
+   "level": "TOEIC",
+   "meaning": "chấm công vào",
+   "definition": "to record the time you start work",
+   "collocations": [
+    "clock in",
+    "clock out"
+   ],
+   "examples": [
+    {
+     "en": "Staff must *clock in* before 8:30.",
+     "vi": "Nhân viên phải chấm công vào trước 8:30."
+    }
+   ]
+  },
+  {
+   "id": "tof_work_from_home",
+   "word": "work from home",
+   "pos": "verb",
+   "ipa": "/ˌwɜːrk frəm ˈhoʊm/",
+   "level": "TOEIC",
+   "meaning": "làm việc tại nhà",
+   "definition": "to do your job at home",
+   "collocations": [
+    "work from home on Fridays"
+   ],
+   "examples": [
+    {
+     "en": "Many employees *work from home* twice a week.",
+     "vi": "Nhiều nhân viên làm việc tại nhà hai ngày một tuần."
+    }
+   ]
+  },
+  {
+   "id": "tof_flexible_hours",
+   "word": "flexible hours",
+   "pos": "noun",
+   "ipa": "/ˌfleksəbl ˈaʊərz/",
+   "level": "TOEIC",
+   "meaning": "giờ làm linh hoạt",
+   "definition": "working times you can choose",
+   "collocations": [
+    "offer flexible hours"
+   ],
+   "examples": [
+    {
+     "en": "The company offers *flexible hours*.",
+     "vi": "Công ty có giờ làm linh hoạt."
+    }
+   ]
+  },
+  {
+   "id": "tof_paperwork",
+   "word": "paperwork",
+   "pos": "noun",
+   "ipa": "/ˈpeɪpərwɜːrk/",
+   "level": "TOEIC",
+   "meaning": "giấy tờ, thủ tục giấy tờ",
+   "definition": "documents and forms you must deal with",
+   "collocations": [
+    "do the paperwork",
+    "reduce paperwork"
+   ],
+   "examples": [
+    {
+     "en": "I spent the whole morning doing *paperwork*.",
+     "vi": "Tôi mất cả buổi sáng làm giấy tờ."
+    }
+   ]
+  },
+  {
+   "id": "tof_form",
+   "word": "form",
+   "pos": "noun",
+   "ipa": "/fɔːrm/",
+   "level": "A1",
+   "meaning": "mẫu đơn",
+   "definition": "a document with spaces to fill in",
+   "collocations": [
+    "fill out a form",
+    "application form"
+   ],
+   "examples": [
+    {
+     "en": "Please fill out this *form*.",
+     "vi": "Vui lòng điền vào mẫu đơn này."
+    }
+   ]
+  },
+  {
+   "id": "tof_fill_out",
+   "word": "fill out",
+   "pos": "verb",
+   "ipa": "/ˌfɪl ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "điền (mẫu đơn)",
+   "definition": "to complete a form",
+   "collocations": [
+    "fill out a form",
+    "fill in"
+   ],
+   "examples": [
+    {
+     "en": "Please *fill out* the registration form.",
+     "vi": "Vui lòng điền mẫu đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "tof_sign_up",
+   "word": "sign up",
+   "pos": "verb",
+   "ipa": "/ˌsaɪn ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "đăng ký",
+   "definition": "to agree to join something",
+   "collocations": [
+    "sign up for a course"
+   ],
+   "examples": [
+    {
+     "en": "Over 50 people *signed up* for the workshop.",
+     "vi": "Hơn 50 người đã đăng ký buổi tập huấn."
+    }
+   ]
+  },
+  {
+   "id": "tof_in_charge_of",
+   "word": "in charge of",
+   "pos": "preposition",
+   "ipa": "/ɪn ˈtʃɑːrdʒ əv/",
+   "level": "TOEIC",
+   "meaning": "phụ trách",
+   "definition": "responsible for",
+   "collocations": [
+    "be in charge of"
+   ],
+   "examples": [
+    {
+     "en": "Who is *in charge of* the project?",
+     "vi": "Ai phụ trách dự án?"
+    }
+   ]
+  },
+  {
+   "id": "tof_oversee",
+   "word": "oversee",
+   "pos": "verb",
+   "ipa": "/ˌoʊvərˈsiː/",
+   "level": "C1",
+   "meaning": "giám sát, trông coi",
+   "definition": "to watch and control work",
+   "collocations": [
+    "oversee a project",
+    "oversee operations"
+   ],
+   "examples": [
+    {
+     "en": "She will *oversee* the opening of the new branch.",
+     "vi": "Cô ấy sẽ giám sát việc khai trương chi nhánh mới."
+    }
+   ]
+  },
+  {
+   "id": "tof_coordinate",
+   "word": "coordinate",
+   "pos": "verb",
+   "ipa": "/koʊˈɔːrdɪneɪt/",
+   "level": "C1",
+   "meaning": "điều phối",
+   "definition": "to organize people or activities to work together",
+   "collocations": [
+    "coordinate with",
+    "coordinate an event"
+   ],
+   "examples": [
+    {
+     "en": "He *coordinates* all the company's events.",
+     "vi": "Anh ấy điều phối mọi sự kiện của công ty."
+    }
+   ]
+  },
+  {
+   "id": "tof_coordinator",
+   "word": "coordinator",
+   "pos": "noun",
+   "ipa": "/koʊˈɔːrdɪneɪtər/",
+   "level": "C1",
+   "meaning": "điều phối viên",
+   "definition": "a person who organizes people or activities",
+   "collocations": [
+    "event coordinator",
+    "project coordinator"
+   ],
+   "examples": [
+    {
+     "en": "Contact the event *coordinator* for details.",
+     "vi": "Liên hệ điều phối viên sự kiện để biết chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "tof_assistant",
+   "word": "assistant",
+   "pos": "noun",
+   "ipa": "/əˈsɪstənt/",
+   "level": "A2",
+   "meaning": "trợ lý",
+   "definition": "a person who helps someone in their job",
+   "collocations": [
+    "administrative assistant",
+    "personal assistant"
+   ],
+   "examples": [
+    {
+     "en": "My *assistant* will send you the details.",
+     "vi": "Trợ lý của tôi sẽ gửi bạn thông tin chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "tof_intern",
+   "word": "intern",
+   "pos": "noun",
+   "ipa": "/ˈɪntɜːrn/",
+   "level": "TOEIC",
+   "meaning": "thực tập sinh",
+   "definition": "a student working to get experience",
+   "collocations": [
+    "summer intern",
+    "hire interns"
+   ],
+   "examples": [
+    {
+     "en": "We are hiring two *interns* for the summer.",
+     "vi": "Chúng tôi tuyển hai thực tập sinh cho mùa hè."
+    }
+   ]
+  },
+  {
+   "id": "tof_internship",
+   "word": "internship",
+   "pos": "noun",
+   "ipa": "/ˈɪntɜːrnʃɪp/",
+   "level": "TOEIC",
+   "meaning": "kỳ thực tập",
+   "definition": "a period of work to get experience",
+   "collocations": [
+    "do an internship",
+    "paid internship"
+   ],
+   "examples": [
+    {
+     "en": "She did an *internship* at a bank.",
+     "vi": "Cô ấy thực tập tại một ngân hàng."
+    }
+   ]
+  },
+  {
+   "id": "tof_personnel",
+   "word": "personnel",
+   "pos": "noun",
+   "ipa": "/ˌpɜːrsəˈnel/",
+   "level": "C1",
+   "meaning": "nhân sự",
+   "definition": "the people who work for an organization",
+   "collocations": [
+    "personnel department",
+    "authorized personnel"
+   ],
+   "examples": [
+    {
+     "en": "Authorized *personnel* only.",
+     "vi": "Chỉ dành cho nhân viên được phép."
+    }
+   ]
+  },
+  {
+   "id": "tof_department",
+   "word": "department",
+   "pos": "noun",
+   "ipa": "/dɪˈpɑːrtmənt/",
+   "level": "A2",
+   "meaning": "phòng, ban",
+   "definition": "a section of an organization",
+   "collocations": [
+    "sales department",
+    "head of department"
+   ],
+   "examples": [
+    {
+     "en": "She was moved to the accounting *department*.",
+     "vi": "Cô ấy được chuyển sang phòng kế toán."
+    }
+   ]
+  },
+  {
+   "id": "tof_on_leave",
+   "word": "on leave",
+   "pos": "adjective",
+   "ipa": "/ɑːn ˈliːv/",
+   "level": "TOEIC",
+   "meaning": "đang nghỉ phép",
+   "definition": "away from work with permission",
+   "collocations": [
+    "be on leave",
+    "on sick leave"
+   ],
+   "examples": [
+    {
+     "en": "Mr. Kim is *on leave* until Monday.",
+     "vi": "Ông Kim nghỉ phép đến thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "tof_fill_in_for",
+   "word": "fill in for",
+   "pos": "verb",
+   "ipa": "/ˌfɪl ˈɪn fɔːr/",
+   "level": "TOEIC",
+   "meaning": "làm thay",
+   "definition": "to do someone's job while they are away",
+   "collocations": [
+    "fill in for a colleague"
+   ],
+   "examples": [
+    {
+     "en": "Can you *fill in for* me at the meeting?",
+     "vi": "Bạn dự họp thay tôi được không?"
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,860 @@
+{
+ "id": "conflict",
+ "order": 34,
+ "icon": "🛡️",
+ "level": "B2",
+ "title": "Conflict & Security",
+ "title_vi": "Xung đột & An ninh",
+ "description": "Chiến tranh, quân đội, khủng bố, phòng thủ: từ vựng đọc tin quốc tế; nhiều từ còn dùng theo nghĩa bóng trong kinh doanh.",
+ "words": [
+  {
+   "id": "cfl_conflict",
+   "word": "conflict",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnflɪkt/",
+   "level": "B2",
+   "meaning": "xung đột",
+   "definition": "a serious disagreement or fight",
+   "collocations": [
+    "in conflict with",
+    "resolve a conflict",
+    "schedule conflict"
+   ],
+   "examples": [
+    {
+     "en": "I have a schedule *conflict* on Monday.",
+     "vi": "Tôi bị trùng lịch vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "cfl_battle",
+   "word": "battle",
+   "pos": "noun",
+   "ipa": "/ˈbætl/",
+   "level": "B1",
+   "meaning": "trận chiến",
+   "definition": "a fight between armies; a struggle",
+   "collocations": [
+    "win a battle",
+    "a battle against"
+   ],
+   "examples": [
+    {
+     "en": "The company is in a *battle* for market share.",
+     "vi": "Công ty đang chiến đấu giành thị phần."
+    }
+   ]
+  },
+  {
+   "id": "cfl_war",
+   "word": "war",
+   "pos": "noun",
+   "ipa": "/wɔːr/",
+   "level": "A2",
+   "meaning": "chiến tranh",
+   "definition": "fighting between countries",
+   "collocations": [
+    "price war",
+    "at war"
+   ],
+   "examples": [
+    {
+     "en": "The two supermarkets are in a price *war*.",
+     "vi": "Hai siêu thị đang trong cuộc chiến giá cả."
+    }
+   ]
+  },
+  {
+   "id": "cfl_enemy",
+   "word": "enemy",
+   "pos": "noun",
+   "ipa": "/ˈenəmi/",
+   "level": "B1",
+   "meaning": "kẻ thù",
+   "definition": "a person or country that fights against you",
+   "collocations": [
+    "make enemies",
+    "the enemy"
+   ],
+   "examples": [
+    {
+     "en": "He's not your *enemy*; he just disagrees with you.",
+     "vi": "Anh ấy không phải kẻ thù của bạn, chỉ là không đồng ý thôi."
+    }
+   ]
+  },
+  {
+   "id": "cfl_weapon",
+   "word": "weapon",
+   "pos": "noun",
+   "ipa": "/ˈwepən/",
+   "level": "B1",
+   "meaning": "vũ khí",
+   "definition": "an object used to hurt or kill",
+   "collocations": [
+    "nuclear weapons",
+    "carry a weapon"
+   ],
+   "examples": [
+    {
+     "en": "Good service is our secret *weapon*.",
+     "vi": "Dịch vụ tốt là vũ khí bí mật của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "cfl_armed",
+   "word": "armed",
+   "pos": "adjective",
+   "ipa": "/ɑːrmd/",
+   "level": "B2",
+   "meaning": "có vũ trang",
+   "definition": "carrying weapons",
+   "collocations": [
+    "armed police",
+    "armed forces"
+   ],
+   "examples": [
+    {
+     "en": "*Armed* guards protect the bank.",
+     "vi": "Bảo vệ có vũ trang canh gác ngân hàng."
+    }
+   ]
+  },
+  {
+   "id": "cfl_arms",
+   "word": "arms",
+   "pos": "noun",
+   "ipa": "/ɑːrmz/",
+   "level": "B2",
+   "meaning": "vũ khí",
+   "definition": "weapons",
+   "collocations": [
+    "arms trade",
+    "arms control"
+   ],
+   "examples": [
+    {
+     "en": "The UN banned *arms* sales to the region.",
+     "vi": "Liên Hợp Quốc cấm bán vũ khí cho khu vực đó."
+    }
+   ]
+  },
+  {
+   "id": "cfl_troop",
+   "word": "troop",
+   "pos": "noun",
+   "ipa": "/truːp/",
+   "level": "B2",
+   "meaning": "quân lính",
+   "definition": "soldiers",
+   "collocations": [
+    "troops",
+    "send troops"
+   ],
+   "examples": [
+    {
+     "en": "More *troops* were sent to the border.",
+     "vi": "Thêm quân được điều tới biên giới."
+    }
+   ]
+  },
+  {
+   "id": "cfl_commander",
+   "word": "commander",
+   "pos": "noun",
+   "ipa": "/kəˈmændər/",
+   "level": "B2",
+   "meaning": "chỉ huy",
+   "definition": "a person in charge of soldiers",
+   "collocations": [
+    "army commander"
+   ],
+   "examples": [
+    {
+     "en": "The *commander* gave the order to move.",
+     "vi": "Chỉ huy ra lệnh di chuyển."
+    }
+   ]
+  },
+  {
+   "id": "cfl_command",
+   "word": "command",
+   "pos": "noun",
+   "ipa": "/kəˈmænd/",
+   "level": "B2",
+   "meaning": "mệnh lệnh; sự chỉ huy",
+   "definition": "an order; control",
+   "collocations": [
+    "in command",
+    "a good command of English"
+   ],
+   "examples": [
+    {
+     "en": "She has a good *command* of English.",
+     "vi": "Cô ấy sử dụng tiếng Anh thành thạo."
+    }
+   ],
+   "note": "a good command of = thông thạo (rất hay dùng trong CV)."
+  },
+  {
+   "id": "cfl_invade",
+   "word": "invade",
+   "pos": "verb",
+   "ipa": "/ɪnˈveɪd/",
+   "level": "B2",
+   "meaning": "xâm lược",
+   "definition": "to enter a country with an army",
+   "collocations": [
+    "invade a country"
+   ],
+   "examples": [
+    {
+     "en": "The country was *invaded* in 1940.",
+     "vi": "Đất nước bị xâm lược năm 1940."
+    }
+   ]
+  },
+  {
+   "id": "cfl_invasion",
+   "word": "invasion",
+   "pos": "noun",
+   "ipa": "/ɪnˈveɪʒn/",
+   "level": "B2",
+   "meaning": "cuộc xâm lược",
+   "definition": "entering a country with an army",
+   "collocations": [
+    "invasion of privacy"
+   ],
+   "examples": [
+    {
+     "en": "Reading my e-mails is an *invasion* of privacy.",
+     "vi": "Đọc e-mail của tôi là xâm phạm quyền riêng tư."
+    }
+   ]
+  },
+  {
+   "id": "cfl_defence",
+   "word": "defence",
+   "pos": "noun",
+   "ipa": "/dɪˈfens/",
+   "level": "B2",
+   "meaning": "sự phòng thủ",
+   "definition": "protection against attack",
+   "collocations": [
+    "in defence of",
+    "defence budget"
+   ],
+   "examples": [
+    {
+     "en": "The best *defence* against viruses is updating your software.",
+     "vi": "Cách phòng vệ tốt nhất trước virus là cập nhật phần mềm."
+    }
+   ],
+   "note": "Anh-Mỹ: defense."
+  },
+  {
+   "id": "cfl_defend",
+   "word": "defend",
+   "pos": "verb",
+   "ipa": "/dɪˈfend/",
+   "level": "B2",
+   "meaning": "bảo vệ, phòng thủ",
+   "definition": "to protect against attack or criticism",
+   "collocations": [
+    "defend a decision",
+    "defend yourself"
+   ],
+   "examples": [
+    {
+     "en": "The manager *defended* her decision at the meeting.",
+     "vi": "Quản lý bảo vệ quyết định của mình tại cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "cfl_defender",
+   "word": "defender",
+   "pos": "noun",
+   "ipa": "/dɪˈfendər/",
+   "level": "B2",
+   "meaning": "hậu vệ; người bảo vệ",
+   "definition": "a player who defends; a person who protects",
+   "collocations": [
+    "central defender"
+   ],
+   "examples": [
+    {
+     "en": "He plays as a *defender* for the national team.",
+     "vi": "Anh ấy chơi ở vị trí hậu vệ cho đội tuyển quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "cfl_attack",
+   "word": "attack",
+   "pos": "noun",
+   "ipa": "/əˈtæk/",
+   "level": "A2",
+   "meaning": "cuộc tấn công; cơn (bệnh)",
+   "definition": "a violent act; a sudden illness",
+   "collocations": [
+    "heart attack",
+    "cyber attack"
+   ],
+   "examples": [
+    {
+     "en": "The company's website suffered a cyber *attack*.",
+     "vi": "Website công ty bị tấn công mạng."
+    }
+   ]
+  },
+  {
+   "id": "cfl_bomb",
+   "word": "bomb",
+   "pos": "noun",
+   "ipa": "/bɑːm/",
+   "level": "B1",
+   "meaning": "quả bom",
+   "definition": "a weapon that explodes",
+   "collocations": [
+    "bomb threat",
+    "drop a bomb"
+   ],
+   "examples": [
+    {
+     "en": "The building was evacuated after a *bomb* threat.",
+     "vi": "Tòa nhà được sơ tán sau lời đe dọa đánh bom."
+    }
+   ],
+   "note": "Chữ b cuối câm."
+  },
+  {
+   "id": "cfl_bombing",
+   "word": "bombing",
+   "pos": "noun",
+   "ipa": "/ˈbɑːmɪŋ/",
+   "level": "B2",
+   "meaning": "vụ đánh bom",
+   "definition": "an attack with bombs",
+   "collocations": [
+    "a bombing attack"
+   ],
+   "examples": [
+    {
+     "en": "The city was damaged by *bombing* during the war.",
+     "vi": "Thành phố bị tàn phá bởi bom đạn trong chiến tranh."
+    }
+   ]
+  },
+  {
+   "id": "cfl_explode",
+   "word": "explode",
+   "pos": "verb",
+   "ipa": "/ɪkˈsploʊd/",
+   "level": "B1",
+   "meaning": "phát nổ",
+   "definition": "to burst with a loud noise",
+   "collocations": [
+    "explode suddenly"
+   ],
+   "examples": [
+    {
+     "en": "A gas tank *exploded* in the factory.",
+     "vi": "Một bình gas phát nổ trong nhà máy."
+    }
+   ]
+  },
+  {
+   "id": "cfl_explosion",
+   "word": "explosion",
+   "pos": "noun",
+   "ipa": "/ɪkˈsploʊʒn/",
+   "level": "B1",
+   "meaning": "vụ nổ; sự bùng nổ",
+   "definition": "a sudden loud burst; a sudden large increase",
+   "collocations": [
+    "gas explosion",
+    "population explosion"
+   ],
+   "examples": [
+    {
+     "en": "There has been an *explosion* in online shopping.",
+     "vi": "Mua sắm trực tuyến bùng nổ."
+    }
+   ]
+  },
+  {
+   "id": "cfl_bullet",
+   "word": "bullet",
+   "pos": "noun",
+   "ipa": "/ˈbʊlɪt/",
+   "level": "B2",
+   "meaning": "viên đạn; dấu đầu dòng",
+   "definition": "a small piece of metal shot from a gun; a symbol •",
+   "collocations": [
+    "bullet points",
+    "bulletproof"
+   ],
+   "examples": [
+    {
+     "en": "Use *bullet* points to list the main ideas.",
+     "vi": "Dùng gạch đầu dòng để liệt kê ý chính."
+    }
+   ]
+  },
+  {
+   "id": "cfl_shoot",
+   "word": "shoot",
+   "pos": "verb",
+   "ipa": "/ʃuːt/",
+   "level": "B1",
+   "meaning": "bắn; quay phim",
+   "definition": "to fire a gun; to film",
+   "collocations": [
+    "shoot a film",
+    "be shot"
+   ],
+   "examples": [
+    {
+     "en": "They are *shooting* a commercial in the lobby today.",
+     "vi": "Hôm nay họ quay quảng cáo ở sảnh."
+    }
+   ]
+  },
+  {
+   "id": "cfl_shooting",
+   "word": "shooting",
+   "pos": "noun",
+   "ipa": "/ˈʃuːtɪŋ/",
+   "level": "B2",
+   "meaning": "vụ nổ súng; việc quay phim",
+   "definition": "a situation where someone is shot; filming",
+   "collocations": [
+    "film shooting"
+   ],
+   "examples": [
+    {
+     "en": "*Shooting* for the film starts next month.",
+     "vi": "Việc quay bộ phim bắt đầu vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "cfl_terror",
+   "word": "terror",
+   "pos": "noun",
+   "ipa": "/ˈterər/",
+   "level": "B2",
+   "meaning": "sự khiếp sợ; khủng bố",
+   "definition": "great fear; violence to frighten people",
+   "collocations": [
+    "in terror",
+    "war on terror"
+   ],
+   "examples": [
+    {
+     "en": "The children screamed in *terror*.",
+     "vi": "Bọn trẻ hét lên vì khiếp sợ."
+    }
+   ]
+  },
+  {
+   "id": "cfl_terrorism",
+   "word": "terrorism",
+   "pos": "noun",
+   "ipa": "/ˈterərɪzəm/",
+   "level": "B2",
+   "meaning": "chủ nghĩa khủng bố",
+   "definition": "violence used for political aims",
+   "collocations": [
+    "fight terrorism"
+   ],
+   "examples": [
+    {
+     "en": "Airports have strict checks to prevent *terrorism*.",
+     "vi": "Sân bay kiểm tra nghiêm ngặt để ngăn chặn khủng bố."
+    }
+   ]
+  },
+  {
+   "id": "cfl_terrorist",
+   "word": "terrorist",
+   "pos": "noun",
+   "ipa": "/ˈterərɪst/",
+   "level": "B2",
+   "meaning": "kẻ khủng bố",
+   "definition": "a person who uses violence for political aims",
+   "collocations": [
+    "terrorist attack"
+   ],
+   "examples": [
+    {
+     "en": "Police stopped a *terrorist* attack.",
+     "vi": "Cảnh sát ngăn chặn một vụ tấn công khủng bố."
+    }
+   ]
+  },
+  {
+   "id": "cfl_threat",
+   "word": "threat",
+   "pos": "noun",
+   "ipa": "/θret/",
+   "level": "B2",
+   "meaning": "mối đe dọa",
+   "definition": "a sign that something bad may happen",
+   "collocations": [
+    "a threat to",
+    "pose a threat"
+   ],
+   "examples": [
+    {
+     "en": "Online competitors are a *threat* to small shops.",
+     "vi": "Đối thủ trực tuyến là mối đe dọa với các cửa hàng nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "cfl_threaten",
+   "word": "threaten",
+   "pos": "verb",
+   "ipa": "/ˈθretn/",
+   "level": "B2",
+   "meaning": "đe dọa",
+   "definition": "to say you will cause harm; to be likely to harm",
+   "collocations": [
+    "threaten to",
+    "be threatened by"
+   ],
+   "examples": [
+    {
+     "en": "The storm *threatened* to delay all flights.",
+     "vi": "Cơn bão có nguy cơ làm chậm tất cả chuyến bay."
+    }
+   ]
+  },
+  {
+   "id": "cfl_capture",
+   "word": "capture",
+   "pos": "verb",
+   "ipa": "/ˈkæptʃər/",
+   "level": "B2",
+   "meaning": "bắt giữ; thu được",
+   "definition": "to catch; to get control of; to record in a picture",
+   "collocations": [
+    "capture market share",
+    "capture a moment"
+   ],
+   "examples": [
+    {
+     "en": "The photo *captures* the beauty of the bay.",
+     "vi": "Bức ảnh ghi lại vẻ đẹp của vịnh."
+    }
+   ]
+  },
+  {
+   "id": "cfl_escape",
+   "word": "escape",
+   "pos": "verb",
+   "ipa": "/ɪˈskeɪp/",
+   "level": "B1",
+   "meaning": "trốn thoát",
+   "definition": "to get away from a place or danger",
+   "collocations": [
+    "escape from",
+    "a narrow escape"
+   ],
+   "examples": [
+    {
+     "en": "Everyone *escaped* from the fire safely.",
+     "vi": "Mọi người thoát khỏi đám cháy an toàn."
+    }
+   ]
+  },
+  {
+   "id": "cfl_rescue",
+   "word": "rescue",
+   "pos": "verb",
+   "ipa": "/ˈreskjuː/",
+   "level": "B2",
+   "meaning": "giải cứu",
+   "definition": "to save someone from danger",
+   "collocations": [
+    "rescue workers",
+    "be rescued"
+   ],
+   "examples": [
+    {
+     "en": "Fishermen *rescued* two tourists from the sea.",
+     "vi": "Ngư dân cứu hai du khách khỏi biển."
+    }
+   ]
+  },
+  {
+   "id": "cfl_survive",
+   "word": "survive",
+   "pos": "verb",
+   "ipa": "/sərˈvaɪv/",
+   "level": "B1",
+   "meaning": "sống sót; tồn tại",
+   "definition": "to continue to live or exist",
+   "collocations": [
+    "survive a crisis",
+    "survive the accident"
+   ],
+   "examples": [
+    {
+     "en": "Many small shops did not *survive* the pandemic.",
+     "vi": "Nhiều cửa hàng nhỏ không trụ được qua đại dịch."
+    }
+   ]
+  },
+  {
+   "id": "cfl_survival",
+   "word": "survival",
+   "pos": "noun",
+   "ipa": "/sərˈvaɪvl/",
+   "level": "B2",
+   "meaning": "sự sống còn",
+   "definition": "the state of continuing to live",
+   "collocations": [
+    "the survival of the company",
+    "survival skills"
+   ],
+   "examples": [
+    {
+     "en": "The *survival* of the business depends on new customers.",
+     "vi": "Sự sống còn của doanh nghiệp phụ thuộc vào khách hàng mới."
+    }
+   ]
+  },
+  {
+   "id": "cfl_survivor",
+   "word": "survivor",
+   "pos": "noun",
+   "ipa": "/sərˈvaɪvər/",
+   "level": "B2",
+   "meaning": "người sống sót",
+   "definition": "a person who survives",
+   "collocations": [
+    "the only survivor"
+   ],
+   "examples": [
+    {
+     "en": "There were three *survivors* of the crash.",
+     "vi": "Có ba người sống sót sau vụ tai nạn."
+    }
+   ]
+  },
+  {
+   "id": "cfl_destruction",
+   "word": "destruction",
+   "pos": "noun",
+   "ipa": "/dɪˈstrʌkʃn/",
+   "level": "B2",
+   "meaning": "sự phá hủy",
+   "definition": "the act of destroying",
+   "collocations": [
+    "cause destruction",
+    "environmental destruction"
+   ],
+   "examples": [
+    {
+     "en": "The storm caused great *destruction*.",
+     "vi": "Cơn bão gây tàn phá nặng nề."
+    }
+   ]
+  },
+  {
+   "id": "cfl_ruin",
+   "word": "ruin",
+   "pos": "verb",
+   "ipa": "/ˈruːɪn/",
+   "level": "B2",
+   "meaning": "làm hỏng, phá hủy",
+   "definition": "to damage completely",
+   "collocations": [
+    "ruin a holiday",
+    "be ruined"
+   ],
+   "examples": [
+    {
+     "en": "The rain *ruined* our picnic.",
+     "vi": "Cơn mưa làm hỏng buổi dã ngoại."
+    }
+   ]
+  },
+  {
+   "id": "cfl_damage",
+   "word": "damage",
+   "pos": "noun",
+   "ipa": "/ˈdæmɪdʒ/",
+   "level": "B1",
+   "meaning": "sự thiệt hại",
+   "definition": "physical harm",
+   "collocations": [
+    "cause damage",
+    "damage to",
+    "water damage"
+   ],
+   "examples": [
+    {
+     "en": "The storm caused serious *damage* to the roof.",
+     "vi": "Cơn bão gây thiệt hại nặng cho mái nhà."
+    }
+   ],
+   "note": "Danh từ không đếm được; damages (số nhiều) = tiền bồi thường."
+  },
+  {
+   "id": "cfl_harm",
+   "word": "harm",
+   "pos": "noun",
+   "ipa": "/hɑːrm/",
+   "level": "B2",
+   "meaning": "sự tổn hại",
+   "definition": "damage or injury",
+   "collocations": [
+    "cause harm",
+    "do more harm than good"
+   ],
+   "examples": [
+    {
+     "en": "Too much sun can do *harm* to your skin.",
+     "vi": "Quá nhiều nắng có thể gây hại cho da."
+    }
+   ]
+  },
+  {
+   "id": "cfl_deadly",
+   "word": "deadly",
+   "pos": "adjective",
+   "ipa": "/ˈdedli/",
+   "level": "B2",
+   "meaning": "chết người",
+   "definition": "causing death",
+   "collocations": [
+    "a deadly disease",
+    "deadly accident"
+   ],
+   "examples": [
+    {
+     "en": "The virus can be *deadly* for older people.",
+     "vi": "Virus có thể gây tử vong cho người cao tuổi."
+    }
+   ]
+  },
+  {
+   "id": "cfl_peaceful",
+   "word": "peaceful",
+   "pos": "adjective",
+   "ipa": "/ˈpiːsfl/",
+   "level": "B1",
+   "meaning": "hòa bình; yên bình",
+   "definition": "without violence; quiet and calm",
+   "collocations": [
+    "a peaceful protest",
+    "a peaceful place"
+   ],
+   "examples": [
+    {
+     "en": "We found a *peaceful* spot by the lake.",
+     "vi": "Chúng tôi tìm được một chỗ yên bình bên hồ."
+    }
+   ]
+  },
+  {
+   "id": "cfl_slave",
+   "word": "slave",
+   "pos": "noun",
+   "ipa": "/sleɪv/",
+   "level": "B2",
+   "meaning": "nô lệ",
+   "definition": "a person owned by another person",
+   "collocations": [
+    "slave trade"
+   ],
+   "examples": [
+    {
+     "en": "Don't be a *slave* to your phone.",
+     "vi": "Đừng làm nô lệ cho chiếc điện thoại."
+    }
+   ]
+  },
+  {
+   "id": "cfl_servant",
+   "word": "servant",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrvənt/",
+   "level": "B1",
+   "meaning": "người hầu; công chức",
+   "definition": "a person who works in another's house; a government worker",
+   "collocations": [
+    "civil servant"
+   ],
+   "examples": [
+    {
+     "en": "My father was a civil *servant*.",
+     "vi": "Bố tôi là công chức nhà nước."
+    }
+   ]
+  },
+  {
+   "id": "cfl_conspiracy",
+   "word": "conspiracy",
+   "pos": "noun",
+   "ipa": "/kənˈspɪrəsi/",
+   "level": "B2",
+   "meaning": "âm mưu",
+   "definition": "a secret plan to do something illegal",
+   "collocations": [
+    "conspiracy theory"
+   ],
+   "examples": [
+    {
+     "en": "Don't believe every *conspiracy* theory online.",
+     "vi": "Đừng tin mọi thuyết âm mưu trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "cfl_spy",
+   "word": "spy",
+   "pos": "noun",
+   "ipa": "/spaɪ/",
+   "level": "C1",
+   "meaning": "gián điệp",
+   "definition": "a person who secretly collects information",
+   "collocations": [
+    "spy film",
+    "industrial spy"
+   ],
+   "examples": [
+    {
+     "en": "The film is about a *spy* in Berlin.",
+     "vi": "Bộ phim kể về một điệp viên ở Berlin."
+    }
+   ]
+  },
+  {
+   "id": "cfl_alliance",
+   "word": "alliance",
+   "pos": "noun",
+   "ipa": "/əˈlaɪəns/",
+   "level": "C1",
+   "meaning": "liên minh",
+   "definition": "an agreement to work together",
+   "collocations": [
+    "form an alliance",
+    "strategic alliance"
+   ],
+   "examples": [
+    {
+     "en": "The airlines formed an *alliance* to share routes.",
+     "vi": "Các hãng bay lập liên minh để chia sẻ đường bay."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

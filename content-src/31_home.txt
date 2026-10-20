@@ -1,0 +1,56 @@
+#id: home
+#prefix: hom
+#order: 31
+#icon: 🏠
+#title: Home & Everyday Objects
+#title_vi: Nhà cửa & Đồ vật quanh ta
+#desc: Phòng ốc, đồ dùng, sửa chữa, đồ đạc: rất hữu ích cho Part 1 (mô tả tranh) và Part 3 (bất động sản, sửa chữa).
+basement | noun | /ˈbeɪsmənt/ | tầng hầm | a room under a building | in the basement; basement parking | The gym is in the *basement*. | Phòng tập ở tầng hầm.
+ceiling | noun | /ˈsiːlɪŋ/ | trần nhà | the top surface inside a room | high ceilings; ceiling fan | The room has a high *ceiling*. | Căn phòng có trần cao.
+corridor | noun | /ˈkɔːrɪdɔːr/ | hành lang | a long passage in a building | at the end of the corridor | The meeting room is at the end of the *corridor*. | Phòng họp ở cuối hành lang.
+garage | noun | /ɡəˈrɑːʒ/ | nhà để xe; xưởng sửa xe | a building for a car; a place that repairs cars | park in the garage; take the car to the garage | My car is at the *garage* for repairs. | Xe tôi đang ở xưởng để sửa.
+yard | noun | /jɑːrd/ | sân | the land around a house | back yard; front yard | The kids are playing in the *yard*. | Bọn trẻ đang chơi ngoài sân.
+fence | noun | /fens/ | hàng rào | a wall made of wood or wire | build a fence; garden fence | A wooden *fence* surrounds the garden. | Một hàng rào gỗ bao quanh khu vườn.
+cottage | noun | /ˈkɑːtɪdʒ/ | nhà tranh, nhà nhỏ ở quê | a small house in the countryside | a holiday cottage | We rented a *cottage* by the lake. | Chúng tôi thuê một căn nhà nhỏ cạnh hồ.
+heating | noun | /ˈhiːtɪŋ/ | hệ thống sưởi | a system for keeping a building warm | central heating; turn on the heating | Can you turn the *heating* up? | Bạn có thể tăng sưởi lên không?
+lighting | noun | /ˈlaɪtɪŋ/ | ánh sáng, hệ thống đèn | the lights in a place | poor lighting; office lighting | Good *lighting* makes the office more pleasant. | Ánh sáng tốt làm văn phòng dễ chịu hơn.
+curtain | noun | /ˈkɜːrtn/ | rèm cửa | a piece of cloth hung over a window | open the curtains; draw the curtains | Could you close the *curtains*? | Bạn kéo rèm lại được không?
+blanket | noun | /ˈblæŋkɪt/ | chăn | a thick cover for a bed | an extra blanket; wool blanket | Can I have an extra *blanket*, please? | Cho tôi xin thêm một cái chăn được không?
+shelf | noun | /ʃelf/ | kệ, giá | a flat board on a wall for putting things on | on the shelf; top shelf; bookshelf | The files are on the top *shelf*. | Hồ sơ ở trên kệ trên cùng. | Số nhiều: shelves. Part 1 hay gặp: stocking shelves.
+basket | noun | /ˈbæskɪt/ | cái giỏ | a container made of thin pieces of wood or plastic | shopping basket; laundry basket | She is carrying a *basket* of fruit. | Cô ấy đang xách một giỏ trái cây.
+container | noun | /kənˈteɪnər/ | thùng chứa; công-ten-nơ | a box or bottle for holding things; a large metal box for shipping | plastic container; shipping container | Store the food in an airtight *container*. | Bảo quản thức ăn trong hộp kín.
+envelope | noun | /ˈenvəloʊp/ | phong bì | a paper cover for a letter | seal an envelope; a stamped envelope | Put the documents in an *envelope*. | Cho tài liệu vào phong bì.
+candle | noun | /ˈkændl/ | cây nến | a stick of wax that gives light | light a candle | We lit *candles* when the power went out. | Chúng tôi thắp nến khi mất điện.
+ladder | noun | /ˈlædər/ | cái thang | a piece of equipment for climbing up | climb a ladder; on a ladder | A man is standing on a *ladder*. | Một người đàn ông đang đứng trên thang. | Câu mô tả tranh Part 1 kinh điển.
+rope | noun | /roʊp/ | dây thừng | a thick strong string | tie with a rope; a piece of rope | They tied the boat with a *rope*. | Họ buộc thuyền bằng dây thừng.
+string | noun | /strɪŋ/ | sợi dây; chuỗi | thin rope; a series of things | a piece of string; a string of | The package was tied with *string*. | Gói hàng được buộc bằng dây.
+hook | noun | /hʊk/ | cái móc | a curved piece of metal for hanging things | coat hook; on the hook | Hang your coat on the *hook*. | Treo áo khoác lên móc.
+nail | noun | /neɪl/ | cái đinh; móng tay | a thin metal pin; the hard part at the end of a finger | hammer a nail; nail polish | He hammered a *nail* into the wall. | Anh ấy đóng một cây đinh vào tường.
+pin | noun | /pɪn/ | đinh ghim; mã PIN | a thin metal pin; a secret number | PIN number; safety pin | Enter your *PIN* to continue. | Nhập mã PIN để tiếp tục.
+tin | noun | /tɪn/ | hộp thiếc, đồ hộp | a metal container for food | a tin of tomatoes | Open a *tin* of beans for dinner. | Mở một hộp đậu cho bữa tối.
+pan | noun | /pæn/ | cái chảo | a metal pot for cooking | frying pan; non-stick pan | Heat some oil in a *pan*. | Đun nóng ít dầu trong chảo.
+pot | noun | /pɑːt/ | nồi; chậu; bình | a deep round container | a pot of coffee; flower pot | There's a fresh *pot* of coffee in the kitchen. | Có bình cà phê mới pha trong bếp.
+pipe | noun | /paɪp/ | đường ống | a tube for carrying water or gas | water pipe; a burst pipe | A burst *pipe* flooded the kitchen. | Một đường ống bị vỡ làm ngập nhà bếp.
+tube | noun | /tuːb/ | ống; tuýp | a long hollow pipe; a soft container | a tube of toothpaste; the Tube | Squeeze the *tube* gently. | Bóp nhẹ tuýp.
+tank | noun | /tæŋk/ | bể chứa; xe tăng | a large container for liquid or gas; a military vehicle | fuel tank; water tank | Fill up the *tank* before the long drive. | Đổ đầy bình xăng trước chuyến đi dài.
+iron | noun | /ˈaɪərn/ | bàn là; sắt | a device for making clothes smooth; a metal | an iron and ironing board; iron gate | The hotel room has an *iron* and hairdryer. | Phòng khách sạn có bàn là và máy sấy tóc.
+needle | noun | /ˈniːdl/ | cái kim | a thin pointed piece of metal | needle and thread | I need a *needle* and thread to fix this button. | Tôi cần kim chỉ để khâu lại cái cúc này.
+kit | noun | /kɪt/ | bộ dụng cụ | a set of tools or equipment | first aid kit; tool kit | There's a first-aid *kit* in every office. | Mỗi văn phòng đều có một hộp sơ cứu.
+cloth | noun | /klɔːθ/ | vải; giẻ | material made from cotton, wool etc.; a piece of it for cleaning | a damp cloth; cotton cloth | Clean the screen with a soft *cloth*. | Lau màn hình bằng khăn mềm.
+rubber | noun | /ˈrʌbər/ | cao su; cục tẩy | a strong material that bends; an eraser | rubber gloves; rubber band | Wear *rubber* gloves when cleaning. | Đeo găng cao su khi dọn dẹp.
+switch | noun | /swɪtʃ/ | công tắc; sự chuyển đổi | a button for turning something on or off; a change | light switch; make the switch | The light *switch* is next to the door. | Công tắc đèn ở cạnh cửa.
+plug | noun | /plʌɡ/ | phích cắm | the part of a cable that goes into the wall | plug in; pull the plug | Is the printer *plugged* in? | Máy in đã cắm điện chưa? | Động từ plug in = cắm điện.
+repair | verb | /rɪˈper/ | sửa chữa | to fix something broken | repair a car; get something repaired | The lift is being *repaired*. | Thang máy đang được sửa chữa. | under repair = đang sửa.
+decorate | verb | /ˈdekəreɪt/ | trang trí; sơn sửa | to make a place more attractive; to paint a room | decorate the office; be decorated with | The lobby was *decorated* with flowers. | Sảnh được trang trí bằng hoa.
+decoration | noun | /ˌdekəˈreɪʃn/ | đồ trang trí | things used to make a place look attractive | Christmas decorations | We put up *decorations* for the party. | Chúng tôi treo đồ trang trí cho bữa tiệc.
+fold | verb | /foʊld/ | gấp | to bend paper or cloth so one part covers another | fold a letter; fold your arms | Please *fold* the towels and put them away. | Vui lòng gấp khăn và cất đi.
+folding | adjective | /ˈfoʊldɪŋ/ | gấp được | able to be folded | folding chair; folding table | We need twenty *folding* chairs for the event. | Chúng ta cần 20 ghế gấp cho sự kiện.
+wrap | verb | /ræp/ | gói, bọc | to cover something with paper or cloth | wrap a gift; gift-wrapped | Would you like me to *wrap* it as a gift? | Bạn có muốn tôi gói quà không?
+pile | noun | /paɪl/ | chồng, đống | a number of things put on top of each other | a pile of papers; piles of | There's a *pile* of documents on my desk. | Có một chồng tài liệu trên bàn tôi. | Part 1: Boxes are piled up = Các hộp được chất chồng.
+bunch | noun | /bʌntʃ/ | bó, chùm | a group of things held together | a bunch of flowers; a bunch of keys | He bought her a *bunch* of flowers. | Anh ấy mua tặng cô một bó hoa.
+mess | noun | /mes/ | sự bừa bộn | a dirty or untidy state | in a mess; make a mess | Sorry about the *mess*. We're moving offices. | Xin lỗi vì bừa bộn, chúng tôi đang chuyển văn phòng.
+stuff | noun | /stʌf/ | đồ đạc, thứ | things in general (informal) | a lot of stuff; my stuff | Can I leave my *stuff* here? | Tôi để đồ ở đây được không?
+spare | adjective | /sper/ | dự phòng; rảnh | extra; not being used | spare key; spare time; spare parts | Do you have a *spare* key? | Bạn có chìa khóa dự phòng không?
+household | adjective | /ˈhaʊshoʊld/ | thuộc gia đình | used in the home | household goods; household name | The store sells *household* goods. | Cửa hàng bán đồ gia dụng.
+furniture | noun | /ˈfɜːrnɪtʃər/ | đồ nội thất | chairs, tables, beds etc. | office furniture; a piece of furniture | The new office *furniture* arrives on Monday. | Nội thất văn phòng mới sẽ đến vào thứ Hai. | Danh từ không đếm được: a piece of furniture.
+appliance | noun | /əˈplaɪəns/ | thiết bị gia dụng | a machine used in the home | kitchen appliances; electrical appliances | The store offers free delivery on large *appliances*. | Cửa hàng giao miễn phí các thiết bị gia dụng lớn.

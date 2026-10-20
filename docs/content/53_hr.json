@@ -1,0 +1,886 @@
+{
+ "id": "toeic_hr",
+ "order": 53,
+ "icon": "🤝",
+ "level": "TOEIC",
+ "title": "TOEIC: HR & Recruitment",
+ "title_vi": "TOEIC: Nhân sự & Tuyển dụng",
+ "description": "Tin tuyển dụng, phỏng vấn, hợp đồng lao động, lương thưởng, đánh giá: nhóm từ dày đặc trong Part 7.",
+ "words": [
+  {
+   "id": "thr_r_sum",
+   "word": "résumé",
+   "pos": "noun",
+   "ipa": "/ˈrezəmeɪ/",
+   "level": "TOEIC",
+   "meaning": "sơ yếu lý lịch",
+   "definition": "a document listing your education and work experience",
+   "collocations": [
+    "submit a résumé",
+    "update your résumé"
+   ],
+   "examples": [
+    {
+     "en": "Please send your *résumé* to hr@company.com.",
+     "vi": "Vui lòng gửi sơ yếu lý lịch đến hr@company.com."
+    }
+   ],
+   "note": "Anh-Anh: CV."
+  },
+  {
+   "id": "thr_cover_letter",
+   "word": "cover letter",
+   "pos": "noun",
+   "ipa": "/ˈkʌvər ˌletər/",
+   "level": "TOEIC",
+   "meaning": "thư xin việc",
+   "definition": "a letter sent with a job application",
+   "collocations": [
+    "write a cover letter"
+   ],
+   "examples": [
+    {
+     "en": "Include a *cover letter* explaining why you want the job.",
+     "vi": "Gửi kèm thư xin việc giải thích vì sao bạn muốn công việc này."
+    }
+   ]
+  },
+  {
+   "id": "thr_vacancy",
+   "word": "vacancy",
+   "pos": "noun",
+   "ipa": "/ˈveɪkənsi/",
+   "level": "TOEIC",
+   "meaning": "vị trí trống; phòng trống",
+   "definition": "a job that is available; a free room",
+   "collocations": [
+    "job vacancy",
+    "fill a vacancy",
+    "no vacancies"
+   ],
+   "examples": [
+    {
+     "en": "We have a *vacancy* for a sales assistant.",
+     "vi": "Chúng tôi có một vị trí trống cho trợ lý bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "thr_job_opening",
+   "word": "job opening",
+   "pos": "noun",
+   "ipa": "/ˈdʒɑːb ˌoʊpənɪŋ/",
+   "level": "TOEIC",
+   "meaning": "vị trí tuyển dụng",
+   "definition": "an available job",
+   "collocations": [
+    "current job openings"
+   ],
+   "examples": [
+    {
+     "en": "Check our website for current *job openings*.",
+     "vi": "Xem website để biết các vị trí đang tuyển."
+    }
+   ]
+  },
+  {
+   "id": "thr_job_description",
+   "word": "job description",
+   "pos": "noun",
+   "ipa": "/ˈdʒɑːb dɪˌskrɪpʃn/",
+   "level": "TOEIC",
+   "meaning": "bản mô tả công việc",
+   "definition": "a list of the duties of a job",
+   "collocations": [
+    "read the job description"
+   ],
+   "examples": [
+    {
+     "en": "The *job description* lists all the main duties.",
+     "vi": "Bản mô tả công việc liệt kê mọi nhiệm vụ chính."
+    }
+   ]
+  },
+  {
+   "id": "thr_pool",
+   "word": "pool",
+   "pos": "noun",
+   "ipa": "/puːl/",
+   "level": "A1",
+   "meaning": "nhóm ứng viên",
+   "definition": "a group of people available for something",
+   "collocations": [
+    "a strong pool of candidates"
+   ],
+   "examples": [
+    {
+     "en": "We have a strong *pool* of candidates this year.",
+     "vi": "Năm nay chúng tôi có nhóm ứng viên mạnh."
+    }
+   ]
+  },
+  {
+   "id": "thr_shortlist",
+   "word": "shortlist",
+   "pos": "verb",
+   "ipa": "/ˈʃɔːrtlɪst/",
+   "level": "TOEIC",
+   "meaning": "đưa vào danh sách rút gọn",
+   "definition": "to put on a final list of candidates",
+   "collocations": [
+    "be shortlisted for"
+   ],
+   "examples": [
+    {
+     "en": "Five applicants were *shortlisted* for interviews.",
+     "vi": "Năm ứng viên được chọn vào vòng phỏng vấn."
+    }
+   ]
+  },
+  {
+   "id": "thr_interviewer",
+   "word": "interviewer",
+   "pos": "noun",
+   "ipa": "/ˈɪntərvjuːər/",
+   "level": "TOEIC",
+   "meaning": "người phỏng vấn",
+   "definition": "a person who asks questions in an interview",
+   "collocations": [
+    "the interviewer asked"
+   ],
+   "examples": [
+    {
+     "en": "The *interviewer* asked about my experience.",
+     "vi": "Người phỏng vấn hỏi về kinh nghiệm của tôi."
+    }
+   ]
+  },
+  {
+   "id": "thr_interviewee",
+   "word": "interviewee",
+   "pos": "noun",
+   "ipa": "/ˌɪntərvjuːˈiː/",
+   "level": "TOEIC",
+   "meaning": "người được phỏng vấn",
+   "definition": "a person being interviewed",
+   "collocations": [
+    "each interviewee"
+   ],
+   "examples": [
+    {
+     "en": "Each *interviewee* will meet two managers.",
+     "vi": "Mỗi người được phỏng vấn sẽ gặp hai quản lý."
+    }
+   ]
+  },
+  {
+   "id": "thr_hiring",
+   "word": "hiring",
+   "pos": "noun",
+   "ipa": "/ˈhaɪərɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc tuyển dụng",
+   "definition": "employing new people",
+   "collocations": [
+    "hiring manager",
+    "hiring freeze"
+   ],
+   "examples": [
+    {
+     "en": "The *hiring* manager will contact you next week.",
+     "vi": "Quản lý tuyển dụng sẽ liên hệ bạn tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "thr_job_offer",
+   "word": "job offer",
+   "pos": "noun",
+   "ipa": "/ˈdʒɑːb ˌɔːfər/",
+   "level": "TOEIC",
+   "meaning": "lời mời làm việc",
+   "definition": "an offer of a job",
+   "collocations": [
+    "accept a job offer",
+    "turn down an offer"
+   ],
+   "examples": [
+    {
+     "en": "She accepted the *job offer* yesterday.",
+     "vi": "Cô ấy đã nhận lời mời làm việc hôm qua."
+    }
+   ]
+  },
+  {
+   "id": "thr_starting_salary",
+   "word": "starting salary",
+   "pos": "noun",
+   "ipa": "/ˌstɑːrtɪŋ ˈsæləri/",
+   "level": "TOEIC",
+   "meaning": "mức lương khởi điểm",
+   "definition": "the pay at the beginning of a job",
+   "collocations": [
+    "a starting salary of"
+   ],
+   "examples": [
+    {
+     "en": "The *starting salary* is $1,200 a month.",
+     "vi": "Lương khởi điểm là 1.200 đô một tháng."
+    }
+   ]
+  },
+  {
+   "id": "thr_payroll",
+   "word": "payroll",
+   "pos": "noun",
+   "ipa": "/ˈpeɪroʊl/",
+   "level": "TOEIC",
+   "meaning": "bảng lương; bộ phận tính lương",
+   "definition": "the list of employees and their pay",
+   "collocations": [
+    "on the payroll",
+    "payroll department"
+   ],
+   "examples": [
+    {
+     "en": "Contact *payroll* if your salary is wrong.",
+     "vi": "Liên hệ bộ phận tính lương nếu lương của bạn bị sai."
+    }
+   ]
+  },
+  {
+   "id": "thr_paycheck",
+   "word": "paycheck",
+   "pos": "noun",
+   "ipa": "/ˈpeɪtʃek/",
+   "level": "TOEIC",
+   "meaning": "phiếu lương, tiền lương",
+   "definition": "the money paid to an employee",
+   "collocations": [
+    "monthly paycheck"
+   ],
+   "examples": [
+    {
+     "en": "The bonus will be added to your next *paycheck*.",
+     "vi": "Tiền thưởng sẽ được cộng vào kỳ lương tới."
+    }
+   ]
+  },
+  {
+   "id": "thr_bonus",
+   "word": "bonus",
+   "pos": "noun",
+   "ipa": "/ˈboʊnəs/",
+   "level": "C1",
+   "meaning": "tiền thưởng",
+   "definition": "extra money for good work",
+   "collocations": [
+    "annual bonus",
+    "performance bonus"
+   ],
+   "examples": [
+    {
+     "en": "All staff received a year-end *bonus*.",
+     "vi": "Toàn bộ nhân viên được thưởng cuối năm."
+    }
+   ]
+  },
+  {
+   "id": "thr_raise",
+   "word": "raise",
+   "pos": "noun",
+   "ipa": "/reɪz/",
+   "level": "A2",
+   "meaning": "sự tăng lương",
+   "definition": "an increase in pay",
+   "collocations": [
+    "get a raise",
+    "ask for a raise"
+   ],
+   "examples": [
+    {
+     "en": "She asked her manager for a *raise*.",
+     "vi": "Cô ấy đề nghị quản lý tăng lương."
+    }
+   ]
+  },
+  {
+   "id": "thr_compensation",
+   "word": "compensation",
+   "pos": "noun",
+   "ipa": "/ˌkɑːmpenˈseɪʃn/",
+   "level": "C1",
+   "meaning": "lương thưởng; tiền bồi thường",
+   "definition": "pay and benefits; money for loss or damage",
+   "collocations": [
+    "compensation package",
+    "receive compensation"
+   ],
+   "examples": [
+    {
+     "en": "The *compensation* package includes health insurance.",
+     "vi": "Gói lương thưởng bao gồm bảo hiểm y tế."
+    }
+   ]
+  },
+  {
+   "id": "thr_reimburse",
+   "word": "reimburse",
+   "pos": "verb",
+   "ipa": "/ˌriːɪmˈbɜːrs/",
+   "level": "TOEIC",
+   "meaning": "hoàn trả (chi phí)",
+   "definition": "to pay back money spent for work",
+   "collocations": [
+    "be reimbursed for"
+   ],
+   "examples": [
+    {
+     "en": "You will be *reimbursed* for travel expenses.",
+     "vi": "Bạn sẽ được hoàn trả chi phí đi lại."
+    }
+   ]
+  },
+  {
+   "id": "thr_reimbursement",
+   "word": "reimbursement",
+   "pos": "noun",
+   "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+   "level": "TOEIC",
+   "meaning": "sự hoàn trả chi phí",
+   "definition": "paying back money spent",
+   "collocations": [
+    "request reimbursement"
+   ],
+   "examples": [
+    {
+     "en": "Submit receipts for *reimbursement* within 30 days.",
+     "vi": "Nộp hóa đơn để được hoàn tiền trong vòng 30 ngày."
+    }
+   ]
+  },
+  {
+   "id": "thr_appraisal",
+   "word": "appraisal",
+   "pos": "noun",
+   "ipa": "/əˈpreɪzl/",
+   "level": "TOEIC",
+   "meaning": "sự đánh giá (nhân viên)",
+   "definition": "a meeting to judge an employee's work",
+   "collocations": [
+    "annual appraisal",
+    "performance appraisal"
+   ],
+   "examples": [
+    {
+     "en": "My annual *appraisal* is next week.",
+     "vi": "Buổi đánh giá năm của tôi diễn ra tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "thr_orientation",
+   "word": "orientation",
+   "pos": "noun",
+   "ipa": "/ˌɔːriənˈteɪʃn/",
+   "level": "C1",
+   "meaning": "buổi định hướng (nhân viên mới)",
+   "definition": "an introduction for new staff or students",
+   "collocations": [
+    "new employee orientation",
+    "attend orientation"
+   ],
+   "examples": [
+    {
+     "en": "New staff must attend *orientation* on Monday.",
+     "vi": "Nhân viên mới phải dự buổi định hướng vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "thr_onboarding",
+   "word": "onboarding",
+   "pos": "noun",
+   "ipa": "/ˈɑːnbɔːrdɪŋ/",
+   "level": "TOEIC",
+   "meaning": "quy trình hội nhập nhân viên mới",
+   "definition": "helping new employees start their job",
+   "collocations": [
+    "onboarding process"
+   ],
+   "examples": [
+    {
+     "en": "The *onboarding* process takes two weeks.",
+     "vi": "Quy trình hội nhập nhân viên mới mất hai tuần."
+    }
+   ]
+  },
+  {
+   "id": "thr_probation",
+   "word": "probation",
+   "pos": "noun",
+   "ipa": "/proʊˈbeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "thời gian thử việc",
+   "definition": "a period of testing a new employee",
+   "collocations": [
+    "on probation",
+    "probation period"
+   ],
+   "examples": [
+    {
+     "en": "New employees have a three-month *probation* period.",
+     "vi": "Nhân viên mới có thời gian thử việc ba tháng."
+    }
+   ]
+  },
+  {
+   "id": "thr_maternity_leave",
+   "word": "maternity leave",
+   "pos": "noun",
+   "ipa": "/məˈtɜːrnəti liːv/",
+   "level": "TOEIC",
+   "meaning": "nghỉ thai sản",
+   "definition": "time off for a mother after a birth",
+   "collocations": [
+    "on maternity leave"
+   ],
+   "examples": [
+    {
+     "en": "She is on *maternity leave* until March.",
+     "vi": "Cô ấy nghỉ thai sản đến tháng Ba."
+    }
+   ]
+  },
+  {
+   "id": "thr_sick_leave",
+   "word": "sick leave",
+   "pos": "noun",
+   "ipa": "/ˈsɪk liːv/",
+   "level": "TOEIC",
+   "meaning": "nghỉ ốm",
+   "definition": "time off work because of illness",
+   "collocations": [
+    "take sick leave"
+   ],
+   "examples": [
+    {
+     "en": "Employees get ten days of paid *sick leave*.",
+     "vi": "Nhân viên có mười ngày nghỉ ốm hưởng lương."
+    }
+   ]
+  },
+  {
+   "id": "thr_time_off",
+   "word": "time off",
+   "pos": "noun",
+   "ipa": "/ˌtaɪm ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "thời gian nghỉ",
+   "definition": "time away from work",
+   "collocations": [
+    "take time off",
+    "request time off"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to request some *time off* in May.",
+     "vi": "Tôi muốn xin nghỉ vài ngày vào tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "thr_vacation",
+   "word": "vacation",
+   "pos": "noun",
+   "ipa": "/veɪˈkeɪʃn/",
+   "level": "A1",
+   "meaning": "kỳ nghỉ",
+   "definition": "time away from work for rest or travel",
+   "collocations": [
+    "on vacation",
+    "paid vacation"
+   ],
+   "examples": [
+    {
+     "en": "He's on *vacation* this week.",
+     "vi": "Tuần này anh ấy đi nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "thr_benefits_package",
+   "word": "benefits package",
+   "pos": "noun",
+   "ipa": "/ˈbenɪfɪts ˌpækɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "gói phúc lợi",
+   "definition": "all the extras an employer gives",
+   "collocations": [
+    "a generous benefits package"
+   ],
+   "examples": [
+    {
+     "en": "We offer a competitive salary and *benefits package*.",
+     "vi": "Chúng tôi có lương và gói phúc lợi cạnh tranh."
+    }
+   ]
+  },
+  {
+   "id": "thr_employee",
+   "word": "employee",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪiː/",
+   "level": "A2",
+   "meaning": "nhân viên",
+   "definition": "a person paid to work for a company",
+   "collocations": [
+    "full-time employees",
+    "employee of the month"
+   ],
+   "examples": [
+    {
+     "en": "She was named *employee* of the month.",
+     "vi": "Cô ấy được bình chọn là nhân viên xuất sắc tháng."
+    }
+   ]
+  },
+  {
+   "id": "thr_employer",
+   "word": "employer",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪər/",
+   "level": "A2",
+   "meaning": "chủ lao động",
+   "definition": "a person or company that employs people",
+   "collocations": [
+    "a major employer",
+    "previous employer"
+   ],
+   "examples": [
+    {
+     "en": "The hospital is the largest *employer* in town.",
+     "vi": "Bệnh viện là nơi tuyển dụng lớn nhất thị trấn."
+    }
+   ]
+  },
+  {
+   "id": "thr_employ",
+   "word": "employ",
+   "pos": "verb",
+   "ipa": "/ɪmˈplɔɪ/",
+   "level": "A2",
+   "meaning": "thuê, tuyển dụng",
+   "definition": "to pay someone to work for you",
+   "collocations": [
+    "employ staff",
+    "be employed by"
+   ],
+   "examples": [
+    {
+     "en": "The factory *employs* 500 people.",
+     "vi": "Nhà máy thuê 500 người."
+    }
+   ]
+  },
+  {
+   "id": "thr_lay_off",
+   "word": "lay off",
+   "pos": "verb",
+   "ipa": "/ˌleɪ ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "cho nghỉ việc (cắt giảm)",
+   "definition": "to stop employing workers because there is not enough work",
+   "collocations": [
+    "be laid off"
+   ],
+   "examples": [
+    {
+     "en": "The company *laid off* 100 workers.",
+     "vi": "Công ty cắt giảm 100 công nhân."
+    }
+   ]
+  },
+  {
+   "id": "thr_transfer_request",
+   "word": "transfer request",
+   "pos": "noun",
+   "ipa": "/rɪˈkwest/",
+   "level": "TOEIC",
+   "meaning": "đơn xin chuyển công tác",
+   "definition": "asking to move to another office or job",
+   "collocations": [
+    "submit a transfer request"
+   ],
+   "examples": [
+    {
+     "en": "She submitted a *transfer request* to the Tokyo office.",
+     "vi": "Cô ấy nộp đơn xin chuyển sang văn phòng Tokyo."
+    }
+   ]
+  },
+  {
+   "id": "thr_relocate",
+   "word": "relocate",
+   "pos": "verb",
+   "ipa": "/ˌriːˈloʊkeɪt/",
+   "level": "TOEIC",
+   "meaning": "chuyển đến nơi mới",
+   "definition": "to move to a new place",
+   "collocations": [
+    "relocate to",
+    "relocate the office"
+   ],
+   "examples": [
+    {
+     "en": "The company will *relocate* its headquarters to Da Nang.",
+     "vi": "Công ty sẽ chuyển trụ sở chính tới Đà Nẵng."
+    }
+   ]
+  },
+  {
+   "id": "thr_relocation",
+   "word": "relocation",
+   "pos": "noun",
+   "ipa": "/ˌriːloʊˈkeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự chuyển địa điểm",
+   "definition": "moving to a new place",
+   "collocations": [
+    "relocation costs",
+    "relocation package"
+   ],
+   "examples": [
+    {
+     "en": "The company pays *relocation* costs for new hires.",
+     "vi": "Công ty trả chi phí chuyển chỗ ở cho nhân viên mới."
+    }
+   ]
+  },
+  {
+   "id": "thr_reference_check",
+   "word": "reference check",
+   "pos": "noun",
+   "ipa": "/ˈrefrəns tʃek/",
+   "level": "TOEIC",
+   "meaning": "việc kiểm tra người giới thiệu",
+   "definition": "contacting previous employers about a candidate",
+   "collocations": [
+    "carry out reference checks"
+   ],
+   "examples": [
+    {
+     "en": "We will do *reference checks* before making an offer.",
+     "vi": "Chúng tôi sẽ kiểm tra người giới thiệu trước khi mời làm việc."
+    }
+   ]
+  },
+  {
+   "id": "thr_gap",
+   "word": "gap",
+   "pos": "noun",
+   "ipa": "/ɡæp/",
+   "level": "A2",
+   "meaning": "khoảng trống; chênh lệch",
+   "definition": "a space or difference",
+   "collocations": [
+    "a gap in employment",
+    "skills gap"
+   ],
+   "examples": [
+    {
+     "en": "Please explain the *gap* in your employment history.",
+     "vi": "Vui lòng giải thích khoảng trống trong quá trình làm việc của bạn."
+    }
+   ]
+  },
+  {
+   "id": "thr_proficiency",
+   "word": "proficiency",
+   "pos": "noun",
+   "ipa": "/prəˈfɪʃnsi/",
+   "level": "TOEIC",
+   "meaning": "sự thành thạo",
+   "definition": "a high level of skill",
+   "collocations": [
+    "language proficiency",
+    "proficiency in"
+   ],
+   "examples": [
+    {
+     "en": "*Proficiency* in English is required.",
+     "vi": "Yêu cầu thành thạo tiếng Anh."
+    }
+   ]
+  },
+  {
+   "id": "thr_proficient",
+   "word": "proficient",
+   "pos": "adjective",
+   "ipa": "/prəˈfɪʃnt/",
+   "level": "TOEIC",
+   "meaning": "thành thạo",
+   "definition": "skilled",
+   "collocations": [
+    "proficient in",
+    "proficient at"
+   ],
+   "examples": [
+    {
+     "en": "Applicants must be *proficient* in Excel.",
+     "vi": "Ứng viên phải thành thạo Excel."
+    }
+   ]
+  },
+  {
+   "id": "thr_preferred",
+   "word": "preferred",
+   "pos": "adjective",
+   "ipa": "/prɪˈfɜːrd/",
+   "level": "TOEIC",
+   "meaning": "ưu tiên",
+   "definition": "liked more; wanted more",
+   "collocations": [
+    "experience preferred",
+    "preferred qualifications"
+   ],
+   "examples": [
+    {
+     "en": "Experience in sales is *preferred*.",
+     "vi": "Ưu tiên ứng viên có kinh nghiệm bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "thr_eligible",
+   "word": "eligible",
+   "pos": "adjective",
+   "ipa": "/ˈelɪdʒəbl/",
+   "level": "C1",
+   "meaning": "đủ điều kiện",
+   "definition": "having the right to do or receive something",
+   "collocations": [
+    "eligible for",
+    "eligible to apply"
+   ],
+   "examples": [
+    {
+     "en": "Full-time staff are *eligible* for the bonus.",
+     "vi": "Nhân viên toàn thời gian đủ điều kiện nhận thưởng."
+    }
+   ]
+  },
+  {
+   "id": "thr_eligibility",
+   "word": "eligibility",
+   "pos": "noun",
+   "ipa": "/ˌelɪdʒəˈbɪləti/",
+   "level": "TOEIC",
+   "meaning": "tính hợp lệ, đủ điều kiện",
+   "definition": "the state of being eligible",
+   "collocations": [
+    "check eligibility"
+   ],
+   "examples": [
+    {
+     "en": "Check your *eligibility* before applying.",
+     "vi": "Kiểm tra điều kiện của bạn trước khi nộp đơn."
+    }
+   ]
+  },
+  {
+   "id": "thr_diligent",
+   "word": "diligent",
+   "pos": "adjective",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "level": "TOEIC",
+   "meaning": "siêng năng",
+   "definition": "working hard and carefully",
+   "collocations": [
+    "a diligent worker"
+   ],
+   "examples": [
+    {
+     "en": "She is a *diligent* and reliable employee.",
+     "vi": "Cô ấy là nhân viên siêng năng và đáng tin cậy."
+    }
+   ]
+  },
+  {
+   "id": "thr_dedicated",
+   "word": "dedicated",
+   "pos": "adjective",
+   "ipa": "/ˈdedɪkeɪtɪd/",
+   "level": "C1",
+   "meaning": "tận tụy; chuyên dụng",
+   "definition": "working hard for something; for one purpose",
+   "collocations": [
+    "dedicated staff",
+    "a dedicated line"
+   ],
+   "examples": [
+    {
+     "en": "We have a *dedicated* team of engineers.",
+     "vi": "Chúng tôi có một đội kỹ sư tận tụy."
+    }
+   ]
+  },
+  {
+   "id": "thr_team_player",
+   "word": "team player",
+   "pos": "noun",
+   "ipa": "/ˌtiːm ˈpleɪər/",
+   "level": "TOEIC",
+   "meaning": "người có tinh thần đồng đội",
+   "definition": "a person who works well with others",
+   "collocations": [
+    "be a team player"
+   ],
+   "examples": [
+    {
+     "en": "We are looking for a *team player* with good communication skills.",
+     "vi": "Chúng tôi tìm người có tinh thần đồng đội và giao tiếp tốt."
+    }
+   ]
+  },
+  {
+   "id": "thr_turnover",
+   "word": "turnover",
+   "pos": "noun",
+   "ipa": "/ˈtɜːrnoʊvər/",
+   "level": "C1",
+   "meaning": "tỷ lệ nghỉ việc; doanh thu",
+   "definition": "the rate at which staff leave; total sales",
+   "collocations": [
+    "staff turnover",
+    "annual turnover"
+   ],
+   "examples": [
+    {
+     "en": "High staff *turnover* is costly.",
+     "vi": "Tỷ lệ nhân viên nghỉ việc cao rất tốn kém."
+    }
+   ]
+  },
+  {
+   "id": "thr_morale",
+   "word": "morale",
+   "pos": "noun",
+   "ipa": "/məˈræl/",
+   "level": "TOEIC",
+   "meaning": "tinh thần (tập thể)",
+   "definition": "the level of confidence of a group",
+   "collocations": [
+    "staff morale",
+    "boost morale"
+   ],
+   "examples": [
+    {
+     "en": "The team event helped boost *morale*.",
+     "vi": "Sự kiện tập thể giúp nâng cao tinh thần."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

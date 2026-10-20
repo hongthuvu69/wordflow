@@ -1,0 +1,54 @@
+#id: culture
+#prefix: cul
+#order: 33
+#icon: 🏯
+#title: History, Culture & Beliefs
+#title_vi: Lịch sử, Văn hóa & Tín ngưỡng
+#desc: Di sản, lễ hội, tôn giáo, các thời kỳ lịch sử: hữu ích cho bài đọc về du lịch – bảo tàng và IELTS.
+history | noun | /ˈhɪstri/ | lịch sử | past events; the study of the past | local history; in history | The museum tells the *history* of the city. | Bảo tàng kể lại lịch sử của thành phố.
+historian | noun | /hɪˈstɔːriən/ | nhà sử học | an expert in history | a local historian | *Historians* believe the temple is 800 years old. | Các nhà sử học tin rằng ngôi đền đã 800 năm tuổi.
+historic | adjective | /hɪˈstɔːrɪk/ | có ý nghĩa lịch sử | famous or important in history | historic building; a historic moment | Hoi An is a *historic* town. | Hội An là một đô thị cổ có giá trị lịch sử.
+historical | adjective | /hɪˈstɔːrɪkl/ | thuộc lịch sử | connected with the past | historical events; historical records | The film is based on *historical* events. | Bộ phim dựa trên các sự kiện lịch sử.
+ancestor | noun | /ˈænsestər/ | tổ tiên | a family member who lived long ago | worship ancestors; our ancestors | Many Vietnamese families honour their *ancestors* at Tet. | Nhiều gia đình Việt tưởng nhớ tổ tiên dịp Tết.
+civilization | noun | /ˌsɪvələˈzeɪʃn/ | nền văn minh | a developed society and its culture | ancient civilization; Western civilization | Egypt is one of the oldest *civilizations*. | Ai Cập là một trong những nền văn minh cổ nhất.
+era | noun | /ˈɪrə/ | kỷ nguyên, thời đại | a period of history | a new era; the digital era | We live in the digital *era*. | Chúng ta đang sống trong kỷ nguyên số.
+decade | noun | /ˈdekeɪd/ | thập kỷ | a period of ten years | over the past decade; for decades | The company has grown a lot in the last *decade*. | Công ty đã phát triển mạnh trong thập kỷ qua.
+ancient | adjective | /ˈeɪnʃənt/ | cổ đại, cổ xưa | very old; from long ago | ancient history; ancient temple | We visited an *ancient* temple in Hue. | Chúng tôi thăm một ngôi đền cổ ở Huế.
+monument | noun | /ˈmɑːnjumənt/ | đài tưởng niệm, di tích | a building or statue built to remember a person or event | historic monument; national monument | The *monument* was built in 1920. | Đài tưởng niệm được xây năm 1920.
+statue | noun | /ˈstætʃuː/ | bức tượng | a figure of a person made of stone or metal | a bronze statue; the Statue of Liberty | There is a *statue* of the founder in the park. | Có bức tượng người sáng lập trong công viên.
+temple | noun | /ˈtempl/ | đền, chùa | a building for worship | visit a temple; ancient temple | The *temple* is open to visitors every day. | Ngôi đền mở cửa cho du khách hằng ngày.
+mosque | noun | /mɑːsk/ | nhà thờ Hồi giáo | a building where Muslims pray | visit a mosque | Please remove your shoes before entering the *mosque*. | Vui lòng cởi giày trước khi vào nhà thờ Hồi giáo.
+religion | noun | /rɪˈlɪdʒən/ | tôn giáo | belief in a god or gods | world religions; freedom of religion | Buddhism is a major *religion* in Asia. | Phật giáo là một tôn giáo lớn ở châu Á.
+religious | adjective | /rɪˈlɪdʒəs/ | thuộc tôn giáo; sùng đạo | connected with religion | religious festival; religious beliefs | The festival has *religious* origins. | Lễ hội có nguồn gốc tôn giáo.
+belief | noun | /bɪˈliːf/ | niềm tin | a feeling that something is true | religious beliefs; a strong belief | It is a common *belief* that breakfast is the most important meal. | Nhiều người tin rằng bữa sáng là bữa quan trọng nhất.
+faith | noun | /feɪθ/ | đức tin; sự tin tưởng | strong belief or trust | have faith in; religious faith | I have *faith* in our team. | Tôi tin tưởng vào đội của chúng ta.
+spirit | noun | /ˈspɪrɪt/ | tinh thần; linh hồn | attitude or mood; the soul | team spirit; in good spirits | The event helped build team *spirit*. | Sự kiện giúp xây dựng tinh thần đồng đội.
+spiritual | adjective | /ˈspɪrɪtʃuəl/ | thuộc tâm linh | connected with the spirit or religion | spiritual life; spiritual leader | Yoga has both physical and *spiritual* benefits. | Yoga có lợi ích cả về thể chất lẫn tinh thần.
+soul | noun | /soʊl/ | linh hồn, tâm hồn | the spiritual part of a person | body and soul | She put her heart and *soul* into the project. | Cô ấy dồn hết tâm huyết vào dự án.
+holy | adjective | /ˈhoʊli/ | linh thiêng | connected with God or religion | holy place; holy book | The mountain is a *holy* place for local people. | Ngọn núi là nơi linh thiêng với người dân địa phương.
+priest | noun | /priːst/ | linh mục, thầy tu | a person who performs religious ceremonies | a Catholic priest | The *priest* led the ceremony. | Linh mục chủ trì buổi lễ.
+pray | verb | /preɪ/ | cầu nguyện | to speak to God | pray for; pray at the temple | Many people *pray* for good luck at New Year. | Nhiều người cầu may đầu năm mới.
+prayer | noun | /prer/ | lời cầu nguyện | words said to God | say a prayer; prayer room | The airport has a *prayer* room. | Sân bay có phòng cầu nguyện.
+heaven | noun | /ˈhevn/ | thiên đường | the place where God lives; a very pleasant place | in heaven; a heaven for | This island is a *heaven* for divers. | Hòn đảo này là thiên đường cho người lặn biển.
+hell | noun | /hel/ | địa ngục | a place of suffering after death; a very bad situation | a living hell | The traffic this morning was *hell*. | Giao thông sáng nay đúng là địa ngục.
+ghost | noun | /ɡoʊst/ | con ma | the spirit of a dead person | ghost story; believe in ghosts | Do you believe in *ghosts*? | Bạn có tin vào ma không?
+ceremony | noun | /ˈserəmoʊni/ | buổi lễ | a formal public event | opening ceremony; award ceremony; wedding ceremony | The award *ceremony* starts at 7 p.m. | Lễ trao giải bắt đầu lúc 7 giờ tối.
+celebration | noun | /ˌselɪˈbreɪʃn/ | lễ kỷ niệm, sự ăn mừng | a special event to celebrate something | a birthday celebration; in celebration of | We had a small *celebration* for her promotion. | Chúng tôi tổ chức ăn mừng nhỏ cho việc cô ấy được thăng chức.
+anniversary | noun | /ˌænɪˈvɜːrsəri/ | ngày kỷ niệm | the date when something happened in a past year | wedding anniversary; 10th anniversary | The company is celebrating its 20th *anniversary*. | Công ty đang kỷ niệm 20 năm thành lập.
+festival | noun | /ˈfestɪvl/ | lễ hội | an organized event with performances or celebrations | music festival; Mid-Autumn Festival | The city holds a food *festival* every October. | Thành phố tổ chức lễ hội ẩm thực mỗi tháng Mười.
+folk | adjective | /foʊk/ | dân gian | traditional and typical of ordinary people | folk music; folk song; folk dance | They performed traditional *folk* songs. | Họ biểu diễn những bài dân ca truyền thống.
+cultural | adjective | /ˈkʌltʃərəl/ | thuộc văn hóa | connected with culture | cultural differences; cultural heritage | Working abroad helps you understand *cultural* differences. | Làm việc ở nước ngoài giúp bạn hiểu khác biệt văn hóa.
+heritage | noun | /ˈherɪtɪdʒ/ | di sản | the history and traditions of a country | cultural heritage; World Heritage Site | Ha Long Bay is a UNESCO World *Heritage* Site. | Vịnh Hạ Long là Di sản Thế giới của UNESCO.
+tradition | noun | /trəˈdɪʃn/ | truyền thống | a custom passed down over time | family tradition; by tradition | It's a *tradition* to give lucky money at Tet. | Lì xì dịp Tết là một truyền thống.
+classic | adjective | /ˈklæsɪk/ | kinh điển | of high quality and lasting value | a classic film; classic design | It's a *classic* example of good customer service. | Đó là ví dụ kinh điển về dịch vụ khách hàng tốt.
+origin | noun | /ˈɔːrɪdʒɪn/ | nguồn gốc | the beginning or cause of something | country of origin; the origin of | The label shows the country of *origin*. | Nhãn cho biết nước xuất xứ.
+original | adjective | /əˈrɪdʒənl/ | gốc, ban đầu; độc đáo | first or earliest; new and creative | the original plan; an original idea | Please keep the *original* receipt. | Vui lòng giữ hóa đơn gốc.
+originally | adverb | /əˈrɪdʒənəli/ | ban đầu | at first | originally planned; originally from | The meeting was *originally* planned for Monday. | Cuộc họp ban đầu được lên lịch vào thứ Hai.
+tribe | noun | /traɪb/ | bộ tộc | a group of families with the same culture | an ancient tribe | The *tribe* has lived in the forest for centuries. | Bộ tộc đã sống trong rừng hàng thế kỷ.
+royal family | noun | /ˌrɔɪəl ˈfæməli/ | hoàng gia | a king or queen and their family | members of the royal family | The *royal family* attended the ceremony. | Hoàng gia đã dự buổi lễ.
+treasure | noun | /ˈtreʒər/ | kho báu; báu vật | gold, jewels etc.; something very valuable | buried treasure; national treasure | The museum's greatest *treasure* is a 1,000-year-old drum. | Báu vật lớn nhất của bảo tàng là một chiếc trống 1.000 năm tuổi.
+myth | noun | /mɪθ/ | thần thoại | an ancient traditional story | ancient myths | The festival is based on an old *myth*. | Lễ hội dựa trên một thần thoại cổ.
+philosophy | noun | /fəˈlɑːsəfi/ | triết học; triết lý | the study of ideas about life; a set of beliefs | company philosophy; study philosophy | Our *philosophy* is "customers first". | Triết lý của chúng tôi là "khách hàng là trên hết".
+moral | adjective | /ˈmɔːrəl/ | thuộc đạo đức | connected with right and wrong | moral values; moral duty | Companies have a *moral* duty to protect the environment. | Các công ty có trách nhiệm đạo đức bảo vệ môi trường.
+ethic | noun | /ˈeθɪk/ | đạo đức (nghề nghiệp) | a set of moral principles | work ethic; business ethics | She has a strong work *ethic*. | Cô ấy có tinh thần làm việc rất nghiêm túc.
+ethical | adjective | /ˈeθɪkl/ | có đạo đức | morally right | ethical business; ethical issues | We only buy from *ethical* suppliers. | Chúng tôi chỉ mua từ nhà cung cấp có đạo đức kinh doanh.

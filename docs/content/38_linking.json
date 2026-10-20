@@ -1,0 +1,1206 @@
+{
+ "id": "linking",
+ "order": 38,
+ "icon": "🔗",
+ "level": "B2",
+ "title": "Linking Words & Adverbs",
+ "title_vi": "Từ nối & Trạng từ quan trọng",
+ "description": "However, therefore, despite, whereas, unless…: nhóm từ quyết định điểm Part 5–6 và giúp viết/nói mạch lạc.",
+ "words": [
+  {
+   "id": "lnk_however",
+   "word": "however",
+   "pos": "adverb",
+   "ipa": "/haʊˈevər/",
+   "level": "B2",
+   "meaning": "tuy nhiên",
+   "definition": "used to add a contrasting statement",
+   "collocations": [
+    "However, …",
+    "however much"
+   ],
+   "examples": [
+    {
+     "en": "The hotel was expensive. *However*, the service was excellent.",
+     "vi": "Khách sạn đắt. Tuy nhiên, dịch vụ rất tuyệt."
+    }
+   ],
+   "note": "Đứng đầu câu + dấu phẩy; không nối hai mệnh đề như but."
+  },
+  {
+   "id": "lnk_nevertheless",
+   "word": "nevertheless",
+   "pos": "adverb",
+   "ipa": "/ˌnevərðəˈles/",
+   "level": "B2",
+   "meaning": "tuy vậy, dẫu sao",
+   "definition": "despite what has just been said",
+   "collocations": [
+    "Nevertheless, …"
+   ],
+   "examples": [
+    {
+     "en": "The task was difficult; *nevertheless*, we finished on time.",
+     "vi": "Nhiệm vụ khó; tuy vậy, chúng tôi vẫn xong đúng hạn."
+    }
+   ]
+  },
+  {
+   "id": "lnk_therefore",
+   "word": "therefore",
+   "pos": "adverb",
+   "ipa": "/ˈðerfɔːr/",
+   "level": "B1",
+   "meaning": "vì vậy",
+   "definition": "for that reason",
+   "collocations": [
+    "and therefore",
+    "therefore, …"
+   ],
+   "examples": [
+    {
+     "en": "The road is closed. *Therefore*, please use the side entrance.",
+     "vi": "Đường bị chặn. Vì vậy, vui lòng dùng lối vào bên hông."
+    }
+   ]
+  },
+  {
+   "id": "lnk_thus",
+   "word": "thus",
+   "pos": "adverb",
+   "ipa": "/ðʌs/",
+   "level": "B2",
+   "meaning": "do đó; như vậy",
+   "definition": "as a result; in this way",
+   "collocations": [
+    "thus far"
+   ],
+   "examples": [
+    {
+     "en": "The new system is faster and *thus* cheaper to run.",
+     "vi": "Hệ thống mới nhanh hơn và do đó rẻ hơn khi vận hành."
+    }
+   ]
+  },
+  {
+   "id": "lnk_hence",
+   "word": "hence",
+   "pos": "adverb",
+   "ipa": "/hens/",
+   "level": "B2",
+   "meaning": "vì thế",
+   "definition": "for this reason",
+   "collocations": [
+    "hence the name"
+   ],
+   "examples": [
+    {
+     "en": "The café is next to the river, *hence* its name, River Café.",
+     "vi": "Quán cà phê nằm cạnh sông, vì thế mới có tên River Café."
+    }
+   ]
+  },
+  {
+   "id": "lnk_consequently",
+   "word": "consequently",
+   "pos": "adverb",
+   "ipa": "/ˈkɑːnsəkwentli/",
+   "level": "B2",
+   "meaning": "kết quả là",
+   "definition": "as a result",
+   "collocations": [
+    "Consequently, …"
+   ],
+   "examples": [
+    {
+     "en": "The flight was delayed. *Consequently*, I missed the meeting.",
+     "vi": "Chuyến bay bị trễ. Kết quả là tôi lỡ cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "lnk_consequence",
+   "word": "consequence",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnsəkwens/",
+   "level": "B1",
+   "meaning": "hậu quả",
+   "definition": "a result of an action",
+   "collocations": [
+    "as a consequence",
+    "serious consequences"
+   ],
+   "examples": [
+    {
+     "en": "Missing the deadline could have serious *consequences*.",
+     "vi": "Trễ hạn có thể gây hậu quả nghiêm trọng."
+    }
+   ]
+  },
+  {
+   "id": "lnk_furthermore",
+   "word": "furthermore",
+   "pos": "adverb",
+   "ipa": "/ˌfɜːrðərˈmɔːr/",
+   "level": "B2",
+   "meaning": "hơn nữa",
+   "definition": "in addition",
+   "collocations": [
+    "Furthermore, …"
+   ],
+   "examples": [
+    {
+     "en": "The apartment is cheap. *Furthermore*, it's close to the station.",
+     "vi": "Căn hộ rẻ. Hơn nữa, nó gần ga."
+    }
+   ]
+  },
+  {
+   "id": "lnk_moreover",
+   "word": "moreover",
+   "pos": "adverb",
+   "ipa": "/mɔːrˈoʊvər/",
+   "level": "B2",
+   "meaning": "hơn nữa, ngoài ra",
+   "definition": "in addition (formal)",
+   "collocations": [
+    "Moreover, …"
+   ],
+   "examples": [
+    {
+     "en": "The plan is risky. *Moreover*, it is very expensive.",
+     "vi": "Kế hoạch rủi ro. Hơn nữa, nó rất tốn kém."
+    }
+   ]
+  },
+  {
+   "id": "lnk_additionally",
+   "word": "additionally",
+   "pos": "adverb",
+   "ipa": "/əˈdɪʃənəli/",
+   "level": "B2",
+   "meaning": "thêm vào đó",
+   "definition": "also; in addition",
+   "collocations": [
+    "Additionally, …"
+   ],
+   "examples": [
+    {
+     "en": "*Additionally*, all staff will receive a bonus.",
+     "vi": "Thêm vào đó, toàn bộ nhân viên sẽ được thưởng."
+    }
+   ]
+  },
+  {
+   "id": "lnk_addition",
+   "word": "addition",
+   "pos": "noun",
+   "ipa": "/əˈdɪʃn/",
+   "level": "B1",
+   "meaning": "sự thêm vào; người/vật mới thêm",
+   "definition": "the act of adding; a new person or thing",
+   "collocations": [
+    "in addition to",
+    "a new addition"
+   ],
+   "examples": [
+    {
+     "en": "In *addition* to a salary, we offer free lunch.",
+     "vi": "Ngoài lương, chúng tôi còn có bữa trưa miễn phí."
+    }
+   ],
+   "note": "in addition to + N/V-ing."
+  },
+  {
+   "id": "lnk_additional",
+   "word": "additional",
+   "pos": "adjective",
+   "ipa": "/əˈdɪʃənl/",
+   "level": "B2",
+   "meaning": "thêm, bổ sung",
+   "definition": "more than expected; extra",
+   "collocations": [
+    "additional cost",
+    "additional information"
+   ],
+   "examples": [
+    {
+     "en": "For *additional* information, visit our website.",
+     "vi": "Để biết thêm thông tin, truy cập website của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "lnk_besides",
+   "word": "besides",
+   "pos": "preposition",
+   "ipa": "/bɪˈsaɪdz/",
+   "level": "B2",
+   "meaning": "ngoài ra; bên cạnh",
+   "definition": "in addition to",
+   "collocations": [
+    "besides that"
+   ],
+   "examples": [
+    {
+     "en": "*Besides* English, she speaks Japanese.",
+     "vi": "Ngoài tiếng Anh, cô ấy còn nói tiếng Nhật."
+    }
+   ],
+   "note": "Khác beside = bên cạnh (vị trí)."
+  },
+  {
+   "id": "lnk_beside",
+   "word": "beside",
+   "pos": "preposition",
+   "ipa": "/bɪˈsaɪd/",
+   "level": "B2",
+   "meaning": "bên cạnh",
+   "definition": "next to",
+   "collocations": [
+    "sit beside",
+    "beside the door"
+   ],
+   "examples": [
+    {
+     "en": "The printer is *beside* the window.",
+     "vi": "Máy in ở cạnh cửa sổ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_despite",
+   "word": "despite",
+   "pos": "preposition",
+   "ipa": "/dɪˈspaɪt/",
+   "level": "B1",
+   "meaning": "mặc dù",
+   "definition": "without being affected by",
+   "collocations": [
+    "despite the rain",
+    "despite being"
+   ],
+   "examples": [
+    {
+     "en": "*Despite* the bad weather, the event was a success.",
+     "vi": "Dù thời tiết xấu, sự kiện vẫn thành công."
+    }
+   ],
+   "note": "despite + danh từ / V-ing (không + mệnh đề)."
+  },
+  {
+   "id": "lnk_spite",
+   "word": "spite",
+   "pos": "noun",
+   "ipa": "/spaɪt/",
+   "level": "B2",
+   "meaning": "(in spite of) mặc dù",
+   "definition": "used in \"in spite of\"",
+   "collocations": [
+    "in spite of"
+   ],
+   "examples": [
+    {
+     "en": "In *spite* of the traffic, we arrived on time.",
+     "vi": "Mặc dù kẹt xe, chúng tôi vẫn đến đúng giờ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_though",
+   "word": "though",
+   "pos": "conjunction",
+   "ipa": "/ðoʊ/",
+   "level": "B1",
+   "meaning": "mặc dù; tuy nhiên",
+   "definition": "although; however",
+   "collocations": [
+    "even though",
+    "as though"
+   ],
+   "examples": [
+    {
+     "en": "*Though* it was late, the store was still busy.",
+     "vi": "Dù đã muộn, cửa hàng vẫn đông khách."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whereas",
+   "word": "whereas",
+   "pos": "conjunction",
+   "ipa": "/ˌwerˈæz/",
+   "level": "B2",
+   "meaning": "trong khi (đối lập)",
+   "definition": "used to compare two different facts",
+   "collocations": [
+    "whereas"
+   ],
+   "examples": [
+    {
+     "en": "Some staff prefer mornings, *whereas* others prefer evenings.",
+     "vi": "Một số nhân viên thích ca sáng, trong khi số khác thích ca tối."
+    }
+   ]
+  },
+  {
+   "id": "lnk_while",
+   "word": "while",
+   "pos": "conjunction",
+   "ipa": "/waɪl/",
+   "level": "B1",
+   "meaning": "trong khi; mặc dù",
+   "definition": "during the time that; although",
+   "collocations": [
+    "while working",
+    "while I agree"
+   ],
+   "examples": [
+    {
+     "en": "*While* I agree with the idea, the cost is too high.",
+     "vi": "Dù tôi đồng ý với ý tưởng, chi phí quá cao."
+    }
+   ]
+  },
+  {
+   "id": "lnk_unless",
+   "word": "unless",
+   "pos": "conjunction",
+   "ipa": "/ənˈles/",
+   "level": "B1",
+   "meaning": "trừ khi",
+   "definition": "except if",
+   "collocations": [
+    "unless otherwise stated"
+   ],
+   "examples": [
+    {
+     "en": "You can't enter *unless* you have an ID card.",
+     "vi": "Bạn không thể vào trừ khi có thẻ nhân viên."
+    }
+   ],
+   "note": "unless = if … not."
+  },
+  {
+   "id": "lnk_otherwise",
+   "word": "otherwise",
+   "pos": "adverb",
+   "ipa": "/ˈʌðərwaɪz/",
+   "level": "B2",
+   "meaning": "nếu không thì; khác",
+   "definition": "if not; differently",
+   "collocations": [
+    "unless otherwise noted"
+   ],
+   "examples": [
+    {
+     "en": "Please book early; *otherwise*, there may be no seats.",
+     "vi": "Vui lòng đặt sớm, nếu không có thể hết chỗ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whether",
+   "word": "whether",
+   "pos": "conjunction",
+   "ipa": "/ˈweðər/",
+   "level": "B1",
+   "meaning": "liệu…có…không",
+   "definition": "used to show a choice or doubt",
+   "collocations": [
+    "whether or not",
+    "ask whether"
+   ],
+   "examples": [
+    {
+     "en": "Please let me know *whether* you can attend.",
+     "vi": "Vui lòng cho tôi biết liệu bạn có tham dự được không."
+    }
+   ]
+  },
+  {
+   "id": "lnk_except",
+   "word": "except",
+   "pos": "preposition",
+   "ipa": "/ɪkˈsept/",
+   "level": "B1",
+   "meaning": "ngoại trừ",
+   "definition": "not including",
+   "collocations": [
+    "except for",
+    "except Sunday"
+   ],
+   "examples": [
+    {
+     "en": "The office is open every day *except* Sunday.",
+     "vi": "Văn phòng mở cửa hằng ngày trừ Chủ nhật."
+    }
+   ]
+  },
+  {
+   "id": "lnk_exception",
+   "word": "exception",
+   "pos": "noun",
+   "ipa": "/ɪkˈsepʃn/",
+   "level": "B2",
+   "meaning": "ngoại lệ",
+   "definition": "something that does not follow the rule",
+   "collocations": [
+    "with the exception of",
+    "make an exception"
+   ],
+   "examples": [
+    {
+     "en": "All staff, with the *exception* of managers, must clock in.",
+     "vi": "Mọi nhân viên, trừ quản lý, phải chấm công."
+    }
+   ]
+  },
+  {
+   "id": "lnk_apart",
+   "word": "apart",
+   "pos": "adverb",
+   "ipa": "/əˈpɑːrt/",
+   "level": "B1",
+   "meaning": "cách xa; ngoài ra",
+   "definition": "separated by distance or time; except",
+   "collocations": [
+    "apart from",
+    "far apart"
+   ],
+   "examples": [
+    {
+     "en": "*Apart* from the price, I like everything about it.",
+     "vi": "Ngoài giá cả, tôi thích mọi thứ ở nó."
+    }
+   ]
+  },
+  {
+   "id": "lnk_aside",
+   "word": "aside",
+   "pos": "adverb",
+   "ipa": "/əˈsaɪd/",
+   "level": "B2",
+   "meaning": "sang một bên",
+   "definition": "to one side; for later use",
+   "collocations": [
+    "aside from",
+    "put aside"
+   ],
+   "examples": [
+    {
+     "en": "We set *aside* $500 for emergencies.",
+     "vi": "Chúng tôi để riêng 500 đô cho trường hợp khẩn cấp."
+    }
+   ]
+  },
+  {
+   "id": "lnk_indeed",
+   "word": "indeed",
+   "pos": "adverb",
+   "ipa": "/ɪnˈdiːd/",
+   "level": "B1",
+   "meaning": "quả thật",
+   "definition": "used to emphasize or confirm",
+   "collocations": [
+    "very … indeed",
+    "indeed"
+   ],
+   "examples": [
+    {
+     "en": "The results were *indeed* impressive.",
+     "vi": "Kết quả quả thật rất ấn tượng."
+    }
+   ]
+  },
+  {
+   "id": "lnk_meanwhile",
+   "word": "meanwhile",
+   "pos": "adverb",
+   "ipa": "/ˈmiːnwaɪl/",
+   "level": "B1",
+   "meaning": "trong khi đó",
+   "definition": "at the same time",
+   "collocations": [
+    "in the meanwhile"
+   ],
+   "examples": [
+    {
+     "en": "The new office isn't ready. *Meanwhile*, we'll work from home.",
+     "vi": "Văn phòng mới chưa xong. Trong khi đó, chúng tôi làm việc tại nhà."
+    }
+   ]
+  },
+  {
+   "id": "lnk_eventually",
+   "word": "eventually",
+   "pos": "adverb",
+   "ipa": "/ɪˈventʃuəli/",
+   "level": "B1",
+   "meaning": "cuối cùng",
+   "definition": "after a long time",
+   "collocations": [
+    "eventually agree"
+   ],
+   "examples": [
+    {
+     "en": "After many delays, the package *eventually* arrived.",
+     "vi": "Sau nhiều lần trễ, gói hàng cuối cùng cũng đến."
+    }
+   ]
+  },
+  {
+   "id": "lnk_ultimately",
+   "word": "ultimately",
+   "pos": "adverb",
+   "ipa": "/ˈʌltɪmətli/",
+   "level": "B2",
+   "meaning": "rốt cuộc",
+   "definition": "in the end; most importantly",
+   "collocations": [
+    "ultimately responsible"
+   ],
+   "examples": [
+    {
+     "en": "*Ultimately*, the decision is yours.",
+     "vi": "Rốt cuộc, quyết định là của bạn."
+    }
+   ]
+  },
+  {
+   "id": "lnk_ultimate",
+   "word": "ultimate",
+   "pos": "adjective",
+   "ipa": "/ˈʌltɪmət/",
+   "level": "B2",
+   "meaning": "cuối cùng, tối thượng",
+   "definition": "final; the best",
+   "collocations": [
+    "the ultimate goal",
+    "ultimate guide"
+   ],
+   "examples": [
+    {
+     "en": "Our *ultimate* goal is to become the market leader.",
+     "vi": "Mục tiêu tối thượng của chúng tôi là dẫn đầu thị trường."
+    }
+   ]
+  },
+  {
+   "id": "lnk_essentially",
+   "word": "essentially",
+   "pos": "adverb",
+   "ipa": "/ɪˈsenʃəli/",
+   "level": "B2",
+   "meaning": "về bản chất",
+   "definition": "basically",
+   "collocations": [
+    "essentially the same"
+   ],
+   "examples": [
+    {
+     "en": "The two jobs are *essentially* the same.",
+     "vi": "Hai công việc về bản chất là giống nhau."
+    }
+   ]
+  },
+  {
+   "id": "lnk_basically",
+   "word": "basically",
+   "pos": "adverb",
+   "ipa": "/ˈbeɪsɪkli/",
+   "level": "B2",
+   "meaning": "về cơ bản",
+   "definition": "in the most important ways",
+   "collocations": [
+    "basically the same"
+   ],
+   "examples": [
+    {
+     "en": "*Basically*, we need more staff.",
+     "vi": "Về cơ bản, chúng ta cần thêm nhân sự."
+    }
+   ]
+  },
+  {
+   "id": "lnk_apparently",
+   "word": "apparently",
+   "pos": "adverb",
+   "ipa": "/əˈpærəntli/",
+   "level": "B2",
+   "meaning": "nghe nói là, có vẻ",
+   "definition": "according to what you have heard",
+   "collocations": [
+    "apparently not"
+   ],
+   "examples": [
+    {
+     "en": "*Apparently*, the meeting has been cancelled.",
+     "vi": "Nghe nói cuộc họp đã bị hủy."
+    }
+   ]
+  },
+  {
+   "id": "lnk_apparent",
+   "word": "apparent",
+   "pos": "adjective",
+   "ipa": "/əˈpærənt/",
+   "level": "B2",
+   "meaning": "rõ ràng; có vẻ",
+   "definition": "easy to see; seeming real",
+   "collocations": [
+    "it became apparent that",
+    "for no apparent reason"
+   ],
+   "examples": [
+    {
+     "en": "It soon became *apparent* that we needed help.",
+     "vi": "Rõ ràng chúng tôi cần sự giúp đỡ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_obviously",
+   "word": "obviously",
+   "pos": "adverb",
+   "ipa": "/ˈɑːbviəsli/",
+   "level": "B1",
+   "meaning": "rõ ràng là",
+   "definition": "clearly",
+   "collocations": [
+    "obviously not"
+   ],
+   "examples": [
+    {
+     "en": "*Obviously*, safety comes first.",
+     "vi": "Rõ ràng an toàn là trên hết."
+    }
+   ]
+  },
+  {
+   "id": "lnk_obvious",
+   "word": "obvious",
+   "pos": "adjective",
+   "ipa": "/ˈɑːbviəs/",
+   "level": "B1",
+   "meaning": "hiển nhiên",
+   "definition": "easy to see or understand",
+   "collocations": [
+    "an obvious mistake",
+    "it's obvious that"
+   ],
+   "examples": [
+    {
+     "en": "The answer seemed *obvious*.",
+     "vi": "Câu trả lời có vẻ hiển nhiên."
+    }
+   ]
+  },
+  {
+   "id": "lnk_evident",
+   "word": "evident",
+   "pos": "adjective",
+   "ipa": "/ˈevɪdənt/",
+   "level": "B2",
+   "meaning": "rõ ràng",
+   "definition": "clear",
+   "collocations": [
+    "it is evident that"
+   ],
+   "examples": [
+    {
+     "en": "It was *evident* that she had prepared well.",
+     "vi": "Rõ ràng cô ấy đã chuẩn bị kỹ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_surely",
+   "word": "surely",
+   "pos": "adverb",
+   "ipa": "/ˈʃʊrli/",
+   "level": "B1",
+   "meaning": "chắc chắn là",
+   "definition": "used to show you are sure or surprised",
+   "collocations": [
+    "surely not"
+   ],
+   "examples": [
+    {
+     "en": "*Surely* someone in the office knows the password.",
+     "vi": "Chắc chắn ai đó trong văn phòng biết mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "lnk_truly",
+   "word": "truly",
+   "pos": "adverb",
+   "ipa": "/ˈtruːli/",
+   "level": "B2",
+   "meaning": "thực sự",
+   "definition": "sincerely; really",
+   "collocations": [
+    "truly sorry",
+    "yours truly"
+   ],
+   "examples": [
+    {
+     "en": "We are *truly* sorry for the inconvenience.",
+     "vi": "Chúng tôi thực sự xin lỗi vì sự bất tiện."
+    }
+   ]
+  },
+  {
+   "id": "lnk_literally",
+   "word": "literally",
+   "pos": "adverb",
+   "ipa": "/ˈlɪtərəli/",
+   "level": "B2",
+   "meaning": "theo nghĩa đen; thật sự",
+   "definition": "in the exact meaning; (informal) really",
+   "collocations": [
+    "literally translated"
+   ],
+   "examples": [
+    {
+     "en": "I *literally* ran to the station.",
+     "vi": "Tôi đúng là đã chạy tới ga."
+    }
+   ]
+  },
+  {
+   "id": "lnk_simply",
+   "word": "simply",
+   "pos": "adverb",
+   "ipa": "/ˈsɪmpli/",
+   "level": "B1",
+   "meaning": "đơn giản là",
+   "definition": "just; in an easy way",
+   "collocations": [
+    "simply click",
+    "put simply"
+   ],
+   "examples": [
+    {
+     "en": "*Simply* click the link to register.",
+     "vi": "Chỉ cần nhấp vào đường dẫn để đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "lnk_somehow",
+   "word": "somehow",
+   "pos": "adverb",
+   "ipa": "/ˈsʌmhaʊ/",
+   "level": "B2",
+   "meaning": "bằng cách nào đó",
+   "definition": "in a way that is not known",
+   "collocations": [
+    "somehow manage"
+   ],
+   "examples": [
+    {
+     "en": "We *somehow* finished the project on time.",
+     "vi": "Bằng cách nào đó chúng tôi đã xong dự án đúng hạn."
+    }
+   ]
+  },
+  {
+   "id": "lnk_somewhat",
+   "word": "somewhat",
+   "pos": "adverb",
+   "ipa": "/ˈsʌmwʌt/",
+   "level": "B2",
+   "meaning": "hơi, phần nào",
+   "definition": "to some degree",
+   "collocations": [
+    "somewhat different",
+    "somewhat surprised"
+   ],
+   "examples": [
+    {
+     "en": "The results were *somewhat* disappointing.",
+     "vi": "Kết quả hơi đáng thất vọng."
+    }
+   ]
+  },
+  {
+   "id": "lnk_fairly",
+   "word": "fairly",
+   "pos": "adverb",
+   "ipa": "/ˈferli/",
+   "level": "B1",
+   "meaning": "khá; công bằng",
+   "definition": "quite; in a fair way",
+   "collocations": [
+    "fairly easy",
+    "treat fairly"
+   ],
+   "examples": [
+    {
+     "en": "The test was *fairly* easy.",
+     "vi": "Bài kiểm tra khá dễ."
+    }
+   ]
+  },
+  {
+   "id": "lnk_hardly",
+   "word": "hardly",
+   "pos": "adverb",
+   "ipa": "/ˈhɑːrdli/",
+   "level": "B1",
+   "meaning": "hầu như không",
+   "definition": "almost not",
+   "collocations": [
+    "hardly ever",
+    "hardly any"
+   ],
+   "examples": [
+    {
+     "en": "I *hardly* ever take a day off.",
+     "vi": "Tôi hầu như không bao giờ nghỉ phép."
+    }
+   ],
+   "note": "Không nhầm với hard (chăm chỉ)."
+  },
+  {
+   "id": "lnk_barely",
+   "word": "barely",
+   "pos": "adverb",
+   "ipa": "/ˈberli/",
+   "level": "B2",
+   "meaning": "vừa đủ, suýt không",
+   "definition": "only just; almost not",
+   "collocations": [
+    "barely enough",
+    "barely make it"
+   ],
+   "examples": [
+    {
+     "en": "We *barely* had time to eat lunch.",
+     "vi": "Chúng tôi hầu như không có thời gian ăn trưa."
+    }
+   ]
+  },
+  {
+   "id": "lnk_nor",
+   "word": "nor",
+   "pos": "conjunction",
+   "ipa": "/nɔːr/",
+   "level": "B1",
+   "meaning": "cũng không",
+   "definition": "used after neither or not",
+   "collocations": [
+    "neither … nor"
+   ],
+   "examples": [
+    {
+     "en": "Neither the manager *nor* his assistant was available.",
+     "vi": "Cả quản lý lẫn trợ lý đều không có mặt."
+    }
+   ]
+  },
+  {
+   "id": "lnk_neither",
+   "word": "neither",
+   "pos": "determiner",
+   "ipa": "/ˈniːðər/",
+   "level": "B1",
+   "meaning": "không cái nào (trong hai)",
+   "definition": "not one or the other of two",
+   "collocations": [
+    "neither of",
+    "neither … nor"
+   ],
+   "examples": [
+    {
+     "en": "*Neither* option is perfect.",
+     "vi": "Không lựa chọn nào hoàn hảo."
+    }
+   ],
+   "note": "Động từ chia theo danh từ gần nor nhất."
+  },
+  {
+   "id": "lnk_via",
+   "word": "via",
+   "pos": "preposition",
+   "ipa": "/ˈvaɪə/",
+   "level": "B2",
+   "meaning": "qua, thông qua",
+   "definition": "through a place or by means of",
+   "collocations": [
+    "via e-mail",
+    "fly via Singapore"
+   ],
+   "examples": [
+    {
+     "en": "Please send the file *via* e-mail.",
+     "vi": "Vui lòng gửi tệp qua e-mail."
+    }
+   ]
+  },
+  {
+   "id": "lnk_upon",
+   "word": "upon",
+   "pos": "preposition",
+   "ipa": "/əˈpɑːn/",
+   "level": "B2",
+   "meaning": "khi; trên (trang trọng)",
+   "definition": "on; immediately after",
+   "collocations": [
+    "upon arrival",
+    "upon request"
+   ],
+   "examples": [
+    {
+     "en": "Payment is due *upon* receipt of the invoice.",
+     "vi": "Thanh toán ngay khi nhận hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "lnk_within",
+   "word": "within",
+   "pos": "preposition",
+   "ipa": "/wɪˈðɪn/",
+   "level": "B1",
+   "meaning": "trong vòng; bên trong",
+   "definition": "inside a period or area",
+   "collocations": [
+    "within 24 hours",
+    "within the company"
+   ],
+   "examples": [
+    {
+     "en": "We will reply *within* two business days.",
+     "vi": "Chúng tôi sẽ trả lời trong vòng hai ngày làm việc."
+    }
+   ]
+  },
+  {
+   "id": "lnk_throughout",
+   "word": "throughout",
+   "pos": "preposition",
+   "ipa": "/θruːˈaʊt/",
+   "level": "B1",
+   "meaning": "khắp; suốt",
+   "definition": "in every part of; during the whole time",
+   "collocations": [
+    "throughout the year",
+    "throughout the building"
+   ],
+   "examples": [
+    {
+     "en": "Free Wi-Fi is available *throughout* the hotel.",
+     "vi": "Có Wi-Fi miễn phí khắp khách sạn."
+    }
+   ]
+  },
+  {
+   "id": "lnk_beyond",
+   "word": "beyond",
+   "pos": "preposition",
+   "ipa": "/bɪˈjɑːnd/",
+   "level": "B2",
+   "meaning": "vượt quá; bên kia",
+   "definition": "further than; outside the limits of",
+   "collocations": [
+    "beyond our control",
+    "beyond expectations"
+   ],
+   "examples": [
+    {
+     "en": "The delay was due to circumstances *beyond* our control.",
+     "vi": "Sự chậm trễ do hoàn cảnh ngoài tầm kiểm soát của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "lnk_till",
+   "word": "till",
+   "pos": "conjunction",
+   "ipa": "/tɪl/",
+   "level": "B1",
+   "meaning": "cho đến khi",
+   "definition": "until",
+   "collocations": [
+    "till late",
+    "from 9 till 5"
+   ],
+   "examples": [
+    {
+     "en": "The shop is open *till* 10 p.m.",
+     "vi": "Cửa hàng mở đến 10 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "lnk_once",
+   "word": "once",
+   "pos": "conjunction",
+   "ipa": "/wʌns/",
+   "level": "B1",
+   "meaning": "một khi",
+   "definition": "as soon as; when",
+   "collocations": [
+    "once you finish"
+   ],
+   "examples": [
+    {
+     "en": "*Once* you receive the code, enter it on the website.",
+     "vi": "Một khi nhận được mã, hãy nhập nó trên website."
+    }
+   ]
+  },
+  {
+   "id": "lnk_since",
+   "word": "since",
+   "pos": "conjunction",
+   "ipa": "/sɪns/",
+   "level": "B1",
+   "meaning": "vì; kể từ",
+   "definition": "because; from a time in the past",
+   "collocations": [
+    "since then",
+    "ever since"
+   ],
+   "examples": [
+    {
+     "en": "*Since* you're here, can you help me with this?",
+     "vi": "Vì bạn đang ở đây, giúp tôi việc này được không?"
+    }
+   ]
+  },
+  {
+   "id": "lnk_so_called",
+   "word": "so-called",
+   "pos": "adjective",
+   "ipa": "/ˌsoʊ ˈkɔːld/",
+   "level": "B2",
+   "meaning": "cái gọi là",
+   "definition": "used to show that a name is not suitable",
+   "collocations": [
+    "the so-called experts"
+   ],
+   "examples": [
+    {
+     "en": "The *so-called* \"free\" gift cost me $10 in shipping.",
+     "vi": "Món quà cái gọi là \"miễn phí\" tốn của tôi 10 đô phí ship."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whatever",
+   "word": "whatever",
+   "pos": "pronoun",
+   "ipa": "/wʌtˈevər/",
+   "level": "B1",
+   "meaning": "bất cứ điều gì",
+   "definition": "anything or everything",
+   "collocations": [
+    "whatever you want",
+    "whatever happens"
+   ],
+   "examples": [
+    {
+     "en": "We'll do *whatever* we can to help.",
+     "vi": "Chúng tôi sẽ làm mọi điều có thể để giúp."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whenever",
+   "word": "whenever",
+   "pos": "conjunction",
+   "ipa": "/wenˈevər/",
+   "level": "B1",
+   "meaning": "bất cứ khi nào",
+   "definition": "at any time that",
+   "collocations": [
+    "whenever possible"
+   ],
+   "examples": [
+    {
+     "en": "Call me *whenever* you need help.",
+     "vi": "Gọi tôi bất cứ khi nào bạn cần giúp."
+    }
+   ]
+  },
+  {
+   "id": "lnk_wherever",
+   "word": "wherever",
+   "pos": "conjunction",
+   "ipa": "/werˈevər/",
+   "level": "B2",
+   "meaning": "bất cứ đâu",
+   "definition": "in any place",
+   "collocations": [
+    "wherever possible"
+   ],
+   "examples": [
+    {
+     "en": "You can work *wherever* you like.",
+     "vi": "Bạn có thể làm việc ở bất cứ đâu bạn thích."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whoever",
+   "word": "whoever",
+   "pos": "pronoun",
+   "ipa": "/huːˈevər/",
+   "level": "B2",
+   "meaning": "bất cứ ai",
+   "definition": "any person who",
+   "collocations": [
+    "whoever wins"
+   ],
+   "examples": [
+    {
+     "en": "*Whoever* arrives first should open the office.",
+     "vi": "Ai đến trước thì mở cửa văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "lnk_whom",
+   "word": "whom",
+   "pos": "pronoun",
+   "ipa": "/huːm/",
+   "level": "B2",
+   "meaning": "người mà (tân ngữ)",
+   "definition": "used instead of \"who\" as an object",
+   "collocations": [
+    "to whom",
+    "with whom"
+   ],
+   "examples": [
+    {
+     "en": "To *whom* should I send the report?",
+     "vi": "Tôi nên gửi báo cáo cho ai?"
+    }
+   ],
+   "note": "Part 5: whom sau giới từ hoặc làm tân ngữ."
+  },
+  {
+   "id": "lnk_ought",
+   "word": "ought",
+   "pos": "modal verb",
+   "ipa": "/ɔːt/",
+   "level": "B1",
+   "meaning": "nên",
+   "definition": "should",
+   "collocations": [
+    "ought to"
+   ],
+   "examples": [
+    {
+     "en": "You *ought* to check the contract before signing.",
+     "vi": "Bạn nên kiểm tra hợp đồng trước khi ký."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

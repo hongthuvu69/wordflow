@@ -1,0 +1,793 @@
+{
+ "id": "safety",
+ "order": 35,
+ "icon": "🚨",
+ "level": "B2",
+ "title": "Safety & Emergencies",
+ "title_vi": "An toàn & Khẩn cấp",
+ "description": "Thiên tai, cháy nổ, cảnh báo, sơ tán, sự cố: rất hay gặp trong thông báo Part 4 và nội quy tòa nhà.",
+ "words": [
+  {
+   "id": "saf_safety",
+   "word": "safety",
+   "pos": "noun",
+   "ipa": "/ˈseɪfti/",
+   "level": "B1",
+   "meaning": "sự an toàn",
+   "definition": "the state of being safe",
+   "collocations": [
+    "safety rules",
+    "for your safety",
+    "safety equipment"
+   ],
+   "examples": [
+    {
+     "en": "For your *safety*, please hold the handrail.",
+     "vi": "Vì sự an toàn của bạn, vui lòng vịn tay vịn."
+    }
+   ]
+  },
+  {
+   "id": "saf_alarm",
+   "word": "alarm",
+   "pos": "noun",
+   "ipa": "/əˈlɑːrm/",
+   "level": "B1",
+   "meaning": "chuông báo động",
+   "definition": "a device that warns of danger",
+   "collocations": [
+    "fire alarm",
+    "set the alarm",
+    "false alarm"
+   ],
+   "examples": [
+    {
+     "en": "The fire *alarm* will be tested at 10 a.m.",
+     "vi": "Chuông báo cháy sẽ được kiểm tra lúc 10 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "saf_warn",
+   "word": "warn",
+   "pos": "verb",
+   "ipa": "/wɔːrn/",
+   "level": "B1",
+   "meaning": "cảnh báo",
+   "definition": "to tell someone about possible danger",
+   "collocations": [
+    "warn someone about",
+    "warn that"
+   ],
+   "examples": [
+    {
+     "en": "Forecasters *warned* that the storm could be strong.",
+     "vi": "Nhà dự báo cảnh báo cơn bão có thể mạnh."
+    }
+   ]
+  },
+  {
+   "id": "saf_warning",
+   "word": "warning",
+   "pos": "noun",
+   "ipa": "/ˈwɔːrnɪŋ/",
+   "level": "B1",
+   "meaning": "lời cảnh báo",
+   "definition": "a statement about possible danger",
+   "collocations": [
+    "without warning",
+    "warning sign",
+    "storm warning"
+   ],
+   "examples": [
+    {
+     "en": "A storm *warning* has been issued for the coast.",
+     "vi": "Cảnh báo bão đã được ban bố cho vùng ven biển."
+    }
+   ]
+  },
+  {
+   "id": "saf_fire",
+   "word": "fire",
+   "pos": "noun",
+   "ipa": "/ˈfaɪər/",
+   "level": "B1",
+   "meaning": "đám cháy",
+   "definition": "flames that burn and destroy",
+   "collocations": [
+    "catch fire",
+    "fire exit",
+    "fire drill"
+   ],
+   "examples": [
+    {
+     "en": "There will be a *fire* drill on Thursday.",
+     "vi": "Sẽ có diễn tập phòng cháy vào thứ Năm."
+    }
+   ]
+  },
+  {
+   "id": "saf_firefighter",
+   "word": "firefighter",
+   "pos": "noun",
+   "ipa": "/ˈfaɪərfaɪtər/",
+   "level": "B2",
+   "meaning": "lính cứu hỏa",
+   "definition": "a person whose job is to stop fires",
+   "collocations": [
+    "firefighters arrived"
+   ],
+   "examples": [
+    {
+     "en": "*Firefighters* put out the fire quickly.",
+     "vi": "Lính cứu hỏa dập tắt đám cháy nhanh chóng."
+    }
+   ]
+  },
+  {
+   "id": "saf_burn",
+   "word": "burn",
+   "pos": "verb",
+   "ipa": "/bɜːrn/",
+   "level": "B2",
+   "meaning": "cháy; làm bỏng",
+   "definition": "to be on fire; to damage with heat",
+   "collocations": [
+    "burn down",
+    "burn your hand"
+   ],
+   "examples": [
+    {
+     "en": "The old factory *burned* down last year.",
+     "vi": "Nhà máy cũ bị thiêu rụi năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "saf_exit",
+   "word": "exit",
+   "pos": "noun",
+   "ipa": "/ˈeksɪt/",
+   "level": "B2",
+   "meaning": "lối ra",
+   "definition": "a way out of a building",
+   "collocations": [
+    "emergency exit",
+    "fire exit"
+   ],
+   "examples": [
+    {
+     "en": "Please keep the emergency *exits* clear.",
+     "vi": "Vui lòng giữ lối thoát hiểm thông thoáng."
+    }
+   ]
+  },
+  {
+   "id": "saf_evacuate",
+   "word": "evacuate",
+   "pos": "verb",
+   "ipa": "/ɪˈvækjueɪt/",
+   "level": "C1",
+   "meaning": "sơ tán",
+   "definition": "to move people away from danger",
+   "collocations": [
+    "evacuate the building"
+   ],
+   "examples": [
+    {
+     "en": "Staff were *evacuated* after the alarm went off.",
+     "vi": "Nhân viên được sơ tán sau khi chuông báo động vang lên."
+    }
+   ]
+  },
+  {
+   "id": "saf_incident",
+   "word": "incident",
+   "pos": "noun",
+   "ipa": "/ˈɪnsɪdənt/",
+   "level": "B2",
+   "meaning": "sự cố, vụ việc",
+   "definition": "an event, often unpleasant",
+   "collocations": [
+    "report an incident",
+    "without incident"
+   ],
+   "examples": [
+    {
+     "en": "Please report any *incident* to your supervisor.",
+     "vi": "Vui lòng báo mọi sự cố cho người giám sát."
+    }
+   ]
+  },
+  {
+   "id": "saf_accident",
+   "word": "accident",
+   "pos": "noun",
+   "ipa": "/ˈæksɪdənt/",
+   "level": "A2",
+   "meaning": "tai nạn",
+   "definition": "an unexpected event causing damage or injury",
+   "collocations": [
+    "car accident",
+    "by accident"
+   ],
+   "examples": [
+    {
+     "en": "Nobody was hurt in the *accident*.",
+     "vi": "Không ai bị thương trong vụ tai nạn."
+    }
+   ]
+  },
+  {
+   "id": "saf_accidentally",
+   "word": "accidentally",
+   "pos": "adverb",
+   "ipa": "/ˌæksɪˈdentəli/",
+   "level": "B2",
+   "meaning": "vô tình",
+   "definition": "by chance; without meaning to",
+   "collocations": [
+    "accidentally delete",
+    "accidentally break"
+   ],
+   "examples": [
+    {
+     "en": "I *accidentally* sent the e-mail to the wrong person.",
+     "vi": "Tôi vô tình gửi e-mail nhầm người."
+    }
+   ]
+  },
+  {
+   "id": "saf_earthquake",
+   "word": "earthquake",
+   "pos": "noun",
+   "ipa": "/ˈɜːrθkweɪk/",
+   "level": "B1",
+   "meaning": "động đất",
+   "definition": "a sudden shaking of the ground",
+   "collocations": [
+    "a strong earthquake"
+   ],
+   "examples": [
+    {
+     "en": "The building is designed to survive *earthquakes*.",
+     "vi": "Tòa nhà được thiết kế để chịu được động đất."
+    }
+   ]
+  },
+  {
+   "id": "saf_hurricane",
+   "word": "hurricane",
+   "pos": "noun",
+   "ipa": "/ˈhɜːrəkeɪn/",
+   "level": "B1",
+   "meaning": "bão lớn (Đại Tây Dương)",
+   "definition": "a violent storm with strong winds",
+   "collocations": [
+    "hurricane season"
+   ],
+   "examples": [
+    {
+     "en": "The *hurricane* forced the airport to close.",
+     "vi": "Cơn bão lớn buộc sân bay phải đóng cửa."
+    }
+   ]
+  },
+  {
+   "id": "saf_tsunami",
+   "word": "tsunami",
+   "pos": "noun",
+   "ipa": "/tsuːˈnɑːmi/",
+   "level": "B2",
+   "meaning": "sóng thần",
+   "definition": "a very large wave caused by an earthquake",
+   "collocations": [
+    "tsunami warning"
+   ],
+   "examples": [
+    {
+     "en": "A *tsunami* warning was issued after the earthquake.",
+     "vi": "Cảnh báo sóng thần được ban bố sau trận động đất."
+    }
+   ]
+  },
+  {
+   "id": "saf_erupt",
+   "word": "erupt",
+   "pos": "verb",
+   "ipa": "/ɪˈrʌpt/",
+   "level": "B2",
+   "meaning": "phun trào; bùng nổ",
+   "definition": "to throw out fire (volcano); to start suddenly",
+   "collocations": [
+    "the volcano erupted",
+    "fighting erupted"
+   ],
+   "examples": [
+    {
+     "en": "The volcano *erupted* last night.",
+     "vi": "Núi lửa phun trào tối qua."
+    }
+   ]
+  },
+  {
+   "id": "saf_collapse",
+   "word": "collapse",
+   "pos": "verb",
+   "ipa": "/kəˈlæps/",
+   "level": "B2",
+   "meaning": "sụp đổ",
+   "definition": "to fall down suddenly; to fail suddenly",
+   "collocations": [
+    "the roof collapsed",
+    "the business collapsed"
+   ],
+   "examples": [
+    {
+     "en": "The old bridge *collapsed* during the flood.",
+     "vi": "Cây cầu cũ sập trong trận lũ."
+    }
+   ]
+  },
+  {
+   "id": "saf_crack",
+   "word": "crack",
+   "pos": "noun",
+   "ipa": "/kræk/",
+   "level": "B2",
+   "meaning": "vết nứt",
+   "definition": "a thin line where something is broken",
+   "collocations": [
+    "a crack in the wall"
+   ],
+   "examples": [
+    {
+     "en": "There's a *crack* in the window.",
+     "vi": "Có một vết nứt trên cửa sổ."
+    }
+   ]
+  },
+  {
+   "id": "saf_shelter",
+   "word": "shelter",
+   "pos": "noun",
+   "ipa": "/ˈʃeltər/",
+   "level": "B2",
+   "meaning": "nơi trú ẩn",
+   "definition": "a place that protects from bad weather or danger",
+   "collocations": [
+    "take shelter",
+    "animal shelter"
+   ],
+   "examples": [
+    {
+     "en": "People took *shelter* in the school during the storm.",
+     "vi": "Người dân trú ẩn trong trường học khi có bão."
+    }
+   ]
+  },
+  {
+   "id": "saf_panic",
+   "word": "panic",
+   "pos": "noun",
+   "ipa": "/ˈpænɪk/",
+   "level": "B2",
+   "meaning": "sự hoảng loạn",
+   "definition": "sudden strong fear",
+   "collocations": [
+    "in a panic",
+    "don't panic"
+   ],
+   "examples": [
+    {
+     "en": "Don't *panic*; just follow the instructions.",
+     "vi": "Đừng hoảng; hãy làm theo hướng dẫn."
+    }
+   ],
+   "note": "Động từ: panic – panicked."
+  },
+  {
+   "id": "saf_hurry",
+   "word": "hurry",
+   "pos": "verb",
+   "ipa": "/ˈhɜːri/",
+   "level": "B1",
+   "meaning": "vội vàng",
+   "definition": "to do something quickly",
+   "collocations": [
+    "hurry up",
+    "in a hurry"
+   ],
+   "examples": [
+    {
+     "en": "We need to *hurry*; the train leaves in five minutes.",
+     "vi": "Chúng ta phải nhanh lên, tàu chạy sau năm phút nữa."
+    }
+   ]
+  },
+  {
+   "id": "saf_rush",
+   "word": "rush",
+   "pos": "verb",
+   "ipa": "/rʌʃ/",
+   "level": "B2",
+   "meaning": "lao, vội vã",
+   "definition": "to move or do something very quickly",
+   "collocations": [
+    "rush to",
+    "rush hour",
+    "rush order"
+   ],
+   "examples": [
+    {
+     "en": "He was *rushed* to hospital.",
+     "vi": "Anh ấy được đưa gấp đến bệnh viện."
+    }
+   ],
+   "note": "rush hour = giờ cao điểm."
+  },
+  {
+   "id": "saf_guarantee",
+   "word": "guarantee",
+   "pos": "verb",
+   "ipa": "/ˌɡærənˈtiː/",
+   "level": "B2",
+   "meaning": "bảo đảm",
+   "definition": "to promise something will happen",
+   "collocations": [
+    "guarantee delivery",
+    "guaranteed"
+   ],
+   "examples": [
+    {
+     "en": "We *guarantee* delivery within 48 hours.",
+     "vi": "Chúng tôi bảo đảm giao hàng trong 48 giờ."
+    }
+   ]
+  },
+  {
+   "id": "saf_protection",
+   "word": "protection",
+   "pos": "noun",
+   "ipa": "/prəˈtekʃn/",
+   "level": "B2",
+   "meaning": "sự bảo vệ",
+   "definition": "keeping someone safe",
+   "collocations": [
+    "eye protection",
+    "protection from"
+   ],
+   "examples": [
+    {
+     "en": "Wear eye *protection* when using this machine.",
+     "vi": "Đeo kính bảo hộ khi dùng máy này."
+    }
+   ]
+  },
+  {
+   "id": "saf_risk_assessment",
+   "word": "risk assessment",
+   "pos": "noun",
+   "ipa": "/rɪsk əˈsesmənt/",
+   "level": "TOEIC",
+   "meaning": "đánh giá rủi ro",
+   "definition": "a check of possible dangers",
+   "collocations": [
+    "carry out a risk assessment"
+   ],
+   "examples": [
+    {
+     "en": "A *risk assessment* is required for all events.",
+     "vi": "Mọi sự kiện đều phải đánh giá rủi ro."
+    }
+   ]
+  },
+  {
+   "id": "saf_equip",
+   "word": "equip",
+   "pos": "verb",
+   "ipa": "/ɪˈkwɪp/",
+   "level": "B2",
+   "meaning": "trang bị",
+   "definition": "to provide the tools needed",
+   "collocations": [
+    "be equipped with",
+    "fully equipped"
+   ],
+   "examples": [
+    {
+     "en": "All rooms are *equipped* with air conditioning.",
+     "vi": "Tất cả phòng đều được trang bị điều hòa."
+    }
+   ]
+  },
+  {
+   "id": "saf_equipment",
+   "word": "equipment",
+   "pos": "noun",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "level": "A2",
+   "meaning": "thiết bị",
+   "definition": "the tools needed for an activity",
+   "collocations": [
+    "safety equipment",
+    "office equipment"
+   ],
+   "examples": [
+    {
+     "en": "Please return all *equipment* after use.",
+     "vi": "Vui lòng trả lại mọi thiết bị sau khi dùng."
+    }
+   ],
+   "note": "Không đếm được: a piece of equipment."
+  },
+  {
+   "id": "saf_inspect",
+   "word": "inspect",
+   "pos": "verb",
+   "ipa": "/ɪnˈspekt/",
+   "level": "C1",
+   "meaning": "kiểm tra, thanh tra",
+   "definition": "to look at something carefully to check it",
+   "collocations": [
+    "inspect the building",
+    "be inspected"
+   ],
+   "examples": [
+    {
+     "en": "The elevators are *inspected* every month.",
+     "vi": "Thang máy được kiểm tra hằng tháng."
+    }
+   ]
+  },
+  {
+   "id": "saf_inspection",
+   "word": "inspection",
+   "pos": "noun",
+   "ipa": "/ɪnˈspekʃn/",
+   "level": "C1",
+   "meaning": "sự kiểm tra",
+   "definition": "an official check",
+   "collocations": [
+    "safety inspection",
+    "on inspection"
+   ],
+   "examples": [
+    {
+     "en": "The factory passed its safety *inspection*.",
+     "vi": "Nhà máy đã qua đợt kiểm tra an toàn."
+    }
+   ]
+  },
+  {
+   "id": "saf_hazard",
+   "word": "hazard",
+   "pos": "noun",
+   "ipa": "/ˈhæzərd/",
+   "level": "C1",
+   "meaning": "mối nguy hiểm",
+   "definition": "something that can be dangerous",
+   "collocations": [
+    "safety hazard",
+    "fire hazard"
+   ],
+   "examples": [
+    {
+     "en": "Boxes in the hallway are a fire *hazard*.",
+     "vi": "Hộp để ngoài hành lang là nguy cơ gây cháy."
+    }
+   ]
+  },
+  {
+   "id": "saf_caution",
+   "word": "caution",
+   "pos": "noun",
+   "ipa": "/ˈkɔːʃn/",
+   "level": "C1",
+   "meaning": "sự thận trọng",
+   "definition": "care to avoid danger",
+   "collocations": [
+    "use caution",
+    "with caution",
+    "caution: wet floor"
+   ],
+   "examples": [
+    {
+     "en": "Please use *caution* when the floor is wet.",
+     "vi": "Vui lòng cẩn thận khi sàn ướt."
+    }
+   ]
+  },
+  {
+   "id": "saf_slip",
+   "word": "slip",
+   "pos": "verb",
+   "ipa": "/slɪp/",
+   "level": "B2",
+   "meaning": "trượt",
+   "definition": "to slide by accident",
+   "collocations": [
+    "slip on the ice",
+    "slip and fall"
+   ],
+   "examples": [
+    {
+     "en": "Be careful not to *slip* on the wet floor.",
+     "vi": "Cẩn thận kẻo trượt trên sàn ướt."
+    }
+   ]
+  },
+  {
+   "id": "saf_spill",
+   "word": "spill",
+   "pos": "verb",
+   "ipa": "/spɪl/",
+   "level": "B2",
+   "meaning": "làm đổ, tràn",
+   "definition": "to let liquid fall out by accident",
+   "collocations": [
+    "spill coffee",
+    "oil spill"
+   ],
+   "examples": [
+    {
+     "en": "I *spilled* coffee on my keyboard.",
+     "vi": "Tôi làm đổ cà phê lên bàn phím."
+    }
+   ]
+  },
+  {
+   "id": "saf_leak",
+   "word": "leak",
+   "pos": "noun",
+   "ipa": "/liːk/",
+   "level": "C1",
+   "meaning": "chỗ rò rỉ",
+   "definition": "a hole that lets liquid or gas escape",
+   "collocations": [
+    "water leak",
+    "gas leak"
+   ],
+   "examples": [
+    {
+     "en": "There's a *leak* in the ceiling.",
+     "vi": "Trần nhà bị dột."
+    }
+   ]
+  },
+  {
+   "id": "saf_smoke",
+   "word": "smoke",
+   "pos": "noun",
+   "ipa": "/smoʊk/",
+   "level": "A2",
+   "meaning": "khói",
+   "definition": "the grey gas from something burning",
+   "collocations": [
+    "smoke alarm",
+    "no smoking"
+   ],
+   "examples": [
+    {
+     "en": "The *smoke* alarm went off in the kitchen.",
+     "vi": "Chuông báo khói kêu trong bếp."
+    }
+   ]
+  },
+  {
+   "id": "saf_first_aid",
+   "word": "first aid",
+   "pos": "noun",
+   "ipa": "/ˌfɜːrst ˈeɪd/",
+   "level": "TOEIC",
+   "meaning": "sơ cứu",
+   "definition": "basic medical help given immediately",
+   "collocations": [
+    "first aid kit",
+    "give first aid"
+   ],
+   "examples": [
+    {
+     "en": "All supervisors are trained in *first aid*.",
+     "vi": "Mọi giám sát viên đều được huấn luyện sơ cứu."
+    }
+   ]
+  },
+  {
+   "id": "saf_stable",
+   "word": "stable",
+   "pos": "adjective",
+   "ipa": "/ˈsteɪbl/",
+   "level": "B2",
+   "meaning": "ổn định",
+   "definition": "not likely to change or fall",
+   "collocations": [
+    "stable condition",
+    "stable prices"
+   ],
+   "examples": [
+    {
+     "en": "Prices have remained *stable* this year.",
+     "vi": "Giá cả vẫn ổn định trong năm nay."
+    }
+   ]
+  },
+  {
+   "id": "saf_steady",
+   "word": "steady",
+   "pos": "adjective",
+   "ipa": "/ˈstedi/",
+   "level": "B2",
+   "meaning": "đều đặn; vững",
+   "definition": "developing evenly; not moving",
+   "collocations": [
+    "steady growth",
+    "a steady job"
+   ],
+   "examples": [
+    {
+     "en": "The company has seen *steady* growth.",
+     "vi": "Công ty tăng trưởng đều đặn."
+    }
+   ]
+  },
+  {
+   "id": "saf_steadily",
+   "word": "steadily",
+   "pos": "adverb",
+   "ipa": "/ˈstedəli/",
+   "level": "B2",
+   "meaning": "một cách đều đặn",
+   "definition": "gradually and evenly",
+   "collocations": [
+    "increase steadily",
+    "rise steadily"
+   ],
+   "examples": [
+    {
+     "en": "Sales have increased *steadily* since March.",
+     "vi": "Doanh số tăng đều kể từ tháng Ba."
+    }
+   ]
+  },
+  {
+   "id": "saf_severe",
+   "word": "severe",
+   "pos": "adjective",
+   "ipa": "/sɪˈvɪr/",
+   "level": "B2",
+   "meaning": "nghiêm trọng, khắc nghiệt",
+   "definition": "very bad or serious",
+   "collocations": [
+    "severe weather",
+    "severe damage"
+   ],
+   "examples": [
+    {
+     "en": "*Severe* weather is expected tomorrow.",
+     "vi": "Dự báo ngày mai thời tiết khắc nghiệt."
+    }
+   ]
+  },
+  {
+   "id": "saf_severely",
+   "word": "severely",
+   "pos": "adverb",
+   "ipa": "/sɪˈvɪrli/",
+   "level": "B2",
+   "meaning": "một cách nghiêm trọng",
+   "definition": "very badly",
+   "collocations": [
+    "severely damaged",
+    "severely injured"
+   ],
+   "examples": [
+    {
+     "en": "The road was *severely* damaged by the flood.",
+     "vi": "Con đường bị lũ làm hư hại nghiêm trọng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

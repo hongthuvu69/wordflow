@@ -1,0 +1,833 @@
+{
+ "id": "toeic_banking",
+ "order": 64,
+ "icon": "🏦",
+ "level": "TOEIC",
+ "title": "TOEIC: Banking & Insurance",
+ "title_vi": "TOEIC: Ngân hàng & Bảo hiểm",
+ "description": "Mở tài khoản, rút – gửi tiền, thẻ, lãi suất, hợp đồng bảo hiểm, bồi thường: tình huống ngân hàng trong Part 2–3 và Part 7.",
+ "words": [
+  {
+   "id": "tbk_bank_teller",
+   "word": "bank teller",
+   "pos": "noun",
+   "ipa": "/ˈbæŋk ˌtelər/",
+   "level": "TOEIC",
+   "meaning": "giao dịch viên ngân hàng",
+   "definition": "a bank employee who serves customers at a counter",
+   "collocations": [
+    "ask the bank teller"
+   ],
+   "examples": [
+    {
+     "en": "The *bank teller* counted the money twice.",
+     "vi": "Giao dịch viên đếm tiền hai lần."
+    }
+   ]
+  },
+  {
+   "id": "tbk_open_an_account",
+   "word": "open an account",
+   "pos": "verb",
+   "ipa": "/ˌoʊpən ən əˈkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "mở tài khoản",
+   "definition": "to start using a bank account",
+   "collocations": [
+    "open an account online"
+   ],
+   "examples": [
+    {
+     "en": "You need two forms of ID to *open an account*.",
+     "vi": "Bạn cần hai loại giấy tờ tùy thân để mở tài khoản."
+    }
+   ]
+  },
+  {
+   "id": "tbk_checking_account",
+   "word": "checking account",
+   "pos": "noun",
+   "ipa": "/ˈtʃekɪŋ əˌkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "tài khoản thanh toán",
+   "definition": "a bank account for everyday payments",
+   "collocations": [
+    "open a checking account"
+   ],
+   "examples": [
+    {
+     "en": "My salary goes into my *checking account*.",
+     "vi": "Lương của tôi được chuyển vào tài khoản thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tbk_savings_account",
+   "word": "savings account",
+   "pos": "noun",
+   "ipa": "/ˈseɪvɪŋz əˌkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "tài khoản tiết kiệm",
+   "definition": "a bank account that earns interest",
+   "collocations": [
+    "a high-interest savings account"
+   ],
+   "examples": [
+    {
+     "en": "I put $200 into my *savings account* every month.",
+     "vi": "Mỗi tháng tôi gửi 200 đô vào tài khoản tiết kiệm."
+    }
+   ]
+  },
+  {
+   "id": "tbk_interest",
+   "word": "interest",
+   "pos": "noun",
+   "ipa": "/ˈɪntrəst/",
+   "level": "A1",
+   "meaning": "tiền lãi",
+   "definition": "money paid for borrowing or saving money",
+   "collocations": [
+    "interest rate",
+    "earn interest"
+   ],
+   "examples": [
+    {
+     "en": "The account pays 3% *interest* a year.",
+     "vi": "Tài khoản trả lãi 3% một năm."
+    }
+   ]
+  },
+  {
+   "id": "tbk_withdrawal",
+   "word": "withdrawal",
+   "pos": "noun",
+   "ipa": "/wɪðˈdrɔːəl/",
+   "level": "C1",
+   "meaning": "sự rút tiền",
+   "definition": "taking money out of an account",
+   "collocations": [
+    "make a withdrawal",
+    "cash withdrawal"
+   ],
+   "examples": [
+    {
+     "en": "There is a daily limit on cash *withdrawals*.",
+     "vi": "Có hạn mức rút tiền mặt hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "tbk_atm",
+   "word": "ATM",
+   "pos": "noun",
+   "ipa": "/ˌeɪ tiː ˈem/",
+   "level": "TOEIC",
+   "meaning": "máy rút tiền",
+   "definition": "a machine that gives out money",
+   "collocations": [
+    "use an ATM",
+    "ATM card"
+   ],
+   "examples": [
+    {
+     "en": "Is there an *ATM* near here?",
+     "vi": "Gần đây có cây ATM không?"
+    }
+   ]
+  },
+  {
+   "id": "tbk_debit_card",
+   "word": "debit card",
+   "pos": "noun",
+   "ipa": "/ˈdebɪt kɑːrd/",
+   "level": "TOEIC",
+   "meaning": "thẻ ghi nợ",
+   "definition": "a card that takes money directly from your account",
+   "collocations": [
+    "pay by debit card"
+   ],
+   "examples": [
+    {
+     "en": "You can pay with a *debit card* or cash.",
+     "vi": "Bạn có thể thanh toán bằng thẻ ghi nợ hoặc tiền mặt."
+    }
+   ]
+  },
+  {
+   "id": "tbk_online_banking",
+   "word": "online banking",
+   "pos": "noun",
+   "ipa": "/ˌɑːnlaɪn ˈbæŋkɪŋ/",
+   "level": "TOEIC",
+   "meaning": "ngân hàng trực tuyến",
+   "definition": "managing a bank account on the internet",
+   "collocations": [
+    "sign up for online banking"
+   ],
+   "examples": [
+    {
+     "en": "*Online banking* lets you pay bills at any time.",
+     "vi": "Ngân hàng trực tuyến cho phép bạn thanh toán hóa đơn bất cứ lúc nào."
+    }
+   ]
+  },
+  {
+   "id": "tbk_balance_inquiry",
+   "word": "balance inquiry",
+   "pos": "noun",
+   "ipa": "/ˈbæləns ɪnˌkwaɪəri/",
+   "level": "TOEIC",
+   "meaning": "tra cứu số dư",
+   "definition": "checking how much money is in an account",
+   "collocations": [
+    "make a balance inquiry"
+   ],
+   "examples": [
+    {
+     "en": "You can do a *balance inquiry* at any ATM.",
+     "vi": "Bạn có thể tra cứu số dư tại bất kỳ cây ATM nào."
+    }
+   ]
+  },
+  {
+   "id": "tbk_cheque",
+   "word": "cheque",
+   "pos": "noun",
+   "ipa": "/tʃek/",
+   "level": "TOEIC",
+   "meaning": "séc",
+   "definition": "a written order to a bank to pay money",
+   "collocations": [
+    "write a cheque",
+    "pay by cheque"
+   ],
+   "examples": [
+    {
+     "en": "We no longer accept payment by *cheque*.",
+     "vi": "Chúng tôi không còn nhận thanh toán bằng séc."
+    }
+   ],
+   "note": "Anh-Mỹ: check."
+  },
+  {
+   "id": "tbk_exchange_rate",
+   "word": "exchange rate",
+   "pos": "noun",
+   "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+   "level": "TOEIC",
+   "meaning": "tỷ giá",
+   "definition": "the value of one currency compared with another",
+   "collocations": [
+    "the current exchange rate"
+   ],
+   "examples": [
+    {
+     "en": "The *exchange rate* is better at the bank.",
+     "vi": "Tỷ giá ở ngân hàng tốt hơn."
+    }
+   ]
+  },
+  {
+   "id": "tbk_transfer_funds",
+   "word": "transfer funds",
+   "pos": "verb",
+   "ipa": "/trænsˌfɜːr ˈfʌndz/",
+   "level": "TOEIC",
+   "meaning": "chuyển tiền",
+   "definition": "to move money between accounts",
+   "collocations": [
+    "transfer funds online"
+   ],
+   "examples": [
+    {
+     "en": "You can *transfer funds* between accounts online.",
+     "vi": "Bạn có thể chuyển tiền giữa các tài khoản trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "tbk_direct_deposit",
+   "word": "direct deposit",
+   "pos": "noun",
+   "ipa": "/dəˌrekt dɪˈpɑːzɪt/",
+   "level": "TOEIC",
+   "meaning": "chuyển lương thẳng vào tài khoản",
+   "definition": "pay sent directly into a bank account",
+   "collocations": [
+    "set up direct deposit"
+   ],
+   "examples": [
+    {
+     "en": "Salaries are paid by *direct deposit*.",
+     "vi": "Lương được chuyển thẳng vào tài khoản."
+    }
+   ]
+  },
+  {
+   "id": "tbk_fraud_alert",
+   "word": "fraud alert",
+   "pos": "noun",
+   "ipa": "/ˈfrɔːd əˌlɜːrt/",
+   "level": "TOEIC",
+   "meaning": "cảnh báo gian lận",
+   "definition": "a warning about possible fraud",
+   "collocations": [
+    "set up a fraud alert"
+   ],
+   "examples": [
+    {
+     "en": "The bank sent me a *fraud alert*.",
+     "vi": "Ngân hàng gửi tôi cảnh báo gian lận."
+    }
+   ]
+  },
+  {
+   "id": "tbk_branch_manager",
+   "word": "branch manager",
+   "pos": "noun",
+   "ipa": "/ˈbræntʃ ˌmænɪdʒər/",
+   "level": "TOEIC",
+   "meaning": "giám đốc chi nhánh",
+   "definition": "the manager of a local office",
+   "collocations": [
+    "speak to the branch manager"
+   ],
+   "examples": [
+    {
+     "en": "The *branch manager* approved my loan.",
+     "vi": "Giám đốc chi nhánh đã duyệt khoản vay của tôi."
+    }
+   ]
+  },
+  {
+   "id": "tbk_loan_officer",
+   "word": "loan officer",
+   "pos": "noun",
+   "ipa": "/ˈloʊn ˌɔːfɪsər/",
+   "level": "TOEIC",
+   "meaning": "cán bộ tín dụng",
+   "definition": "a bank employee who deals with loans",
+   "collocations": [
+    "meet with a loan officer"
+   ],
+   "examples": [
+    {
+     "en": "A *loan officer* will review your application.",
+     "vi": "Cán bộ tín dụng sẽ xem xét đơn của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tbk_credit_limit",
+   "word": "credit limit",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt ˌlɪmɪt/",
+   "level": "TOEIC",
+   "meaning": "hạn mức tín dụng",
+   "definition": "the most you can borrow on a card",
+   "collocations": [
+    "increase your credit limit"
+   ],
+   "examples": [
+    {
+     "en": "My *credit limit* is $5,000.",
+     "vi": "Hạn mức tín dụng của tôi là 5.000 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_credit_score",
+   "word": "credit score",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt skɔːr/",
+   "level": "TOEIC",
+   "meaning": "điểm tín dụng",
+   "definition": "a number showing how likely you are to repay debt",
+   "collocations": [
+    "a good credit score"
+   ],
+   "examples": [
+    {
+     "en": "A good *credit score* helps you get a loan.",
+     "vi": "Điểm tín dụng tốt giúp bạn vay được tiền."
+    }
+   ]
+  },
+  {
+   "id": "tbk_repay",
+   "word": "repay",
+   "pos": "verb",
+   "ipa": "/rɪˈpeɪ/",
+   "level": "TOEIC",
+   "meaning": "trả nợ",
+   "definition": "to pay back money",
+   "collocations": [
+    "repay a loan"
+   ],
+   "examples": [
+    {
+     "en": "The loan must be *repaid* within five years.",
+     "vi": "Khoản vay phải được trả trong năm năm."
+    }
+   ]
+  },
+  {
+   "id": "tbk_repayment",
+   "word": "repayment",
+   "pos": "noun",
+   "ipa": "/rɪˈpeɪmənt/",
+   "level": "TOEIC",
+   "meaning": "sự trả nợ",
+   "definition": "paying back money",
+   "collocations": [
+    "monthly repayments"
+   ],
+   "examples": [
+    {
+     "en": "Monthly *repayments* are $300.",
+     "vi": "Số tiền trả hằng tháng là 300 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_collateral",
+   "word": "collateral",
+   "pos": "noun",
+   "ipa": "/kəˈlætərəl/",
+   "level": "TOEIC",
+   "meaning": "tài sản thế chấp",
+   "definition": "property promised to a lender",
+   "collocations": [
+    "use a house as collateral"
+   ],
+   "examples": [
+    {
+     "en": "The bank asked for *collateral* for the loan.",
+     "vi": "Ngân hàng yêu cầu tài sản thế chấp cho khoản vay."
+    }
+   ]
+  },
+  {
+   "id": "tbk_financial_advisor",
+   "word": "financial advisor",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ədˈvaɪzər/",
+   "level": "TOEIC",
+   "meaning": "cố vấn tài chính",
+   "definition": "a person who gives advice about money",
+   "collocations": [
+    "consult a financial advisor"
+   ],
+   "examples": [
+    {
+     "en": "Speak to a *financial advisor* before investing.",
+     "vi": "Hãy trao đổi với cố vấn tài chính trước khi đầu tư."
+    }
+   ]
+  },
+  {
+   "id": "tbk_portfolio",
+   "word": "portfolio",
+   "pos": "noun",
+   "ipa": "/pɔːrtˈfoʊlioʊ/",
+   "level": "C1",
+   "meaning": "danh mục đầu tư; hồ sơ năng lực",
+   "definition": "a set of investments; examples of someone's work",
+   "collocations": [
+    "investment portfolio",
+    "design portfolio"
+   ],
+   "examples": [
+    {
+     "en": "Please send us your design *portfolio*.",
+     "vi": "Vui lòng gửi chúng tôi hồ sơ thiết kế của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tbk_stock_market",
+   "word": "stock market",
+   "pos": "noun",
+   "ipa": "/ˈstɑːk ˌmɑːrkɪt/",
+   "level": "TOEIC",
+   "meaning": "thị trường chứng khoán",
+   "definition": "the place where shares are bought and sold",
+   "collocations": [
+    "invest in the stock market"
+   ],
+   "examples": [
+    {
+     "en": "The *stock market* rose sharply today.",
+     "vi": "Thị trường chứng khoán tăng mạnh hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "tbk_shares",
+   "word": "shares",
+   "pos": "noun",
+   "ipa": "/ʃerz/",
+   "level": "TOEIC",
+   "meaning": "cổ phiếu",
+   "definition": "parts of a company that people can buy",
+   "collocations": [
+    "buy shares",
+    "share price"
+   ],
+   "examples": [
+    {
+     "en": "She bought *shares* in a tech company.",
+     "vi": "Cô ấy mua cổ phiếu của một công ty công nghệ."
+    }
+   ]
+  },
+  {
+   "id": "tbk_insurance_policy",
+   "word": "insurance policy",
+   "pos": "noun",
+   "ipa": "/ɪnˈʃʊrəns ˌpɑːləsi/",
+   "level": "TOEIC",
+   "meaning": "hợp đồng bảo hiểm",
+   "definition": "a contract with an insurance company",
+   "collocations": [
+    "take out an insurance policy"
+   ],
+   "examples": [
+    {
+     "en": "Read your *insurance policy* carefully.",
+     "vi": "Đọc kỹ hợp đồng bảo hiểm của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tbk_premium",
+   "word": "premium",
+   "pos": "noun",
+   "ipa": "/ˈpriːmiəm/",
+   "level": "C1",
+   "meaning": "phí bảo hiểm; cao cấp",
+   "definition": "money paid for insurance; high quality",
+   "collocations": [
+    "insurance premium",
+    "premium quality"
+   ],
+   "examples": [
+    {
+     "en": "Your monthly *premium* is $45.",
+     "vi": "Phí bảo hiểm hằng tháng của bạn là 45 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_policyholder",
+   "word": "policyholder",
+   "pos": "noun",
+   "ipa": "/ˈpɑːləsihoʊldər/",
+   "level": "TOEIC",
+   "meaning": "người được bảo hiểm",
+   "definition": "a person who has an insurance policy",
+   "collocations": [
+    "all policyholders"
+   ],
+   "examples": [
+    {
+     "en": "*Policyholders* can file claims online.",
+     "vi": "Người có hợp đồng bảo hiểm có thể nộp yêu cầu bồi thường trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "tbk_file_a_claim",
+   "word": "file a claim",
+   "pos": "verb",
+   "ipa": "/ˌfaɪl ə ˈkleɪm/",
+   "level": "TOEIC",
+   "meaning": "nộp yêu cầu bồi thường",
+   "definition": "to officially ask for money from insurance",
+   "collocations": [
+    "file a claim with"
+   ],
+   "examples": [
+    {
+     "en": "You must *file a claim* within 30 days.",
+     "vi": "Bạn phải nộp yêu cầu bồi thường trong vòng 30 ngày."
+    }
+   ]
+  },
+  {
+   "id": "tbk_coverage_limit",
+   "word": "coverage limit",
+   "pos": "noun",
+   "ipa": "/ˈkʌvərɪdʒ ˌlɪmɪt/",
+   "level": "TOEIC",
+   "meaning": "hạn mức bảo hiểm",
+   "definition": "the most an insurer will pay",
+   "collocations": [
+    "check the coverage limit"
+   ],
+   "examples": [
+    {
+     "en": "The *coverage limit* for this policy is $100,000.",
+     "vi": "Hạn mức bảo hiểm của hợp đồng này là 100.000 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_deductible",
+   "word": "deductible",
+   "pos": "noun",
+   "ipa": "/dɪˈdʌktəbl/",
+   "level": "TOEIC",
+   "meaning": "mức khấu trừ (bảo hiểm)",
+   "definition": "the amount you pay before insurance pays",
+   "collocations": [
+    "a $500 deductible"
+   ],
+   "examples": [
+    {
+     "en": "You pay the first $200; that's your *deductible*.",
+     "vi": "Bạn tự trả 200 đô đầu tiên; đó là mức khấu trừ."
+    }
+   ]
+  },
+  {
+   "id": "tbk_insure",
+   "word": "insure",
+   "pos": "verb",
+   "ipa": "/ɪnˈʃʊr/",
+   "level": "TOEIC",
+   "meaning": "mua bảo hiểm",
+   "definition": "to buy insurance for something",
+   "collocations": [
+    "insure a car",
+    "be insured against"
+   ],
+   "examples": [
+    {
+     "en": "The package is *insured* up to $1,000.",
+     "vi": "Gói hàng được bảo hiểm tới 1.000 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_insured",
+   "word": "insured",
+   "pos": "adjective",
+   "ipa": "/ɪnˈʃʊrd/",
+   "level": "TOEIC",
+   "meaning": "được bảo hiểm",
+   "definition": "protected by insurance",
+   "collocations": [
+    "fully insured"
+   ],
+   "examples": [
+    {
+     "en": "All our drivers are fully *insured*.",
+     "vi": "Tất cả tài xế của chúng tôi đều được bảo hiểm đầy đủ."
+    }
+   ]
+  },
+  {
+   "id": "tbk_risk_management",
+   "word": "risk management",
+   "pos": "noun",
+   "ipa": "/ˈrɪsk ˌmænɪdʒmənt/",
+   "level": "TOEIC",
+   "meaning": "quản trị rủi ro",
+   "definition": "the process of reducing business risks",
+   "collocations": [
+    "risk management team"
+   ],
+   "examples": [
+    {
+     "en": "She works in *risk management*.",
+     "vi": "Cô ấy làm trong mảng quản trị rủi ro."
+    }
+   ]
+  },
+  {
+   "id": "tbk_damages",
+   "word": "damages",
+   "pos": "noun",
+   "ipa": "/ˈdæmɪdʒɪz/",
+   "level": "TOEIC",
+   "meaning": "tiền bồi thường thiệt hại",
+   "definition": "money paid by a court for loss or injury",
+   "collocations": [
+    "pay damages",
+    "claim damages"
+   ],
+   "examples": [
+    {
+     "en": "The company was ordered to pay *damages*.",
+     "vi": "Công ty bị buộc phải bồi thường thiệt hại."
+    }
+   ]
+  },
+  {
+   "id": "tbk_financial_aid",
+   "word": "financial aid",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈeɪd/",
+   "level": "TOEIC",
+   "meaning": "hỗ trợ tài chính",
+   "definition": "money to help pay for education",
+   "collocations": [
+    "apply for financial aid"
+   ],
+   "examples": [
+    {
+     "en": "Many students receive *financial aid*.",
+     "vi": "Nhiều sinh viên nhận hỗ trợ tài chính."
+    }
+   ]
+  },
+  {
+   "id": "tbk_budgeting",
+   "word": "budgeting",
+   "pos": "noun",
+   "ipa": "/ˈbʌdʒɪtɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc lập ngân sách",
+   "definition": "planning how to spend money",
+   "collocations": [
+    "personal budgeting"
+   ],
+   "examples": [
+    {
+     "en": "Good *budgeting* helps you save money.",
+     "vi": "Lập ngân sách tốt giúp bạn tiết kiệm."
+    }
+   ]
+  },
+  {
+   "id": "tbk_cash_flow",
+   "word": "cash flow",
+   "pos": "noun",
+   "ipa": "/ˈkæʃ floʊ/",
+   "level": "TOEIC",
+   "meaning": "dòng tiền",
+   "definition": "the movement of money in and out of a business",
+   "collocations": [
+    "cash flow problems"
+   ],
+   "examples": [
+    {
+     "en": "Small businesses often have *cash flow* problems.",
+     "vi": "Doanh nghiệp nhỏ thường gặp vấn đề dòng tiền."
+    }
+   ]
+  },
+  {
+   "id": "tbk_assets_and_liabilities",
+   "word": "assets and liabilities",
+   "pos": "noun",
+   "ipa": "/ˌæsets ən ˌlaɪəˈbɪlətiz/",
+   "level": "TOEIC",
+   "meaning": "tài sản và nợ phải trả",
+   "definition": "what a company owns and owes",
+   "collocations": [
+    "list assets and liabilities"
+   ],
+   "examples": [
+    {
+     "en": "The report lists the company's *assets and liabilities*.",
+     "vi": "Báo cáo liệt kê tài sản và nợ phải trả của công ty."
+    }
+   ]
+  },
+  {
+   "id": "tbk_pension_plan",
+   "word": "pension plan",
+   "pos": "noun",
+   "ipa": "/ˈpenʃn plæn/",
+   "level": "TOEIC",
+   "meaning": "quỹ hưu trí",
+   "definition": "a plan that saves money for retirement",
+   "collocations": [
+    "join the pension plan"
+   ],
+   "examples": [
+    {
+     "en": "The company offers a *pension plan*.",
+     "vi": "Công ty có quỹ hưu trí cho nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "tbk_appraise",
+   "word": "appraise",
+   "pos": "verb",
+   "ipa": "/əˈpreɪz/",
+   "level": "TOEIC",
+   "meaning": "thẩm định giá",
+   "definition": "to judge the value of something",
+   "collocations": [
+    "appraise a property"
+   ],
+   "examples": [
+    {
+     "en": "The house was *appraised* at $300,000.",
+     "vi": "Ngôi nhà được thẩm định giá 300.000 đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_valuation",
+   "word": "valuation",
+   "pos": "noun",
+   "ipa": "/ˌvæljuˈeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự định giá",
+   "definition": "an estimate of how much something is worth",
+   "collocations": [
+    "company valuation"
+   ],
+   "examples": [
+    {
+     "en": "The *valuation* of the company rose to $2 billion.",
+     "vi": "Định giá công ty tăng lên 2 tỷ đô."
+    }
+   ]
+  },
+  {
+   "id": "tbk_monthly_statement",
+   "word": "monthly statement",
+   "pos": "noun",
+   "ipa": "/ˌmʌnθli ˈsteɪtmənt/",
+   "level": "TOEIC",
+   "meaning": "sao kê hằng tháng",
+   "definition": "a monthly record of account activity",
+   "collocations": [
+    "receive a monthly statement"
+   ],
+   "examples": [
+    {
+     "en": "Check your *monthly statement* for errors.",
+     "vi": "Kiểm tra sao kê hằng tháng xem có sai sót không."
+    }
+   ]
+  },
+  {
+   "id": "tbk_paperless",
+   "word": "paperless",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪpərləs/",
+   "level": "TOEIC",
+   "meaning": "không dùng giấy",
+   "definition": "using electronic documents instead of paper",
+   "collocations": [
+    "go paperless",
+    "paperless billing"
+   ],
+   "examples": [
+    {
+     "en": "Switch to *paperless* statements to help the environment.",
+     "vi": "Chuyển sang sao kê điện tử để bảo vệ môi trường."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

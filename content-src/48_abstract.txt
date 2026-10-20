@@ -1,0 +1,82 @@
+#id: abstract
+#prefix: abs
+#order: 48
+#icon: 🌀
+#title: Ideas & Situations
+#title_vi: Khái niệm & Tình huống
+#desc: Issue, aspect, circumstance, pressure, confidence…: danh từ trừu tượng giúp đọc hiểu bài dài và nói về vấn đề.
+issue | noun | /ˈɪʃuː/ | vấn đề; số (báo) | a problem or topic; one edition of a magazine | raise an issue; the latest issue | We need to discuss a few *issues* before the launch. | Chúng ta cần bàn vài vấn đề trước buổi ra mắt. | Động từ issue = phát hành, cấp (issue a ticket).
+aspect | noun | /ˈæspekt/ | khía cạnh | one part or feature of something | every aspect of; an important aspect | Price is only one *aspect* of the decision. | Giá chỉ là một khía cạnh của quyết định.
+element | noun | /ˈelɪmənt/ | yếu tố | a part of something | a key element; an element of risk | Trust is an important *element* of teamwork. | Sự tin tưởng là yếu tố quan trọng của làm việc nhóm.
+instance | noun | /ˈɪnstəns/ | trường hợp, ví dụ | an example | for instance; in this instance | Some fruits, for *instance* bananas, are cheaper in summer. | Một số loại quả, chẳng hạn chuối, rẻ hơn vào mùa hè.
+circumstance | noun | /ˈsɜːrkəmstæns/ | hoàn cảnh | a fact that affects a situation | under no circumstances; due to circumstances | Under no *circumstances* should you share your password. | Trong bất kỳ hoàn cảnh nào cũng không được chia sẻ mật khẩu.
+affair | noun | /əˈfer/ | sự việc, công việc | an event or situation; matters | current affairs; foreign affairs | She is interested in current *affairs*. | Cô ấy quan tâm đến thời sự.
+existence | noun | /ɪɡˈzɪstəns/ | sự tồn tại | the state of existing | in existence; come into existence | The company has been in *existence* for 50 years. | Công ty đã tồn tại 50 năm.
+presence | noun | /ˈprezns/ | sự hiện diện | being in a place | online presence; in the presence of | The brand has a strong online *presence*. | Thương hiệu có sự hiện diện mạnh trên mạng.
+prospect | noun | /ˈprɑːspekt/ | triển vọng | the possibility of something happening | job prospects; future prospects | The job offers good career *prospects*. | Công việc có triển vọng nghề nghiệp tốt.
+reaction | noun | /riˈækʃn/ | phản ứng | what you do or feel because of something | customer reaction; allergic reaction | The *reaction* to the new product has been positive. | Phản ứng với sản phẩm mới khá tích cực.
+result | noun | /rɪˈzʌlt/ | kết quả | something caused by something else | as a result; test results | As a *result* of the storm, flights were cancelled. | Do cơn bão, các chuyến bay bị hủy.
+tendency | noun | /ˈtendənsi/ | xu hướng | a habit or likely way of behaving | have a tendency to | He has a *tendency* to work late. | Anh ấy có xu hướng làm việc muộn.
+tend | verb | /tend/ | có xu hướng | to usually do something | tend to | Prices *tend* to rise in December. | Giá thường tăng vào tháng Mười Hai.
+trouble | noun | /ˈtrʌbl/ | rắc rối | problems or difficulties | have trouble doing; in trouble | Are you having *trouble* logging in? | Bạn gặp khó khăn khi đăng nhập à?
+truth | noun | /truːθ/ | sự thật | the true facts | tell the truth; the truth is | To tell the *truth*, I'm not sure. | Nói thật thì tôi không chắc.
+mystery | noun | /ˈmɪstri/ | điều bí ẩn | something not understood | a mystery; it's a mystery | It's a *mystery* why sales dropped last month. | Thật khó hiểu vì sao doanh số tháng trước giảm.
+clue | noun | /kluː/ | manh mối | information that helps solve a problem | a clue to; no clue | I have no *clue* where the file is. | Tôi chẳng biết tệp ở đâu cả.
+coincidence | noun | /koʊˈɪnsɪdəns/ | sự trùng hợp | two things happening by chance at the same time | what a coincidence; by coincidence | What a *coincidence*! I'm staying at the same hotel. | Trùng hợp quá! Tôi cũng ở cùng khách sạn.
+tragedy | noun | /ˈtrædʒədi/ | bi kịch | a very sad event | a terrible tragedy | The accident was a *tragedy* for the whole town. | Vụ tai nạn là bi kịch của cả thị trấn.
+tragic | adjective | /ˈtrædʒɪk/ | bi thảm | very sad | a tragic accident | The film has a *tragic* ending. | Bộ phim có kết thúc bi thảm.
+comfort | noun | /ˈkʌmfərt/ | sự thoải mái; an ủi | a pleasant relaxed feeling; help when sad | in comfort; comfort zone | Try to step out of your *comfort* zone. | Hãy thử bước ra khỏi vùng an toàn của bạn.
+convenience | noun | /kənˈviːniəns/ | sự tiện lợi | being useful and easy | at your convenience; convenience store | Please call me back at your earliest *convenience*. | Vui lòng gọi lại cho tôi sớm nhất có thể. | Câu email trang trọng hay gặp.
+disadvantage | noun | /ˌdɪsədˈvæntɪdʒ/ | bất lợi | something that makes things more difficult | advantages and disadvantages; at a disadvantage | The main *disadvantage* is the high price. | Bất lợi chính là giá cao.
+confidence | noun | /ˈkɑːnfɪdəns/ | sự tự tin; sự tin tưởng | belief in yourself; trust | gain confidence; in confidence | Speaking practice will help you gain *confidence*. | Luyện nói sẽ giúp bạn tự tin hơn.
+concern | noun | /kənˈsɜːrn/ | mối lo ngại; sự quan tâm | worry; something important to someone | raise concerns; a cause for concern | If you have any *concerns*, please let me know. | Nếu bạn có lo ngại gì, hãy cho tôi biết. | Động từ concern = liên quan (To whom it may concern).
+concerned | adjective | /kənˈsɜːrnd/ | lo lắng; có liên quan | worried; involved | concerned about; the people concerned | Customers are *concerned* about the price increase. | Khách hàng lo lắng về việc tăng giá. | as far as I'm concerned = theo tôi.
+confuse | verb | /kənˈfjuːz/ | làm bối rối; nhầm lẫn | to make unclear; to mix up | confuse A with B | People often *confuse* "affect" and "effect". | Mọi người hay nhầm "affect" với "effect".
+confused | adjective | /kənˈfjuːzd/ | bối rối | not able to understand | feel confused; confused about | I'm *confused* about the new rules. | Tôi bối rối về các quy định mới.
+confusion | noun | /kənˈfjuːʒn/ | sự nhầm lẫn | a state of not understanding | cause confusion; to avoid confusion | To avoid *confusion*, please label each box. | Để tránh nhầm lẫn, vui lòng dán nhãn từng hộp.
+convinced | adjective | /kənˈvɪnst/ | tin chắc | completely sure | convinced that | I'm *convinced* that this is the right choice. | Tôi tin chắc đây là lựa chọn đúng.
+convincing | adjective | /kənˈvɪnsɪŋ/ | thuyết phục | making you believe something | a convincing argument | She gave a *convincing* presentation. | Cô ấy có bài thuyết trình rất thuyết phục.
+criticism | noun | /ˈkrɪtɪsɪzəm/ | sự chỉ trích; lời phê bình | negative comments | face criticism; constructive criticism | We welcome constructive *criticism*. | Chúng tôi hoan nghênh những lời góp ý mang tính xây dựng.
+criticize | verb | /ˈkrɪtɪsaɪz/ | chỉ trích | to say what is wrong | criticize someone for | The company was *criticized* for its slow response. | Công ty bị chỉ trích vì phản ứng chậm.
+critic | noun | /ˈkrɪtɪk/ | nhà phê bình | a person who gives opinions on films, books etc. | film critic; food critic | The restaurant got good reviews from *critics*. | Nhà hàng được các nhà phê bình đánh giá tốt.
+bias | noun | /ˈbaɪəs/ | sự thiên vị, định kiến | unfair preference | gender bias; without bias | The hiring process must be free from *bias*. | Quy trình tuyển dụng phải không thiên vị.
+pressure | noun | /ˈpreʃər/ | áp lực | stress; force | under pressure; work pressure; blood pressure | I work well under *pressure*. | Tôi làm việc tốt dưới áp lực.
+power | noun | /ˈpaʊər/ | quyền lực; điện | control; energy | power cut; power outage; in power | There was a *power* cut for two hours. | Đã mất điện hai tiếng.
+powerful | adjective | /ˈpaʊərfl/ | mạnh mẽ, quyền lực | having great power | a powerful computer; powerful people | This laptop is small but *powerful*. | Máy tính này nhỏ nhưng mạnh.
+force | noun | /fɔːrs/ | sức mạnh; lực lượng | strength; a group of people | sales force; workforce; come into force | The new law comes into *force* next month. | Luật mới có hiệu lực vào tháng tới. | Động từ force = buộc phải.
+function | noun | /ˈfʌŋkʃn/ | chức năng; buổi tiệc chính thức | a purpose; a formal social event | basic functions; a company function | The phone's main *function* is still making calls. | Chức năng chính của điện thoại vẫn là gọi điện.
+formation | noun | /fɔːrˈmeɪʃn/ | sự hình thành | the process of forming | the formation of a new company | The *formation* of the new team took two months. | Việc thành lập đội mới mất hai tháng.
+motion | noun | /ˈmoʊʃn/ | chuyển động; đề xuất (cuộc họp) | movement; a formal proposal | in slow motion; motion sensor | The doors open with a *motion* sensor. | Cửa mở nhờ cảm biến chuyển động.
+revolution | noun | /ˌrevəˈluːʃn/ | cuộc cách mạng | a great change | the digital revolution; industrial revolution | The internet started a *revolution* in shopping. | Internet đã khởi đầu cuộc cách mạng mua sắm.
+self | noun | /self/ | bản thân | a person's own nature | self-confidence; your true self | Online classes need *self*-discipline. | Học trực tuyến cần tính tự giác.
+goodness | noun | /ˈɡʊdnəs/ | lòng tốt; trời ơi! | kindness; used to show surprise | my goodness; thank goodness | Thank *goodness* you're here! | Ơn trời bạn đến rồi!
+hunger | noun | /ˈhʌŋɡər/ | cơn đói; sự khao khát | the feeling of needing food; a strong wish | hunger for knowledge; die of hunger | She has a real *hunger* for learning. | Cô ấy thực sự khao khát học hỏi.
+suffer | verb | /ˈsʌfər/ | chịu đựng; bị (ảnh hưởng xấu) | to experience something bad | suffer from; suffer losses | Sales *suffered* because of the bad weather. | Doanh số bị ảnh hưởng vì thời tiết xấu.
+suffering | noun | /ˈsʌfərɪŋ/ | sự đau khổ | pain or great unhappiness | reduce suffering | The charity works to reduce *suffering* in poor areas. | Tổ chức từ thiện nỗ lực giảm khổ đau ở vùng nghèo.
+struggle | verb | /ˈstrʌɡl/ | vật lộn, chật vật | to try very hard to do something difficult | struggle with; struggle to | Many small shops are *struggling* to survive. | Nhiều cửa hàng nhỏ đang chật vật để tồn tại.
+darkness | noun | /ˈdɑːrknəs/ | bóng tối | lack of light | in darkness; total darkness | The building was in *darkness* during the power cut. | Tòa nhà chìm trong bóng tối khi mất điện.
+silence | noun | /ˈsaɪləns/ | sự im lặng | complete quiet | in silence; a moment of silence | There was a long *silence* after the announcement. | Sau thông báo là một khoảng im lặng kéo dài.
+silent | adjective | /ˈsaɪlənt/ | im lặng | without sound | silent mode; remain silent | Please keep your phone on *silent* during the meeting. | Vui lòng để điện thoại ở chế độ im lặng trong cuộc họp.
+shade | noun | /ʃeɪd/ | bóng râm; sắc độ | an area out of the sun; a type of colour | in the shade; a shade of blue | Let's sit in the *shade*. | Chúng ta ngồi trong bóng râm nhé.
+shadow | noun | /ˈʃædoʊ/ | cái bóng | a dark shape made when light is blocked | cast a shadow; job shadowing | New staff spend a week *shadowing* senior colleagues. | Nhân viên mới dành một tuần đi theo học việc đồng nghiệp lâu năm. | job shadowing = đi theo quan sát để học việc.
+attraction | noun | /əˈtrækʃn/ | điểm tham quan; sức hấp dẫn | a place people visit; the feeling of liking | tourist attraction; main attraction | The old town is the city's main tourist *attraction*. | Phố cổ là điểm tham quan chính của thành phố.
+atmosphere | noun | /ˈætməsfɪr/ | bầu không khí | the mood of a place; the air around the earth | a friendly atmosphere; relaxed atmosphere | The restaurant has a friendly *atmosphere*. | Nhà hàng có bầu không khí thân thiện.
+vision | noun | /ˈvɪʒn/ | tầm nhìn; thị lực | an idea of the future; the ability to see | a clear vision; company vision | The CEO shared her *vision* for the next ten years. | Giám đốc chia sẻ tầm nhìn cho mười năm tới.
+metaphor | noun | /ˈmetəfɔːr/ | phép ẩn dụ | a word used to describe something else in an imaginative way | use a metaphor | "Time is money" is a common *metaphor*. | "Thời gian là tiền bạc" là một ẩn dụ phổ biến.
+usage | noun | /ˈjuːsɪdʒ/ | cách dùng; mức sử dụng | the way something is used; the amount used | data usage; water usage | Check your monthly data *usage* in the app. | Kiểm tra lượng dữ liệu đã dùng hằng tháng trong ứng dụng.
+means | noun | /miːnz/ | phương tiện, cách thức | a way of doing something | means of transport; by means of; by all means | "Can I borrow this?" "By all *means*." | "Tôi mượn cái này được không?" "Cứ tự nhiên."
+universe | noun | /ˈjuːnɪvɜːrs/ | vũ trụ | everything that exists in space | the universe | Scientists study how the *universe* began. | Các nhà khoa học nghiên cứu vũ trụ bắt đầu thế nào.
+globe | noun | /ɡloʊb/ | quả địa cầu; thế giới | a round model of the earth; the world | around the globe | We have customers all around the *globe*. | Chúng tôi có khách hàng trên khắp thế giới.
+global | adjective | /ˈɡloʊbl/ | toàn cầu | covering the whole world | global market; global warming | The company is a *global* leader in software. | Công ty dẫn đầu toàn cầu về phần mềm.
+globalization | noun | /ˌɡloʊbələˈzeɪʃn/ | toàn cầu hóa | the process of becoming connected worldwide | the effects of globalization | *Globalization* has created new markets. | Toàn cầu hóa đã tạo ra thị trường mới.
+worldwide | adverb | /ˌwɜːrldˈwaɪd/ | khắp thế giới | everywhere in the world | ship worldwide; worldwide sales | We ship *worldwide*. | Chúng tôi giao hàng toàn thế giới.
+zone | noun | /zoʊn/ | khu vực | an area with a special purpose | time zone; no-parking zone | We work across three time *zones*. | Chúng tôi làm việc trên ba múi giờ.
+path | noun | /pæθ/ | con đường mòn; hướng đi | a narrow way for walking; a direction | career path; follow a path | She chose a different career *path*. | Cô ấy chọn một hướng nghề nghiệp khác.
+alien | adjective | /ˈeɪliən/ | xa lạ; người ngoài hành tinh | strange; from another place | alien to | The idea of working from home was *alien* to my parents. | Ý tưởng làm việc tại nhà rất xa lạ với bố mẹ tôi.
+monster | noun | /ˈmɑːnstər/ | quái vật | a large frightening creature | a sea monster | The children's film is about a friendly *monster*. | Bộ phim thiếu nhi kể về một con quái vật thân thiện.
+master | verb | /ˈmæstər/ | thành thạo | to learn completely | master a skill; master a language | It takes years to *master* a language. | Cần nhiều năm để thành thạo một ngôn ngữ. | master's degree = bằng thạc sĩ.
+balance | noun | /ˈbæləns/ | sự cân bằng; số dư | an equal state; money in an account | work-life balance; account balance | Check your account *balance* online. | Kiểm tra số dư tài khoản trên mạng.
+balanced | adjective | /ˈbælənst/ | cân bằng | with parts in the right amounts | a balanced diet | Eat a *balanced* diet. | Ăn uống cân bằng.
+barrier | noun | /ˈbæriər/ | rào cản | something that stops progress | language barrier; a barrier to | Language can be a *barrier* to working abroad. | Ngôn ngữ có thể là rào cản khi làm việc ở nước ngoài.
+dependent | adjective | /dɪˈpendənt/ | phụ thuộc | needing someone or something | dependent on | The price is *dependent* on the size of the order. | Giá phụ thuộc vào số lượng đặt hàng.
+involved | adjective | /ɪnˈvɑːlvd/ | tham gia, liên quan; phức tạp | taking part; complicated | get involved in; the people involved | Everyone *involved* in the project should attend. | Mọi người tham gia dự án đều nên có mặt.

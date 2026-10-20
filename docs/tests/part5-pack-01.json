@@ -1,0 +1,735 @@
+{
+  "id": "p5-pack-01",
+  "title": "Part 5 · Bộ luyện 01",
+  "kind": "pack",
+  "duration": 15,
+  "source": "WordFlow – 40 câu Part 5 tự soạn, đủ các dạng ngữ pháp và từ vựng",
+  "parts": [
+    {
+      "part": 5,
+      "directions": "A word or phrase is missing in each of the sentences below. Four answer choices are given below each sentence. Select the best answer to complete the sentence.",
+      "groups": [
+        {
+          "questions": [
+            {
+              "id": "p5a-1",
+              "n": 1,
+              "type": "p5-wordform",
+              "prompt": "The new manager made several ------- changes to the work schedule.",
+              "options": [
+                "significant",
+                "signify",
+                "significantly",
+                "significance"
+              ],
+              "answer": 0,
+              "explain": "Trước danh từ changes cần tính từ → significant."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-2",
+              "n": 2,
+              "type": "p5-wordform",
+              "prompt": "Please handle these glass items with -------.",
+              "options": [
+                "careful",
+                "carefully",
+                "cared",
+                "care"
+              ],
+              "answer": 3,
+              "explain": "Sau giới từ with cần danh từ → care. with care = cẩn thận."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-3",
+              "n": 3,
+              "type": "p5-wordform",
+              "prompt": "The museum's new exhibit has been extremely ------- with young visitors.",
+              "options": [
+                "popularity",
+                "popularly",
+                "popular",
+                "popularize"
+              ],
+              "answer": 2,
+              "explain": "Sau be + extremely cần tính từ → popular."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-4",
+              "n": 4,
+              "type": "p5-wordform",
+              "prompt": "Mr. Kim is responsible for the ------- of all new products.",
+              "options": [
+                "develop",
+                "development",
+                "developed",
+                "developer"
+              ],
+              "answer": 1,
+              "explain": "Sau the, trước of → danh từ chỉ sự việc: development. developer là người."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-5",
+              "n": 5,
+              "type": "p5-wordform",
+              "prompt": "The instructions were written so ------- that everyone understood them.",
+              "options": [
+                "clear",
+                "clarity",
+                "clearly",
+                "clearing"
+              ],
+              "answer": 2,
+              "explain": "so + trạng từ + that: bổ nghĩa cho động từ were written → clearly."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-6",
+              "n": 6,
+              "type": "p5-wordform",
+              "prompt": "Our ------- have increased by 20 percent since the store moved downtown.",
+              "options": [
+                "sell",
+                "sold",
+                "seller",
+                "sales"
+              ],
+              "answer": 3,
+              "explain": "Chủ ngữ số nhiều đi với have increased → danh từ sales (doanh số)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-7",
+              "n": 7,
+              "type": "p5-tense",
+              "prompt": "Ms. Brown ------- the report by the time the meeting starts tomorrow.",
+              "options": [
+                "finishes",
+                "will have finished",
+                "finished",
+                "has finished"
+              ],
+              "answer": 1,
+              "explain": "by the time + hiện tại (tương lai) → tương lai hoàn thành will have finished."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-8",
+              "n": 8,
+              "type": "p5-tense",
+              "prompt": "The company ------- a new factory in Vietnam last year.",
+              "options": [
+                "opened",
+                "opens",
+                "has opened",
+                "will open"
+              ],
+              "answer": 0,
+              "explain": "last year → quá khứ đơn opened."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-9",
+              "n": 9,
+              "type": "p5-tense",
+              "prompt": "Currently, the IT team ------- the network to improve its speed.",
+              "options": [
+                "upgrades",
+                "upgraded",
+                "had upgraded",
+                "is upgrading"
+              ],
+              "answer": 3,
+              "explain": "Currently → hiện tại tiếp diễn is upgrading."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-10",
+              "n": 10,
+              "type": "p5-tense",
+              "prompt": "Since joining the company, Mr. Lee ------- three major awards.",
+              "options": [
+                "wins",
+                "has won",
+                "won",
+                "will win"
+              ],
+              "answer": 1,
+              "explain": "Since + mốc → hiện tại hoàn thành has won."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-11",
+              "n": 11,
+              "type": "p5-passive",
+              "prompt": "The winners will ------- by e-mail before the end of the month.",
+              "options": [
+                "be notified",
+                "notify",
+                "notifying",
+                "have notified"
+              ],
+              "answer": 0,
+              "explain": "Người thắng ĐƯỢC thông báo → bị động will be notified."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-12",
+              "n": 12,
+              "type": "p5-passive",
+              "prompt": "The new office furniture ------- yesterday afternoon.",
+              "options": [
+                "delivered",
+                "is delivering",
+                "was delivered",
+                "delivers"
+              ],
+              "answer": 2,
+              "explain": "Đồ nội thất ĐƯỢC giao, yesterday → bị động quá khứ was delivered."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-13",
+              "n": 13,
+              "type": "p5-passive",
+              "prompt": "Visitors are ------- to wear safety glasses in the factory.",
+              "options": [
+                "require",
+                "required",
+                "requiring",
+                "requirement"
+              ],
+              "answer": 1,
+              "explain": "be required to + V = bắt buộc phải."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-14",
+              "n": 14,
+              "type": "p5-preposition",
+              "prompt": "The package should arrive ------- Monday and Wednesday.",
+              "options": [
+                "between",
+                "among",
+                "from",
+                "during"
+              ],
+              "answer": 0,
+              "explain": "between A and B = giữa A và B."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-15",
+              "n": 15,
+              "type": "p5-preposition",
+              "prompt": "Ms. Ito has been working on the project ------- three months.",
+              "options": [
+                "since",
+                "during",
+                "for",
+                "ago"
+              ],
+              "answer": 2,
+              "explain": "for + khoảng thời gian (three months)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-16",
+              "n": 16,
+              "type": "p5-preposition",
+              "prompt": "The meeting has been postponed ------- further notice.",
+              "options": [
+                "by",
+                "within",
+                "since",
+                "until"
+              ],
+              "answer": 3,
+              "explain": "until further notice = cho đến khi có thông báo mới (cụm cố định)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-17",
+              "n": 17,
+              "type": "p5-preposition",
+              "prompt": "------- the request of several customers, the store now opens at 7 a.m.",
+              "options": [
+                "In",
+                "On",
+                "By",
+                "At"
+              ],
+              "answer": 3,
+              "explain": "at the request of = theo yêu cầu của (cụm cố định)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-18",
+              "n": 18,
+              "type": "p5-preposition",
+              "prompt": "The hotel is located ------- walking distance of the convention center.",
+              "options": [
+                "along",
+                "within",
+                "across",
+                "over"
+              ],
+              "answer": 1,
+              "explain": "within walking distance of = trong khoảng cách đi bộ được tới."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-19",
+              "n": 19,
+              "type": "p5-conjunction",
+              "prompt": "The flight was delayed ------- of heavy fog at the airport.",
+              "options": [
+                "because",
+                "although",
+                "because of",
+                "so"
+              ],
+              "answer": 2,
+              "explain": "Phía sau là cụm danh từ (heavy fog) → because of."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-20",
+              "n": 20,
+              "type": "p5-conjunction",
+              "prompt": "------- sales were lower than expected, the company still made a profit.",
+              "options": [
+                "Although",
+                "Despite",
+                "However",
+                "Because"
+              ],
+              "answer": 0,
+              "explain": "Mệnh đề + nghĩa tương phản → Although."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-21",
+              "n": 21,
+              "type": "p5-conjunction",
+              "prompt": "You can pay ------- by credit card or by bank transfer.",
+              "options": [
+                "either",
+                "both",
+                "neither",
+                "whether"
+              ],
+              "answer": 0,
+              "explain": "either … or = hoặc … hoặc."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-22",
+              "n": 22,
+              "type": "p5-conjunction",
+              "prompt": "Please do not leave the building ------- the fire alarm stops.",
+              "options": [
+                "during",
+                "while",
+                "until",
+                "unless"
+              ],
+              "answer": 2,
+              "explain": "until = cho đến khi (chuông báo ngừng)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-23",
+              "n": 23,
+              "type": "p5-conjunction",
+              "prompt": "The store offers free delivery, ------- customers rarely pick up their orders.",
+              "options": [
+                "but",
+                "so",
+                "or",
+                "yet"
+              ],
+              "answer": 1,
+              "explain": "Quan hệ nguyên nhân – kết quả → so."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-24",
+              "n": 24,
+              "type": "p5-pronoun",
+              "prompt": "Each employee must update ------- password every three months.",
+              "options": [
+                "him or her",
+                "himself or herself",
+                "he or she",
+                "his or her"
+              ],
+              "answer": 3,
+              "explain": "Trước danh từ password → tính từ sở hữu his or her."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-25",
+              "n": 25,
+              "type": "p5-pronoun",
+              "prompt": "The supplier sent us the samples, but ------- arrived damaged.",
+              "options": [
+                "some of their",
+                "some of them",
+                "some of they",
+                "some of theirs"
+              ],
+              "answer": 1,
+              "explain": "some of + đại từ tân ngữ → some of them."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-26",
+              "n": 26,
+              "type": "p5-pronoun",
+              "prompt": "Ms. Park prefers to check all the figures -------.",
+              "options": [
+                "she",
+                "her",
+                "hers",
+                "herself"
+              ],
+              "answer": 3,
+              "explain": "Tự mình kiểm tra → đại từ phản thân herself."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-27",
+              "n": 27,
+              "type": "p5-relative",
+              "prompt": "Employees ------- parking permits have expired should apply for new ones.",
+              "options": [
+                "whose",
+                "who",
+                "which",
+                "whom"
+              ],
+              "answer": 0,
+              "explain": "Chỗ trống + danh từ (parking permits) chỉ sở hữu → whose."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-28",
+              "n": 28,
+              "type": "p5-relative",
+              "prompt": "The supplier ------- we chose offers the lowest prices.",
+              "options": [
+                "who",
+                "whose",
+                "that",
+                "what"
+              ],
+              "answer": 2,
+              "explain": "Mệnh đề xác định thay cho vật/tổ chức làm tân ngữ → that (hoặc which). what không làm đại từ quan hệ sau danh từ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-29",
+              "n": 29,
+              "type": "p5-comparison",
+              "prompt": "The new printer is ------- faster than the old one.",
+              "options": [
+                "very",
+                "most",
+                "many",
+                "much"
+              ],
+              "answer": 3,
+              "explain": "much + so sánh hơn để nhấn mạnh (much faster)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-30",
+              "n": 30,
+              "type": "p5-comparison",
+              "prompt": "This is the ------- popular product in our entire range.",
+              "options": [
+                "more",
+                "much",
+                "most",
+                "very"
+              ],
+              "answer": 2,
+              "explain": "the + most + tính từ dài → so sánh nhất."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-31",
+              "n": 31,
+              "type": "p5-comparison",
+              "prompt": "The second hotel was just as comfortable ------- the first one.",
+              "options": [
+                "than",
+                "as",
+                "like",
+                "so"
+              ],
+              "answer": 1,
+              "explain": "as + tính từ + as = bằng (so sánh ngang bằng)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-32",
+              "n": 32,
+              "type": "p5-vocab",
+              "prompt": "The company has decided to ------- its contract with the cleaning service for another year.",
+              "options": [
+                "renew",
+                "remove",
+                "repeat",
+                "reveal"
+              ],
+              "answer": 0,
+              "explain": "renew a contract = gia hạn hợp đồng."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-33",
+              "n": 33,
+              "type": "p5-vocab",
+              "prompt": "Please arrive at least 30 minutes ------- to the start of the conference.",
+              "options": [
+                "before",
+                "early",
+                "prior",
+                "advance"
+              ],
+              "answer": 2,
+              "explain": "prior to = trước (trang trọng). before không đi với to."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-34",
+              "n": 34,
+              "type": "p5-vocab",
+              "prompt": "Our customer service team will ------- your complaint within 48 hours.",
+              "options": [
+                "admit",
+                "adopt",
+                "adjust",
+                "address"
+              ],
+              "answer": 3,
+              "explain": "address a complaint = giải quyết khiếu nại."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-35",
+              "n": 35,
+              "type": "p5-vocab",
+              "prompt": "The position requires ------- experience in project management.",
+              "options": [
+                "extensive",
+                "expensive",
+                "expressive",
+                "excessive"
+              ],
+              "answer": 0,
+              "explain": "extensive experience = kinh nghiệm sâu rộng."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-36",
+              "n": 36,
+              "type": "p5-vocab",
+              "prompt": "Mr. Rossi was ------- to regional manager after ten years with the company.",
+              "options": [
+                "provided",
+                "promoted",
+                "produced",
+                "proposed"
+              ],
+              "answer": 1,
+              "explain": "be promoted to = được thăng chức lên."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-37",
+              "n": 37,
+              "type": "p5-vocab",
+              "prompt": "The hotel is ------- booked for the holiday weekend.",
+              "options": [
+                "full",
+                "fill",
+                "filled",
+                "fully"
+              ],
+              "answer": 3,
+              "explain": "fully booked = kín chỗ (trạng từ bổ nghĩa cho booked)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-38",
+              "n": 38,
+              "type": "p5-vocab",
+              "prompt": "All prices are ------- to change without notice.",
+              "options": [
+                "subject",
+                "liable",
+                "likely",
+                "able"
+              ],
+              "answer": 0,
+              "explain": "be subject to change = có thể thay đổi (cụm cố định)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-39",
+              "n": 39,
+              "type": "p5-vocab",
+              "prompt": "Please keep this information strictly -------.",
+              "options": [
+                "confident",
+                "confidential",
+                "confidence",
+                "confidently"
+              ],
+              "answer": 1,
+              "explain": "keep something confidential = giữ bí mật. confident = tự tin."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "p5a-40",
+              "n": 40,
+              "type": "p5-vocab",
+              "prompt": "Thank you for your ------- in our products.",
+              "options": [
+                "interesting",
+                "interested",
+                "interest",
+                "interests"
+              ],
+              "answer": 2,
+              "explain": "your + danh từ; interest in = sự quan tâm đến."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

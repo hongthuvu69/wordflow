@@ -1,0 +1,1148 @@
+{
+ "id": "verbs_work2",
+ "order": 43,
+ "icon": "🔧",
+ "level": "B2",
+ "title": "Key Verbs at Work (2)",
+ "title_vi": "Động từ công việc thiết yếu (2)",
+ "description": "Tiến hành, theo đuổi, khôi phục, đình chỉ, rút lại…: tiếp nối nhóm động từ trọng tâm cho Part 5 và Part 7.",
+ "words": [
+  {
+   "id": "vbx_proceed",
+   "word": "proceed",
+   "pos": "verb",
+   "ipa": "/proʊˈsiːd/",
+   "level": "B2",
+   "meaning": "tiếp tục; tiến hành",
+   "definition": "to continue; to go to a place",
+   "collocations": [
+    "proceed with",
+    "proceed to gate 5"
+   ],
+   "examples": [
+    {
+     "en": "Passengers should *proceed* to gate 12.",
+     "vi": "Hành khách vui lòng di chuyển đến cửa 12."
+    }
+   ]
+  },
+  {
+   "id": "vbx_produce",
+   "word": "produce",
+   "pos": "verb",
+   "ipa": "/prəˈduːs/",
+   "level": "B2",
+   "meaning": "sản xuất; xuất trình",
+   "definition": "to make; to show something",
+   "collocations": [
+    "produce goods",
+    "produce your ticket"
+   ],
+   "examples": [
+    {
+     "en": "The factory *produces* 500 cars a day.",
+     "vi": "Nhà máy sản xuất 500 xe mỗi ngày."
+    }
+   ]
+  },
+  {
+   "id": "vbx_pursue",
+   "word": "pursue",
+   "pos": "verb",
+   "ipa": "/pərˈsuː/",
+   "level": "B2",
+   "meaning": "theo đuổi",
+   "definition": "to try to achieve something",
+   "collocations": [
+    "pursue a career",
+    "pursue a goal"
+   ],
+   "examples": [
+    {
+     "en": "She left the company to *pursue* a career in design.",
+     "vi": "Cô ấy rời công ty để theo đuổi nghề thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "vbx_pursuit",
+   "word": "pursuit",
+   "pos": "noun",
+   "ipa": "/pərˈsuːt/",
+   "level": "B2",
+   "meaning": "sự theo đuổi",
+   "definition": "the act of trying to get something",
+   "collocations": [
+    "in pursuit of"
+   ],
+   "examples": [
+    {
+     "en": "He moved to the city in *pursuit* of a better job.",
+     "vi": "Anh ấy chuyển lên thành phố để tìm một công việc tốt hơn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_reinforce",
+   "word": "reinforce",
+   "pos": "verb",
+   "ipa": "/ˌriːɪnˈfɔːrs/",
+   "level": "B2",
+   "meaning": "củng cố",
+   "definition": "to make stronger",
+   "collocations": [
+    "reinforce a message",
+    "reinforce learning"
+   ],
+   "examples": [
+    {
+     "en": "Regular practice *reinforces* what you learn.",
+     "vi": "Luyện tập thường xuyên củng cố kiến thức đã học."
+    }
+   ]
+  },
+  {
+   "id": "vbx_reject",
+   "word": "reject",
+   "pos": "verb",
+   "ipa": "/rɪˈdʒekt/",
+   "level": "B1",
+   "meaning": "từ chối, bác bỏ",
+   "definition": "to refuse to accept",
+   "collocations": [
+    "reject an offer",
+    "reject a proposal"
+   ],
+   "examples": [
+    {
+     "en": "The board *rejected* the proposal.",
+     "vi": "Hội đồng đã bác bỏ đề xuất."
+    }
+   ]
+  },
+  {
+   "id": "vbx_relate",
+   "word": "relate",
+   "pos": "verb",
+   "ipa": "/rɪˈleɪt/",
+   "level": "B1",
+   "meaning": "liên quan; đồng cảm",
+   "definition": "to be connected; to understand someone's feelings",
+   "collocations": [
+    "relate to"
+   ],
+   "examples": [
+    {
+     "en": "The question *relates* to last month's figures.",
+     "vi": "Câu hỏi liên quan đến số liệu tháng trước."
+    }
+   ]
+  },
+  {
+   "id": "vbx_related",
+   "word": "related",
+   "pos": "adjective",
+   "ipa": "/rɪˈleɪtɪd/",
+   "level": "B1",
+   "meaning": "có liên quan",
+   "definition": "connected",
+   "collocations": [
+    "related to",
+    "work-related"
+   ],
+   "examples": [
+    {
+     "en": "Please send all work-*related* questions to HR.",
+     "vi": "Vui lòng gửi mọi câu hỏi liên quan đến công việc cho phòng nhân sự."
+    }
+   ]
+  },
+  {
+   "id": "vbx_release",
+   "word": "release",
+   "pos": "verb",
+   "ipa": "/rɪˈliːs/",
+   "level": "B1",
+   "meaning": "phát hành; công bố; thả",
+   "definition": "to make available to the public; to let go",
+   "collocations": [
+    "release a product",
+    "release a statement"
+   ],
+   "examples": [
+    {
+     "en": "The company will *release* its results on Monday.",
+     "vi": "Công ty sẽ công bố kết quả vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "vbx_remain",
+   "word": "remain",
+   "pos": "verb",
+   "ipa": "/rɪˈmeɪn/",
+   "level": "B1",
+   "meaning": "vẫn còn; ở lại",
+   "definition": "to stay in the same state or place",
+   "collocations": [
+    "remain open",
+    "remain seated"
+   ],
+   "examples": [
+    {
+     "en": "The store will *remain* open during renovations.",
+     "vi": "Cửa hàng vẫn mở cửa trong thời gian sửa sang."
+    }
+   ]
+  },
+  {
+   "id": "vbx_repeat",
+   "word": "repeat",
+   "pos": "verb",
+   "ipa": "/rɪˈpiːt/",
+   "level": "B1",
+   "meaning": "lặp lại",
+   "definition": "to say or do again",
+   "collocations": [
+    "repeat the question",
+    "repeat customers"
+   ],
+   "examples": [
+    {
+     "en": "Could you *repeat* that, please?",
+     "vi": "Bạn có thể nhắc lại được không?"
+    }
+   ]
+  },
+  {
+   "id": "vbx_repeated",
+   "word": "repeated",
+   "pos": "adjective",
+   "ipa": "/rɪˈpiːtɪd/",
+   "level": "B1",
+   "meaning": "lặp đi lặp lại",
+   "definition": "done many times",
+   "collocations": [
+    "repeated requests",
+    "repeated attempts"
+   ],
+   "examples": [
+    {
+     "en": "Despite *repeated* requests, the item was not delivered.",
+     "vi": "Dù đã yêu cầu nhiều lần, hàng vẫn không được giao."
+    }
+   ]
+  },
+  {
+   "id": "vbx_reserve",
+   "word": "reserve",
+   "pos": "verb",
+   "ipa": "/rɪˈzɜːrv/",
+   "level": "B2",
+   "meaning": "đặt trước; dành riêng",
+   "definition": "to book; to keep for a particular purpose",
+   "collocations": [
+    "reserve a table",
+    "reserved for"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to *reserve* a table for four.",
+     "vi": "Tôi muốn đặt bàn cho bốn người."
+    }
+   ]
+  },
+  {
+   "id": "vbx_resist",
+   "word": "resist",
+   "pos": "verb",
+   "ipa": "/rɪˈzɪst/",
+   "level": "B2",
+   "meaning": "kháng cự, cưỡng lại",
+   "definition": "to fight against; to stop yourself doing",
+   "collocations": [
+    "resist change",
+    "can't resist"
+   ],
+   "examples": [
+    {
+     "en": "Some staff *resist* changes to the system.",
+     "vi": "Một số nhân viên phản đối thay đổi hệ thống."
+    }
+   ]
+  },
+  {
+   "id": "vbx_restore",
+   "word": "restore",
+   "pos": "verb",
+   "ipa": "/rɪˈstɔːr/",
+   "level": "B2",
+   "meaning": "khôi phục",
+   "definition": "to bring back to a former condition",
+   "collocations": [
+    "restore power",
+    "restore a building"
+   ],
+   "examples": [
+    {
+     "en": "Power was *restored* after two hours.",
+     "vi": "Điện được khôi phục sau hai giờ."
+    }
+   ]
+  },
+  {
+   "id": "vbx_retain",
+   "word": "retain",
+   "pos": "verb",
+   "ipa": "/rɪˈteɪn/",
+   "level": "B2",
+   "meaning": "giữ lại",
+   "definition": "to keep",
+   "collocations": [
+    "retain staff",
+    "retain customers"
+   ],
+   "examples": [
+    {
+     "en": "Please *retain* your receipt.",
+     "vi": "Vui lòng giữ lại hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_select",
+   "word": "select",
+   "pos": "verb",
+   "ipa": "/sɪˈlekt/",
+   "level": "B2",
+   "meaning": "lựa chọn",
+   "definition": "to choose",
+   "collocations": [
+    "select from",
+    "carefully selected"
+   ],
+   "examples": [
+    {
+     "en": "Three candidates were *selected* for the final interview.",
+     "vi": "Ba ứng viên được chọn vào vòng phỏng vấn cuối."
+    }
+   ]
+  },
+  {
+   "id": "vbx_selection",
+   "word": "selection",
+   "pos": "noun",
+   "ipa": "/sɪˈlekʃn/",
+   "level": "B2",
+   "meaning": "sự lựa chọn; tập hợp lựa chọn",
+   "definition": "the act of choosing; a range of things",
+   "collocations": [
+    "a wide selection",
+    "selection process"
+   ],
+   "examples": [
+    {
+     "en": "The store has a wide *selection* of wines.",
+     "vi": "Cửa hàng có nhiều loại rượu để lựa chọn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_settle",
+   "word": "settle",
+   "pos": "verb",
+   "ipa": "/ˈsetl/",
+   "level": "B2",
+   "meaning": "giải quyết; thanh toán; định cư",
+   "definition": "to end an argument; to pay; to start living somewhere",
+   "collocations": [
+    "settle a bill",
+    "settle a dispute",
+    "settle in"
+   ],
+   "examples": [
+    {
+     "en": "Please *settle* your bill at the front desk.",
+     "vi": "Vui lòng thanh toán hóa đơn tại quầy lễ tân."
+    }
+   ]
+  },
+  {
+   "id": "vbx_settler",
+   "word": "settler",
+   "pos": "noun",
+   "ipa": "/ˈsetlər/",
+   "level": "B2",
+   "meaning": "người định cư",
+   "definition": "a person who goes to live in a new place",
+   "collocations": [
+    "early settlers"
+   ],
+   "examples": [
+    {
+     "en": "The town was founded by European *settlers*.",
+     "vi": "Thị trấn được thành lập bởi những người định cư châu Âu."
+    }
+   ]
+  },
+  {
+   "id": "vbx_specify",
+   "word": "specify",
+   "pos": "verb",
+   "ipa": "/ˈspesɪfaɪ/",
+   "level": "B2",
+   "meaning": "ghi rõ",
+   "definition": "to state exactly",
+   "collocations": [
+    "unless otherwise specified",
+    "specify the size"
+   ],
+   "examples": [
+    {
+     "en": "Please *specify* the size and colour when ordering.",
+     "vi": "Vui lòng ghi rõ kích cỡ và màu khi đặt hàng."
+    }
+   ]
+  },
+  {
+   "id": "vbx_specialize",
+   "word": "specialize",
+   "pos": "verb",
+   "ipa": "/ˈspeʃəlaɪz/",
+   "level": "B2",
+   "meaning": "chuyên về",
+   "definition": "to focus on one area",
+   "collocations": [
+    "specialize in"
+   ],
+   "examples": [
+    {
+     "en": "The firm *specializes* in tax law.",
+     "vi": "Công ty chuyên về luật thuế."
+    }
+   ]
+  },
+  {
+   "id": "vbx_stimulate",
+   "word": "stimulate",
+   "pos": "verb",
+   "ipa": "/ˈstɪmjuleɪt/",
+   "level": "B2",
+   "meaning": "kích thích, thúc đẩy",
+   "definition": "to encourage growth or activity",
+   "collocations": [
+    "stimulate the economy",
+    "stimulate interest"
+   ],
+   "examples": [
+    {
+     "en": "Lower taxes may *stimulate* the economy.",
+     "vi": "Giảm thuế có thể kích thích nền kinh tế."
+    }
+   ]
+  },
+  {
+   "id": "vbx_suspend",
+   "word": "suspend",
+   "pos": "verb",
+   "ipa": "/səˈspend/",
+   "level": "B2",
+   "meaning": "tạm ngừng; đình chỉ",
+   "definition": "to stop for a time; to hang",
+   "collocations": [
+    "suspend service",
+    "be suspended"
+   ],
+   "examples": [
+    {
+     "en": "Train service has been *suspended* due to the storm.",
+     "vi": "Dịch vụ tàu đã tạm ngừng vì bão."
+    }
+   ]
+  },
+  {
+   "id": "vbx_transfer",
+   "word": "transfer",
+   "pos": "verb",
+   "ipa": "/trænsˈfɜːr/",
+   "level": "B2",
+   "meaning": "chuyển (tiền, công tác, cuộc gọi)",
+   "definition": "to move from one place, person or job to another",
+   "collocations": [
+    "transfer money",
+    "transfer a call",
+    "be transferred"
+   ],
+   "examples": [
+    {
+     "en": "I'll *transfer* your call to the sales department.",
+     "vi": "Tôi sẽ chuyển cuộc gọi của bạn đến phòng kinh doanh."
+    }
+   ]
+  },
+  {
+   "id": "vbx_transform",
+   "word": "transform",
+   "pos": "verb",
+   "ipa": "/trænsˈfɔːrm/",
+   "level": "B2",
+   "meaning": "biến đổi hoàn toàn",
+   "definition": "to change completely",
+   "collocations": [
+    "transform into",
+    "transform the business"
+   ],
+   "examples": [
+    {
+     "en": "Technology has *transformed* the way we work.",
+     "vi": "Công nghệ đã thay đổi hoàn toàn cách chúng ta làm việc."
+    }
+   ]
+  },
+  {
+   "id": "vbx_transition",
+   "word": "transition",
+   "pos": "noun",
+   "ipa": "/trænˈzɪʃn/",
+   "level": "B2",
+   "meaning": "sự chuyển đổi",
+   "definition": "a change from one state to another",
+   "collocations": [
+    "a smooth transition",
+    "transition period"
+   ],
+   "examples": [
+    {
+     "en": "The *transition* to the new system went smoothly.",
+     "vi": "Việc chuyển sang hệ thống mới diễn ra suôn sẻ."
+    }
+   ]
+  },
+  {
+   "id": "vbx_undergo",
+   "word": "undergo",
+   "pos": "verb",
+   "ipa": "/ˌʌndərˈɡoʊ/",
+   "level": "B2",
+   "meaning": "trải qua",
+   "definition": "to experience a process",
+   "collocations": [
+    "undergo training",
+    "undergo changes"
+   ],
+   "examples": [
+    {
+     "en": "The building is *undergoing* renovation.",
+     "vi": "Tòa nhà đang được cải tạo."
+    }
+   ]
+  },
+  {
+   "id": "vbx_undertake",
+   "word": "undertake",
+   "pos": "verb",
+   "ipa": "/ˌʌndərˈteɪk/",
+   "level": "B2",
+   "meaning": "đảm nhận",
+   "definition": "to agree to do a task",
+   "collocations": [
+    "undertake a project",
+    "undertake research"
+   ],
+   "examples": [
+    {
+     "en": "The company *undertook* a major review of its costs.",
+     "vi": "Công ty tiến hành rà soát lớn về chi phí."
+    }
+   ]
+  },
+  {
+   "id": "vbx_withdraw",
+   "word": "withdraw",
+   "pos": "verb",
+   "ipa": "/wɪðˈdrɔː/",
+   "level": "B2",
+   "meaning": "rút (tiền); rút lui",
+   "definition": "to take money from a bank; to take back",
+   "collocations": [
+    "withdraw cash",
+    "withdraw from"
+   ],
+   "examples": [
+    {
+     "en": "You can *withdraw* cash at the ATM in the lobby.",
+     "vi": "Bạn có thể rút tiền tại cây ATM ở sảnh."
+    }
+   ]
+  },
+  {
+   "id": "vbx_abandon",
+   "word": "abandon",
+   "pos": "verb",
+   "ipa": "/əˈbændən/",
+   "level": "B2",
+   "meaning": "từ bỏ, bỏ rơi",
+   "definition": "to leave forever; to stop doing",
+   "collocations": [
+    "abandon a plan",
+    "abandoned building"
+   ],
+   "examples": [
+    {
+     "en": "The plan was *abandoned* because of the cost.",
+     "vi": "Kế hoạch bị hủy bỏ vì chi phí."
+    }
+   ]
+  },
+  {
+   "id": "vbx_absorb",
+   "word": "absorb",
+   "pos": "verb",
+   "ipa": "/əbˈzɔːrb/",
+   "level": "B2",
+   "meaning": "hấp thụ; tiếp thu",
+   "definition": "to take in liquid; to take in information",
+   "collocations": [
+    "absorb information",
+    "absorb costs"
+   ],
+   "examples": [
+    {
+     "en": "The company will *absorb* the extra shipping costs.",
+     "vi": "Công ty sẽ chịu phần phí vận chuyển phát sinh."
+    }
+   ]
+  },
+  {
+   "id": "vbx_accompany",
+   "word": "accompany",
+   "pos": "verb",
+   "ipa": "/əˈkʌmpəni/",
+   "level": "B2",
+   "meaning": "đi cùng; kèm theo",
+   "definition": "to go with someone; to happen with",
+   "collocations": [
+    "be accompanied by"
+   ],
+   "examples": [
+    {
+     "en": "Children must be *accompanied* by an adult.",
+     "vi": "Trẻ em phải có người lớn đi kèm."
+    }
+   ]
+  },
+  {
+   "id": "vbx_alter",
+   "word": "alter",
+   "pos": "verb",
+   "ipa": "/ˈɔːltər/",
+   "level": "B2",
+   "meaning": "thay đổi",
+   "definition": "to change",
+   "collocations": [
+    "alter a plan",
+    "alter clothes"
+   ],
+   "examples": [
+    {
+     "en": "We had to *alter* our travel plans.",
+     "vi": "Chúng tôi phải thay đổi kế hoạch đi lại."
+    }
+   ]
+  },
+  {
+   "id": "vbx_anticipate",
+   "word": "anticipate",
+   "pos": "verb",
+   "ipa": "/ænˈtɪsɪpeɪt/",
+   "level": "B2",
+   "meaning": "dự đoán, lường trước",
+   "definition": "to expect",
+   "collocations": [
+    "anticipate problems",
+    "anticipated demand"
+   ],
+   "examples": [
+    {
+     "en": "We *anticipate* a busy holiday season.",
+     "vi": "Chúng tôi dự đoán mùa lễ sẽ bận rộn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_arise",
+   "word": "arise",
+   "pos": "verb",
+   "ipa": "/əˈraɪz/",
+   "level": "B2",
+   "meaning": "phát sinh",
+   "definition": "to happen; to start to exist",
+   "collocations": [
+    "problems arise",
+    "if questions arise"
+   ],
+   "examples": [
+    {
+     "en": "Contact me if any problems *arise*.",
+     "vi": "Liên hệ tôi nếu có vấn đề phát sinh."
+    }
+   ]
+  },
+  {
+   "id": "vbx_associate",
+   "word": "associate",
+   "pos": "verb",
+   "ipa": "/əˈsoʊʃieɪt/",
+   "level": "B2",
+   "meaning": "liên tưởng; liên kết",
+   "definition": "to connect in your mind; to be connected with",
+   "collocations": [
+    "associate with",
+    "be associated with"
+   ],
+   "examples": [
+    {
+     "en": "Most people *associate* the brand with quality.",
+     "vi": "Hầu hết mọi người liên tưởng thương hiệu với chất lượng."
+    }
+   ],
+   "note": "Danh từ associate = cộng sự."
+  },
+  {
+   "id": "vbx_associated",
+   "word": "associated",
+   "pos": "adjective",
+   "ipa": "/əˈsoʊʃieɪtɪd/",
+   "level": "B2",
+   "meaning": "có liên quan",
+   "definition": "connected",
+   "collocations": [
+    "associated with",
+    "associated costs"
+   ],
+   "examples": [
+    {
+     "en": "There are risks *associated* with the plan.",
+     "vi": "Kế hoạch đi kèm một số rủi ro."
+    }
+   ]
+  },
+  {
+   "id": "vbx_association",
+   "word": "association",
+   "pos": "noun",
+   "ipa": "/əˌsoʊsiˈeɪʃn/",
+   "level": "B2",
+   "meaning": "hiệp hội; sự liên kết",
+   "definition": "an organization of people with a shared interest",
+   "collocations": [
+    "trade association",
+    "in association with"
+   ],
+   "examples": [
+    {
+     "en": "The event is held in *association* with the local council.",
+     "vi": "Sự kiện được tổ chức phối hợp với hội đồng địa phương."
+    }
+   ]
+  },
+  {
+   "id": "vbx_encounter",
+   "word": "encounter",
+   "pos": "verb",
+   "ipa": "/ɪnˈkaʊntər/",
+   "level": "B2",
+   "meaning": "gặp phải",
+   "definition": "to experience something, often a problem",
+   "collocations": [
+    "encounter problems",
+    "encounter difficulties"
+   ],
+   "examples": [
+    {
+     "en": "If you *encounter* any problems, call IT.",
+     "vi": "Nếu gặp sự cố, hãy gọi phòng IT."
+    }
+   ]
+  },
+  {
+   "id": "vbx_embrace",
+   "word": "embrace",
+   "pos": "verb",
+   "ipa": "/ɪmˈbreɪs/",
+   "level": "B2",
+   "meaning": "đón nhận; ôm",
+   "definition": "to accept eagerly; to hug",
+   "collocations": [
+    "embrace change",
+    "embrace new ideas"
+   ],
+   "examples": [
+    {
+     "en": "Successful companies *embrace* change.",
+     "vi": "Các công ty thành công luôn đón nhận thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "vbx_convert",
+   "word": "convert",
+   "pos": "verb",
+   "ipa": "/kənˈvɜːrt/",
+   "level": "B2",
+   "meaning": "chuyển đổi",
+   "definition": "to change from one form to another",
+   "collocations": [
+    "convert into",
+    "convert currency"
+   ],
+   "examples": [
+    {
+     "en": "The old warehouse was *converted* into offices.",
+     "vi": "Nhà kho cũ được chuyển đổi thành văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "vbx_register",
+   "word": "register",
+   "pos": "verb",
+   "ipa": "/ˈredʒɪstər/",
+   "level": "B2",
+   "meaning": "đăng ký",
+   "definition": "to put your name on an official list",
+   "collocations": [
+    "register for",
+    "registered users"
+   ],
+   "examples": [
+    {
+     "en": "Please *register* for the conference online.",
+     "vi": "Vui lòng đăng ký hội nghị trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "vbx_registration",
+   "word": "registration",
+   "pos": "noun",
+   "ipa": "/ˌredʒɪˈstreɪʃn/",
+   "level": "B2",
+   "meaning": "sự đăng ký",
+   "definition": "the act of registering",
+   "collocations": [
+    "registration fee",
+    "online registration"
+   ],
+   "examples": [
+    {
+     "en": "*Registration* closes on Friday.",
+     "vi": "Việc đăng ký kết thúc vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "vbx_separate",
+   "word": "separate",
+   "pos": "adjective",
+   "ipa": "/ˈseprət/",
+   "level": "B1",
+   "meaning": "riêng biệt",
+   "definition": "not joined; different",
+   "collocations": [
+    "separate rooms",
+    "a separate issue"
+   ],
+   "examples": [
+    {
+     "en": "Please put paper and plastic in *separate* bins.",
+     "vi": "Vui lòng bỏ giấy và nhựa vào thùng riêng."
+    }
+   ],
+   "note": "Động từ separate /ˈsepəreɪt/ = tách ra."
+  },
+  {
+   "id": "vbx_rebuild",
+   "word": "rebuild",
+   "pos": "verb",
+   "ipa": "/ˌriːˈbɪld/",
+   "level": "B2",
+   "meaning": "xây lại",
+   "definition": "to build again",
+   "collocations": [
+    "rebuild the economy",
+    "rebuild trust"
+   ],
+   "examples": [
+    {
+     "en": "The town was *rebuilt* after the earthquake.",
+     "vi": "Thị trấn được xây lại sau trận động đất."
+    }
+   ]
+  },
+  {
+   "id": "vbx_trace",
+   "word": "trace",
+   "pos": "verb",
+   "ipa": "/treɪs/",
+   "level": "B2",
+   "meaning": "truy tìm",
+   "definition": "to find the origin of something",
+   "collocations": [
+    "trace a call",
+    "trace back to"
+   ],
+   "examples": [
+    {
+     "en": "We *traced* the problem to a faulty cable.",
+     "vi": "Chúng tôi lần ra nguyên nhân là một sợi cáp bị lỗi."
+    }
+   ]
+  },
+  {
+   "id": "vbx_trigger",
+   "word": "trigger",
+   "pos": "verb",
+   "ipa": "/ˈtrɪɡər/",
+   "level": "B2",
+   "meaning": "gây ra, kích hoạt",
+   "definition": "to cause something to start",
+   "collocations": [
+    "trigger an alarm",
+    "trigger a reaction"
+   ],
+   "examples": [
+    {
+     "en": "Smoke from the kitchen *triggered* the fire alarm.",
+     "vi": "Khói từ bếp làm kích hoạt chuông báo cháy."
+    }
+   ]
+  },
+  {
+   "id": "vbx_unfold",
+   "word": "unfold",
+   "pos": "verb",
+   "ipa": "/ʌnˈfoʊld/",
+   "level": "B2",
+   "meaning": "mở ra; diễn biến",
+   "definition": "to open something folded; to develop",
+   "collocations": [
+    "the story unfolds"
+   ],
+   "examples": [
+    {
+     "en": "We'll see how events *unfold*.",
+     "vi": "Chúng ta sẽ xem sự việc diễn biến thế nào."
+    }
+   ]
+  },
+  {
+   "id": "vbx_urge",
+   "word": "urge",
+   "pos": "verb",
+   "ipa": "/ɜːrdʒ/",
+   "level": "B2",
+   "meaning": "thúc giục, kêu gọi",
+   "definition": "to strongly advise",
+   "collocations": [
+    "urge someone to"
+   ],
+   "examples": [
+    {
+     "en": "Customers are *urged* to update their passwords.",
+     "vi": "Khách hàng được khuyến cáo cập nhật mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "vbx_vary",
+   "word": "vary",
+   "pos": "verb",
+   "ipa": "/ˈveri/",
+   "level": "B2",
+   "meaning": "thay đổi, khác nhau",
+   "definition": "to be different",
+   "collocations": [
+    "vary from … to …",
+    "prices vary"
+   ],
+   "examples": [
+    {
+     "en": "Delivery times *vary* depending on location.",
+     "vi": "Thời gian giao hàng khác nhau tùy địa điểm."
+    }
+   ]
+  },
+  {
+   "id": "vbx_rid",
+   "word": "rid",
+   "pos": "verb",
+   "ipa": "/rɪd/",
+   "level": "B2",
+   "meaning": "(get rid of) loại bỏ",
+   "definition": "used in \"get rid of\"",
+   "collocations": [
+    "get rid of"
+   ],
+   "examples": [
+    {
+     "en": "We need to get *rid* of old files.",
+     "vi": "Chúng ta cần loại bỏ các tệp cũ."
+    }
+   ]
+  },
+  {
+   "id": "vbx_spoil",
+   "word": "spoil",
+   "pos": "verb",
+   "ipa": "/spɔɪl/",
+   "level": "B2",
+   "meaning": "làm hỏng; chiều hư",
+   "definition": "to ruin; to give a child too much",
+   "collocations": [
+    "spoil a holiday",
+    "spoiled child"
+   ],
+   "examples": [
+    {
+     "en": "Don't let one mistake *spoil* your day.",
+     "vi": "Đừng để một lỗi nhỏ làm hỏng cả ngày của bạn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_disturb",
+   "word": "disturb",
+   "pos": "verb",
+   "ipa": "/dɪˈstɜːrb/",
+   "level": "B2",
+   "meaning": "làm phiền",
+   "definition": "to interrupt someone",
+   "collocations": [
+    "do not disturb",
+    "sorry to disturb you"
+   ],
+   "examples": [
+    {
+     "en": "Sorry to *disturb* you, but there's a visitor for you.",
+     "vi": "Xin lỗi làm phiền, có khách đến gặp bạn."
+    }
+   ]
+  },
+  {
+   "id": "vbx_distract",
+   "word": "distract",
+   "pos": "verb",
+   "ipa": "/dɪˈstrækt/",
+   "level": "B2",
+   "meaning": "làm sao nhãng",
+   "definition": "to take attention away",
+   "collocations": [
+    "distract from",
+    "easily distracted"
+   ],
+   "examples": [
+    {
+     "en": "Phones *distract* students from studying.",
+     "vi": "Điện thoại làm học sinh sao nhãng việc học."
+    }
+   ]
+  },
+  {
+   "id": "vbx_isolate",
+   "word": "isolate",
+   "pos": "verb",
+   "ipa": "/ˈaɪsəleɪt/",
+   "level": "B2",
+   "meaning": "cô lập",
+   "definition": "to separate from others",
+   "collocations": [
+    "isolate the problem",
+    "isolate yourself"
+   ],
+   "examples": [
+    {
+     "en": "Engineers *isolated* the problem quickly.",
+     "vi": "Kỹ sư nhanh chóng khoanh vùng được sự cố."
+    }
+   ]
+  },
+  {
+   "id": "vbx_isolated",
+   "word": "isolated",
+   "pos": "adjective",
+   "ipa": "/ˈaɪsəleɪtɪd/",
+   "level": "B2",
+   "meaning": "biệt lập; đơn lẻ",
+   "definition": "far from others; happening once",
+   "collocations": [
+    "an isolated village",
+    "an isolated case"
+   ],
+   "examples": [
+    {
+     "en": "This was an *isolated* incident.",
+     "vi": "Đây chỉ là sự cố đơn lẻ."
+    }
+   ]
+  },
+  {
+   "id": "vbx_locate",
+   "word": "locate",
+   "pos": "verb",
+   "ipa": "/ˈloʊkeɪt/",
+   "level": "B1",
+   "meaning": "xác định vị trí",
+   "definition": "to find the exact position",
+   "collocations": [
+    "locate a file",
+    "be located in"
+   ],
+   "examples": [
+    {
+     "en": "I can't *locate* the file you mentioned.",
+     "vi": "Tôi không tìm thấy tệp bạn nhắc đến."
+    }
+   ]
+  },
+  {
+   "id": "vbx_located",
+   "word": "located",
+   "pos": "adjective",
+   "ipa": "/ˈloʊkeɪtɪd/",
+   "level": "B1",
+   "meaning": "nằm ở",
+   "definition": "in a particular place",
+   "collocations": [
+    "conveniently located",
+    "be located near"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is conveniently *located* near the station.",
+     "vi": "Khách sạn có vị trí thuận tiện gần nhà ga."
+    }
+   ]
+  },
+  {
+   "id": "vbx_seek",
+   "word": "seek",
+   "pos": "verb",
+   "ipa": "/siːk/",
+   "level": "B2",
+   "meaning": "tìm kiếm",
+   "definition": "to look for; to try to get",
+   "collocations": [
+    "seek advice",
+    "seek employment"
+   ],
+   "examples": [
+    {
+     "en": "We are *seeking* an experienced accountant.",
+     "vi": "Chúng tôi đang tìm một kế toán có kinh nghiệm."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

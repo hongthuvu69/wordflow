@@ -1,0 +1,52 @@
+#id: conflict
+#prefix: cfl
+#order: 34
+#icon: 🛡️
+#title: Conflict & Security
+#title_vi: Xung đột & An ninh
+#desc: Chiến tranh, quân đội, khủng bố, phòng thủ: từ vựng đọc tin quốc tế; nhiều từ còn dùng theo nghĩa bóng trong kinh doanh.
+conflict | noun | /ˈkɑːnflɪkt/ | xung đột | a serious disagreement or fight | in conflict with; resolve a conflict; schedule conflict | I have a schedule *conflict* on Monday. | Tôi bị trùng lịch vào thứ Hai.
+battle | noun | /ˈbætl/ | trận chiến | a fight between armies; a struggle | win a battle; a battle against | The company is in a *battle* for market share. | Công ty đang chiến đấu giành thị phần.
+war | noun | /wɔːr/ | chiến tranh | fighting between countries | price war; at war | The two supermarkets are in a price *war*. | Hai siêu thị đang trong cuộc chiến giá cả.
+enemy | noun | /ˈenəmi/ | kẻ thù | a person or country that fights against you | make enemies; the enemy | He's not your *enemy*; he just disagrees with you. | Anh ấy không phải kẻ thù của bạn, chỉ là không đồng ý thôi.
+weapon | noun | /ˈwepən/ | vũ khí | an object used to hurt or kill | nuclear weapons; carry a weapon | Good service is our secret *weapon*. | Dịch vụ tốt là vũ khí bí mật của chúng tôi.
+armed | adjective | /ɑːrmd/ | có vũ trang | carrying weapons | armed police; armed forces | *Armed* guards protect the bank. | Bảo vệ có vũ trang canh gác ngân hàng.
+arms | noun | /ɑːrmz/ | vũ khí | weapons | arms trade; arms control | The UN banned *arms* sales to the region. | Liên Hợp Quốc cấm bán vũ khí cho khu vực đó.
+troop | noun | /truːp/ | quân lính | soldiers | troops; send troops | More *troops* were sent to the border. | Thêm quân được điều tới biên giới.
+commander | noun | /kəˈmændər/ | chỉ huy | a person in charge of soldiers | army commander | The *commander* gave the order to move. | Chỉ huy ra lệnh di chuyển.
+command | noun | /kəˈmænd/ | mệnh lệnh; sự chỉ huy | an order; control | in command; a good command of English | She has a good *command* of English. | Cô ấy sử dụng tiếng Anh thành thạo. | a good command of = thông thạo (rất hay dùng trong CV).
+invade | verb | /ɪnˈveɪd/ | xâm lược | to enter a country with an army | invade a country | The country was *invaded* in 1940. | Đất nước bị xâm lược năm 1940.
+invasion | noun | /ɪnˈveɪʒn/ | cuộc xâm lược | entering a country with an army | invasion of privacy | Reading my e-mails is an *invasion* of privacy. | Đọc e-mail của tôi là xâm phạm quyền riêng tư.
+defence | noun | /dɪˈfens/ | sự phòng thủ | protection against attack | in defence of; defence budget | The best *defence* against viruses is updating your software. | Cách phòng vệ tốt nhất trước virus là cập nhật phần mềm. | Anh-Mỹ: defense.
+defend | verb | /dɪˈfend/ | bảo vệ, phòng thủ | to protect against attack or criticism | defend a decision; defend yourself | The manager *defended* her decision at the meeting. | Quản lý bảo vệ quyết định của mình tại cuộc họp.
+defender | noun | /dɪˈfendər/ | hậu vệ; người bảo vệ | a player who defends; a person who protects | central defender | He plays as a *defender* for the national team. | Anh ấy chơi ở vị trí hậu vệ cho đội tuyển quốc gia.
+attack | noun | /əˈtæk/ | cuộc tấn công; cơn (bệnh) | a violent act; a sudden illness | heart attack; cyber attack | The company's website suffered a cyber *attack*. | Website công ty bị tấn công mạng.
+bomb | noun | /bɑːm/ | quả bom | a weapon that explodes | bomb threat; drop a bomb | The building was evacuated after a *bomb* threat. | Tòa nhà được sơ tán sau lời đe dọa đánh bom. | Chữ b cuối câm.
+bombing | noun | /ˈbɑːmɪŋ/ | vụ đánh bom | an attack with bombs | a bombing attack | The city was damaged by *bombing* during the war. | Thành phố bị tàn phá bởi bom đạn trong chiến tranh.
+explode | verb | /ɪkˈsploʊd/ | phát nổ | to burst with a loud noise | explode suddenly | A gas tank *exploded* in the factory. | Một bình gas phát nổ trong nhà máy.
+explosion | noun | /ɪkˈsploʊʒn/ | vụ nổ; sự bùng nổ | a sudden loud burst; a sudden large increase | gas explosion; population explosion | There has been an *explosion* in online shopping. | Mua sắm trực tuyến bùng nổ.
+bullet | noun | /ˈbʊlɪt/ | viên đạn; dấu đầu dòng | a small piece of metal shot from a gun; a symbol • | bullet points; bulletproof | Use *bullet* points to list the main ideas. | Dùng gạch đầu dòng để liệt kê ý chính.
+shoot | verb | /ʃuːt/ | bắn; quay phim | to fire a gun; to film | shoot a film; be shot | They are *shooting* a commercial in the lobby today. | Hôm nay họ quay quảng cáo ở sảnh.
+shooting | noun | /ˈʃuːtɪŋ/ | vụ nổ súng; việc quay phim | a situation where someone is shot; filming | film shooting | *Shooting* for the film starts next month. | Việc quay bộ phim bắt đầu vào tháng tới.
+terror | noun | /ˈterər/ | sự khiếp sợ; khủng bố | great fear; violence to frighten people | in terror; war on terror | The children screamed in *terror*. | Bọn trẻ hét lên vì khiếp sợ.
+terrorism | noun | /ˈterərɪzəm/ | chủ nghĩa khủng bố | violence used for political aims | fight terrorism | Airports have strict checks to prevent *terrorism*. | Sân bay kiểm tra nghiêm ngặt để ngăn chặn khủng bố.
+terrorist | noun | /ˈterərɪst/ | kẻ khủng bố | a person who uses violence for political aims | terrorist attack | Police stopped a *terrorist* attack. | Cảnh sát ngăn chặn một vụ tấn công khủng bố.
+threat | noun | /θret/ | mối đe dọa | a sign that something bad may happen | a threat to; pose a threat | Online competitors are a *threat* to small shops. | Đối thủ trực tuyến là mối đe dọa với các cửa hàng nhỏ.
+threaten | verb | /ˈθretn/ | đe dọa | to say you will cause harm; to be likely to harm | threaten to; be threatened by | The storm *threatened* to delay all flights. | Cơn bão có nguy cơ làm chậm tất cả chuyến bay.
+capture | verb | /ˈkæptʃər/ | bắt giữ; thu được | to catch; to get control of; to record in a picture | capture market share; capture a moment | The photo *captures* the beauty of the bay. | Bức ảnh ghi lại vẻ đẹp của vịnh.
+escape | verb | /ɪˈskeɪp/ | trốn thoát | to get away from a place or danger | escape from; a narrow escape | Everyone *escaped* from the fire safely. | Mọi người thoát khỏi đám cháy an toàn.
+rescue | verb | /ˈreskjuː/ | giải cứu | to save someone from danger | rescue workers; be rescued | Fishermen *rescued* two tourists from the sea. | Ngư dân cứu hai du khách khỏi biển.
+survive | verb | /sərˈvaɪv/ | sống sót; tồn tại | to continue to live or exist | survive a crisis; survive the accident | Many small shops did not *survive* the pandemic. | Nhiều cửa hàng nhỏ không trụ được qua đại dịch.
+survival | noun | /sərˈvaɪvl/ | sự sống còn | the state of continuing to live | the survival of the company; survival skills | The *survival* of the business depends on new customers. | Sự sống còn của doanh nghiệp phụ thuộc vào khách hàng mới.
+survivor | noun | /sərˈvaɪvər/ | người sống sót | a person who survives | the only survivor | There were three *survivors* of the crash. | Có ba người sống sót sau vụ tai nạn.
+destruction | noun | /dɪˈstrʌkʃn/ | sự phá hủy | the act of destroying | cause destruction; environmental destruction | The storm caused great *destruction*. | Cơn bão gây tàn phá nặng nề.
+ruin | verb | /ˈruːɪn/ | làm hỏng, phá hủy | to damage completely | ruin a holiday; be ruined | The rain *ruined* our picnic. | Cơn mưa làm hỏng buổi dã ngoại.
+damage | noun | /ˈdæmɪdʒ/ | sự thiệt hại | physical harm | cause damage; damage to; water damage | The storm caused serious *damage* to the roof. | Cơn bão gây thiệt hại nặng cho mái nhà. | Danh từ không đếm được; damages (số nhiều) = tiền bồi thường.
+harm | noun | /hɑːrm/ | sự tổn hại | damage or injury | cause harm; do more harm than good | Too much sun can do *harm* to your skin. | Quá nhiều nắng có thể gây hại cho da.
+deadly | adjective | /ˈdedli/ | chết người | causing death | a deadly disease; deadly accident | The virus can be *deadly* for older people. | Virus có thể gây tử vong cho người cao tuổi.
+peaceful | adjective | /ˈpiːsfl/ | hòa bình; yên bình | without violence; quiet and calm | a peaceful protest; a peaceful place | We found a *peaceful* spot by the lake. | Chúng tôi tìm được một chỗ yên bình bên hồ.
+slave | noun | /sleɪv/ | nô lệ | a person owned by another person | slave trade | Don't be a *slave* to your phone. | Đừng làm nô lệ cho chiếc điện thoại.
+servant | noun | /ˈsɜːrvənt/ | người hầu; công chức | a person who works in another's house; a government worker | civil servant | My father was a civil *servant*. | Bố tôi là công chức nhà nước.
+conspiracy | noun | /kənˈspɪrəsi/ | âm mưu | a secret plan to do something illegal | conspiracy theory | Don't believe every *conspiracy* theory online. | Đừng tin mọi thuyết âm mưu trên mạng.
+spy | noun | /spaɪ/ | gián điệp | a person who secretly collects information | spy film; industrial spy | The film is about a *spy* in Berlin. | Bộ phim kể về một điệp viên ở Berlin.
+alliance | noun | /əˈlaɪəns/ | liên minh | an agreement to work together | form an alliance; strategic alliance | The airlines formed an *alliance* to share routes. | Các hãng bay lập liên minh để chia sẻ đường bay.

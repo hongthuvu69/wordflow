@@ -1,0 +1,67 @@
+#id: verbs_work2
+#prefix: vbx
+#order: 43
+#icon: 🔧
+#title: Key Verbs at Work (2)
+#title_vi: Động từ công việc thiết yếu (2)
+#desc: Tiến hành, theo đuổi, khôi phục, đình chỉ, rút lại…: tiếp nối nhóm động từ trọng tâm cho Part 5 và Part 7.
+proceed | verb | /proʊˈsiːd/ | tiếp tục; tiến hành | to continue; to go to a place | proceed with; proceed to gate 5 | Passengers should *proceed* to gate 12. | Hành khách vui lòng di chuyển đến cửa 12.
+produce | verb | /prəˈduːs/ | sản xuất; xuất trình | to make; to show something | produce goods; produce your ticket | The factory *produces* 500 cars a day. | Nhà máy sản xuất 500 xe mỗi ngày.
+pursue | verb | /pərˈsuː/ | theo đuổi | to try to achieve something | pursue a career; pursue a goal | She left the company to *pursue* a career in design. | Cô ấy rời công ty để theo đuổi nghề thiết kế.
+pursuit | noun | /pərˈsuːt/ | sự theo đuổi | the act of trying to get something | in pursuit of | He moved to the city in *pursuit* of a better job. | Anh ấy chuyển lên thành phố để tìm một công việc tốt hơn.
+reinforce | verb | /ˌriːɪnˈfɔːrs/ | củng cố | to make stronger | reinforce a message; reinforce learning | Regular practice *reinforces* what you learn. | Luyện tập thường xuyên củng cố kiến thức đã học.
+reject | verb | /rɪˈdʒekt/ | từ chối, bác bỏ | to refuse to accept | reject an offer; reject a proposal | The board *rejected* the proposal. | Hội đồng đã bác bỏ đề xuất.
+relate | verb | /rɪˈleɪt/ | liên quan; đồng cảm | to be connected; to understand someone's feelings | relate to | The question *relates* to last month's figures. | Câu hỏi liên quan đến số liệu tháng trước.
+related | adjective | /rɪˈleɪtɪd/ | có liên quan | connected | related to; work-related | Please send all work-*related* questions to HR. | Vui lòng gửi mọi câu hỏi liên quan đến công việc cho phòng nhân sự.
+release | verb | /rɪˈliːs/ | phát hành; công bố; thả | to make available to the public; to let go | release a product; release a statement | The company will *release* its results on Monday. | Công ty sẽ công bố kết quả vào thứ Hai.
+remain | verb | /rɪˈmeɪn/ | vẫn còn; ở lại | to stay in the same state or place | remain open; remain seated | The store will *remain* open during renovations. | Cửa hàng vẫn mở cửa trong thời gian sửa sang.
+repeat | verb | /rɪˈpiːt/ | lặp lại | to say or do again | repeat the question; repeat customers | Could you *repeat* that, please? | Bạn có thể nhắc lại được không?
+repeated | adjective | /rɪˈpiːtɪd/ | lặp đi lặp lại | done many times | repeated requests; repeated attempts | Despite *repeated* requests, the item was not delivered. | Dù đã yêu cầu nhiều lần, hàng vẫn không được giao.
+reserve | verb | /rɪˈzɜːrv/ | đặt trước; dành riêng | to book; to keep for a particular purpose | reserve a table; reserved for | I'd like to *reserve* a table for four. | Tôi muốn đặt bàn cho bốn người.
+resist | verb | /rɪˈzɪst/ | kháng cự, cưỡng lại | to fight against; to stop yourself doing | resist change; can't resist | Some staff *resist* changes to the system. | Một số nhân viên phản đối thay đổi hệ thống.
+restore | verb | /rɪˈstɔːr/ | khôi phục | to bring back to a former condition | restore power; restore a building | Power was *restored* after two hours. | Điện được khôi phục sau hai giờ.
+retain | verb | /rɪˈteɪn/ | giữ lại | to keep | retain staff; retain customers | Please *retain* your receipt. | Vui lòng giữ lại hóa đơn.
+select | verb | /sɪˈlekt/ | lựa chọn | to choose | select from; carefully selected | Three candidates were *selected* for the final interview. | Ba ứng viên được chọn vào vòng phỏng vấn cuối.
+selection | noun | /sɪˈlekʃn/ | sự lựa chọn; tập hợp lựa chọn | the act of choosing; a range of things | a wide selection; selection process | The store has a wide *selection* of wines. | Cửa hàng có nhiều loại rượu để lựa chọn.
+settle | verb | /ˈsetl/ | giải quyết; thanh toán; định cư | to end an argument; to pay; to start living somewhere | settle a bill; settle a dispute; settle in | Please *settle* your bill at the front desk. | Vui lòng thanh toán hóa đơn tại quầy lễ tân.
+settler | noun | /ˈsetlər/ | người định cư | a person who goes to live in a new place | early settlers | The town was founded by European *settlers*. | Thị trấn được thành lập bởi những người định cư châu Âu.
+specify | verb | /ˈspesɪfaɪ/ | ghi rõ | to state exactly | unless otherwise specified; specify the size | Please *specify* the size and colour when ordering. | Vui lòng ghi rõ kích cỡ và màu khi đặt hàng.
+specialize | verb | /ˈspeʃəlaɪz/ | chuyên về | to focus on one area | specialize in | The firm *specializes* in tax law. | Công ty chuyên về luật thuế.
+stimulate | verb | /ˈstɪmjuleɪt/ | kích thích, thúc đẩy | to encourage growth or activity | stimulate the economy; stimulate interest | Lower taxes may *stimulate* the economy. | Giảm thuế có thể kích thích nền kinh tế.
+suspend | verb | /səˈspend/ | tạm ngừng; đình chỉ | to stop for a time; to hang | suspend service; be suspended | Train service has been *suspended* due to the storm. | Dịch vụ tàu đã tạm ngừng vì bão.
+transfer | verb | /trænsˈfɜːr/ | chuyển (tiền, công tác, cuộc gọi) | to move from one place, person or job to another | transfer money; transfer a call; be transferred | I'll *transfer* your call to the sales department. | Tôi sẽ chuyển cuộc gọi của bạn đến phòng kinh doanh.
+transform | verb | /trænsˈfɔːrm/ | biến đổi hoàn toàn | to change completely | transform into; transform the business | Technology has *transformed* the way we work. | Công nghệ đã thay đổi hoàn toàn cách chúng ta làm việc.
+transition | noun | /trænˈzɪʃn/ | sự chuyển đổi | a change from one state to another | a smooth transition; transition period | The *transition* to the new system went smoothly. | Việc chuyển sang hệ thống mới diễn ra suôn sẻ.
+undergo | verb | /ˌʌndərˈɡoʊ/ | trải qua | to experience a process | undergo training; undergo changes | The building is *undergoing* renovation. | Tòa nhà đang được cải tạo.
+undertake | verb | /ˌʌndərˈteɪk/ | đảm nhận | to agree to do a task | undertake a project; undertake research | The company *undertook* a major review of its costs. | Công ty tiến hành rà soát lớn về chi phí.
+withdraw | verb | /wɪðˈdrɔː/ | rút (tiền); rút lui | to take money from a bank; to take back | withdraw cash; withdraw from | You can *withdraw* cash at the ATM in the lobby. | Bạn có thể rút tiền tại cây ATM ở sảnh.
+abandon | verb | /əˈbændən/ | từ bỏ, bỏ rơi | to leave forever; to stop doing | abandon a plan; abandoned building | The plan was *abandoned* because of the cost. | Kế hoạch bị hủy bỏ vì chi phí.
+absorb | verb | /əbˈzɔːrb/ | hấp thụ; tiếp thu | to take in liquid; to take in information | absorb information; absorb costs | The company will *absorb* the extra shipping costs. | Công ty sẽ chịu phần phí vận chuyển phát sinh.
+accompany | verb | /əˈkʌmpəni/ | đi cùng; kèm theo | to go with someone; to happen with | be accompanied by | Children must be *accompanied* by an adult. | Trẻ em phải có người lớn đi kèm.
+alter | verb | /ˈɔːltər/ | thay đổi | to change | alter a plan; alter clothes | We had to *alter* our travel plans. | Chúng tôi phải thay đổi kế hoạch đi lại.
+anticipate | verb | /ænˈtɪsɪpeɪt/ | dự đoán, lường trước | to expect | anticipate problems; anticipated demand | We *anticipate* a busy holiday season. | Chúng tôi dự đoán mùa lễ sẽ bận rộn.
+arise | verb | /əˈraɪz/ | phát sinh | to happen; to start to exist | problems arise; if questions arise | Contact me if any problems *arise*. | Liên hệ tôi nếu có vấn đề phát sinh.
+associate | verb | /əˈsoʊʃieɪt/ | liên tưởng; liên kết | to connect in your mind; to be connected with | associate with; be associated with | Most people *associate* the brand with quality. | Hầu hết mọi người liên tưởng thương hiệu với chất lượng. | Danh từ associate = cộng sự.
+associated | adjective | /əˈsoʊʃieɪtɪd/ | có liên quan | connected | associated with; associated costs | There are risks *associated* with the plan. | Kế hoạch đi kèm một số rủi ro.
+association | noun | /əˌsoʊsiˈeɪʃn/ | hiệp hội; sự liên kết | an organization of people with a shared interest | trade association; in association with | The event is held in *association* with the local council. | Sự kiện được tổ chức phối hợp với hội đồng địa phương.
+encounter | verb | /ɪnˈkaʊntər/ | gặp phải | to experience something, often a problem | encounter problems; encounter difficulties | If you *encounter* any problems, call IT. | Nếu gặp sự cố, hãy gọi phòng IT.
+embrace | verb | /ɪmˈbreɪs/ | đón nhận; ôm | to accept eagerly; to hug | embrace change; embrace new ideas | Successful companies *embrace* change. | Các công ty thành công luôn đón nhận thay đổi.
+convert | verb | /kənˈvɜːrt/ | chuyển đổi | to change from one form to another | convert into; convert currency | The old warehouse was *converted* into offices. | Nhà kho cũ được chuyển đổi thành văn phòng.
+register | verb | /ˈredʒɪstər/ | đăng ký | to put your name on an official list | register for; registered users | Please *register* for the conference online. | Vui lòng đăng ký hội nghị trực tuyến.
+registration | noun | /ˌredʒɪˈstreɪʃn/ | sự đăng ký | the act of registering | registration fee; online registration | *Registration* closes on Friday. | Việc đăng ký kết thúc vào thứ Sáu.
+separate | adjective | /ˈseprət/ | riêng biệt | not joined; different | separate rooms; a separate issue | Please put paper and plastic in *separate* bins. | Vui lòng bỏ giấy và nhựa vào thùng riêng. | Động từ separate /ˈsepəreɪt/ = tách ra.
+rebuild | verb | /ˌriːˈbɪld/ | xây lại | to build again | rebuild the economy; rebuild trust | The town was *rebuilt* after the earthquake. | Thị trấn được xây lại sau trận động đất.
+trace | verb | /treɪs/ | truy tìm | to find the origin of something | trace a call; trace back to | We *traced* the problem to a faulty cable. | Chúng tôi lần ra nguyên nhân là một sợi cáp bị lỗi.
+trigger | verb | /ˈtrɪɡər/ | gây ra, kích hoạt | to cause something to start | trigger an alarm; trigger a reaction | Smoke from the kitchen *triggered* the fire alarm. | Khói từ bếp làm kích hoạt chuông báo cháy.
+unfold | verb | /ʌnˈfoʊld/ | mở ra; diễn biến | to open something folded; to develop | the story unfolds | We'll see how events *unfold*. | Chúng ta sẽ xem sự việc diễn biến thế nào.
+urge | verb | /ɜːrdʒ/ | thúc giục, kêu gọi | to strongly advise | urge someone to | Customers are *urged* to update their passwords. | Khách hàng được khuyến cáo cập nhật mật khẩu.
+vary | verb | /ˈveri/ | thay đổi, khác nhau | to be different | vary from … to …; prices vary | Delivery times *vary* depending on location. | Thời gian giao hàng khác nhau tùy địa điểm.
+rid | verb | /rɪd/ | (get rid of) loại bỏ | used in "get rid of" | get rid of | We need to get *rid* of old files. | Chúng ta cần loại bỏ các tệp cũ.
+spoil | verb | /spɔɪl/ | làm hỏng; chiều hư | to ruin; to give a child too much | spoil a holiday; spoiled child | Don't let one mistake *spoil* your day. | Đừng để một lỗi nhỏ làm hỏng cả ngày của bạn.
+disturb | verb | /dɪˈstɜːrb/ | làm phiền | to interrupt someone | do not disturb; sorry to disturb you | Sorry to *disturb* you, but there's a visitor for you. | Xin lỗi làm phiền, có khách đến gặp bạn.
+distract | verb | /dɪˈstrækt/ | làm sao nhãng | to take attention away | distract from; easily distracted | Phones *distract* students from studying. | Điện thoại làm học sinh sao nhãng việc học.
+isolate | verb | /ˈaɪsəleɪt/ | cô lập | to separate from others | isolate the problem; isolate yourself | Engineers *isolated* the problem quickly. | Kỹ sư nhanh chóng khoanh vùng được sự cố.
+isolated | adjective | /ˈaɪsəleɪtɪd/ | biệt lập; đơn lẻ | far from others; happening once | an isolated village; an isolated case | This was an *isolated* incident. | Đây chỉ là sự cố đơn lẻ.
+locate | verb | /ˈloʊkeɪt/ | xác định vị trí | to find the exact position | locate a file; be located in | I can't *locate* the file you mentioned. | Tôi không tìm thấy tệp bạn nhắc đến.
+located | adjective | /ˈloʊkeɪtɪd/ | nằm ở | in a particular place | conveniently located; be located near | The hotel is conveniently *located* near the station. | Khách sạn có vị trí thuận tiện gần nhà ga.
+seek | verb | /siːk/ | tìm kiếm | to look for; to try to get | seek advice; seek employment | We are *seeking* an experienced accountant. | Chúng tôi đang tìm một kế toán có kinh nghiệm.

@@ -1,0 +1,865 @@
+{
+ "id": "toeic_accounting",
+ "order": 54,
+ "icon": "🧾",
+ "level": "TOEIC",
+ "title": "TOEIC: Finance & Accounting",
+ "title_vi": "TOEIC: Tài chính & Kế toán",
+ "description": "Hóa đơn, ngân sách, kiểm toán, báo cáo quý, thanh toán: từ vựng email kế toán và báo cáo tài chính trong Part 7.",
+ "words": [
+  {
+   "id": "tac_invoice",
+   "word": "invoice",
+   "pos": "noun",
+   "ipa": "/ˈɪnvɔɪs/",
+   "level": "TOEIC",
+   "meaning": "hóa đơn (đòi tiền)",
+   "definition": "a document listing goods or services and their cost",
+   "collocations": [
+    "send an invoice",
+    "pay an invoice",
+    "invoice number"
+   ],
+   "examples": [
+    {
+     "en": "Please pay the *invoice* within 30 days.",
+     "vi": "Vui lòng thanh toán hóa đơn trong vòng 30 ngày."
+    }
+   ]
+  },
+  {
+   "id": "tac_accounting",
+   "word": "accounting",
+   "pos": "noun",
+   "ipa": "/əˈkaʊntɪŋ/",
+   "level": "TOEIC",
+   "meaning": "kế toán",
+   "definition": "the work of keeping financial records",
+   "collocations": [
+    "accounting department",
+    "accounting software"
+   ],
+   "examples": [
+    {
+     "en": "She works in the *accounting* department.",
+     "vi": "Cô ấy làm ở phòng kế toán."
+    }
+   ]
+  },
+  {
+   "id": "tac_accounts_payable",
+   "word": "accounts payable",
+   "pos": "noun",
+   "ipa": "/əˌkaʊnts ˈpeɪəbl/",
+   "level": "TOEIC",
+   "meaning": "các khoản phải trả",
+   "definition": "money a company owes",
+   "collocations": [
+    "the accounts payable team"
+   ],
+   "examples": [
+    {
+     "en": "Send supplier invoices to *accounts payable*.",
+     "vi": "Gửi hóa đơn nhà cung cấp cho bộ phận phải trả."
+    }
+   ]
+  },
+  {
+   "id": "tac_accounts_receivable",
+   "word": "accounts receivable",
+   "pos": "noun",
+   "ipa": "/əˌkaʊnts rɪˈsiːvəbl/",
+   "level": "TOEIC",
+   "meaning": "các khoản phải thu",
+   "definition": "money owed to a company",
+   "collocations": [
+    "the accounts receivable team"
+   ],
+   "examples": [
+    {
+     "en": "Contact *accounts receivable* about unpaid invoices.",
+     "vi": "Liên hệ bộ phận phải thu về các hóa đơn chưa thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tac_audit",
+   "word": "audit",
+   "pos": "noun",
+   "ipa": "/ˈɔːdɪt/",
+   "level": "C1",
+   "meaning": "cuộc kiểm toán",
+   "definition": "an official check of financial records",
+   "collocations": [
+    "annual audit",
+    "carry out an audit"
+   ],
+   "examples": [
+    {
+     "en": "The *audit* will take place in March.",
+     "vi": "Cuộc kiểm toán sẽ diễn ra vào tháng Ba."
+    }
+   ]
+  },
+  {
+   "id": "tac_auditor",
+   "word": "auditor",
+   "pos": "noun",
+   "ipa": "/ˈɔːdɪtər/",
+   "level": "TOEIC",
+   "meaning": "kiểm toán viên",
+   "definition": "a person who checks financial records",
+   "collocations": [
+    "external auditor"
+   ],
+   "examples": [
+    {
+     "en": "The *auditors* found no problems.",
+     "vi": "Kiểm toán viên không phát hiện vấn đề gì."
+    }
+   ]
+  },
+  {
+   "id": "tac_balance_sheet",
+   "word": "balance sheet",
+   "pos": "noun",
+   "ipa": "/ˈbæləns ʃiːt/",
+   "level": "TOEIC",
+   "meaning": "bảng cân đối kế toán",
+   "definition": "a statement of a company's assets and debts",
+   "collocations": [
+    "the company's balance sheet"
+   ],
+   "examples": [
+    {
+     "en": "The *balance sheet* shows a healthy financial position.",
+     "vi": "Bảng cân đối cho thấy tình hình tài chính lành mạnh."
+    }
+   ]
+  },
+  {
+   "id": "tac_fiscal",
+   "word": "fiscal",
+   "pos": "adjective",
+   "ipa": "/ˈfɪskl/",
+   "level": "TOEIC",
+   "meaning": "thuộc tài khóa",
+   "definition": "connected with money and taxes",
+   "collocations": [
+    "fiscal year",
+    "fiscal policy"
+   ],
+   "examples": [
+    {
+     "en": "Our *fiscal* year ends in June.",
+     "vi": "Năm tài chính của chúng tôi kết thúc vào tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tac_quarter",
+   "word": "quarter",
+   "pos": "noun",
+   "ipa": "/ˈkwɔːrtər/",
+   "level": "A1",
+   "meaning": "quý (3 tháng); một phần tư",
+   "definition": "three months of a year; one of four parts",
+   "collocations": [
+    "the first quarter",
+    "a quarter of"
+   ],
+   "examples": [
+    {
+     "en": "Sales rose in the third *quarter*.",
+     "vi": "Doanh số tăng trong quý ba."
+    }
+   ]
+  },
+  {
+   "id": "tac_quarterly",
+   "word": "quarterly",
+   "pos": "adjective",
+   "ipa": "/ˈkwɔːrtərli/",
+   "level": "TOEIC",
+   "meaning": "hằng quý",
+   "definition": "happening every three months",
+   "collocations": [
+    "quarterly report",
+    "quarterly meeting"
+   ],
+   "examples": [
+    {
+     "en": "The *quarterly* report is due next week.",
+     "vi": "Báo cáo quý đến hạn vào tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "tac_expenditure",
+   "word": "expenditure",
+   "pos": "noun",
+   "ipa": "/ɪkˈspendɪtʃər/",
+   "level": "C1",
+   "meaning": "khoản chi tiêu",
+   "definition": "the amount of money spent",
+   "collocations": [
+    "capital expenditure",
+    "reduce expenditure"
+   ],
+   "examples": [
+    {
+     "en": "The company must reduce its *expenditure*.",
+     "vi": "Công ty phải cắt giảm chi tiêu."
+    }
+   ]
+  },
+  {
+   "id": "tac_projection",
+   "word": "projection",
+   "pos": "noun",
+   "ipa": "/prəˈdʒekʃn/",
+   "level": "C1",
+   "meaning": "dự phóng, ước tính",
+   "definition": "an estimate of future figures",
+   "collocations": [
+    "sales projections"
+   ],
+   "examples": [
+    {
+     "en": "Our *projections* show 10% growth.",
+     "vi": "Dự phóng của chúng tôi cho thấy tăng trưởng 10%."
+    }
+   ]
+  },
+  {
+   "id": "tac_spreadsheet",
+   "word": "spreadsheet",
+   "pos": "noun",
+   "ipa": "/ˈspredʃiːt/",
+   "level": "TOEIC",
+   "meaning": "bảng tính",
+   "definition": "a computer document with rows and columns of numbers",
+   "collocations": [
+    "update the spreadsheet"
+   ],
+   "examples": [
+    {
+     "en": "I'll send you the budget *spreadsheet*.",
+     "vi": "Tôi sẽ gửi bạn bảng tính ngân sách."
+    }
+   ]
+  },
+  {
+   "id": "tac_overdraft",
+   "word": "overdraft",
+   "pos": "noun",
+   "ipa": "/ˈoʊvərdræft/",
+   "level": "TOEIC",
+   "meaning": "khoản thấu chi",
+   "definition": "money taken from a bank account beyond its balance",
+   "collocations": [
+    "overdraft fee"
+   ],
+   "examples": [
+    {
+     "en": "The bank charges a fee for an *overdraft*.",
+     "vi": "Ngân hàng tính phí khi thấu chi."
+    }
+   ]
+  },
+  {
+   "id": "tac_outstanding_balance",
+   "word": "outstanding balance",
+   "pos": "noun",
+   "ipa": "/aʊtˈstændɪŋ ˈbæləns/",
+   "level": "TOEIC",
+   "meaning": "số dư còn nợ",
+   "definition": "money still owed",
+   "collocations": [
+    "pay the outstanding balance"
+   ],
+   "examples": [
+    {
+     "en": "Your *outstanding balance* is $250.",
+     "vi": "Số dư còn nợ của bạn là 250 đô."
+    }
+   ]
+  },
+  {
+   "id": "tac_installment",
+   "word": "installment",
+   "pos": "noun",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "level": "TOEIC",
+   "meaning": "khoản trả góp",
+   "definition": "one of several payments",
+   "collocations": [
+    "pay in installments",
+    "monthly installments"
+   ],
+   "examples": [
+    {
+     "en": "You can pay in six monthly *installments*.",
+     "vi": "Bạn có thể trả góp sáu tháng."
+    }
+   ],
+   "note": "Anh-Anh: instalment."
+  },
+  {
+   "id": "tac_remittance",
+   "word": "remittance",
+   "pos": "noun",
+   "ipa": "/rɪˈmɪtns/",
+   "level": "TOEIC",
+   "meaning": "khoản tiền chuyển",
+   "definition": "money sent as payment",
+   "collocations": [
+    "remittance advice"
+   ],
+   "examples": [
+    {
+     "en": "Please include the invoice number with your *remittance*.",
+     "vi": "Vui lòng ghi số hóa đơn khi chuyển tiền."
+    }
+   ]
+  },
+  {
+   "id": "tac_wire_transfer",
+   "word": "wire transfer",
+   "pos": "noun",
+   "ipa": "/ˈwaɪər ˌtrænsfɜːr/",
+   "level": "TOEIC",
+   "meaning": "chuyển khoản điện tử",
+   "definition": "sending money electronically between banks",
+   "collocations": [
+    "pay by wire transfer"
+   ],
+   "examples": [
+    {
+     "en": "Payment can be made by *wire transfer*.",
+     "vi": "Có thể thanh toán bằng chuyển khoản."
+    }
+   ]
+  },
+  {
+   "id": "tac_due_date",
+   "word": "due date",
+   "pos": "noun",
+   "ipa": "/ˈduː deɪt/",
+   "level": "TOEIC",
+   "meaning": "ngày đến hạn",
+   "definition": "the date by which something must be paid or done",
+   "collocations": [
+    "payment due date"
+   ],
+   "examples": [
+    {
+     "en": "The *due date* for payment is March 15.",
+     "vi": "Ngày đến hạn thanh toán là 15/3."
+    }
+   ]
+  },
+  {
+   "id": "tac_late_fee",
+   "word": "late fee",
+   "pos": "noun",
+   "ipa": "/ˈleɪt fiː/",
+   "level": "TOEIC",
+   "meaning": "phí trễ hạn",
+   "definition": "money charged for paying late",
+   "collocations": [
+    "charge a late fee"
+   ],
+   "examples": [
+    {
+     "en": "A *late fee* of $20 will be added.",
+     "vi": "Phí trễ hạn 20 đô sẽ được cộng thêm."
+    }
+   ]
+  },
+  {
+   "id": "tac_billing",
+   "word": "billing",
+   "pos": "noun",
+   "ipa": "/ˈbɪlɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc lập hóa đơn",
+   "definition": "the process of sending bills",
+   "collocations": [
+    "billing address",
+    "billing department"
+   ],
+   "examples": [
+    {
+     "en": "Please update your *billing* address.",
+     "vi": "Vui lòng cập nhật địa chỉ thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tac_statement",
+   "word": "statement",
+   "pos": "noun",
+   "ipa": "/ˈsteɪtmənt/",
+   "level": "A1",
+   "meaning": "bản sao kê; tuyên bố",
+   "definition": "a document showing money paid and received; something said officially",
+   "collocations": [
+    "bank statement",
+    "issue a statement"
+   ],
+   "examples": [
+    {
+     "en": "Check your monthly bank *statement*.",
+     "vi": "Kiểm tra sao kê ngân hàng hằng tháng."
+    }
+   ]
+  },
+  {
+   "id": "tac_transaction",
+   "word": "transaction",
+   "pos": "noun",
+   "ipa": "/trænˈzækʃn/",
+   "level": "C1",
+   "meaning": "giao dịch",
+   "definition": "an act of buying, selling or moving money",
+   "collocations": [
+    "online transaction",
+    "transaction fee"
+   ],
+   "examples": [
+    {
+     "en": "Each *transaction* is recorded automatically.",
+     "vi": "Mỗi giao dịch đều được ghi lại tự động."
+    }
+   ]
+  },
+  {
+   "id": "tac_earnings",
+   "word": "earnings",
+   "pos": "noun",
+   "ipa": "/ˈɜːrnɪŋz/",
+   "level": "C1",
+   "meaning": "thu nhập; lợi nhuận",
+   "definition": "money earned",
+   "collocations": [
+    "annual earnings",
+    "quarterly earnings"
+   ],
+   "examples": [
+    {
+     "en": "The company reported higher *earnings* this quarter.",
+     "vi": "Công ty báo cáo lợi nhuận cao hơn trong quý này."
+    }
+   ]
+  },
+  {
+   "id": "tac_gross",
+   "word": "gross",
+   "pos": "adjective",
+   "ipa": "/ɡroʊs/",
+   "level": "C1",
+   "meaning": "tổng (trước khi trừ)",
+   "definition": "total, before taxes or costs",
+   "collocations": [
+    "gross income",
+    "gross profit"
+   ],
+   "examples": [
+    {
+     "en": "Her *gross* salary is $2,000 a month.",
+     "vi": "Lương gộp (trước thuế) của cô ấy là 2.000 đô một tháng."
+    }
+   ]
+  },
+  {
+   "id": "tac_deduct",
+   "word": "deduct",
+   "pos": "verb",
+   "ipa": "/dɪˈdʌkt/",
+   "level": "TOEIC",
+   "meaning": "khấu trừ",
+   "definition": "to take away an amount",
+   "collocations": [
+    "deduct from",
+    "tax is deducted"
+   ],
+   "examples": [
+    {
+     "en": "Tax is *deducted* from your salary each month.",
+     "vi": "Thuế được khấu trừ vào lương hằng tháng."
+    }
+   ]
+  },
+  {
+   "id": "tac_deduction",
+   "word": "deduction",
+   "pos": "noun",
+   "ipa": "/dɪˈdʌkʃn/",
+   "level": "TOEIC",
+   "meaning": "khoản khấu trừ",
+   "definition": "an amount taken away",
+   "collocations": [
+    "tax deduction",
+    "salary deductions"
+   ],
+   "examples": [
+    {
+     "en": "Your payslip shows all *deductions*.",
+     "vi": "Phiếu lương thể hiện mọi khoản khấu trừ."
+    }
+   ]
+  },
+  {
+   "id": "tac_payable",
+   "word": "payable",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪəbl/",
+   "level": "TOEIC",
+   "meaning": "phải trả",
+   "definition": "that must be paid",
+   "collocations": [
+    "payable to",
+    "payable by"
+   ],
+   "examples": [
+    {
+     "en": "Make the check *payable* to Lexford Ltd.",
+     "vi": "Ghi séc trả cho công ty Lexford."
+    }
+   ]
+  },
+  {
+   "id": "tac_cost_effective",
+   "word": "cost-effective",
+   "pos": "adjective",
+   "ipa": "/ˌkɔːst ɪˈfektɪv/",
+   "level": "TOEIC",
+   "meaning": "hiệu quả về chi phí",
+   "definition": "giving good results for the money spent",
+   "collocations": [
+    "a cost-effective solution"
+   ],
+   "examples": [
+    {
+     "en": "Online ads are more *cost-effective* than TV ads.",
+     "vi": "Quảng cáo trực tuyến hiệu quả chi phí hơn quảng cáo TV."
+    }
+   ]
+  },
+  {
+   "id": "tac_overhead",
+   "word": "overhead",
+   "pos": "noun",
+   "ipa": "/ˈoʊvərhed/",
+   "level": "TOEIC",
+   "meaning": "chi phí chung",
+   "definition": "regular business costs like rent and electricity",
+   "collocations": [
+    "reduce overheads",
+    "overhead costs"
+   ],
+   "examples": [
+    {
+     "en": "Working from home reduces *overhead* costs.",
+     "vi": "Làm việc tại nhà giúp giảm chi phí chung."
+    }
+   ]
+  },
+  {
+   "id": "tac_allocate",
+   "word": "allocate",
+   "pos": "verb",
+   "ipa": "/ˈæləkeɪt/",
+   "level": "C1",
+   "meaning": "phân bổ",
+   "definition": "to give money or resources for a purpose",
+   "collocations": [
+    "allocate funds",
+    "allocate resources"
+   ],
+   "examples": [
+    {
+     "en": "The board *allocated* $50,000 for training.",
+     "vi": "Hội đồng phân bổ 50.000 đô cho đào tạo."
+    }
+   ]
+  },
+  {
+   "id": "tac_allocation",
+   "word": "allocation",
+   "pos": "noun",
+   "ipa": "/ˌæləˈkeɪʃn/",
+   "level": "C1",
+   "meaning": "sự phân bổ",
+   "definition": "an amount given for a purpose",
+   "collocations": [
+    "budget allocation"
+   ],
+   "examples": [
+    {
+     "en": "The budget *allocation* for marketing was increased.",
+     "vi": "Ngân sách phân bổ cho marketing được tăng."
+    }
+   ]
+  },
+  {
+   "id": "tac_surplus",
+   "word": "surplus",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrpləs/",
+   "level": "C1",
+   "meaning": "thặng dư, dư thừa",
+   "definition": "an amount more than needed",
+   "collocations": [
+    "budget surplus",
+    "surplus stock"
+   ],
+   "examples": [
+    {
+     "en": "We sold the *surplus* stock at a discount.",
+     "vi": "Chúng tôi bán số hàng dư với giá giảm."
+    }
+   ]
+  },
+  {
+   "id": "tac_deficit",
+   "word": "deficit",
+   "pos": "noun",
+   "ipa": "/ˈdefɪsɪt/",
+   "level": "C1",
+   "meaning": "thâm hụt",
+   "definition": "the amount by which money spent is more than money received",
+   "collocations": [
+    "budget deficit",
+    "trade deficit"
+   ],
+   "examples": [
+    {
+     "en": "The government has a large budget *deficit*.",
+     "vi": "Chính phủ thâm hụt ngân sách lớn."
+    }
+   ]
+  },
+  {
+   "id": "tac_shareholder",
+   "word": "shareholder",
+   "pos": "noun",
+   "ipa": "/ˈʃerhoʊldər/",
+   "level": "C1",
+   "meaning": "cổ đông",
+   "definition": "a person who owns shares in a company",
+   "collocations": [
+    "shareholders' meeting"
+   ],
+   "examples": [
+    {
+     "en": "*Shareholders* will vote on the merger.",
+     "vi": "Các cổ đông sẽ biểu quyết về việc sáp nhập."
+    }
+   ]
+  },
+  {
+   "id": "tac_merger",
+   "word": "merger",
+   "pos": "noun",
+   "ipa": "/ˈmɜːrdʒər/",
+   "level": "C1",
+   "meaning": "sự sáp nhập",
+   "definition": "the joining of two companies",
+   "collocations": [
+    "merger and acquisition",
+    "announce a merger"
+   ],
+   "examples": [
+    {
+     "en": "The *merger* will create the largest bank in the country.",
+     "vi": "Vụ sáp nhập sẽ tạo ra ngân hàng lớn nhất nước."
+    }
+   ]
+  },
+  {
+   "id": "tac_acquisition",
+   "word": "acquisition",
+   "pos": "noun",
+   "ipa": "/ˌækwɪˈzɪʃn/",
+   "level": "C1",
+   "meaning": "sự mua lại",
+   "definition": "buying a company",
+   "collocations": [
+    "the acquisition of"
+   ],
+   "examples": [
+    {
+     "en": "The *acquisition* was completed in May.",
+     "vi": "Thương vụ mua lại hoàn tất vào tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "tac_dividend",
+   "word": "dividend",
+   "pos": "noun",
+   "ipa": "/ˈdɪvɪdend/",
+   "level": "C1",
+   "meaning": "cổ tức",
+   "definition": "a part of a company's profit paid to shareholders",
+   "collocations": [
+    "pay a dividend"
+   ],
+   "examples": [
+    {
+     "en": "The company will pay a *dividend* this year.",
+     "vi": "Công ty sẽ trả cổ tức năm nay."
+    }
+   ]
+  },
+  {
+   "id": "tac_venture",
+   "word": "venture",
+   "pos": "noun",
+   "ipa": "/ˈventʃər/",
+   "level": "C1",
+   "meaning": "dự án kinh doanh (mạo hiểm)",
+   "definition": "a new business activity with some risk",
+   "collocations": [
+    "joint venture",
+    "a new venture"
+   ],
+   "examples": [
+    {
+     "en": "The two firms formed a joint *venture*.",
+     "vi": "Hai công ty lập liên doanh."
+    }
+   ]
+  },
+  {
+   "id": "tac_lucrative",
+   "word": "lucrative",
+   "pos": "adjective",
+   "ipa": "/ˈluːkrətɪv/",
+   "level": "TOEIC",
+   "meaning": "sinh lời cao",
+   "definition": "making a lot of money",
+   "collocations": [
+    "a lucrative contract",
+    "lucrative market"
+   ],
+   "examples": [
+    {
+     "en": "They won a *lucrative* contract with the government.",
+     "vi": "Họ giành được hợp đồng béo bở với chính phủ."
+    }
+   ]
+  },
+  {
+   "id": "tac_profitable",
+   "word": "profitable",
+   "pos": "adjective",
+   "ipa": "/ˈprɑːfɪtəbl/",
+   "level": "C1",
+   "meaning": "có lãi",
+   "definition": "making a profit",
+   "collocations": [
+    "highly profitable"
+   ],
+   "examples": [
+    {
+     "en": "The new branch became *profitable* after a year.",
+     "vi": "Chi nhánh mới có lãi sau một năm."
+    }
+   ]
+  },
+  {
+   "id": "tac_break_even",
+   "word": "break even",
+   "pos": "verb",
+   "ipa": "/ˌbreɪk ˈiːvn/",
+   "level": "TOEIC",
+   "meaning": "hòa vốn",
+   "definition": "to make neither a profit nor a loss",
+   "collocations": [
+    "break even within a year"
+   ],
+   "examples": [
+    {
+     "en": "The store expects to *break even* next year.",
+     "vi": "Cửa hàng dự kiến hòa vốn vào năm sau."
+    }
+   ]
+  },
+  {
+   "id": "tac_financial_statement",
+   "word": "financial statement",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈsteɪtmənt/",
+   "level": "TOEIC",
+   "meaning": "báo cáo tài chính",
+   "definition": "a report of a company's finances",
+   "collocations": [
+    "annual financial statements"
+   ],
+   "examples": [
+    {
+     "en": "The *financial statements* are published every year.",
+     "vi": "Báo cáo tài chính được công bố hằng năm."
+    }
+   ]
+  },
+  {
+   "id": "tac_reimbursable",
+   "word": "reimbursable",
+   "pos": "adjective",
+   "ipa": "/ˌriːɪmˈbɜːrsəbl/",
+   "level": "TOEIC",
+   "meaning": "được hoàn trả",
+   "definition": "able to be paid back",
+   "collocations": [
+    "reimbursable expenses"
+   ],
+   "examples": [
+    {
+     "en": "Taxi fares are *reimbursable* with a receipt.",
+     "vi": "Tiền taxi được hoàn trả nếu có hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "tac_expense_account",
+   "word": "expense account",
+   "pos": "noun",
+   "ipa": "/ɪkˈspens əˌkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "tài khoản chi phí công tác",
+   "definition": "money a company gives for work costs",
+   "collocations": [
+    "put it on the expense account"
+   ],
+   "examples": [
+    {
+     "en": "You can put the dinner on your *expense account*.",
+     "vi": "Bạn có thể tính bữa tối vào chi phí công tác."
+    }
+   ]
+  },
+  {
+   "id": "tac_petty_cash",
+   "word": "petty cash",
+   "pos": "noun",
+   "ipa": "/ˌpeti ˈkæʃ/",
+   "level": "TOEIC",
+   "meaning": "quỹ tiền mặt nhỏ",
+   "definition": "a small amount of money kept for small costs",
+   "collocations": [
+    "from petty cash"
+   ],
+   "examples": [
+    {
+     "en": "Pay for the taxi from *petty cash*.",
+     "vi": "Trả tiền taxi từ quỹ tiền mặt."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,60 @@
+#id: science
+#prefix: sci
+#order: 18
+#icon: 🔬
+#title: Science & Research
+#title_vi: Khoa học & Nghiên cứu
+#desc: Thí nghiệm, phân tích, đo lường, giả thuyết: từ vựng học thuật hay gặp trong bài đọc dài và IELTS.
+analyse | verb | /ˈænəlaɪz/ | phân tích | to examine something in detail | analyse data; analyse the results | We need to *analyse* the sales data carefully. | Chúng ta cần phân tích kỹ dữ liệu bán hàng. | Anh-Mỹ viết analyze.
+analysis | noun | /əˈnæləsɪs/ | sự phân tích | a detailed study of something | data analysis; carry out an analysis | The *analysis* shows a drop in customer numbers. | Bản phân tích cho thấy lượng khách giảm. | Số nhiều: analyses.
+analyst | noun | /ˈænəlɪst/ | nhà phân tích | a person whose job is to analyse something | financial analyst; data analyst | *Analysts* expect prices to rise. | Các nhà phân tích dự kiến giá sẽ tăng.
+scientific | adjective | /ˌsaɪənˈtɪfɪk/ | thuộc khoa học | connected with science | scientific research; scientific evidence | There is no *scientific* evidence for this claim. | Không có bằng chứng khoa học cho tuyên bố này.
+experiment | noun | /ɪkˈsperɪmənt/ | thí nghiệm | a test done to learn something | conduct an experiment; scientific experiment | The students did an *experiment* with plants and light. | Học sinh làm thí nghiệm về cây và ánh sáng.
+laboratory | noun | /ˈlæbrətɔːri/ | phòng thí nghiệm | a room for scientific work | research laboratory; laboratory tests | The samples were sent to a *laboratory*. | Các mẫu được gửi tới phòng thí nghiệm. | Viết tắt: lab.
+hypothesis | noun | /haɪˈpɑːθəsɪs/ | giả thuyết | an idea that has not yet been proved | test a hypothesis; support a hypothesis | The results support our *hypothesis*. | Kết quả ủng hộ giả thuyết của chúng tôi.
+theory | noun | /ˈθɪəri/ | lý thuyết, học thuyết | a set of ideas that explains something | in theory; a scientific theory | In *theory*, the plan should work. | Về lý thuyết, kế hoạch sẽ hiệu quả.
+conduct | verb | /kənˈdʌkt/ | tiến hành | to organize and do an activity | conduct research; conduct a survey; conduct an interview | The company *conducted* a survey of 1,000 customers. | Công ty đã tiến hành khảo sát 1.000 khách hàng.
+observe | verb | /əbˈzɜːrv/ | quan sát; tuân thủ | to watch carefully; to obey a rule | observe behaviour; observe the rules | Researchers *observed* the animals for six months. | Các nhà nghiên cứu quan sát động vật trong sáu tháng.
+observation | noun | /ˌɑːbzərˈveɪʃn/ | sự quan sát | the act of watching carefully | careful observation; under observation | The patient is under *observation* in hospital. | Bệnh nhân đang được theo dõi tại bệnh viện.
+observer | noun | /əbˈzɜːrvər/ | người quan sát | a person who watches something | an independent observer; a keen observer | International *observers* watched the election. | Các quan sát viên quốc tế theo dõi cuộc bầu cử.
+phenomenon | noun | /fəˈnɑːmɪnən/ | hiện tượng | something that happens and can be seen or studied | a natural phenomenon; a global phenomenon | Online shopping has become a global *phenomenon*. | Mua sắm trực tuyến đã trở thành hiện tượng toàn cầu. | Số nhiều: phenomena.
+finding | noun | /ˈfaɪndɪŋ/ | phát hiện, kết quả nghiên cứu | information found in a study | research findings; the main findings | The *findings* will be published next month. | Kết quả nghiên cứu sẽ được công bố tháng tới.
+testing | noun | /ˈtestɪŋ/ | sự kiểm tra, thử nghiệm | the activity of testing something | product testing; safety testing | All products go through strict safety *testing*. | Mọi sản phẩm đều qua kiểm tra an toàn nghiêm ngặt.
+technique | noun | /tekˈniːk/ | kỹ thuật, phương pháp | a particular way of doing something | new techniques; learning techniques | She taught us some memory *techniques*. | Cô ấy dạy chúng tôi vài kỹ thuật ghi nhớ.
+mechanism | noun | /ˈmekənɪzəm/ | cơ chế | a part of a machine; a system for doing something | safety mechanism; a mechanism for | There is no *mechanism* for customers to give feedback. | Không có cơ chế để khách hàng góp ý.
+measure | verb | /ˈmeʒər/ | đo lường | to find the size or amount of something | measure the size; measure success | How do you *measure* customer satisfaction? | Bạn đo mức độ hài lòng của khách hàng thế nào? | Danh từ: measures = biện pháp (safety measures).
+measurement | noun | /ˈmeʒərmənt/ | số đo, sự đo lường | the size or amount found by measuring | take measurements; accurate measurement | The tailor took my *measurements*. | Thợ may lấy số đo của tôi.
+calculate | verb | /ˈkælkjuleɪt/ | tính toán | to find an amount using numbers | calculate the cost; calculate the total | Please *calculate* the total cost of the trip. | Vui lòng tính tổng chi phí chuyến đi.
+accuracy | noun | /ˈækjərəsi/ | độ chính xác | the state of being exact and correct | check the accuracy; with accuracy | Please check the *accuracy* of the figures. | Vui lòng kiểm tra độ chính xác của số liệu.
+accurate | adjective | /ˈækjərət/ | chính xác | correct and exact | accurate information; accurate figures | Make sure the address is *accurate*. | Hãy đảm bảo địa chỉ chính xác.
+accurately | adverb | /ˈækjərətli/ | một cách chính xác | in an exact and correct way | accurately describe; measure accurately | The machine can measure weight *accurately*. | Máy có thể cân trọng lượng chính xác.
+precise | adjective | /prɪˈsaɪs/ | chính xác, rõ ràng | exact and accurate | precise details; to be precise | Can you give me the *precise* time of arrival? | Bạn có thể cho tôi giờ đến chính xác không?
+precisely | adverb | /prɪˈsaɪsli/ | chính xác, đúng | exactly | at precisely 9 o'clock; precisely because | The meeting starts at *precisely* 9 a.m. | Cuộc họp bắt đầu đúng 9 giờ sáng.
+prove | verb | /pruːv/ | chứng minh; hóa ra là | to show that something is true; to turn out to be | prove that; prove useful | The new system *proved* very useful. | Hệ thống mới hóa ra rất hữu ích.
+proof | noun | /pruːf/ | bằng chứng | facts that show something is true | proof of purchase; proof of identity | You need *proof* of identity to open an account. | Bạn cần giấy tờ tùy thân để mở tài khoản.
+examine | verb | /ɪɡˈzæmɪn/ | xem xét kỹ; khám | to look at something carefully | examine the evidence; examine a patient | The doctor *examined* my knee. | Bác sĩ đã khám đầu gối của tôi.
+examination | noun | /ɪɡˌzæmɪˈneɪʃn/ | sự kiểm tra; kỳ thi | a careful look at something; a formal exam | medical examination; on closer examination | A full *examination* of the machine found no problems. | Kiểm tra toàn bộ máy không phát hiện vấn đề gì.
+chemical | noun | /ˈkemɪkl/ | hóa chất | a substance used in chemistry | harmful chemicals; chemical industry | Wear gloves when using these *chemicals*. | Hãy đeo găng tay khi dùng các hóa chất này.
+substance | noun | /ˈsʌbstəns/ | chất | a type of solid, liquid or gas | a harmful substance; chemical substance | The bottle contains a dangerous *substance*. | Chai này chứa một chất nguy hiểm.
+liquid | noun | /ˈlɪkwɪd/ | chất lỏng | a substance that flows, like water | clear liquid; liquids are not allowed | *Liquids* over 100 ml are not allowed on the plane. | Chất lỏng trên 100 ml không được mang lên máy bay.
+acid | noun | /ˈæsɪd/ | axit | a chemical substance that can burn | strong acid; acid rain | *Acid* rain damages forests and lakes. | Mưa axit gây hại cho rừng và hồ.
+oxygen | noun | /ˈɑːksɪdʒən/ | khí ô-xy | a gas in the air that we need to live | oxygen mask; lack of oxygen | Plants produce *oxygen*. | Cây xanh tạo ra khí ô-xy.
+carbon | noun | /ˈkɑːrbən/ | các-bon | a chemical element found in all living things | carbon dioxide; carbon emissions; carbon footprint | The company aims to cut its *carbon* emissions by half. | Công ty đặt mục tiêu giảm một nửa lượng khí thải các-bon.
+mineral | noun | /ˈmɪnərəl/ | khoáng chất | a natural substance found in rocks or food | mineral water; vitamins and minerals | Fruit is full of vitamins and *minerals*. | Trái cây giàu vitamin và khoáng chất.
+bacteria | noun | /bækˈtɪriə/ | vi khuẩn | very small living things, some cause disease | harmful bacteria; kill bacteria | Wash your hands to remove *bacteria*. | Rửa tay để loại bỏ vi khuẩn. | Số ít: bacterium (ít dùng).
+cell | noun | /sel/ | tế bào; phòng giam | the smallest unit of a living thing; a small room in a prison | brain cells; blood cells | The human body has trillions of *cells*. | Cơ thể người có hàng nghìn tỷ tế bào.
+gene | noun | /dʒiːn/ | gen | a unit in a cell that controls features passed from parents | genes; in your genes | Eye colour is controlled by *genes*. | Màu mắt do gen quyết định.
+genetic | adjective | /dʒəˈnetɪk/ | thuộc di truyền | connected with genes | genetic disease; genetic research | The illness is *genetic*. | Căn bệnh này mang tính di truyền.
+biological | adjective | /ˌbaɪəˈlɑːdʒɪkl/ | thuộc sinh học | connected with living things | biological process; biological parents | Sleep is a basic *biological* need. | Ngủ là nhu cầu sinh học cơ bản.
+evolution | noun | /ˌevəˈluːʃn/ | sự tiến hóa, phát triển | the gradual development of something | the evolution of; theory of evolution | The book describes the *evolution* of the mobile phone. | Cuốn sách mô tả sự phát triển của điện thoại di động.
+evolve | verb | /iˈvɑːlv/ | tiến hóa, phát triển dần | to develop gradually | evolve into; evolve over time | The company has *evolved* from a small shop into a large chain. | Công ty đã phát triển từ một cửa hàng nhỏ thành chuỗi lớn.
+nuclear | adjective | /ˈnuːkliər/ | hạt nhân | using the energy from splitting atoms | nuclear power; nuclear energy | The country plans to build a *nuclear* power station. | Nước này dự định xây nhà máy điện hạt nhân.
+radiation | noun | /ˌreɪdiˈeɪʃn/ | bức xạ | energy sent out as rays or waves | high levels of radiation; radiation exposure | Phones produce a small amount of *radiation*. | Điện thoại phát ra một lượng nhỏ bức xạ.
+solar | adjective | /ˈsoʊlər/ | thuộc mặt trời | connected with the sun | solar energy; solar panels; solar system | We installed *solar* panels on the roof. | Chúng tôi lắp tấm pin mặt trời trên mái nhà.
+psychology | noun | /saɪˈkɑːlədʒi/ | tâm lý học | the study of the mind and behaviour | study psychology; consumer psychology | She studied *psychology* at university. | Cô ấy học tâm lý học ở đại học. | Chữ p câm.
+psychologist | noun | /saɪˈkɑːlədʒɪst/ | nhà tâm lý học | an expert in psychology | a child psychologist | The school hired a *psychologist* to help students. | Trường thuê một nhà tâm lý học để hỗ trợ học sinh.
+psychological | adjective | /ˌsaɪkəˈlɑːdʒɪkl/ | thuộc tâm lý | connected with the mind | psychological effect; psychological problems | Stress can have *psychological* effects. | Căng thẳng có thể gây ảnh hưởng tâm lý.
+classify | verb | /ˈklæsɪfaɪ/ | phân loại | to put things into groups | classify into; be classified as | Books are *classified* by subject. | Sách được phân loại theo chủ đề.
+category | noun | /ˈkætəɡɔːri/ | hạng mục, loại | a group of things with similar features | fall into a category; product category | The products are divided into three *categories*. | Sản phẩm được chia làm ba loại.
+characteristic | noun | /ˌkærəktəˈrɪstɪk/ | đặc điểm | a typical quality or feature | main characteristics; a common characteristic | Patience is an important *characteristic* of a good teacher. | Kiên nhẫn là đặc điểm quan trọng của giáo viên giỏi.
+variation | noun | /ˌveriˈeɪʃn/ | sự biến đổi, khác biệt | a change in amount or level | variation in price; seasonal variations | There is a big *variation* in prices between shops. | Giá giữa các cửa hàng chênh lệch nhiều.

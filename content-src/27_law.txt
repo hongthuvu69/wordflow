@@ -1,0 +1,58 @@
+#id: law
+#prefix: law
+#order: 27
+#icon: ⚖️
+#title: Law, Rules & Crime
+#title_vi: Luật lệ, Quy định & Tội phạm
+#desc: Quy định, giấy phép, xử phạt, tòa án, tội phạm: từ hay gặp trong thông báo nội quy và tin tức.
+legal | adjective | /ˈliːɡl/ | hợp pháp; thuộc pháp luật | allowed by law; connected with the law | legal advice; legal department; take legal action | Please ask the *legal* department to check the contract. | Vui lòng nhờ phòng pháp chế kiểm tra hợp đồng.
+illegal | adjective | /ɪˈliːɡl/ | bất hợp pháp | not allowed by law | illegal parking; it is illegal to | It is *illegal* to park here. | Đỗ xe ở đây là bất hợp pháp.
+regulation | noun | /ˌreɡjuˈleɪʃn/ | quy định | an official rule | safety regulations; comply with regulations | All food must meet health *regulations*. | Mọi thực phẩm phải đáp ứng quy định y tế.
+regulate | verb | /ˈreɡjuleɪt/ | điều chỉnh, quản lý bằng luật | to control something using rules | regulate prices; strictly regulated | The industry is strictly *regulated*. | Ngành này được quản lý chặt chẽ.
+rule | noun | /ruːl/ | quy tắc | an instruction that says what is allowed | follow the rules; break the rules; as a rule | Please follow the safety *rules*. | Vui lòng tuân thủ các quy tắc an toàn.
+restrict | verb | /rɪˈstrɪkt/ | hạn chế | to limit something | restrict access; restricted area | Access to this area is *restricted* to staff. | Khu vực này chỉ dành cho nhân viên.
+restriction | noun | /rɪˈstrɪkʃn/ | sự hạn chế | a rule that limits what you can do | travel restrictions; impose restrictions | There are *restrictions* on the size of hand luggage. | Có giới hạn về kích thước hành lý xách tay.
+prohibit | verb | /proʊˈhɪbɪt/ | cấm | to officially stop something | strictly prohibited; prohibit smoking | Smoking is strictly *prohibited* in the building. | Nghiêm cấm hút thuốc trong tòa nhà.
+forbid | verb | /fərˈbɪd/ | cấm | to order someone not to do something | forbid someone to; be forbidden | Photography is *forbidden* inside the museum. | Cấm chụp ảnh trong bảo tàng.
+ban | noun | /bæn/ | lệnh cấm | an official rule that stops something | a ban on; lift a ban | The city introduced a *ban* on plastic bags. | Thành phố ban hành lệnh cấm túi nhựa.
+permit | noun | /ˈpɜːrmɪt/ | giấy phép | an official document allowing you to do something | work permit; parking permit | You need a parking *permit* to park here. | Bạn cần giấy phép đỗ xe để đỗ ở đây. | Động từ permit /pərˈmɪt/ = cho phép.
+licence | noun | /ˈlaɪsns/ | giấy phép, bằng | an official document allowing you to do or own something | driving licence; business licence | Do you have a valid driving *licence*? | Bạn có bằng lái còn hạn không? | Anh-Mỹ: license.
+valid | adjective | /ˈvælɪd/ | có hiệu lực, hợp lệ | legally acceptable; based on good reasons | valid passport; valid until; a valid point | The ticket is *valid* for one month. | Vé có hiệu lực trong một tháng.
+obey | verb | /əˈbeɪ/ | tuân theo | to do what a rule or person says | obey the law; obey orders | All drivers must *obey* traffic signs. | Mọi tài xế phải tuân theo biển báo giao thông.
+obligation | noun | /ˌɑːblɪˈɡeɪʃn/ | nghĩa vụ | something you must do | no obligation; legal obligation | Ask for a free quote with no *obligation*. | Hãy yêu cầu báo giá miễn phí, không ràng buộc.
+penalty | noun | /ˈpenəlti/ | hình phạt, tiền phạt | a punishment for breaking a rule | late payment penalty; pay a penalty | There is a *penalty* for cancelling less than 24 hours before. | Hủy trước dưới 24 giờ sẽ bị phạt.
+punish | verb | /ˈpʌnɪʃ/ | trừng phạt | to make someone suffer for doing wrong | be punished for | Drivers who speed will be *punished*. | Tài xế chạy quá tốc độ sẽ bị xử phạt.
+punishment | noun | /ˈpʌnɪʃmənt/ | sự trừng phạt | a way of punishing someone | as a punishment; severe punishment | The *punishment* for theft is up to five years in prison. | Hình phạt cho tội trộm cắp lên tới năm năm tù.
+court | noun | /kɔːrt/ | tòa án; sân (thể thao) | the place where legal cases are judged; a place for some sports | go to court; tennis court | The case will go to *court* next month. | Vụ việc sẽ ra tòa vào tháng tới.
+judge | noun | /dʒʌdʒ/ | thẩm phán; giám khảo | a person who decides cases in court; a person who decides a competition | the judge ruled; competition judges | The *judges* will announce the winner at 8 p.m. | Ban giám khảo sẽ công bố người thắng lúc 8 giờ tối.
+judgement | noun | /ˈdʒʌdʒmənt/ | sự phán xét; khả năng phán đoán | an opinion; the ability to decide well | good judgement; make a judgement | Use your best *judgement*. | Hãy dùng khả năng phán đoán tốt nhất của bạn.
+jury | noun | /ˈdʒʊri/ | bồi thẩm đoàn | a group of people who decide if someone is guilty | the jury decided; on a jury | The *jury* found him not guilty. | Bồi thẩm đoàn tuyên anh ta không có tội.
+trial | noun | /ˈtraɪəl/ | phiên tòa; sự thử nghiệm | a legal process in court; a test | on trial; free trial; trial period | Sign up today for a 30-day free *trial*. | Đăng ký hôm nay để dùng thử miễn phí 30 ngày. | TOEIC hay gặp: free trial, trial period.
+justice | noun | /ˈdʒʌstɪs/ | công lý | fair treatment; the legal system | bring to justice; justice system | The victims want *justice*. | Các nạn nhân muốn công lý.
+justify | verb | /ˈdʒʌstɪfaɪ/ | biện minh | to give a good reason for something | justify the cost; justify a decision | Can we *justify* the cost of a new system? | Chúng ta có thể biện minh cho chi phí hệ thống mới không?
+guilty | adjective | /ˈɡɪlti/ | có tội; cảm thấy tội lỗi | having done something wrong; feeling bad about it | found guilty; feel guilty | I feel *guilty* about leaving work early. | Tôi thấy áy náy vì về sớm.
+accuse | verb | /əˈkjuːz/ | buộc tội | to say someone has done something wrong | accuse someone of | He was *accused* of stealing money. | Anh ta bị buộc tội ăn cắp tiền.
+arrest | verb | /əˈrest/ | bắt giữ | to take someone to the police because of a crime | be arrested for; under arrest | Police *arrested* two men last night. | Cảnh sát bắt giữ hai người đàn ông tối qua.
+suspect | noun | /ˈsʌspekt/ | nghi phạm | a person thought to have committed a crime | the main suspect | Police are looking for a *suspect*. | Cảnh sát đang tìm kiếm một nghi phạm. | Động từ suspect /səˈspekt/ = nghi ngờ.
+criminal | noun | /ˈkrɪmɪnl/ | tội phạm | a person who commits a crime | a dangerous criminal | The *criminal* was caught on camera. | Tên tội phạm bị camera ghi lại.
+offence | noun | /əˈfens/ | sự vi phạm; sự xúc phạm | a crime; the feeling of being upset | a criminal offence; take offence | Driving without insurance is a serious *offence*. | Lái xe không có bảo hiểm là vi phạm nghiêm trọng. | Anh-Mỹ: offense.
+offender | noun | /əˈfendər/ | người phạm tội | a person who commits a crime | young offenders; first-time offender | First-time *offenders* may receive a warning. | Người vi phạm lần đầu có thể chỉ bị cảnh cáo.
+offend | verb | /əˈfend/ | xúc phạm | to make someone upset or angry | be offended by | I hope I didn't *offend* you. | Hy vọng tôi không làm bạn phật lòng.
+offensive | adjective | /əˈfensɪv/ | xúc phạm | rude and upsetting | offensive language; offensive comments | *Offensive* comments will be removed. | Bình luận xúc phạm sẽ bị xóa.
+fraud | noun | /frɔːd/ | sự gian lận, lừa đảo | getting money dishonestly | credit card fraud; commit fraud | Report any *fraud* to the bank immediately. | Báo ngay cho ngân hàng nếu có gian lận.
+theft | noun | /θeft/ | sự trộm cắp | the crime of stealing | car theft; report a theft | Please report any *theft* to the security desk. | Vui lòng báo mọi vụ trộm cho quầy bảo vệ.
+rob | verb | /rɑːb/ | cướp | to steal from a person or place | rob a bank; be robbed | The store was *robbed* last night. | Cửa hàng bị cướp tối qua. | rob người/nơi chốn; steal đồ vật.
+robbery | noun | /ˈrɑːbəri/ | vụ cướp | the crime of stealing from a person or place | bank robbery; armed robbery | Police are investigating the *robbery*. | Cảnh sát đang điều tra vụ cướp.
+murder | noun | /ˈmɜːrdər/ | vụ giết người | the crime of killing someone deliberately | commit murder; murder case | The film is about a *murder* in a small town. | Bộ phim kể về một vụ án mạng ở thị trấn nhỏ.
+killing | noun | /ˈkɪlɪŋ/ | vụ giết | an act of killing | the killing of | The *killing* of wild elephants is illegal. | Giết voi hoang dã là phạm pháp.
+victim | noun | /ˈvɪktɪm/ | nạn nhân | a person harmed by a crime or accident | victims of the flood; crime victim | Food was sent to the *victims* of the earthquake. | Thực phẩm được gửi tới nạn nhân động đất.
+witness | noun | /ˈwɪtnəs/ | nhân chứng | a person who sees an event | an eye witness; witness statement | Police are asking *witnesses* to come forward. | Cảnh sát kêu gọi nhân chứng ra trình báo.
+investigate | verb | /ɪnˈvestɪɡeɪt/ | điều tra | to try to find out the facts | investigate a complaint; investigate the cause | We are *investigating* the cause of the problem. | Chúng tôi đang điều tra nguyên nhân sự cố.
+investigation | noun | /ɪnˌvestɪˈɡeɪʃn/ | cuộc điều tra | an official examination of facts | under investigation; carry out an investigation | The accident is under *investigation*. | Vụ tai nạn đang được điều tra.
+inspector | noun | /ɪnˈspektər/ | thanh tra viên | a person whose job is to check that rules are obeyed | safety inspector; police inspector | A health *inspector* visited the restaurant. | Một thanh tra y tế đã đến kiểm tra nhà hàng.
+jail | noun | /dʒeɪl/ | nhà tù | a prison | go to jail; in jail | He spent two years in *jail*. | Anh ta ngồi tù hai năm.
+prisoner | noun | /ˈprɪznər/ | tù nhân | a person kept in prison | release a prisoner | The *prisoner* was released after five years. | Tù nhân được thả sau năm năm.
+violence | noun | /ˈvaɪələns/ | bạo lực | physical force used to hurt people | violence against; acts of violence | The film contains scenes of *violence*. | Bộ phim có cảnh bạo lực.
+violent | adjective | /ˈvaɪələnt/ | bạo lực; dữ dội | using force to hurt; very strong | violent crime; a violent storm | A *violent* storm damaged the roof. | Cơn bão dữ dội làm hỏng mái nhà.
+gang | noun | /ɡæŋ/ | băng nhóm | a group of criminals; a group of friends | a gang of; gang members | A *gang* of thieves stole the cars. | Một băng trộm đã lấy cắp những chiếc xe.
+guard | noun | /ɡɑːrd/ | người bảo vệ | a person who protects a place or people | security guard; on guard | Show your ID to the security *guard*. | Xuất trình thẻ cho nhân viên bảo vệ.

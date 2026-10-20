@@ -1,0 +1,57 @@
+#id: toeic_phrasal
+#prefix: tph
+#order: 69
+#icon: 🧷
+#title: TOEIC: Phrasal Verbs at Work
+#title_vi: TOEIC: Cụm động từ nơi công sở
+#desc: Carry out, set up, take over, run out of, look over…: cụm động từ xuất hiện thường xuyên trong hội thoại Part 3 và đáp án paraphrase.
+carry out | verb | /ˌkæri ˈaʊt/ | thực hiện | to do a task or plan | carry out research; carry out a survey | The team will *carry out* a survey next month. | Nhóm sẽ thực hiện một cuộc khảo sát vào tháng tới.
+set up | verb | /ˌset ˈʌp/ | thiết lập; lắp đặt; thành lập | to arrange; to install; to start a business | set up a meeting; set up the equipment | Could you *set up* a meeting with the client? | Bạn có thể sắp xếp một cuộc họp với khách hàng không?
+take over | verb | /ˌteɪk ˈoʊvər/ | tiếp quản | to take control or responsibility | take over a company; take over from | Ms. Park will *take over* as manager next month. | Bà Park sẽ tiếp quản vị trí quản lý vào tháng tới.
+take on | verb | /ˌteɪk ˈɑːn/ | đảm nhận; tuyển | to accept work; to employ | take on more work; take on staff | I can't *take on* any more projects right now. | Hiện tôi không thể nhận thêm dự án nào.
+run out of | verb | /ˌrʌn ˈaʊt əv/ | hết (cái gì) | to use all of something | run out of paper; run out of time | We've *run out of* printer paper. | Chúng ta hết giấy in rồi.
+look over | verb | /ˌlʊk ˈoʊvər/ | xem qua, rà soát | to check quickly | look over a document | Could you *look over* my report before I send it? | Bạn xem qua báo cáo giúp tôi trước khi gửi được không?
+go over | verb | /ˌɡoʊ ˈoʊvər/ | xem lại, điểm qua | to examine or explain carefully | go over the details | Let's *go over* the schedule one more time. | Hãy xem lại lịch trình một lần nữa.
+fill in | verb | /ˌfɪl ˈɪn/ | điền; làm thay | to complete a form; to do someone's job | fill in a form; fill in for someone | Please *fill in* your name and address. | Vui lòng điền tên và địa chỉ.
+hand in | verb | /ˌhænd ˈɪn/ | nộp | to give work to someone in authority | hand in a report | Please *hand in* your timesheets by Friday. | Vui lòng nộp bảng chấm công trước thứ Sáu.
+hand out | verb | /ˌhænd ˈaʊt/ | phát | to give to each person in a group | hand out leaflets | A woman is *handing out* brochures. | Một người phụ nữ đang phát tờ giới thiệu.
+turn down | verb | /ˌtɜːrn ˈdaʊn/ | từ chối; vặn nhỏ | to refuse; to reduce volume | turn down an offer; turn down the music | She *turned down* the job offer. | Cô ấy đã từ chối lời mời làm việc.
+put off | verb | /ˌpʊt ˈɔːf/ | trì hoãn | to postpone | put off a meeting | We had to *put off* the launch until June. | Chúng tôi phải hoãn buổi ra mắt đến tháng Sáu.
+bring up | verb | /ˌbrɪŋ ˈʌp/ | nêu ra | to mention a subject | bring up an issue | I'll *bring up* the budget at the meeting. | Tôi sẽ nêu vấn đề ngân sách trong cuộc họp.
+come up with | verb | /ˌkʌm ˈʌp wɪð/ | nghĩ ra | to think of an idea | come up with a solution | We need to *come up with* a new slogan. | Chúng ta cần nghĩ ra khẩu hiệu mới.
+deal with | verb | /ˈdiːl wɪð/ | giải quyết, xử lý | to take action about a problem | deal with complaints | She *deals with* customer complaints. | Cô ấy xử lý các khiếu nại của khách hàng.
+look into | verb | /ˌlʊk ˈɪntuː/ | điều tra, xem xét | to examine | look into the matter | We're *looking into* the cause of the delay. | Chúng tôi đang xem xét nguyên nhân chậm trễ.
+check in with | verb | /ˌtʃek ˈɪn wɪð/ | hỏi thăm tình hình | to talk to someone to see how things are | check in with the team | I'll *check in with* you tomorrow about the report. | Mai tôi sẽ hỏi bạn tình hình báo cáo.
+catch up | verb | /ˌkætʃ ˈʌp/ | bắt kịp; trò chuyện cập nhật | to reach the same level; to talk about recent news | catch up on work; catch up with someone | I need to *catch up* on my e-mails. | Tôi cần xử lý cho kịp các e-mail tồn đọng.
+fall behind | verb | /ˌfɔːl bɪˈhaɪnd/ | tụt lại phía sau | to fail to keep up | fall behind schedule | We can't afford to *fall behind* schedule. | Chúng ta không thể để chậm tiến độ.
+keep up with | verb | /ˌkiːp ˈʌp wɪð/ | theo kịp | to stay at the same level as | keep up with demand | The factory can't *keep up with* demand. | Nhà máy không theo kịp nhu cầu.
+pick up | verb | /ˌpɪk ˈʌp/ | tăng lên; học được | to improve; to learn | sales picked up; pick up a language | Sales usually *pick up* in December. | Doanh số thường tăng lên vào tháng Mười Hai.
+point out | verb | /ˌpɔɪnt ˈaʊt/ | chỉ ra | to tell someone about a fact | point out a mistake | Thank you for *pointing out* the error. | Cảm ơn bạn đã chỉ ra lỗi.
+figure out | verb | /ˌfɪɡjər ˈaʊt/ | tìm ra | to understand or solve | figure out the problem | We need to *figure out* why the machine stopped. | Chúng ta cần tìm ra vì sao máy dừng.
+work out | verb | /ˌwɜːrk ˈaʊt/ | giải quyết; tính ra; tập thể dục | to solve; to calculate; to exercise | work out a plan; things worked out | Don't worry, everything will *work out*. | Đừng lo, mọi việc sẽ ổn thôi.
+draw up | verb | /ˌdrɔː ˈʌp/ | soạn thảo | to prepare a written document | draw up a contract; draw up a plan | Our lawyer will *draw up* the contract. | Luật sư của chúng tôi sẽ soạn hợp đồng.
+sign off on | verb | /ˌsaɪn ˈɔːf ɑːn/ | phê duyệt | to give official approval | sign off on a budget | The director needs to *sign off on* the budget. | Giám đốc cần phê duyệt ngân sách.
+back up | verb | /ˌbæk ˈʌp/ | sao lưu; ủng hộ | to copy files; to support | back up your files; back someone up | Remember to *back up* your files every day. | Nhớ sao lưu tệp mỗi ngày.
+set aside | verb | /ˌset əˈsaɪd/ | để dành | to keep for a purpose | set aside time; set aside money | *Set aside* 30 minutes a day for English. | Hãy dành ra 30 phút mỗi ngày cho tiếng Anh.
+cut back on | verb | /ˌkʌt ˈbæk ɑːn/ | cắt giảm | to reduce | cut back on spending | We need to *cut back on* travel costs. | Chúng ta cần cắt giảm chi phí đi lại.
+lay out | verb | /ˌleɪ ˈaʊt/ | trình bày; sắp đặt | to explain clearly; to arrange | lay out a plan | The manager *laid out* the plan for next year. | Quản lý trình bày kế hoạch năm tới.
+phase out | verb | /ˌfeɪz ˈaʊt/ | loại bỏ dần | to stop using gradually | phase out old models | The company is *phasing out* paper invoices. | Công ty đang loại bỏ dần hóa đơn giấy.
+roll out | verb | /ˌroʊl ˈaʊt/ | triển khai | to introduce a new product or service | roll out a new system | The new app will be *rolled out* next month. | Ứng dụng mới sẽ được triển khai tháng tới.
+step down | verb | /ˌstep ˈdaʊn/ | từ chức | to leave an important job | step down as CEO | The CEO will *step down* in December. | Giám đốc sẽ từ chức vào tháng Mười Hai.
+take part in | verb | /ˌteɪk ˈpɑːrt ɪn/ | tham gia | to participate | take part in a workshop | Over 100 employees *took part in* the training. | Hơn 100 nhân viên đã tham gia buổi đào tạo.
+turn in | verb | /ˌtɜːrn ˈɪn/ | nộp | to give work to a teacher or manager | turn in a report | Please *turn in* your forms by noon. | Vui lòng nộp mẫu đơn trước buổi trưa.
+turn out | verb | /ˌtɜːrn ˈaʊt/ | hóa ra; có mặt | to happen in a particular way; to come to an event | it turned out that | The meeting *turned out* to be very useful. | Cuộc họp hóa ra rất hữu ích.
+look up | verb | /ˌlʊk ˈʌp/ | tra cứu; khá lên | to search for information; to improve | look up a word; things are looking up | Business is *looking up* this year. | Năm nay việc kinh doanh đang khởi sắc.
+show around | verb | /ˌʃoʊ əˈraʊnd/ | dẫn đi tham quan | to guide someone around a place | show someone around the office | A guide will *show around* the new staff at 10 a.m. | Một hướng dẫn viên sẽ dẫn nhân viên mới đi tham quan lúc 10 giờ sáng. | Thường nói: Let me show you around.
+get through | verb | /ˌɡet ˈθruː/ | gọi được; vượt qua | to reach someone by phone; to finish | get through to; get through the day | I tried calling but couldn't *get through*. | Tôi gọi nhưng không liên lạc được.
+hang up | verb | /ˌhæŋ ˈʌp/ | cúp máy | to end a phone call | don't hang up | Please don't *hang up*; I'll transfer you. | Xin đừng cúp máy, tôi sẽ chuyển cuộc gọi.
+hold on | verb | /ˌhoʊld ˈɑːn/ | chờ máy, đợi | to wait | hold on a moment | *Hold on* a moment, please. | Vui lòng đợi một chút.
+run into | verb | /ˌrʌn ˈɪntuː/ | gặp phải; tình cờ gặp | to experience a problem; to meet by chance | run into problems; run into a friend | We *ran into* some problems with the software. | Chúng tôi gặp một số vấn đề với phần mềm.
+stand out | verb | /ˌstænd ˈaʊt/ | nổi bật | to be easy to notice | stand out from the crowd | Her application *stood out* from the others. | Hồ sơ của cô ấy nổi bật hơn các hồ sơ khác.
+wrap up | verb | /ˌræp ˈʌp/ | kết thúc | to finish | wrap up a meeting | Let's *wrap up* the meeting; it's almost 5. | Chúng ta kết thúc cuộc họp thôi, gần 5 giờ rồi.
+follow through | verb | /ˌfɑːloʊ ˈθruː/ | thực hiện đến cùng | to complete something you started or promised | follow through on a promise | It's important to *follow through* on your promises. | Điều quan trọng là thực hiện đến cùng lời hứa của bạn.
+reach out | verb | /ˌriːtʃ ˈaʊt/ | liên hệ | to contact someone, often to offer help | reach out to customers | Feel free to *reach out* if you need anything. | Cứ liên hệ nếu bạn cần gì nhé.
+fill up | verb | /ˌfɪl ˈʌp/ | làm đầy; kín chỗ | to become full | seats fill up quickly | The workshop *fills up* quickly, so register early. | Buổi tập huấn nhanh kín chỗ nên hãy đăng ký sớm.
+set off | verb | /ˌset ˈɔːf/ | khởi hành; kích hoạt | to start a journey; to make an alarm ring | set off early; set off the alarm | We *set off* for the airport at 6 a.m. | Chúng tôi khởi hành ra sân bay lúc 6 giờ sáng.
+drop off | verb | /ˌdrɑːp ˈɔːf/ | đưa đến, để lại | to take someone or something somewhere | drop off a package | I'll *drop off* the documents at your office. | Tôi sẽ để tài liệu ở văn phòng bạn.
+line up | verb | /ˌlaɪn ˈʌp/ | xếp hàng; sắp xếp | to stand in a line; to arrange | line up speakers | People are *lining up* to buy tickets. | Mọi người đang xếp hàng mua vé.

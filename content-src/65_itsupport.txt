@@ -1,0 +1,54 @@
+#id: toeic_itsupport
+#prefix: tit
+#order: 65
+#icon: 🖥️
+#title: TOEIC: IT Support & Workplace Tech
+#title_vi: TOEIC: Hỗ trợ IT & Công nghệ văn phòng
+#desc: Đăng nhập, mật khẩu, máy chủ, bảo trì hệ thống, phần mềm mới: nội dung email IT và thông báo nội bộ.
+log in | verb | /ˌlɔːɡ ˈɪn/ | đăng nhập | to enter a system with a password | log in to your account | You need a password to *log in*. | Bạn cần mật khẩu để đăng nhập.
+log out | verb | /ˌlɔːɡ ˈaʊt/ | đăng xuất | to leave a computer system | log out of the system | Always *log out* when you leave your desk. | Luôn đăng xuất khi rời bàn làm việc.
+username | noun | /ˈjuːzərneɪm/ | tên đăng nhập | the name you use to log in | enter your username | Your *username* is your e-mail address. | Tên đăng nhập của bạn là địa chỉ e-mail.
+reset | verb | /ˌriːˈset/ | đặt lại | to set again, often to the start | reset a password; reset the device | Click here to *reset* your password. | Nhấp vào đây để đặt lại mật khẩu.
+credentials | noun | /krəˈdenʃlz/ | thông tin đăng nhập; bằng cấp | login details; qualifications | login credentials | Never share your login *credentials*. | Không bao giờ chia sẻ thông tin đăng nhập.
+server | noun | /ˈsɜːrvər/ | máy chủ | a central computer that stores data for a network | server maintenance; the server is down | The *server* will be down for maintenance tonight. | Máy chủ sẽ ngừng để bảo trì tối nay.
+network | noun | /ˈnetwɜːrk/ | mạng máy tính | connected computers | company network; network problems | Some users can't connect to the *network*. | Một số người dùng không kết nối được vào mạng.
+outage | noun | /ˈaʊtɪdʒ/ | sự cố ngừng hoạt động | a period when a service is not available | power outage; system outage | The *outage* lasted about two hours. | Sự cố ngừng hoạt động kéo dài khoảng hai giờ.
+downtime | noun | /ˈdaʊntaɪm/ | thời gian ngừng hoạt động | time when a system is not working | scheduled downtime | We apologize for the *downtime* this morning. | Chúng tôi xin lỗi vì hệ thống ngừng hoạt động sáng nay.
+scheduled maintenance | noun | /ˌskedʒuːld ˈmeɪntənəns/ | bảo trì định kỳ | planned repair work | during scheduled maintenance | The website will be unavailable during *scheduled maintenance*. | Website sẽ không truy cập được trong thời gian bảo trì định kỳ.
+technician | noun | /tekˈnɪʃn/ | kỹ thuật viên | a person who repairs or maintains equipment | IT technician; send a technician | A *technician* will come to fix your computer. | Một kỹ thuật viên sẽ đến sửa máy tính của bạn.
+IT department | noun | /ˌaɪ ˈtiː dɪˌpɑːrtmənt/ | phòng công nghệ thông tin | the team that manages computers | contact the IT department | Contact the *IT department* if your laptop crashes. | Liên hệ phòng IT nếu máy tính bị treo.
+firewall | noun | /ˈfaɪərwɔːl/ | tường lửa | a system that protects a network from attacks | install a firewall | The *firewall* blocks dangerous websites. | Tường lửa chặn các website nguy hiểm.
+virus | noun | /ˈvaɪrəs/ | virus | a harmful program or tiny organism | computer virus; antivirus software | Don't open attachments from unknown senders; they may contain a *virus*. | Đừng mở tệp đính kèm từ người lạ, có thể chứa virus.
+malware | noun | /ˈmælwer/ | phần mềm độc hại | software designed to damage computers | remove malware | The IT team removed the *malware* from my laptop. | Đội IT đã gỡ phần mềm độc hại khỏi máy tôi.
+phishing | noun | /ˈfɪʃɪŋ/ | lừa đảo qua mạng | fake e-mails trying to steal information | phishing e-mail; phishing scam | Report any *phishing* e-mails to IT. | Báo cho IT mọi e-mail lừa đảo.
+encryption | noun | /ɪnˈkrɪpʃn/ | sự mã hóa | changing data into a secret code | data encryption | All files are protected by *encryption*. | Tất cả tệp được bảo vệ bằng mã hóa.
+cloud storage | noun | /ˌklaʊd ˈstɔːrɪdʒ/ | lưu trữ đám mây | saving files on the internet | save to cloud storage | All documents are saved in *cloud storage*. | Mọi tài liệu được lưu trên đám mây.
+shared drive | noun | /ˌʃerd ˈdraɪv/ | ổ dùng chung | a storage space many people can use | save it on the shared drive | The template is on the *shared drive*. | Mẫu có trên ổ dùng chung.
+compatible | adjective | /kəmˈpætəbl/ | tương thích | able to work with something else | compatible with | Is this software *compatible* with Mac? | Phần mềm này có tương thích với máy Mac không?
+compatibility | noun | /kəmˌpætəˈbɪləti/ | sự tương thích | the ability to work together | check compatibility | Check *compatibility* before installing the update. | Kiểm tra tính tương thích trước khi cài bản cập nhật.
+user-friendly | adjective | /ˌjuːzər ˈfrendli/ | dễ sử dụng | easy to use | a user-friendly interface | The new system is very *user-friendly*. | Hệ thống mới rất dễ sử dụng.
+interface | noun | /ˈɪntərfeɪs/ | giao diện | the way a user interacts with a program | user interface | The app has a simple *interface*. | Ứng dụng có giao diện đơn giản.
+feature update | noun | /ˈfiːtʃər ˌʌpdeɪt/ | bản cập nhật tính năng | a software update adding new functions | install the feature update | The latest *feature update* adds dark mode. | Bản cập nhật tính năng mới nhất bổ sung chế độ tối.
+patch | noun | /pætʃ/ | bản vá | a small update that fixes a problem | security patch | Install the security *patch* as soon as possible. | Cài bản vá bảo mật càng sớm càng tốt.
+crash | verb | /kræʃ/ | treo, sập (máy) | to stop working suddenly | the computer crashed | My computer *crashed* and I lost my work. | Máy tính tôi bị treo và mất hết dữ liệu.
+freeze up | verb | /ˌfriːz ˈʌp/ | bị đơ | to stop responding | the screen froze up | The screen keeps *freezing up*. | Màn hình cứ bị đơ.
+reboot | verb | /ˌriːˈbuːt/ | khởi động lại | to start a computer again | reboot the system | Try to *reboot* your computer first. | Hãy thử khởi động lại máy tính trước.
+troubleshooting | noun | /ˈtrʌblʃuːtɪŋ/ | việc khắc phục sự cố | finding and fixing problems | basic troubleshooting | Follow these *troubleshooting* steps before calling IT. | Làm theo các bước khắc phục sự cố này trước khi gọi IT.
+access code | noun | /ˈækses koʊd/ | mã truy cập | a code that lets you enter a place or system | enter the access code | The *access code* for the meeting room is 4521. | Mã vào phòng họp là 4521.
+authentication | noun | /ɔːˌθentɪˈkeɪʃn/ | xác thực | proving who you are | two-factor authentication | Turn on two-factor *authentication* for extra security. | Bật xác thực hai lớp để tăng bảo mật.
+backup | noun | /ˈbækʌp/ | bản sao lưu | a copy of data kept in case of loss | daily backup; backup files | We make a *backup* of all files every night. | Chúng tôi sao lưu toàn bộ tệp mỗi đêm.
+data | noun | /ˈdeɪtə/ | dữ liệu | facts and information | data entry; data analysis | All customer *data* is stored securely. | Mọi dữ liệu khách hàng được lưu trữ an toàn.
+data entry | noun | /ˌdeɪtə ˈentri/ | nhập liệu | typing information into a computer | data entry clerk | The job involves a lot of *data entry*. | Công việc bao gồm nhiều việc nhập liệu.
+bandwidth | noun | /ˈbændwɪdθ/ | băng thông | the amount of data a network can carry | high bandwidth | Video calls use a lot of *bandwidth*. | Gọi video tốn nhiều băng thông.
+router | noun | /ˈruːtər/ | bộ định tuyến | a device that connects computers to the internet | reset the router | Try restarting the *router*. | Hãy thử khởi động lại bộ định tuyến.
+printer driver | noun | /ˈprɪntər ˌdraɪvər/ | trình điều khiển máy in | software that lets a computer use a printer | install the printer driver | You need to install the *printer driver* first. | Bạn cần cài trình điều khiển máy in trước.
+peripheral | noun | /pəˈrɪfərəl/ | thiết bị ngoại vi | a device connected to a computer | computer peripherals | Mice and keyboards are *peripherals*. | Chuột và bàn phím là thiết bị ngoại vi.
+laptop | noun | /ˈlæptɑːp/ | máy tính xách tay | a small portable computer | company laptop | Each new employee receives a company *laptop*. | Mỗi nhân viên mới được cấp máy tính xách tay.
+tablet | noun | /ˈtæblət/ | máy tính bảng; viên thuốc | a small flat computer; a pill | use a tablet | Waiters take orders on a *tablet*. | Nhân viên phục vụ nhận order bằng máy tính bảng.
+webinar | noun | /ˈwebɪnɑːr/ | hội thảo trực tuyến | a seminar held online | host a webinar; join a webinar | Join our free *webinar* on digital marketing. | Tham gia hội thảo trực tuyến miễn phí về marketing số.
+video conference | noun | /ˈvɪdioʊ ˌkɑːnfərəns/ | họp trực tuyến qua video | a meeting held using video | set up a video conference | We have a *video conference* with the London team at 4. | Chúng tôi họp video với đội London lúc 4 giờ.
+screen sharing | noun | /ˈskriːn ˌʃerɪŋ/ | chia sẻ màn hình | showing your screen to others online | turn on screen sharing | Turn on *screen sharing* so we can see your slides. | Bật chia sẻ màn hình để chúng tôi xem slide của bạn.
+mute | verb | /mjuːt/ | tắt tiếng | to turn off the sound | mute your microphone | Please *mute* your microphone when you're not speaking. | Vui lòng tắt micro khi không nói.
+digitize | verb | /ˈdɪdʒɪtaɪz/ | số hóa | to change into digital form | digitize records | We are *digitizing* all our paper records. | Chúng tôi đang số hóa toàn bộ hồ sơ giấy.
+automate | verb | /ˈɔːtəmeɪt/ | tự động hóa | to make a process work automatically | automate tasks | The new software *automates* billing. | Phần mềm mới tự động hóa việc lập hóa đơn.
+automation | noun | /ˌɔːtəˈmeɪʃn/ | sự tự động hóa | using machines to do work automatically | factory automation | *Automation* has reduced production costs. | Tự động hóa đã giảm chi phí sản xuất.

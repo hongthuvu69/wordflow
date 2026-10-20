@@ -1,0 +1,70 @@
+#id: adverbs
+#prefix: adv
+#order: 45
+#icon: 🎯
+#title: Useful Adverbs & Adjectives
+#title_vi: Trạng từ & tính từ thông dụng
+#desc: Mainly, largely, highly, directly…: trạng từ hay xuất hiện ở đáp án Part 5 (chọn từ loại -ly) và giúp diễn đạt tự nhiên.
+mainly | adverb | /ˈmeɪnli/ | chủ yếu | mostly | mainly because; mainly used for | Our customers are *mainly* small businesses. | Khách hàng của chúng tôi chủ yếu là doanh nghiệp nhỏ.
+largely | adverb | /ˈlɑːrdʒli/ | phần lớn | mostly | largely due to | The success was *largely* due to good planning. | Thành công phần lớn nhờ lên kế hoạch tốt.
+primarily | adverb | /praɪˈmerəli/ | chủ yếu | mainly | primarily responsible | The course is *primarily* for new managers. | Khóa học chủ yếu dành cho quản lý mới.
+generally | adverb | /ˈdʒenrəli/ | nói chung; thường | usually; by most people | generally speaking; generally accepted | We *generally* reply within one day. | Chúng tôi thường trả lời trong vòng một ngày.
+greatly | adverb | /ˈɡreɪtli/ | rất nhiều | very much | greatly appreciated; greatly improve | Your help is *greatly* appreciated. | Rất cảm kích sự giúp đỡ của bạn.
+highly | adverb | /ˈhaɪli/ | rất, hết sức | very; at a high level | highly recommended; highly skilled | This restaurant is *highly* recommended. | Nhà hàng này rất được khuyên dùng.
+heavily | adverb | /ˈhevɪli/ | nặng nề, nhiều | to a great degree | rain heavily; heavily invested | It rained *heavily* all night. | Trời mưa to suốt đêm.
+incredibly | adverb | /ɪnˈkredəbli/ | cực kỳ | extremely | incredibly busy; incredibly useful | This week has been *incredibly* busy. | Tuần này bận kinh khủng.
+increasingly | adverb | /ɪnˈkriːsɪŋli/ | ngày càng | more and more | increasingly popular; increasingly difficult | Online meetings are *increasingly* common. | Họp trực tuyến ngày càng phổ biến.
+particularly | adverb | /pərˈtɪkjələrli/ | đặc biệt | especially | particularly important; not particularly | I *particularly* enjoyed the last presentation. | Tôi đặc biệt thích bài thuyết trình cuối.
+partly | adverb | /ˈpɑːrtli/ | một phần | not completely | partly because; partly cloudy | The delay was *partly* caused by the weather. | Sự chậm trễ một phần do thời tiết.
+personally | adverb | /ˈpɜːrsənəli/ | cá nhân; trực tiếp | in my opinion; by yourself | personally, I think; deliver personally | *Personally*, I prefer the first option. | Cá nhân tôi thích phương án đầu hơn.
+seriously | adverb | /ˈsɪriəsli/ | nghiêm túc; nghiêm trọng | in a serious way; badly | take seriously; seriously injured | We take customer complaints very *seriously*. | Chúng tôi rất nghiêm túc với các khiếu nại của khách hàng.
+specifically | adverb | /spəˈsɪfɪkli/ | cụ thể là; dành riêng | in a detailed way; for a particular purpose | specifically designed for | The app was *specifically* designed for students. | Ứng dụng được thiết kế dành riêng cho sinh viên.
+successfully | adverb | /səkˈsesfəli/ | thành công | in a successful way | successfully completed | You have *successfully* registered for the course. | Bạn đã đăng ký khóa học thành công.
+terribly | adverb | /ˈterəbli/ | rất; tệ hại | very; very badly | terribly sorry; go terribly wrong | I'm *terribly* sorry for the mistake. | Tôi vô cùng xin lỗi vì sai sót.
+commonly | adverb | /ˈkɑːmənli/ | thường, phổ biến | usually; by many people | commonly used; commonly known as | This is one of the most *commonly* asked questions. | Đây là một trong những câu hỏi thường gặp nhất.
+closely | adverb | /ˈkloʊsli/ | chặt chẽ, sát sao | carefully; in a close way | work closely with; closely related | We work *closely* with our suppliers. | Chúng tôi phối hợp chặt chẽ với nhà cung cấp.
+directly | adverb | /dəˈrektli/ | trực tiếp | without anyone or anything in between | contact directly; directly opposite | Please contact the hotel *directly*. | Vui lòng liên hệ trực tiếp với khách sạn.
+direct | adjective | /dəˈrekt/ | trực tiếp; thẳng | going straight; without others in between | direct flight; direct contact | Is there a *direct* flight to Tokyo? | Có chuyến bay thẳng đến Tokyo không?
+indirect | adjective | /ˌɪndəˈrekt/ | gián tiếp | not direct | indirect costs; an indirect answer | *Indirect* answers are very common in TOEIC Part 2. | Câu trả lời gián tiếp rất phổ biến trong TOEIC Part 2.
+firmly | adverb | /ˈfɜːrmli/ | chắc chắn, kiên quyết | in a strong and fixed way | firmly believe; hold firmly | I *firmly* believe this is the right decision. | Tôi tin chắc đây là quyết định đúng.
+fully | adverb | /ˈfʊli/ | đầy đủ, hoàn toàn | completely | fully booked; fully furnished | The hotel is *fully* booked this weekend. | Khách sạn đã kín phòng cuối tuần này.
+openly | adverb | /ˈoʊpənli/ | công khai, cởi mở | honestly and without hiding anything | speak openly | Staff can speak *openly* about their concerns. | Nhân viên có thể nói thẳng những lo ngại của mình.
+naturally | adverb | /ˈnætʃrəli/ | một cách tự nhiên; dĩ nhiên | in a natural way; of course | speak naturally; naturally, … | *Naturally*, we'll pay for your travel costs. | Dĩ nhiên chúng tôi sẽ trả chi phí đi lại cho bạn.
+strongly | adverb | /ˈstrɔːŋli/ | mạnh mẽ | very much; in a strong way | strongly recommend; strongly disagree | We *strongly* recommend booking in advance. | Chúng tôi đặc biệt khuyên nên đặt trước.
+possibly | adverb | /ˈpɑːsəbli/ | có lẽ; có thể | perhaps; used to be polite | could you possibly | Could you *possibly* send it today? | Bạn có thể gửi trong hôm nay được không?
+potentially | adverb | /pəˈtenʃəli/ | có khả năng | possibly | potentially dangerous; potentially useful | This could be a *potentially* huge market. | Đây có thể là một thị trường tiềm năng rất lớn.
+relatively | adverb | /ˈrelətɪvli/ | tương đối | quite, compared with others | relatively cheap; relatively easy | The software is *relatively* easy to use. | Phần mềm tương đối dễ dùng.
+typically | adverb | /ˈtɪpɪkli/ | thông thường | usually | typically take; typically cost | Delivery *typically* takes three to five days. | Giao hàng thường mất từ ba đến năm ngày.
+likewise | adverb | /ˈlaɪkwaɪz/ | tương tự; tôi cũng vậy | in the same way | do likewise | "Nice to meet you." "*Likewise*." | "Rất vui được gặp anh." "Tôi cũng vậy."
+entire | adjective | /ɪnˈtaɪər/ | toàn bộ | whole | the entire team; the entire day | The *entire* team worked on the project. | Toàn bộ đội đã làm dự án.
+entirely | adverb | /ɪnˈtaɪərli/ | hoàn toàn | completely | entirely different; not entirely | I'm not *entirely* sure. | Tôi không hoàn toàn chắc chắn.
+various | adjective | /ˈveriəs/ | khác nhau, nhiều | several different | various reasons; in various ways | The shirt comes in *various* colours. | Áo có nhiều màu khác nhau.
+random | adjective | /ˈrændəm/ | ngẫu nhiên | without a pattern | random check; at random | Winners will be chosen at *random*. | Người thắng sẽ được chọn ngẫu nhiên.
+unlikely | adjective | /ʌnˈlaɪkli/ | khó có thể | not likely | it's unlikely that; unlikely to | It's *unlikely* that prices will fall. | Khó có khả năng giá sẽ giảm.
+unknown | adjective | /ˌʌnˈnoʊn/ | không rõ, vô danh | not known | for unknown reasons; an unknown artist | The cause of the fire is still *unknown*. | Nguyên nhân vụ cháy vẫn chưa rõ.
+universal | adjective | /ˌjuːnɪˈvɜːrsl/ | phổ quát, chung | for everyone or everywhere | universal design; universal charger | This adapter is *universal*; it works in any country. | Bộ chuyển đổi này dùng chung, dùng được ở mọi nước.
+visible | adjective | /ˈvɪzəbl/ | có thể nhìn thấy | able to be seen | clearly visible; highly visible | The sign should be *visible* from the road. | Biển hiệu cần nhìn thấy được từ ngoài đường.
+visual | adjective | /ˈvɪʒuəl/ | thuộc thị giác | connected with seeing | visual aids; visual design | Use *visual* aids like charts in your presentation. | Hãy dùng phương tiện trực quan như biểu đồ trong bài thuyết trình.
+internal | adjective | /ɪnˈtɜːrnl/ | nội bộ; bên trong | inside an organization | internal memo; internal training | This is an *internal* memo for staff only. | Đây là thông báo nội bộ chỉ dành cho nhân viên.
+external | adjective | /ɪkˈstɜːrnl/ | bên ngoài | from outside | external auditor; external factors | An *external* company will check our accounts. | Một công ty bên ngoài sẽ kiểm tra sổ sách của chúng tôi.
+domestic | adjective | /dəˈmestɪk/ | nội địa; trong nhà | inside one country; connected with the home | domestic flights; domestic market | *Domestic* flights leave from Terminal 1. | Các chuyến bay nội địa khởi hành từ nhà ga 1.
+nearby | adjective | /ˌnɪrˈbaɪ/ | gần đó | not far away | a nearby hotel; nearby restaurants | We had lunch at a *nearby* café. | Chúng tôi ăn trưa ở quán cà phê gần đó.
+distant | adjective | /ˈdɪstənt/ | xa xôi | far away | distant future; distant relative | In the not-too-*distant* future, cars will drive themselves. | Trong tương lai không xa, ô tô sẽ tự lái.
+hidden | adjective | /ˈhɪdn/ | ẩn, giấu | not easy to see | hidden costs; hidden charges | There are no *hidden* charges. | Không có phí ẩn nào.
+private | adjective | /ˈpraɪvət/ | riêng tư; tư nhân | for one person or group; not owned by the government | private room; private company | Can we talk somewhere *private*? | Chúng ta nói chuyện ở chỗ riêng được không?
+native | adjective | /ˈneɪtɪv/ | bản xứ | born in a particular place | native language; native to | Her *native* language is Korean. | Tiếng mẹ đẻ của cô ấy là tiếng Hàn.
+equivalent | adjective | /ɪˈkwɪvələnt/ | tương đương | equal in value or meaning | equivalent to; or equivalent | A bachelor's degree or *equivalent* is required. | Yêu cầu bằng cử nhân hoặc tương đương.
+fortunate | adjective | /ˈfɔːrtʃənət/ | may mắn | lucky | fortunate enough to | We were *fortunate* to find a hotel at such short notice. | Chúng tôi may mắn tìm được khách sạn dù gấp như vậy.
+unfortunate | adjective | /ʌnˈfɔːrtʃənət/ | đáng tiếc, không may | unlucky; regrettable | an unfortunate mistake | It's *unfortunate* that the event was cancelled. | Thật đáng tiếc sự kiện bị hủy.
+painful | adjective | /ˈpeɪnfl/ | đau đớn | causing pain | a painful injury; painful decision | Closing the shop was a *painful* decision. | Đóng cửa hàng là một quyết định đau lòng.
+uncomfortable | adjective | /ʌnˈkʌmftəbl/ | không thoải mái | not comfortable | uncomfortable chairs; feel uncomfortable | The chairs in the waiting room are *uncomfortable*. | Ghế trong phòng chờ không thoải mái.
+unfair | adjective | /ˌʌnˈfer/ | không công bằng | not fair | unfair treatment; it's unfair that | It's *unfair* to blame her for the delay. | Đổ lỗi cho cô ấy về sự chậm trễ là không công bằng.
+desperate | adjective | /ˈdespərət/ | tuyệt vọng; rất cần | without hope; needing something very much | desperate for; a desperate situation | We are *desperate* for more staff. | Chúng tôi đang rất cần thêm nhân sự.
+desperately | adverb | /ˈdespərətli/ | hết sức, tuyệt vọng | very much | desperately need | The hospital *desperately* needs more nurses. | Bệnh viện đang rất cần thêm y tá.
+progressive | adjective | /prəˈɡresɪv/ | tiến bộ; tăng dần | supporting new ideas; happening gradually | progressive company; progressive increase | The company has a *progressive* approach to working hours. | Công ty có cách tiếp cận tiến bộ về giờ làm.
+conservative | adjective | /kənˈsɜːrvətɪv/ | bảo thủ; thận trọng | not liking change; low (estimate) | a conservative estimate | At a *conservative* estimate, the project will cost $1 million. | Ước tính thận trọng, dự án sẽ tốn 1 triệu đô.
+absolute | adjective | /ˈæbsəluːt/ | tuyệt đối | complete; total | absolute minimum; absolute beginner | This course is for *absolute* beginners. | Khóa học dành cho người mới hoàn toàn.
+absolutely | adverb | /ˈæbsəluːtli/ | hoàn toàn; chắc chắn rồi | completely; yes, certainly | absolutely right; absolutely not | "Can I bring a friend?" "*Absolutely*!" | "Tôi dẫn bạn theo được không?" "Tất nhiên rồi!"
+abstract | adjective | /ˈæbstrækt/ | trừu tượng | based on ideas, not real things | abstract art; abstract idea | The museum has a room of *abstract* art. | Bảo tàng có một phòng tranh trừu tượng.
+actual | adjective | /ˈæktʃuəl/ | thực tế | real | actual cost; in actual fact | The *actual* cost was higher than the estimate. | Chi phí thực tế cao hơn dự toán.
+incorrect | adjective | /ˌɪnkəˈrekt/ | không chính xác | wrong | incorrect information; incorrect address | The invoice shows an *incorrect* amount. | Hóa đơn ghi sai số tiền.

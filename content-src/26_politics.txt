@@ -1,0 +1,57 @@
+#id: politics
+#prefix: pol
+#order: 26
+#icon: 🏛️
+#title: Government & Politics
+#title_vi: Chính phủ & Chính trị
+#desc: Bầu cử, chính sách, chính quyền địa phương, biểu tình: từ vựng đọc báo và bài đọc IELTS.
+government | noun | /ˈɡʌvərnmənt/ | chính phủ | the group of people who control a country | local government; government policy | The *government* plans to cut taxes. | Chính phủ dự định giảm thuế.
+govern | verb | /ˈɡʌvərn/ | cai trị, điều hành | to officially control a country or organization | govern a country; governing body | The country is *governed* by an elected parliament. | Đất nước được điều hành bởi quốc hội dân cử.
+governor | noun | /ˈɡʌvərnər/ | thống đốc | the person who leads a state or region | state governor | The *governor* visited the flooded area. | Thống đốc đã đến thăm khu vực bị lũ.
+authority | noun | /əˈθɔːrəti/ | chính quyền; quyền hạn | an official organization; the power to give orders | local authorities; have the authority to | Contact the local *authorities* for a permit. | Liên hệ chính quyền địa phương để xin giấy phép.
+official | noun | /əˈfɪʃl/ | quan chức | a person with an important job in an organization | government official; city officials | City *officials* will meet residents tomorrow. | Các quan chức thành phố sẽ gặp người dân ngày mai. | Tính từ official = chính thức.
+minister | noun | /ˈmɪnɪstər/ | bộ trưởng | a person in charge of a government department | prime minister; finance minister | The *minister* announced a new education plan. | Bộ trưởng công bố kế hoạch giáo dục mới.
+parliament | noun | /ˈpɑːrləmənt/ | quốc hội, nghị viện | the group of elected people who make laws | member of parliament; pass a law | *Parliament* will vote on the new law next week. | Quốc hội sẽ biểu quyết luật mới tuần sau.
+council | noun | /ˈkaʊnsl/ | hội đồng (địa phương) | a group of people elected to manage a town | city council; council meeting | The city *council* approved the new park. | Hội đồng thành phố đã duyệt công viên mới.
+mayor | noun | /ˈmeɪər/ | thị trưởng | the leader of a city | the mayor of; elect a mayor | The *mayor* opened the new bridge. | Thị trưởng khánh thành cây cầu mới.
+federal | adjective | /ˈfedərəl/ | thuộc liên bang | connected with the central government of a federal country | federal government; federal law | *Federal* law requires all workers to have a contract. | Luật liên bang yêu cầu mọi lao động phải có hợp đồng.
+state | noun | /steɪt/ | nhà nước; bang; trạng thái | a country or its government; a part of a country; a condition | state-owned; the state of the economy | The building is in a poor *state*. | Tòa nhà đang trong tình trạng tồi tệ.
+nation | noun | /ˈneɪʃn/ | quốc gia, dân tộc | a country and its people | the whole nation; United Nations | The president spoke to the *nation* on TV. | Tổng thống phát biểu với toàn quốc trên truyền hình.
+national | adjective | /ˈnæʃnəl/ | thuộc quốc gia | connected with a whole country | national holiday; national park | Monday is a *national* holiday. | Thứ Hai là ngày lễ quốc gia.
+democracy | noun | /dɪˈmɑːkrəsi/ | nền dân chủ | a system where people choose the government by voting | live in a democracy | Free elections are the basis of *democracy*. | Bầu cử tự do là nền tảng của dân chủ.
+democratic | adjective | /ˌdeməˈkrætɪk/ | dân chủ | based on democracy; allowing everyone to have a say | a democratic decision; democratic process | The team made the decision in a *democratic* way. | Nhóm đưa ra quyết định một cách dân chủ.
+election | noun | /ɪˈlekʃn/ | cuộc bầu cử | the process of choosing people by voting | win an election; general election | The *election* will be held in May. | Cuộc bầu cử sẽ diễn ra vào tháng Năm.
+elect | verb | /ɪˈlekt/ | bầu chọn | to choose someone by voting | be elected; elect a leader | She was *elected* chairperson of the committee. | Bà ấy được bầu làm chủ tịch ủy ban.
+vote | verb | /voʊt/ | bỏ phiếu | to show your choice in an election | vote for; vote against; vote on | Staff will *vote* on the new office design. | Nhân viên sẽ bỏ phiếu chọn thiết kế văn phòng mới.
+voting | noun | /ˈvoʊtɪŋ/ | việc bỏ phiếu | the act of voting | voting system; online voting | *Voting* closes at 5 p.m. | Bỏ phiếu kết thúc lúc 5 giờ chiều.
+candidate | noun | /ˈkændɪdət/ | ứng cử viên, ứng viên | a person who wants to be chosen for a job or position | job candidate; a strong candidate | We interviewed five *candidates* for the position. | Chúng tôi phỏng vấn năm ứng viên cho vị trí này.
+campaign | verb | /kæmˈpeɪn/ | vận động | to take part in organized activities to achieve something | campaign for; campaign against | Residents are *campaigning* for a new hospital. | Người dân đang vận động xây bệnh viện mới.
+policy | noun | /ˈpɑːləsi/ | chính sách | a plan of action agreed by a government or company | company policy; return policy; government policy | Please read our return *policy* before buying. | Vui lòng đọc chính sách đổi trả trước khi mua.
+political | adjective | /pəˈlɪtɪkl/ | thuộc chính trị | connected with politics | political party; political situation | The country is going through a *political* crisis. | Đất nước đang trải qua khủng hoảng chính trị.
+politician | noun | /ˌpɑːləˈtɪʃn/ | chính trị gia | a person who works in politics | a local politician | The *politician* promised to build more schools. | Chính trị gia hứa xây thêm trường học.
+politics | noun | /ˈpɑːlətɪks/ | chính trị | activities connected with governing a country | interested in politics; office politics | I try to avoid office *politics*. | Tôi cố tránh chuyện đấu đá nội bộ ở công ty.
+represent | verb | /ˌreprɪˈzent/ | đại diện; tượng trưng | to act for someone; to be a symbol of | represent the company; represent a change | She will *represent* our company at the conference. | Cô ấy sẽ đại diện công ty tại hội nghị.
+representative | noun | /ˌreprɪˈzentətɪv/ | người đại diện | a person who acts for others | sales representative; customer service representative | A customer service *representative* will call you back. | Nhân viên chăm sóc khách hàng sẽ gọi lại cho bạn. | Viết tắt: rep.
+majority | noun | /məˈdʒɔːrəti/ | đa số | the larger part of a group | the majority of; a large majority | The *majority* of staff prefer working from home. | Đa số nhân viên thích làm việc tại nhà.
+minority | noun | /maɪˈnɔːrəti/ | thiểu số | the smaller part of a group | ethnic minority; in the minority | Only a *minority* of customers complained. | Chỉ một số ít khách hàng phàn nàn.
+oppose | verb | /əˈpoʊz/ | phản đối | to disagree with a plan and try to stop it | strongly oppose; oppose a plan | Local residents *oppose* the new airport. | Người dân địa phương phản đối sân bay mới.
+opposed | adjective | /əˈpoʊzd/ | phản đối | disagreeing strongly | opposed to; as opposed to | Many people are *opposed* to the price increase. | Nhiều người phản đối việc tăng giá. | as opposed to = trái ngược với.
+opposition | noun | /ˌɑːpəˈzɪʃn/ | sự phản đối; phe đối lập | strong disagreement; the political party not in power | strong opposition; the opposition party | The plan faced strong *opposition*. | Kế hoạch gặp sự phản đối mạnh mẽ.
+protest | noun | /ˈproʊtest/ | cuộc biểu tình; sự phản đối | a public action to show disagreement | hold a protest; in protest against | Workers held a *protest* outside the factory. | Công nhân biểu tình bên ngoài nhà máy.
+protester | noun | /prəˈtestər/ | người biểu tình | a person who takes part in a protest | thousands of protesters | *Protesters* gathered in front of the city hall. | Người biểu tình tập trung trước tòa thị chính.
+independence | noun | /ˌɪndɪˈpendəns/ | sự độc lập | freedom from control by others | Independence Day; financial independence | Many young people want financial *independence*. | Nhiều người trẻ muốn độc lập tài chính.
+freedom | noun | /ˈfriːdəm/ | sự tự do | the right to do or say what you want | freedom of speech; the freedom to | The job gives me the *freedom* to work from anywhere. | Công việc cho tôi tự do làm việc ở bất cứ đâu.
+union | noun | /ˈjuːniən/ | công đoàn; liên minh | an organization of workers; a group of countries | trade union; the European Union | The *union* is negotiating higher wages. | Công đoàn đang đàm phán tăng lương.
+unite | verb | /juˈnaɪt/ | đoàn kết, hợp nhất | to join together | unite against; united team | The crisis *united* the whole team. | Cuộc khủng hoảng đã gắn kết cả đội.
+unity | noun | /ˈjuːnəti/ | sự thống nhất | the state of being joined together | national unity; a sense of unity | Team-building events create a sense of *unity*. | Các hoạt động gắn kết đội tạo cảm giác thống nhất.
+royal | adjective | /ˈrɔɪəl/ | thuộc hoàng gia | connected with a king or queen | royal family; royal palace | The *royal* palace is open to visitors. | Cung điện hoàng gia mở cửa cho du khách.
+prince | noun | /prɪns/ | hoàng tử | the son of a king or queen | the crown prince | The *prince* opened the new hospital. | Hoàng tử khánh thành bệnh viện mới.
+princess | noun | /ˌprɪnˈses/ | công chúa | the daughter of a king or queen | a fairy-tale princess | My daughter wants to be a *princess* for Halloween. | Con gái tôi muốn hóa trang thành công chúa dịp Halloween.
+lord | noun | /lɔːrd/ | lãnh chúa, ngài | a man of high rank | lords and ladies | The castle once belonged to a local *lord*. | Lâu đài từng thuộc về một lãnh chúa địa phương.
+regional | adjective | /ˈriːdʒənl/ | thuộc khu vực | connected with a region | regional manager; regional office | She was promoted to *regional* sales manager. | Cô ấy được thăng chức quản lý bán hàng khu vực.
+county | noun | /ˈkaʊnti/ | hạt (đơn vị hành chính) | an area of a country with its own local government | county council; Orange County | The festival is the biggest in the *county*. | Lễ hội là lớn nhất trong hạt.
+territory | noun | /ˈterətɔːri/ | lãnh thổ; địa bàn | land controlled by a country; an area of responsibility | sales territory; enemy territory | Each sales rep covers a different *territory*. | Mỗi nhân viên bán hàng phụ trách một địa bàn khác nhau.
+colony | noun | /ˈkɑːləni/ | thuộc địa; bầy đàn | a country controlled by another; a group of animals | a former colony; ant colony | Hong Kong was once a British *colony*. | Hồng Kông từng là thuộc địa của Anh.
+empire | noun | /ˈempaɪər/ | đế chế | a group of countries ruled by one person or government; a large business group | the Roman Empire; business empire | He built a business *empire* from a single shop. | Ông ấy xây dựng đế chế kinh doanh từ một cửa hàng duy nhất.
+military | adjective | /ˈmɪləteri/ | thuộc quân sự | connected with the army | military service; military base | He did two years of *military* service. | Anh ấy đã làm nghĩa vụ quân sự hai năm.
+federation | noun | /ˌfedəˈreɪʃn/ | liên đoàn | a group of organizations joined together | sports federation | The national football *federation* chose a new coach. | Liên đoàn bóng đá quốc gia chọn huấn luyện viên mới.

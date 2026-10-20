@@ -1,0 +1,1056 @@
+{
+ "id": "character",
+ "order": 25,
+ "icon": "🧠",
+ "level": "B2",
+ "title": "Character & Behaviour",
+ "title_vi": "Tính cách & Hành vi",
+ "description": "Tính từ miêu tả con người, các động từ hành vi (blame, insist, pretend…): dùng nhiều trong Speaking và đánh giá nhân sự.",
+ "words": [
+  {
+   "id": "chr_attitude",
+   "word": "attitude",
+   "pos": "noun",
+   "ipa": "/ˈætɪtuːd/",
+   "level": "B1",
+   "meaning": "thái độ",
+   "definition": "the way you think and feel about something",
+   "collocations": [
+    "positive attitude",
+    "attitude towards"
+   ],
+   "examples": [
+    {
+     "en": "She has a very positive *attitude* to work.",
+     "vi": "Cô ấy có thái độ rất tích cực với công việc."
+    }
+   ]
+  },
+  {
+   "id": "chr_trait",
+   "word": "trait",
+   "pos": "noun",
+   "ipa": "/treɪt/",
+   "level": "B2",
+   "meaning": "nét tính cách",
+   "definition": "a particular quality of a person",
+   "collocations": [
+    "personality traits",
+    "a common trait"
+   ],
+   "examples": [
+    {
+     "en": "Honesty is one of his best *traits*.",
+     "vi": "Trung thực là một trong những nét tính cách tốt nhất của anh ấy."
+    }
+   ]
+  },
+  {
+   "id": "chr_talent",
+   "word": "talent",
+   "pos": "noun",
+   "ipa": "/ˈtælənt/",
+   "level": "B1",
+   "meaning": "tài năng",
+   "definition": "a natural ability to do something well",
+   "collocations": [
+    "a talent for",
+    "young talent"
+   ],
+   "examples": [
+    {
+     "en": "She has a real *talent* for languages.",
+     "vi": "Cô ấy có năng khiếu thực sự về ngôn ngữ."
+    }
+   ]
+  },
+  {
+   "id": "chr_talented",
+   "word": "talented",
+   "pos": "adjective",
+   "ipa": "/ˈtæləntɪd/",
+   "level": "B1",
+   "meaning": "tài năng",
+   "definition": "having a natural ability",
+   "collocations": [
+    "a talented designer",
+    "highly talented"
+   ],
+   "examples": [
+    {
+     "en": "We have a very *talented* team.",
+     "vi": "Chúng tôi có một đội rất tài năng."
+    }
+   ]
+  },
+  {
+   "id": "chr_genius",
+   "word": "genius",
+   "pos": "noun",
+   "ipa": "/ˈdʒiːniəs/",
+   "level": "B2",
+   "meaning": "thiên tài",
+   "definition": "a very intelligent or talented person",
+   "collocations": [
+    "a computer genius",
+    "a stroke of genius"
+   ],
+   "examples": [
+    {
+     "en": "He's a *genius* with computers.",
+     "vi": "Anh ấy là thiên tài máy tính."
+    }
+   ]
+  },
+  {
+   "id": "chr_wise",
+   "word": "wise",
+   "pos": "adjective",
+   "ipa": "/waɪz/",
+   "level": "B2",
+   "meaning": "khôn ngoan",
+   "definition": "able to make good decisions",
+   "collocations": [
+    "a wise decision",
+    "it would be wise to"
+   ],
+   "examples": [
+    {
+     "en": "It would be *wise* to book early.",
+     "vi": "Đặt sớm sẽ là khôn ngoan."
+    }
+   ]
+  },
+  {
+   "id": "chr_wisdom",
+   "word": "wisdom",
+   "pos": "noun",
+   "ipa": "/ˈwɪzdəm/",
+   "level": "B2",
+   "meaning": "sự thông thái",
+   "definition": "the ability to make good decisions from experience",
+   "collocations": [
+    "words of wisdom"
+   ],
+   "examples": [
+    {
+     "en": "My grandmother's *wisdom* helped me a lot.",
+     "vi": "Sự thông thái của bà đã giúp tôi rất nhiều."
+    }
+   ]
+  },
+  {
+   "id": "chr_sensible",
+   "word": "sensible",
+   "pos": "adjective",
+   "ipa": "/ˈsensəbl/",
+   "level": "B1",
+   "meaning": "biết lẽ phải, hợp lý",
+   "definition": "able to make good practical decisions",
+   "collocations": [
+    "a sensible decision",
+    "sensible shoes"
+   ],
+   "examples": [
+    {
+     "en": "That sounds like a *sensible* plan.",
+     "vi": "Đó nghe như một kế hoạch hợp lý."
+    }
+   ],
+   "note": "Khác sensitive (nhạy cảm)."
+  },
+  {
+   "id": "chr_sensitive",
+   "word": "sensitive",
+   "pos": "adjective",
+   "ipa": "/ˈsensətɪv/",
+   "level": "B2",
+   "meaning": "nhạy cảm",
+   "definition": "easily upset; reacting quickly to something",
+   "collocations": [
+    "sensitive information",
+    "sensitive skin"
+   ],
+   "examples": [
+    {
+     "en": "Please don't share *sensitive* information by e-mail.",
+     "vi": "Vui lòng không chia sẻ thông tin nhạy cảm qua e-mail."
+    }
+   ]
+  },
+  {
+   "id": "chr_smart",
+   "word": "smart",
+   "pos": "adjective",
+   "ipa": "/smɑːrt/",
+   "level": "B1",
+   "meaning": "thông minh; lịch sự (trang phục)",
+   "definition": "intelligent; clean and neat",
+   "collocations": [
+    "a smart idea",
+    "smart casual"
+   ],
+   "examples": [
+    {
+     "en": "The dress code is *smart* casual.",
+     "vi": "Quy định trang phục là lịch sự thoải mái."
+    }
+   ],
+   "note": "Câu khác: That is a smart idea = Ý hay đấy."
+  },
+  {
+   "id": "chr_brave",
+   "word": "brave",
+   "pos": "adjective",
+   "ipa": "/breɪv/",
+   "level": "B1",
+   "meaning": "dũng cảm",
+   "definition": "not afraid of danger",
+   "collocations": [
+    "a brave decision",
+    "be brave"
+   ],
+   "examples": [
+    {
+     "en": "It was *brave* of her to speak up in the meeting.",
+     "vi": "Cô ấy thật can đảm khi lên tiếng trong cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "chr_courage",
+   "word": "courage",
+   "pos": "noun",
+   "ipa": "/ˈkɜːrɪdʒ/",
+   "level": "B2",
+   "meaning": "lòng can đảm",
+   "definition": "the ability to do something dangerous or difficult",
+   "collocations": [
+    "have the courage to",
+    "show courage"
+   ],
+   "examples": [
+    {
+     "en": "It takes *courage* to start your own business.",
+     "vi": "Cần có can đảm để khởi nghiệp."
+    }
+   ]
+  },
+  {
+   "id": "chr_determined",
+   "word": "determined",
+   "pos": "adjective",
+   "ipa": "/dɪˈtɜːrmɪnd/",
+   "level": "B1",
+   "meaning": "quyết tâm",
+   "definition": "having made a firm decision",
+   "collocations": [
+    "determined to succeed"
+   ],
+   "examples": [
+    {
+     "en": "She is *determined* to pass the TOEIC exam this year.",
+     "vi": "Cô ấy quyết tâm thi đỗ TOEIC năm nay."
+    }
+   ]
+  },
+  {
+   "id": "chr_determination",
+   "word": "determination",
+   "pos": "noun",
+   "ipa": "/dɪˌtɜːrmɪˈneɪʃn/",
+   "level": "B2",
+   "meaning": "sự quyết tâm",
+   "definition": "the quality of continuing to try",
+   "collocations": [
+    "with determination",
+    "show determination"
+   ],
+   "examples": [
+    {
+     "en": "His *determination* helped him succeed.",
+     "vi": "Sự quyết tâm đã giúp anh ấy thành công."
+    }
+   ]
+  },
+  {
+   "id": "chr_aggressive",
+   "word": "aggressive",
+   "pos": "adjective",
+   "ipa": "/əˈɡresɪv/",
+   "level": "B2",
+   "meaning": "hung hăng; quyết liệt",
+   "definition": "angry and violent; very forceful",
+   "collocations": [
+    "aggressive behaviour",
+    "an aggressive marketing campaign"
+   ],
+   "examples": [
+    {
+     "en": "The company has an *aggressive* growth strategy.",
+     "vi": "Công ty có chiến lược tăng trưởng quyết liệt."
+    }
+   ]
+  },
+  {
+   "id": "chr_gentle",
+   "word": "gentle",
+   "pos": "adjective",
+   "ipa": "/ˈdʒentl/",
+   "level": "B1",
+   "meaning": "hiền dịu, nhẹ nhàng",
+   "definition": "kind and calm",
+   "collocations": [
+    "a gentle voice",
+    "gentle exercise"
+   ],
+   "examples": [
+    {
+     "en": "Yoga is a *gentle* form of exercise.",
+     "vi": "Yoga là hình thức tập luyện nhẹ nhàng."
+    }
+   ]
+  },
+  {
+   "id": "chr_modest",
+   "word": "modest",
+   "pos": "adjective",
+   "ipa": "/ˈmɑːdɪst/",
+   "level": "B2",
+   "meaning": "khiêm tốn; vừa phải",
+   "definition": "not talking about your achievements; not large",
+   "collocations": [
+    "a modest increase",
+    "modest about"
+   ],
+   "examples": [
+    {
+     "en": "Prices rose by a *modest* 2%.",
+     "vi": "Giá tăng nhẹ 2%."
+    }
+   ]
+  },
+  {
+   "id": "chr_decent",
+   "word": "decent",
+   "pos": "adjective",
+   "ipa": "/ˈdiːsnt/",
+   "level": "B2",
+   "meaning": "tử tế; khá tốt",
+   "definition": "good or acceptable; honest",
+   "collocations": [
+    "a decent salary",
+    "decent people"
+   ],
+   "examples": [
+    {
+     "en": "It's a *decent* job with a good salary.",
+     "vi": "Đó là một công việc ổn với mức lương khá."
+    }
+   ]
+  },
+  {
+   "id": "chr_genuine",
+   "word": "genuine",
+   "pos": "adjective",
+   "ipa": "/ˈdʒenjuɪn/",
+   "level": "B2",
+   "meaning": "thật, chân thật",
+   "definition": "real; sincere",
+   "collocations": [
+    "genuine leather",
+    "genuine interest"
+   ],
+   "examples": [
+    {
+     "en": "He showed *genuine* interest in our work.",
+     "vi": "Anh ấy thật sự quan tâm đến công việc của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "chr_genuinely",
+   "word": "genuinely",
+   "pos": "adverb",
+   "ipa": "/ˈdʒenjuɪnli/",
+   "level": "B2",
+   "meaning": "thật lòng",
+   "definition": "really; sincerely",
+   "collocations": [
+    "genuinely interested",
+    "genuinely sorry"
+   ],
+   "examples": [
+    {
+     "en": "I'm *genuinely* sorry for the mistake.",
+     "vi": "Tôi thật lòng xin lỗi vì sai sót."
+    }
+   ]
+  },
+  {
+   "id": "chr_honesty",
+   "word": "honesty",
+   "pos": "noun",
+   "ipa": "/ˈɑːnəsti/",
+   "level": "B2",
+   "meaning": "sự trung thực",
+   "definition": "the quality of being honest",
+   "collocations": [
+    "honesty and trust"
+   ],
+   "examples": [
+    {
+     "en": "We value *honesty* above everything.",
+     "vi": "Chúng tôi coi trọng sự trung thực hơn hết."
+    }
+   ]
+  },
+  {
+   "id": "chr_dishonest",
+   "word": "dishonest",
+   "pos": "adjective",
+   "ipa": "/dɪsˈɑːnɪst/",
+   "level": "B2",
+   "meaning": "không trung thực",
+   "definition": "not honest",
+   "collocations": [
+    "dishonest behaviour"
+   ],
+   "examples": [
+    {
+     "en": "It would be *dishonest* to hide the problem from customers.",
+     "vi": "Giấu vấn đề với khách hàng là không trung thực."
+    }
+   ]
+  },
+  {
+   "id": "chr_innocent",
+   "word": "innocent",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəsnt/",
+   "level": "B1",
+   "meaning": "vô tội; ngây thơ",
+   "definition": "not guilty; not knowing about bad things",
+   "collocations": [
+    "innocent people",
+    "an innocent question"
+   ],
+   "examples": [
+    {
+     "en": "The court found him *innocent*.",
+     "vi": "Tòa tuyên anh ta vô tội."
+    }
+   ]
+  },
+  {
+   "id": "chr_careless",
+   "word": "careless",
+   "pos": "adjective",
+   "ipa": "/ˈkerləs/",
+   "level": "B1",
+   "meaning": "bất cẩn",
+   "definition": "not paying enough attention",
+   "collocations": [
+    "a careless mistake",
+    "careless driving"
+   ],
+   "examples": [
+    {
+     "en": "The report was full of *careless* mistakes.",
+     "vi": "Bản báo cáo đầy lỗi bất cẩn."
+    }
+   ]
+  },
+  {
+   "id": "chr_impatient",
+   "word": "impatient",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpeɪʃnt/",
+   "level": "B2",
+   "meaning": "thiếu kiên nhẫn",
+   "definition": "not able to wait calmly",
+   "collocations": [
+    "get impatient",
+    "impatient with"
+   ],
+   "examples": [
+    {
+     "en": "Customers get *impatient* if they wait too long.",
+     "vi": "Khách hàng mất kiên nhẫn nếu phải chờ quá lâu."
+    }
+   ]
+  },
+  {
+   "id": "chr_patience",
+   "word": "patience",
+   "pos": "noun",
+   "ipa": "/ˈpeɪʃns/",
+   "level": "B2",
+   "meaning": "sự kiên nhẫn",
+   "definition": "the ability to wait calmly",
+   "collocations": [
+    "lose patience",
+    "thank you for your patience"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *patience* during the repairs.",
+     "vi": "Cảm ơn sự kiên nhẫn của quý khách trong thời gian sửa chữa."
+    }
+   ]
+  },
+  {
+   "id": "chr_lively",
+   "word": "lively",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪvli/",
+   "level": "B2",
+   "meaning": "sôi nổi, sinh động",
+   "definition": "full of energy",
+   "collocations": [
+    "a lively discussion",
+    "lively atmosphere"
+   ],
+   "examples": [
+    {
+     "en": "We had a *lively* discussion about the new logo.",
+     "vi": "Chúng tôi có cuộc thảo luận sôi nổi về logo mới."
+    }
+   ]
+  },
+  {
+   "id": "chr_tough",
+   "word": "tough",
+   "pos": "adjective",
+   "ipa": "/tʌf/",
+   "level": "B2",
+   "meaning": "khó khăn; cứng rắn",
+   "definition": "difficult; strong",
+   "collocations": [
+    "a tough decision",
+    "tough competition"
+   ],
+   "examples": [
+    {
+     "en": "It was a *tough* decision to close the shop.",
+     "vi": "Đóng cửa hàng là một quyết định khó khăn."
+    }
+   ]
+  },
+  {
+   "id": "chr_cruel",
+   "word": "cruel",
+   "pos": "adjective",
+   "ipa": "/ˈkruːəl/",
+   "level": "B1",
+   "meaning": "độc ác",
+   "definition": "causing pain to others on purpose",
+   "collocations": [
+    "cruel to animals"
+   ],
+   "examples": [
+    {
+     "en": "It's *cruel* to keep animals in small cages.",
+     "vi": "Nhốt động vật trong lồng nhỏ là độc ác."
+    }
+   ]
+  },
+  {
+   "id": "chr_evil",
+   "word": "evil",
+   "pos": "adjective",
+   "ipa": "/ˈiːvl/",
+   "level": "B2",
+   "meaning": "xấu xa, độc ác",
+   "definition": "very bad and cruel",
+   "collocations": [
+    "an evil character"
+   ],
+   "examples": [
+    {
+     "en": "The *evil* king is defeated at the end of the story.",
+     "vi": "Vị vua độc ác bị đánh bại ở cuối truyện."
+    }
+   ]
+  },
+  {
+   "id": "chr_nasty",
+   "word": "nasty",
+   "pos": "adjective",
+   "ipa": "/ˈnæsti/",
+   "level": "B2",
+   "meaning": "khó chịu, xấu tính",
+   "definition": "very unpleasant or unkind",
+   "collocations": [
+    "a nasty cold",
+    "a nasty comment"
+   ],
+   "examples": [
+    {
+     "en": "I've got a *nasty* cold.",
+     "vi": "Tôi bị cảm nặng khó chịu."
+    }
+   ]
+  },
+  {
+   "id": "chr_silly",
+   "word": "silly",
+   "pos": "adjective",
+   "ipa": "/ˈsɪli/",
+   "level": "B1",
+   "meaning": "ngớ ngẩn",
+   "definition": "not sensible; foolish",
+   "collocations": [
+    "a silly mistake",
+    "don't be silly"
+   ],
+   "examples": [
+    {
+     "en": "It was a *silly* mistake.",
+     "vi": "Đó là một lỗi ngớ ngẩn."
+    }
+   ]
+  },
+  {
+   "id": "chr_fool",
+   "word": "fool",
+   "pos": "noun",
+   "ipa": "/fuːl/",
+   "level": "B2",
+   "meaning": "kẻ ngốc",
+   "definition": "a stupid person",
+   "collocations": [
+    "make a fool of yourself"
+   ],
+   "examples": [
+    {
+     "en": "I felt like a *fool* when I forgot my speech.",
+     "vi": "Tôi thấy mình như kẻ ngốc khi quên bài phát biểu."
+    }
+   ]
+  },
+  {
+   "id": "chr_odd",
+   "word": "odd",
+   "pos": "adjective",
+   "ipa": "/ɑːd/",
+   "level": "B1",
+   "meaning": "kỳ quặc; lẻ",
+   "definition": "strange; not even (1, 3, 5)",
+   "collocations": [
+    "odd numbers",
+    "it's odd that"
+   ],
+   "examples": [
+    {
+     "en": "It's *odd* that he hasn't replied yet.",
+     "vi": "Lạ là anh ấy vẫn chưa trả lời."
+    }
+   ],
+   "note": "odd jobs = việc vặt."
+  },
+  {
+   "id": "chr_neat",
+   "word": "neat",
+   "pos": "adjective",
+   "ipa": "/niːt/",
+   "level": "B2",
+   "meaning": "gọn gàng",
+   "definition": "tidy and organized",
+   "collocations": [
+    "neat and tidy",
+    "neat handwriting"
+   ],
+   "examples": [
+    {
+     "en": "Please keep your desk *neat*.",
+     "vi": "Vui lòng giữ bàn làm việc gọn gàng."
+    }
+   ]
+  },
+  {
+   "id": "chr_mysterious",
+   "word": "mysterious",
+   "pos": "adjective",
+   "ipa": "/mɪˈstɪriəs/",
+   "level": "B2",
+   "meaning": "bí ẩn",
+   "definition": "strange and not known",
+   "collocations": [
+    "a mysterious man",
+    "mysterious circumstances"
+   ],
+   "examples": [
+    {
+     "en": "A *mysterious* package arrived at the office.",
+     "vi": "Một gói hàng bí ẩn được gửi đến văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "chr_sophisticated",
+   "word": "sophisticated",
+   "pos": "adjective",
+   "ipa": "/səˈfɪstɪkeɪtɪd/",
+   "level": "B2",
+   "meaning": "tinh tế; tinh vi",
+   "definition": "knowing about culture and style; complex",
+   "collocations": [
+    "a sophisticated system",
+    "sophisticated taste"
+   ],
+   "examples": [
+    {
+     "en": "The bank uses a *sophisticated* security system.",
+     "vi": "Ngân hàng dùng hệ thống bảo mật tinh vi."
+    }
+   ]
+  },
+  {
+   "id": "chr_behaviour",
+   "word": "behaviour",
+   "pos": "noun",
+   "ipa": "/bɪˈheɪvjər/",
+   "level": "A2",
+   "meaning": "hành vi, cách cư xử",
+   "definition": "the way someone acts",
+   "collocations": [
+    "good behaviour",
+    "customer behaviour"
+   ],
+   "examples": [
+    {
+     "en": "We study customer *behaviour* to improve sales.",
+     "vi": "Chúng tôi nghiên cứu hành vi khách hàng để tăng doanh số."
+    }
+   ],
+   "note": "Anh-Mỹ: behavior."
+  },
+  {
+   "id": "chr_blame",
+   "word": "blame",
+   "pos": "verb",
+   "ipa": "/bleɪm/",
+   "level": "B2",
+   "meaning": "đổ lỗi",
+   "definition": "to say someone is responsible for something bad",
+   "collocations": [
+    "blame someone for",
+    "be to blame"
+   ],
+   "examples": [
+    {
+     "en": "Don't *blame* yourself for the mistake.",
+     "vi": "Đừng tự trách mình vì lỗi đó."
+    }
+   ]
+  },
+  {
+   "id": "chr_admit",
+   "word": "admit",
+   "pos": "verb",
+   "ipa": "/ədˈmɪt/",
+   "level": "B1",
+   "meaning": "thừa nhận; cho vào",
+   "definition": "to agree that something is true; to allow to enter",
+   "collocations": [
+    "admit a mistake",
+    "admit doing"
+   ],
+   "examples": [
+    {
+     "en": "He *admitted* making a mistake in the report.",
+     "vi": "Anh ấy thừa nhận đã mắc lỗi trong báo cáo."
+    }
+   ],
+   "note": "admit + V-ing."
+  },
+  {
+   "id": "chr_deny",
+   "word": "deny",
+   "pos": "verb",
+   "ipa": "/dɪˈnaɪ/",
+   "level": "B2",
+   "meaning": "phủ nhận; từ chối",
+   "definition": "to say something is not true; to refuse",
+   "collocations": [
+    "deny the rumour",
+    "deny access"
+   ],
+   "examples": [
+    {
+     "en": "The company *denied* the rumours.",
+     "vi": "Công ty phủ nhận các tin đồn."
+    }
+   ]
+  },
+  {
+   "id": "chr_insist",
+   "word": "insist",
+   "pos": "verb",
+   "ipa": "/ɪnˈsɪst/",
+   "level": "B2",
+   "meaning": "khăng khăng, nhất quyết",
+   "definition": "to say firmly that something must happen",
+   "collocations": [
+    "insist on",
+    "insist that"
+   ],
+   "examples": [
+    {
+     "en": "She *insisted* on paying for dinner.",
+     "vi": "Cô ấy nhất quyết trả tiền bữa tối."
+    }
+   ]
+  },
+  {
+   "id": "chr_pretend",
+   "word": "pretend",
+   "pos": "verb",
+   "ipa": "/prɪˈtend/",
+   "level": "B1",
+   "meaning": "giả vờ",
+   "definition": "to act as if something is true when it is not",
+   "collocations": [
+    "pretend to",
+    "pretend that"
+   ],
+   "examples": [
+    {
+     "en": "He *pretended* not to hear me.",
+     "vi": "Anh ấy giả vờ không nghe thấy tôi."
+    }
+   ]
+  },
+  {
+   "id": "chr_hesitate",
+   "word": "hesitate",
+   "pos": "verb",
+   "ipa": "/ˈhezɪteɪt/",
+   "level": "B2",
+   "meaning": "do dự",
+   "definition": "to pause before doing something",
+   "collocations": [
+    "don't hesitate to"
+   ],
+   "examples": [
+    {
+     "en": "Please don't *hesitate* to contact me if you have questions.",
+     "vi": "Nếu có câu hỏi, đừng ngần ngại liên hệ tôi."
+    }
+   ],
+   "note": "Câu kết email kinh điển."
+  },
+  {
+   "id": "chr_ignore",
+   "word": "ignore",
+   "pos": "verb",
+   "ipa": "/ɪɡˈnɔːr/",
+   "level": "B1",
+   "meaning": "phớt lờ",
+   "definition": "to pay no attention to",
+   "collocations": [
+    "ignore advice",
+    "ignore a warning"
+   ],
+   "examples": [
+    {
+     "en": "He *ignored* the warning signs.",
+     "vi": "Anh ấy phớt lờ các biển cảnh báo."
+    }
+   ]
+  },
+  {
+   "id": "chr_rely",
+   "word": "rely",
+   "pos": "verb",
+   "ipa": "/rɪˈlaɪ/",
+   "level": "B2",
+   "meaning": "dựa vào, tin cậy",
+   "definition": "to depend on someone or something",
+   "collocations": [
+    "rely on"
+   ],
+   "examples": [
+    {
+     "en": "You can *rely* on her to finish on time.",
+     "vi": "Bạn có thể tin cô ấy sẽ xong đúng hạn."
+    }
+   ]
+  },
+  {
+   "id": "chr_deserve",
+   "word": "deserve",
+   "pos": "verb",
+   "ipa": "/dɪˈzɜːrv/",
+   "level": "B2",
+   "meaning": "xứng đáng",
+   "definition": "to earn something because of your actions",
+   "collocations": [
+    "deserve a break",
+    "well deserved"
+   ],
+   "examples": [
+    {
+     "en": "You *deserve* a break after all your hard work.",
+     "vi": "Bạn xứng đáng được nghỉ ngơi sau bao vất vả."
+    }
+   ]
+  },
+  {
+   "id": "chr_dare",
+   "word": "dare",
+   "pos": "verb",
+   "ipa": "/der/",
+   "level": "B2",
+   "meaning": "dám",
+   "definition": "to be brave enough to do something",
+   "collocations": [
+    "dare to",
+    "how dare you"
+   ],
+   "examples": [
+    {
+     "en": "Nobody *dared* to ask the boss.",
+     "vi": "Không ai dám hỏi sếp."
+    }
+   ]
+  },
+  {
+   "id": "chr_cheat",
+   "word": "cheat",
+   "pos": "verb",
+   "ipa": "/tʃiːt/",
+   "level": "B1",
+   "meaning": "gian lận, lừa",
+   "definition": "to act dishonestly to win or gain something",
+   "collocations": [
+    "cheat in an exam",
+    "cheat customers"
+   ],
+   "examples": [
+    {
+     "en": "Students who *cheat* will fail the course.",
+     "vi": "Sinh viên gian lận sẽ trượt môn."
+    }
+   ]
+  },
+  {
+   "id": "chr_tease",
+   "word": "tease",
+   "pos": "verb",
+   "ipa": "/tiːz/",
+   "level": "B2",
+   "meaning": "trêu chọc",
+   "definition": "to laugh at someone in a friendly or unkind way",
+   "collocations": [
+    "tease someone about"
+   ],
+   "examples": [
+    {
+     "en": "My colleagues *tease* me about my coffee habit.",
+     "vi": "Đồng nghiệp trêu tôi về thói nghiện cà phê."
+    }
+   ]
+  },
+  {
+   "id": "chr_swear",
+   "word": "swear",
+   "pos": "verb",
+   "ipa": "/swer/",
+   "level": "B2",
+   "meaning": "thề; chửi thề",
+   "definition": "to make a serious promise; to use rude words",
+   "collocations": [
+    "swear to",
+    "swear at"
+   ],
+   "examples": [
+    {
+     "en": "I *swear* I didn't touch your computer.",
+     "vi": "Tôi thề là không đụng vào máy tính của bạn."
+    }
+   ]
+  },
+  {
+   "id": "chr_beg",
+   "word": "beg",
+   "pos": "verb",
+   "ipa": "/beɡ/",
+   "level": "B2",
+   "meaning": "van xin",
+   "definition": "to ask for something in a very strong way",
+   "collocations": [
+    "beg for",
+    "I beg your pardon"
+   ],
+   "examples": [
+    {
+     "en": "The children *begged* to stay at the park longer.",
+     "vi": "Bọn trẻ nài nỉ được ở lại công viên lâu hơn."
+    }
+   ],
+   "note": "\"I beg your pardon?\" = Xin lỗi, bạn nói lại được không?"
+  },
+  {
+   "id": "chr_respect",
+   "word": "respect",
+   "pos": "noun",
+   "ipa": "/rɪˈspekt/",
+   "level": "B1",
+   "meaning": "sự tôn trọng",
+   "definition": "a feeling of admiration; polite behaviour",
+   "collocations": [
+    "show respect",
+    "with respect",
+    "in respect of"
+   ],
+   "examples": [
+    {
+     "en": "Treat every customer with *respect*.",
+     "vi": "Hãy đối xử với mọi khách hàng bằng sự tôn trọng."
+    }
+   ]
+  },
+  {
+   "id": "chr_honour",
+   "word": "honour",
+   "pos": "noun",
+   "ipa": "/ˈɑːnər/",
+   "level": "B2",
+   "meaning": "vinh dự; danh dự",
+   "definition": "something that makes you proud; respect",
+   "collocations": [
+    "it's an honour",
+    "in honour of"
+   ],
+   "examples": [
+    {
+     "en": "It's an *honour* to receive this award.",
+     "vi": "Thật vinh dự được nhận giải thưởng này."
+    }
+   ],
+   "note": "Anh-Mỹ: honor. Chữ h câm."
+  },
+  {
+   "id": "chr_praise",
+   "word": "praise",
+   "pos": "verb",
+   "ipa": "/preɪz/",
+   "level": "B2",
+   "meaning": "khen ngợi",
+   "definition": "to say that someone has done well",
+   "collocations": [
+    "praise someone for",
+    "highly praised"
+   ],
+   "examples": [
+    {
+     "en": "The manager *praised* the team for their hard work.",
+     "vi": "Quản lý khen ngợi đội vì sự chăm chỉ."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

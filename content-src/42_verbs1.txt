@@ -1,0 +1,66 @@
+#id: verbs_work
+#prefix: vbw
+#order: 42
+#icon: ⚙️
+#title: Key Verbs at Work (1)
+#title_vi: Động từ công việc thiết yếu (1)
+#desc: Phê duyệt, nộp, duy trì, phân phối, chuyển giao…: động từ "xương sống" của email và văn bản công sở.
+approve | verb | /əˈpruːv/ | phê duyệt; tán thành | to officially agree to a plan; to think something is good | approve a request; approve of | The manager *approved* my holiday request. | Quản lý đã duyệt đơn xin nghỉ của tôi.
+approval | noun | /əˈpruːvl/ | sự phê duyệt | official agreement | get approval; subject to approval | All expenses need the manager's *approval*. | Mọi khoản chi đều cần quản lý phê duyệt.
+submit | verb | /səbˈmɪt/ | nộp, đệ trình | to give a document for consideration | submit a report; submit an application | Please *submit* your timesheet by Friday. | Vui lòng nộp bảng chấm công trước thứ Sáu.
+maintain | verb | /meɪnˈteɪn/ | duy trì; bảo trì | to keep something at the same level; to keep in good condition | maintain quality; maintain equipment | We must *maintain* high standards of service. | Chúng ta phải duy trì tiêu chuẩn dịch vụ cao. | Danh từ: maintenance = bảo trì.
+obtain | verb | /əbˈteɪn/ | có được, giành được | to get something, especially with effort | obtain permission; obtain information | You must *obtain* a permit before building. | Bạn phải xin được giấy phép trước khi xây.
+acquire | verb | /əˈkwaɪər/ | thu được; mua lại | to get or buy something; to learn a skill | acquire a company; acquire skills | The firm *acquired* a smaller competitor last year. | Công ty đã mua lại một đối thủ nhỏ hơn năm ngoái.
+adopt | verb | /əˈdɑːpt/ | áp dụng; nhận nuôi | to start using a method; to take a child into your family | adopt a policy; adopt a new system | The company *adopted* a new hiring policy. | Công ty áp dụng chính sách tuyển dụng mới.
+assist | verb | /əˈsɪst/ | hỗ trợ | to help | assist with; assist customers | Our staff will *assist* you with your luggage. | Nhân viên chúng tôi sẽ hỗ trợ bạn với hành lý.
+assistance | noun | /əˈsɪstəns/ | sự hỗ trợ | help | need assistance; financial assistance | If you need *assistance*, please press the call button. | Nếu cần hỗ trợ, vui lòng bấm nút gọi.
+attempt | noun | /əˈtempt/ | sự cố gắng, nỗ lực | an act of trying to do something | in an attempt to; first attempt | She passed the exam on her first *attempt*. | Cô ấy thi đỗ ngay lần đầu.
+award | noun | /əˈwɔːrd/ | giải thưởng | a prize | win an award; award ceremony | The hotel won an *award* for its service. | Khách sạn giành giải thưởng về dịch vụ.
+claim | verb | /kleɪm/ | khẳng định; yêu cầu (bồi thường) | to say something is true; to ask for money you have a right to | claim that; claim expenses | You can *claim* travel expenses at the end of the month. | Bạn có thể đề nghị thanh toán chi phí đi lại vào cuối tháng. | baggage claim = khu nhận hành lý.
+combine | verb | /kəmˈbaɪn/ | kết hợp | to join together | combine with; combined effort | The course *combines* theory with practice. | Khóa học kết hợp lý thuyết với thực hành.
+combination | noun | /ˌkɑːmbɪˈneɪʃn/ | sự kết hợp | two or more things joined together | a combination of | Success comes from a *combination* of hard work and luck. | Thành công đến từ sự kết hợp giữa chăm chỉ và may mắn.
+commit | verb | /kəˈmɪt/ | cam kết; phạm (tội) | to promise to do something; to do something wrong | commit to; commit a crime | We are *committed* to reducing waste. | Chúng tôi cam kết giảm rác thải.
+commitment | noun | /kəˈmɪtmənt/ | sự cam kết | a promise; dedication | a commitment to quality; make a commitment | Thank you for your *commitment* to the team. | Cảm ơn sự cống hiến của bạn cho đội.
+completion | noun | /kəmˈpliːʃn/ | sự hoàn thành | the act of finishing | on completion; completion date | The *completion* date for the project is June 30. | Ngày hoàn thành dự án là 30/6.
+consist | verb | /kənˈsɪst/ | gồm có | to be made of | consist of | The team *consists* of five engineers. | Đội gồm năm kỹ sư.
+comprise | verb | /kəmˈpraɪz/ | bao gồm | to have as parts | be comprised of | The committee *comprises* six members. | Ủy ban gồm sáu thành viên.
+construct | verb | /kənˈstrʌkt/ | xây dựng | to build | construct a building; well constructed | The bridge was *constructed* in 1995. | Cây cầu được xây năm 1995.
+construction | noun | /kənˈstrʌkʃn/ | sự xây dựng; công trình | the process of building | under construction; construction site | The new wing is still under *construction*. | Khu nhà mới vẫn đang được xây dựng.
+contribute | verb | /kənˈtrɪbjuːt/ | đóng góp | to give money, help or ideas | contribute to; contribute ideas | Everyone *contributed* ideas for the new product. | Mọi người đều đóng góp ý tưởng cho sản phẩm mới.
+contribution | noun | /ˌkɑːntrɪˈbjuːʃn/ | sự đóng góp | something given to help | make a contribution; valuable contribution | Thank you for your *contribution* to the project. | Cảm ơn sự đóng góp của bạn cho dự án.
+declare | verb | /dɪˈkler/ | tuyên bố; khai báo | to state officially; to tell customs about goods | declare goods; declare a winner | Do you have anything to *declare*? | Bạn có gì cần khai báo hải quan không?
+demonstrate | verb | /ˈdemənstreɪt/ | trình diễn, chứng minh | to show how something works; to prove | demonstrate a product; demonstrate that | The salesperson *demonstrated* how the machine works. | Nhân viên bán hàng trình diễn cách máy hoạt động.
+demonstration | noun | /ˌdemənˈstreɪʃn/ | buổi trình diễn; cuộc biểu tình | showing how something works; a protest | product demonstration; give a demonstration | There will be a product *demonstration* at 2 p.m. | Sẽ có buổi trình diễn sản phẩm lúc 2 giờ chiều.
+derive | verb | /dɪˈraɪv/ | bắt nguồn; thu được | to come from; to get something from | be derived from; derive pleasure | The word is *derived* from Latin. | Từ này có nguồn gốc từ tiếng Latin.
+detect | verb | /dɪˈtekt/ | phát hiện | to notice or discover something | detect a problem; detect smoke | The system can *detect* errors automatically. | Hệ thống có thể tự động phát hiện lỗi.
+determine | verb | /dɪˈtɜːrmɪn/ | xác định; quyết định | to find out; to decide | determine the cause; be determined by | Engineers are trying to *determine* the cause of the fault. | Kỹ sư đang cố xác định nguyên nhân sự cố.
+devote | verb | /dɪˈvoʊt/ | cống hiến, dành | to give time or energy to something | devote time to; be devoted to | She *devotes* her weekends to studying English. | Cô ấy dành cuối tuần để học tiếng Anh.
+dismiss | verb | /dɪsˈmɪs/ | sa thải; bác bỏ | to remove from a job; to refuse to consider | dismiss an idea; be dismissed | He was *dismissed* for being late too often. | Anh ta bị sa thải vì đi muộn quá nhiều lần.
+distribute | verb | /dɪˈstrɪbjuːt/ | phân phát, phân phối | to give out or supply to many people | distribute leaflets; distribute products | Please *distribute* the handouts to everyone. | Vui lòng phát tài liệu cho mọi người.
+distribution | noun | /ˌdɪstrɪˈbjuːʃn/ | sự phân phối | the process of supplying goods | distribution centre; distribution network | The new *distribution* centre will open in May. | Trung tâm phân phối mới sẽ mở vào tháng Năm.
+divide | verb | /dɪˈvaɪd/ | chia | to separate into parts | divide into; divide equally | The class was *divided* into four groups. | Lớp được chia thành bốn nhóm.
+division | noun | /dɪˈvɪʒn/ | bộ phận; sự phân chia | a department in a company; the act of dividing | sales division; division of labour | She manages the European *division*. | Cô ấy quản lý bộ phận châu Âu.
+dominate | verb | /ˈdɑːmɪneɪt/ | chi phối, chiếm ưu thế | to control or be the most important | dominate the market | Two companies *dominate* the market. | Hai công ty chiếm lĩnh thị trường.
+dominant | adjective | /ˈdɑːmɪnənt/ | chiếm ưu thế | more powerful than others | dominant position; dominant player | The company has a *dominant* position in the industry. | Công ty có vị thế chi phối trong ngành.
+emerge | verb | /ɪˈmɜːrdʒ/ | nổi lên, xuất hiện | to appear; to become known | emerge from; it emerged that | New problems *emerged* during testing. | Các vấn đề mới xuất hiện trong quá trình thử nghiệm.
+emphasize | verb | /ˈemfəsaɪz/ | nhấn mạnh | to show that something is important | emphasize the importance of | The manager *emphasized* the need for safety. | Quản lý nhấn mạnh sự cần thiết của an toàn.
+emphasis | noun | /ˈemfəsɪs/ | sự nhấn mạnh | special importance | put emphasis on; with emphasis on | The course puts great *emphasis* on speaking. | Khóa học đặc biệt chú trọng kỹ năng nói.
+encourage | verb | /ɪnˈkɜːrɪdʒ/ | khuyến khích | to give support or confidence | encourage someone to; be encouraged | Employees are *encouraged* to share ideas. | Nhân viên được khuyến khích chia sẻ ý tưởng.
+discourage | verb | /dɪsˈkɜːrɪdʒ/ | ngăn cản, làm nản lòng | to make someone less likely to do something | discourage someone from | High prices *discourage* people from buying. | Giá cao khiến người ta ngại mua.
+engage | verb | /ɪnˈɡeɪdʒ/ | thu hút; tham gia | to attract interest; to take part | engage customers; engage in | The app helps us *engage* with young customers. | Ứng dụng giúp chúng tôi tương tác với khách hàng trẻ.
+engaged | adjective | /ɪnˈɡeɪdʒd/ | đã đính hôn; bận | having agreed to marry; busy | get engaged; the line is engaged | They got *engaged* last month. | Họ đính hôn tháng trước.
+exclude | verb | /ɪkˈskluːd/ | loại trừ, không bao gồm | to not include | excluding tax; exclude from | The price *excludes* tax. | Giá chưa bao gồm thuế.
+extend | verb | /ɪkˈstend/ | gia hạn; mở rộng | to make longer or larger | extend a deadline; extend a contract | Can we *extend* the deadline by a week? | Chúng ta có thể gia hạn thêm một tuần không? | extend an invitation = gửi lời mời.
+extension | noun | /ɪkˈstenʃn/ | sự gia hạn; số máy lẻ | extra time; a phone line inside an office | ask for an extension; extension 204 | Please call me on *extension* 204. | Vui lòng gọi tôi số máy lẻ 204.
+fulfil | verb | /fʊlˈfɪl/ | hoàn thành, đáp ứng | to do what is needed or promised | fulfil an order; fulfil requirements | We were unable to *fulfil* your order. | Chúng tôi không thể hoàn tất đơn hàng của bạn. | Anh-Mỹ: fulfill.
+generate | verb | /ˈdʒenəreɪt/ | tạo ra | to produce | generate revenue; generate interest | The campaign *generated* a lot of interest. | Chiến dịch tạo ra nhiều sự quan tâm.
+highlight | verb | /ˈhaɪlaɪt/ | làm nổi bật | to emphasize; to mark text with colour | highlight the main points | The report *highlights* three key problems. | Báo cáo nêu bật ba vấn đề chính. | Danh từ: the highlight of the trip = điểm nhấn chuyến đi.
+impose | verb | /ɪmˈpoʊz/ | áp đặt, ban hành | to introduce a rule or tax | impose a fine; impose restrictions | The city *imposed* a fine for littering. | Thành phố áp dụng mức phạt cho hành vi xả rác.
+incorporate | verb | /ɪnˈkɔːrpəreɪt/ | kết hợp, đưa vào | to include as part of something | incorporate feedback; incorporate into | We *incorporated* your suggestions into the final design. | Chúng tôi đã đưa các góp ý của bạn vào thiết kế cuối cùng.
+indicate | verb | /ˈɪndɪkeɪt/ | cho thấy, chỉ ra | to show or suggest | indicate that; as indicated | The results *indicate* that customers want faster delivery. | Kết quả cho thấy khách hàng muốn giao hàng nhanh hơn.
+indication | noun | /ˌɪndɪˈkeɪʃn/ | dấu hiệu | a sign | an indication of; give an indication | There is no *indication* that prices will fall. | Không có dấu hiệu nào cho thấy giá sẽ giảm.
+inspire | verb | /ɪnˈspaɪər/ | truyền cảm hứng | to give someone the desire to do something | inspire someone to; be inspired by | Her speech *inspired* many young people. | Bài phát biểu của cô ấy truyền cảm hứng cho nhiều người trẻ.
+integrate | verb | /ˈɪntɪɡreɪt/ | tích hợp, hòa nhập | to combine into one | integrate with; integrate into | The new app *integrates* with your calendar. | Ứng dụng mới tích hợp với lịch của bạn.
+participate | verb | /pɑːrˈtɪsɪpeɪt/ | tham gia | to take part | participate in | All staff are invited to *participate* in the survey. | Toàn thể nhân viên được mời tham gia khảo sát.
+participant | noun | /pɑːrˈtɪsɪpənt/ | người tham gia | a person who takes part | workshop participants | Each *participant* will receive a certificate. | Mỗi người tham gia sẽ nhận một chứng chỉ.
+participation | noun | /pɑːrˌtɪsɪˈpeɪʃn/ | sự tham gia | the act of taking part | thank you for your participation | Thank you for your *participation* in the event. | Cảm ơn bạn đã tham gia sự kiện.

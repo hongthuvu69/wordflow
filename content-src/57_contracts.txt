@@ -1,0 +1,53 @@
+#id: toeic_contracts
+#prefix: tcn
+#order: 57
+#icon: 📝
+#title: TOEIC: Contracts & Agreements
+#title_vi: TOEIC: Hợp đồng & Thỏa thuận
+#desc: Điều khoản, gia hạn, vi phạm, tuân thủ, trách nhiệm pháp lý: từ vựng trang trọng hay gặp trong Part 6–7.
+terms and conditions | noun | /ˌtɜːrmz ən kənˈdɪʃnz/ | điều khoản và điều kiện | the rules of an agreement | accept the terms and conditions | Please read the *terms and conditions* before signing up. | Vui lòng đọc điều khoản và điều kiện trước khi đăng ký.
+renew | verb | /rɪˈnuː/ | gia hạn | to make something valid for a longer time | renew a contract; renew a subscription | Please *renew* your membership before it expires. | Vui lòng gia hạn hội viên trước khi hết hạn.
+renewal | noun | /rɪˈnuːəl/ | sự gia hạn | the act of renewing | contract renewal; renewal date | The *renewal* date is printed on your card. | Ngày gia hạn được in trên thẻ của bạn.
+expiry | noun | /ɪkˈspaɪəri/ | sự hết hạn | the end of a period of time | expiry date | Check the *expiry* date on your passport. | Kiểm tra ngày hết hạn trên hộ chiếu.
+terminate | verb | /ˈtɜːrmɪneɪt/ | chấm dứt | to end officially | terminate a contract; be terminated | Either party may *terminate* the contract with 30 days' notice. | Bên nào cũng có thể chấm dứt hợp đồng với thông báo trước 30 ngày.
+termination | noun | /ˌtɜːrmɪˈneɪʃn/ | sự chấm dứt | the act of ending something | termination of employment | The contract explains the rules for *termination*. | Hợp đồng nêu rõ quy định chấm dứt.
+breach | noun | /briːtʃ/ | sự vi phạm | breaking a law or agreement | breach of contract; data breach | Late delivery is a *breach* of the contract. | Giao hàng trễ là vi phạm hợp đồng.
+comply | verb | /kəmˈplaɪ/ | tuân thủ | to obey a rule | comply with regulations | All suppliers must *comply* with our safety standards. | Mọi nhà cung cấp phải tuân thủ tiêu chuẩn an toàn của chúng tôi.
+compliance | noun | /kəmˈplaɪəns/ | sự tuân thủ | obeying rules or laws | in compliance with; compliance team | The factory is in full *compliance* with the law. | Nhà máy tuân thủ đầy đủ pháp luật.
+liable | adjective | /ˈlaɪəbl/ | chịu trách nhiệm pháp lý | legally responsible | liable for damage | The company is not *liable* for lost items. | Công ty không chịu trách nhiệm về đồ bị mất.
+liability | noun | /ˌlaɪəˈbɪləti/ | trách nhiệm pháp lý; khoản nợ | legal responsibility; a debt | accept liability; limited liability | The hotel accepts no *liability* for valuables left in rooms. | Khách sạn không chịu trách nhiệm về đồ quý để trong phòng.
+binding | adjective | /ˈbaɪndɪŋ/ | có tính ràng buộc | that must be obeyed by law | legally binding | This agreement is legally *binding*. | Thỏa thuận này có giá trị ràng buộc pháp lý.
+draft contract | noun | /ˌdræft ˈkɑːntrækt/ | bản dự thảo hợp đồng | a first version of a contract | review the draft contract | Our lawyer is reviewing the *draft contract*. | Luật sư của chúng tôi đang xem bản dự thảo hợp đồng.
+amend | verb | /əˈmend/ | sửa đổi | to change a document slightly | amend a contract; amended version | We *amended* the contract to include the new price. | Chúng tôi đã sửa hợp đồng để thêm giá mới.
+amendment | noun | /əˈmendmənt/ | điều sửa đổi | a change to a document | make an amendment | Please initial each *amendment*. | Vui lòng ký tắt vào mỗi chỗ sửa đổi.
+party | noun | /ˈpɑːrti/ | bên (trong hợp đồng) | a person or group in an agreement | both parties; third party | Both *parties* must sign the agreement. | Cả hai bên phải ký thỏa thuận.
+signatory | noun | /ˈsɪɡnətɔːri/ | bên ký kết | a person or country that signs an agreement | the signatories | All *signatories* received a copy of the contract. | Tất cả các bên ký kết đều nhận một bản hợp đồng.
+initial | verb | /ɪˈnɪʃl/ | ký tắt | to write the first letters of your name | initial each page | Please *initial* each page of the contract. | Vui lòng ký tắt vào từng trang hợp đồng.
+confidential | adjective | /ˌkɑːnfɪˈdenʃl/ | bảo mật | meant to be kept secret | strictly confidential; confidential information | All salary information is *confidential*. | Mọi thông tin lương đều được bảo mật.
+confidentiality | noun | /ˌkɑːnfɪˌdenʃiˈæləti/ | tính bảo mật | the state of being kept secret | confidentiality agreement | Staff must sign a *confidentiality* agreement. | Nhân viên phải ký thỏa thuận bảo mật.
+dispute | noun | /dɪˈspjuːt/ | tranh chấp | a disagreement | in dispute; resolve a dispute | The two firms settled the *dispute* out of court. | Hai công ty giải quyết tranh chấp ngoài tòa.
+lawsuit | noun | /ˈlɔːsuːt/ | vụ kiện | a case in a court of law | file a lawsuit | The customer filed a *lawsuit* against the company. | Khách hàng đã kiện công ty.
+lawyer | noun | /ˈlɔːjər/ | luật sư | a person trained in law | consult a lawyer | Please have your *lawyer* check the contract. | Vui lòng nhờ luật sư kiểm tra hợp đồng.
+attorney | noun | /əˈtɜːrni/ | luật sư (Anh-Mỹ) | a lawyer | hire an attorney | Our *attorney* will review the agreement. | Luật sư của chúng tôi sẽ xem thỏa thuận.
+legal action | noun | /ˌliːɡl ˈækʃn/ | hành động pháp lý | going to court | take legal action | We may take *legal action* if the bill is not paid. | Chúng tôi có thể kiện nếu hóa đơn không được thanh toán.
+clause | noun | /klɔːz/ | điều khoản | a section of a legal document | a penalty clause; under clause 5 | See *clause* 7 for cancellation rules. | Xem điều 7 về quy định hủy.
+provision | noun | /prəˈvɪʒn/ | điều khoản; sự cung cấp | a condition in an agreement; the act of supplying | provisions of the contract; the provision of | The contract includes a *provision* for late payment. | Hợp đồng có điều khoản về thanh toán trễ.
+stipulate | verb | /ˈstɪpjuleɪt/ | quy định rõ | to state clearly as a condition | the contract stipulates that | The contract *stipulates* that payment must be made in advance. | Hợp đồng quy định phải thanh toán trước.
+obligate | verb | /ˈɑːblɪɡeɪt/ | bắt buộc | to make someone legally have to do something | be obligated to | You are not *obligated* to buy anything. | Bạn không bắt buộc phải mua gì.
+in accordance with | preposition | /ɪn əˈkɔːrdns wɪð/ | theo đúng | following a rule or agreement | in accordance with the law | Refunds are given *in accordance with* our policy. | Hoàn tiền được thực hiện theo đúng chính sách của chúng tôi.
+effective date | noun | /ɪˈfektɪv deɪt/ | ngày có hiệu lực | the date a rule or contract starts | the effective date of the contract | The *effective date* of the agreement is July 1. | Ngày thỏa thuận có hiệu lực là 1/7.
+null and void | adjective | /ˌnʌl ən ˈvɔɪd/ | vô hiệu | having no legal force | become null and void | Without both signatures, the contract is *null and void*. | Không đủ hai chữ ký thì hợp đồng vô hiệu.
+waive | verb | /weɪv/ | miễn, bỏ qua | to not demand a right or payment | waive a fee | We will *waive* the delivery fee for this order. | Chúng tôi sẽ miễn phí giao hàng cho đơn này.
+exempt | adjective | /ɪɡˈzempt/ | được miễn | not having to do or pay something | tax-exempt; exempt from | Small businesses are *exempt* from this tax. | Doanh nghiệp nhỏ được miễn loại thuế này.
+authorize | verb | /ˈɔːθəraɪz/ | ủy quyền, cho phép | to give official permission | authorized dealer; authorize payment | Only managers can *authorize* refunds. | Chỉ quản lý mới được duyệt hoàn tiền.
+authorization | noun | /ˌɔːθərəˈzeɪʃn/ | sự ủy quyền | official permission | written authorization | You need written *authorization* to enter the lab. | Bạn cần giấy phép bằng văn bản để vào phòng thí nghiệm.
+consent | noun | /kənˈsent/ | sự đồng ý | permission | written consent; without consent | We will not share your data without your *consent*. | Chúng tôi sẽ không chia sẻ dữ liệu của bạn khi chưa được đồng ý.
+intellectual property | noun | /ˌɪntəlektʃuəl ˈprɑːpərti/ | sở hữu trí tuệ | ideas and designs protected by law | protect intellectual property | The logo is our *intellectual property*. | Logo là tài sản trí tuệ của chúng tôi.
+patent | noun | /ˈpætnt/ | bằng sáng chế | the legal right to make an invention | apply for a patent; patent pending | The company holds a *patent* for the design. | Công ty giữ bằng sáng chế cho thiết kế này.
+trademark | noun | /ˈtreɪdmɑːrk/ | nhãn hiệu thương mại | a name or symbol protected by law | registered trademark | The name is a registered *trademark*. | Cái tên này là nhãn hiệu đã đăng ký.
+copyright | noun | /ˈkɑːpiraɪt/ | bản quyền | the legal right to copy a book, music etc. | protected by copyright | These photos are protected by *copyright*. | Những bức ảnh này được bảo hộ bản quyền.
+guarantee | noun | /ˌɡærənˈtiː/ | sự bảo đảm | a promise | money-back guarantee | We offer a 30-day money-back *guarantee*. | Chúng tôi cam kết hoàn tiền trong 30 ngày.
+notice period | noun | /ˈnoʊtɪs ˌpɪriəd/ | thời gian báo trước | the time you must give before leaving a job or ending a contract | a one-month notice period | The *notice period* is one month. | Thời gian báo trước là một tháng.
+written notice | noun | /ˌrɪtn ˈnoʊtɪs/ | thông báo bằng văn bản | a formal written message | give written notice | Please give *written notice* if you want to cancel. | Vui lòng thông báo bằng văn bản nếu muốn hủy.
+mutual | adjective | /ˈmjuːtʃuəl/ | chung, đôi bên | felt or done by both sides | mutual agreement; mutual benefit | The contract was ended by *mutual* agreement. | Hợp đồng được chấm dứt theo thỏa thuận đôi bên.
+enforce | verb | /ɪnˈfɔːrs/ | thi hành, thực thi | to make people obey a rule | enforce the rules; strictly enforced | The no-smoking rule is strictly *enforced*. | Quy định cấm hút thuốc được thực thi nghiêm ngặt.

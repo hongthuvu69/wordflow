@@ -1,0 +1,1131 @@
+{
+ "id": "quality",
+ "order": 44,
+ "icon": "⭐",
+ "level": "B2",
+ "title": "Importance & Quality",
+ "title_vi": "Mức độ quan trọng & Chất lượng",
+ "description": "Essential, crucial, appropriate, relevant…: tính từ đánh giá dùng dày đặc trong văn bản công việc và Part 5.",
+ "words": [
+  {
+   "id": "qua_essential",
+   "word": "essential",
+   "pos": "adjective",
+   "ipa": "/ɪˈsenʃl/",
+   "level": "B1",
+   "meaning": "thiết yếu",
+   "definition": "completely necessary",
+   "collocations": [
+    "essential for",
+    "it is essential that"
+   ],
+   "examples": [
+    {
+     "en": "A valid passport is *essential* for international travel.",
+     "vi": "Hộ chiếu còn hạn là bắt buộc khi đi nước ngoài."
+    }
+   ]
+  },
+  {
+   "id": "qua_vital",
+   "word": "vital",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪtl/",
+   "level": "B2",
+   "meaning": "sống còn, cực kỳ quan trọng",
+   "definition": "extremely important",
+   "collocations": [
+    "vital role",
+    "vital information"
+   ],
+   "examples": [
+    {
+     "en": "Customer feedback is *vital* to our success.",
+     "vi": "Góp ý của khách hàng cực kỳ quan trọng với thành công của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "qua_crucial",
+   "word": "crucial",
+   "pos": "adjective",
+   "ipa": "/ˈkruːʃl/",
+   "level": "B2",
+   "meaning": "then chốt",
+   "definition": "extremely important",
+   "collocations": [
+    "a crucial decision",
+    "crucial role"
+   ],
+   "examples": [
+    {
+     "en": "The next two weeks are *crucial* for the project.",
+     "vi": "Hai tuần tới là then chốt với dự án."
+    }
+   ]
+  },
+  {
+   "id": "qua_critical",
+   "word": "critical",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl/",
+   "level": "B2",
+   "meaning": "quan trọng; phê phán; nguy kịch",
+   "definition": "very important; saying what is wrong; very serious",
+   "collocations": [
+    "critical stage",
+    "critical of",
+    "in critical condition"
+   ],
+   "examples": [
+    {
+     "en": "Teamwork is *critical* to success.",
+     "vi": "Làm việc nhóm là yếu tố quan trọng để thành công."
+    }
+   ]
+  },
+  {
+   "id": "qua_critically",
+   "word": "critically",
+   "pos": "adverb",
+   "ipa": "/ˈkrɪtɪkli/",
+   "level": "B2",
+   "meaning": "nghiêm trọng; một cách phê phán",
+   "definition": "very seriously; in a critical way",
+   "collocations": [
+    "critically important",
+    "think critically"
+   ],
+   "examples": [
+    {
+     "en": "Students should learn to think *critically*.",
+     "vi": "Học sinh nên học cách tư duy phản biện."
+    }
+   ]
+  },
+  {
+   "id": "qua_fundamental",
+   "word": "fundamental",
+   "pos": "adjective",
+   "ipa": "/ˌfʌndəˈmentl/",
+   "level": "B2",
+   "meaning": "cơ bản, nền tảng",
+   "definition": "basic and most important",
+   "collocations": [
+    "fundamental change",
+    "fundamental right"
+   ],
+   "examples": [
+    {
+     "en": "There is a *fundamental* problem with the design.",
+     "vi": "Có một vấn đề cơ bản trong thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "qua_importance",
+   "word": "importance",
+   "pos": "noun",
+   "ipa": "/ɪmˈpɔːrtns/",
+   "level": "B1",
+   "meaning": "tầm quan trọng",
+   "definition": "the quality of being important",
+   "collocations": [
+    "of great importance",
+    "stress the importance of"
+   ],
+   "examples": [
+    {
+     "en": "Never underestimate the *importance* of good communication.",
+     "vi": "Đừng bao giờ coi nhẹ tầm quan trọng của giao tiếp tốt."
+    }
+   ]
+  },
+  {
+   "id": "qua_significance",
+   "word": "significance",
+   "pos": "noun",
+   "ipa": "/sɪɡˈnɪfɪkəns/",
+   "level": "B2",
+   "meaning": "ý nghĩa, tầm quan trọng",
+   "definition": "importance; meaning",
+   "collocations": [
+    "of great significance"
+   ],
+   "examples": [
+    {
+     "en": "The meeting has great *significance* for the company's future.",
+     "vi": "Cuộc họp có ý nghĩa lớn với tương lai công ty."
+    }
+   ]
+  },
+  {
+   "id": "qua_necessity",
+   "word": "necessity",
+   "pos": "noun",
+   "ipa": "/nəˈsesəti/",
+   "level": "B2",
+   "meaning": "sự cần thiết; nhu yếu phẩm",
+   "definition": "something you need",
+   "collocations": [
+    "a necessity",
+    "out of necessity"
+   ],
+   "examples": [
+    {
+     "en": "A car is a *necessity* in this job.",
+     "vi": "Ô tô là thứ cần thiết cho công việc này."
+    }
+   ]
+  },
+  {
+   "id": "qua_necessarily",
+   "word": "necessarily",
+   "pos": "adverb",
+   "ipa": "/ˌnesəˈserəli/",
+   "level": "B1",
+   "meaning": "nhất thiết",
+   "definition": "used to say something is not always true",
+   "collocations": [
+    "not necessarily"
+   ],
+   "examples": [
+    {
+     "en": "Expensive products are not *necessarily* better.",
+     "vi": "Sản phẩm đắt chưa chắc đã tốt hơn."
+    }
+   ]
+  },
+  {
+   "id": "qua_appropriate",
+   "word": "appropriate",
+   "pos": "adjective",
+   "ipa": "/əˈproʊpriət/",
+   "level": "B2",
+   "meaning": "thích hợp",
+   "definition": "suitable for a situation",
+   "collocations": [
+    "appropriate clothing",
+    "take appropriate action"
+   ],
+   "examples": [
+    {
+     "en": "Please wear *appropriate* clothing for the event.",
+     "vi": "Vui lòng mặc trang phục phù hợp với sự kiện."
+    }
+   ]
+  },
+  {
+   "id": "qua_suitable",
+   "word": "suitable",
+   "pos": "adjective",
+   "ipa": "/ˈsuːtəbl/",
+   "level": "B1",
+   "meaning": "phù hợp",
+   "definition": "right for a purpose",
+   "collocations": [
+    "suitable for",
+    "a suitable candidate"
+   ],
+   "examples": [
+    {
+     "en": "The room is not *suitable* for large groups.",
+     "vi": "Căn phòng không phù hợp cho nhóm đông người."
+    }
+   ]
+  },
+  {
+   "id": "qua_proper",
+   "word": "proper",
+   "pos": "adjective",
+   "ipa": "/ˈprɑːpər/",
+   "level": "B1",
+   "meaning": "đúng đắn, phù hợp",
+   "definition": "correct or appropriate",
+   "collocations": [
+    "proper training",
+    "proper equipment"
+   ],
+   "examples": [
+    {
+     "en": "Make sure you have the *proper* equipment.",
+     "vi": "Hãy đảm bảo bạn có thiết bị phù hợp."
+    }
+   ]
+  },
+  {
+   "id": "qua_properly",
+   "word": "properly",
+   "pos": "adverb",
+   "ipa": "/ˈprɑːpərli/",
+   "level": "B1",
+   "meaning": "đúng cách",
+   "definition": "correctly",
+   "collocations": [
+    "work properly",
+    "properly trained"
+   ],
+   "examples": [
+    {
+     "en": "The printer isn't working *properly*.",
+     "vi": "Máy in không hoạt động bình thường."
+    }
+   ]
+  },
+  {
+   "id": "qua_relevant",
+   "word": "relevant",
+   "pos": "adjective",
+   "ipa": "/ˈreləvənt/",
+   "level": "B2",
+   "meaning": "liên quan, thích hợp",
+   "definition": "connected with what is being discussed",
+   "collocations": [
+    "relevant experience",
+    "relevant to"
+   ],
+   "examples": [
+    {
+     "en": "Please include any *relevant* documents.",
+     "vi": "Vui lòng đính kèm mọi tài liệu liên quan."
+    }
+   ]
+  },
+  {
+   "id": "qua_acceptable",
+   "word": "acceptable",
+   "pos": "adjective",
+   "ipa": "/əkˈseptəbl/",
+   "level": "B2",
+   "meaning": "có thể chấp nhận",
+   "definition": "good enough",
+   "collocations": [
+    "acceptable level",
+    "socially acceptable"
+   ],
+   "examples": [
+    {
+     "en": "The quality is *acceptable* but not excellent.",
+     "vi": "Chất lượng chấp nhận được nhưng chưa xuất sắc."
+    }
+   ]
+  },
+  {
+   "id": "qua_unacceptable",
+   "word": "unacceptable",
+   "pos": "adjective",
+   "ipa": "/ˌʌnəkˈseptəbl/",
+   "level": "B2",
+   "meaning": "không thể chấp nhận",
+   "definition": "not acceptable",
+   "collocations": [
+    "totally unacceptable"
+   ],
+   "examples": [
+    {
+     "en": "This level of service is *unacceptable*.",
+     "vi": "Mức dịch vụ này là không thể chấp nhận."
+    }
+   ]
+  },
+  {
+   "id": "qua_reasonable",
+   "word": "reasonable",
+   "pos": "adjective",
+   "ipa": "/ˈriːznəbl/",
+   "level": "B2",
+   "meaning": "hợp lý; phải chăng",
+   "definition": "fair and sensible; not too expensive",
+   "collocations": [
+    "reasonable price",
+    "reasonable request"
+   ],
+   "examples": [
+    {
+     "en": "The hotel offers good rooms at *reasonable* prices.",
+     "vi": "Khách sạn có phòng tốt với giá phải chăng."
+    }
+   ]
+  },
+  {
+   "id": "qua_reasonably",
+   "word": "reasonably",
+   "pos": "adverb",
+   "ipa": "/ˈriːznəbli/",
+   "level": "B2",
+   "meaning": "khá; hợp lý",
+   "definition": "fairly; in a sensible way",
+   "collocations": [
+    "reasonably priced",
+    "reasonably good"
+   ],
+   "examples": [
+    {
+     "en": "The meals are *reasonably* priced.",
+     "vi": "Các bữa ăn có giá khá hợp lý."
+    }
+   ]
+  },
+  {
+   "id": "qua_practical",
+   "word": "practical",
+   "pos": "adjective",
+   "ipa": "/ˈpræktɪkl/",
+   "level": "B1",
+   "meaning": "thực tế, thiết thực",
+   "definition": "useful; connected with real situations",
+   "collocations": [
+    "practical experience",
+    "practical advice"
+   ],
+   "examples": [
+    {
+     "en": "The course gives you *practical* skills.",
+     "vi": "Khóa học mang lại kỹ năng thực tế."
+    }
+   ]
+  },
+  {
+   "id": "qua_ideal",
+   "word": "ideal",
+   "pos": "adjective",
+   "ipa": "/aɪˈdiːəl/",
+   "level": "B2",
+   "meaning": "lý tưởng",
+   "definition": "perfect",
+   "collocations": [
+    "ideal location",
+    "ideal candidate"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is *ideal* for business travellers.",
+     "vi": "Khách sạn lý tưởng cho khách công tác."
+    }
+   ]
+  },
+  {
+   "id": "qua_perfectly",
+   "word": "perfectly",
+   "pos": "adverb",
+   "ipa": "/ˈpɜːrfɪktli/",
+   "level": "B1",
+   "meaning": "hoàn toàn; hoàn hảo",
+   "definition": "completely; in a perfect way",
+   "collocations": [
+    "perfectly clear",
+    "work perfectly"
+   ],
+   "examples": [
+    {
+     "en": "I understand *perfectly*.",
+     "vi": "Tôi hoàn toàn hiểu."
+    }
+   ]
+  },
+  {
+   "id": "qua_beneficial",
+   "word": "beneficial",
+   "pos": "adjective",
+   "ipa": "/ˌbenɪˈfɪʃl/",
+   "level": "B2",
+   "meaning": "có lợi",
+   "definition": "helpful; having a good effect",
+   "collocations": [
+    "beneficial to",
+    "mutually beneficial"
+   ],
+   "examples": [
+    {
+     "en": "The agreement is *beneficial* to both companies.",
+     "vi": "Thỏa thuận có lợi cho cả hai công ty."
+    }
+   ]
+  },
+  {
+   "id": "qua_benefit",
+   "word": "benefit",
+   "pos": "noun",
+   "ipa": "/ˈbenɪfɪt/",
+   "level": "B1",
+   "meaning": "lợi ích; phúc lợi",
+   "definition": "an advantage; extra things given by an employer",
+   "collocations": [
+    "health benefits",
+    "the benefits of"
+   ],
+   "examples": [
+    {
+     "en": "The job comes with good *benefits*.",
+     "vi": "Công việc có phúc lợi tốt."
+    }
+   ]
+  },
+  {
+   "id": "qua_useless",
+   "word": "useless",
+   "pos": "adjective",
+   "ipa": "/ˈjuːsləs/",
+   "level": "B2",
+   "meaning": "vô dụng",
+   "definition": "not useful",
+   "collocations": [
+    "completely useless"
+   ],
+   "examples": [
+    {
+     "en": "This old printer is *useless*.",
+     "vi": "Cái máy in cũ này vô dụng."
+    }
+   ]
+  },
+  {
+   "id": "qua_unnecessary",
+   "word": "unnecessary",
+   "pos": "adjective",
+   "ipa": "/ʌnˈnesəseri/",
+   "level": "B1",
+   "meaning": "không cần thiết",
+   "definition": "not needed",
+   "collocations": [
+    "unnecessary costs",
+    "avoid unnecessary delays"
+   ],
+   "examples": [
+    {
+     "en": "Please avoid *unnecessary* printing.",
+     "vi": "Vui lòng tránh in ấn không cần thiết."
+    }
+   ]
+  },
+  {
+   "id": "qua_basic",
+   "word": "basic",
+   "pos": "adjective",
+   "ipa": "/ˈbeɪsɪk/",
+   "level": "B1",
+   "meaning": "cơ bản",
+   "definition": "simple; most important",
+   "collocations": [
+    "basic skills",
+    "basic salary"
+   ],
+   "examples": [
+    {
+     "en": "The job requires *basic* computer skills.",
+     "vi": "Công việc yêu cầu kỹ năng máy tính cơ bản."
+    }
+   ]
+  },
+  {
+   "id": "qua_basis",
+   "word": "basis",
+   "pos": "noun",
+   "ipa": "/ˈbeɪsɪs/",
+   "level": "B1",
+   "meaning": "cơ sở, nền tảng",
+   "definition": "the reason or facts behind something; a way of doing",
+   "collocations": [
+    "on a daily basis",
+    "on the basis of"
+   ],
+   "examples": [
+    {
+     "en": "We review prices on a monthly *basis*.",
+     "vi": "Chúng tôi xem xét giá hằng tháng."
+    }
+   ],
+   "note": "on a … basis = theo kiểu…, rất hay gặp."
+  },
+  {
+   "id": "qua_advanced",
+   "word": "advanced",
+   "pos": "adjective",
+   "ipa": "/ədˈvænst/",
+   "level": "B1",
+   "meaning": "tiên tiến; nâng cao",
+   "definition": "modern; at a high level",
+   "collocations": [
+    "advanced technology",
+    "advanced level"
+   ],
+   "examples": [
+    {
+     "en": "The course is for *advanced* learners.",
+     "vi": "Khóa học dành cho người học trình độ cao."
+    }
+   ]
+  },
+  {
+   "id": "qua_complex",
+   "word": "complex",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːmˈpleks/",
+   "level": "B1",
+   "meaning": "phức tạp",
+   "definition": "having many parts",
+   "collocations": [
+    "complex system",
+    "complex issue"
+   ],
+   "examples": [
+    {
+     "en": "It's a *complex* problem with no easy answer.",
+     "vi": "Đó là vấn đề phức tạp không có lời giải dễ dàng."
+    }
+   ],
+   "note": "Danh từ: an office complex = khu phức hợp văn phòng."
+  },
+  {
+   "id": "qua_complicated",
+   "word": "complicated",
+   "pos": "adjective",
+   "ipa": "/ˈkɑːmplɪkeɪtɪd/",
+   "level": "B2",
+   "meaning": "rắc rối",
+   "definition": "difficult to understand",
+   "collocations": [
+    "complicated instructions"
+   ],
+   "examples": [
+    {
+     "en": "The form is too *complicated*.",
+     "vi": "Mẫu đơn quá rắc rối."
+    }
+   ]
+  },
+  {
+   "id": "qua_comprehensive",
+   "word": "comprehensive",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːmprɪˈhensɪv/",
+   "level": "B2",
+   "meaning": "toàn diện",
+   "definition": "including everything",
+   "collocations": [
+    "comprehensive guide",
+    "comprehensive insurance"
+   ],
+   "examples": [
+    {
+     "en": "We offer a *comprehensive* training program.",
+     "vi": "Chúng tôi có chương trình đào tạo toàn diện."
+    }
+   ]
+  },
+  {
+   "id": "qua_core",
+   "word": "core",
+   "pos": "adjective",
+   "ipa": "/kɔːr/",
+   "level": "B2",
+   "meaning": "cốt lõi",
+   "definition": "most important",
+   "collocations": [
+    "core values",
+    "core business"
+   ],
+   "examples": [
+    {
+     "en": "Honesty is one of our *core* values.",
+     "vi": "Trung thực là một trong những giá trị cốt lõi của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "qua_key",
+   "word": "key",
+   "pos": "adjective",
+   "ipa": "/kiː/",
+   "level": "B1",
+   "meaning": "then chốt",
+   "definition": "very important",
+   "collocations": [
+    "key factor",
+    "key role",
+    "key points"
+   ],
+   "examples": [
+    {
+     "en": "Price is a *key* factor for most customers.",
+     "vi": "Giá là yếu tố then chốt với hầu hết khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "qua_principal",
+   "word": "principal",
+   "pos": "adjective",
+   "ipa": "/ˈprɪnsəpl/",
+   "level": "B2",
+   "meaning": "chính",
+   "definition": "most important",
+   "collocations": [
+    "principal reason",
+    "principal office"
+   ],
+   "examples": [
+    {
+     "en": "The *principal* reason for the delay was bad weather.",
+     "vi": "Lý do chính của sự chậm trễ là thời tiết xấu."
+    }
+   ],
+   "note": "Danh từ principal = hiệu trưởng."
+  },
+  {
+   "id": "qua_principle",
+   "word": "principle",
+   "pos": "noun",
+   "ipa": "/ˈprɪnsəpl/",
+   "level": "B2",
+   "meaning": "nguyên tắc",
+   "definition": "a basic rule or belief",
+   "collocations": [
+    "in principle",
+    "basic principles"
+   ],
+   "examples": [
+    {
+     "en": "In *principle*, I agree with the plan.",
+     "vi": "Về nguyên tắc, tôi đồng ý với kế hoạch."
+    }
+   ]
+  },
+  {
+   "id": "qua_prime",
+   "word": "prime",
+   "pos": "adjective",
+   "ipa": "/praɪm/",
+   "level": "B2",
+   "meaning": "hàng đầu, chính",
+   "definition": "main; of the best quality",
+   "collocations": [
+    "prime location",
+    "prime example"
+   ],
+   "examples": [
+    {
+     "en": "The shop is in a *prime* location.",
+     "vi": "Cửa hàng nằm ở vị trí đắc địa."
+    }
+   ]
+  },
+  {
+   "id": "qua_standard",
+   "word": "standard",
+   "pos": "noun",
+   "ipa": "/ˈstændərd/",
+   "level": "B1",
+   "meaning": "tiêu chuẩn",
+   "definition": "a level of quality",
+   "collocations": [
+    "high standards",
+    "meet standards",
+    "standard procedure"
+   ],
+   "examples": [
+    {
+     "en": "All products meet international *standards*.",
+     "vi": "Mọi sản phẩm đều đạt tiêu chuẩn quốc tế."
+    }
+   ]
+  },
+  {
+   "id": "qua_strict",
+   "word": "strict",
+   "pos": "adjective",
+   "ipa": "/strɪkt/",
+   "level": "B2",
+   "meaning": "nghiêm ngặt",
+   "definition": "demanding that rules are obeyed",
+   "collocations": [
+    "strict rules",
+    "strict deadline"
+   ],
+   "examples": [
+    {
+     "en": "We have *strict* rules about safety.",
+     "vi": "Chúng tôi có quy định nghiêm ngặt về an toàn."
+    }
+   ]
+  },
+  {
+   "id": "qua_strictly",
+   "word": "strictly",
+   "pos": "adverb",
+   "ipa": "/ˈstrɪktli/",
+   "level": "B2",
+   "meaning": "nghiêm ngặt",
+   "definition": "in a strict way",
+   "collocations": [
+    "strictly prohibited",
+    "strictly confidential"
+   ],
+   "examples": [
+    {
+     "en": "This information is *strictly* confidential.",
+     "vi": "Thông tin này tuyệt đối bảo mật."
+    }
+   ]
+  },
+  {
+   "id": "qua_thorough",
+   "word": "thorough",
+   "pos": "adjective",
+   "ipa": "/ˈθɜːroʊ/",
+   "level": "B2",
+   "meaning": "kỹ lưỡng",
+   "definition": "careful and complete",
+   "collocations": [
+    "a thorough check",
+    "thorough investigation"
+   ],
+   "examples": [
+    {
+     "en": "The mechanic did a *thorough* check of the car.",
+     "vi": "Thợ máy đã kiểm tra xe kỹ lưỡng."
+    }
+   ]
+  },
+  {
+   "id": "qua_thoroughly",
+   "word": "thoroughly",
+   "pos": "adverb",
+   "ipa": "/ˈθɜːroʊli/",
+   "level": "B2",
+   "meaning": "kỹ càng",
+   "definition": "completely and carefully",
+   "collocations": [
+    "thoroughly clean",
+    "thoroughly enjoy"
+   ],
+   "examples": [
+    {
+     "en": "Please read the instructions *thoroughly*.",
+     "vi": "Vui lòng đọc kỹ hướng dẫn."
+    }
+   ]
+  },
+  {
+   "id": "qua_flexible",
+   "word": "flexible",
+   "pos": "adjective",
+   "ipa": "/ˈfleksəbl/",
+   "level": "B2",
+   "meaning": "linh hoạt",
+   "definition": "able to change easily",
+   "collocations": [
+    "flexible hours",
+    "flexible working"
+   ],
+   "examples": [
+    {
+     "en": "We offer *flexible* working hours.",
+     "vi": "Chúng tôi có giờ làm việc linh hoạt."
+    }
+   ]
+  },
+  {
+   "id": "qua_dynamic",
+   "word": "dynamic",
+   "pos": "adjective",
+   "ipa": "/daɪˈnæmɪk/",
+   "level": "B2",
+   "meaning": "năng động",
+   "definition": "full of energy and new ideas",
+   "collocations": [
+    "a dynamic team",
+    "dynamic market"
+   ],
+   "examples": [
+    {
+     "en": "We are looking for a *dynamic* sales manager.",
+     "vi": "Chúng tôi tìm một quản lý bán hàng năng động."
+    }
+   ]
+  },
+  {
+   "id": "qua_intense",
+   "word": "intense",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtens/",
+   "level": "B2",
+   "meaning": "dữ dội, mãnh liệt",
+   "definition": "very strong",
+   "collocations": [
+    "intense competition",
+    "intense heat"
+   ],
+   "examples": [
+    {
+     "en": "There is *intense* competition in the market.",
+     "vi": "Thị trường cạnh tranh gay gắt."
+    }
+   ]
+  },
+  {
+   "id": "qua_extreme",
+   "word": "extreme",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstriːm/",
+   "level": "B2",
+   "meaning": "cực độ",
+   "definition": "very great; very severe",
+   "collocations": [
+    "extreme weather",
+    "extreme caution"
+   ],
+   "examples": [
+    {
+     "en": "Use *extreme* caution when driving in fog.",
+     "vi": "Hết sức cẩn thận khi lái xe trong sương mù."
+    }
+   ]
+  },
+  {
+   "id": "qua_dramatic",
+   "word": "dramatic",
+   "pos": "adjective",
+   "ipa": "/drəˈmætɪk/",
+   "level": "B2",
+   "meaning": "đột ngột, mạnh mẽ",
+   "definition": "sudden and noticeable",
+   "collocations": [
+    "a dramatic increase",
+    "dramatic change"
+   ],
+   "examples": [
+    {
+     "en": "There was a *dramatic* rise in sales.",
+     "vi": "Doanh số tăng vọt."
+    }
+   ]
+  },
+  {
+   "id": "qua_dramatically",
+   "word": "dramatically",
+   "pos": "adverb",
+   "ipa": "/drəˈmætɪkli/",
+   "level": "B2",
+   "meaning": "một cách mạnh mẽ",
+   "definition": "suddenly and by a large amount",
+   "collocations": [
+    "change dramatically"
+   ],
+   "examples": [
+    {
+     "en": "Prices have increased *dramatically*.",
+     "vi": "Giá cả tăng mạnh."
+    }
+   ]
+  },
+  {
+   "id": "qua_positive",
+   "word": "positive",
+   "pos": "adjective",
+   "ipa": "/ˈpɑːzətɪv/",
+   "level": "B2",
+   "meaning": "tích cực; chắc chắn",
+   "definition": "good; hopeful; certain",
+   "collocations": [
+    "positive feedback",
+    "positive attitude"
+   ],
+   "examples": [
+    {
+     "en": "We received very *positive* feedback.",
+     "vi": "Chúng tôi nhận được phản hồi rất tích cực."
+    }
+   ]
+  },
+  {
+   "id": "qua_negative",
+   "word": "negative",
+   "pos": "adjective",
+   "ipa": "/ˈneɡətɪv/",
+   "level": "B2",
+   "meaning": "tiêu cực",
+   "definition": "bad; harmful",
+   "collocations": [
+    "negative effect",
+    "negative comments"
+   ],
+   "examples": [
+    {
+     "en": "The delay had a *negative* effect on sales.",
+     "vi": "Sự chậm trễ ảnh hưởng tiêu cực tới doanh số."
+    }
+   ]
+  },
+  {
+   "id": "qua_neutral",
+   "word": "neutral",
+   "pos": "adjective",
+   "ipa": "/ˈnuːtrəl/",
+   "level": "B2",
+   "meaning": "trung lập",
+   "definition": "not supporting either side",
+   "collocations": [
+    "neutral colours",
+    "remain neutral"
+   ],
+   "examples": [
+    {
+     "en": "The office is painted in *neutral* colours.",
+     "vi": "Văn phòng được sơn màu trung tính."
+    }
+   ]
+  },
+  {
+   "id": "qua_normal",
+   "word": "normal",
+   "pos": "adjective",
+   "ipa": "/ˈnɔːrml/",
+   "level": "B1",
+   "meaning": "bình thường",
+   "definition": "usual",
+   "collocations": [
+    "back to normal",
+    "normal working hours"
+   ],
+   "examples": [
+    {
+     "en": "Service will return to *normal* tomorrow.",
+     "vi": "Dịch vụ sẽ trở lại bình thường vào ngày mai."
+    }
+   ]
+  },
+  {
+   "id": "qua_overall",
+   "word": "overall",
+   "pos": "adjective",
+   "ipa": "/ˌoʊvərˈɔːl/",
+   "level": "B2",
+   "meaning": "tổng thể",
+   "definition": "including everything",
+   "collocations": [
+    "overall cost",
+    "overall impression"
+   ],
+   "examples": [
+    {
+     "en": "*Overall*, the event was a success.",
+     "vi": "Nhìn chung, sự kiện đã thành công."
+    }
+   ]
+  },
+  {
+   "id": "qua_inevitable",
+   "word": "inevitable",
+   "pos": "adjective",
+   "ipa": "/ɪnˈevɪtəbl/",
+   "level": "B2",
+   "meaning": "không thể tránh khỏi",
+   "definition": "certain to happen",
+   "collocations": [
+    "an inevitable result"
+   ],
+   "examples": [
+    {
+     "en": "Some delays are *inevitable*.",
+     "vi": "Một số chậm trễ là không thể tránh khỏi."
+    }
+   ]
+  },
+  {
+   "id": "qua_inevitably",
+   "word": "inevitably",
+   "pos": "adverb",
+   "ipa": "/ɪnˈevɪtəbli/",
+   "level": "B2",
+   "meaning": "chắc chắn sẽ",
+   "definition": "as is certain to happen",
+   "collocations": [
+    "inevitably lead to"
+   ],
+   "examples": [
+    {
+     "en": "Rising costs will *inevitably* lead to higher prices.",
+     "vi": "Chi phí tăng chắc chắn dẫn tới giá cao hơn."
+    }
+   ]
+  },
+  {
+   "id": "qua_capable",
+   "word": "capable",
+   "pos": "adjective",
+   "ipa": "/ˈkeɪpəbl/",
+   "level": "B2",
+   "meaning": "có khả năng",
+   "definition": "having the ability to do something",
+   "collocations": [
+    "capable of",
+    "highly capable"
+   ],
+   "examples": [
+    {
+     "en": "The new machine is *capable* of printing 100 pages a minute.",
+     "vi": "Máy mới có thể in 100 trang mỗi phút."
+    }
+   ]
+  },
+  {
+   "id": "qua_capacity",
+   "word": "capacity",
+   "pos": "noun",
+   "ipa": "/kəˈpæsəti/",
+   "level": "B2",
+   "meaning": "sức chứa; năng lực",
+   "definition": "the amount something can hold; ability",
+   "collocations": [
+    "seating capacity",
+    "full capacity",
+    "in my capacity as"
+   ],
+   "examples": [
+    {
+     "en": "The hall has a *capacity* of 500.",
+     "vi": "Hội trường có sức chứa 500 người."
+    }
+   ]
+  },
+  {
+   "id": "qua_willing",
+   "word": "willing",
+   "pos": "adjective",
+   "ipa": "/ˈwɪlɪŋ/",
+   "level": "B2",
+   "meaning": "sẵn lòng",
+   "definition": "ready to do something",
+   "collocations": [
+    "willing to",
+    "more than willing"
+   ],
+   "examples": [
+    {
+     "en": "Are you *willing* to travel for work?",
+     "vi": "Bạn có sẵn sàng đi công tác không?"
+    }
+   ]
+  },
+  {
+   "id": "qua_unable",
+   "word": "unable",
+   "pos": "adjective",
+   "ipa": "/ʌnˈeɪbl/",
+   "level": "B1",
+   "meaning": "không thể",
+   "definition": "not able",
+   "collocations": [
+    "be unable to"
+   ],
+   "examples": [
+    {
+     "en": "We are *unable* to process your request at this time.",
+     "vi": "Hiện chúng tôi không thể xử lý yêu cầu của bạn."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

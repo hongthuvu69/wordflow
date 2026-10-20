@@ -1,0 +1,984 @@
+{
+ "id": "law",
+ "order": 27,
+ "icon": "⚖️",
+ "level": "B2",
+ "title": "Law, Rules & Crime",
+ "title_vi": "Luật lệ, Quy định & Tội phạm",
+ "description": "Quy định, giấy phép, xử phạt, tòa án, tội phạm: từ hay gặp trong thông báo nội quy và tin tức.",
+ "words": [
+  {
+   "id": "law_legal",
+   "word": "legal",
+   "pos": "adjective",
+   "ipa": "/ˈliːɡl/",
+   "level": "B1",
+   "meaning": "hợp pháp; thuộc pháp luật",
+   "definition": "allowed by law; connected with the law",
+   "collocations": [
+    "legal advice",
+    "legal department",
+    "take legal action"
+   ],
+   "examples": [
+    {
+     "en": "Please ask the *legal* department to check the contract.",
+     "vi": "Vui lòng nhờ phòng pháp chế kiểm tra hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "law_illegal",
+   "word": "illegal",
+   "pos": "adjective",
+   "ipa": "/ɪˈliːɡl/",
+   "level": "B1",
+   "meaning": "bất hợp pháp",
+   "definition": "not allowed by law",
+   "collocations": [
+    "illegal parking",
+    "it is illegal to"
+   ],
+   "examples": [
+    {
+     "en": "It is *illegal* to park here.",
+     "vi": "Đỗ xe ở đây là bất hợp pháp."
+    }
+   ]
+  },
+  {
+   "id": "law_regulation",
+   "word": "regulation",
+   "pos": "noun",
+   "ipa": "/ˌreɡjuˈleɪʃn/",
+   "level": "B2",
+   "meaning": "quy định",
+   "definition": "an official rule",
+   "collocations": [
+    "safety regulations",
+    "comply with regulations"
+   ],
+   "examples": [
+    {
+     "en": "All food must meet health *regulations*.",
+     "vi": "Mọi thực phẩm phải đáp ứng quy định y tế."
+    }
+   ]
+  },
+  {
+   "id": "law_regulate",
+   "word": "regulate",
+   "pos": "verb",
+   "ipa": "/ˈreɡjuleɪt/",
+   "level": "B2",
+   "meaning": "điều chỉnh, quản lý bằng luật",
+   "definition": "to control something using rules",
+   "collocations": [
+    "regulate prices",
+    "strictly regulated"
+   ],
+   "examples": [
+    {
+     "en": "The industry is strictly *regulated*.",
+     "vi": "Ngành này được quản lý chặt chẽ."
+    }
+   ]
+  },
+  {
+   "id": "law_rule",
+   "word": "rule",
+   "pos": "noun",
+   "ipa": "/ruːl/",
+   "level": "B1",
+   "meaning": "quy tắc",
+   "definition": "an instruction that says what is allowed",
+   "collocations": [
+    "follow the rules",
+    "break the rules",
+    "as a rule"
+   ],
+   "examples": [
+    {
+     "en": "Please follow the safety *rules*.",
+     "vi": "Vui lòng tuân thủ các quy tắc an toàn."
+    }
+   ]
+  },
+  {
+   "id": "law_restrict",
+   "word": "restrict",
+   "pos": "verb",
+   "ipa": "/rɪˈstrɪkt/",
+   "level": "B2",
+   "meaning": "hạn chế",
+   "definition": "to limit something",
+   "collocations": [
+    "restrict access",
+    "restricted area"
+   ],
+   "examples": [
+    {
+     "en": "Access to this area is *restricted* to staff.",
+     "vi": "Khu vực này chỉ dành cho nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "law_restriction",
+   "word": "restriction",
+   "pos": "noun",
+   "ipa": "/rɪˈstrɪkʃn/",
+   "level": "B2",
+   "meaning": "sự hạn chế",
+   "definition": "a rule that limits what you can do",
+   "collocations": [
+    "travel restrictions",
+    "impose restrictions"
+   ],
+   "examples": [
+    {
+     "en": "There are *restrictions* on the size of hand luggage.",
+     "vi": "Có giới hạn về kích thước hành lý xách tay."
+    }
+   ]
+  },
+  {
+   "id": "law_prohibit",
+   "word": "prohibit",
+   "pos": "verb",
+   "ipa": "/proʊˈhɪbɪt/",
+   "level": "B2",
+   "meaning": "cấm",
+   "definition": "to officially stop something",
+   "collocations": [
+    "strictly prohibited",
+    "prohibit smoking"
+   ],
+   "examples": [
+    {
+     "en": "Smoking is strictly *prohibited* in the building.",
+     "vi": "Nghiêm cấm hút thuốc trong tòa nhà."
+    }
+   ]
+  },
+  {
+   "id": "law_forbid",
+   "word": "forbid",
+   "pos": "verb",
+   "ipa": "/fərˈbɪd/",
+   "level": "B2",
+   "meaning": "cấm",
+   "definition": "to order someone not to do something",
+   "collocations": [
+    "forbid someone to",
+    "be forbidden"
+   ],
+   "examples": [
+    {
+     "en": "Photography is *forbidden* inside the museum.",
+     "vi": "Cấm chụp ảnh trong bảo tàng."
+    }
+   ]
+  },
+  {
+   "id": "law_ban",
+   "word": "ban",
+   "pos": "noun",
+   "ipa": "/bæn/",
+   "level": "B1",
+   "meaning": "lệnh cấm",
+   "definition": "an official rule that stops something",
+   "collocations": [
+    "a ban on",
+    "lift a ban"
+   ],
+   "examples": [
+    {
+     "en": "The city introduced a *ban* on plastic bags.",
+     "vi": "Thành phố ban hành lệnh cấm túi nhựa."
+    }
+   ]
+  },
+  {
+   "id": "law_permit",
+   "word": "permit",
+   "pos": "noun",
+   "ipa": "/ˈpɜːrmɪt/",
+   "level": "B2",
+   "meaning": "giấy phép",
+   "definition": "an official document allowing you to do something",
+   "collocations": [
+    "work permit",
+    "parking permit"
+   ],
+   "examples": [
+    {
+     "en": "You need a parking *permit* to park here.",
+     "vi": "Bạn cần giấy phép đỗ xe để đỗ ở đây."
+    }
+   ],
+   "note": "Động từ permit /pərˈmɪt/ = cho phép."
+  },
+  {
+   "id": "law_licence",
+   "word": "licence",
+   "pos": "noun",
+   "ipa": "/ˈlaɪsns/",
+   "level": "B2",
+   "meaning": "giấy phép, bằng",
+   "definition": "an official document allowing you to do or own something",
+   "collocations": [
+    "driving licence",
+    "business licence"
+   ],
+   "examples": [
+    {
+     "en": "Do you have a valid driving *licence*?",
+     "vi": "Bạn có bằng lái còn hạn không?"
+    }
+   ],
+   "note": "Anh-Mỹ: license."
+  },
+  {
+   "id": "law_valid",
+   "word": "valid",
+   "pos": "adjective",
+   "ipa": "/ˈvælɪd/",
+   "level": "B2",
+   "meaning": "có hiệu lực, hợp lệ",
+   "definition": "legally acceptable; based on good reasons",
+   "collocations": [
+    "valid passport",
+    "valid until",
+    "a valid point"
+   ],
+   "examples": [
+    {
+     "en": "The ticket is *valid* for one month.",
+     "vi": "Vé có hiệu lực trong một tháng."
+    }
+   ]
+  },
+  {
+   "id": "law_obey",
+   "word": "obey",
+   "pos": "verb",
+   "ipa": "/əˈbeɪ/",
+   "level": "B2",
+   "meaning": "tuân theo",
+   "definition": "to do what a rule or person says",
+   "collocations": [
+    "obey the law",
+    "obey orders"
+   ],
+   "examples": [
+    {
+     "en": "All drivers must *obey* traffic signs.",
+     "vi": "Mọi tài xế phải tuân theo biển báo giao thông."
+    }
+   ]
+  },
+  {
+   "id": "law_obligation",
+   "word": "obligation",
+   "pos": "noun",
+   "ipa": "/ˌɑːblɪˈɡeɪʃn/",
+   "level": "B2",
+   "meaning": "nghĩa vụ",
+   "definition": "something you must do",
+   "collocations": [
+    "no obligation",
+    "legal obligation"
+   ],
+   "examples": [
+    {
+     "en": "Ask for a free quote with no *obligation*.",
+     "vi": "Hãy yêu cầu báo giá miễn phí, không ràng buộc."
+    }
+   ]
+  },
+  {
+   "id": "law_penalty",
+   "word": "penalty",
+   "pos": "noun",
+   "ipa": "/ˈpenəlti/",
+   "level": "B2",
+   "meaning": "hình phạt, tiền phạt",
+   "definition": "a punishment for breaking a rule",
+   "collocations": [
+    "late payment penalty",
+    "pay a penalty"
+   ],
+   "examples": [
+    {
+     "en": "There is a *penalty* for cancelling less than 24 hours before.",
+     "vi": "Hủy trước dưới 24 giờ sẽ bị phạt."
+    }
+   ]
+  },
+  {
+   "id": "law_punish",
+   "word": "punish",
+   "pos": "verb",
+   "ipa": "/ˈpʌnɪʃ/",
+   "level": "B1",
+   "meaning": "trừng phạt",
+   "definition": "to make someone suffer for doing wrong",
+   "collocations": [
+    "be punished for"
+   ],
+   "examples": [
+    {
+     "en": "Drivers who speed will be *punished*.",
+     "vi": "Tài xế chạy quá tốc độ sẽ bị xử phạt."
+    }
+   ]
+  },
+  {
+   "id": "law_punishment",
+   "word": "punishment",
+   "pos": "noun",
+   "ipa": "/ˈpʌnɪʃmənt/",
+   "level": "B1",
+   "meaning": "sự trừng phạt",
+   "definition": "a way of punishing someone",
+   "collocations": [
+    "as a punishment",
+    "severe punishment"
+   ],
+   "examples": [
+    {
+     "en": "The *punishment* for theft is up to five years in prison.",
+     "vi": "Hình phạt cho tội trộm cắp lên tới năm năm tù."
+    }
+   ]
+  },
+  {
+   "id": "law_court",
+   "word": "court",
+   "pos": "noun",
+   "ipa": "/kɔːrt/",
+   "level": "B1",
+   "meaning": "tòa án; sân (thể thao)",
+   "definition": "the place where legal cases are judged; a place for some sports",
+   "collocations": [
+    "go to court",
+    "tennis court"
+   ],
+   "examples": [
+    {
+     "en": "The case will go to *court* next month.",
+     "vi": "Vụ việc sẽ ra tòa vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "law_judge",
+   "word": "judge",
+   "pos": "noun",
+   "ipa": "/dʒʌdʒ/",
+   "level": "B1",
+   "meaning": "thẩm phán; giám khảo",
+   "definition": "a person who decides cases in court; a person who decides a competition",
+   "collocations": [
+    "the judge ruled",
+    "competition judges"
+   ],
+   "examples": [
+    {
+     "en": "The *judges* will announce the winner at 8 p.m.",
+     "vi": "Ban giám khảo sẽ công bố người thắng lúc 8 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "law_judgement",
+   "word": "judgement",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌdʒmənt/",
+   "level": "B2",
+   "meaning": "sự phán xét; khả năng phán đoán",
+   "definition": "an opinion; the ability to decide well",
+   "collocations": [
+    "good judgement",
+    "make a judgement"
+   ],
+   "examples": [
+    {
+     "en": "Use your best *judgement*.",
+     "vi": "Hãy dùng khả năng phán đoán tốt nhất của bạn."
+    }
+   ]
+  },
+  {
+   "id": "law_jury",
+   "word": "jury",
+   "pos": "noun",
+   "ipa": "/ˈdʒʊri/",
+   "level": "B2",
+   "meaning": "bồi thẩm đoàn",
+   "definition": "a group of people who decide if someone is guilty",
+   "collocations": [
+    "the jury decided",
+    "on a jury"
+   ],
+   "examples": [
+    {
+     "en": "The *jury* found him not guilty.",
+     "vi": "Bồi thẩm đoàn tuyên anh ta không có tội."
+    }
+   ]
+  },
+  {
+   "id": "law_trial",
+   "word": "trial",
+   "pos": "noun",
+   "ipa": "/ˈtraɪəl/",
+   "level": "B2",
+   "meaning": "phiên tòa; sự thử nghiệm",
+   "definition": "a legal process in court; a test",
+   "collocations": [
+    "on trial",
+    "free trial",
+    "trial period"
+   ],
+   "examples": [
+    {
+     "en": "Sign up today for a 30-day free *trial*.",
+     "vi": "Đăng ký hôm nay để dùng thử miễn phí 30 ngày."
+    }
+   ],
+   "note": "TOEIC hay gặp: free trial, trial period."
+  },
+  {
+   "id": "law_justice",
+   "word": "justice",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌstɪs/",
+   "level": "B2",
+   "meaning": "công lý",
+   "definition": "fair treatment; the legal system",
+   "collocations": [
+    "bring to justice",
+    "justice system"
+   ],
+   "examples": [
+    {
+     "en": "The victims want *justice*.",
+     "vi": "Các nạn nhân muốn công lý."
+    }
+   ]
+  },
+  {
+   "id": "law_justify",
+   "word": "justify",
+   "pos": "verb",
+   "ipa": "/ˈdʒʌstɪfaɪ/",
+   "level": "B2",
+   "meaning": "biện minh",
+   "definition": "to give a good reason for something",
+   "collocations": [
+    "justify the cost",
+    "justify a decision"
+   ],
+   "examples": [
+    {
+     "en": "Can we *justify* the cost of a new system?",
+     "vi": "Chúng ta có thể biện minh cho chi phí hệ thống mới không?"
+    }
+   ]
+  },
+  {
+   "id": "law_guilty",
+   "word": "guilty",
+   "pos": "adjective",
+   "ipa": "/ˈɡɪlti/",
+   "level": "B1",
+   "meaning": "có tội; cảm thấy tội lỗi",
+   "definition": "having done something wrong; feeling bad about it",
+   "collocations": [
+    "found guilty",
+    "feel guilty"
+   ],
+   "examples": [
+    {
+     "en": "I feel *guilty* about leaving work early.",
+     "vi": "Tôi thấy áy náy vì về sớm."
+    }
+   ]
+  },
+  {
+   "id": "law_accuse",
+   "word": "accuse",
+   "pos": "verb",
+   "ipa": "/əˈkjuːz/",
+   "level": "B2",
+   "meaning": "buộc tội",
+   "definition": "to say someone has done something wrong",
+   "collocations": [
+    "accuse someone of"
+   ],
+   "examples": [
+    {
+     "en": "He was *accused* of stealing money.",
+     "vi": "Anh ta bị buộc tội ăn cắp tiền."
+    }
+   ]
+  },
+  {
+   "id": "law_arrest",
+   "word": "arrest",
+   "pos": "verb",
+   "ipa": "/əˈrest/",
+   "level": "B1",
+   "meaning": "bắt giữ",
+   "definition": "to take someone to the police because of a crime",
+   "collocations": [
+    "be arrested for",
+    "under arrest"
+   ],
+   "examples": [
+    {
+     "en": "Police *arrested* two men last night.",
+     "vi": "Cảnh sát bắt giữ hai người đàn ông tối qua."
+    }
+   ]
+  },
+  {
+   "id": "law_suspect",
+   "word": "suspect",
+   "pos": "noun",
+   "ipa": "/ˈsʌspekt/",
+   "level": "B2",
+   "meaning": "nghi phạm",
+   "definition": "a person thought to have committed a crime",
+   "collocations": [
+    "the main suspect"
+   ],
+   "examples": [
+    {
+     "en": "Police are looking for a *suspect*.",
+     "vi": "Cảnh sát đang tìm kiếm một nghi phạm."
+    }
+   ],
+   "note": "Động từ suspect /səˈspekt/ = nghi ngờ."
+  },
+  {
+   "id": "law_criminal",
+   "word": "criminal",
+   "pos": "noun",
+   "ipa": "/ˈkrɪmɪnl/",
+   "level": "B1",
+   "meaning": "tội phạm",
+   "definition": "a person who commits a crime",
+   "collocations": [
+    "a dangerous criminal"
+   ],
+   "examples": [
+    {
+     "en": "The *criminal* was caught on camera.",
+     "vi": "Tên tội phạm bị camera ghi lại."
+    }
+   ]
+  },
+  {
+   "id": "law_offence",
+   "word": "offence",
+   "pos": "noun",
+   "ipa": "/əˈfens/",
+   "level": "B2",
+   "meaning": "sự vi phạm; sự xúc phạm",
+   "definition": "a crime; the feeling of being upset",
+   "collocations": [
+    "a criminal offence",
+    "take offence"
+   ],
+   "examples": [
+    {
+     "en": "Driving without insurance is a serious *offence*.",
+     "vi": "Lái xe không có bảo hiểm là vi phạm nghiêm trọng."
+    }
+   ],
+   "note": "Anh-Mỹ: offense."
+  },
+  {
+   "id": "law_offender",
+   "word": "offender",
+   "pos": "noun",
+   "ipa": "/əˈfendər/",
+   "level": "B2",
+   "meaning": "người phạm tội",
+   "definition": "a person who commits a crime",
+   "collocations": [
+    "young offenders",
+    "first-time offender"
+   ],
+   "examples": [
+    {
+     "en": "First-time *offenders* may receive a warning.",
+     "vi": "Người vi phạm lần đầu có thể chỉ bị cảnh cáo."
+    }
+   ]
+  },
+  {
+   "id": "law_offend",
+   "word": "offend",
+   "pos": "verb",
+   "ipa": "/əˈfend/",
+   "level": "B2",
+   "meaning": "xúc phạm",
+   "definition": "to make someone upset or angry",
+   "collocations": [
+    "be offended by"
+   ],
+   "examples": [
+    {
+     "en": "I hope I didn't *offend* you.",
+     "vi": "Hy vọng tôi không làm bạn phật lòng."
+    }
+   ]
+  },
+  {
+   "id": "law_offensive",
+   "word": "offensive",
+   "pos": "adjective",
+   "ipa": "/əˈfensɪv/",
+   "level": "B2",
+   "meaning": "xúc phạm",
+   "definition": "rude and upsetting",
+   "collocations": [
+    "offensive language",
+    "offensive comments"
+   ],
+   "examples": [
+    {
+     "en": "*Offensive* comments will be removed.",
+     "vi": "Bình luận xúc phạm sẽ bị xóa."
+    }
+   ]
+  },
+  {
+   "id": "law_fraud",
+   "word": "fraud",
+   "pos": "noun",
+   "ipa": "/frɔːd/",
+   "level": "B2",
+   "meaning": "sự gian lận, lừa đảo",
+   "definition": "getting money dishonestly",
+   "collocations": [
+    "credit card fraud",
+    "commit fraud"
+   ],
+   "examples": [
+    {
+     "en": "Report any *fraud* to the bank immediately.",
+     "vi": "Báo ngay cho ngân hàng nếu có gian lận."
+    }
+   ]
+  },
+  {
+   "id": "law_theft",
+   "word": "theft",
+   "pos": "noun",
+   "ipa": "/θeft/",
+   "level": "B2",
+   "meaning": "sự trộm cắp",
+   "definition": "the crime of stealing",
+   "collocations": [
+    "car theft",
+    "report a theft"
+   ],
+   "examples": [
+    {
+     "en": "Please report any *theft* to the security desk.",
+     "vi": "Vui lòng báo mọi vụ trộm cho quầy bảo vệ."
+    }
+   ]
+  },
+  {
+   "id": "law_rob",
+   "word": "rob",
+   "pos": "verb",
+   "ipa": "/rɑːb/",
+   "level": "B2",
+   "meaning": "cướp",
+   "definition": "to steal from a person or place",
+   "collocations": [
+    "rob a bank",
+    "be robbed"
+   ],
+   "examples": [
+    {
+     "en": "The store was *robbed* last night.",
+     "vi": "Cửa hàng bị cướp tối qua."
+    }
+   ],
+   "note": "rob người/nơi chốn; steal đồ vật."
+  },
+  {
+   "id": "law_robbery",
+   "word": "robbery",
+   "pos": "noun",
+   "ipa": "/ˈrɑːbəri/",
+   "level": "B2",
+   "meaning": "vụ cướp",
+   "definition": "the crime of stealing from a person or place",
+   "collocations": [
+    "bank robbery",
+    "armed robbery"
+   ],
+   "examples": [
+    {
+     "en": "Police are investigating the *robbery*.",
+     "vi": "Cảnh sát đang điều tra vụ cướp."
+    }
+   ]
+  },
+  {
+   "id": "law_murder",
+   "word": "murder",
+   "pos": "noun",
+   "ipa": "/ˈmɜːrdər/",
+   "level": "B1",
+   "meaning": "vụ giết người",
+   "definition": "the crime of killing someone deliberately",
+   "collocations": [
+    "commit murder",
+    "murder case"
+   ],
+   "examples": [
+    {
+     "en": "The film is about a *murder* in a small town.",
+     "vi": "Bộ phim kể về một vụ án mạng ở thị trấn nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "law_killing",
+   "word": "killing",
+   "pos": "noun",
+   "ipa": "/ˈkɪlɪŋ/",
+   "level": "B1",
+   "meaning": "vụ giết",
+   "definition": "an act of killing",
+   "collocations": [
+    "the killing of"
+   ],
+   "examples": [
+    {
+     "en": "The *killing* of wild elephants is illegal.",
+     "vi": "Giết voi hoang dã là phạm pháp."
+    }
+   ]
+  },
+  {
+   "id": "law_victim",
+   "word": "victim",
+   "pos": "noun",
+   "ipa": "/ˈvɪktɪm/",
+   "level": "B1",
+   "meaning": "nạn nhân",
+   "definition": "a person harmed by a crime or accident",
+   "collocations": [
+    "victims of the flood",
+    "crime victim"
+   ],
+   "examples": [
+    {
+     "en": "Food was sent to the *victims* of the earthquake.",
+     "vi": "Thực phẩm được gửi tới nạn nhân động đất."
+    }
+   ]
+  },
+  {
+   "id": "law_witness",
+   "word": "witness",
+   "pos": "noun",
+   "ipa": "/ˈwɪtnəs/",
+   "level": "B2",
+   "meaning": "nhân chứng",
+   "definition": "a person who sees an event",
+   "collocations": [
+    "an eye witness",
+    "witness statement"
+   ],
+   "examples": [
+    {
+     "en": "Police are asking *witnesses* to come forward.",
+     "vi": "Cảnh sát kêu gọi nhân chứng ra trình báo."
+    }
+   ]
+  },
+  {
+   "id": "law_investigate",
+   "word": "investigate",
+   "pos": "verb",
+   "ipa": "/ɪnˈvestɪɡeɪt/",
+   "level": "B1",
+   "meaning": "điều tra",
+   "definition": "to try to find out the facts",
+   "collocations": [
+    "investigate a complaint",
+    "investigate the cause"
+   ],
+   "examples": [
+    {
+     "en": "We are *investigating* the cause of the problem.",
+     "vi": "Chúng tôi đang điều tra nguyên nhân sự cố."
+    }
+   ]
+  },
+  {
+   "id": "law_investigation",
+   "word": "investigation",
+   "pos": "noun",
+   "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+   "level": "B2",
+   "meaning": "cuộc điều tra",
+   "definition": "an official examination of facts",
+   "collocations": [
+    "under investigation",
+    "carry out an investigation"
+   ],
+   "examples": [
+    {
+     "en": "The accident is under *investigation*.",
+     "vi": "Vụ tai nạn đang được điều tra."
+    }
+   ]
+  },
+  {
+   "id": "law_inspector",
+   "word": "inspector",
+   "pos": "noun",
+   "ipa": "/ɪnˈspektər/",
+   "level": "B2",
+   "meaning": "thanh tra viên",
+   "definition": "a person whose job is to check that rules are obeyed",
+   "collocations": [
+    "safety inspector",
+    "police inspector"
+   ],
+   "examples": [
+    {
+     "en": "A health *inspector* visited the restaurant.",
+     "vi": "Một thanh tra y tế đã đến kiểm tra nhà hàng."
+    }
+   ]
+  },
+  {
+   "id": "law_jail",
+   "word": "jail",
+   "pos": "noun",
+   "ipa": "/dʒeɪl/",
+   "level": "B2",
+   "meaning": "nhà tù",
+   "definition": "a prison",
+   "collocations": [
+    "go to jail",
+    "in jail"
+   ],
+   "examples": [
+    {
+     "en": "He spent two years in *jail*.",
+     "vi": "Anh ta ngồi tù hai năm."
+    }
+   ]
+  },
+  {
+   "id": "law_prisoner",
+   "word": "prisoner",
+   "pos": "noun",
+   "ipa": "/ˈprɪznər/",
+   "level": "B1",
+   "meaning": "tù nhân",
+   "definition": "a person kept in prison",
+   "collocations": [
+    "release a prisoner"
+   ],
+   "examples": [
+    {
+     "en": "The *prisoner* was released after five years.",
+     "vi": "Tù nhân được thả sau năm năm."
+    }
+   ]
+  },
+  {
+   "id": "law_violence",
+   "word": "violence",
+   "pos": "noun",
+   "ipa": "/ˈvaɪələns/",
+   "level": "B2",
+   "meaning": "bạo lực",
+   "definition": "physical force used to hurt people",
+   "collocations": [
+    "violence against",
+    "acts of violence"
+   ],
+   "examples": [
+    {
+     "en": "The film contains scenes of *violence*.",
+     "vi": "Bộ phim có cảnh bạo lực."
+    }
+   ]
+  },
+  {
+   "id": "law_violent",
+   "word": "violent",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪələnt/",
+   "level": "B1",
+   "meaning": "bạo lực; dữ dội",
+   "definition": "using force to hurt; very strong",
+   "collocations": [
+    "violent crime",
+    "a violent storm"
+   ],
+   "examples": [
+    {
+     "en": "A *violent* storm damaged the roof.",
+     "vi": "Cơn bão dữ dội làm hỏng mái nhà."
+    }
+   ]
+  },
+  {
+   "id": "law_gang",
+   "word": "gang",
+   "pos": "noun",
+   "ipa": "/ɡæŋ/",
+   "level": "B2",
+   "meaning": "băng nhóm",
+   "definition": "a group of criminals; a group of friends",
+   "collocations": [
+    "a gang of",
+    "gang members"
+   ],
+   "examples": [
+    {
+     "en": "A *gang* of thieves stole the cars.",
+     "vi": "Một băng trộm đã lấy cắp những chiếc xe."
+    }
+   ]
+  },
+  {
+   "id": "law_guard",
+   "word": "guard",
+   "pos": "noun",
+   "ipa": "/ɡɑːrd/",
+   "level": "B1",
+   "meaning": "người bảo vệ",
+   "definition": "a person who protects a place or people",
+   "collocations": [
+    "security guard",
+    "on guard"
+   ],
+   "examples": [
+    {
+     "en": "Show your ID to the security *guard*.",
+     "vi": "Xuất trình thẻ cho nhân viên bảo vệ."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

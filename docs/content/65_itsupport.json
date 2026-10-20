@@ -1,0 +1,794 @@
+{
+ "id": "toeic_itsupport",
+ "order": 65,
+ "icon": "🖥️",
+ "level": "TOEIC",
+ "title": "TOEIC: IT Support & Workplace Tech",
+ "title_vi": "TOEIC: Hỗ trợ IT & Công nghệ văn phòng",
+ "description": "Đăng nhập, mật khẩu, máy chủ, bảo trì hệ thống, phần mềm mới: nội dung email IT và thông báo nội bộ.",
+ "words": [
+  {
+   "id": "tit_log_out",
+   "word": "log out",
+   "pos": "verb",
+   "ipa": "/ˌlɔːɡ ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "đăng xuất",
+   "definition": "to leave a computer system",
+   "collocations": [
+    "log out of the system"
+   ],
+   "examples": [
+    {
+     "en": "Always *log out* when you leave your desk.",
+     "vi": "Luôn đăng xuất khi rời bàn làm việc."
+    }
+   ]
+  },
+  {
+   "id": "tit_username",
+   "word": "username",
+   "pos": "noun",
+   "ipa": "/ˈjuːzərneɪm/",
+   "level": "TOEIC",
+   "meaning": "tên đăng nhập",
+   "definition": "the name you use to log in",
+   "collocations": [
+    "enter your username"
+   ],
+   "examples": [
+    {
+     "en": "Your *username* is your e-mail address.",
+     "vi": "Tên đăng nhập của bạn là địa chỉ e-mail."
+    }
+   ]
+  },
+  {
+   "id": "tit_reset",
+   "word": "reset",
+   "pos": "verb",
+   "ipa": "/ˌriːˈset/",
+   "level": "TOEIC",
+   "meaning": "đặt lại",
+   "definition": "to set again, often to the start",
+   "collocations": [
+    "reset a password",
+    "reset the device"
+   ],
+   "examples": [
+    {
+     "en": "Click here to *reset* your password.",
+     "vi": "Nhấp vào đây để đặt lại mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "tit_credentials",
+   "word": "credentials",
+   "pos": "noun",
+   "ipa": "/krəˈdenʃlz/",
+   "level": "TOEIC",
+   "meaning": "thông tin đăng nhập; bằng cấp",
+   "definition": "login details; qualifications",
+   "collocations": [
+    "login credentials"
+   ],
+   "examples": [
+    {
+     "en": "Never share your login *credentials*.",
+     "vi": "Không bao giờ chia sẻ thông tin đăng nhập."
+    }
+   ]
+  },
+  {
+   "id": "tit_outage",
+   "word": "outage",
+   "pos": "noun",
+   "ipa": "/ˈaʊtɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "sự cố ngừng hoạt động",
+   "definition": "a period when a service is not available",
+   "collocations": [
+    "power outage",
+    "system outage"
+   ],
+   "examples": [
+    {
+     "en": "The *outage* lasted about two hours.",
+     "vi": "Sự cố ngừng hoạt động kéo dài khoảng hai giờ."
+    }
+   ]
+  },
+  {
+   "id": "tit_downtime",
+   "word": "downtime",
+   "pos": "noun",
+   "ipa": "/ˈdaʊntaɪm/",
+   "level": "TOEIC",
+   "meaning": "thời gian ngừng hoạt động",
+   "definition": "time when a system is not working",
+   "collocations": [
+    "scheduled downtime"
+   ],
+   "examples": [
+    {
+     "en": "We apologize for the *downtime* this morning.",
+     "vi": "Chúng tôi xin lỗi vì hệ thống ngừng hoạt động sáng nay."
+    }
+   ]
+  },
+  {
+   "id": "tit_scheduled_maintenance",
+   "word": "scheduled maintenance",
+   "pos": "noun",
+   "ipa": "/ˌskedʒuːld ˈmeɪntənəns/",
+   "level": "TOEIC",
+   "meaning": "bảo trì định kỳ",
+   "definition": "planned repair work",
+   "collocations": [
+    "during scheduled maintenance"
+   ],
+   "examples": [
+    {
+     "en": "The website will be unavailable during *scheduled maintenance*.",
+     "vi": "Website sẽ không truy cập được trong thời gian bảo trì định kỳ."
+    }
+   ]
+  },
+  {
+   "id": "tit_technician",
+   "word": "technician",
+   "pos": "noun",
+   "ipa": "/tekˈnɪʃn/",
+   "level": "TOEIC",
+   "meaning": "kỹ thuật viên",
+   "definition": "a person who repairs or maintains equipment",
+   "collocations": [
+    "IT technician",
+    "send a technician"
+   ],
+   "examples": [
+    {
+     "en": "A *technician* will come to fix your computer.",
+     "vi": "Một kỹ thuật viên sẽ đến sửa máy tính của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tit_it_department",
+   "word": "IT department",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈtiː dɪˌpɑːrtmənt/",
+   "level": "TOEIC",
+   "meaning": "phòng công nghệ thông tin",
+   "definition": "the team that manages computers",
+   "collocations": [
+    "contact the IT department"
+   ],
+   "examples": [
+    {
+     "en": "Contact the *IT department* if your laptop crashes.",
+     "vi": "Liên hệ phòng IT nếu máy tính bị treo."
+    }
+   ]
+  },
+  {
+   "id": "tit_firewall",
+   "word": "firewall",
+   "pos": "noun",
+   "ipa": "/ˈfaɪərwɔːl/",
+   "level": "TOEIC",
+   "meaning": "tường lửa",
+   "definition": "a system that protects a network from attacks",
+   "collocations": [
+    "install a firewall"
+   ],
+   "examples": [
+    {
+     "en": "The *firewall* blocks dangerous websites.",
+     "vi": "Tường lửa chặn các website nguy hiểm."
+    }
+   ]
+  },
+  {
+   "id": "tit_virus",
+   "word": "virus",
+   "pos": "noun",
+   "ipa": "/ˈvaɪrəs/",
+   "level": "A2",
+   "meaning": "virus",
+   "definition": "a harmful program or tiny organism",
+   "collocations": [
+    "computer virus",
+    "antivirus software"
+   ],
+   "examples": [
+    {
+     "en": "Don't open attachments from unknown senders; they may contain a *virus*.",
+     "vi": "Đừng mở tệp đính kèm từ người lạ, có thể chứa virus."
+    }
+   ]
+  },
+  {
+   "id": "tit_malware",
+   "word": "malware",
+   "pos": "noun",
+   "ipa": "/ˈmælwer/",
+   "level": "TOEIC",
+   "meaning": "phần mềm độc hại",
+   "definition": "software designed to damage computers",
+   "collocations": [
+    "remove malware"
+   ],
+   "examples": [
+    {
+     "en": "The IT team removed the *malware* from my laptop.",
+     "vi": "Đội IT đã gỡ phần mềm độc hại khỏi máy tôi."
+    }
+   ]
+  },
+  {
+   "id": "tit_phishing",
+   "word": "phishing",
+   "pos": "noun",
+   "ipa": "/ˈfɪʃɪŋ/",
+   "level": "TOEIC",
+   "meaning": "lừa đảo qua mạng",
+   "definition": "fake e-mails trying to steal information",
+   "collocations": [
+    "phishing e-mail",
+    "phishing scam"
+   ],
+   "examples": [
+    {
+     "en": "Report any *phishing* e-mails to IT.",
+     "vi": "Báo cho IT mọi e-mail lừa đảo."
+    }
+   ]
+  },
+  {
+   "id": "tit_encryption",
+   "word": "encryption",
+   "pos": "noun",
+   "ipa": "/ɪnˈkrɪpʃn/",
+   "level": "TOEIC",
+   "meaning": "sự mã hóa",
+   "definition": "changing data into a secret code",
+   "collocations": [
+    "data encryption"
+   ],
+   "examples": [
+    {
+     "en": "All files are protected by *encryption*.",
+     "vi": "Tất cả tệp được bảo vệ bằng mã hóa."
+    }
+   ]
+  },
+  {
+   "id": "tit_cloud_storage",
+   "word": "cloud storage",
+   "pos": "noun",
+   "ipa": "/ˌklaʊd ˈstɔːrɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "lưu trữ đám mây",
+   "definition": "saving files on the internet",
+   "collocations": [
+    "save to cloud storage"
+   ],
+   "examples": [
+    {
+     "en": "All documents are saved in *cloud storage*.",
+     "vi": "Mọi tài liệu được lưu trên đám mây."
+    }
+   ]
+  },
+  {
+   "id": "tit_shared_drive",
+   "word": "shared drive",
+   "pos": "noun",
+   "ipa": "/ˌʃerd ˈdraɪv/",
+   "level": "TOEIC",
+   "meaning": "ổ dùng chung",
+   "definition": "a storage space many people can use",
+   "collocations": [
+    "save it on the shared drive"
+   ],
+   "examples": [
+    {
+     "en": "The template is on the *shared drive*.",
+     "vi": "Mẫu có trên ổ dùng chung."
+    }
+   ]
+  },
+  {
+   "id": "tit_compatible",
+   "word": "compatible",
+   "pos": "adjective",
+   "ipa": "/kəmˈpætəbl/",
+   "level": "TOEIC",
+   "meaning": "tương thích",
+   "definition": "able to work with something else",
+   "collocations": [
+    "compatible with"
+   ],
+   "examples": [
+    {
+     "en": "Is this software *compatible* with Mac?",
+     "vi": "Phần mềm này có tương thích với máy Mac không?"
+    }
+   ]
+  },
+  {
+   "id": "tit_compatibility",
+   "word": "compatibility",
+   "pos": "noun",
+   "ipa": "/kəmˌpætəˈbɪləti/",
+   "level": "TOEIC",
+   "meaning": "sự tương thích",
+   "definition": "the ability to work together",
+   "collocations": [
+    "check compatibility"
+   ],
+   "examples": [
+    {
+     "en": "Check *compatibility* before installing the update.",
+     "vi": "Kiểm tra tính tương thích trước khi cài bản cập nhật."
+    }
+   ]
+  },
+  {
+   "id": "tit_user_friendly",
+   "word": "user-friendly",
+   "pos": "adjective",
+   "ipa": "/ˌjuːzər ˈfrendli/",
+   "level": "TOEIC",
+   "meaning": "dễ sử dụng",
+   "definition": "easy to use",
+   "collocations": [
+    "a user-friendly interface"
+   ],
+   "examples": [
+    {
+     "en": "The new system is very *user-friendly*.",
+     "vi": "Hệ thống mới rất dễ sử dụng."
+    }
+   ]
+  },
+  {
+   "id": "tit_interface",
+   "word": "interface",
+   "pos": "noun",
+   "ipa": "/ˈɪntərfeɪs/",
+   "level": "C1",
+   "meaning": "giao diện",
+   "definition": "the way a user interacts with a program",
+   "collocations": [
+    "user interface"
+   ],
+   "examples": [
+    {
+     "en": "The app has a simple *interface*.",
+     "vi": "Ứng dụng có giao diện đơn giản."
+    }
+   ]
+  },
+  {
+   "id": "tit_feature_update",
+   "word": "feature update",
+   "pos": "noun",
+   "ipa": "/ˈfiːtʃər ˌʌpdeɪt/",
+   "level": "TOEIC",
+   "meaning": "bản cập nhật tính năng",
+   "definition": "a software update adding new functions",
+   "collocations": [
+    "install the feature update"
+   ],
+   "examples": [
+    {
+     "en": "The latest *feature update* adds dark mode.",
+     "vi": "Bản cập nhật tính năng mới nhất bổ sung chế độ tối."
+    }
+   ]
+  },
+  {
+   "id": "tit_patch",
+   "word": "patch",
+   "pos": "noun",
+   "ipa": "/pætʃ/",
+   "level": "C1",
+   "meaning": "bản vá",
+   "definition": "a small update that fixes a problem",
+   "collocations": [
+    "security patch"
+   ],
+   "examples": [
+    {
+     "en": "Install the security *patch* as soon as possible.",
+     "vi": "Cài bản vá bảo mật càng sớm càng tốt."
+    }
+   ]
+  },
+  {
+   "id": "tit_freeze_up",
+   "word": "freeze up",
+   "pos": "verb",
+   "ipa": "/ˌfriːz ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "bị đơ",
+   "definition": "to stop responding",
+   "collocations": [
+    "the screen froze up"
+   ],
+   "examples": [
+    {
+     "en": "The screen keeps *freezing up*.",
+     "vi": "Màn hình cứ bị đơ."
+    }
+   ]
+  },
+  {
+   "id": "tit_reboot",
+   "word": "reboot",
+   "pos": "verb",
+   "ipa": "/ˌriːˈbuːt/",
+   "level": "TOEIC",
+   "meaning": "khởi động lại",
+   "definition": "to start a computer again",
+   "collocations": [
+    "reboot the system"
+   ],
+   "examples": [
+    {
+     "en": "Try to *reboot* your computer first.",
+     "vi": "Hãy thử khởi động lại máy tính trước."
+    }
+   ]
+  },
+  {
+   "id": "tit_troubleshooting",
+   "word": "troubleshooting",
+   "pos": "noun",
+   "ipa": "/ˈtrʌblʃuːtɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc khắc phục sự cố",
+   "definition": "finding and fixing problems",
+   "collocations": [
+    "basic troubleshooting"
+   ],
+   "examples": [
+    {
+     "en": "Follow these *troubleshooting* steps before calling IT.",
+     "vi": "Làm theo các bước khắc phục sự cố này trước khi gọi IT."
+    }
+   ]
+  },
+  {
+   "id": "tit_access_code",
+   "word": "access code",
+   "pos": "noun",
+   "ipa": "/ˈækses koʊd/",
+   "level": "TOEIC",
+   "meaning": "mã truy cập",
+   "definition": "a code that lets you enter a place or system",
+   "collocations": [
+    "enter the access code"
+   ],
+   "examples": [
+    {
+     "en": "The *access code* for the meeting room is 4521.",
+     "vi": "Mã vào phòng họp là 4521."
+    }
+   ]
+  },
+  {
+   "id": "tit_authentication",
+   "word": "authentication",
+   "pos": "noun",
+   "ipa": "/ɔːˌθentɪˈkeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "xác thực",
+   "definition": "proving who you are",
+   "collocations": [
+    "two-factor authentication"
+   ],
+   "examples": [
+    {
+     "en": "Turn on two-factor *authentication* for extra security.",
+     "vi": "Bật xác thực hai lớp để tăng bảo mật."
+    }
+   ]
+  },
+  {
+   "id": "tit_backup",
+   "word": "backup",
+   "pos": "noun",
+   "ipa": "/ˈbækʌp/",
+   "level": "C1",
+   "meaning": "bản sao lưu",
+   "definition": "a copy of data kept in case of loss",
+   "collocations": [
+    "daily backup",
+    "backup files"
+   ],
+   "examples": [
+    {
+     "en": "We make a *backup* of all files every night.",
+     "vi": "Chúng tôi sao lưu toàn bộ tệp mỗi đêm."
+    }
+   ]
+  },
+  {
+   "id": "tit_data",
+   "word": "data",
+   "pos": "noun",
+   "ipa": "/ˈdeɪtə/",
+   "level": "A2",
+   "meaning": "dữ liệu",
+   "definition": "facts and information",
+   "collocations": [
+    "data entry",
+    "data analysis"
+   ],
+   "examples": [
+    {
+     "en": "All customer *data* is stored securely.",
+     "vi": "Mọi dữ liệu khách hàng được lưu trữ an toàn."
+    }
+   ]
+  },
+  {
+   "id": "tit_data_entry",
+   "word": "data entry",
+   "pos": "noun",
+   "ipa": "/ˌdeɪtə ˈentri/",
+   "level": "TOEIC",
+   "meaning": "nhập liệu",
+   "definition": "typing information into a computer",
+   "collocations": [
+    "data entry clerk"
+   ],
+   "examples": [
+    {
+     "en": "The job involves a lot of *data entry*.",
+     "vi": "Công việc bao gồm nhiều việc nhập liệu."
+    }
+   ]
+  },
+  {
+   "id": "tit_bandwidth",
+   "word": "bandwidth",
+   "pos": "noun",
+   "ipa": "/ˈbændwɪdθ/",
+   "level": "TOEIC",
+   "meaning": "băng thông",
+   "definition": "the amount of data a network can carry",
+   "collocations": [
+    "high bandwidth"
+   ],
+   "examples": [
+    {
+     "en": "Video calls use a lot of *bandwidth*.",
+     "vi": "Gọi video tốn nhiều băng thông."
+    }
+   ]
+  },
+  {
+   "id": "tit_router",
+   "word": "router",
+   "pos": "noun",
+   "ipa": "/ˈruːtər/",
+   "level": "TOEIC",
+   "meaning": "bộ định tuyến",
+   "definition": "a device that connects computers to the internet",
+   "collocations": [
+    "reset the router"
+   ],
+   "examples": [
+    {
+     "en": "Try restarting the *router*.",
+     "vi": "Hãy thử khởi động lại bộ định tuyến."
+    }
+   ]
+  },
+  {
+   "id": "tit_printer_driver",
+   "word": "printer driver",
+   "pos": "noun",
+   "ipa": "/ˈprɪntər ˌdraɪvər/",
+   "level": "TOEIC",
+   "meaning": "trình điều khiển máy in",
+   "definition": "software that lets a computer use a printer",
+   "collocations": [
+    "install the printer driver"
+   ],
+   "examples": [
+    {
+     "en": "You need to install the *printer driver* first.",
+     "vi": "Bạn cần cài trình điều khiển máy in trước."
+    }
+   ]
+  },
+  {
+   "id": "tit_peripheral",
+   "word": "peripheral",
+   "pos": "noun",
+   "ipa": "/pəˈrɪfərəl/",
+   "level": "TOEIC",
+   "meaning": "thiết bị ngoại vi",
+   "definition": "a device connected to a computer",
+   "collocations": [
+    "computer peripherals"
+   ],
+   "examples": [
+    {
+     "en": "Mice and keyboards are *peripherals*.",
+     "vi": "Chuột và bàn phím là thiết bị ngoại vi."
+    }
+   ]
+  },
+  {
+   "id": "tit_laptop",
+   "word": "laptop",
+   "pos": "noun",
+   "ipa": "/ˈlæptɑːp/",
+   "level": "A2",
+   "meaning": "máy tính xách tay",
+   "definition": "a small portable computer",
+   "collocations": [
+    "company laptop"
+   ],
+   "examples": [
+    {
+     "en": "Each new employee receives a company *laptop*.",
+     "vi": "Mỗi nhân viên mới được cấp máy tính xách tay."
+    }
+   ]
+  },
+  {
+   "id": "tit_tablet",
+   "word": "tablet",
+   "pos": "noun",
+   "ipa": "/ˈtæblət/",
+   "level": "A2",
+   "meaning": "máy tính bảng; viên thuốc",
+   "definition": "a small flat computer; a pill",
+   "collocations": [
+    "use a tablet"
+   ],
+   "examples": [
+    {
+     "en": "Waiters take orders on a *tablet*.",
+     "vi": "Nhân viên phục vụ nhận order bằng máy tính bảng."
+    }
+   ]
+  },
+  {
+   "id": "tit_webinar",
+   "word": "webinar",
+   "pos": "noun",
+   "ipa": "/ˈwebɪnɑːr/",
+   "level": "TOEIC",
+   "meaning": "hội thảo trực tuyến",
+   "definition": "a seminar held online",
+   "collocations": [
+    "host a webinar",
+    "join a webinar"
+   ],
+   "examples": [
+    {
+     "en": "Join our free *webinar* on digital marketing.",
+     "vi": "Tham gia hội thảo trực tuyến miễn phí về marketing số."
+    }
+   ]
+  },
+  {
+   "id": "tit_video_conference",
+   "word": "video conference",
+   "pos": "noun",
+   "ipa": "/ˈvɪdioʊ ˌkɑːnfərəns/",
+   "level": "TOEIC",
+   "meaning": "họp trực tuyến qua video",
+   "definition": "a meeting held using video",
+   "collocations": [
+    "set up a video conference"
+   ],
+   "examples": [
+    {
+     "en": "We have a *video conference* with the London team at 4.",
+     "vi": "Chúng tôi họp video với đội London lúc 4 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tit_screen_sharing",
+   "word": "screen sharing",
+   "pos": "noun",
+   "ipa": "/ˈskriːn ˌʃerɪŋ/",
+   "level": "TOEIC",
+   "meaning": "chia sẻ màn hình",
+   "definition": "showing your screen to others online",
+   "collocations": [
+    "turn on screen sharing"
+   ],
+   "examples": [
+    {
+     "en": "Turn on *screen sharing* so we can see your slides.",
+     "vi": "Bật chia sẻ màn hình để chúng tôi xem slide của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tit_mute",
+   "word": "mute",
+   "pos": "verb",
+   "ipa": "/mjuːt/",
+   "level": "TOEIC",
+   "meaning": "tắt tiếng",
+   "definition": "to turn off the sound",
+   "collocations": [
+    "mute your microphone"
+   ],
+   "examples": [
+    {
+     "en": "Please *mute* your microphone when you're not speaking.",
+     "vi": "Vui lòng tắt micro khi không nói."
+    }
+   ]
+  },
+  {
+   "id": "tit_digitize",
+   "word": "digitize",
+   "pos": "verb",
+   "ipa": "/ˈdɪdʒɪtaɪz/",
+   "level": "TOEIC",
+   "meaning": "số hóa",
+   "definition": "to change into digital form",
+   "collocations": [
+    "digitize records"
+   ],
+   "examples": [
+    {
+     "en": "We are *digitizing* all our paper records.",
+     "vi": "Chúng tôi đang số hóa toàn bộ hồ sơ giấy."
+    }
+   ]
+  },
+  {
+   "id": "tit_automate",
+   "word": "automate",
+   "pos": "verb",
+   "ipa": "/ˈɔːtəmeɪt/",
+   "level": "TOEIC",
+   "meaning": "tự động hóa",
+   "definition": "to make a process work automatically",
+   "collocations": [
+    "automate tasks"
+   ],
+   "examples": [
+    {
+     "en": "The new software *automates* billing.",
+     "vi": "Phần mềm mới tự động hóa việc lập hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "tit_automation",
+   "word": "automation",
+   "pos": "noun",
+   "ipa": "/ˌɔːtəˈmeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự tự động hóa",
+   "definition": "using machines to do work automatically",
+   "collocations": [
+    "factory automation"
+   ],
+   "examples": [
+    {
+     "en": "*Automation* has reduced production costs.",
+     "vi": "Tự động hóa đã giảm chi phí sản xuất."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

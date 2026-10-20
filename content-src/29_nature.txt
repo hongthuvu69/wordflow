@@ -1,0 +1,55 @@
+#id: nature
+#prefix: nat
+#order: 29
+#icon: 🌿
+#title: Nature & the Environment
+#title_vi: Thiên nhiên & Môi trường
+#desc: Hệ sinh thái, khí thải, năng lượng tái tạo, địa hình, động thực vật: bổ sung cho chủ đề Môi trường B1.
+environmental | adjective | /ɪnˌvaɪrənˈmentl/ | thuộc môi trường | connected with the natural world | environmental damage; environmental protection | The factory must reduce its *environmental* impact. | Nhà máy phải giảm tác động tới môi trường.
+ecosystem | noun | /ˈiːkoʊsɪstəm/ | hệ sinh thái | all the living things in an area and their environment | protect the ecosystem; marine ecosystem | Plastic waste damages ocean *ecosystems*. | Rác thải nhựa phá hủy hệ sinh thái đại dương.
+habitat | noun | /ˈhæbɪtæt/ | môi trường sống | the natural home of an animal or plant | natural habitat; loss of habitat | Many animals are losing their natural *habitat*. | Nhiều loài động vật đang mất môi trường sống tự nhiên.
+species | noun | /ˈspiːʃiːz/ | loài | a group of animals or plants of the same type | endangered species; rare species | The forest is home to many rare *species*. | Khu rừng là nhà của nhiều loài quý hiếm. | Số ít và số nhiều giống nhau.
+wildlife | noun | /ˈwaɪldlaɪf/ | động vật hoang dã | animals and plants living in nature | protect wildlife; wildlife park | The park is full of *wildlife*. | Công viên có rất nhiều động vật hoang dã.
+conservation | noun | /ˌkɑːnsərˈveɪʃn/ | sự bảo tồn | the protection of nature | wildlife conservation; energy conservation | The money will go to forest *conservation*. | Số tiền sẽ dành cho bảo tồn rừng.
+preserve | verb | /prɪˈzɜːrv/ | bảo tồn, giữ gìn | to keep something in its original state | preserve the environment; preserve tradition | The old town has been carefully *preserved*. | Phố cổ được bảo tồn cẩn thận.
+emission | noun | /iˈmɪʃn/ | khí thải | gas sent into the air | carbon emissions; reduce emissions | New cars must produce lower *emissions*. | Xe mới phải thải ít khí hơn.
+greenhouse | noun | /ˈɡriːnhaʊs/ | nhà kính | a glass building for growing plants | greenhouse gases; greenhouse effect | *Greenhouse* gases cause global warming. | Khí nhà kính gây ra hiện tượng ấm lên toàn cầu.
+warming | noun | /ˈwɔːrmɪŋ/ | sự ấm lên | the process of becoming warmer | global warming | Global *warming* is melting the ice at the poles. | Sự ấm lên toàn cầu đang làm tan băng ở hai cực.
+renewable | adjective | /rɪˈnuːəbl/ | có thể tái tạo | that can be replaced naturally | renewable energy; renewable resources | The factory uses only *renewable* energy. | Nhà máy chỉ dùng năng lượng tái tạo. | Nghĩa khác: renewable contract = hợp đồng có thể gia hạn.
+organic | adjective | /ɔːrˈɡænɪk/ | hữu cơ | grown without chemicals | organic food; organic farming | This shop sells only *organic* vegetables. | Cửa hàng này chỉ bán rau hữu cơ.
+agriculture | noun | /ˈæɡrɪkʌltʃər/ | nông nghiệp | farming | modern agriculture; work in agriculture | *Agriculture* is still important to the economy. | Nông nghiệp vẫn quan trọng đối với nền kinh tế.
+crop | noun | /krɑːp/ | cây trồng; vụ mùa | a plant grown for food; the amount harvested | grow crops; a good crop | Rice is the main *crop* in this region. | Lúa là cây trồng chính của vùng này.
+soil | noun | /sɔɪl/ | đất (trồng) | the top layer of earth where plants grow | rich soil; soil quality | The *soil* here is good for growing coffee. | Đất ở đây tốt cho trồng cà phê.
+seed | noun | /siːd/ | hạt giống | a small part of a plant from which a new plant grows | plant seeds; sunflower seeds | Plant the *seeds* in spring. | Gieo hạt vào mùa xuân.
+grain | noun | /ɡreɪn/ | ngũ cốc; hạt | seeds of plants like rice and wheat; a small piece | whole grains; a grain of sand | Brown rice is a whole *grain*. | Gạo lứt là ngũ cốc nguyên hạt.
+wheat | noun | /wiːt/ | lúa mì | a plant used to make flour | wheat flour; wheat field | Bread is made from *wheat* flour. | Bánh mì làm từ bột mì.
+dairy | adjective | /ˈderi/ | thuộc sữa | made from milk | dairy products; dairy farm | Cheese and yogurt are *dairy* products. | Phô mai và sữa chua là sản phẩm từ sữa.
+herb | noun | /ɜːrb/ | thảo mộc, rau thơm | a plant used in cooking or medicine | fresh herbs; herb garden | Add some fresh *herbs* to the soup. | Thêm ít rau thơm vào món canh. | Anh-Mỹ: h câm /ɜːrb/.
+bush | noun | /bʊʃ/ | bụi cây | a plant like a small tree | rose bush; behind a bush | The cat is hiding behind the *bush*. | Con mèo trốn sau bụi cây.
+leaf | noun | /liːf/ | lá cây | a flat green part of a plant | fallen leaves; tea leaves | The *leaves* turn red in autumn. | Lá chuyển đỏ vào mùa thu. | Số nhiều: leaves.
+root | noun | /ruːt/ | rễ; nguồn gốc | the part of a plant under the ground; the origin | the root cause; tree roots | We need to find the *root* cause of the problem. | Chúng ta cần tìm nguyên nhân gốc rễ của vấn đề.
+landscape | noun | /ˈlændskeɪp/ | phong cảnh | everything you can see in an area of land | beautiful landscape; mountain landscape | The *landscape* around Sapa is stunning. | Phong cảnh quanh Sa Pa thật ngoạn mục.
+cliff | noun | /klɪf/ | vách đá | a high steep rock face, often by the sea | cliff edge; walk along the cliffs | The hotel stands on top of a *cliff*. | Khách sạn nằm trên đỉnh một vách đá.
+cave | noun | /keɪv/ | hang động | a large hole in a hill or under the ground | explore a cave | Son Doong is the world's largest *cave*. | Sơn Đoòng là hang động lớn nhất thế giới.
+bay | noun | /beɪ/ | vịnh | part of the sea surrounded by land | Ha Long Bay; a sandy bay | We took a boat trip around Ha Long *Bay*. | Chúng tôi đi thuyền quanh vịnh Hạ Long.
+shore | noun | /ʃɔːr/ | bờ biển, bờ hồ | the land along the edge of the sea or a lake | on the shore; along the shore | We walked along the *shore* at sunset. | Chúng tôi đi dạo dọc bờ biển lúc hoàng hôn.
+desert | noun | /ˈdezərt/ | sa mạc | a large dry area with few plants | the Sahara Desert; desert island | It hardly ever rains in the *desert*. | Ở sa mạc hầu như không bao giờ mưa.
+stream | noun | /striːm/ | dòng suối; luồng | a small river; a continuous flow | mountain stream; a stream of customers | A *stream* of customers came in all morning. | Khách hàng ra vào liên tục cả buổi sáng.
+mud | noun | /mʌd/ | bùn | wet soft earth | covered in mud | The car got stuck in the *mud*. | Chiếc xe bị sa lầy trong bùn.
+sand | noun | /sænd/ | cát | tiny pieces of rock on beaches | white sand; sand castle | The beach has fine white *sand*. | Bãi biển có cát trắng mịn.
+dust | noun | /dʌst/ | bụi | dry powder of dirt | covered in dust; dust mask | The old books were covered in *dust*. | Những cuốn sách cũ phủ đầy bụi.
+dirt | noun | /dɜːrt/ | bụi bẩn, đất | earth or dust that makes things dirty | dirt road; covered in dirt | Wipe the *dirt* off your shoes before entering. | Lau sạch đất ở giày trước khi vào.
+steam | noun | /stiːm/ | hơi nước | the gas produced when water boils | steam engine; steam rising | *Steam* rose from the hot soup. | Hơi nóng bốc lên từ bát canh.
+flame | noun | /fleɪm/ | ngọn lửa | the bright burning gas of a fire | in flames; candle flame | The building was in *flames* when firefighters arrived. | Tòa nhà đang bốc cháy khi lính cứu hỏa đến.
+tropical | adjective | /ˈtrɑːpɪkl/ | nhiệt đới | from the hot parts of the world | tropical fruit; tropical climate | Vietnam has a *tropical* climate. | Việt Nam có khí hậu nhiệt đới.
+creature | noun | /ˈkriːtʃər/ | sinh vật | a living thing, especially an animal | sea creatures; living creatures | The aquarium has many strange sea *creatures*. | Thủy cung có nhiều sinh vật biển kỳ lạ.
+bee | noun | /biː/ | con ong | a flying insect that makes honey | busy as a bee; bee sting | *Bees* are important for growing crops. | Ong rất quan trọng cho việc trồng trọt.
+worm | noun | /wɜːrm/ | con giun | a long thin animal with no legs | earthworm | Birds were looking for *worms* in the grass. | Chim đang tìm giun trên cỏ.
+feather | noun | /ˈfeðər/ | lông vũ | one of the soft parts covering a bird | as light as a feather | The pillow is filled with *feathers*. | Chiếc gối được nhồi lông vũ.
+tail | noun | /teɪl/ | cái đuôi | the part at the end of an animal's body | wag its tail | The dog wagged its *tail* happily. | Con chó vẫy đuôi vui vẻ.
+wing | noun | /wɪŋ/ | cánh; dãy nhà | the part used for flying; a part of a building | bird wings; the east wing | The meeting room is in the west *wing*. | Phòng họp nằm ở dãy nhà phía tây.
+shell | noun | /ʃel/ | vỏ (ốc, trứng, hạt) | the hard outer part of an egg, nut or sea animal | sea shells; egg shell | The children collected *shells* on the beach. | Bọn trẻ nhặt vỏ ốc trên bãi biển.
+hunt | verb | /hʌnt/ | săn bắt; tìm kiếm | to chase and kill animals; to search hard | hunt for; job hunting | I've been *hunting* for a new flat for weeks. | Tôi đã tìm căn hộ mới mấy tuần nay.
+hunting | noun | /ˈhʌntɪŋ/ | việc săn bắn; việc tìm kiếm | the activity of hunting | job hunting; go hunting | Job *hunting* can be stressful. | Tìm việc có thể rất căng thẳng.
+fossil | noun | /ˈfɑːsl/ | hóa thạch | the remains of an ancient animal or plant in rock | fossil fuels | We need to use fewer *fossil* fuels. | Chúng ta cần dùng ít nhiên liệu hóa thạch hơn.
+coal | noun | /koʊl/ | than đá | a black rock burned for energy | coal mine; coal power | Many power stations still burn *coal*. | Nhiều nhà máy điện vẫn đốt than.

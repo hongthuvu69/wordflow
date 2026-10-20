@@ -1,0 +1,62 @@
+#id: society
+#prefix: soc
+#order: 28
+#icon: 🏘️
+#title: Society & Community
+#title_vi: Xã hội & Cộng đồng
+#desc: Dân cư, đô thị – nông thôn, thế hệ, từ thiện, bình đẳng, các mối quan hệ: chủ đề quen thuộc của IELTS và bài đọc TOEIC.
+community | noun | /kəˈmjuːnəti/ | cộng đồng | the people living in one area or sharing interests | local community; community centre | The company supports the local *community*. | Công ty hỗ trợ cộng đồng địa phương.
+resident | noun | /ˈrezɪdənt/ | cư dân | a person who lives in a place | local residents; residents only | Parking is for *residents* only. | Bãi đỗ xe chỉ dành cho cư dân.
+inhabitant | noun | /ɪnˈhæbɪtənt/ | cư dân, người sống ở | a person or animal living in a place | the inhabitants of the island | The island has only 300 *inhabitants*. | Hòn đảo chỉ có 300 cư dân.
+population | noun | /ˌpɑːpjuˈleɪʃn/ | dân số | the number of people living in a place | growing population; population of | The city's *population* has doubled in 20 years. | Dân số thành phố tăng gấp đôi trong 20 năm.
+urban | adjective | /ˈɜːrbən/ | thuộc đô thị | connected with a town or city | urban areas; urban development | More people now live in *urban* areas. | Ngày càng nhiều người sống ở khu đô thị.
+rural | adjective | /ˈrʊrəl/ | thuộc nông thôn | connected with the countryside | rural areas; rural life | Internet access is still limited in *rural* areas. | Truy cập internet vẫn hạn chế ở vùng nông thôn.
+suburb | noun | /ˈsʌbɜːrb/ | ngoại ô | an area where people live outside the city centre | live in the suburbs | They moved to a quiet *suburb*. | Họ chuyển về một vùng ngoại ô yên tĩnh.
+neighbourhood | noun | /ˈneɪbərhʊd/ | khu dân cư, vùng lân cận | a district of a town | a quiet neighbourhood; in the neighbourhood | Is there a good restaurant in the *neighbourhood*? | Gần đây có nhà hàng nào ngon không? | Anh-Mỹ: neighborhood.
+district | noun | /ˈdɪstrɪkt/ | quận, khu vực | an area of a country or city | business district; District 1 | Our office is in the business *district*. | Văn phòng của chúng tôi ở khu thương mại.
+downtown | adverb | /ˌdaʊnˈtaʊn/ | ở trung tâm thành phố | in or to the centre of a city | go downtown; downtown area | Let's meet *downtown* after work. | Tan làm mình gặp nhau ở trung tâm nhé.
+countryside | noun | /ˈkʌntrisaɪd/ | vùng quê | land outside towns and cities | in the countryside; beautiful countryside | We spent the weekend in the *countryside*. | Chúng tôi nghỉ cuối tuần ở vùng quê.
+housing | noun | /ˈhaʊzɪŋ/ | nhà ở | houses and flats for people to live in | affordable housing; housing market | The city needs more cheap *housing*. | Thành phố cần thêm nhà ở giá rẻ.
+household | noun | /ˈhaʊshoʊld/ | hộ gia đình | all the people living in one house | household items; household chores | Most *households* now have internet access. | Hầu hết hộ gia đình giờ có internet.
+homeless | adjective | /ˈhoʊmləs/ | vô gia cư | having no home | homeless people; the homeless | The charity provides meals for *homeless* people. | Tổ chức từ thiện cung cấp bữa ăn cho người vô gia cư.
+infrastructure | noun | /ˈɪnfrəstrʌktʃər/ | cơ sở hạ tầng | basic systems like roads, power and water | transport infrastructure; invest in infrastructure | The government is investing in *infrastructure*. | Chính phủ đang đầu tư vào cơ sở hạ tầng.
+facility | noun | /fəˈsɪləti/ | cơ sở vật chất, tiện nghi | a building or equipment for a purpose | sports facilities; production facility | The hotel has excellent *facilities*. | Khách sạn có cơ sở vật chất tuyệt vời.
+generation | noun | /ˌdʒenəˈreɪʃn/ | thế hệ | people born around the same time | the younger generation; for generations | The restaurant has been run by the same family for three *generations*. | Nhà hàng do cùng một gia đình điều hành qua ba thế hệ.
+elderly | adjective | /ˈeldərli/ | cao tuổi | old (polite word) | elderly people; elderly parents | Please give your seat to *elderly* passengers. | Vui lòng nhường ghế cho hành khách cao tuổi.
+youth | noun | /juːθ/ | tuổi trẻ; thanh niên | the time when you are young; young people | in my youth; youth club | He played football in his *youth*. | Thời trẻ ông ấy chơi bóng đá.
+teens | noun | /tiːnz/ | tuổi thiếu niên (13–19) | the age between 13 and 19 | in her teens; early teens | She started working in her *teens*. | Cô ấy bắt đầu đi làm từ tuổi thiếu niên.
+childhood | noun | /ˈtʃaɪldhʊd/ | thời thơ ấu | the time when you are a child | in childhood; childhood memories | I spent my *childhood* in a small village. | Tôi trải qua tuổi thơ ở một ngôi làng nhỏ.
+aged | adjective | /eɪdʒd/ | ở độ tuổi | of a particular age | aged 18 to 25; children aged 5 | The course is for students *aged* 16 and over. | Khóa học dành cho học viên từ 16 tuổi trở lên.
+citizen | noun | /ˈsɪtɪzn/ | công dân | a person who belongs to a country or city | a Vietnamese citizen; senior citizens | Senior *citizens* get a discount on tickets. | Người cao tuổi được giảm giá vé.
+civil | adjective | /ˈsɪvl/ | dân sự; lịch sự | connected with ordinary citizens; polite | civil rights; civil engineer; civil servant | He works as a *civil* engineer. | Anh ấy là kỹ sư xây dựng dân dụng.
+immigrant | noun | /ˈɪmɪɡrənt/ | người nhập cư | a person who comes to live in another country | illegal immigrants; immigrant workers | Many *immigrants* work in the restaurant industry. | Nhiều người nhập cư làm trong ngành nhà hàng.
+immigration | noun | /ˌɪmɪˈɡreɪʃn/ | sự nhập cư; cửa nhập cảnh | coming to live in another country; passport control | go through immigration; immigration policy | It took an hour to get through *immigration*. | Mất một tiếng để qua cửa nhập cảnh.
+refugee | noun | /ˌrefjuˈdʒiː/ | người tị nạn | a person who has left their country because of danger | refugee camp | Thousands of *refugees* crossed the border. | Hàng nghìn người tị nạn đã vượt biên giới.
+ethnic | adjective | /ˈeθnɪk/ | thuộc dân tộc | connected with a group sharing culture or origin | ethnic minority; ethnic groups | Vietnam has 54 *ethnic* groups. | Việt Nam có 54 dân tộc.
+racial | adjective | /ˈreɪʃl/ | thuộc chủng tộc | connected with race | racial discrimination; racial equality | The law bans *racial* discrimination. | Luật cấm phân biệt chủng tộc.
+racism | noun | /ˈreɪsɪzəm/ | sự phân biệt chủng tộc | unfair treatment of people because of their race | fight racism | The campaign aims to fight *racism* in sport. | Chiến dịch nhằm chống phân biệt chủng tộc trong thể thao.
+racist | adjective | /ˈreɪsɪst/ | phân biệt chủng tộc | treating people unfairly because of race | racist comments | *Racist* comments are not acceptable. | Những lời phân biệt chủng tộc là không thể chấp nhận.
+gender | noun | /ˈdʒendər/ | giới tính | being male or female | gender equality; gender gap | The company is working to close the *gender* pay gap. | Công ty đang thu hẹp khoảng cách lương giữa nam và nữ.
+equal | adjective | /ˈiːkwəl/ | bình đẳng; bằng nhau | the same in size or value; having the same rights | equal opportunities; equal pay | Men and women should get *equal* pay. | Nam và nữ nên được trả lương ngang nhau.
+equally | adverb | /ˈiːkwəli/ | như nhau | in the same way; to the same degree | equally important; share equally | Both factors are *equally* important. | Cả hai yếu tố đều quan trọng như nhau.
+diversity | noun | /daɪˈvɜːrsəti/ | sự đa dạng | a range of different people or things | cultural diversity; promote diversity | We value *diversity* in our workplace. | Chúng tôi coi trọng sự đa dạng tại nơi làm việc.
+diverse | adjective | /daɪˈvɜːrs/ | đa dạng | very different from each other | a diverse team; diverse range | Our team is very *diverse*. | Đội của chúng tôi rất đa dạng.
+donate | verb | /ˈdoʊneɪt/ | quyên góp | to give money or goods to help people | donate to charity; donate blood | Staff *donated* clothes to the local shelter. | Nhân viên quyên góp quần áo cho nhà tạm trú địa phương.
+donation | noun | /doʊˈneɪʃn/ | khoản quyên góp | money or goods given to help | make a donation; accept donations | All *donations* go to the children's hospital. | Mọi khoản quyên góp đều dành cho bệnh viện nhi.
+voluntary | adjective | /ˈvɑːlənteri/ | tự nguyện | done willingly without being forced or paid | voluntary work; voluntary basis | Attendance at the event is *voluntary*. | Việc tham dự sự kiện là tự nguyện.
+charity | noun | /ˈtʃærəti/ | tổ chức từ thiện | an organization that helps people in need | raise money for charity; charity event | The run raised $10,000 for *charity*. | Cuộc chạy quyên góp được 10.000 đô cho từ thiện.
+marriage | noun | /ˈmærɪdʒ/ | hôn nhân | the relationship between a married couple | a happy marriage; arranged marriage | They have had a long and happy *marriage*. | Họ có cuộc hôn nhân lâu dài và hạnh phúc.
+bride | noun | /braɪd/ | cô dâu | a woman on her wedding day | the bride and groom | The *bride* looked beautiful. | Cô dâu trông thật xinh đẹp.
+divorce | noun | /dɪˈvɔːrs/ | sự ly hôn | the legal ending of a marriage | get a divorce; end in divorce | Her parents got a *divorce* when she was ten. | Bố mẹ cô ấy ly hôn khi cô mười tuổi.
+sibling | noun | /ˈsɪblɪŋ/ | anh chị em ruột | a brother or sister | How many siblings do you have? | I have two *siblings*: a brother and a sister. | Tôi có hai anh chị em: một anh trai và một chị gái.
+relative | noun | /ˈrelətɪv/ | họ hàng | a member of your family | close relatives; visit relatives | We visit our *relatives* during Tet. | Chúng tôi đi thăm họ hàng dịp Tết.
+relation | noun | /rɪˈleɪʃn/ | mối quan hệ | the way people or things are connected | business relations; in relation to | The two companies have good *relations*. | Hai công ty có quan hệ tốt.
+friendship | noun | /ˈfrendʃɪp/ | tình bạn | a relationship between friends | a close friendship; build friendships | Their *friendship* started at university. | Tình bạn của họ bắt đầu từ thời đại học.
+peer | noun | /pɪr/ | người đồng trang lứa, đồng nghiệp ngang cấp | a person of the same age or position | peer pressure; peer review | She is highly respected by her *peers*. | Cô ấy rất được đồng nghiệp ngang cấp tôn trọng. | peer pressure = áp lực từ bạn bè đồng trang lứa.
+fellow | adjective | /ˈfeloʊ/ | đồng (nghiệp), cùng cảnh | used about people in the same situation | fellow workers; fellow passengers | She thanked her *fellow* workers for their help. | Cô ấy cảm ơn các đồng nghiệp đã giúp đỡ.
+mate | noun | /meɪt/ | bạn (thân mật) | a friend | best mate; flatmate | I'm going for a drink with my *mates*. | Tôi đi uống nước với mấy đứa bạn.
+stranger | noun | /ˈstreɪndʒər/ | người lạ | a person you do not know | a complete stranger; talk to strangers | A *stranger* helped me find the station. | Một người lạ giúp tôi tìm nhà ga.
+host | noun | /hoʊst/ | chủ nhà; người dẫn chương trình | a person who invites guests; a presenter | host family; TV host | The *host* welcomed us warmly. | Chủ nhà chào đón chúng tôi nồng hậu. | Động từ: host an event = tổ chức sự kiện.
+gather | verb | /ˈɡæðər/ | tụ tập; thu thập | to come together; to collect | gather information; gather around | Please *gather* in the lobby at 8 a.m. | Vui lòng tập trung ở sảnh lúc 8 giờ sáng.
+custom | noun | /ˈkʌstəm/ | phong tục | a traditional way of doing something | local customs; it is the custom to | It's a local *custom* to remove your shoes indoors. | Cởi giày khi vào nhà là phong tục địa phương. | customs (số nhiều) = hải quan.
+norm | noun | /nɔːrm/ | chuẩn mực; điều bình thường | a usual or expected way of behaving | social norms; become the norm | Working from home has become the *norm*. | Làm việc tại nhà đã trở thành điều bình thường.

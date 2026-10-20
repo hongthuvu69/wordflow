@@ -1,0 +1,55 @@
+#id: sport
+#prefix: spo
+#order: 32
+#icon: ⚽
+#title: Sport & Leisure
+#title_vi: Thể thao & Giải trí
+#desc: Giải đấu, tập luyện, sân vận động, hoạt động ngoài trời: chủ đề hay gặp trong quảng cáo và hội thoại cuối tuần.
+championship | noun | /ˈtʃæmpiənʃɪp/ | giải vô địch | a competition to find the best player or team | world championship; win the championship | The team won the national *championship*. | Đội đã giành chức vô địch quốc gia.
+champion | noun | /ˈtʃæmpiən/ | nhà vô địch | the winner of a competition | world champion; reigning champion | She is a former world *champion*. | Cô ấy là cựu vô địch thế giới.
+tournament | noun | /ˈtʊrnəmənt/ | giải đấu | a series of games to find the winner | tennis tournament; host a tournament | The company sponsors a golf *tournament*. | Công ty tài trợ một giải đấu golf.
+league | noun | /liːɡ/ | giải đấu; liên đoàn | a group of teams that play against each other | Premier League; top of the league | Our team is at the top of the *league*. | Đội của chúng tôi đứng đầu bảng.
+contest | noun | /ˈkɑːntest/ | cuộc thi | a competition | enter a contest; photo contest | Enter our photo *contest* to win a free trip. | Tham gia cuộc thi ảnh để giành chuyến du lịch miễn phí.
+victory | noun | /ˈvɪktəri/ | chiến thắng | success in a game or war | win a victory; a 3–0 victory | The team celebrated its *victory*. | Đội ăn mừng chiến thắng.
+defeat | verb | /dɪˈfiːt/ | đánh bại | to win against someone | defeat the champion; be defeated | They *defeated* last year's champions. | Họ đánh bại nhà vô địch năm ngoái.
+beat | verb | /biːt/ | đánh bại; đập | to defeat; to hit repeatedly | beat a record; beat the competition | We *beat* our sales record this month. | Chúng tôi phá kỷ lục doanh số tháng này.
+opponent | noun | /əˈpoʊnənt/ | đối thủ | a person you compete against | a strong opponent; face an opponent | She shook hands with her *opponent*. | Cô ấy bắt tay đối thủ.
+coach | noun | /koʊtʃ/ | huấn luyện viên; xe khách | a person who trains a team; a comfortable bus | football coach; travel by coach | The *coach* told the players to rest. | Huấn luyện viên bảo các cầu thủ nghỉ ngơi.
+referee | noun | /ˌrefəˈriː/ | trọng tài | a person who controls a game | the referee blew the whistle | The *referee* stopped the match because of rain. | Trọng tài dừng trận đấu vì mưa.
+spectator | noun | /ˈspekteɪtər/ | khán giả (thể thao) | a person who watches a sports event | thousands of spectators | Over 40,000 *spectators* watched the final. | Hơn 40.000 khán giả theo dõi trận chung kết.
+stadium | noun | /ˈsteɪdiəm/ | sân vận động | a large sports ground with seats | football stadium; national stadium | The concert will be held at the national *stadium*. | Buổi hòa nhạc sẽ diễn ra tại sân vận động quốc gia.
+medal | noun | /ˈmedl/ | huy chương | a metal disc given as a prize | gold medal; win a medal | She won a gold *medal* at the Asian Games. | Cô ấy giành huy chương vàng tại Asian Games.
+marathon | noun | /ˈmærəθɑːn/ | cuộc chạy marathon | a running race of about 42 km | run a marathon; half marathon | He ran his first *marathon* last year. | Anh ấy chạy marathon đầu tiên năm ngoái.
+racing | noun | /ˈreɪsɪŋ/ | đua (xe, ngựa) | the sport of racing | car racing; racing driver | He loves watching motor *racing*. | Anh ấy thích xem đua xe.
+sporting | adjective | /ˈspɔːrtɪŋ/ | thuộc thể thao | connected with sport | sporting event; sporting goods | The city hosts many big *sporting* events. | Thành phố tổ chức nhiều sự kiện thể thao lớn.
+rugby | noun | /ˈrʌɡbi/ | bóng bầu dục | a game played with an oval ball | play rugby; rugby team | *Rugby* is very popular in New Zealand. | Bóng bầu dục rất phổ biến ở New Zealand.
+bat | noun | /bæt/ | cây gậy (bóng chày); con dơi | a piece of wood for hitting a ball; a flying animal | baseball bat | He hit the ball with the *bat*. | Anh ấy đánh bóng bằng gậy.
+kick | verb | /kɪk/ | đá | to hit with your foot | kick the ball; kick off | The meeting will *kick off* at 9 a.m. | Cuộc họp sẽ bắt đầu lúc 9 giờ sáng. | kick off = bắt đầu (văn nói).
+shot | noun | /ʃɑːt/ | cú sút; phát súng; tấm ảnh | an attempt to score; the firing of a gun; a photo | take a shot; a great shot | That's a great *shot* of the sunset. | Đó là một tấm ảnh hoàng hôn tuyệt đẹp.
+pitch | noun | /pɪtʃ/ | sân cỏ; bài chào hàng | a field for sport; a talk to sell something | football pitch; sales pitch | She gave a great sales *pitch* to the client. | Cô ấy có bài chào hàng xuất sắc với khách.
+swim | verb | /swɪm/ | bơi | to move through water | go swimming; swimming pool | The hotel guests can *swim* in the rooftop pool. | Khách khách sạn có thể bơi ở hồ trên sân thượng.
+dive | verb | /daɪv/ | lặn; nhảy xuống nước | to jump into water head first; to swim underwater | scuba diving; dive into | We went *diving* near Nha Trang. | Chúng tôi đi lặn gần Nha Trang.
+climb | verb | /klaɪm/ | leo | to go up something using hands and feet | climb a mountain; climb the stairs | They *climbed* Fansipan last summer. | Họ leo Fansipan mùa hè năm ngoái.
+outdoor | adjective | /ˈaʊtdɔːr/ | ngoài trời | happening outside | outdoor activities; outdoor seating | The restaurant has *outdoor* seating. | Nhà hàng có chỗ ngồi ngoài trời.
+outdoors | adverb | /ˌaʊtˈdɔːrz/ | ở ngoài trời | outside a building | eat outdoors; spend time outdoors | The concert will be held *outdoors* if it doesn't rain. | Buổi hòa nhạc sẽ tổ chức ngoài trời nếu không mưa.
+indoor | adjective | /ˈɪndɔːr/ | trong nhà | happening inside a building | indoor pool; indoor activities | The hotel has an *indoor* swimming pool. | Khách sạn có hồ bơi trong nhà.
+indoors | adverb | /ˌɪnˈdɔːrz/ | ở trong nhà | inside a building | stay indoors; go indoors | Stay *indoors* during the storm. | Hãy ở trong nhà khi có bão.
+leisure | noun | /ˈliːʒər/ | thời gian rảnh, giải trí | time when you are not working | leisure time; leisure centre; leisure activities | What do you do in your *leisure* time? | Bạn làm gì lúc rảnh rỗi?
+tent | noun | /tent/ | cái lều | a shelter made of cloth for camping | put up a tent; camp in a tent | We put up our *tent* near the lake. | Chúng tôi dựng lều gần hồ.
+puzzle | noun | /ˈpʌzl/ | câu đố; trò ghép hình | a game that tests your thinking; a mystery | jigsaw puzzle; crossword puzzle | It's a *puzzle* why sales dropped. | Thật khó hiểu tại sao doanh số giảm.
+balloon | noun | /bəˈluːn/ | bóng bay | a rubber bag filled with air | blow up a balloon; hot-air balloon | We decorated the room with *balloons*. | Chúng tôi trang trí phòng bằng bóng bay.
+toy | noun | /tɔɪ/ | đồ chơi | an object for children to play with | toy store; soft toys | The *toy* store is on the second floor. | Cửa hàng đồ chơi ở tầng hai.
+fitness centre | noun | /ˈfɪtnəs ˌsentər/ | trung tâm thể dục | a place with equipment for exercise | join a fitness centre | Membership includes use of the *fitness centre*. | Thẻ hội viên bao gồm quyền dùng trung tâm thể dục.
+membership | noun | /ˈmembərʃɪp/ | tư cách hội viên | being a member of a club or group | membership card; annual membership | Your *membership* expires next month. | Thẻ hội viên của bạn hết hạn vào tháng tới.
+gym | noun | /dʒɪm/ | phòng tập thể hình | a place with equipment for exercise | go to the gym; work out at the gym | I go to the *gym* three times a week. | Tôi đi tập gym ba lần một tuần.
+athlete | noun | /ˈæθliːt/ | vận động viên | a person who is good at sport | a professional athlete | Top *athletes* train for hours every day. | Vận động viên hàng đầu tập luyện hàng giờ mỗi ngày.
+stretch | verb | /stretʃ/ | duỗi, kéo giãn | to make your body longer to loosen muscles | stretch your legs; stretch before running | Always *stretch* before you exercise. | Luôn khởi động giãn cơ trước khi tập.
+pace | noun | /peɪs/ | tốc độ, nhịp độ | the speed at which something happens | at a fast pace; keep pace with | Work at your own *pace*. | Làm việc theo tốc độ của riêng bạn.
+speed | noun | /spiːd/ | tốc độ | how fast something moves | at high speed; speed limit | The *speed* limit here is 50 km/h. | Giới hạn tốc độ ở đây là 50 km/h.
+strength | noun | /streŋθ/ | sức mạnh; điểm mạnh | physical power; a good quality | strengths and weaknesses; build strength | What are your greatest *strengths*? | Điểm mạnh lớn nhất của bạn là gì? | Câu hỏi phỏng vấn kinh điển.
+strengthen | verb | /ˈstreŋθn/ | củng cố, làm mạnh thêm | to make stronger | strengthen relationships; strengthen muscles | The deal will *strengthen* our position in Asia. | Thỏa thuận sẽ củng cố vị thế của chúng tôi ở châu Á.
+win | verb | /wɪn/ | thắng; giành được | to be the best in a competition; to get something | win a prize; win a contract | We *won* the contract against three other firms. | Chúng tôi giành được hợp đồng trước ba công ty khác.
+score | verb | /skɔːr/ | ghi bàn; đạt điểm | to get a goal or point; to get a result in a test | score a goal; score 800 on TOEIC | She *scored* 850 on the TOEIC test. | Cô ấy đạt 850 điểm TOEIC.
+record | noun | /ˈrekərd/ | kỷ lục; hồ sơ | the best result ever; written information | break a record; keep records | Sales reached a *record* high this year. | Doanh số đạt mức kỷ lục năm nay.
+cycling | noun | /ˈsaɪklɪŋ/ | đạp xe | riding a bicycle | go cycling; cycling route | *Cycling* to work is good for your health. | Đạp xe đi làm tốt cho sức khỏe.
+hiking | noun | /ˈhaɪkɪŋ/ | đi bộ đường dài | walking long distances in the countryside | go hiking; hiking boots | We went *hiking* in the mountains. | Chúng tôi đi bộ đường dài trên núi.

@@ -1,0 +1,52 @@
+#id: safety
+#prefix: saf
+#order: 35
+#icon: 🚨
+#title: Safety & Emergencies
+#title_vi: An toàn & Khẩn cấp
+#desc: Thiên tai, cháy nổ, cảnh báo, sơ tán, sự cố: rất hay gặp trong thông báo Part 4 và nội quy tòa nhà.
+safety | noun | /ˈseɪfti/ | sự an toàn | the state of being safe | safety rules; for your safety; safety equipment | For your *safety*, please hold the handrail. | Vì sự an toàn của bạn, vui lòng vịn tay vịn.
+alarm | noun | /əˈlɑːrm/ | chuông báo động | a device that warns of danger | fire alarm; set the alarm; false alarm | The fire *alarm* will be tested at 10 a.m. | Chuông báo cháy sẽ được kiểm tra lúc 10 giờ sáng.
+warn | verb | /wɔːrn/ | cảnh báo | to tell someone about possible danger | warn someone about; warn that | Forecasters *warned* that the storm could be strong. | Nhà dự báo cảnh báo cơn bão có thể mạnh.
+warning | noun | /ˈwɔːrnɪŋ/ | lời cảnh báo | a statement about possible danger | without warning; warning sign; storm warning | A storm *warning* has been issued for the coast. | Cảnh báo bão đã được ban bố cho vùng ven biển.
+fire | noun | /ˈfaɪər/ | đám cháy | flames that burn and destroy | catch fire; fire exit; fire drill | There will be a *fire* drill on Thursday. | Sẽ có diễn tập phòng cháy vào thứ Năm.
+firefighter | noun | /ˈfaɪərfaɪtər/ | lính cứu hỏa | a person whose job is to stop fires | firefighters arrived | *Firefighters* put out the fire quickly. | Lính cứu hỏa dập tắt đám cháy nhanh chóng.
+burn | verb | /bɜːrn/ | cháy; làm bỏng | to be on fire; to damage with heat | burn down; burn your hand | The old factory *burned* down last year. | Nhà máy cũ bị thiêu rụi năm ngoái.
+exit | noun | /ˈeksɪt/ | lối ra | a way out of a building | emergency exit; fire exit | Please keep the emergency *exits* clear. | Vui lòng giữ lối thoát hiểm thông thoáng.
+evacuate | verb | /ɪˈvækjueɪt/ | sơ tán | to move people away from danger | evacuate the building | Staff were *evacuated* after the alarm went off. | Nhân viên được sơ tán sau khi chuông báo động vang lên.
+emergency | noun | /iˈmɜːrdʒənsi/ | trường hợp khẩn cấp | a sudden dangerous situation | in an emergency; emergency number | In an *emergency*, call 115. | Trong trường hợp khẩn cấp, hãy gọi 115.
+incident | noun | /ˈɪnsɪdənt/ | sự cố, vụ việc | an event, often unpleasant | report an incident; without incident | Please report any *incident* to your supervisor. | Vui lòng báo mọi sự cố cho người giám sát.
+accident | noun | /ˈæksɪdənt/ | tai nạn | an unexpected event causing damage or injury | car accident; by accident | Nobody was hurt in the *accident*. | Không ai bị thương trong vụ tai nạn.
+accidentally | adverb | /ˌæksɪˈdentəli/ | vô tình | by chance; without meaning to | accidentally delete; accidentally break | I *accidentally* sent the e-mail to the wrong person. | Tôi vô tình gửi e-mail nhầm người.
+earthquake | noun | /ˈɜːrθkweɪk/ | động đất | a sudden shaking of the ground | a strong earthquake | The building is designed to survive *earthquakes*. | Tòa nhà được thiết kế để chịu được động đất.
+hurricane | noun | /ˈhɜːrəkeɪn/ | bão lớn (Đại Tây Dương) | a violent storm with strong winds | hurricane season | The *hurricane* forced the airport to close. | Cơn bão lớn buộc sân bay phải đóng cửa.
+tsunami | noun | /tsuːˈnɑːmi/ | sóng thần | a very large wave caused by an earthquake | tsunami warning | A *tsunami* warning was issued after the earthquake. | Cảnh báo sóng thần được ban bố sau trận động đất.
+erupt | verb | /ɪˈrʌpt/ | phun trào; bùng nổ | to throw out fire (volcano); to start suddenly | the volcano erupted; fighting erupted | The volcano *erupted* last night. | Núi lửa phun trào tối qua.
+collapse | verb | /kəˈlæps/ | sụp đổ | to fall down suddenly; to fail suddenly | the roof collapsed; the business collapsed | The old bridge *collapsed* during the flood. | Cây cầu cũ sập trong trận lũ.
+crack | noun | /kræk/ | vết nứt | a thin line where something is broken | a crack in the wall | There's a *crack* in the window. | Có một vết nứt trên cửa sổ.
+shelter | noun | /ˈʃeltər/ | nơi trú ẩn | a place that protects from bad weather or danger | take shelter; animal shelter | People took *shelter* in the school during the storm. | Người dân trú ẩn trong trường học khi có bão.
+rescue | noun | /ˈreskjuː/ | sự giải cứu | the act of saving someone | rescue team; come to the rescue | A *rescue* team arrived within an hour. | Đội cứu hộ đến trong vòng một giờ.
+panic | noun | /ˈpænɪk/ | sự hoảng loạn | sudden strong fear | in a panic; don't panic | Don't *panic*; just follow the instructions. | Đừng hoảng; hãy làm theo hướng dẫn. | Động từ: panic – panicked.
+hurry | verb | /ˈhɜːri/ | vội vàng | to do something quickly | hurry up; in a hurry | We need to *hurry*; the train leaves in five minutes. | Chúng ta phải nhanh lên, tàu chạy sau năm phút nữa.
+rush | verb | /rʌʃ/ | lao, vội vã | to move or do something very quickly | rush to; rush hour; rush order | He was *rushed* to hospital. | Anh ấy được đưa gấp đến bệnh viện. | rush hour = giờ cao điểm.
+guarantee | verb | /ˌɡærənˈtiː/ | bảo đảm | to promise something will happen | guarantee delivery; guaranteed | We *guarantee* delivery within 48 hours. | Chúng tôi bảo đảm giao hàng trong 48 giờ.
+protection | noun | /prəˈtekʃn/ | sự bảo vệ | keeping someone safe | eye protection; protection from | Wear eye *protection* when using this machine. | Đeo kính bảo hộ khi dùng máy này.
+risk assessment | noun | /rɪsk əˈsesmənt/ | đánh giá rủi ro | a check of possible dangers | carry out a risk assessment | A *risk assessment* is required for all events. | Mọi sự kiện đều phải đánh giá rủi ro.
+equip | verb | /ɪˈkwɪp/ | trang bị | to provide the tools needed | be equipped with; fully equipped | All rooms are *equipped* with air conditioning. | Tất cả phòng đều được trang bị điều hòa.
+equipment | noun | /ɪˈkwɪpmənt/ | thiết bị | the tools needed for an activity | safety equipment; office equipment | Please return all *equipment* after use. | Vui lòng trả lại mọi thiết bị sau khi dùng. | Không đếm được: a piece of equipment.
+inspect | verb | /ɪnˈspekt/ | kiểm tra, thanh tra | to look at something carefully to check it | inspect the building; be inspected | The elevators are *inspected* every month. | Thang máy được kiểm tra hằng tháng.
+inspection | noun | /ɪnˈspekʃn/ | sự kiểm tra | an official check | safety inspection; on inspection | The factory passed its safety *inspection*. | Nhà máy đã qua đợt kiểm tra an toàn.
+hazard | noun | /ˈhæzərd/ | mối nguy hiểm | something that can be dangerous | safety hazard; fire hazard | Boxes in the hallway are a fire *hazard*. | Hộp để ngoài hành lang là nguy cơ gây cháy.
+caution | noun | /ˈkɔːʃn/ | sự thận trọng | care to avoid danger | use caution; with caution; caution: wet floor | Please use *caution* when the floor is wet. | Vui lòng cẩn thận khi sàn ướt.
+slip | verb | /slɪp/ | trượt | to slide by accident | slip on the ice; slip and fall | Be careful not to *slip* on the wet floor. | Cẩn thận kẻo trượt trên sàn ướt.
+spill | verb | /spɪl/ | làm đổ, tràn | to let liquid fall out by accident | spill coffee; oil spill | I *spilled* coffee on my keyboard. | Tôi làm đổ cà phê lên bàn phím.
+leak | noun | /liːk/ | chỗ rò rỉ | a hole that lets liquid or gas escape | water leak; gas leak | There's a *leak* in the ceiling. | Trần nhà bị dột.
+smoke | noun | /smoʊk/ | khói | the grey gas from something burning | smoke alarm; no smoking | The *smoke* alarm went off in the kitchen. | Chuông báo khói kêu trong bếp.
+injury | noun | /ˈɪndʒəri/ | chấn thương | physical harm to the body | serious injury; prevent injuries | Proper lifting prevents back *injuries*. | Nâng đúng cách giúp tránh chấn thương lưng.
+first aid | noun | /ˌfɜːrst ˈeɪd/ | sơ cứu | basic medical help given immediately | first aid kit; give first aid | All supervisors are trained in *first aid*. | Mọi giám sát viên đều được huấn luyện sơ cứu.
+secure | verb | /sɪˈkjʊr/ | giữ chặt; giành được | to fix firmly; to get something after effort | secure a deal; secure the load | We finally *secured* the contract. | Cuối cùng chúng tôi đã giành được hợp đồng.
+stable | adjective | /ˈsteɪbl/ | ổn định | not likely to change or fall | stable condition; stable prices | Prices have remained *stable* this year. | Giá cả vẫn ổn định trong năm nay.
+steady | adjective | /ˈstedi/ | đều đặn; vững | developing evenly; not moving | steady growth; a steady job | The company has seen *steady* growth. | Công ty tăng trưởng đều đặn.
+steadily | adverb | /ˈstedəli/ | một cách đều đặn | gradually and evenly | increase steadily; rise steadily | Sales have increased *steadily* since March. | Doanh số tăng đều kể từ tháng Ba.
+severe | adjective | /sɪˈvɪr/ | nghiêm trọng, khắc nghiệt | very bad or serious | severe weather; severe damage | *Severe* weather is expected tomorrow. | Dự báo ngày mai thời tiết khắc nghiệt.
+severely | adverb | /sɪˈvɪrli/ | một cách nghiêm trọng | very badly | severely damaged; severely injured | The road was *severely* damaged by the flood. | Con đường bị lũ làm hư hại nghiêm trọng.

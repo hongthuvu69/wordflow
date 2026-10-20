@@ -1,0 +1,48 @@
+#id: toeic_service
+#prefix: tsv
+#order: 63
+#icon: ☎️
+#title: TOEIC: Customer Service & Phone Calls
+#title_vi: TOEIC: Chăm sóc khách hàng & Điện thoại
+#desc: Tổng đài, để lại lời nhắn, xử lý khiếu nại, xin lỗi, hỗ trợ: cụm từ dùng liên tục trong Part 2–4.
+customer service | noun | /ˌkʌstəmər ˈsɜːrvɪs/ | dịch vụ khách hàng | the help a company gives its customers | customer service representative | Please contact *customer service* for help with your order. | Vui lòng liên hệ chăm sóc khách hàng để được hỗ trợ đơn hàng.
+hotline | noun | /ˈhɑːtlaɪn/ | đường dây nóng | a phone number for quick help | customer hotline; call the hotline | Call our 24-hour *hotline* for support. | Gọi đường dây nóng 24/24 để được hỗ trợ.
+toll-free | adjective | /ˌtoʊl ˈfriː/ | miễn phí cuộc gọi | free to call | toll-free number | Call our *toll-free* number: 1800 1234. | Gọi số miễn phí của chúng tôi: 1800 1234.
+call center | noun | /ˈkɔːl ˌsentər/ | tổng đài | an office where staff answer phone calls | work in a call center | The *call center* is open from 8 a.m. to 8 p.m. | Tổng đài mở cửa từ 8 giờ sáng đến 8 giờ tối.
+agent | noun | /ˈeɪdʒənt/ | nhân viên (tổng đài) | a person who answers customer calls | the next available agent | Please hold for the next available *agent*. | Vui lòng giữ máy để gặp nhân viên rảnh tiếp theo.
+hold | noun | /hoʊld/ | sự chờ máy | waiting on the phone | on hold; put someone on hold | I was on *hold* for twenty minutes. | Tôi phải chờ máy hai mươi phút.
+put through | verb | /ˌpʊt ˈθruː/ | nối máy | to connect a phone call | put someone through to | The receptionist *put through* my call to the sales team. | Lễ tân đã nối máy tôi tới phòng kinh doanh. | "I'll put you through" = Tôi sẽ nối máy cho bạn.
+leave a message | verb | /ˌliːv ə ˈmesɪdʒ/ | để lại lời nhắn | to record a message for someone | leave a message after the tone | Would you like to *leave a message*? | Bạn có muốn để lại lời nhắn không?
+take a message | verb | /ˌteɪk ə ˈmesɪdʒ/ | ghi lại lời nhắn | to write down a message for someone | can I take a message? | She's in a meeting. Can I *take a message*? | Cô ấy đang họp. Tôi ghi lại lời nhắn nhé?
+voicemail | noun | /ˈvɔɪsmeɪl/ | hộp thư thoại | a system for recording phone messages | leave a voicemail; check voicemail | I left a *voicemail* but nobody called back. | Tôi đã để lại lời nhắn thoại nhưng không ai gọi lại.
+call back | verb | /ˌkɔːl ˈbæk/ | gọi lại | to phone someone again | call back later; call you back | Please *call back* after 2 p.m. | Vui lòng gọi lại sau 2 giờ chiều.
+get back to | verb | /ˌɡet ˈbæk tə/ | phản hồi lại | to reply to someone later | get back to you | I'll *get back to* you by tomorrow. | Tôi sẽ phản hồi bạn trước ngày mai.
+follow up | verb | /ˌfɑːloʊ ˈʌp/ | theo dõi, liên hệ tiếp | to contact someone again about something | follow up on; follow-up call | I'm calling to *follow up* on my order. | Tôi gọi để hỏi tiếp về đơn hàng của mình.
+inconvenience | noun | /ˌɪnkənˈviːniəns/ | sự bất tiện | trouble or difficulty | apologize for the inconvenience | We apologize for any *inconvenience*. | Chúng tôi xin lỗi vì mọi bất tiện.
+apologize | verb | /əˈpɑːlədʒaɪz/ | xin lỗi | to say sorry | apologize for | We *apologize* for the delay. | Chúng tôi xin lỗi vì sự chậm trễ.
+resolve an issue | verb | /rɪˌzɑːlv ən ˈɪʃuː/ | giải quyết vấn đề | to find a solution | resolve the issue quickly | Our team will *resolve the issue* within 24 hours. | Đội ngũ của chúng tôi sẽ giải quyết vấn đề trong 24 giờ.
+troubleshoot | verb | /ˈtrʌblʃuːt/ | khắc phục sự cố | to find and fix problems | troubleshoot a problem | The technician *troubleshot* the printer. | Kỹ thuật viên đã khắc phục sự cố máy in.
+assistance | noun | /əˈsɪstəns/ | sự hỗ trợ | help | how can I be of assistance? | How can I be of *assistance*? | Tôi có thể giúp gì cho bạn?
+courteous | adjective | /ˈkɜːrtiəs/ | lịch sự, nhã nhặn | polite and respectful | courteous staff | The staff were *courteous* and helpful. | Nhân viên lịch sự và nhiệt tình.
+attentive | adjective | /əˈtentɪv/ | chu đáo | paying careful attention | attentive service | The waiters were very *attentive*. | Những người phục vụ rất chu đáo.
+responsive | adjective | /rɪˈspɑːnsɪv/ | phản hồi nhanh | reacting quickly | responsive to customer needs | The support team is very *responsive*. | Đội hỗ trợ phản hồi rất nhanh.
+prompt service | noun | /ˌprɑːmpt ˈsɜːrvɪs/ | dịch vụ nhanh chóng | quick service | thank you for the prompt service | Thank you for the *prompt service*. | Cảm ơn dịch vụ nhanh chóng.
+satisfaction survey | noun | /ˌsætɪsˈfækʃn ˌsɜːrveɪ/ | khảo sát mức độ hài lòng | questions about how happy customers are | complete a satisfaction survey | Please take a moment to complete our *satisfaction survey*. | Vui lòng dành chút thời gian làm khảo sát mức độ hài lòng.
+valued customer | noun | /ˌvæljuːd ˈkʌstəmər/ | khách hàng quý giá | a customer the company cares about | dear valued customer | As a *valued customer*, you will receive 10% off. | Là khách hàng thân thiết, bạn sẽ được giảm 10%.
+accommodate a request | verb | /əˌkɑːmədeɪt ə rɪˈkwest/ | đáp ứng yêu cầu | to do what someone asks | we are happy to accommodate your request | We'll do our best to *accommodate* your request. | Chúng tôi sẽ cố gắng hết sức đáp ứng yêu cầu của bạn. | Câu ví dụ trên dùng động từ accommodate.
+escalate | verb | /ˈeskəleɪt/ | chuyển lên cấp cao hơn; leo thang | to pass a problem to someone more senior; to become worse | escalate a complaint | If the problem continues, I'll *escalate* it to my manager. | Nếu sự cố tiếp diễn, tôi sẽ báo lên quản lý.
+compensate | verb | /ˈkɑːmpenseɪt/ | bồi thường | to pay someone for a loss or problem | compensate for | We will *compensate* you for the damaged goods. | Chúng tôi sẽ bồi thường cho hàng bị hỏng.
+goodwill | noun | /ˌɡʊdˈwɪl/ | thiện chí | friendly feelings | as a gesture of goodwill | As a gesture of *goodwill*, we are offering a free meal. | Để thể hiện thiện chí, chúng tôi tặng một bữa ăn miễn phí.
+reference number | noun | /ˈrefrəns ˌnʌmbər/ | mã tham chiếu | a number used to identify a case or order | quote your reference number | Please have your *reference number* ready. | Vui lòng chuẩn bị sẵn mã tham chiếu.
+account number | noun | /əˈkaʊnt ˌnʌmbər/ | số tài khoản | the number of your account | enter your account number | Could I have your *account number*, please? | Cho tôi xin số tài khoản của bạn.
+verify | verb | /ˈverɪfaɪ/ | xác minh | to check that something is true | verify your identity; verify the details | We need to *verify* your identity first. | Chúng tôi cần xác minh danh tính của bạn trước.
+look into | verb | /ˌlʊk ˈɪntuː/ | xem xét, điều tra | to examine a problem | look into the matter | I'll *look into* it and call you back. | Tôi sẽ xem xét và gọi lại cho bạn.
+take care of | verb | /ˌteɪk ˈker əv/ | lo liệu, xử lý | to deal with | I'll take care of it | Don't worry, I'll *take care of* it. | Đừng lo, tôi sẽ lo việc đó.
+sort out | verb | /ˌsɔːrt ˈaʊt/ | giải quyết | to deal with a problem | sort out a problem | The IT team *sorted out* the problem quickly. | Đội IT đã giải quyết vấn đề nhanh chóng.
+in person | adverb | /ɪn ˈpɜːrsn/ | trực tiếp | physically present | apply in person; meet in person | You must collect the package *in person*. | Bạn phải đến lấy gói hàng trực tiếp.
+walk-in | adjective | /ˈwɔːk ɪn/ | không cần hẹn trước | without an appointment | walk-in customers; walk-ins welcome | *Walk-in* customers are welcome. | Chào đón khách không cần hẹn trước.
+appointment | noun | /əˈpɔɪntmənt/ | cuộc hẹn | an arranged meeting | make an appointment; by appointment only | Consultations are by *appointment* only. | Tư vấn chỉ theo lịch hẹn trước.
+FAQ | noun | /ˌef eɪ ˈkjuː/ | câu hỏi thường gặp | frequently asked questions | check the FAQ | You may find the answer in our *FAQ* section. | Bạn có thể tìm câu trả lời ở mục câu hỏi thường gặp.
+live chat | noun | /ˌlaɪv ˈtʃæt/ | trò chuyện trực tuyến | an online chat with a real person | use live chat | Click here to start a *live chat* with an agent. | Nhấp vào đây để trò chuyện trực tuyến với nhân viên.
+helpdesk | noun | /ˈhelpdesk/ | bộ phận hỗ trợ | a service that helps users with problems | IT helpdesk | Contact the *helpdesk* if you can't log in. | Liên hệ bộ phận hỗ trợ nếu không đăng nhập được.
+ticket | noun | /ˈtɪkɪt/ | phiếu yêu cầu hỗ trợ | a record of a customer's problem | open a support ticket | Please open a support *ticket* on our website. | Vui lòng tạo phiếu hỗ trợ trên website của chúng tôi.

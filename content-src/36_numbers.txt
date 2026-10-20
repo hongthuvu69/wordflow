@@ -1,0 +1,69 @@
+#id: numbers
+#prefix: num
+#order: 36
+#icon: 📊
+#title: Numbers, Amounts & Trends
+#title_vi: Số lượng, Mức độ & Xu hướng
+#desc: Tăng – giảm, ước tính, tỷ lệ, quy mô: ngôn ngữ mô tả biểu đồ, cực kỳ quan trọng cho Part 7 và IELTS Writing Task 1.
+amount | noun | /əˈmaʊnt/ | lượng, số tiền | a quantity of something | a large amount of; the total amount | A large *amount* of money was spent on advertising. | Một số tiền lớn đã được chi cho quảng cáo. | amount of + danh từ không đếm được; number of + danh từ đếm được.
+average | adjective | /ˈævərɪdʒ/ | trung bình | typical; calculated by adding and dividing | on average; average salary; above average | The *average* customer spends $40 per visit. | Khách hàng trung bình chi 40 đô mỗi lần ghé.
+total | noun | /ˈtoʊtl/ | tổng số | the whole amount | in total; a total of | We received a *total* of 200 applications. | Chúng tôi nhận tổng cộng 200 hồ sơ.
+totally | adverb | /ˈtoʊtəli/ | hoàn toàn | completely | totally different; totally agree | The new design is *totally* different. | Thiết kế mới hoàn toàn khác.
+sum | noun | /sʌm/ | khoản tiền; tổng | an amount of money; the total | a large sum; sum up | They paid a large *sum* for the land. | Họ trả một khoản tiền lớn cho mảnh đất. | sum up = tóm lại.
+estimate | verb | /ˈestɪmeɪt/ | ước tính | to guess the size or cost of something | estimated cost; it is estimated that | The repairs are *estimated* to cost $5,000. | Chi phí sửa chữa ước tính 5.000 đô. | Danh từ estimate /ˈestɪmət/ = bản ước tính, báo giá.
+approximately | adverb | /əˈprɑːksɪmətli/ | xấp xỉ | close to an exact number | approximately 50 people | The flight takes *approximately* two hours. | Chuyến bay mất xấp xỉ hai tiếng.
+roughly | adverb | /ˈrʌfli/ | khoảng, đại khái | approximately | roughly 30%; roughly speaking | *Roughly* half of our staff work from home. | Khoảng một nửa nhân viên của chúng tôi làm việc tại nhà.
+dozen | noun | /ˈdʌzn/ | tá (12); hàng chục | twelve; many | a dozen eggs; dozens of | *Dozens* of people were waiting outside. | Hàng chục người đang chờ bên ngoài.
+double | verb | /ˈdʌbl/ | tăng gấp đôi | to become twice as big | double in size; double the price | Our profits have *doubled* since last year. | Lợi nhuận của chúng tôi đã tăng gấp đôi so với năm ngoái.
+multiply | verb | /ˈmʌltɪplaɪ/ | nhân lên; tăng nhiều | to add a number to itself several times; to increase a lot | multiply by | The number of users has *multiplied* in two years. | Số người dùng tăng gấp nhiều lần trong hai năm.
+fraction | noun | /ˈfrækʃn/ | phần nhỏ; phân số | a small part of something | a fraction of the cost | You can buy it online for a *fraction* of the price. | Bạn có thể mua trên mạng với giá rẻ hơn nhiều.
+proportion | noun | /prəˈpɔːrʃn/ | tỷ lệ, phần | a part of a whole; the relationship between amounts | a large proportion of; in proportion to | A high *proportion* of our customers are students. | Một tỷ lệ cao khách hàng của chúng tôi là sinh viên.
+share | noun | /ˈʃer/ | thị phần; cổ phần | a part of something owned or shared | market share; share price | The company has a 30% market *share*. | Công ty chiếm 30% thị phần. | Động từ share = chia sẻ.
+range | noun | /reɪndʒ/ | phạm vi; dòng sản phẩm | a set of different things of the same type; the limits | a wide range of; price range; product range | We offer a wide *range* of services. | Chúng tôi cung cấp nhiều loại dịch vụ.
+scale | noun | /skeɪl/ | quy mô; thang đo | the size or level of something; a set of levels | on a large scale; on a scale of 1 to 10 | On a *scale* of 1 to 10, how satisfied are you? | Trên thang điểm 1 đến 10, bạn hài lòng đến mức nào?
+level | noun | /ˈlevl/ | mức độ; tầng | the amount or degree of something; a floor | high level of; sea level; level 3 | The car park is on *level* B2. | Bãi đỗ xe ở tầng B2.
+rank | verb | /ræŋk/ | xếp hạng | to give a position in a list | be ranked; rank first | The hotel is *ranked* first in the city. | Khách sạn được xếp hạng nhất thành phố.
+margin | noun | /ˈmɑːrdʒɪn/ | lề; biên độ, chênh lệch | the space at the edge of a page; the difference between amounts | profit margin; by a wide margin | We won the contract by a small *margin*. | Chúng tôi giành hợp đồng với cách biệt nhỏ.
+volume | noun | /ˈvɑːljuːm/ | khối lượng; âm lượng; tập | amount; loudness; a book | sales volume; turn the volume down | The *volume* of online orders has risen sharply. | Khối lượng đơn hàng trực tuyến tăng mạnh.
+length | noun | /leŋθ/ | chiều dài; độ dài | how long something is | the length of; at length | The *length* of the course is six weeks. | Khóa học kéo dài sáu tuần.
+depth | noun | /depθ/ | độ sâu; chiều sâu | how deep something is; detail | in depth; the depth of | We discussed the plan in *depth*. | Chúng tôi đã thảo luận kế hoạch rất chi tiết.
+inch | noun | /ɪntʃ/ | inch (2,54 cm) | a unit of length | a 15-inch screen | The laptop has a 14-*inch* screen. | Máy tính xách tay có màn hình 14 inch.
+litre | noun | /ˈliːtər/ | lít | a unit for measuring liquid | a litre of water | Drink at least two *litres* of water a day. | Uống ít nhất hai lít nước mỗi ngày. | Anh-Mỹ: liter.
+tonne | noun | /tʌn/ | tấn (1.000 kg) | a unit of weight equal to 1,000 kg | 10 tonnes of rice | The ship can carry 5,000 *tonnes* of cargo. | Con tàu chở được 5.000 tấn hàng.
+ton | noun | /tʌn/ | tấn; rất nhiều (văn nói) | a unit of weight; a lot | tons of | I have *tons* of work to do. | Tôi có cả đống việc phải làm.
+increase | noun | /ˈɪŋkriːs/ | sự gia tăng | a rise in amount | an increase in; a 10% increase | There was a sharp *increase* in sales. | Doanh số tăng mạnh.
+decrease | verb | /dɪˈkriːs/ | giảm | to become smaller | decrease by 10%; decrease sharply | The number of complaints has *decreased*. | Số lượng khiếu nại đã giảm.
+decline | verb | /dɪˈklaɪn/ | suy giảm; từ chối | to become less; to refuse politely | sales declined; decline an invitation | Sadly, I must *decline* your invitation. | Rất tiếc, tôi phải từ chối lời mời của bạn. | Hai nghĩa đều hay gặp TOEIC.
+drop | noun | /drɑːp/ | sự giảm; giọt | a fall in amount; a small amount of liquid | a drop in prices; a sharp drop | There has been a *drop* in visitor numbers. | Lượng khách tham quan đã giảm.
+rise | verb | /raɪz/ | tăng lên | to increase | prices rose; rise sharply | Prices *rose* by 5% last year. | Giá đã tăng 5% năm ngoái. | rise (nội động từ) – raise (ngoại động từ: raise prices).
+growth | noun | /ɡroʊθ/ | sự tăng trưởng | an increase in size or amount | economic growth; rapid growth | The company expects strong *growth* next year. | Công ty kỳ vọng tăng trưởng mạnh năm tới.
+gain | verb | /ɡeɪn/ | đạt được; tăng | to get something useful; to increase | gain experience; gain weight | You will *gain* valuable experience in this job. | Bạn sẽ có được kinh nghiệm quý báu trong công việc này.
+reduction | noun | /rɪˈdʌkʃn/ | sự cắt giảm | making something smaller | price reduction; a reduction in costs | We offer a 20% *reduction* for group bookings. | Chúng tôi giảm 20% cho đặt chỗ theo nhóm.
+rapid | adjective | /ˈræpɪd/ | nhanh chóng | happening very quickly | rapid growth; rapid change | The city has seen *rapid* growth. | Thành phố đã phát triển nhanh chóng.
+rapidly | adverb | /ˈræpɪdli/ | một cách nhanh chóng | very quickly | grow rapidly; rapidly changing | Online sales are growing *rapidly*. | Doanh số trực tuyến đang tăng nhanh.
+gradually | adverb | /ˈɡrædʒuəli/ | dần dần | slowly over time | gradually improve; gradually increase | Your English will *gradually* improve. | Tiếng Anh của bạn sẽ tiến bộ dần dần.
+sharply | adverb | /ˈʃɑːrpli/ | mạnh, đột ngột | suddenly and by a large amount | rise sharply; fall sharply | Fuel prices rose *sharply* in March. | Giá nhiên liệu tăng mạnh vào tháng Ba.
+significant | adjective | /sɪɡˈnɪfɪkənt/ | đáng kể, quan trọng | large or important enough to be noticed | a significant increase; significant changes | There has been a *significant* increase in costs. | Chi phí đã tăng đáng kể.
+significantly | adverb | /sɪɡˈnɪfɪkəntli/ | một cách đáng kể | by a large amount | significantly higher; improve significantly | Sales were *significantly* higher than last year. | Doanh số cao hơn đáng kể so với năm ngoái.
+considerable | adjective | /kənˈsɪdərəbl/ | đáng kể | large in size or importance | a considerable amount; considerable time | The project took a *considerable* amount of time. | Dự án tốn khá nhiều thời gian.
+considerably | adverb | /kənˈsɪdərəbli/ | đáng kể | much; a lot | considerably cheaper; vary considerably | Prices vary *considerably* from shop to shop. | Giá cả chênh lệch đáng kể giữa các cửa hàng.
+slight | adjective | /slaɪt/ | nhẹ, nhỏ | small in size or degree | a slight increase; a slight delay | There may be a *slight* delay. | Có thể sẽ có chút chậm trễ.
+slightly | adverb | /ˈslaɪtli/ | hơi, một chút | a little | slightly higher; slightly different | The price is *slightly* higher than last year. | Giá hơi cao hơn năm ngoái.
+massive | adjective | /ˈmæsɪv/ | to lớn | very large | a massive increase; massive success | The sale was a *massive* success. | Đợt giảm giá thành công vang dội.
+vast | adjective | /væst/ | rộng lớn, khổng lồ | extremely large | a vast majority; vast amount | The *vast* majority of customers are happy. | Phần lớn khách hàng đều hài lòng.
+numerous | adjective | /ˈnuːmərəs/ | rất nhiều | many | on numerous occasions; numerous times | I have called the office on *numerous* occasions. | Tôi đã gọi cho văn phòng rất nhiều lần.
+multiple | adjective | /ˈmʌltɪpl/ | nhiều | many; more than one | multiple choice; multiple locations | The company has *multiple* locations in Asia. | Công ty có nhiều chi nhánh ở châu Á.
+plenty | pronoun | /ˈplenti/ | nhiều, dư dả | a large amount; enough | plenty of time; plenty of room | Don't worry, we have *plenty* of time. | Đừng lo, chúng ta còn nhiều thời gian.
+sufficient | adjective | /səˈfɪʃnt/ | đủ | enough | sufficient time; sufficient funds | Make sure there are *sufficient* funds in your account. | Hãy đảm bảo tài khoản có đủ tiền.
+adequate | adjective | /ˈædɪkwət/ | đầy đủ, thỏa đáng | enough or good enough | adequate training; adequate space | Staff must receive *adequate* training. | Nhân viên phải được đào tạo đầy đủ.
+excessive | adjective | /ɪkˈsesɪv/ | quá mức | more than necessary | excessive noise; excessive use | *Excessive* use of phones can harm your sleep. | Dùng điện thoại quá mức có thể ảnh hưởng đến giấc ngủ.
+exceed | verb | /ɪkˈsiːd/ | vượt quá | to be greater than a number or limit | exceed expectations; exceed the limit | Sales *exceeded* our expectations. | Doanh số vượt kỳ vọng của chúng tôi.
+shortage | noun | /ˈʃɔːrtɪdʒ/ | sự thiếu hụt | a situation where there is not enough | staff shortage; water shortage | There is a *shortage* of qualified nurses. | Đang thiếu y tá có chuyên môn.
+lack | noun | /læk/ | sự thiếu | the state of not having enough | lack of time; for lack of | The project failed because of a *lack* of funding. | Dự án thất bại vì thiếu kinh phí.
+limit | noun | /ˈlɪmɪt/ | giới hạn | the greatest amount allowed | speed limit; time limit; within limits | There is a *limit* of two bags per passenger. | Mỗi hành khách được mang tối đa hai túi.
+limited | adjective | /ˈlɪmɪtɪd/ | có hạn | small in amount | limited time; limited space; for a limited time | Seats are *limited*, so book early. | Số chỗ có hạn nên hãy đặt sớm. | for a limited time only = chỉ trong thời gian có hạn.
+limitation | noun | /ˌlɪmɪˈteɪʃn/ | hạn chế | a rule or fact that limits something | time limitations; have limitations | The software has some *limitations*. | Phần mềm có một số hạn chế.
+extent | noun | /ɪkˈstent/ | mức độ, phạm vi | how large or important something is | to some extent; the extent of | I agree with you to some *extent*. | Tôi đồng ý với bạn ở một mức độ nào đó.
+extensive | adjective | /ɪkˈstensɪv/ | rộng rãi, sâu rộng | large in size or amount | extensive experience; extensive research | She has *extensive* experience in sales. | Cô ấy có kinh nghiệm sâu rộng về bán hàng.
+widely | adverb | /ˈwaɪdli/ | rộng rãi | by many people; in many places | widely used; widely available | English is *widely* used in business. | Tiếng Anh được dùng rộng rãi trong kinh doanh.
+widespread | adjective | /ˈwaɪdspred/ | lan rộng, phổ biến | existing in many places | widespread use; widespread damage | The storm caused *widespread* damage. | Cơn bão gây thiệt hại trên diện rộng.

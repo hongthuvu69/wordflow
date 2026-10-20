@@ -1,0 +1,58 @@
+#id: tech
+#prefix: tec
+#order: 17
+#icon: 💻
+#title: Technology & Digital Life
+#title_vi: Công nghệ & Đời sống số
+#desc: Phần mềm, dữ liệu, mạng, thiết bị, AI: từ vựng cho email IT, hướng dẫn sử dụng và bài báo công nghệ.
+AI | noun | /ˌeɪ ˈaɪ/ | trí tuệ nhân tạo | artificial intelligence: computers doing tasks that need human intelligence | AI tools; use AI; AI-powered | Many companies now use *AI* to answer customer questions. | Nhiều công ty giờ dùng AI để trả lời câu hỏi của khách.
+artificial | adjective | /ˌɑːrtɪˈfɪʃl/ | nhân tạo | made by people, not natural | artificial intelligence; artificial light | The plants grow under *artificial* light. | Cây phát triển dưới ánh sáng nhân tạo.
+software | noun | /ˈsɔːftwer/ | phần mềm | programs used by a computer | install software; software update; accounting software | Please install the latest *software* update. | Vui lòng cài bản cập nhật phần mềm mới nhất.
+database | noun | /ˈdeɪtəbeɪs/ | cơ sở dữ liệu | an organized set of data on a computer | customer database; update the database | All customer details are stored in the *database*. | Mọi thông tin khách hàng được lưu trong cơ sở dữ liệu.
+programming | noun | /ˈproʊɡræmɪŋ/ | lập trình | the process of writing computer programs | programming language; computer programming | She learned *programming* at university. | Cô ấy học lập trình ở đại học.
+program | noun | /ˈproʊɡræm/ | chương trình (máy tính, hoạt động) | a set of instructions for a computer; a plan of activities | run a program; training program | The *program* automatically saves your work. | Chương trình tự động lưu công việc của bạn.
+delete | verb | /dɪˈliːt/ | xóa | to remove information from a computer | delete a file; delete an e-mail | I accidentally *deleted* the file. | Tôi lỡ tay xóa mất tệp.
+click | verb | /klɪk/ | nhấp chuột | to press a button on a mouse or screen | click on a link; click here | *Click* the link below to reset your password. | Nhấp vào đường dẫn bên dưới để đặt lại mật khẩu.
+keyboard | noun | /ˈkiːbɔːrd/ | bàn phím | the set of keys used to type | wireless keyboard; keyboard shortcut | My *keyboard* stopped working this morning. | Bàn phím của tôi ngừng hoạt động sáng nay.
+scan | verb | /skæn/ | quét | to make a digital copy using a machine; to look quickly | scan a document; scan a QR code | Please *scan* the signed form and e-mail it to me. | Vui lòng quét mẫu đơn đã ký và gửi e-mail cho tôi.
+virtual | adjective | /ˈvɜːrtʃuəl/ | ảo, trực tuyến | made to appear to exist by computers | virtual meeting; virtual tour; virtual reality | We held a *virtual* meeting with the Tokyo team. | Chúng tôi họp trực tuyến với nhóm ở Tokyo.
+Wi-Fi | noun | /ˈwaɪ faɪ/ | mạng không dây | a system for connecting to the internet without wires | free Wi-Fi; Wi-Fi password; Wi-Fi connection | The hotel offers free *Wi-Fi* in all rooms. | Khách sạn có Wi-Fi miễn phí ở tất cả các phòng.
+IT | noun | /ˌaɪ ˈtiː/ | công nghệ thông tin | information technology | IT department; IT support | Please contact the *IT* department if your computer crashes. | Vui lòng liên hệ phòng IT nếu máy tính bị treo.
+technical | adjective | /ˈteknɪkl/ | thuộc kỹ thuật | connected with practical knowledge of machines or science | technical support; technical problem; technical skills | We are experiencing *technical* problems. | Chúng tôi đang gặp sự cố kỹ thuật.
+technological | adjective | /ˌteknəˈlɑːdʒɪkl/ | thuộc công nghệ | connected with technology | technological change; technological advances | Rapid *technological* change affects every industry. | Thay đổi công nghệ nhanh chóng ảnh hưởng mọi ngành.
+innovation | noun | /ˌɪnəˈveɪʃn/ | sự đổi mới, cải tiến | a new idea, method or product | technological innovation; encourage innovation | The company is famous for its *innovation*. | Công ty nổi tiếng nhờ sự đổi mới.
+innovative | adjective | /ˈɪnəveɪtɪv/ | đổi mới, sáng tạo | using new methods or ideas | innovative design; innovative solution | They offer *innovative* solutions for small businesses. | Họ cung cấp giải pháp sáng tạo cho doanh nghiệp nhỏ.
+device | noun | /dɪˈvaɪs/ | thiết bị | a machine or tool made for a purpose | mobile device; electronic device | Please turn off all electronic *devices*. | Vui lòng tắt mọi thiết bị điện tử.
+electronics | noun | /ɪˌlekˈtrɑːnɪks/ | đồ điện tử; ngành điện tử | electronic devices; the technology of electronic devices | consumer electronics; electronics store | He works for an *electronics* company. | Anh ấy làm cho một công ty điện tử.
+gadget | noun | /ˈɡædʒɪt/ | đồ công nghệ nhỏ | a small useful device | the latest gadgets; kitchen gadget | He loves buying the latest *gadgets*. | Anh ấy thích mua các món đồ công nghệ mới nhất.
+console | noun | /ˈkɑːnsoʊl/ | máy chơi game; bảng điều khiển | a device for playing video games; a panel with controls | games console | My son got a new games *console* for his birthday. | Con trai tôi được tặng máy chơi game mới dịp sinh nhật.
+gaming | noun | /ˈɡeɪmɪŋ/ | chơi game | playing computer games | online gaming; gaming industry | The *gaming* industry is growing fast. | Ngành game đang phát triển nhanh.
+robot | noun | /ˈroʊbɑːt/ | rô-bốt | a machine that can do tasks automatically | industrial robot; robot vacuum | *Robots* now do much of the work in car factories. | Rô-bốt giờ làm phần lớn công việc trong nhà máy ô tô.
+automatic | adjective | /ˌɔːtəˈmætɪk/ | tự động | working by itself without people | automatic doors; automatic payment | The *automatic* doors open when you approach. | Cửa tự động mở khi bạn đến gần.
+automatically | adverb | /ˌɔːtəˈmætɪkli/ | một cách tự động | without a person controlling it | update automatically; automatically renew | Your subscription renews *automatically* each month. | Gói đăng ký của bạn tự động gia hạn hàng tháng.
+activate | verb | /ˈæktɪveɪt/ | kích hoạt | to make something start working | activate an account; activate a card | Call this number to *activate* your card. | Gọi số này để kích hoạt thẻ của bạn.
+install | verb | /ɪnˈstɔːl/ | cài đặt; lắp đặt | to put software on a computer; to fix equipment in place | install an app; install a system | Technicians will *install* the new air conditioners tomorrow. | Kỹ thuật viên sẽ lắp máy lạnh mới vào ngày mai.
+installation | noun | /ˌɪnstəˈleɪʃn/ | sự lắp đặt, cài đặt | the act of fixing equipment or software in place | free installation; installation guide | *Installation* is free with every purchase. | Lắp đặt miễn phí với mọi đơn hàng.
+input | noun | /ˈɪnpʊt/ | đầu vào; ý kiến đóng góp | information put into a computer; ideas given | data input; your input | Thanks for your *input* on the design. | Cảm ơn ý kiến đóng góp của bạn về thiết kế.
+format | noun | /ˈfɔːrmæt/ | định dạng | the way information is arranged | file format; in PDF format | Please send the document in PDF *format*. | Vui lòng gửi tài liệu ở định dạng PDF.
+graphics | noun | /ˈɡræfɪks/ | đồ họa | pictures and designs, especially on a computer | computer graphics; graphics card | The game has amazing *graphics*. | Trò chơi có đồ họa tuyệt đẹp.
+graphic | adjective | /ˈɡræfɪk/ | thuộc đồ họa | connected with drawings and design | graphic design; graphic designer | She works as a *graphic* designer. | Cô ấy làm nhà thiết kế đồ họa.
+animation | noun | /ˌænɪˈmeɪʃn/ | hoạt hình | moving pictures made from drawings or computers | computer animation; animation studio | The film uses a lot of computer *animation*. | Bộ phim dùng nhiều hoạt hình máy tính.
+digital | adjective | /ˈdɪdʒɪtl/ | kỹ thuật số | using computer technology | digital camera; digital marketing; digital copy | Please keep a *digital* copy of all receipts. | Vui lòng lưu bản kỹ thuật số của mọi hóa đơn.
+podcast | noun | /ˈpɑːdkæst/ | podcast | a recorded audio programme available online | listen to a podcast; start a podcast | I listen to English *podcasts* on my way to work. | Tôi nghe podcast tiếng Anh trên đường đi làm.
+sensor | noun | /ˈsensər/ | cảm biến | a device that reacts to light, heat, movement etc. | motion sensor; temperature sensor | The lights are controlled by a motion *sensor*. | Đèn được điều khiển bằng cảm biến chuyển động.
+signal | noun | /ˈsɪɡnəl/ | tín hiệu | a sound, light or wave that sends information | phone signal; weak signal; send a signal | There's no phone *signal* in the basement. | Dưới tầng hầm không có sóng điện thoại.
+transmit | verb | /trænsˈmɪt/ | truyền (tín hiệu, dữ liệu) | to send signals or information | transmit data; transmit a signal | The data is *transmitted* securely. | Dữ liệu được truyền an toàn.
+satellite | noun | /ˈsætəlaɪt/ | vệ tinh | a device sent into space to send information | satellite TV; satellite image | The *satellite* sends weather images every hour. | Vệ tinh gửi ảnh thời tiết mỗi giờ.
+cable | noun | /ˈkeɪbl/ | dây cáp | a thick wire for electricity or signals | power cable; cable TV; USB cable | I forgot my charging *cable* at home. | Tôi quên dây sạc ở nhà.
+wire | noun | /ˈwaɪər/ | dây điện | a long thin piece of metal | electrical wire; loose wire | A loose *wire* caused the problem. | Một sợi dây lỏng gây ra sự cố.
+circuit | noun | /ˈsɜːrkɪt/ | mạch điện; vòng đua | a path for electricity; a track for racing | electrical circuit; circuit board | The *circuit* overheated and stopped working. | Mạch điện bị quá nhiệt và ngừng hoạt động.
+battery | noun | /ˈbætəri/ | pin | a device that stores electricity | battery life; charge the battery; low battery | The new phone has a longer *battery* life. | Điện thoại mới có thời lượng pin lâu hơn.
+upgrade | verb | /ˌʌpˈɡreɪd/ | nâng cấp | to make a computer or system better | upgrade software; upgrade to | We are *upgrading* all office computers this week. | Tuần này chúng tôi nâng cấp tất cả máy tính văn phòng.
+access | noun | /ˈækses/ | quyền truy cập; lối vào | the right or chance to use something | internet access; have access to; gain access | Only managers have *access* to these files. | Chỉ quản lý mới có quyền truy cập các tệp này.
+security | noun | /sɪˈkjʊrəti/ | an ninh, bảo mật | protection against danger or crime | security guard; online security; security check | For *security* reasons, please change your password. | Vì lý do bảo mật, vui lòng đổi mật khẩu.
+secure | adjective | /sɪˈkjʊr/ | an toàn, bảo mật | safe from attack or loss | a secure connection; secure payment | All payments are made through a *secure* system. | Mọi thanh toán đều qua hệ thống bảo mật.
+bug | noun | /bʌɡ/ | lỗi phần mềm; con bọ | a fault in a computer program; a small insect | fix a bug; software bug | The update fixes several *bugs*. | Bản cập nhật sửa một số lỗi.
+navigate | verb | /ˈnævɪɡeɪt/ | điều hướng, tìm đường | to find your way around a website or place | navigate a website; easy to navigate | The new website is easy to *navigate*. | Website mới dễ điều hướng.
+navigation | noun | /ˌnævɪˈɡeɪʃn/ | sự định vị, dẫn đường | finding your way from one place to another | navigation system; GPS navigation | The car has a built-in *navigation* system. | Xe có hệ thống dẫn đường tích hợp.
+user | noun | /ˈjuːzər/ | người dùng | a person who uses a product or service | user-friendly; user name; new users | The app is very *user-friendly*. | Ứng dụng rất dễ sử dụng.

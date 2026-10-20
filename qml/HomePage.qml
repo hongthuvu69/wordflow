@@ -26,10 +26,10 @@ Item {
     readonly property var levels: {
         if (ProgressStore.revision < 0)
             return []
-        const names = { A2: "Củng cố nền tảng", B1: "Giao tiếp tự tin", B2: "Diễn đạt trôi chảy" }
+        const names = { A2: "Củng cố nền tảng", B1: "Giao tiếp tự tin", B2: "Diễn đạt trôi chảy", TOEIC: "Từ vựng TOEIC công sở" }
         const out = []
         let activeSet = false
-        for (const lv of ["A2", "B1", "B2"]) {
+        for (const lv of ["A2", "B1", "B2", "TOEIC"]) {
             let ids = []
             for (const t of ContentStore.topics)
                 if (t.level === lv)

@@ -1,0 +1,914 @@
+{
+ "id": "tech",
+ "order": 17,
+ "icon": "💻",
+ "level": "B2",
+ "title": "Technology & Digital Life",
+ "title_vi": "Công nghệ & Đời sống số",
+ "description": "Phần mềm, dữ liệu, mạng, thiết bị, AI: từ vựng cho email IT, hướng dẫn sử dụng và bài báo công nghệ.",
+ "words": [
+  {
+   "id": "tec_ai",
+   "word": "AI",
+   "pos": "noun",
+   "ipa": "/ˌeɪ ˈaɪ/",
+   "level": "B1",
+   "meaning": "trí tuệ nhân tạo",
+   "definition": "artificial intelligence: computers doing tasks that need human intelligence",
+   "collocations": [
+    "AI tools",
+    "use AI",
+    "AI-powered"
+   ],
+   "examples": [
+    {
+     "en": "Many companies now use *AI* to answer customer questions.",
+     "vi": "Nhiều công ty giờ dùng AI để trả lời câu hỏi của khách."
+    }
+   ]
+  },
+  {
+   "id": "tec_artificial",
+   "word": "artificial",
+   "pos": "adjective",
+   "ipa": "/ˌɑːrtɪˈfɪʃl/",
+   "level": "B2",
+   "meaning": "nhân tạo",
+   "definition": "made by people, not natural",
+   "collocations": [
+    "artificial intelligence",
+    "artificial light"
+   ],
+   "examples": [
+    {
+     "en": "The plants grow under *artificial* light.",
+     "vi": "Cây phát triển dưới ánh sáng nhân tạo."
+    }
+   ]
+  },
+  {
+   "id": "tec_software",
+   "word": "software",
+   "pos": "noun",
+   "ipa": "/ˈsɔːftwer/",
+   "level": "B1",
+   "meaning": "phần mềm",
+   "definition": "programs used by a computer",
+   "collocations": [
+    "install software",
+    "software update",
+    "accounting software"
+   ],
+   "examples": [
+    {
+     "en": "Please install the latest *software* update.",
+     "vi": "Vui lòng cài bản cập nhật phần mềm mới nhất."
+    }
+   ]
+  },
+  {
+   "id": "tec_database",
+   "word": "database",
+   "pos": "noun",
+   "ipa": "/ˈdeɪtəbeɪs/",
+   "level": "B2",
+   "meaning": "cơ sở dữ liệu",
+   "definition": "an organized set of data on a computer",
+   "collocations": [
+    "customer database",
+    "update the database"
+   ],
+   "examples": [
+    {
+     "en": "All customer details are stored in the *database*.",
+     "vi": "Mọi thông tin khách hàng được lưu trong cơ sở dữ liệu."
+    }
+   ]
+  },
+  {
+   "id": "tec_programming",
+   "word": "programming",
+   "pos": "noun",
+   "ipa": "/ˈproʊɡræmɪŋ/",
+   "level": "B2",
+   "meaning": "lập trình",
+   "definition": "the process of writing computer programs",
+   "collocations": [
+    "programming language",
+    "computer programming"
+   ],
+   "examples": [
+    {
+     "en": "She learned *programming* at university.",
+     "vi": "Cô ấy học lập trình ở đại học."
+    }
+   ]
+  },
+  {
+   "id": "tec_program",
+   "word": "program",
+   "pos": "noun",
+   "ipa": "/ˈproʊɡræm/",
+   "level": "B1",
+   "meaning": "chương trình (máy tính, hoạt động)",
+   "definition": "a set of instructions for a computer; a plan of activities",
+   "collocations": [
+    "run a program",
+    "training program"
+   ],
+   "examples": [
+    {
+     "en": "The *program* automatically saves your work.",
+     "vi": "Chương trình tự động lưu công việc của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tec_delete",
+   "word": "delete",
+   "pos": "verb",
+   "ipa": "/dɪˈliːt/",
+   "level": "B2",
+   "meaning": "xóa",
+   "definition": "to remove information from a computer",
+   "collocations": [
+    "delete a file",
+    "delete an e-mail"
+   ],
+   "examples": [
+    {
+     "en": "I accidentally *deleted* the file.",
+     "vi": "Tôi lỡ tay xóa mất tệp."
+    }
+   ]
+  },
+  {
+   "id": "tec_click",
+   "word": "click",
+   "pos": "verb",
+   "ipa": "/klɪk/",
+   "level": "B1",
+   "meaning": "nhấp chuột",
+   "definition": "to press a button on a mouse or screen",
+   "collocations": [
+    "click on a link",
+    "click here"
+   ],
+   "examples": [
+    {
+     "en": "*Click* the link below to reset your password.",
+     "vi": "Nhấp vào đường dẫn bên dưới để đặt lại mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "tec_keyboard",
+   "word": "keyboard",
+   "pos": "noun",
+   "ipa": "/ˈkiːbɔːrd/",
+   "level": "B1",
+   "meaning": "bàn phím",
+   "definition": "the set of keys used to type",
+   "collocations": [
+    "wireless keyboard",
+    "keyboard shortcut"
+   ],
+   "examples": [
+    {
+     "en": "My *keyboard* stopped working this morning.",
+     "vi": "Bàn phím của tôi ngừng hoạt động sáng nay."
+    }
+   ]
+  },
+  {
+   "id": "tec_scan",
+   "word": "scan",
+   "pos": "verb",
+   "ipa": "/skæn/",
+   "level": "B1",
+   "meaning": "quét",
+   "definition": "to make a digital copy using a machine; to look quickly",
+   "collocations": [
+    "scan a document",
+    "scan a QR code"
+   ],
+   "examples": [
+    {
+     "en": "Please *scan* the signed form and e-mail it to me.",
+     "vi": "Vui lòng quét mẫu đơn đã ký và gửi e-mail cho tôi."
+    }
+   ]
+  },
+  {
+   "id": "tec_virtual",
+   "word": "virtual",
+   "pos": "adjective",
+   "ipa": "/ˈvɜːrtʃuəl/",
+   "level": "B2",
+   "meaning": "ảo, trực tuyến",
+   "definition": "made to appear to exist by computers",
+   "collocations": [
+    "virtual meeting",
+    "virtual tour",
+    "virtual reality"
+   ],
+   "examples": [
+    {
+     "en": "We held a *virtual* meeting with the Tokyo team.",
+     "vi": "Chúng tôi họp trực tuyến với nhóm ở Tokyo."
+    }
+   ]
+  },
+  {
+   "id": "tec_it",
+   "word": "IT",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈtiː/",
+   "level": "B1",
+   "meaning": "công nghệ thông tin",
+   "definition": "information technology",
+   "collocations": [
+    "IT department",
+    "IT support"
+   ],
+   "examples": [
+    {
+     "en": "Please contact the *IT* department if your computer crashes.",
+     "vi": "Vui lòng liên hệ phòng IT nếu máy tính bị treo."
+    }
+   ]
+  },
+  {
+   "id": "tec_technical",
+   "word": "technical",
+   "pos": "adjective",
+   "ipa": "/ˈteknɪkl/",
+   "level": "B1",
+   "meaning": "thuộc kỹ thuật",
+   "definition": "connected with practical knowledge of machines or science",
+   "collocations": [
+    "technical support",
+    "technical problem",
+    "technical skills"
+   ],
+   "examples": [
+    {
+     "en": "We are experiencing *technical* problems.",
+     "vi": "Chúng tôi đang gặp sự cố kỹ thuật."
+    }
+   ]
+  },
+  {
+   "id": "tec_technological",
+   "word": "technological",
+   "pos": "adjective",
+   "ipa": "/ˌteknəˈlɑːdʒɪkl/",
+   "level": "B2",
+   "meaning": "thuộc công nghệ",
+   "definition": "connected with technology",
+   "collocations": [
+    "technological change",
+    "technological advances"
+   ],
+   "examples": [
+    {
+     "en": "Rapid *technological* change affects every industry.",
+     "vi": "Thay đổi công nghệ nhanh chóng ảnh hưởng mọi ngành."
+    }
+   ]
+  },
+  {
+   "id": "tec_innovation",
+   "word": "innovation",
+   "pos": "noun",
+   "ipa": "/ˌɪnəˈveɪʃn/",
+   "level": "B2",
+   "meaning": "sự đổi mới, cải tiến",
+   "definition": "a new idea, method or product",
+   "collocations": [
+    "technological innovation",
+    "encourage innovation"
+   ],
+   "examples": [
+    {
+     "en": "The company is famous for its *innovation*.",
+     "vi": "Công ty nổi tiếng nhờ sự đổi mới."
+    }
+   ]
+  },
+  {
+   "id": "tec_innovative",
+   "word": "innovative",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "level": "B2",
+   "meaning": "đổi mới, sáng tạo",
+   "definition": "using new methods or ideas",
+   "collocations": [
+    "innovative design",
+    "innovative solution"
+   ],
+   "examples": [
+    {
+     "en": "They offer *innovative* solutions for small businesses.",
+     "vi": "Họ cung cấp giải pháp sáng tạo cho doanh nghiệp nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "tec_electronics",
+   "word": "electronics",
+   "pos": "noun",
+   "ipa": "/ɪˌlekˈtrɑːnɪks/",
+   "level": "B2",
+   "meaning": "đồ điện tử; ngành điện tử",
+   "definition": "electronic devices; the technology of electronic devices",
+   "collocations": [
+    "consumer electronics",
+    "electronics store"
+   ],
+   "examples": [
+    {
+     "en": "He works for an *electronics* company.",
+     "vi": "Anh ấy làm cho một công ty điện tử."
+    }
+   ]
+  },
+  {
+   "id": "tec_gadget",
+   "word": "gadget",
+   "pos": "noun",
+   "ipa": "/ˈɡædʒɪt/",
+   "level": "TOEIC",
+   "meaning": "đồ công nghệ nhỏ",
+   "definition": "a small useful device",
+   "collocations": [
+    "the latest gadgets",
+    "kitchen gadget"
+   ],
+   "examples": [
+    {
+     "en": "He loves buying the latest *gadgets*.",
+     "vi": "Anh ấy thích mua các món đồ công nghệ mới nhất."
+    }
+   ]
+  },
+  {
+   "id": "tec_console",
+   "word": "console",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnsoʊl/",
+   "level": "B2",
+   "meaning": "máy chơi game; bảng điều khiển",
+   "definition": "a device for playing video games; a panel with controls",
+   "collocations": [
+    "games console"
+   ],
+   "examples": [
+    {
+     "en": "My son got a new games *console* for his birthday.",
+     "vi": "Con trai tôi được tặng máy chơi game mới dịp sinh nhật."
+    }
+   ]
+  },
+  {
+   "id": "tec_gaming",
+   "word": "gaming",
+   "pos": "noun",
+   "ipa": "/ˈɡeɪmɪŋ/",
+   "level": "B2",
+   "meaning": "chơi game",
+   "definition": "playing computer games",
+   "collocations": [
+    "online gaming",
+    "gaming industry"
+   ],
+   "examples": [
+    {
+     "en": "The *gaming* industry is growing fast.",
+     "vi": "Ngành game đang phát triển nhanh."
+    }
+   ]
+  },
+  {
+   "id": "tec_robot",
+   "word": "robot",
+   "pos": "noun",
+   "ipa": "/ˈroʊbɑːt/",
+   "level": "B1",
+   "meaning": "rô-bốt",
+   "definition": "a machine that can do tasks automatically",
+   "collocations": [
+    "industrial robot",
+    "robot vacuum"
+   ],
+   "examples": [
+    {
+     "en": "*Robots* now do much of the work in car factories.",
+     "vi": "Rô-bốt giờ làm phần lớn công việc trong nhà máy ô tô."
+    }
+   ]
+  },
+  {
+   "id": "tec_automatic",
+   "word": "automatic",
+   "pos": "adjective",
+   "ipa": "/ˌɔːtəˈmætɪk/",
+   "level": "B2",
+   "meaning": "tự động",
+   "definition": "working by itself without people",
+   "collocations": [
+    "automatic doors",
+    "automatic payment"
+   ],
+   "examples": [
+    {
+     "en": "The *automatic* doors open when you approach.",
+     "vi": "Cửa tự động mở khi bạn đến gần."
+    }
+   ]
+  },
+  {
+   "id": "tec_automatically",
+   "word": "automatically",
+   "pos": "adverb",
+   "ipa": "/ˌɔːtəˈmætɪkli/",
+   "level": "B2",
+   "meaning": "một cách tự động",
+   "definition": "without a person controlling it",
+   "collocations": [
+    "update automatically",
+    "automatically renew"
+   ],
+   "examples": [
+    {
+     "en": "Your subscription renews *automatically* each month.",
+     "vi": "Gói đăng ký của bạn tự động gia hạn hàng tháng."
+    }
+   ]
+  },
+  {
+   "id": "tec_activate",
+   "word": "activate",
+   "pos": "verb",
+   "ipa": "/ˈæktɪveɪt/",
+   "level": "B2",
+   "meaning": "kích hoạt",
+   "definition": "to make something start working",
+   "collocations": [
+    "activate an account",
+    "activate a card"
+   ],
+   "examples": [
+    {
+     "en": "Call this number to *activate* your card.",
+     "vi": "Gọi số này để kích hoạt thẻ của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tec_installation",
+   "word": "installation",
+   "pos": "noun",
+   "ipa": "/ˌɪnstəˈleɪʃn/",
+   "level": "B2",
+   "meaning": "sự lắp đặt, cài đặt",
+   "definition": "the act of fixing equipment or software in place",
+   "collocations": [
+    "free installation",
+    "installation guide"
+   ],
+   "examples": [
+    {
+     "en": "*Installation* is free with every purchase.",
+     "vi": "Lắp đặt miễn phí với mọi đơn hàng."
+    }
+   ]
+  },
+  {
+   "id": "tec_input",
+   "word": "input",
+   "pos": "noun",
+   "ipa": "/ˈɪnpʊt/",
+   "level": "B2",
+   "meaning": "đầu vào; ý kiến đóng góp",
+   "definition": "information put into a computer; ideas given",
+   "collocations": [
+    "data input",
+    "your input"
+   ],
+   "examples": [
+    {
+     "en": "Thanks for your *input* on the design.",
+     "vi": "Cảm ơn ý kiến đóng góp của bạn về thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "tec_format",
+   "word": "format",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrmæt/",
+   "level": "B2",
+   "meaning": "định dạng",
+   "definition": "the way information is arranged",
+   "collocations": [
+    "file format",
+    "in PDF format"
+   ],
+   "examples": [
+    {
+     "en": "Please send the document in PDF *format*.",
+     "vi": "Vui lòng gửi tài liệu ở định dạng PDF."
+    }
+   ]
+  },
+  {
+   "id": "tec_graphics",
+   "word": "graphics",
+   "pos": "noun",
+   "ipa": "/ˈɡræfɪks/",
+   "level": "B2",
+   "meaning": "đồ họa",
+   "definition": "pictures and designs, especially on a computer",
+   "collocations": [
+    "computer graphics",
+    "graphics card"
+   ],
+   "examples": [
+    {
+     "en": "The game has amazing *graphics*.",
+     "vi": "Trò chơi có đồ họa tuyệt đẹp."
+    }
+   ]
+  },
+  {
+   "id": "tec_graphic",
+   "word": "graphic",
+   "pos": "adjective",
+   "ipa": "/ˈɡræfɪk/",
+   "level": "B2",
+   "meaning": "thuộc đồ họa",
+   "definition": "connected with drawings and design",
+   "collocations": [
+    "graphic design",
+    "graphic designer"
+   ],
+   "examples": [
+    {
+     "en": "She works as a *graphic* designer.",
+     "vi": "Cô ấy làm nhà thiết kế đồ họa."
+    }
+   ]
+  },
+  {
+   "id": "tec_animation",
+   "word": "animation",
+   "pos": "noun",
+   "ipa": "/ˌænɪˈmeɪʃn/",
+   "level": "B2",
+   "meaning": "hoạt hình",
+   "definition": "moving pictures made from drawings or computers",
+   "collocations": [
+    "computer animation",
+    "animation studio"
+   ],
+   "examples": [
+    {
+     "en": "The film uses a lot of computer *animation*.",
+     "vi": "Bộ phim dùng nhiều hoạt hình máy tính."
+    }
+   ]
+  },
+  {
+   "id": "tec_digital",
+   "word": "digital",
+   "pos": "adjective",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "level": "A2",
+   "meaning": "kỹ thuật số",
+   "definition": "using computer technology",
+   "collocations": [
+    "digital camera",
+    "digital marketing",
+    "digital copy"
+   ],
+   "examples": [
+    {
+     "en": "Please keep a *digital* copy of all receipts.",
+     "vi": "Vui lòng lưu bản kỹ thuật số của mọi hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "tec_podcast",
+   "word": "podcast",
+   "pos": "noun",
+   "ipa": "/ˈpɑːdkæst/",
+   "level": "B1",
+   "meaning": "podcast",
+   "definition": "a recorded audio programme available online",
+   "collocations": [
+    "listen to a podcast",
+    "start a podcast"
+   ],
+   "examples": [
+    {
+     "en": "I listen to English *podcasts* on my way to work.",
+     "vi": "Tôi nghe podcast tiếng Anh trên đường đi làm."
+    }
+   ]
+  },
+  {
+   "id": "tec_sensor",
+   "word": "sensor",
+   "pos": "noun",
+   "ipa": "/ˈsensər/",
+   "level": "B2",
+   "meaning": "cảm biến",
+   "definition": "a device that reacts to light, heat, movement etc.",
+   "collocations": [
+    "motion sensor",
+    "temperature sensor"
+   ],
+   "examples": [
+    {
+     "en": "The lights are controlled by a motion *sensor*.",
+     "vi": "Đèn được điều khiển bằng cảm biến chuyển động."
+    }
+   ]
+  },
+  {
+   "id": "tec_signal",
+   "word": "signal",
+   "pos": "noun",
+   "ipa": "/ˈsɪɡnəl/",
+   "level": "B1",
+   "meaning": "tín hiệu",
+   "definition": "a sound, light or wave that sends information",
+   "collocations": [
+    "phone signal",
+    "weak signal",
+    "send a signal"
+   ],
+   "examples": [
+    {
+     "en": "There's no phone *signal* in the basement.",
+     "vi": "Dưới tầng hầm không có sóng điện thoại."
+    }
+   ]
+  },
+  {
+   "id": "tec_transmit",
+   "word": "transmit",
+   "pos": "verb",
+   "ipa": "/trænsˈmɪt/",
+   "level": "B2",
+   "meaning": "truyền (tín hiệu, dữ liệu)",
+   "definition": "to send signals or information",
+   "collocations": [
+    "transmit data",
+    "transmit a signal"
+   ],
+   "examples": [
+    {
+     "en": "The data is *transmitted* securely.",
+     "vi": "Dữ liệu được truyền an toàn."
+    }
+   ]
+  },
+  {
+   "id": "tec_satellite",
+   "word": "satellite",
+   "pos": "noun",
+   "ipa": "/ˈsætəlaɪt/",
+   "level": "B2",
+   "meaning": "vệ tinh",
+   "definition": "a device sent into space to send information",
+   "collocations": [
+    "satellite TV",
+    "satellite image"
+   ],
+   "examples": [
+    {
+     "en": "The *satellite* sends weather images every hour.",
+     "vi": "Vệ tinh gửi ảnh thời tiết mỗi giờ."
+    }
+   ]
+  },
+  {
+   "id": "tec_cable",
+   "word": "cable",
+   "pos": "noun",
+   "ipa": "/ˈkeɪbl/",
+   "level": "B2",
+   "meaning": "dây cáp",
+   "definition": "a thick wire for electricity or signals",
+   "collocations": [
+    "power cable",
+    "cable TV",
+    "USB cable"
+   ],
+   "examples": [
+    {
+     "en": "I forgot my charging *cable* at home.",
+     "vi": "Tôi quên dây sạc ở nhà."
+    }
+   ]
+  },
+  {
+   "id": "tec_wire",
+   "word": "wire",
+   "pos": "noun",
+   "ipa": "/ˈwaɪər/",
+   "level": "B2",
+   "meaning": "dây điện",
+   "definition": "a long thin piece of metal",
+   "collocations": [
+    "electrical wire",
+    "loose wire"
+   ],
+   "examples": [
+    {
+     "en": "A loose *wire* caused the problem.",
+     "vi": "Một sợi dây lỏng gây ra sự cố."
+    }
+   ]
+  },
+  {
+   "id": "tec_circuit",
+   "word": "circuit",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrkɪt/",
+   "level": "B2",
+   "meaning": "mạch điện; vòng đua",
+   "definition": "a path for electricity; a track for racing",
+   "collocations": [
+    "electrical circuit",
+    "circuit board"
+   ],
+   "examples": [
+    {
+     "en": "The *circuit* overheated and stopped working.",
+     "vi": "Mạch điện bị quá nhiệt và ngừng hoạt động."
+    }
+   ]
+  },
+  {
+   "id": "tec_upgrade",
+   "word": "upgrade",
+   "pos": "verb",
+   "ipa": "/ˌʌpˈɡreɪd/",
+   "level": "C1",
+   "meaning": "nâng cấp",
+   "definition": "to make a computer or system better",
+   "collocations": [
+    "upgrade software",
+    "upgrade to"
+   ],
+   "examples": [
+    {
+     "en": "We are *upgrading* all office computers this week.",
+     "vi": "Tuần này chúng tôi nâng cấp tất cả máy tính văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "tec_access",
+   "word": "access",
+   "pos": "noun",
+   "ipa": "/ˈækses/",
+   "level": "B1",
+   "meaning": "quyền truy cập; lối vào",
+   "definition": "the right or chance to use something",
+   "collocations": [
+    "internet access",
+    "have access to",
+    "gain access"
+   ],
+   "examples": [
+    {
+     "en": "Only managers have *access* to these files.",
+     "vi": "Chỉ quản lý mới có quyền truy cập các tệp này."
+    }
+   ]
+  },
+  {
+   "id": "tec_security",
+   "word": "security",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊrəti/",
+   "level": "B1",
+   "meaning": "an ninh, bảo mật",
+   "definition": "protection against danger or crime",
+   "collocations": [
+    "security guard",
+    "online security",
+    "security check"
+   ],
+   "examples": [
+    {
+     "en": "For *security* reasons, please change your password.",
+     "vi": "Vì lý do bảo mật, vui lòng đổi mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "tec_secure",
+   "word": "secure",
+   "pos": "adjective",
+   "ipa": "/sɪˈkjʊr/",
+   "level": "B2",
+   "meaning": "an toàn, bảo mật",
+   "definition": "safe from attack or loss",
+   "collocations": [
+    "a secure connection",
+    "secure payment"
+   ],
+   "examples": [
+    {
+     "en": "All payments are made through a *secure* system.",
+     "vi": "Mọi thanh toán đều qua hệ thống bảo mật."
+    }
+   ]
+  },
+  {
+   "id": "tec_bug",
+   "word": "bug",
+   "pos": "noun",
+   "ipa": "/bʌɡ/",
+   "level": "B2",
+   "meaning": "lỗi phần mềm; con bọ",
+   "definition": "a fault in a computer program; a small insect",
+   "collocations": [
+    "fix a bug",
+    "software bug"
+   ],
+   "examples": [
+    {
+     "en": "The update fixes several *bugs*.",
+     "vi": "Bản cập nhật sửa một số lỗi."
+    }
+   ]
+  },
+  {
+   "id": "tec_navigate",
+   "word": "navigate",
+   "pos": "verb",
+   "ipa": "/ˈnævɪɡeɪt/",
+   "level": "B2",
+   "meaning": "điều hướng, tìm đường",
+   "definition": "to find your way around a website or place",
+   "collocations": [
+    "navigate a website",
+    "easy to navigate"
+   ],
+   "examples": [
+    {
+     "en": "The new website is easy to *navigate*.",
+     "vi": "Website mới dễ điều hướng."
+    }
+   ]
+  },
+  {
+   "id": "tec_navigation",
+   "word": "navigation",
+   "pos": "noun",
+   "ipa": "/ˌnævɪˈɡeɪʃn/",
+   "level": "B2",
+   "meaning": "sự định vị, dẫn đường",
+   "definition": "finding your way from one place to another",
+   "collocations": [
+    "navigation system",
+    "GPS navigation"
+   ],
+   "examples": [
+    {
+     "en": "The car has a built-in *navigation* system.",
+     "vi": "Xe có hệ thống dẫn đường tích hợp."
+    }
+   ]
+  },
+  {
+   "id": "tec_user",
+   "word": "user",
+   "pos": "noun",
+   "ipa": "/ˈjuːzər/",
+   "level": "A2",
+   "meaning": "người dùng",
+   "definition": "a person who uses a product or service",
+   "collocations": [
+    "user-friendly",
+    "user name",
+    "new users"
+   ],
+   "examples": [
+    {
+     "en": "The app is very *user-friendly*.",
+     "vi": "Ứng dụng rất dễ sử dụng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

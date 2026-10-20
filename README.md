@@ -33,13 +33,27 @@ Web app cho iPhone nằm trong `docs/`, đưa lên mạng bằng GitHub Pages. T
 
 ## Thêm chủ đề mới
 
-Tạo file `content/NN_ten_chu_de.json` theo cấu trúc giống các file có sẵn, rồi build lại. ID của từ phải là duy nhất. Trong câu ví dụ, đặt từ cần học trong dấu `*...*` để app tô đậm và dùng cho bài điền từ.
+- **Chủ đề viết tay** (01–10): sửa trực tiếp `content/NN_ten.json`, kèm mẫu câu giao tiếp.
+- **Chủ đề sinh từ file nguồn** (11–70): viết ở dạng gọn trong `content-src/NN_ten.txt` (mỗi dòng một từ, các trường cách nhau bởi ` | `, mô tả ở đầu `tools/build_vocab.py`), rồi chạy:
+
+```bash
+python tools/build_vocab.py --oxford <ox_rows.json> --pool <pool.json>
+```
+
+Script tạo `content/NN_ten.json`, báo từ trùng, câu ví dụ thiếu `*từ*`, và độ phủ so với danh sách Oxford. Cấp độ CEFR của từng từ lấy theo danh sách Oxford 3000/5000. Từ ngoài danh sách được gắn nhãn `TOEIC`.
+
+Trong câu ví dụ, đặt từ cần học trong dấu `*...*` để app tô đậm và dùng cho bài điền từ. Sau khi sửa nội dung, build lại (hoặc chạy `tools/sync_web_content.ps1`) để copy sang web app.
 
 ## Nội dung hiện có
 
-- **A2:** Cuộc sống hằng ngày, Ăn uống, Du lịch, Công việc, Mua sắm (150 từ)
-- **B1:** Sức khỏe, Cảm xúc & Tính cách, Công nghệ, Môi trường, Học tập (150 từ)
-- Mỗi chủ đề có 8 tình huống giao tiếp, mỗi tình huống có 3 mức trang trọng / bình thường / thân mật.
+**3.318 từ trong 70 chủ đề:**
+- **A2–B1** (10 chủ đề viết tay, 300 từ) kèm 80 tình huống mẫu câu.
+- **B1–B2 theo danh sách Oxford 3000/5000** (41 chủ đề): phủ toàn bộ 2.085 từ B1–B2 của danh sách (trừ "Wi-Fi", đã có sẵn). Gồm các chủ đề kinh doanh, xã hội, khoa học, cùng các nhóm từ nối, động từ học thuật và "từ quen – nghĩa mới".
+- **TOEIC công sở** (19 chủ đề, khoảng 830 từ): văn phòng, nhân sự, kế toán, mua hàng, logistics, hợp đồng, khách sạn, nhà hàng, sân bay, sự kiện, bất động sản, chăm sóc khách hàng, ngân hàng, IT, phòng khám, email công việc, bán hàng, cụm động từ, từ vựng mô tả tranh Part 1.
+
+Nghĩa tiếng Việt, câu ví dụ và collocation do WordFlow tự viết. Danh sách Oxford chỉ dùng để chọn từ và xác định cấp độ.
+
+**Đề luyện** (`docs/tests/`): Mini Test 01–04 (mỗi đề 40 câu, Part 2–7) và Part 5 · Bộ luyện 01 (40 câu). Vị trí đáp án đúng được trộn đều A/B/C/D bằng `tools/balance_answers.js`.
 
 ## Các chế độ học
 

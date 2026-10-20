@@ -1,0 +1,1104 @@
+{
+ "id": "arts",
+ "order": 20,
+ "icon": "🎭",
+ "level": "B2",
+ "title": "Arts & Entertainment",
+ "title_vi": "Nghệ thuật & Giải trí",
+ "description": "Âm nhạc, phim ảnh, văn học, biểu diễn, lễ hội: chủ đề hay gặp trong quảng cáo sự kiện và hội thoại.",
+ "words": [
+  {
+   "id": "art_album",
+   "word": "album",
+   "pos": "noun",
+   "ipa": "/ˈælbəm/",
+   "level": "B1",
+   "meaning": "album nhạc/ảnh",
+   "definition": "a collection of songs or photos",
+   "collocations": [
+    "release an album",
+    "photo album"
+   ],
+   "examples": [
+    {
+     "en": "The band will release a new *album* in June.",
+     "vi": "Ban nhạc sẽ phát hành album mới vào tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "art_artistic",
+   "word": "artistic",
+   "pos": "adjective",
+   "ipa": "/ɑːrˈtɪstɪk/",
+   "level": "B2",
+   "meaning": "thuộc nghệ thuật, có khiếu nghệ thuật",
+   "definition": "connected with art; good at art",
+   "collocations": [
+    "artistic talent",
+    "artistic director"
+   ],
+   "examples": [
+    {
+     "en": "She has always been very *artistic*.",
+     "vi": "Cô ấy luôn có khiếu nghệ thuật."
+    }
+   ]
+  },
+  {
+   "id": "art_artwork",
+   "word": "artwork",
+   "pos": "noun",
+   "ipa": "/ˈɑːrtwɜːrk/",
+   "level": "B2",
+   "meaning": "tác phẩm nghệ thuật",
+   "definition": "paintings, drawings or other art",
+   "collocations": [
+    "original artwork",
+    "display artwork"
+   ],
+   "examples": [
+    {
+     "en": "The hotel lobby displays *artwork* by local artists.",
+     "vi": "Sảnh khách sạn trưng bày tác phẩm của nghệ sĩ địa phương."
+    }
+   ]
+  },
+  {
+   "id": "art_ballet",
+   "word": "ballet",
+   "pos": "noun",
+   "ipa": "/bæˈleɪ/",
+   "level": "B2",
+   "meaning": "múa ba lê",
+   "definition": "a type of dance telling a story with music",
+   "collocations": [
+    "ballet dancer",
+    "go to the ballet"
+   ],
+   "examples": [
+    {
+     "en": "We have tickets for the *ballet* on Saturday.",
+     "vi": "Chúng tôi có vé xem ba lê vào thứ Bảy."
+    }
+   ],
+   "note": "Chữ t câm."
+  },
+  {
+   "id": "art_choir",
+   "word": "choir",
+   "pos": "noun",
+   "ipa": "/ˈkwaɪər/",
+   "level": "B2",
+   "meaning": "dàn hợp xướng",
+   "definition": "a group of people who sing together",
+   "collocations": [
+    "sing in a choir",
+    "church choir"
+   ],
+   "examples": [
+    {
+     "en": "She sings in the company *choir*.",
+     "vi": "Cô ấy hát trong dàn hợp xướng của công ty."
+    }
+   ],
+   "note": "Phát âm: KWAI-er."
+  },
+  {
+   "id": "art_orchestra",
+   "word": "orchestra",
+   "pos": "noun",
+   "ipa": "/ˈɔːrkɪstrə/",
+   "level": "B2",
+   "meaning": "dàn nhạc giao hưởng",
+   "definition": "a large group of musicians",
+   "collocations": [
+    "symphony orchestra",
+    "play in an orchestra"
+   ],
+   "examples": [
+    {
+     "en": "The city *orchestra* performs every Friday.",
+     "vi": "Dàn nhạc thành phố biểu diễn mỗi thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "art_opera",
+   "word": "opera",
+   "pos": "noun",
+   "ipa": "/ˈɑːprə/",
+   "level": "B2",
+   "meaning": "nhạc kịch opera",
+   "definition": "a drama where words are sung",
+   "collocations": [
+    "opera house",
+    "opera singer"
+   ],
+   "examples": [
+    {
+     "en": "They went to the *opera* last night.",
+     "vi": "Tối qua họ đi xem opera."
+    }
+   ]
+  },
+  {
+   "id": "art_musical",
+   "word": "musical",
+   "pos": "adjective",
+   "ipa": "/ˈmjuːzɪkl/",
+   "level": "B1",
+   "meaning": "thuộc âm nhạc",
+   "definition": "connected with music; good at music",
+   "collocations": [
+    "musical instrument",
+    "musical talent"
+   ],
+   "examples": [
+    {
+     "en": "Can you play a *musical* instrument?",
+     "vi": "Bạn có chơi được nhạc cụ nào không?"
+    }
+   ],
+   "note": "Danh từ a musical = vở nhạc kịch."
+  },
+  {
+   "id": "art_compose",
+   "word": "compose",
+   "pos": "verb",
+   "ipa": "/kəmˈpoʊz/",
+   "level": "B2",
+   "meaning": "sáng tác; cấu thành",
+   "definition": "to write music; to form something",
+   "collocations": [
+    "compose music",
+    "be composed of"
+   ],
+   "examples": [
+    {
+     "en": "He *composed* the music for the film.",
+     "vi": "Anh ấy sáng tác nhạc cho bộ phim."
+    }
+   ]
+  },
+  {
+   "id": "art_composer",
+   "word": "composer",
+   "pos": "noun",
+   "ipa": "/kəmˈpoʊzər/",
+   "level": "B2",
+   "meaning": "nhà soạn nhạc",
+   "definition": "a person who writes music",
+   "collocations": [
+    "a famous composer",
+    "film composer"
+   ],
+   "examples": [
+    {
+     "en": "Mozart is my favourite *composer*.",
+     "vi": "Mozart là nhà soạn nhạc tôi yêu thích."
+    }
+   ]
+  },
+  {
+   "id": "art_rhythm",
+   "word": "rhythm",
+   "pos": "noun",
+   "ipa": "/ˈrɪðəm/",
+   "level": "B2",
+   "meaning": "nhịp điệu",
+   "definition": "a regular pattern of sounds or movements",
+   "collocations": [
+    "a strong rhythm",
+    "rhythm and blues"
+   ],
+   "examples": [
+    {
+     "en": "Clap your hands to the *rhythm*.",
+     "vi": "Vỗ tay theo nhịp điệu."
+    }
+   ]
+  },
+  {
+   "id": "art_tune",
+   "word": "tune",
+   "pos": "noun",
+   "ipa": "/tuːn/",
+   "level": "B2",
+   "meaning": "giai điệu",
+   "definition": "a series of musical notes",
+   "collocations": [
+    "a catchy tune",
+    "in tune",
+    "out of tune"
+   ],
+   "examples": [
+    {
+     "en": "I can't get that *tune* out of my head.",
+     "vi": "Tôi không dứt được giai điệu đó ra khỏi đầu."
+    }
+   ]
+  },
+  {
+   "id": "art_lyric",
+   "word": "lyric",
+   "pos": "noun",
+   "ipa": "/ˈlɪrɪk/",
+   "level": "B2",
+   "meaning": "lời bài hát",
+   "definition": "the words of a song",
+   "collocations": [
+    "song lyrics",
+    "write lyrics"
+   ],
+   "examples": [
+    {
+     "en": "I don't understand the *lyrics* of this song.",
+     "vi": "Tôi không hiểu lời bài hát này."
+    }
+   ],
+   "note": "Thường dùng số nhiều: lyrics."
+  },
+  {
+   "id": "art_drum",
+   "word": "drum",
+   "pos": "noun",
+   "ipa": "/drʌm/",
+   "level": "B1",
+   "meaning": "cái trống",
+   "definition": "a musical instrument you hit with sticks",
+   "collocations": [
+    "play the drums",
+    "bass drum"
+   ],
+   "examples": [
+    {
+     "en": "My brother plays the *drums* in a band.",
+     "vi": "Anh trai tôi chơi trống trong một ban nhạc."
+    }
+   ]
+  },
+  {
+   "id": "art_comedian",
+   "word": "comedian",
+   "pos": "noun",
+   "ipa": "/kəˈmiːdiən/",
+   "level": "B2",
+   "meaning": "diễn viên hài",
+   "definition": "a person who tells jokes to make people laugh",
+   "collocations": [
+    "stand-up comedian",
+    "a famous comedian"
+   ],
+   "examples": [
+    {
+     "en": "The *comedian* had the whole audience laughing.",
+     "vi": "Diễn viên hài khiến cả khán phòng cười."
+    }
+   ]
+  },
+  {
+   "id": "art_comic",
+   "word": "comic",
+   "pos": "adjective",
+   "ipa": "/ˈkɑːmɪk/",
+   "level": "B2",
+   "meaning": "hài hước",
+   "definition": "funny",
+   "collocations": [
+    "comic book",
+    "comic actor"
+   ],
+   "examples": [
+    {
+     "en": "It's a *comic* story about a lost dog.",
+     "vi": "Đó là câu chuyện hài về một chú chó lạc."
+    }
+   ]
+  },
+  {
+   "id": "art_humour",
+   "word": "humour",
+   "pos": "noun",
+   "ipa": "/ˈhjuːmər/",
+   "level": "B2",
+   "meaning": "sự hài hước",
+   "definition": "the quality of being funny",
+   "collocations": [
+    "sense of humour",
+    "dry humour"
+   ],
+   "examples": [
+    {
+     "en": "My boss has a great sense of *humour*.",
+     "vi": "Sếp tôi rất có khiếu hài hước."
+    }
+   ],
+   "note": "Anh-Mỹ: humor."
+  },
+  {
+   "id": "art_humorous",
+   "word": "humorous",
+   "pos": "adjective",
+   "ipa": "/ˈhjuːmərəs/",
+   "level": "B2",
+   "meaning": "hài hước, dí dỏm",
+   "definition": "funny",
+   "collocations": [
+    "a humorous speech",
+    "humorous story"
+   ],
+   "examples": [
+    {
+     "en": "He gave a short, *humorous* speech at the party.",
+     "vi": "Anh ấy có bài phát biểu ngắn, dí dỏm tại bữa tiệc."
+    }
+   ]
+  },
+  {
+   "id": "art_hilarious",
+   "word": "hilarious",
+   "pos": "adjective",
+   "ipa": "/hɪˈleriəs/",
+   "level": "B2",
+   "meaning": "cực kỳ buồn cười",
+   "definition": "extremely funny",
+   "collocations": [
+    "absolutely hilarious",
+    "a hilarious film"
+   ],
+   "examples": [
+    {
+     "en": "The film was absolutely *hilarious*.",
+     "vi": "Bộ phim buồn cười kinh khủng."
+    }
+   ],
+   "note": "Không dùng \"very hilarious\"."
+  },
+  {
+   "id": "art_amusing",
+   "word": "amusing",
+   "pos": "adjective",
+   "ipa": "/əˈmjuːzɪŋ/",
+   "level": "B2",
+   "meaning": "thú vị, gây cười",
+   "definition": "funny and enjoyable",
+   "collocations": [
+    "an amusing story",
+    "find something amusing"
+   ],
+   "examples": [
+    {
+     "en": "He told us an *amusing* story about his trip.",
+     "vi": "Anh ấy kể chúng tôi một chuyện thú vị về chuyến đi."
+    }
+   ]
+  },
+  {
+   "id": "art_entertain",
+   "word": "entertain",
+   "pos": "verb",
+   "ipa": "/ˌentərˈteɪn/",
+   "level": "B1",
+   "meaning": "giải trí; tiếp đãi",
+   "definition": "to interest and amuse people; to have guests",
+   "collocations": [
+    "entertain guests",
+    "entertain children"
+   ],
+   "examples": [
+    {
+     "en": "A magician *entertained* the children at the party.",
+     "vi": "Một ảo thuật gia giúp vui cho bọn trẻ tại bữa tiệc."
+    }
+   ]
+  },
+  {
+   "id": "art_entertaining",
+   "word": "entertaining",
+   "pos": "adjective",
+   "ipa": "/ˌentərˈteɪnɪŋ/",
+   "level": "B2",
+   "meaning": "mang tính giải trí, thú vị",
+   "definition": "interesting and enjoyable",
+   "collocations": [
+    "highly entertaining",
+    "an entertaining evening"
+   ],
+   "examples": [
+    {
+     "en": "The show was very *entertaining*.",
+     "vi": "Buổi diễn rất thú vị."
+    }
+   ]
+  },
+  {
+   "id": "art_entertainment",
+   "word": "entertainment",
+   "pos": "noun",
+   "ipa": "/ˌentərˈteɪnmənt/",
+   "level": "B1",
+   "meaning": "sự giải trí",
+   "definition": "films, music, shows that people enjoy",
+   "collocations": [
+    "live entertainment",
+    "entertainment industry"
+   ],
+   "examples": [
+    {
+     "en": "The hotel offers live *entertainment* every evening.",
+     "vi": "Khách sạn có chương trình biểu diễn trực tiếp mỗi tối."
+    }
+   ]
+  },
+  {
+   "id": "art_genre",
+   "word": "genre",
+   "pos": "noun",
+   "ipa": "/ˈʒɑːnrə/",
+   "level": "B2",
+   "meaning": "thể loại",
+   "definition": "a type of art, music or writing",
+   "collocations": [
+    "film genre",
+    "music genre",
+    "favourite genre"
+   ],
+   "examples": [
+    {
+     "en": "Horror is my least favourite film *genre*.",
+     "vi": "Kinh dị là thể loại phim tôi ít thích nhất."
+    }
+   ]
+  },
+  {
+   "id": "art_horror",
+   "word": "horror",
+   "pos": "noun",
+   "ipa": "/ˈhɔːrər/",
+   "level": "B1",
+   "meaning": "sự kinh hoàng; kinh dị",
+   "definition": "great fear; a type of film or story",
+   "collocations": [
+    "horror film",
+    "in horror"
+   ],
+   "examples": [
+    {
+     "en": "I don't like watching *horror* films alone.",
+     "vi": "Tôi không thích xem phim kinh dị một mình."
+    }
+   ]
+  },
+  {
+   "id": "art_fantasy",
+   "word": "fantasy",
+   "pos": "noun",
+   "ipa": "/ˈfæntəsi/",
+   "level": "B2",
+   "meaning": "sự tưởng tượng; thể loại kỳ ảo",
+   "definition": "something you imagine; stories with magic",
+   "collocations": [
+    "fantasy novel",
+    "a fantasy world"
+   ],
+   "examples": [
+    {
+     "en": "She loves *fantasy* novels with dragons and magic.",
+     "vi": "Cô ấy thích tiểu thuyết kỳ ảo có rồng và phép thuật."
+    }
+   ]
+  },
+  {
+   "id": "art_romance",
+   "word": "romance",
+   "pos": "noun",
+   "ipa": "/ˈroʊmæns/",
+   "level": "B2",
+   "meaning": "chuyện tình; sự lãng mạn",
+   "definition": "a love story; a love relationship",
+   "collocations": [
+    "a holiday romance",
+    "romance novel"
+   ],
+   "examples": [
+    {
+     "en": "It's a *romance* set in 1920s Paris.",
+     "vi": "Đó là chuyện tình lấy bối cảnh Paris những năm 1920."
+    }
+   ]
+  },
+  {
+   "id": "art_romantic",
+   "word": "romantic",
+   "pos": "adjective",
+   "ipa": "/roʊˈmæntɪk/",
+   "level": "B1",
+   "meaning": "lãng mạn",
+   "definition": "connected with love",
+   "collocations": [
+    "a romantic dinner",
+    "romantic comedy"
+   ],
+   "examples": [
+    {
+     "en": "They had a *romantic* dinner by the sea.",
+     "vi": "Họ dùng bữa tối lãng mạn bên bờ biển."
+    }
+   ]
+  },
+  {
+   "id": "art_villain",
+   "word": "villain",
+   "pos": "noun",
+   "ipa": "/ˈvɪlən/",
+   "level": "B2",
+   "meaning": "nhân vật phản diện",
+   "definition": "the bad character in a story",
+   "collocations": [
+    "play the villain"
+   ],
+   "examples": [
+    {
+     "en": "The actor is famous for playing *villains*.",
+     "vi": "Nam diễn viên nổi tiếng với các vai phản diện."
+    }
+   ]
+  },
+  {
+   "id": "art_script",
+   "word": "script",
+   "pos": "noun",
+   "ipa": "/skrɪpt/",
+   "level": "B1",
+   "meaning": "kịch bản",
+   "definition": "the written text of a film or play",
+   "collocations": [
+    "film script",
+    "write a script",
+    "follow the script"
+   ],
+   "examples": [
+    {
+     "en": "Call centre staff must follow a *script*.",
+     "vi": "Nhân viên tổng đài phải nói theo kịch bản."
+    }
+   ]
+  },
+  {
+   "id": "art_plot",
+   "word": "plot",
+   "pos": "noun",
+   "ipa": "/plɑːt/",
+   "level": "B1",
+   "meaning": "cốt truyện; mảnh đất",
+   "definition": "the story of a book or film; a small piece of land",
+   "collocations": [
+    "the main plot",
+    "a complicated plot"
+   ],
+   "examples": [
+    {
+     "en": "The *plot* was hard to follow.",
+     "vi": "Cốt truyện khó theo dõi."
+    }
+   ]
+  },
+  {
+   "id": "art_narrative",
+   "word": "narrative",
+   "pos": "noun",
+   "ipa": "/ˈnærətɪv/",
+   "level": "B1",
+   "meaning": "lời kể, câu chuyện",
+   "definition": "a story or description of events",
+   "collocations": [
+    "a personal narrative",
+    "narrative structure"
+   ],
+   "examples": [
+    {
+     "en": "The book is a *narrative* of his life in Africa.",
+     "vi": "Cuốn sách là lời kể về cuộc đời ông ở châu Phi."
+    }
+   ]
+  },
+  {
+   "id": "art_tale",
+   "word": "tale",
+   "pos": "noun",
+   "ipa": "/teɪl/",
+   "level": "B2",
+   "meaning": "câu chuyện (kể)",
+   "definition": "a story, often imaginary",
+   "collocations": [
+    "fairy tale",
+    "folk tale"
+   ],
+   "examples": [
+    {
+     "en": "My grandmother told us old folk *tales*.",
+     "vi": "Bà kể cho chúng tôi những câu chuyện dân gian xưa."
+    }
+   ]
+  },
+  {
+   "id": "art_legend",
+   "word": "legend",
+   "pos": "noun",
+   "ipa": "/ˈledʒənd/",
+   "level": "B2",
+   "meaning": "truyền thuyết; huyền thoại",
+   "definition": "an old famous story; a very famous person",
+   "collocations": [
+    "according to legend",
+    "a football legend"
+   ],
+   "examples": [
+    {
+     "en": "According to *legend*, the lake was made by a giant.",
+     "vi": "Theo truyền thuyết, hồ được tạo ra bởi một người khổng lồ."
+    }
+   ]
+  },
+  {
+   "id": "art_myth",
+   "word": "myth",
+   "pos": "noun",
+   "ipa": "/mɪθ/",
+   "level": "B2",
+   "meaning": "thần thoại; quan niệm sai",
+   "definition": "an ancient story; a false belief",
+   "collocations": [
+    "Greek myths",
+    "it's a myth that"
+   ],
+   "examples": [
+    {
+     "en": "It's a *myth* that you need eight glasses of water a day.",
+     "vi": "Việc phải uống tám cốc nước mỗi ngày là quan niệm sai."
+    }
+   ]
+  },
+  {
+   "id": "art_literature",
+   "word": "literature",
+   "pos": "noun",
+   "ipa": "/ˈlɪtrətʃər/",
+   "level": "B1",
+   "meaning": "văn học",
+   "definition": "written works considered as art",
+   "collocations": [
+    "English literature",
+    "classic literature"
+   ],
+   "examples": [
+    {
+     "en": "She studied English *literature*.",
+     "vi": "Cô ấy học văn học Anh."
+    }
+   ]
+  },
+  {
+   "id": "art_literary",
+   "word": "literary",
+   "pos": "adjective",
+   "ipa": "/ˈlɪtəreri/",
+   "level": "B2",
+   "meaning": "thuộc văn học",
+   "definition": "connected with literature",
+   "collocations": [
+    "literary prize",
+    "literary work"
+   ],
+   "examples": [
+    {
+     "en": "The novel won a major *literary* prize.",
+     "vi": "Cuốn tiểu thuyết đoạt một giải văn học lớn."
+    }
+   ]
+  },
+  {
+   "id": "art_novelist",
+   "word": "novelist",
+   "pos": "noun",
+   "ipa": "/ˈnɑːvəlɪst/",
+   "level": "B2",
+   "meaning": "tiểu thuyết gia",
+   "definition": "a person who writes novels",
+   "collocations": [
+    "a famous novelist"
+   ],
+   "examples": [
+    {
+     "en": "She is one of Japan's best-known *novelists*.",
+     "vi": "Bà là một trong những tiểu thuyết gia nổi tiếng nhất Nhật Bản."
+    }
+   ]
+  },
+  {
+   "id": "art_poem",
+   "word": "poem",
+   "pos": "noun",
+   "ipa": "/ˈpoʊəm/",
+   "level": "B1",
+   "meaning": "bài thơ",
+   "definition": "a piece of writing with lines that often rhyme",
+   "collocations": [
+    "write a poem",
+    "a love poem"
+   ],
+   "examples": [
+    {
+     "en": "He wrote a *poem* for his wife.",
+     "vi": "Anh ấy viết một bài thơ cho vợ."
+    }
+   ]
+  },
+  {
+   "id": "art_poet",
+   "word": "poet",
+   "pos": "noun",
+   "ipa": "/ˈpoʊət/",
+   "level": "B1",
+   "meaning": "nhà thơ",
+   "definition": "a person who writes poems",
+   "collocations": [
+    "a famous poet"
+   ],
+   "examples": [
+    {
+     "en": "Nguyen Du is a famous Vietnamese *poet*.",
+     "vi": "Nguyễn Du là nhà thơ nổi tiếng của Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "art_poetry",
+   "word": "poetry",
+   "pos": "noun",
+   "ipa": "/ˈpoʊətri/",
+   "level": "B1",
+   "meaning": "thơ ca",
+   "definition": "poems in general",
+   "collocations": [
+    "read poetry",
+    "a book of poetry"
+   ],
+   "examples": [
+    {
+     "en": "She enjoys reading *poetry*.",
+     "vi": "Cô ấy thích đọc thơ."
+    }
+   ]
+  },
+  {
+   "id": "art_chapter",
+   "word": "chapter",
+   "pos": "noun",
+   "ipa": "/ˈtʃæptər/",
+   "level": "B1",
+   "meaning": "chương",
+   "definition": "one of the parts of a book",
+   "collocations": [
+    "the first chapter",
+    "chapter 3"
+   ],
+   "examples": [
+    {
+     "en": "Please read *chapter* 3 before the next class.",
+     "vi": "Vui lòng đọc chương 3 trước buổi học sau."
+    }
+   ]
+  },
+  {
+   "id": "art_title",
+   "word": "title",
+   "pos": "noun",
+   "ipa": "/ˈtaɪtl/",
+   "level": "B2",
+   "meaning": "tiêu đề; chức danh",
+   "definition": "the name of a book or film; a word showing rank",
+   "collocations": [
+    "job title",
+    "the title of the book"
+   ],
+   "examples": [
+    {
+     "en": "What is your job *title*?",
+     "vi": "Chức danh công việc của bạn là gì?"
+    }
+   ]
+  },
+  {
+   "id": "art_theme",
+   "word": "theme",
+   "pos": "noun",
+   "ipa": "/θiːm/",
+   "level": "B1",
+   "meaning": "chủ đề",
+   "definition": "the main subject or idea",
+   "collocations": [
+    "the main theme",
+    "theme park",
+    "theme of the conference"
+   ],
+   "examples": [
+    {
+     "en": "The *theme* of this year's conference is innovation.",
+     "vi": "Chủ đề hội nghị năm nay là đổi mới."
+    }
+   ]
+  },
+  {
+   "id": "art_portrait",
+   "word": "portrait",
+   "pos": "noun",
+   "ipa": "/ˈpɔːrtrət/",
+   "level": "B1",
+   "meaning": "bức chân dung",
+   "definition": "a painting or photo of a person",
+   "collocations": [
+    "paint a portrait",
+    "self-portrait"
+   ],
+   "examples": [
+    {
+     "en": "A *portrait* of the founder hangs in the lobby.",
+     "vi": "Bức chân dung người sáng lập treo ở sảnh."
+    }
+   ]
+  },
+  {
+   "id": "art_craft",
+   "word": "craft",
+   "pos": "noun",
+   "ipa": "/kræft/",
+   "level": "B2",
+   "meaning": "nghề thủ công",
+   "definition": "an activity using skill to make things by hand",
+   "collocations": [
+    "arts and crafts",
+    "craft fair",
+    "traditional crafts"
+   ],
+   "examples": [
+    {
+     "en": "The village is famous for its traditional *crafts*.",
+     "vi": "Ngôi làng nổi tiếng với nghề thủ công truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "art_creativity",
+   "word": "creativity",
+   "pos": "noun",
+   "ipa": "/ˌkriːeɪˈtɪvəti/",
+   "level": "B2",
+   "meaning": "sự sáng tạo",
+   "definition": "the ability to create new ideas",
+   "collocations": [
+    "encourage creativity",
+    "show creativity"
+   ],
+   "examples": [
+    {
+     "en": "The job requires *creativity* and patience.",
+     "vi": "Công việc đòi hỏi sự sáng tạo và kiên nhẫn."
+    }
+   ]
+  },
+  {
+   "id": "art_creation",
+   "word": "creation",
+   "pos": "noun",
+   "ipa": "/kriˈeɪʃn/",
+   "level": "B2",
+   "meaning": "sự tạo ra; tác phẩm",
+   "definition": "the act of making something; something made",
+   "collocations": [
+    "job creation",
+    "the creation of"
+   ],
+   "examples": [
+    {
+     "en": "The project will lead to the *creation* of 500 jobs.",
+     "vi": "Dự án sẽ tạo ra 500 việc làm."
+    }
+   ]
+  },
+  {
+   "id": "art_costume",
+   "word": "costume",
+   "pos": "noun",
+   "ipa": "/ˈkɑːstuːm/",
+   "level": "B1",
+   "meaning": "trang phục (biểu diễn, lễ hội)",
+   "definition": "clothes worn to look like someone else",
+   "collocations": [
+    "in costume",
+    "traditional costume",
+    "costume party"
+   ],
+   "examples": [
+    {
+     "en": "The dancers wore traditional *costumes*.",
+     "vi": "Các vũ công mặc trang phục truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "art_studio",
+   "word": "studio",
+   "pos": "noun",
+   "ipa": "/ˈstuːdioʊ/",
+   "level": "B1",
+   "meaning": "phòng thu; xưởng",
+   "definition": "a room where music or films are made; an artist's workroom",
+   "collocations": [
+    "recording studio",
+    "film studio"
+   ],
+   "examples": [
+    {
+     "en": "The band is recording in the *studio*.",
+     "vi": "Ban nhạc đang thu âm trong phòng thu."
+    }
+   ]
+  },
+  {
+   "id": "art_stage",
+   "word": "stage",
+   "pos": "noun",
+   "ipa": "/steɪdʒ/",
+   "level": "B2",
+   "meaning": "sân khấu; giai đoạn",
+   "definition": "the area where actors perform; a period of development",
+   "collocations": [
+    "on stage",
+    "at this stage"
+   ],
+   "examples": [
+    {
+     "en": "At this *stage*, we can't say when it will finish.",
+     "vi": "Ở giai đoạn này, chúng tôi chưa thể nói khi nào sẽ xong."
+    }
+   ]
+  },
+  {
+   "id": "art_audience",
+   "word": "audience",
+   "pos": "noun",
+   "ipa": "/ˈɔːdiəns/",
+   "level": "A2",
+   "meaning": "khán giả",
+   "definition": "the people watching or listening to a performance",
+   "collocations": [
+    "a large audience",
+    "target audience"
+   ],
+   "examples": [
+    {
+     "en": "The *audience* clapped for five minutes.",
+     "vi": "Khán giả vỗ tay suốt năm phút."
+    }
+   ]
+  },
+  {
+   "id": "art_fame",
+   "word": "fame",
+   "pos": "noun",
+   "ipa": "/feɪm/",
+   "level": "B2",
+   "meaning": "danh tiếng",
+   "definition": "being known by many people",
+   "collocations": [
+    "rise to fame",
+    "fame and fortune"
+   ],
+   "examples": [
+    {
+     "en": "She rose to *fame* after her first film.",
+     "vi": "Cô ấy nổi tiếng sau bộ phim đầu tiên."
+    }
+   ]
+  },
+  {
+   "id": "art_celebrity",
+   "word": "celebrity",
+   "pos": "noun",
+   "ipa": "/səˈlebrəti/",
+   "level": "A2",
+   "meaning": "người nổi tiếng",
+   "definition": "a famous person",
+   "collocations": [
+    "a TV celebrity",
+    "celebrity guests"
+   ],
+   "examples": [
+    {
+     "en": "Several *celebrities* attended the opening.",
+     "vi": "Một số người nổi tiếng dự lễ khai trương."
+    }
+   ]
+  },
+  {
+   "id": "art_firework",
+   "word": "firework",
+   "pos": "noun",
+   "ipa": "/ˈfaɪərwɜːrk/",
+   "level": "B2",
+   "meaning": "pháo hoa",
+   "definition": "a device that explodes with coloured lights",
+   "collocations": [
+    "fireworks display",
+    "set off fireworks"
+   ],
+   "examples": [
+    {
+     "en": "We watched the New Year *fireworks* from the roof.",
+     "vi": "Chúng tôi xem pháo hoa năm mới từ sân thượng."
+    }
+   ]
+  },
+  {
+   "id": "art_parade",
+   "word": "parade",
+   "pos": "noun",
+   "ipa": "/pəˈreɪd/",
+   "level": "B2",
+   "meaning": "cuộc diễu hành",
+   "definition": "a public celebration where people walk through the streets",
+   "collocations": [
+    "a street parade",
+    "hold a parade"
+   ],
+   "examples": [
+    {
+     "en": "The city holds a *parade* every National Day.",
+     "vi": "Thành phố tổ chức diễu hành mỗi dịp Quốc khánh."
+    }
+   ]
+  },
+  {
+   "id": "art_magic",
+   "word": "magic",
+   "pos": "noun",
+   "ipa": "/ˈmædʒɪk/",
+   "level": "B1",
+   "meaning": "ảo thuật; phép thuật",
+   "definition": "tricks that seem impossible; special power",
+   "collocations": [
+    "magic tricks",
+    "like magic"
+   ],
+   "examples": [
+    {
+     "en": "The children loved the *magic* show.",
+     "vi": "Bọn trẻ thích màn ảo thuật."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,54 @@
+#id: toeic_banking
+#prefix: tbk
+#order: 64
+#icon: 🏦
+#title: TOEIC: Banking & Insurance
+#title_vi: TOEIC: Ngân hàng & Bảo hiểm
+#desc: Mở tài khoản, rút – gửi tiền, thẻ, lãi suất, hợp đồng bảo hiểm, bồi thường: tình huống ngân hàng trong Part 2–3 và Part 7.
+bank teller | noun | /ˈbæŋk ˌtelər/ | giao dịch viên ngân hàng | a bank employee who serves customers at a counter | ask the bank teller | The *bank teller* counted the money twice. | Giao dịch viên đếm tiền hai lần.
+open an account | verb | /ˌoʊpən ən əˈkaʊnt/ | mở tài khoản | to start using a bank account | open an account online | You need two forms of ID to *open an account*. | Bạn cần hai loại giấy tờ tùy thân để mở tài khoản.
+checking account | noun | /ˈtʃekɪŋ əˌkaʊnt/ | tài khoản thanh toán | a bank account for everyday payments | open a checking account | My salary goes into my *checking account*. | Lương của tôi được chuyển vào tài khoản thanh toán.
+savings account | noun | /ˈseɪvɪŋz əˌkaʊnt/ | tài khoản tiết kiệm | a bank account that earns interest | a high-interest savings account | I put $200 into my *savings account* every month. | Mỗi tháng tôi gửi 200 đô vào tài khoản tiết kiệm.
+interest | noun | /ˈɪntrəst/ | tiền lãi | money paid for borrowing or saving money | interest rate; earn interest | The account pays 3% *interest* a year. | Tài khoản trả lãi 3% một năm.
+withdrawal | noun | /wɪðˈdrɔːəl/ | sự rút tiền | taking money out of an account | make a withdrawal; cash withdrawal | There is a daily limit on cash *withdrawals*. | Có hạn mức rút tiền mặt hằng ngày.
+ATM | noun | /ˌeɪ tiː ˈem/ | máy rút tiền | a machine that gives out money | use an ATM; ATM card | Is there an *ATM* near here? | Gần đây có cây ATM không?
+debit card | noun | /ˈdebɪt kɑːrd/ | thẻ ghi nợ | a card that takes money directly from your account | pay by debit card | You can pay with a *debit card* or cash. | Bạn có thể thanh toán bằng thẻ ghi nợ hoặc tiền mặt.
+online banking | noun | /ˌɑːnlaɪn ˈbæŋkɪŋ/ | ngân hàng trực tuyến | managing a bank account on the internet | sign up for online banking | *Online banking* lets you pay bills at any time. | Ngân hàng trực tuyến cho phép bạn thanh toán hóa đơn bất cứ lúc nào.
+balance inquiry | noun | /ˈbæləns ɪnˌkwaɪəri/ | tra cứu số dư | checking how much money is in an account | make a balance inquiry | You can do a *balance inquiry* at any ATM. | Bạn có thể tra cứu số dư tại bất kỳ cây ATM nào.
+cheque | noun | /tʃek/ | séc | a written order to a bank to pay money | write a cheque; pay by cheque | We no longer accept payment by *cheque*. | Chúng tôi không còn nhận thanh toán bằng séc. | Anh-Mỹ: check.
+cash | verb | /kæʃ/ | đổi (séc) ra tiền mặt | to exchange a cheque for money | cash a cheque | I need to *cash* a cheque at the bank. | Tôi cần đổi séc ra tiền mặt ở ngân hàng.
+exchange rate | noun | /ɪksˈtʃeɪndʒ reɪt/ | tỷ giá | the value of one currency compared with another | the current exchange rate | The *exchange rate* is better at the bank. | Tỷ giá ở ngân hàng tốt hơn.
+transfer funds | verb | /trænsˌfɜːr ˈfʌndz/ | chuyển tiền | to move money between accounts | transfer funds online | You can *transfer funds* between accounts online. | Bạn có thể chuyển tiền giữa các tài khoản trên mạng.
+direct deposit | noun | /dəˌrekt dɪˈpɑːzɪt/ | chuyển lương thẳng vào tài khoản | pay sent directly into a bank account | set up direct deposit | Salaries are paid by *direct deposit*. | Lương được chuyển thẳng vào tài khoản.
+PIN | noun | /pɪn/ | mã PIN | a secret number for a bank card | enter your PIN; forget your PIN | Never share your *PIN* with anyone. | Không bao giờ chia sẻ mã PIN với ai.
+fraud alert | noun | /ˈfrɔːd əˌlɜːrt/ | cảnh báo gian lận | a warning about possible fraud | set up a fraud alert | The bank sent me a *fraud alert*. | Ngân hàng gửi tôi cảnh báo gian lận.
+branch manager | noun | /ˈbræntʃ ˌmænɪdʒər/ | giám đốc chi nhánh | the manager of a local office | speak to the branch manager | The *branch manager* approved my loan. | Giám đốc chi nhánh đã duyệt khoản vay của tôi.
+loan officer | noun | /ˈloʊn ˌɔːfɪsər/ | cán bộ tín dụng | a bank employee who deals with loans | meet with a loan officer | A *loan officer* will review your application. | Cán bộ tín dụng sẽ xem xét đơn của bạn.
+credit limit | noun | /ˈkredɪt ˌlɪmɪt/ | hạn mức tín dụng | the most you can borrow on a card | increase your credit limit | My *credit limit* is $5,000. | Hạn mức tín dụng của tôi là 5.000 đô.
+credit score | noun | /ˈkredɪt skɔːr/ | điểm tín dụng | a number showing how likely you are to repay debt | a good credit score | A good *credit score* helps you get a loan. | Điểm tín dụng tốt giúp bạn vay được tiền.
+repay | verb | /rɪˈpeɪ/ | trả nợ | to pay back money | repay a loan | The loan must be *repaid* within five years. | Khoản vay phải được trả trong năm năm.
+repayment | noun | /rɪˈpeɪmənt/ | sự trả nợ | paying back money | monthly repayments | Monthly *repayments* are $300. | Số tiền trả hằng tháng là 300 đô.
+collateral | noun | /kəˈlætərəl/ | tài sản thế chấp | property promised to a lender | use a house as collateral | The bank asked for *collateral* for the loan. | Ngân hàng yêu cầu tài sản thế chấp cho khoản vay.
+financial advisor | noun | /faɪˌnænʃl ədˈvaɪzər/ | cố vấn tài chính | a person who gives advice about money | consult a financial advisor | Speak to a *financial advisor* before investing. | Hãy trao đổi với cố vấn tài chính trước khi đầu tư.
+portfolio | noun | /pɔːrtˈfoʊlioʊ/ | danh mục đầu tư; hồ sơ năng lực | a set of investments; examples of someone's work | investment portfolio; design portfolio | Please send us your design *portfolio*. | Vui lòng gửi chúng tôi hồ sơ thiết kế của bạn.
+stock market | noun | /ˈstɑːk ˌmɑːrkɪt/ | thị trường chứng khoán | the place where shares are bought and sold | invest in the stock market | The *stock market* rose sharply today. | Thị trường chứng khoán tăng mạnh hôm nay.
+shares | noun | /ʃerz/ | cổ phiếu | parts of a company that people can buy | buy shares; share price | She bought *shares* in a tech company. | Cô ấy mua cổ phiếu của một công ty công nghệ.
+insurance policy | noun | /ɪnˈʃʊrəns ˌpɑːləsi/ | hợp đồng bảo hiểm | a contract with an insurance company | take out an insurance policy | Read your *insurance policy* carefully. | Đọc kỹ hợp đồng bảo hiểm của bạn.
+premium | noun | /ˈpriːmiəm/ | phí bảo hiểm; cao cấp | money paid for insurance; high quality | insurance premium; premium quality | Your monthly *premium* is $45. | Phí bảo hiểm hằng tháng của bạn là 45 đô.
+policyholder | noun | /ˈpɑːləsihoʊldər/ | người được bảo hiểm | a person who has an insurance policy | all policyholders | *Policyholders* can file claims online. | Người có hợp đồng bảo hiểm có thể nộp yêu cầu bồi thường trực tuyến.
+file a claim | verb | /ˌfaɪl ə ˈkleɪm/ | nộp yêu cầu bồi thường | to officially ask for money from insurance | file a claim with | You must *file a claim* within 30 days. | Bạn phải nộp yêu cầu bồi thường trong vòng 30 ngày.
+coverage limit | noun | /ˈkʌvərɪdʒ ˌlɪmɪt/ | hạn mức bảo hiểm | the most an insurer will pay | check the coverage limit | The *coverage limit* for this policy is $100,000. | Hạn mức bảo hiểm của hợp đồng này là 100.000 đô.
+deductible | noun | /dɪˈdʌktəbl/ | mức khấu trừ (bảo hiểm) | the amount you pay before insurance pays | a $500 deductible | You pay the first $200; that's your *deductible*. | Bạn tự trả 200 đô đầu tiên; đó là mức khấu trừ.
+insure | verb | /ɪnˈʃʊr/ | mua bảo hiểm | to buy insurance for something | insure a car; be insured against | The package is *insured* up to $1,000. | Gói hàng được bảo hiểm tới 1.000 đô.
+insured | adjective | /ɪnˈʃʊrd/ | được bảo hiểm | protected by insurance | fully insured | All our drivers are fully *insured*. | Tất cả tài xế của chúng tôi đều được bảo hiểm đầy đủ.
+risk management | noun | /ˈrɪsk ˌmænɪdʒmənt/ | quản trị rủi ro | the process of reducing business risks | risk management team | She works in *risk management*. | Cô ấy làm trong mảng quản trị rủi ro.
+damages | noun | /ˈdæmɪdʒɪz/ | tiền bồi thường thiệt hại | money paid by a court for loss or injury | pay damages; claim damages | The company was ordered to pay *damages*. | Công ty bị buộc phải bồi thường thiệt hại.
+financial aid | noun | /faɪˌnænʃl ˈeɪd/ | hỗ trợ tài chính | money to help pay for education | apply for financial aid | Many students receive *financial aid*. | Nhiều sinh viên nhận hỗ trợ tài chính.
+budgeting | noun | /ˈbʌdʒɪtɪŋ/ | việc lập ngân sách | planning how to spend money | personal budgeting | Good *budgeting* helps you save money. | Lập ngân sách tốt giúp bạn tiết kiệm.
+cash flow | noun | /ˈkæʃ floʊ/ | dòng tiền | the movement of money in and out of a business | cash flow problems | Small businesses often have *cash flow* problems. | Doanh nghiệp nhỏ thường gặp vấn đề dòng tiền.
+assets and liabilities | noun | /ˌæsets ən ˌlaɪəˈbɪlətiz/ | tài sản và nợ phải trả | what a company owns and owes | list assets and liabilities | The report lists the company's *assets and liabilities*. | Báo cáo liệt kê tài sản và nợ phải trả của công ty.
+pension plan | noun | /ˈpenʃn plæn/ | quỹ hưu trí | a plan that saves money for retirement | join the pension plan | The company offers a *pension plan*. | Công ty có quỹ hưu trí cho nhân viên.
+appraise | verb | /əˈpreɪz/ | thẩm định giá | to judge the value of something | appraise a property | The house was *appraised* at $300,000. | Ngôi nhà được thẩm định giá 300.000 đô.
+valuation | noun | /ˌvæljuˈeɪʃn/ | sự định giá | an estimate of how much something is worth | company valuation | The *valuation* of the company rose to $2 billion. | Định giá công ty tăng lên 2 tỷ đô.
+monthly statement | noun | /ˌmʌnθli ˈsteɪtmənt/ | sao kê hằng tháng | a monthly record of account activity | receive a monthly statement | Check your *monthly statement* for errors. | Kiểm tra sao kê hằng tháng xem có sai sót không.
+paperless | adjective | /ˈpeɪpərləs/ | không dùng giấy | using electronic documents instead of paper | go paperless; paperless billing | Switch to *paperless* statements to help the environment. | Chuyển sang sao kê điện tử để bảo vệ môi trường.

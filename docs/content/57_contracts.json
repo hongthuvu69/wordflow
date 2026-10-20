@@ -1,0 +1,803 @@
+{
+ "id": "toeic_contracts",
+ "order": 57,
+ "icon": "📝",
+ "level": "TOEIC",
+ "title": "TOEIC: Contracts & Agreements",
+ "title_vi": "TOEIC: Hợp đồng & Thỏa thuận",
+ "description": "Điều khoản, gia hạn, vi phạm, tuân thủ, trách nhiệm pháp lý: từ vựng trang trọng hay gặp trong Part 6–7.",
+ "words": [
+  {
+   "id": "tcn_terms_and_conditions",
+   "word": "terms and conditions",
+   "pos": "noun",
+   "ipa": "/ˌtɜːrmz ən kənˈdɪʃnz/",
+   "level": "TOEIC",
+   "meaning": "điều khoản và điều kiện",
+   "definition": "the rules of an agreement",
+   "collocations": [
+    "accept the terms and conditions"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *terms and conditions* before signing up.",
+     "vi": "Vui lòng đọc điều khoản và điều kiện trước khi đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "tcn_renew",
+   "word": "renew",
+   "pos": "verb",
+   "ipa": "/rɪˈnuː/",
+   "level": "C1",
+   "meaning": "gia hạn",
+   "definition": "to make something valid for a longer time",
+   "collocations": [
+    "renew a contract",
+    "renew a subscription"
+   ],
+   "examples": [
+    {
+     "en": "Please *renew* your membership before it expires.",
+     "vi": "Vui lòng gia hạn hội viên trước khi hết hạn."
+    }
+   ]
+  },
+  {
+   "id": "tcn_renewal",
+   "word": "renewal",
+   "pos": "noun",
+   "ipa": "/rɪˈnuːəl/",
+   "level": "TOEIC",
+   "meaning": "sự gia hạn",
+   "definition": "the act of renewing",
+   "collocations": [
+    "contract renewal",
+    "renewal date"
+   ],
+   "examples": [
+    {
+     "en": "The *renewal* date is printed on your card.",
+     "vi": "Ngày gia hạn được in trên thẻ của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tcn_expiry",
+   "word": "expiry",
+   "pos": "noun",
+   "ipa": "/ɪkˈspaɪəri/",
+   "level": "TOEIC",
+   "meaning": "sự hết hạn",
+   "definition": "the end of a period of time",
+   "collocations": [
+    "expiry date"
+   ],
+   "examples": [
+    {
+     "en": "Check the *expiry* date on your passport.",
+     "vi": "Kiểm tra ngày hết hạn trên hộ chiếu."
+    }
+   ]
+  },
+  {
+   "id": "tcn_terminate",
+   "word": "terminate",
+   "pos": "verb",
+   "ipa": "/ˈtɜːrmɪneɪt/",
+   "level": "C1",
+   "meaning": "chấm dứt",
+   "definition": "to end officially",
+   "collocations": [
+    "terminate a contract",
+    "be terminated"
+   ],
+   "examples": [
+    {
+     "en": "Either party may *terminate* the contract with 30 days' notice.",
+     "vi": "Bên nào cũng có thể chấm dứt hợp đồng với thông báo trước 30 ngày."
+    }
+   ]
+  },
+  {
+   "id": "tcn_termination",
+   "word": "termination",
+   "pos": "noun",
+   "ipa": "/ˌtɜːrmɪˈneɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự chấm dứt",
+   "definition": "the act of ending something",
+   "collocations": [
+    "termination of employment"
+   ],
+   "examples": [
+    {
+     "en": "The contract explains the rules for *termination*.",
+     "vi": "Hợp đồng nêu rõ quy định chấm dứt."
+    }
+   ]
+  },
+  {
+   "id": "tcn_breach",
+   "word": "breach",
+   "pos": "noun",
+   "ipa": "/briːtʃ/",
+   "level": "C1",
+   "meaning": "sự vi phạm",
+   "definition": "breaking a law or agreement",
+   "collocations": [
+    "breach of contract",
+    "data breach"
+   ],
+   "examples": [
+    {
+     "en": "Late delivery is a *breach* of the contract.",
+     "vi": "Giao hàng trễ là vi phạm hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_comply",
+   "word": "comply",
+   "pos": "verb",
+   "ipa": "/kəmˈplaɪ/",
+   "level": "C1",
+   "meaning": "tuân thủ",
+   "definition": "to obey a rule",
+   "collocations": [
+    "comply with regulations"
+   ],
+   "examples": [
+    {
+     "en": "All suppliers must *comply* with our safety standards.",
+     "vi": "Mọi nhà cung cấp phải tuân thủ tiêu chuẩn an toàn của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tcn_compliance",
+   "word": "compliance",
+   "pos": "noun",
+   "ipa": "/kəmˈplaɪəns/",
+   "level": "C1",
+   "meaning": "sự tuân thủ",
+   "definition": "obeying rules or laws",
+   "collocations": [
+    "in compliance with",
+    "compliance team"
+   ],
+   "examples": [
+    {
+     "en": "The factory is in full *compliance* with the law.",
+     "vi": "Nhà máy tuân thủ đầy đủ pháp luật."
+    }
+   ]
+  },
+  {
+   "id": "tcn_liable",
+   "word": "liable",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪəbl/",
+   "level": "C1",
+   "meaning": "chịu trách nhiệm pháp lý",
+   "definition": "legally responsible",
+   "collocations": [
+    "liable for damage"
+   ],
+   "examples": [
+    {
+     "en": "The company is not *liable* for lost items.",
+     "vi": "Công ty không chịu trách nhiệm về đồ bị mất."
+    }
+   ]
+  },
+  {
+   "id": "tcn_liability",
+   "word": "liability",
+   "pos": "noun",
+   "ipa": "/ˌlaɪəˈbɪləti/",
+   "level": "TOEIC",
+   "meaning": "trách nhiệm pháp lý; khoản nợ",
+   "definition": "legal responsibility; a debt",
+   "collocations": [
+    "accept liability",
+    "limited liability"
+   ],
+   "examples": [
+    {
+     "en": "The hotel accepts no *liability* for valuables left in rooms.",
+     "vi": "Khách sạn không chịu trách nhiệm về đồ quý để trong phòng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_binding",
+   "word": "binding",
+   "pos": "adjective",
+   "ipa": "/ˈbaɪndɪŋ/",
+   "level": "TOEIC",
+   "meaning": "có tính ràng buộc",
+   "definition": "that must be obeyed by law",
+   "collocations": [
+    "legally binding"
+   ],
+   "examples": [
+    {
+     "en": "This agreement is legally *binding*.",
+     "vi": "Thỏa thuận này có giá trị ràng buộc pháp lý."
+    }
+   ]
+  },
+  {
+   "id": "tcn_draft_contract",
+   "word": "draft contract",
+   "pos": "noun",
+   "ipa": "/ˌdræft ˈkɑːntrækt/",
+   "level": "TOEIC",
+   "meaning": "bản dự thảo hợp đồng",
+   "definition": "a first version of a contract",
+   "collocations": [
+    "review the draft contract"
+   ],
+   "examples": [
+    {
+     "en": "Our lawyer is reviewing the *draft contract*.",
+     "vi": "Luật sư của chúng tôi đang xem bản dự thảo hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_amend",
+   "word": "amend",
+   "pos": "verb",
+   "ipa": "/əˈmend/",
+   "level": "C1",
+   "meaning": "sửa đổi",
+   "definition": "to change a document slightly",
+   "collocations": [
+    "amend a contract",
+    "amended version"
+   ],
+   "examples": [
+    {
+     "en": "We *amended* the contract to include the new price.",
+     "vi": "Chúng tôi đã sửa hợp đồng để thêm giá mới."
+    }
+   ]
+  },
+  {
+   "id": "tcn_amendment",
+   "word": "amendment",
+   "pos": "noun",
+   "ipa": "/əˈmendmənt/",
+   "level": "C1",
+   "meaning": "điều sửa đổi",
+   "definition": "a change to a document",
+   "collocations": [
+    "make an amendment"
+   ],
+   "examples": [
+    {
+     "en": "Please initial each *amendment*.",
+     "vi": "Vui lòng ký tắt vào mỗi chỗ sửa đổi."
+    }
+   ]
+  },
+  {
+   "id": "tcn_party",
+   "word": "party",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrti/",
+   "level": "A1",
+   "meaning": "bên (trong hợp đồng)",
+   "definition": "a person or group in an agreement",
+   "collocations": [
+    "both parties",
+    "third party"
+   ],
+   "examples": [
+    {
+     "en": "Both *parties* must sign the agreement.",
+     "vi": "Cả hai bên phải ký thỏa thuận."
+    }
+   ]
+  },
+  {
+   "id": "tcn_signatory",
+   "word": "signatory",
+   "pos": "noun",
+   "ipa": "/ˈsɪɡnətɔːri/",
+   "level": "TOEIC",
+   "meaning": "bên ký kết",
+   "definition": "a person or country that signs an agreement",
+   "collocations": [
+    "the signatories"
+   ],
+   "examples": [
+    {
+     "en": "All *signatories* received a copy of the contract.",
+     "vi": "Tất cả các bên ký kết đều nhận một bản hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_confidential",
+   "word": "confidential",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːnfɪˈdenʃl/",
+   "level": "TOEIC",
+   "meaning": "bảo mật",
+   "definition": "meant to be kept secret",
+   "collocations": [
+    "strictly confidential",
+    "confidential information"
+   ],
+   "examples": [
+    {
+     "en": "All salary information is *confidential*.",
+     "vi": "Mọi thông tin lương đều được bảo mật."
+    }
+   ]
+  },
+  {
+   "id": "tcn_confidentiality",
+   "word": "confidentiality",
+   "pos": "noun",
+   "ipa": "/ˌkɑːnfɪˌdenʃiˈæləti/",
+   "level": "TOEIC",
+   "meaning": "tính bảo mật",
+   "definition": "the state of being kept secret",
+   "collocations": [
+    "confidentiality agreement"
+   ],
+   "examples": [
+    {
+     "en": "Staff must sign a *confidentiality* agreement.",
+     "vi": "Nhân viên phải ký thỏa thuận bảo mật."
+    }
+   ]
+  },
+  {
+   "id": "tcn_dispute",
+   "word": "dispute",
+   "pos": "noun",
+   "ipa": "/dɪˈspjuːt/",
+   "level": "C1",
+   "meaning": "tranh chấp",
+   "definition": "a disagreement",
+   "collocations": [
+    "in dispute",
+    "resolve a dispute"
+   ],
+   "examples": [
+    {
+     "en": "The two firms settled the *dispute* out of court.",
+     "vi": "Hai công ty giải quyết tranh chấp ngoài tòa."
+    }
+   ]
+  },
+  {
+   "id": "tcn_lawsuit",
+   "word": "lawsuit",
+   "pos": "noun",
+   "ipa": "/ˈlɔːsuːt/",
+   "level": "C1",
+   "meaning": "vụ kiện",
+   "definition": "a case in a court of law",
+   "collocations": [
+    "file a lawsuit"
+   ],
+   "examples": [
+    {
+     "en": "The customer filed a *lawsuit* against the company.",
+     "vi": "Khách hàng đã kiện công ty."
+    }
+   ]
+  },
+  {
+   "id": "tcn_lawyer",
+   "word": "lawyer",
+   "pos": "noun",
+   "ipa": "/ˈlɔːjər/",
+   "level": "A2",
+   "meaning": "luật sư",
+   "definition": "a person trained in law",
+   "collocations": [
+    "consult a lawyer"
+   ],
+   "examples": [
+    {
+     "en": "Please have your *lawyer* check the contract.",
+     "vi": "Vui lòng nhờ luật sư kiểm tra hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_attorney",
+   "word": "attorney",
+   "pos": "noun",
+   "ipa": "/əˈtɜːrni/",
+   "level": "C1",
+   "meaning": "luật sư (Anh-Mỹ)",
+   "definition": "a lawyer",
+   "collocations": [
+    "hire an attorney"
+   ],
+   "examples": [
+    {
+     "en": "Our *attorney* will review the agreement.",
+     "vi": "Luật sư của chúng tôi sẽ xem thỏa thuận."
+    }
+   ]
+  },
+  {
+   "id": "tcn_legal_action",
+   "word": "legal action",
+   "pos": "noun",
+   "ipa": "/ˌliːɡl ˈækʃn/",
+   "level": "TOEIC",
+   "meaning": "hành động pháp lý",
+   "definition": "going to court",
+   "collocations": [
+    "take legal action"
+   ],
+   "examples": [
+    {
+     "en": "We may take *legal action* if the bill is not paid.",
+     "vi": "Chúng tôi có thể kiện nếu hóa đơn không được thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tcn_provision",
+   "word": "provision",
+   "pos": "noun",
+   "ipa": "/prəˈvɪʒn/",
+   "level": "C1",
+   "meaning": "điều khoản; sự cung cấp",
+   "definition": "a condition in an agreement; the act of supplying",
+   "collocations": [
+    "provisions of the contract",
+    "the provision of"
+   ],
+   "examples": [
+    {
+     "en": "The contract includes a *provision* for late payment.",
+     "vi": "Hợp đồng có điều khoản về thanh toán trễ."
+    }
+   ]
+  },
+  {
+   "id": "tcn_stipulate",
+   "word": "stipulate",
+   "pos": "verb",
+   "ipa": "/ˈstɪpjuleɪt/",
+   "level": "TOEIC",
+   "meaning": "quy định rõ",
+   "definition": "to state clearly as a condition",
+   "collocations": [
+    "the contract stipulates that"
+   ],
+   "examples": [
+    {
+     "en": "The contract *stipulates* that payment must be made in advance.",
+     "vi": "Hợp đồng quy định phải thanh toán trước."
+    }
+   ]
+  },
+  {
+   "id": "tcn_obligate",
+   "word": "obligate",
+   "pos": "verb",
+   "ipa": "/ˈɑːblɪɡeɪt/",
+   "level": "TOEIC",
+   "meaning": "bắt buộc",
+   "definition": "to make someone legally have to do something",
+   "collocations": [
+    "be obligated to"
+   ],
+   "examples": [
+    {
+     "en": "You are not *obligated* to buy anything.",
+     "vi": "Bạn không bắt buộc phải mua gì."
+    }
+   ]
+  },
+  {
+   "id": "tcn_in_accordance_with",
+   "word": "in accordance with",
+   "pos": "preposition",
+   "ipa": "/ɪn əˈkɔːrdns wɪð/",
+   "level": "TOEIC",
+   "meaning": "theo đúng",
+   "definition": "following a rule or agreement",
+   "collocations": [
+    "in accordance with the law"
+   ],
+   "examples": [
+    {
+     "en": "Refunds are given *in accordance with* our policy.",
+     "vi": "Hoàn tiền được thực hiện theo đúng chính sách của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tcn_effective_date",
+   "word": "effective date",
+   "pos": "noun",
+   "ipa": "/ɪˈfektɪv deɪt/",
+   "level": "TOEIC",
+   "meaning": "ngày có hiệu lực",
+   "definition": "the date a rule or contract starts",
+   "collocations": [
+    "the effective date of the contract"
+   ],
+   "examples": [
+    {
+     "en": "The *effective date* of the agreement is July 1.",
+     "vi": "Ngày thỏa thuận có hiệu lực là 1/7."
+    }
+   ]
+  },
+  {
+   "id": "tcn_null_and_void",
+   "word": "null and void",
+   "pos": "adjective",
+   "ipa": "/ˌnʌl ən ˈvɔɪd/",
+   "level": "TOEIC",
+   "meaning": "vô hiệu",
+   "definition": "having no legal force",
+   "collocations": [
+    "become null and void"
+   ],
+   "examples": [
+    {
+     "en": "Without both signatures, the contract is *null and void*.",
+     "vi": "Không đủ hai chữ ký thì hợp đồng vô hiệu."
+    }
+   ]
+  },
+  {
+   "id": "tcn_waive",
+   "word": "waive",
+   "pos": "verb",
+   "ipa": "/weɪv/",
+   "level": "TOEIC",
+   "meaning": "miễn, bỏ qua",
+   "definition": "to not demand a right or payment",
+   "collocations": [
+    "waive a fee"
+   ],
+   "examples": [
+    {
+     "en": "We will *waive* the delivery fee for this order.",
+     "vi": "Chúng tôi sẽ miễn phí giao hàng cho đơn này."
+    }
+   ]
+  },
+  {
+   "id": "tcn_exempt",
+   "word": "exempt",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzempt/",
+   "level": "TOEIC",
+   "meaning": "được miễn",
+   "definition": "not having to do or pay something",
+   "collocations": [
+    "tax-exempt",
+    "exempt from"
+   ],
+   "examples": [
+    {
+     "en": "Small businesses are *exempt* from this tax.",
+     "vi": "Doanh nghiệp nhỏ được miễn loại thuế này."
+    }
+   ]
+  },
+  {
+   "id": "tcn_authorize",
+   "word": "authorize",
+   "pos": "verb",
+   "ipa": "/ˈɔːθəraɪz/",
+   "level": "C1",
+   "meaning": "ủy quyền, cho phép",
+   "definition": "to give official permission",
+   "collocations": [
+    "authorized dealer",
+    "authorize payment"
+   ],
+   "examples": [
+    {
+     "en": "Only managers can *authorize* refunds.",
+     "vi": "Chỉ quản lý mới được duyệt hoàn tiền."
+    }
+   ]
+  },
+  {
+   "id": "tcn_authorization",
+   "word": "authorization",
+   "pos": "noun",
+   "ipa": "/ˌɔːθərəˈzeɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự ủy quyền",
+   "definition": "official permission",
+   "collocations": [
+    "written authorization"
+   ],
+   "examples": [
+    {
+     "en": "You need written *authorization* to enter the lab.",
+     "vi": "Bạn cần giấy phép bằng văn bản để vào phòng thí nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "tcn_consent",
+   "word": "consent",
+   "pos": "noun",
+   "ipa": "/kənˈsent/",
+   "level": "C1",
+   "meaning": "sự đồng ý",
+   "definition": "permission",
+   "collocations": [
+    "written consent",
+    "without consent"
+   ],
+   "examples": [
+    {
+     "en": "We will not share your data without your *consent*.",
+     "vi": "Chúng tôi sẽ không chia sẻ dữ liệu của bạn khi chưa được đồng ý."
+    }
+   ]
+  },
+  {
+   "id": "tcn_intellectual_property",
+   "word": "intellectual property",
+   "pos": "noun",
+   "ipa": "/ˌɪntəlektʃuəl ˈprɑːpərti/",
+   "level": "TOEIC",
+   "meaning": "sở hữu trí tuệ",
+   "definition": "ideas and designs protected by law",
+   "collocations": [
+    "protect intellectual property"
+   ],
+   "examples": [
+    {
+     "en": "The logo is our *intellectual property*.",
+     "vi": "Logo là tài sản trí tuệ của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tcn_patent",
+   "word": "patent",
+   "pos": "noun",
+   "ipa": "/ˈpætnt/",
+   "level": "C1",
+   "meaning": "bằng sáng chế",
+   "definition": "the legal right to make an invention",
+   "collocations": [
+    "apply for a patent",
+    "patent pending"
+   ],
+   "examples": [
+    {
+     "en": "The company holds a *patent* for the design.",
+     "vi": "Công ty giữ bằng sáng chế cho thiết kế này."
+    }
+   ]
+  },
+  {
+   "id": "tcn_trademark",
+   "word": "trademark",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdmɑːrk/",
+   "level": "C1",
+   "meaning": "nhãn hiệu thương mại",
+   "definition": "a name or symbol protected by law",
+   "collocations": [
+    "registered trademark"
+   ],
+   "examples": [
+    {
+     "en": "The name is a registered *trademark*.",
+     "vi": "Cái tên này là nhãn hiệu đã đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "tcn_copyright",
+   "word": "copyright",
+   "pos": "noun",
+   "ipa": "/ˈkɑːpiraɪt/",
+   "level": "C1",
+   "meaning": "bản quyền",
+   "definition": "the legal right to copy a book, music etc.",
+   "collocations": [
+    "protected by copyright"
+   ],
+   "examples": [
+    {
+     "en": "These photos are protected by *copyright*.",
+     "vi": "Những bức ảnh này được bảo hộ bản quyền."
+    }
+   ]
+  },
+  {
+   "id": "tcn_notice_period",
+   "word": "notice period",
+   "pos": "noun",
+   "ipa": "/ˈnoʊtɪs ˌpɪriəd/",
+   "level": "TOEIC",
+   "meaning": "thời gian báo trước",
+   "definition": "the time you must give before leaving a job or ending a contract",
+   "collocations": [
+    "a one-month notice period"
+   ],
+   "examples": [
+    {
+     "en": "The *notice period* is one month.",
+     "vi": "Thời gian báo trước là một tháng."
+    }
+   ]
+  },
+  {
+   "id": "tcn_written_notice",
+   "word": "written notice",
+   "pos": "noun",
+   "ipa": "/ˌrɪtn ˈnoʊtɪs/",
+   "level": "TOEIC",
+   "meaning": "thông báo bằng văn bản",
+   "definition": "a formal written message",
+   "collocations": [
+    "give written notice"
+   ],
+   "examples": [
+    {
+     "en": "Please give *written notice* if you want to cancel.",
+     "vi": "Vui lòng thông báo bằng văn bản nếu muốn hủy."
+    }
+   ]
+  },
+  {
+   "id": "tcn_mutual",
+   "word": "mutual",
+   "pos": "adjective",
+   "ipa": "/ˈmjuːtʃuəl/",
+   "level": "C1",
+   "meaning": "chung, đôi bên",
+   "definition": "felt or done by both sides",
+   "collocations": [
+    "mutual agreement",
+    "mutual benefit"
+   ],
+   "examples": [
+    {
+     "en": "The contract was ended by *mutual* agreement.",
+     "vi": "Hợp đồng được chấm dứt theo thỏa thuận đôi bên."
+    }
+   ]
+  },
+  {
+   "id": "tcn_enforce",
+   "word": "enforce",
+   "pos": "verb",
+   "ipa": "/ɪnˈfɔːrs/",
+   "level": "C1",
+   "meaning": "thi hành, thực thi",
+   "definition": "to make people obey a rule",
+   "collocations": [
+    "enforce the rules",
+    "strictly enforced"
+   ],
+   "examples": [
+    {
+     "en": "The no-smoking rule is strictly *enforced*.",
+     "vi": "Quy định cấm hút thuốc được thực thi nghiêm ngặt."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

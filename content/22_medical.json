@@ -1,0 +1,965 @@
+{
+ "id": "medical",
+ "order": 22,
+ "icon": "🏥",
+ "level": "B2",
+ "title": "Medicine & Healthcare",
+ "title_vi": "Y tế & Chăm sóc sức khỏe",
+ "description": "Bệnh viện, điều trị, vắc-xin, dinh dưỡng, sức khỏe tinh thần: từ vựng cho thông báo y tế và bài đọc.",
+ "words": [
+  {
+   "id": "mdc_healthcare",
+   "word": "healthcare",
+   "pos": "noun",
+   "ipa": "/ˈhelθker/",
+   "level": "B2",
+   "meaning": "chăm sóc sức khỏe",
+   "definition": "the service of providing medical care",
+   "collocations": [
+    "healthcare system",
+    "healthcare workers"
+   ],
+   "examples": [
+    {
+     "en": "The country spends a lot on *healthcare*.",
+     "vi": "Đất nước chi nhiều cho y tế."
+    }
+   ]
+  },
+  {
+   "id": "mdc_clinic",
+   "word": "clinic",
+   "pos": "noun",
+   "ipa": "/ˈklɪnɪk/",
+   "level": "B2",
+   "meaning": "phòng khám",
+   "definition": "a place where people get medical advice or treatment",
+   "collocations": [
+    "dental clinic",
+    "health clinic"
+   ],
+   "examples": [
+    {
+     "en": "The *clinic* is open from 8 a.m. to 6 p.m.",
+     "vi": "Phòng khám mở cửa từ 8 giờ sáng đến 6 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "mdc_ambulance",
+   "word": "ambulance",
+   "pos": "noun",
+   "ipa": "/ˈæmbjələns/",
+   "level": "B2",
+   "meaning": "xe cứu thương",
+   "definition": "a vehicle that takes sick people to hospital",
+   "collocations": [
+    "call an ambulance",
+    "ambulance driver"
+   ],
+   "examples": [
+    {
+     "en": "Someone call an *ambulance*!",
+     "vi": "Ai đó gọi xe cứu thương đi!"
+    }
+   ]
+  },
+  {
+   "id": "mdc_surgeon",
+   "word": "surgeon",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrdʒən/",
+   "level": "B2",
+   "meaning": "bác sĩ phẫu thuật",
+   "definition": "a doctor who does operations",
+   "collocations": [
+    "heart surgeon",
+    "a senior surgeon"
+   ],
+   "examples": [
+    {
+     "en": "The *surgeon* said the operation went well.",
+     "vi": "Bác sĩ phẫu thuật nói ca mổ diễn ra tốt."
+    }
+   ]
+  },
+  {
+   "id": "mdc_surgery",
+   "word": "surgery",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrdʒəri/",
+   "level": "B2",
+   "meaning": "ca phẫu thuật",
+   "definition": "medical treatment by cutting the body",
+   "collocations": [
+    "have surgery",
+    "heart surgery",
+    "undergo surgery"
+   ],
+   "examples": [
+    {
+     "en": "He needs *surgery* on his knee.",
+     "vi": "Anh ấy cần phẫu thuật đầu gối."
+    }
+   ]
+  },
+  {
+   "id": "mdc_therapy",
+   "word": "therapy",
+   "pos": "noun",
+   "ipa": "/ˈθerəpi/",
+   "level": "B2",
+   "meaning": "liệu pháp",
+   "definition": "treatment for an illness or mental problem",
+   "collocations": [
+    "physical therapy",
+    "speech therapy"
+   ],
+   "examples": [
+    {
+     "en": "She is having *therapy* for her back injury.",
+     "vi": "Cô ấy đang điều trị bằng liệu pháp cho chấn thương lưng."
+    }
+   ]
+  },
+  {
+   "id": "mdc_therapist",
+   "word": "therapist",
+   "pos": "noun",
+   "ipa": "/ˈθerəpɪst/",
+   "level": "B2",
+   "meaning": "nhà trị liệu",
+   "definition": "a person trained to treat illness without drugs",
+   "collocations": [
+    "physical therapist",
+    "see a therapist"
+   ],
+   "examples": [
+    {
+     "en": "My *therapist* gave me some exercises to do at home.",
+     "vi": "Nhà trị liệu cho tôi vài bài tập làm ở nhà."
+    }
+   ]
+  },
+  {
+   "id": "mdc_medication",
+   "word": "medication",
+   "pos": "noun",
+   "ipa": "/ˌmedɪˈkeɪʃn/",
+   "level": "B2",
+   "meaning": "thuốc men",
+   "definition": "medicine used to treat an illness",
+   "collocations": [
+    "take medication",
+    "on medication"
+   ],
+   "examples": [
+    {
+     "en": "Are you currently taking any *medication*?",
+     "vi": "Hiện bạn có đang dùng thuốc gì không?"
+    }
+   ]
+  },
+  {
+   "id": "mdc_pill",
+   "word": "pill",
+   "pos": "noun",
+   "ipa": "/pɪl/",
+   "level": "B2",
+   "meaning": "viên thuốc",
+   "definition": "a small round piece of medicine",
+   "collocations": [
+    "take a pill",
+    "sleeping pills"
+   ],
+   "examples": [
+    {
+     "en": "Take one *pill* twice a day after meals.",
+     "vi": "Uống một viên hai lần mỗi ngày sau bữa ăn."
+    }
+   ]
+  },
+  {
+   "id": "mdc_pharmacy",
+   "word": "pharmacy",
+   "pos": "noun",
+   "ipa": "/ˈfɑːrməsi/",
+   "level": "B2",
+   "meaning": "hiệu thuốc",
+   "definition": "a shop that sells medicine",
+   "collocations": [
+    "at the pharmacy",
+    "a 24-hour pharmacy"
+   ],
+   "examples": [
+    {
+     "en": "There's a *pharmacy* next to the hospital.",
+     "vi": "Có một hiệu thuốc cạnh bệnh viện."
+    }
+   ]
+  },
+  {
+   "id": "mdc_cure",
+   "word": "cure",
+   "pos": "noun",
+   "ipa": "/kjʊr/",
+   "level": "B2",
+   "meaning": "phương thuốc chữa",
+   "definition": "a medicine or treatment that ends an illness",
+   "collocations": [
+    "a cure for",
+    "find a cure"
+   ],
+   "examples": [
+    {
+     "en": "There is no *cure* for the common cold.",
+     "vi": "Không có thuốc chữa cảm lạnh thông thường."
+    }
+   ],
+   "note": "Động từ: cure a disease."
+  },
+  {
+   "id": "mdc_recovery",
+   "word": "recovery",
+   "pos": "noun",
+   "ipa": "/rɪˈkʌvəri/",
+   "level": "B2",
+   "meaning": "sự hồi phục",
+   "definition": "the process of getting better",
+   "collocations": [
+    "make a full recovery",
+    "economic recovery"
+   ],
+   "examples": [
+    {
+     "en": "She made a quick *recovery* after the operation.",
+     "vi": "Cô ấy hồi phục nhanh sau ca mổ."
+    }
+   ]
+  },
+  {
+   "id": "mdc_infection",
+   "word": "infection",
+   "pos": "noun",
+   "ipa": "/ɪnˈfekʃn/",
+   "level": "B2",
+   "meaning": "sự nhiễm trùng",
+   "definition": "an illness caused by bacteria or a virus",
+   "collocations": [
+    "ear infection",
+    "risk of infection"
+   ],
+   "examples": [
+    {
+     "en": "Keep the cut clean to avoid *infection*.",
+     "vi": "Giữ vết cắt sạch sẽ để tránh nhiễm trùng."
+    }
+   ]
+  },
+  {
+   "id": "mdc_immune",
+   "word": "immune",
+   "pos": "adjective",
+   "ipa": "/ɪˈmjuːn/",
+   "level": "B2",
+   "meaning": "miễn dịch",
+   "definition": "protected from a disease",
+   "collocations": [
+    "immune system",
+    "immune to"
+   ],
+   "examples": [
+    {
+     "en": "Sleep helps keep your *immune* system strong.",
+     "vi": "Giấc ngủ giúp hệ miễn dịch khỏe mạnh."
+    }
+   ]
+  },
+  {
+   "id": "mdc_vaccine",
+   "word": "vaccine",
+   "pos": "noun",
+   "ipa": "/vækˈsiːn/",
+   "level": "B2",
+   "meaning": "vắc-xin",
+   "definition": "a substance that protects you against a disease",
+   "collocations": [
+    "flu vaccine",
+    "develop a vaccine"
+   ],
+   "examples": [
+    {
+     "en": "A new *vaccine* is being tested.",
+     "vi": "Một loại vắc-xin mới đang được thử nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "mdc_vaccinate",
+   "word": "vaccinate",
+   "pos": "verb",
+   "ipa": "/ˈvæksɪneɪt/",
+   "level": "B2",
+   "meaning": "tiêm chủng",
+   "definition": "to give someone a vaccine",
+   "collocations": [
+    "be vaccinated against"
+   ],
+   "examples": [
+    {
+     "en": "Children should be *vaccinated* against measles.",
+     "vi": "Trẻ em nên được tiêm phòng sởi."
+    }
+   ]
+  },
+  {
+   "id": "mdc_vaccination",
+   "word": "vaccination",
+   "pos": "noun",
+   "ipa": "/ˌvæksɪˈneɪʃn/",
+   "level": "B2",
+   "meaning": "sự tiêm chủng",
+   "definition": "the act of giving a vaccine",
+   "collocations": [
+    "vaccination programme",
+    "get a vaccination"
+   ],
+   "examples": [
+    {
+     "en": "You need a *vaccination* before travelling there.",
+     "vi": "Bạn cần tiêm chủng trước khi đến đó."
+    }
+   ]
+  },
+  {
+   "id": "mdc_pandemic",
+   "word": "pandemic",
+   "pos": "noun",
+   "ipa": "/pænˈdemɪk/",
+   "level": "B2",
+   "meaning": "đại dịch",
+   "definition": "a disease that spreads over many countries",
+   "collocations": [
+    "during the pandemic",
+    "a global pandemic"
+   ],
+   "examples": [
+    {
+     "en": "Many people worked from home during the *pandemic*.",
+     "vi": "Nhiều người làm việc tại nhà trong đại dịch."
+    }
+   ]
+  },
+  {
+   "id": "mdc_cancer",
+   "word": "cancer",
+   "pos": "noun",
+   "ipa": "/ˈkænsər/",
+   "level": "B2",
+   "meaning": "ung thư",
+   "definition": "a serious disease where cells grow abnormally",
+   "collocations": [
+    "lung cancer",
+    "cancer treatment"
+   ],
+   "examples": [
+    {
+     "en": "Smoking increases the risk of *cancer*.",
+     "vi": "Hút thuốc làm tăng nguy cơ ung thư."
+    }
+   ]
+  },
+  {
+   "id": "mdc_diabetes",
+   "word": "diabetes",
+   "pos": "noun",
+   "ipa": "/ˌdaɪəˈbiːtiːz/",
+   "level": "B2",
+   "meaning": "bệnh tiểu đường",
+   "definition": "a disease where the body cannot control sugar levels",
+   "collocations": [
+    "have diabetes",
+    "type 2 diabetes"
+   ],
+   "examples": [
+    {
+     "en": "Eating too much sugar can lead to *diabetes*.",
+     "vi": "Ăn quá nhiều đường có thể dẫn đến tiểu đường."
+    }
+   ]
+  },
+  {
+   "id": "mdc_obesity",
+   "word": "obesity",
+   "pos": "noun",
+   "ipa": "/oʊˈbiːsəti/",
+   "level": "B2",
+   "meaning": "bệnh béo phì",
+   "definition": "the condition of being very fat",
+   "collocations": [
+    "childhood obesity",
+    "rates of obesity"
+   ],
+   "examples": [
+    {
+     "en": "*Obesity* is a growing problem in many countries.",
+     "vi": "Béo phì là vấn đề ngày càng lớn ở nhiều nước."
+    }
+   ]
+  },
+  {
+   "id": "mdc_disorder",
+   "word": "disorder",
+   "pos": "noun",
+   "ipa": "/dɪsˈɔːrdər/",
+   "level": "B2",
+   "meaning": "rối loạn",
+   "definition": "an illness of the mind or body",
+   "collocations": [
+    "sleep disorder",
+    "eating disorder"
+   ],
+   "examples": [
+    {
+     "en": "He suffers from a sleep *disorder*.",
+     "vi": "Anh ấy bị rối loạn giấc ngủ."
+    }
+   ]
+  },
+  {
+   "id": "mdc_disability",
+   "word": "disability",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈbɪləti/",
+   "level": "B2",
+   "meaning": "khuyết tật",
+   "definition": "a condition that limits physical or mental activity",
+   "collocations": [
+    "people with disabilities",
+    "learning disability"
+   ],
+   "examples": [
+    {
+     "en": "The building is accessible to people with *disabilities*.",
+     "vi": "Tòa nhà có lối đi cho người khuyết tật."
+    }
+   ]
+  },
+  {
+   "id": "mdc_disabled",
+   "word": "disabled",
+   "pos": "adjective",
+   "ipa": "/dɪsˈeɪbld/",
+   "level": "B2",
+   "meaning": "khuyết tật",
+   "definition": "having a disability",
+   "collocations": [
+    "disabled access",
+    "disabled parking"
+   ],
+   "examples": [
+    {
+     "en": "There are two *disabled* parking spaces near the entrance.",
+     "vi": "Có hai chỗ đỗ xe cho người khuyết tật gần lối vào."
+    }
+   ]
+  },
+  {
+   "id": "mdc_injure",
+   "word": "injure",
+   "pos": "verb",
+   "ipa": "/ˈɪndʒər/",
+   "level": "B1",
+   "meaning": "làm bị thương",
+   "definition": "to hurt a person or animal",
+   "collocations": [
+    "be injured in an accident",
+    "injure your back"
+   ],
+   "examples": [
+    {
+     "en": "Two workers were *injured* in the accident.",
+     "vi": "Hai công nhân bị thương trong vụ tai nạn."
+    }
+   ]
+  },
+  {
+   "id": "mdc_injured",
+   "word": "injured",
+   "pos": "adjective",
+   "ipa": "/ˈɪndʒərd/",
+   "level": "B1",
+   "meaning": "bị thương",
+   "definition": "hurt",
+   "collocations": [
+    "seriously injured",
+    "the injured"
+   ],
+   "examples": [
+    {
+     "en": "The *injured* driver was taken to hospital.",
+     "vi": "Tài xế bị thương được đưa đến bệnh viện."
+    }
+   ]
+  },
+  {
+   "id": "mdc_wound",
+   "word": "wound",
+   "pos": "noun",
+   "ipa": "/wuːnd/",
+   "level": "B2",
+   "meaning": "vết thương",
+   "definition": "an injury where the skin is cut",
+   "collocations": [
+    "a deep wound",
+    "clean the wound"
+   ],
+   "examples": [
+    {
+     "en": "The nurse cleaned the *wound* carefully.",
+     "vi": "Y tá làm sạch vết thương cẩn thận."
+    }
+   ],
+   "note": "Phát âm /wuːnd/, khác wound /waʊnd/ (quá khứ của wind)."
+  },
+  {
+   "id": "mdc_nursing",
+   "word": "nursing",
+   "pos": "noun",
+   "ipa": "/ˈnɜːrsɪŋ/",
+   "level": "B2",
+   "meaning": "nghề điều dưỡng",
+   "definition": "the job of caring for sick people",
+   "collocations": [
+    "nursing home",
+    "nursing staff"
+   ],
+   "examples": [
+    {
+     "en": "She is studying *nursing* at college.",
+     "vi": "Cô ấy đang học điều dưỡng ở trường cao đẳng."
+    }
+   ]
+  },
+  {
+   "id": "mdc_pregnant",
+   "word": "pregnant",
+   "pos": "adjective",
+   "ipa": "/ˈpreɡnənt/",
+   "level": "B2",
+   "meaning": "có thai",
+   "definition": "having a baby growing inside the body",
+   "collocations": [
+    "six months pregnant",
+    "pregnant women"
+   ],
+   "examples": [
+    {
+     "en": "This seat is for elderly, disabled or *pregnant* passengers.",
+     "vi": "Ghế này dành cho người già, người khuyết tật hoặc phụ nữ mang thai."
+    }
+   ]
+  },
+  {
+   "id": "mdc_nutrition",
+   "word": "nutrition",
+   "pos": "noun",
+   "ipa": "/nuˈtrɪʃn/",
+   "level": "B2",
+   "meaning": "dinh dưỡng",
+   "definition": "the food needed for health",
+   "collocations": [
+    "good nutrition",
+    "nutrition facts"
+   ],
+   "examples": [
+    {
+     "en": "Good *nutrition* is important for children.",
+     "vi": "Dinh dưỡng tốt rất quan trọng với trẻ em."
+    }
+   ]
+  },
+  {
+   "id": "mdc_protein",
+   "word": "protein",
+   "pos": "noun",
+   "ipa": "/ˈproʊtiːn/",
+   "level": "B2",
+   "meaning": "chất đạm",
+   "definition": "a substance in meat, eggs, beans etc.",
+   "collocations": [
+    "high in protein",
+    "protein source"
+   ],
+   "examples": [
+    {
+     "en": "Eggs are a good source of *protein*.",
+     "vi": "Trứng là nguồn đạm tốt."
+    }
+   ]
+  },
+  {
+   "id": "mdc_vitamin",
+   "word": "vitamin",
+   "pos": "noun",
+   "ipa": "/ˈvaɪtəmɪn/",
+   "level": "B2",
+   "meaning": "vitamin",
+   "definition": "a natural substance in food needed for health",
+   "collocations": [
+    "vitamin C",
+    "take vitamins"
+   ],
+   "examples": [
+    {
+     "en": "Oranges are full of *vitamin* C.",
+     "vi": "Cam rất giàu vitamin C."
+    }
+   ]
+  },
+  {
+   "id": "mdc_fitness",
+   "word": "fitness",
+   "pos": "noun",
+   "ipa": "/ˈfɪtnəs/",
+   "level": "B1",
+   "meaning": "sự khỏe mạnh, thể lực",
+   "definition": "the state of being physically strong and healthy",
+   "collocations": [
+    "fitness centre",
+    "physical fitness"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has a *fitness* centre on the top floor.",
+     "vi": "Khách sạn có phòng tập thể dục trên tầng thượng."
+    }
+   ]
+  },
+  {
+   "id": "mdc_well_being",
+   "word": "well-being",
+   "pos": "noun",
+   "ipa": "/ˌwel ˈbiːɪŋ/",
+   "level": "B2",
+   "meaning": "sức khỏe và hạnh phúc",
+   "definition": "the state of being healthy and happy",
+   "collocations": [
+    "physical and mental well-being"
+   ],
+   "examples": [
+    {
+     "en": "The company cares about employee *well-being*.",
+     "vi": "Công ty quan tâm đến sức khỏe và hạnh phúc của nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "mdc_mental",
+   "word": "mental",
+   "pos": "adjective",
+   "ipa": "/ˈmentl/",
+   "level": "B1",
+   "meaning": "thuộc tinh thần",
+   "definition": "connected with the mind",
+   "collocations": [
+    "mental illness",
+    "mental effort"
+   ],
+   "examples": [
+    {
+     "en": "Exercise is good for your *mental* well-being too.",
+     "vi": "Tập thể dục cũng tốt cho tinh thần."
+    }
+   ]
+  },
+  {
+   "id": "mdc_anxiety",
+   "word": "anxiety",
+   "pos": "noun",
+   "ipa": "/æŋˈzaɪəti/",
+   "level": "B2",
+   "meaning": "sự lo âu",
+   "definition": "a feeling of worry or fear",
+   "collocations": [
+    "suffer from anxiety",
+    "cause anxiety"
+   ],
+   "examples": [
+    {
+     "en": "Exams can cause *anxiety* for many students.",
+     "vi": "Thi cử có thể gây lo âu cho nhiều học sinh."
+    }
+   ]
+  },
+  {
+   "id": "mdc_depression",
+   "word": "depression",
+   "pos": "noun",
+   "ipa": "/dɪˈpreʃn/",
+   "level": "B2",
+   "meaning": "bệnh trầm cảm; suy thoái",
+   "definition": "a medical condition of feeling very sad; a period of bad economy",
+   "collocations": [
+    "suffer from depression",
+    "the Great Depression"
+   ],
+   "examples": [
+    {
+     "en": "She was treated for *depression*.",
+     "vi": "Cô ấy được điều trị chứng trầm cảm."
+    }
+   ]
+  },
+  {
+   "id": "mdc_addiction",
+   "word": "addiction",
+   "pos": "noun",
+   "ipa": "/əˈdɪkʃn/",
+   "level": "B2",
+   "meaning": "sự nghiện",
+   "definition": "the condition of being unable to stop using something",
+   "collocations": [
+    "drug addiction",
+    "internet addiction"
+   ],
+   "examples": [
+    {
+     "en": "Phone *addiction* is common among teenagers.",
+     "vi": "Nghiện điện thoại phổ biến ở thanh thiếu niên."
+    }
+   ]
+  },
+  {
+   "id": "mdc_alcohol",
+   "word": "alcohol",
+   "pos": "noun",
+   "ipa": "/ˈælkəhɔːl/",
+   "level": "B1",
+   "meaning": "rượu bia, cồn",
+   "definition": "drinks like beer and wine; a chemical",
+   "collocations": [
+    "drink alcohol",
+    "alcohol-free"
+   ],
+   "examples": [
+    {
+     "en": "No *alcohol* is allowed on the premises.",
+     "vi": "Không được phép uống rượu bia trong khuôn viên."
+    }
+   ]
+  },
+  {
+   "id": "mdc_alcoholic",
+   "word": "alcoholic",
+   "pos": "adjective",
+   "ipa": "/ˌælkəˈhɔːlɪk/",
+   "level": "B1",
+   "meaning": "có cồn",
+   "definition": "containing alcohol",
+   "collocations": [
+    "alcoholic drinks",
+    "non-alcoholic"
+   ],
+   "examples": [
+    {
+     "en": "We serve both *alcoholic* and non-alcoholic drinks.",
+     "vi": "Chúng tôi phục vụ cả đồ uống có cồn và không cồn."
+    }
+   ]
+  },
+  {
+   "id": "mdc_breathe",
+   "word": "breathe",
+   "pos": "verb",
+   "ipa": "/briːð/",
+   "level": "B1",
+   "meaning": "thở",
+   "definition": "to take air into and out of the lungs",
+   "collocations": [
+    "breathe deeply",
+    "breathe in"
+   ],
+   "examples": [
+    {
+     "en": "*Breathe* in slowly and relax.",
+     "vi": "Hít vào thật chậm và thư giãn."
+    }
+   ]
+  },
+  {
+   "id": "mdc_breath",
+   "word": "breath",
+   "pos": "noun",
+   "ipa": "/breθ/",
+   "level": "B2",
+   "meaning": "hơi thở",
+   "definition": "the air going into and out of the lungs",
+   "collocations": [
+    "take a deep breath",
+    "out of breath"
+   ],
+   "examples": [
+    {
+     "en": "Take a deep *breath* before you speak.",
+     "vi": "Hít một hơi sâu trước khi nói."
+    }
+   ]
+  },
+  {
+   "id": "mdc_breathing",
+   "word": "breathing",
+   "pos": "noun",
+   "ipa": "/ˈbriːðɪŋ/",
+   "level": "B1",
+   "meaning": "sự hô hấp",
+   "definition": "the action of breathing",
+   "collocations": [
+    "breathing problems",
+    "breathing exercises"
+   ],
+   "examples": [
+    {
+     "en": "Try these *breathing* exercises when you feel stressed.",
+     "vi": "Hãy thử các bài tập thở này khi bạn căng thẳng."
+    }
+   ]
+  },
+  {
+   "id": "mdc_hearing",
+   "word": "hearing",
+   "pos": "noun",
+   "ipa": "/ˈhɪrɪŋ/",
+   "level": "B2",
+   "meaning": "thính giác; phiên điều trần",
+   "definition": "the ability to hear; an official meeting to listen to evidence",
+   "collocations": [
+    "hearing aid",
+    "hearing loss",
+    "a court hearing"
+   ],
+   "examples": [
+    {
+     "en": "My grandfather wears a *hearing* aid.",
+     "vi": "Ông tôi đeo máy trợ thính."
+    }
+   ]
+  },
+  {
+   "id": "mdc_sight",
+   "word": "sight",
+   "pos": "noun",
+   "ipa": "/saɪt/",
+   "level": "B1",
+   "meaning": "thị lực; cảnh",
+   "definition": "the ability to see; something you see",
+   "collocations": [
+    "lose your sight",
+    "at first sight",
+    "the sights"
+   ],
+   "examples": [
+    {
+     "en": "He lost his *sight* in an accident.",
+     "vi": "Ông ấy bị mù sau một tai nạn."
+    }
+   ]
+  },
+  {
+   "id": "mdc_blind",
+   "word": "blind",
+   "pos": "adjective",
+   "ipa": "/blaɪnd/",
+   "level": "B2",
+   "meaning": "mù",
+   "definition": "not able to see",
+   "collocations": [
+    "go blind",
+    "blind people"
+   ],
+   "examples": [
+    {
+     "en": "The app helps *blind* people read text.",
+     "vi": "Ứng dụng giúp người khiếm thị đọc văn bản."
+    }
+   ]
+  },
+  {
+   "id": "mdc_poison",
+   "word": "poison",
+   "pos": "noun",
+   "ipa": "/ˈpɔɪzn/",
+   "level": "B1",
+   "meaning": "chất độc",
+   "definition": "a substance that can kill or harm",
+   "collocations": [
+    "rat poison",
+    "deadly poison"
+   ],
+   "examples": [
+    {
+     "en": "Keep *poison* away from children.",
+     "vi": "Để chất độc xa tầm tay trẻ em."
+    }
+   ]
+  },
+  {
+   "id": "mdc_poisonous",
+   "word": "poisonous",
+   "pos": "adjective",
+   "ipa": "/ˈpɔɪzənəs/",
+   "level": "B1",
+   "meaning": "có độc",
+   "definition": "containing poison",
+   "collocations": [
+    "poisonous plants",
+    "poisonous snake"
+   ],
+   "examples": [
+    {
+     "en": "Some mushrooms are *poisonous*.",
+     "vi": "Một số loại nấm có độc."
+    }
+   ]
+  },
+  {
+   "id": "mdc_sore",
+   "word": "sore",
+   "pos": "adjective",
+   "ipa": "/sɔːr/",
+   "level": "TOEIC",
+   "meaning": "đau nhức",
+   "definition": "painful, often because of overuse or infection",
+   "collocations": [
+    "sore muscles",
+    "sore eyes"
+   ],
+   "examples": [
+    {
+     "en": "My legs are *sore* after the run.",
+     "vi": "Chân tôi đau nhức sau buổi chạy."
+    }
+   ]
+  },
+  {
+   "id": "mdc_dose",
+   "word": "dose",
+   "pos": "noun",
+   "ipa": "/doʊs/",
+   "level": "C1",
+   "meaning": "liều lượng",
+   "definition": "an amount of medicine taken at one time",
+   "collocations": [
+    "a daily dose",
+    "take a dose"
+   ],
+   "examples": [
+    {
+     "en": "Do not take more than the recommended *dose*.",
+     "vi": "Không dùng quá liều khuyến cáo."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

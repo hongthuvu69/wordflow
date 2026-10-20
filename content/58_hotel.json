@@ -1,0 +1,836 @@
+{
+ "id": "toeic_hotel",
+ "order": 58,
+ "icon": "🏨",
+ "level": "TOEIC",
+ "title": "TOEIC: Hotels & Hospitality",
+ "title_vi": "TOEIC: Khách sạn & Lưu trú",
+ "description": "Đặt phòng, tiện nghi, nhận – trả phòng, dịch vụ phòng: tình huống quen thuộc trong Part 2–4 và email xác nhận đặt phòng.",
+ "words": [
+  {
+   "id": "tho_amenities",
+   "word": "amenities",
+   "pos": "noun",
+   "ipa": "/əˈmenətiz/",
+   "level": "TOEIC",
+   "meaning": "tiện nghi",
+   "definition": "useful features of a place",
+   "collocations": [
+    "hotel amenities",
+    "local amenities"
+   ],
+   "examples": [
+    {
+     "en": "Hotel *amenities* include a pool and a gym.",
+     "vi": "Tiện nghi khách sạn gồm hồ bơi và phòng tập."
+    }
+   ]
+  },
+  {
+   "id": "tho_concierge",
+   "word": "concierge",
+   "pos": "noun",
+   "ipa": "/ˌkɑːnsiˈerʒ/",
+   "level": "TOEIC",
+   "meaning": "nhân viên hỗ trợ khách (khách sạn)",
+   "definition": "a hotel employee who helps guests with tours, taxis etc.",
+   "collocations": [
+    "ask the concierge"
+   ],
+   "examples": [
+    {
+     "en": "The *concierge* can book a taxi for you.",
+     "vi": "Nhân viên hỗ trợ khách có thể đặt taxi cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "tho_housekeeping",
+   "word": "housekeeping",
+   "pos": "noun",
+   "ipa": "/ˈhaʊskiːpɪŋ/",
+   "level": "TOEIC",
+   "meaning": "bộ phận buồng phòng",
+   "definition": "the department that cleans hotel rooms",
+   "collocations": [
+    "call housekeeping"
+   ],
+   "examples": [
+    {
+     "en": "Please call *housekeeping* for extra towels.",
+     "vi": "Vui lòng gọi bộ phận buồng phòng để lấy thêm khăn."
+    }
+   ]
+  },
+  {
+   "id": "tho_room_service",
+   "word": "room service",
+   "pos": "noun",
+   "ipa": "/ˈruːm ˌsɜːrvɪs/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ phòng",
+   "definition": "food delivered to a hotel room",
+   "collocations": [
+    "order room service"
+   ],
+   "examples": [
+    {
+     "en": "*Room service* is available 24 hours a day.",
+     "vi": "Dịch vụ phòng phục vụ 24/24."
+    }
+   ]
+  },
+  {
+   "id": "tho_suite",
+   "word": "suite",
+   "pos": "noun",
+   "ipa": "/swiːt/",
+   "level": "C1",
+   "meaning": "phòng hạng sang (nhiều phòng)",
+   "definition": "a set of rooms in a hotel",
+   "collocations": [
+    "executive suite",
+    "honeymoon suite"
+   ],
+   "examples": [
+    {
+     "en": "We upgraded you to a *suite* at no extra cost.",
+     "vi": "Chúng tôi đã nâng hạng phòng của bạn lên suite miễn phí."
+    }
+   ],
+   "note": "Phát âm như sweet."
+  },
+  {
+   "id": "tho_single_room",
+   "word": "single room",
+   "pos": "noun",
+   "ipa": "/ˌsɪŋɡl ˈruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng đơn",
+   "definition": "a room for one person",
+   "collocations": [
+    "book a single room"
+   ],
+   "examples": [
+    {
+     "en": "A *single room* costs $80 a night.",
+     "vi": "Phòng đơn giá 80 đô một đêm."
+    }
+   ]
+  },
+  {
+   "id": "tho_double_room",
+   "word": "double room",
+   "pos": "noun",
+   "ipa": "/ˌdʌbl ˈruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng đôi",
+   "definition": "a room with a bed for two people",
+   "collocations": [
+    "a double room with a view"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to book a *double room* for two nights.",
+     "vi": "Tôi muốn đặt phòng đôi hai đêm."
+    }
+   ]
+  },
+  {
+   "id": "tho_front_desk",
+   "word": "front desk",
+   "pos": "noun",
+   "ipa": "/ˌfrʌnt ˈdesk/",
+   "level": "TOEIC",
+   "meaning": "quầy lễ tân",
+   "definition": "the reception desk in a hotel",
+   "collocations": [
+    "at the front desk"
+   ],
+   "examples": [
+    {
+     "en": "Please leave your key at the *front desk*.",
+     "vi": "Vui lòng để chìa khóa ở quầy lễ tân."
+    }
+   ]
+  },
+  {
+   "id": "tho_key_card",
+   "word": "key card",
+   "pos": "noun",
+   "ipa": "/ˈkiː kɑːrd/",
+   "level": "TOEIC",
+   "meaning": "thẻ khóa phòng",
+   "definition": "a plastic card used to open a door",
+   "collocations": [
+    "room key card"
+   ],
+   "examples": [
+    {
+     "en": "Your *key card* also works in the lift.",
+     "vi": "Thẻ phòng cũng dùng được cho thang máy."
+    }
+   ]
+  },
+  {
+   "id": "tho_late_checkout",
+   "word": "late checkout",
+   "pos": "noun",
+   "ipa": "/ˌleɪt ˈtʃekaʊt/",
+   "level": "TOEIC",
+   "meaning": "trả phòng muộn",
+   "definition": "leaving a hotel room later than usual",
+   "collocations": [
+    "request a late checkout"
+   ],
+   "examples": [
+    {
+     "en": "Is a *late checkout* possible?",
+     "vi": "Có thể trả phòng muộn được không?"
+    }
+   ]
+  },
+  {
+   "id": "tho_wake_up_call",
+   "word": "wake-up call",
+   "pos": "noun",
+   "ipa": "/ˈweɪk ʌp kɔːl/",
+   "level": "TOEIC",
+   "meaning": "cuộc gọi báo thức",
+   "definition": "a phone call to wake a guest",
+   "collocations": [
+    "request a wake-up call"
+   ],
+   "examples": [
+    {
+     "en": "I'd like a *wake-up call* at 6 a.m.",
+     "vi": "Tôi muốn được gọi báo thức lúc 6 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "tho_occupancy",
+   "word": "occupancy",
+   "pos": "noun",
+   "ipa": "/ˈɑːkjəpənsi/",
+   "level": "TOEIC",
+   "meaning": "công suất phòng; sự sử dụng",
+   "definition": "the number of rooms or seats used",
+   "collocations": [
+    "occupancy rate",
+    "maximum occupancy"
+   ],
+   "examples": [
+    {
+     "en": "Hotel *occupancy* is high in summer.",
+     "vi": "Công suất phòng khách sạn cao vào mùa hè."
+    }
+   ]
+  },
+  {
+   "id": "tho_vacant",
+   "word": "vacant",
+   "pos": "adjective",
+   "ipa": "/ˈveɪkənt/",
+   "level": "TOEIC",
+   "meaning": "trống",
+   "definition": "not being used",
+   "collocations": [
+    "vacant rooms",
+    "vacant position"
+   ],
+   "examples": [
+    {
+     "en": "There are no *vacant* rooms this weekend.",
+     "vi": "Cuối tuần này không còn phòng trống."
+    }
+   ]
+  },
+  {
+   "id": "tho_fully_booked",
+   "word": "fully booked",
+   "pos": "adjective",
+   "ipa": "/ˌfʊli ˈbʊkt/",
+   "level": "TOEIC",
+   "meaning": "kín chỗ",
+   "definition": "with no rooms or seats left",
+   "collocations": [
+    "the hotel is fully booked"
+   ],
+   "examples": [
+    {
+     "en": "Sorry, we're *fully booked* for Saturday.",
+     "vi": "Xin lỗi, thứ Bảy chúng tôi đã kín chỗ."
+    }
+   ]
+  },
+  {
+   "id": "tho_guest",
+   "word": "guest",
+   "pos": "noun",
+   "ipa": "/ɡest/",
+   "level": "A2",
+   "meaning": "khách",
+   "definition": "a person staying at a hotel or invited to an event",
+   "collocations": [
+    "hotel guests",
+    "guest list"
+   ],
+   "examples": [
+    {
+     "en": "All *guests* receive free breakfast.",
+     "vi": "Mọi khách đều được ăn sáng miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tho_hospitality",
+   "word": "hospitality",
+   "pos": "noun",
+   "ipa": "/ˌhɑːspɪˈtæləti/",
+   "level": "C1",
+   "meaning": "sự hiếu khách; ngành nhà hàng – khách sạn",
+   "definition": "friendly treatment of guests; the hotel and restaurant business",
+   "collocations": [
+    "hospitality industry",
+    "thank you for your hospitality"
+   ],
+   "examples": [
+    {
+     "en": "She has worked in *hospitality* for ten years.",
+     "vi": "Cô ấy làm trong ngành nhà hàng – khách sạn mười năm."
+    }
+   ]
+  },
+  {
+   "id": "tho_lodging",
+   "word": "lodging",
+   "pos": "noun",
+   "ipa": "/ˈlɑːdʒɪŋ/",
+   "level": "TOEIC",
+   "meaning": "chỗ trọ",
+   "definition": "a place to stay",
+   "collocations": [
+    "food and lodging"
+   ],
+   "examples": [
+    {
+     "en": "The price includes meals and *lodging*.",
+     "vi": "Giá đã bao gồm ăn và ở."
+    }
+   ]
+  },
+  {
+   "id": "tho_inn",
+   "word": "inn",
+   "pos": "noun",
+   "ipa": "/ɪn/",
+   "level": "TOEIC",
+   "meaning": "quán trọ, nhà nghỉ",
+   "definition": "a small hotel, often in the countryside",
+   "collocations": [
+    "a country inn"
+   ],
+   "examples": [
+    {
+     "en": "We stayed at a small *inn* in the mountains.",
+     "vi": "Chúng tôi ở một nhà nghỉ nhỏ trên núi."
+    }
+   ]
+  },
+  {
+   "id": "tho_bed_and_breakfast",
+   "word": "bed and breakfast",
+   "pos": "noun",
+   "ipa": "/ˌbed ən ˈbrekfəst/",
+   "level": "TOEIC",
+   "meaning": "nhà nghỉ có kèm bữa sáng",
+   "definition": "a small hotel that gives you a room and breakfast",
+   "collocations": [
+    "stay at a bed and breakfast"
+   ],
+   "examples": [
+    {
+     "en": "They run a *bed and breakfast* by the sea.",
+     "vi": "Họ kinh doanh nhà nghỉ kèm bữa sáng bên biển."
+    }
+   ]
+  },
+  {
+   "id": "tho_check_in",
+   "word": "check-in",
+   "pos": "noun",
+   "ipa": "/ˈtʃek ɪn/",
+   "level": "TOEIC",
+   "meaning": "thủ tục nhận phòng",
+   "definition": "the act of arriving and registering at a hotel",
+   "collocations": [
+    "check-in time",
+    "online check-in"
+   ],
+   "examples": [
+    {
+     "en": "*Check-in* time is 2 p.m.",
+     "vi": "Giờ nhận phòng là 2 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tho_checkout_time",
+   "word": "checkout time",
+   "pos": "noun",
+   "ipa": "/ˈtʃekaʊt taɪm/",
+   "level": "TOEIC",
+   "meaning": "giờ trả phòng",
+   "definition": "the time you must leave a hotel room",
+   "collocations": [
+    "checkout time is noon"
+   ],
+   "examples": [
+    {
+     "en": "*Checkout time* is 12 noon.",
+     "vi": "Giờ trả phòng là 12 giờ trưa."
+    }
+   ]
+  },
+  {
+   "id": "tho_porter",
+   "word": "porter",
+   "pos": "noun",
+   "ipa": "/ˈpɔːrtər/",
+   "level": "TOEIC",
+   "meaning": "nhân viên khuân hành lý",
+   "definition": "a person who carries luggage",
+   "collocations": [
+    "hotel porter"
+   ],
+   "examples": [
+    {
+     "en": "The *porter* will take your bags to your room.",
+     "vi": "Nhân viên hành lý sẽ mang túi lên phòng cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "tho_bellhop",
+   "word": "bellhop",
+   "pos": "noun",
+   "ipa": "/ˈbelhɑːp/",
+   "level": "TOEIC",
+   "meaning": "nhân viên xách hành lý",
+   "definition": "a hotel worker who carries bags",
+   "collocations": [
+    "tip the bellhop"
+   ],
+   "examples": [
+    {
+     "en": "The *bellhop* showed us to our room.",
+     "vi": "Nhân viên xách hành lý dẫn chúng tôi lên phòng."
+    }
+   ]
+  },
+  {
+   "id": "tho_valet_parking",
+   "word": "valet parking",
+   "pos": "noun",
+   "ipa": "/ˈvæleɪ ˌpɑːrkɪŋ/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ đỗ xe hộ",
+   "definition": "a service where staff park your car",
+   "collocations": [
+    "valet parking is available"
+   ],
+   "examples": [
+    {
+     "en": "*Valet parking* is available for $15 a day.",
+     "vi": "Có dịch vụ đỗ xe hộ với giá 15 đô một ngày."
+    }
+   ]
+  },
+  {
+   "id": "tho_shuttle",
+   "word": "shuttle",
+   "pos": "noun",
+   "ipa": "/ˈʃʌtl/",
+   "level": "TOEIC",
+   "meaning": "xe đưa đón",
+   "definition": "a bus that goes regularly between two places",
+   "collocations": [
+    "airport shuttle",
+    "shuttle bus"
+   ],
+   "examples": [
+    {
+     "en": "A free *shuttle* runs to the airport every hour.",
+     "vi": "Có xe đưa đón miễn phí ra sân bay mỗi giờ."
+    }
+   ]
+  },
+  {
+   "id": "tho_toiletries",
+   "word": "toiletries",
+   "pos": "noun",
+   "ipa": "/ˈtɔɪlətriz/",
+   "level": "TOEIC",
+   "meaning": "đồ dùng vệ sinh cá nhân",
+   "definition": "soap, shampoo and similar things",
+   "collocations": [
+    "free toiletries"
+   ],
+   "examples": [
+    {
+     "en": "Free *toiletries* are provided in every room.",
+     "vi": "Mỗi phòng đều có đồ vệ sinh cá nhân miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tho_linen",
+   "word": "linen",
+   "pos": "noun",
+   "ipa": "/ˈlɪnɪn/",
+   "level": "TOEIC",
+   "meaning": "khăn trải giường, khăn vải",
+   "definition": "sheets, towels and tablecloths",
+   "collocations": [
+    "bed linen",
+    "change the linen"
+   ],
+   "examples": [
+    {
+     "en": "The bed *linen* is changed daily.",
+     "vi": "Ga giường được thay hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "tho_towel",
+   "word": "towel",
+   "pos": "noun",
+   "ipa": "/ˈtaʊəl/",
+   "level": "A2",
+   "meaning": "khăn tắm",
+   "definition": "a cloth for drying yourself",
+   "collocations": [
+    "bath towel",
+    "extra towels"
+   ],
+   "examples": [
+    {
+     "en": "Could I have some extra *towels*, please?",
+     "vi": "Cho tôi xin thêm vài cái khăn tắm được không?"
+    }
+   ]
+  },
+  {
+   "id": "tho_minibar",
+   "word": "minibar",
+   "pos": "noun",
+   "ipa": "/ˈmɪnibɑːr/",
+   "level": "TOEIC",
+   "meaning": "tủ đồ uống mini",
+   "definition": "a small fridge with drinks in a hotel room",
+   "collocations": [
+    "charges from the minibar"
+   ],
+   "examples": [
+    {
+     "en": "Items from the *minibar* will be added to your bill.",
+     "vi": "Đồ dùng từ tủ mini sẽ được tính vào hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "tho_air_conditioning",
+   "word": "air conditioning",
+   "pos": "noun",
+   "ipa": "/ˈer kənˌdɪʃənɪŋ/",
+   "level": "TOEIC",
+   "meaning": "điều hòa không khí",
+   "definition": "a system that keeps air cool",
+   "collocations": [
+    "turn on the air conditioning"
+   ],
+   "examples": [
+    {
+     "en": "The *air conditioning* in my room isn't working.",
+     "vi": "Điều hòa trong phòng tôi không chạy."
+    }
+   ]
+  },
+  {
+   "id": "tho_rate_per_night",
+   "word": "rate per night",
+   "pos": "noun",
+   "ipa": "/ˌreɪt pər ˈnaɪt/",
+   "level": "TOEIC",
+   "meaning": "giá mỗi đêm",
+   "definition": "the price of one night's stay",
+   "collocations": [
+    "the room rate per night"
+   ],
+   "examples": [
+    {
+     "en": "The *rate per night* includes breakfast.",
+     "vi": "Giá mỗi đêm đã bao gồm bữa sáng."
+    }
+   ]
+  },
+  {
+   "id": "tho_peak_season",
+   "word": "peak season",
+   "pos": "noun",
+   "ipa": "/ˈpiːk ˌsiːzn/",
+   "level": "TOEIC",
+   "meaning": "mùa cao điểm",
+   "definition": "the busiest time of year",
+   "collocations": [
+    "during peak season"
+   ],
+   "examples": [
+    {
+     "en": "Prices are higher during *peak season*.",
+     "vi": "Giá cao hơn vào mùa cao điểm."
+    }
+   ]
+  },
+  {
+   "id": "tho_off_season",
+   "word": "off-season",
+   "pos": "noun",
+   "ipa": "/ˈɔːf ˌsiːzn/",
+   "level": "TOEIC",
+   "meaning": "mùa thấp điểm",
+   "definition": "the time of year when fewer people travel",
+   "collocations": [
+    "travel in the off-season"
+   ],
+   "examples": [
+    {
+     "en": "Hotels are cheaper in the *off-season*.",
+     "vi": "Khách sạn rẻ hơn vào mùa thấp điểm."
+    }
+   ]
+  },
+  {
+   "id": "tho_safe",
+   "word": "safe",
+   "pos": "noun",
+   "ipa": "/seɪf/",
+   "level": "A2",
+   "meaning": "két sắt",
+   "definition": "a strong box for keeping money and valuables",
+   "collocations": [
+    "room safe",
+    "in the safe"
+   ],
+   "examples": [
+    {
+     "en": "Each room has a *safe*.",
+     "vi": "Mỗi phòng đều có két sắt."
+    }
+   ]
+  },
+  {
+   "id": "tho_lost_and_found",
+   "word": "lost and found",
+   "pos": "noun",
+   "ipa": "/ˌlɔːst ən ˈfaʊnd/",
+   "level": "TOEIC",
+   "meaning": "nơi giữ đồ thất lạc",
+   "definition": "a place where lost items are kept",
+   "collocations": [
+    "check the lost and found"
+   ],
+   "examples": [
+    {
+     "en": "Ask at the *lost and found* desk.",
+     "vi": "Hỏi ở quầy đồ thất lạc."
+    }
+   ]
+  },
+  {
+   "id": "tho_noise_complaint",
+   "word": "noise complaint",
+   "pos": "noun",
+   "ipa": "/ˈnɔɪz kəmˌpleɪnt/",
+   "level": "TOEIC",
+   "meaning": "khiếu nại tiếng ồn",
+   "definition": "a complaint about noise",
+   "collocations": [
+    "receive a noise complaint"
+   ],
+   "examples": [
+    {
+     "en": "The hotel received a *noise complaint* from room 305.",
+     "vi": "Khách sạn nhận khiếu nại tiếng ồn từ phòng 305."
+    }
+   ]
+  },
+  {
+   "id": "tho_renovation",
+   "word": "renovation",
+   "pos": "noun",
+   "ipa": "/ˌrenəˈveɪʃn/",
+   "level": "TOEIC",
+   "meaning": "sự cải tạo, nâng cấp",
+   "definition": "repairing and improving a building",
+   "collocations": [
+    "under renovation",
+    "renovation work"
+   ],
+   "examples": [
+    {
+     "en": "The pool is closed for *renovation*.",
+     "vi": "Hồ bơi đóng cửa để cải tạo."
+    }
+   ]
+  },
+  {
+   "id": "tho_renovate",
+   "word": "renovate",
+   "pos": "verb",
+   "ipa": "/ˈrenəveɪt/",
+   "level": "TOEIC",
+   "meaning": "cải tạo, sửa sang",
+   "definition": "to repair and improve a building",
+   "collocations": [
+    "newly renovated"
+   ],
+   "examples": [
+    {
+     "en": "All rooms were *renovated* last year.",
+     "vi": "Tất cả phòng được cải tạo năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "tho_spa",
+   "word": "spa",
+   "pos": "noun",
+   "ipa": "/spɑː/",
+   "level": "TOEIC",
+   "meaning": "spa",
+   "definition": "a place for relaxing treatments like massage",
+   "collocations": [
+    "hotel spa",
+    "spa treatment"
+   ],
+   "examples": [
+    {
+     "en": "Guests get 10% off at the *spa*.",
+     "vi": "Khách được giảm 10% tại spa."
+    }
+   ]
+  },
+  {
+   "id": "tho_banquet_hall",
+   "word": "banquet hall",
+   "pos": "noun",
+   "ipa": "/ˈbæŋkwɪt hɔːl/",
+   "level": "TOEIC",
+   "meaning": "sảnh tiệc",
+   "definition": "a large room for formal dinners",
+   "collocations": [
+    "book the banquet hall"
+   ],
+   "examples": [
+    {
+     "en": "The *banquet hall* seats 300 guests.",
+     "vi": "Sảnh tiệc chứa được 300 khách."
+    }
+   ]
+  },
+  {
+   "id": "tho_ballroom",
+   "word": "ballroom",
+   "pos": "noun",
+   "ipa": "/ˈbɔːlruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng khiêu vũ, phòng tiệc lớn",
+   "definition": "a large room for formal parties",
+   "collocations": [
+    "grand ballroom"
+   ],
+   "examples": [
+    {
+     "en": "The awards dinner will be in the hotel *ballroom*.",
+     "vi": "Tiệc trao giải sẽ diễn ra ở phòng tiệc lớn của khách sạn."
+    }
+   ]
+  },
+  {
+   "id": "tho_hostel",
+   "word": "hostel",
+   "pos": "noun",
+   "ipa": "/ˈhɑːstl/",
+   "level": "TOEIC",
+   "meaning": "nhà trọ giá rẻ",
+   "definition": "a cheap place to stay, often with shared rooms",
+   "collocations": [
+    "youth hostel"
+   ],
+   "examples": [
+    {
+     "en": "Students often stay in *hostels*.",
+     "vi": "Sinh viên thường ở nhà trọ giá rẻ."
+    }
+   ]
+  },
+  {
+   "id": "tho_guesthouse",
+   "word": "guesthouse",
+   "pos": "noun",
+   "ipa": "/ˈɡesthaʊs/",
+   "level": "TOEIC",
+   "meaning": "nhà khách",
+   "definition": "a small hotel",
+   "collocations": [
+    "stay at a guesthouse"
+   ],
+   "examples": [
+    {
+     "en": "We stayed at a family-run *guesthouse*.",
+     "vi": "Chúng tôi ở một nhà khách do gia đình quản lý."
+    }
+   ]
+  },
+  {
+   "id": "tho_loyalty_program",
+   "word": "loyalty program",
+   "pos": "noun",
+   "ipa": "/ˈlɔɪəlti ˌproʊɡræm/",
+   "level": "TOEIC",
+   "meaning": "chương trình khách hàng thân thiết",
+   "definition": "a scheme that rewards regular customers",
+   "collocations": [
+    "join the loyalty program"
+   ],
+   "examples": [
+    {
+     "en": "Join our *loyalty program* to earn free nights.",
+     "vi": "Tham gia chương trình khách hàng thân thiết để nhận đêm miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tho_feedback_form",
+   "word": "feedback form",
+   "pos": "noun",
+   "ipa": "/ˈfiːdbæk fɔːrm/",
+   "level": "TOEIC",
+   "meaning": "phiếu góp ý",
+   "definition": "a form for comments",
+   "collocations": [
+    "fill in a feedback form"
+   ],
+   "examples": [
+    {
+     "en": "Please leave a *feedback form* at reception.",
+     "vi": "Vui lòng để phiếu góp ý tại quầy lễ tân."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

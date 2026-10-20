@@ -1,0 +1,869 @@
+{
+ "id": "toeic_airport",
+ "order": 60,
+ "icon": "🛫",
+ "level": "TOEIC",
+ "title": "TOEIC: Airports & Business Travel",
+ "title_vi": "TOEIC: Sân bay & Công tác",
+ "description": "Thông báo sân bay, hành lý, quá cảnh, đổi chuyến, công tác: bối cảnh kinh điển của Part 4.",
+ "words": [
+  {
+   "id": "tai_carry_on",
+   "word": "carry-on",
+   "pos": "noun",
+   "ipa": "/ˈkæri ɑːn/",
+   "level": "TOEIC",
+   "meaning": "hành lý xách tay",
+   "definition": "a small bag you take on a plane",
+   "collocations": [
+    "carry-on bag",
+    "one carry-on item"
+   ],
+   "examples": [
+    {
+     "en": "Each passenger may bring one *carry-on* bag.",
+     "vi": "Mỗi hành khách được mang một túi xách tay."
+    }
+   ]
+  },
+  {
+   "id": "tai_checked_baggage",
+   "word": "checked baggage",
+   "pos": "noun",
+   "ipa": "/ˌtʃekt ˈbæɡɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "hành lý ký gửi",
+   "definition": "bags put in the hold of a plane",
+   "collocations": [
+    "checked baggage allowance"
+   ],
+   "examples": [
+    {
+     "en": "*Checked baggage* must not weigh more than 23 kg.",
+     "vi": "Hành lý ký gửi không được nặng quá 23 kg."
+    }
+   ]
+  },
+  {
+   "id": "tai_baggage_allowance",
+   "word": "baggage allowance",
+   "pos": "noun",
+   "ipa": "/ˈbæɡɪdʒ əˌlaʊəns/",
+   "level": "TOEIC",
+   "meaning": "mức hành lý miễn cước",
+   "definition": "the amount of luggage you may take free",
+   "collocations": [
+    "exceed the baggage allowance"
+   ],
+   "examples": [
+    {
+     "en": "Check your *baggage allowance* before you fly.",
+     "vi": "Kiểm tra hạn mức hành lý trước khi bay."
+    }
+   ]
+  },
+  {
+   "id": "tai_baggage_claim",
+   "word": "baggage claim",
+   "pos": "noun",
+   "ipa": "/ˈbæɡɪdʒ kleɪm/",
+   "level": "TOEIC",
+   "meaning": "khu nhận hành lý",
+   "definition": "the area where you collect luggage",
+   "collocations": [
+    "at baggage claim"
+   ],
+   "examples": [
+    {
+     "en": "Collect your bags at *baggage claim* 4.",
+     "vi": "Nhận hành lý ở băng chuyền số 4."
+    }
+   ]
+  },
+  {
+   "id": "tai_overhead_bin",
+   "word": "overhead bin",
+   "pos": "noun",
+   "ipa": "/ˌoʊvərhed ˈbɪn/",
+   "level": "TOEIC",
+   "meaning": "hộc hành lý trên đầu",
+   "definition": "the space above airplane seats for bags",
+   "collocations": [
+    "place bags in the overhead bin"
+   ],
+   "examples": [
+    {
+     "en": "Please store your bags in the *overhead bin*.",
+     "vi": "Vui lòng để túi vào hộc phía trên."
+    }
+   ]
+  },
+  {
+   "id": "tai_aisle",
+   "word": "aisle",
+   "pos": "noun",
+   "ipa": "/aɪl/",
+   "level": "TOEIC",
+   "meaning": "lối đi",
+   "definition": "a passage between rows of seats",
+   "collocations": [
+    "aisle seat",
+    "in the aisle"
+   ],
+   "examples": [
+    {
+     "en": "Please keep the *aisle* clear.",
+     "vi": "Vui lòng giữ lối đi thông thoáng."
+    }
+   ],
+   "note": "Chữ s câm."
+  },
+  {
+   "id": "tai_gate",
+   "word": "gate",
+   "pos": "noun",
+   "ipa": "/ɡeɪt/",
+   "level": "A2",
+   "meaning": "cửa ra máy bay",
+   "definition": "the place where passengers board a plane",
+   "collocations": [
+    "boarding gate",
+    "gate 12"
+   ],
+   "examples": [
+    {
+     "en": "Flight 205 is now boarding at *gate* 7.",
+     "vi": "Chuyến bay 205 đang lên máy bay tại cửa 7."
+    }
+   ]
+  },
+  {
+   "id": "tai_layover",
+   "word": "layover",
+   "pos": "noun",
+   "ipa": "/ˈleɪoʊvər/",
+   "level": "TOEIC",
+   "meaning": "thời gian quá cảnh",
+   "definition": "a short stop between flights",
+   "collocations": [
+    "a three-hour layover"
+   ],
+   "examples": [
+    {
+     "en": "I have a two-hour *layover* in Singapore.",
+     "vi": "Tôi quá cảnh hai tiếng ở Singapore."
+    }
+   ]
+  },
+  {
+   "id": "tai_connecting_flight",
+   "word": "connecting flight",
+   "pos": "noun",
+   "ipa": "/kəˌnektɪŋ ˈflaɪt/",
+   "level": "TOEIC",
+   "meaning": "chuyến bay nối chuyến",
+   "definition": "a second flight to continue a journey",
+   "collocations": [
+    "miss a connecting flight"
+   ],
+   "examples": [
+    {
+     "en": "I missed my *connecting flight* because of the delay.",
+     "vi": "Tôi lỡ chuyến nối vì bị trễ."
+    }
+   ]
+  },
+  {
+   "id": "tai_direct_flight",
+   "word": "direct flight",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈflaɪt/",
+   "level": "TOEIC",
+   "meaning": "chuyến bay thẳng",
+   "definition": "a flight with no stops",
+   "collocations": [
+    "book a direct flight"
+   ],
+   "examples": [
+    {
+     "en": "There are no *direct flights* to that city.",
+     "vi": "Không có chuyến bay thẳng đến thành phố đó."
+    }
+   ]
+  },
+  {
+   "id": "tai_airline",
+   "word": "airline",
+   "pos": "noun",
+   "ipa": "/ˈerlaɪn/",
+   "level": "A2",
+   "meaning": "hãng hàng không",
+   "definition": "a company that provides flights",
+   "collocations": [
+    "budget airline",
+    "airline ticket"
+   ],
+   "examples": [
+    {
+     "en": "Which *airline* are you flying with?",
+     "vi": "Bạn bay hãng nào?"
+    }
+   ]
+  },
+  {
+   "id": "tai_flight_attendant",
+   "word": "flight attendant",
+   "pos": "noun",
+   "ipa": "/ˈflaɪt əˌtendənt/",
+   "level": "TOEIC",
+   "meaning": "tiếp viên hàng không",
+   "definition": "a person who looks after passengers on a plane",
+   "collocations": [
+    "ask a flight attendant"
+   ],
+   "examples": [
+    {
+     "en": "A *flight attendant* is serving drinks.",
+     "vi": "Tiếp viên đang phục vụ đồ uống."
+    }
+   ]
+  },
+  {
+   "id": "tai_pilot",
+   "word": "pilot",
+   "pos": "noun",
+   "ipa": "/ˈpaɪlət/",
+   "level": "A2",
+   "meaning": "phi công; thử nghiệm",
+   "definition": "a person who flies a plane; a test",
+   "collocations": [
+    "pilot program"
+   ],
+   "examples": [
+    {
+     "en": "The *pilot* announced a short delay.",
+     "vi": "Phi công thông báo trễ một chút."
+    }
+   ],
+   "note": "pilot project = dự án thí điểm."
+  },
+  {
+   "id": "tai_take_off",
+   "word": "take off",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "cất cánh; khởi sắc",
+   "definition": "to leave the ground; to become successful",
+   "collocations": [
+    "the plane took off"
+   ],
+   "examples": [
+    {
+     "en": "The plane *took off* thirty minutes late.",
+     "vi": "Máy bay cất cánh trễ ba mươi phút."
+    }
+   ]
+  },
+  {
+   "id": "tai_land",
+   "word": "land",
+   "pos": "verb",
+   "ipa": "/lænd/",
+   "level": "A1",
+   "meaning": "hạ cánh",
+   "definition": "to arrive on the ground",
+   "collocations": [
+    "land safely",
+    "land at"
+   ],
+   "examples": [
+    {
+     "en": "We will *land* in Hanoi in about 20 minutes.",
+     "vi": "Chúng ta sẽ hạ cánh ở Hà Nội sau khoảng 20 phút."
+    }
+   ]
+  },
+  {
+   "id": "tai_turbulence",
+   "word": "turbulence",
+   "pos": "noun",
+   "ipa": "/ˈtɜːrbjələns/",
+   "level": "TOEIC",
+   "meaning": "nhiễu động không khí",
+   "definition": "sudden movements of air that shake a plane",
+   "collocations": [
+    "experience turbulence"
+   ],
+   "examples": [
+    {
+     "en": "Please fasten your seat belt; we are expecting *turbulence*.",
+     "vi": "Vui lòng thắt dây an toàn, sắp có nhiễu động."
+    }
+   ]
+  },
+  {
+   "id": "tai_reschedule",
+   "word": "reschedule",
+   "pos": "verb",
+   "ipa": "/ˌriːˈskedʒuːl/",
+   "level": "TOEIC",
+   "meaning": "dời lịch",
+   "definition": "to change the time of something",
+   "collocations": [
+    "reschedule a flight",
+    "reschedule a meeting"
+   ],
+   "examples": [
+    {
+     "en": "Can we *reschedule* the meeting to Thursday?",
+     "vi": "Chúng ta dời cuộc họp sang thứ Năm được không?"
+    }
+   ]
+  },
+  {
+   "id": "tai_rebook",
+   "word": "rebook",
+   "pos": "verb",
+   "ipa": "/ˌriːˈbʊk/",
+   "level": "TOEIC",
+   "meaning": "đặt lại",
+   "definition": "to book again, often for a different time",
+   "collocations": [
+    "rebook a flight"
+   ],
+   "examples": [
+    {
+     "en": "Passengers will be *rebooked* on the next flight.",
+     "vi": "Hành khách sẽ được đặt lại chuyến bay kế tiếp."
+    }
+   ]
+  },
+  {
+   "id": "tai_overbooked",
+   "word": "overbooked",
+   "pos": "adjective",
+   "ipa": "/ˌoʊvərˈbʊkt/",
+   "level": "TOEIC",
+   "meaning": "bán vé quá số chỗ",
+   "definition": "having sold more seats than are available",
+   "collocations": [
+    "the flight is overbooked"
+   ],
+   "examples": [
+    {
+     "en": "The flight was *overbooked*, so some passengers had to wait.",
+     "vi": "Chuyến bay bán quá chỗ nên một số hành khách phải chờ."
+    }
+   ]
+  },
+  {
+   "id": "tai_security_check",
+   "word": "security check",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊrəti tʃek/",
+   "level": "TOEIC",
+   "meaning": "kiểm tra an ninh",
+   "definition": "the process of checking passengers and bags",
+   "collocations": [
+    "go through the security check"
+   ],
+   "examples": [
+    {
+     "en": "Allow 30 minutes for the *security check*.",
+     "vi": "Dành 30 phút cho khâu kiểm tra an ninh."
+    }
+   ]
+  },
+  {
+   "id": "tai_passport_control",
+   "word": "passport control",
+   "pos": "noun",
+   "ipa": "/ˈpæspɔːrt kənˌtroʊl/",
+   "level": "TOEIC",
+   "meaning": "kiểm soát hộ chiếu",
+   "definition": "the place where passports are checked",
+   "collocations": [
+    "go through passport control"
+   ],
+   "examples": [
+    {
+     "en": "There was a long queue at *passport control*.",
+     "vi": "Có hàng dài ở quầy kiểm soát hộ chiếu."
+    }
+   ]
+  },
+  {
+   "id": "tai_departure_lounge",
+   "word": "departure lounge",
+   "pos": "noun",
+   "ipa": "/dɪˈpɑːrtʃər laʊndʒ/",
+   "level": "TOEIC",
+   "meaning": "phòng chờ khởi hành",
+   "definition": "the waiting area before boarding",
+   "collocations": [
+    "wait in the departure lounge"
+   ],
+   "examples": [
+    {
+     "en": "Please wait in the *departure lounge* until your flight is called.",
+     "vi": "Vui lòng chờ ở phòng chờ cho đến khi chuyến bay được gọi."
+    }
+   ]
+  },
+  {
+   "id": "tai_boarding",
+   "word": "boarding",
+   "pos": "noun",
+   "ipa": "/ˈbɔːrdɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc lên máy bay",
+   "definition": "getting on a plane",
+   "collocations": [
+    "boarding time",
+    "now boarding"
+   ],
+   "examples": [
+    {
+     "en": "*Boarding* begins 40 minutes before departure.",
+     "vi": "Lên máy bay bắt đầu 40 phút trước giờ khởi hành."
+    }
+   ]
+  },
+  {
+   "id": "tai_jet_lag",
+   "word": "jet lag",
+   "pos": "noun",
+   "ipa": "/ˈdʒet læɡ/",
+   "level": "TOEIC",
+   "meaning": "mệt mỏi do lệch múi giờ",
+   "definition": "tiredness after a long flight across time zones",
+   "collocations": [
+    "suffer from jet lag"
+   ],
+   "examples": [
+    {
+     "en": "I'm still suffering from *jet lag*.",
+     "vi": "Tôi vẫn còn bị lệch múi giờ."
+    }
+   ]
+  },
+  {
+   "id": "tai_frequent_flyer",
+   "word": "frequent flyer",
+   "pos": "noun",
+   "ipa": "/ˌfriːkwənt ˈflaɪər/",
+   "level": "TOEIC",
+   "meaning": "hành khách bay thường xuyên",
+   "definition": "a person who flies often",
+   "collocations": [
+    "frequent flyer miles"
+   ],
+   "examples": [
+    {
+     "en": "*Frequent flyer* members can use the lounge.",
+     "vi": "Hội viên bay thường xuyên được dùng phòng chờ."
+    }
+   ]
+  },
+  {
+   "id": "tai_business_class",
+   "word": "business class",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs klæs/",
+   "level": "TOEIC",
+   "meaning": "hạng thương gia",
+   "definition": "an expensive class of air travel",
+   "collocations": [
+    "fly business class"
+   ],
+   "examples": [
+    {
+     "en": "Managers fly *business class* on long flights.",
+     "vi": "Các quản lý bay hạng thương gia trên chuyến dài."
+    }
+   ]
+  },
+  {
+   "id": "tai_economy_class",
+   "word": "economy class",
+   "pos": "noun",
+   "ipa": "/ɪˈkɑːnəmi klæs/",
+   "level": "TOEIC",
+   "meaning": "hạng phổ thông",
+   "definition": "the cheapest class of air travel",
+   "collocations": [
+    "an economy class ticket"
+   ],
+   "examples": [
+    {
+     "en": "Staff travel in *economy class*.",
+     "vi": "Nhân viên đi hạng phổ thông."
+    }
+   ]
+  },
+  {
+   "id": "tai_business_trip",
+   "word": "business trip",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs trɪp/",
+   "level": "TOEIC",
+   "meaning": "chuyến công tác",
+   "definition": "a journey made for work",
+   "collocations": [
+    "go on a business trip"
+   ],
+   "examples": [
+    {
+     "en": "He's on a *business trip* to Seoul.",
+     "vi": "Anh ấy đang đi công tác Seoul."
+    }
+   ]
+  },
+  {
+   "id": "tai_travel_agency",
+   "word": "travel agency",
+   "pos": "noun",
+   "ipa": "/ˈtrævl ˌeɪdʒənsi/",
+   "level": "TOEIC",
+   "meaning": "đại lý du lịch",
+   "definition": "a company that arranges travel",
+   "collocations": [
+    "book through a travel agency"
+   ],
+   "examples": [
+    {
+     "en": "We booked the tour through a *travel agency*.",
+     "vi": "Chúng tôi đặt tour qua đại lý du lịch."
+    }
+   ]
+  },
+  {
+   "id": "tai_travel_arrangements",
+   "word": "travel arrangements",
+   "pos": "noun",
+   "ipa": "/ˈtrævl əˌreɪndʒmənts/",
+   "level": "TOEIC",
+   "meaning": "việc sắp xếp chuyến đi",
+   "definition": "plans for flights, hotels etc.",
+   "collocations": [
+    "make travel arrangements"
+   ],
+   "examples": [
+    {
+     "en": "My assistant will make your *travel arrangements*.",
+     "vi": "Trợ lý của tôi sẽ sắp xếp chuyến đi cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "tai_round_trip_ticket",
+   "word": "round-trip ticket",
+   "pos": "noun",
+   "ipa": "/ˌraʊnd trɪp ˈtɪkɪt/",
+   "level": "TOEIC",
+   "meaning": "vé khứ hồi",
+   "definition": "a ticket to go and come back",
+   "collocations": [
+    "buy a round-trip ticket"
+   ],
+   "examples": [
+    {
+     "en": "A *round-trip ticket* costs $350.",
+     "vi": "Vé khứ hồi giá 350 đô."
+    }
+   ]
+  },
+  {
+   "id": "tai_one_way",
+   "word": "one-way",
+   "pos": "adjective",
+   "ipa": "/ˌwʌn ˈweɪ/",
+   "level": "TOEIC",
+   "meaning": "một chiều",
+   "definition": "for travel in one direction",
+   "collocations": [
+    "one-way ticket",
+    "one-way street"
+   ],
+   "examples": [
+    {
+     "en": "I only need a *one-way* ticket.",
+     "vi": "Tôi chỉ cần vé một chiều."
+    }
+   ]
+  },
+  {
+   "id": "tai_e_ticket",
+   "word": "e-ticket",
+   "pos": "noun",
+   "ipa": "/ˈiː tɪkɪt/",
+   "level": "TOEIC",
+   "meaning": "vé điện tử",
+   "definition": "an electronic ticket",
+   "collocations": [
+    "print your e-ticket"
+   ],
+   "examples": [
+    {
+     "en": "Show your *e-ticket* on your phone.",
+     "vi": "Xuất trình vé điện tử trên điện thoại."
+    }
+   ]
+  },
+  {
+   "id": "tai_car_rental",
+   "word": "car rental",
+   "pos": "noun",
+   "ipa": "/ˈkɑːr ˌrentl/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ thuê xe",
+   "definition": "the service of renting a car",
+   "collocations": [
+    "car rental company"
+   ],
+   "examples": [
+    {
+     "en": "The *car rental* desk is on the ground floor.",
+     "vi": "Quầy thuê xe ở tầng trệt."
+    }
+   ]
+  },
+  {
+   "id": "tai_taxi_stand",
+   "word": "taxi stand",
+   "pos": "noun",
+   "ipa": "/ˈtæksi stænd/",
+   "level": "TOEIC",
+   "meaning": "điểm đón taxi",
+   "definition": "a place where taxis wait",
+   "collocations": [
+    "at the taxi stand"
+   ],
+   "examples": [
+    {
+     "en": "The *taxi stand* is outside Exit 3.",
+     "vi": "Điểm đón taxi ở ngoài lối ra số 3."
+    }
+   ]
+  },
+  {
+   "id": "tai_currency_exchange",
+   "word": "currency exchange",
+   "pos": "noun",
+   "ipa": "/ˈkɜːrənsi ɪksˌtʃeɪndʒ/",
+   "level": "TOEIC",
+   "meaning": "quầy đổi tiền",
+   "definition": "a place to change money",
+   "collocations": [
+    "at the currency exchange"
+   ],
+   "examples": [
+    {
+     "en": "You can change money at the *currency exchange*.",
+     "vi": "Bạn có thể đổi tiền tại quầy đổi ngoại tệ."
+    }
+   ]
+  },
+  {
+   "id": "tai_duty_free",
+   "word": "duty-free",
+   "pos": "adjective",
+   "ipa": "/ˌduːti ˈfriː/",
+   "level": "TOEIC",
+   "meaning": "miễn thuế",
+   "definition": "without tax",
+   "collocations": [
+    "duty-free shop"
+   ],
+   "examples": [
+    {
+     "en": "We bought chocolates at the *duty-free* shop.",
+     "vi": "Chúng tôi mua sô-cô-la ở cửa hàng miễn thuế."
+    }
+   ]
+  },
+  {
+   "id": "tai_time_difference",
+   "word": "time difference",
+   "pos": "noun",
+   "ipa": "/ˈtaɪm ˌdɪfrəns/",
+   "level": "TOEIC",
+   "meaning": "chênh lệch múi giờ",
+   "definition": "the difference in time between places",
+   "collocations": [
+    "a two-hour time difference"
+   ],
+   "examples": [
+    {
+     "en": "There is a seven-hour *time difference* with London.",
+     "vi": "Chênh lệch múi giờ với London là bảy tiếng."
+    }
+   ]
+  },
+  {
+   "id": "tai_local_time",
+   "word": "local time",
+   "pos": "noun",
+   "ipa": "/ˈloʊkl taɪm/",
+   "level": "TOEIC",
+   "meaning": "giờ địa phương",
+   "definition": "the time in a particular place",
+   "collocations": [
+    "at 9 a.m. local time"
+   ],
+   "examples": [
+    {
+     "en": "We will arrive at 6 p.m. *local time*.",
+     "vi": "Chúng ta sẽ đến lúc 6 giờ chiều giờ địa phương."
+    }
+   ]
+  },
+  {
+   "id": "tai_en_route",
+   "word": "en route",
+   "pos": "adverb",
+   "ipa": "/ˌɑːn ˈruːt/",
+   "level": "TOEIC",
+   "meaning": "trên đường đi",
+   "definition": "on the way",
+   "collocations": [
+    "en route to"
+   ],
+   "examples": [
+    {
+     "en": "We stopped in Dubai *en route* to London.",
+     "vi": "Chúng tôi dừng ở Dubai trên đường đến London."
+    }
+   ]
+  },
+  {
+   "id": "tai_ground_transportation",
+   "word": "ground transportation",
+   "pos": "noun",
+   "ipa": "/ˌɡraʊnd trænspɔːrˈteɪʃn/",
+   "level": "TOEIC",
+   "meaning": "phương tiện mặt đất (từ sân bay)",
+   "definition": "buses, taxis and trains from an airport",
+   "collocations": [
+    "arrange ground transportation"
+   ],
+   "examples": [
+    {
+     "en": "*Ground transportation* is available outside the terminal.",
+     "vi": "Có phương tiện đưa đón bên ngoài nhà ga."
+    }
+   ]
+  },
+  {
+   "id": "tai_passenger_list",
+   "word": "passenger list",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪndʒər lɪst/",
+   "level": "TOEIC",
+   "meaning": "danh sách hành khách",
+   "definition": "a list of people on a flight or ship",
+   "collocations": [
+    "check the passenger list"
+   ],
+   "examples": [
+    {
+     "en": "Your name is not on the *passenger list*.",
+     "vi": "Tên bạn không có trong danh sách hành khách."
+    }
+   ]
+  },
+  {
+   "id": "tai_inflight",
+   "word": "inflight",
+   "pos": "adjective",
+   "ipa": "/ˈɪnflaɪt/",
+   "level": "TOEIC",
+   "meaning": "trên máy bay",
+   "definition": "happening during a flight",
+   "collocations": [
+    "inflight meal",
+    "inflight entertainment"
+   ],
+   "examples": [
+    {
+     "en": "The *inflight* meal was surprisingly good.",
+     "vi": "Bữa ăn trên máy bay ngon bất ngờ."
+    }
+   ]
+  },
+  {
+   "id": "tai_seat_belt",
+   "word": "seat belt",
+   "pos": "noun",
+   "ipa": "/ˈsiːt belt/",
+   "level": "TOEIC",
+   "meaning": "dây an toàn",
+   "definition": "a belt that holds you in a seat",
+   "collocations": [
+    "fasten your seat belt"
+   ],
+   "examples": [
+    {
+     "en": "Keep your *seat belt* fastened while seated.",
+     "vi": "Thắt dây an toàn khi đang ngồi."
+    }
+   ]
+  },
+  {
+   "id": "tai_emergency_exit",
+   "word": "emergency exit",
+   "pos": "noun",
+   "ipa": "/ɪˈmɜːrdʒənsi ˌeksɪt/",
+   "level": "TOEIC",
+   "meaning": "cửa thoát hiểm",
+   "definition": "a door used in an emergency",
+   "collocations": [
+    "emergency exit row"
+   ],
+   "examples": [
+    {
+     "en": "Passengers in the *emergency exit* row must be over 15.",
+     "vi": "Hành khách ngồi hàng cửa thoát hiểm phải trên 15 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "tai_customs_declaration",
+   "word": "customs declaration",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəmz ˌdekləˌreɪʃn/",
+   "level": "TOEIC",
+   "meaning": "tờ khai hải quan",
+   "definition": "a form listing goods you bring into a country",
+   "collocations": [
+    "fill out a customs declaration"
+   ],
+   "examples": [
+    {
+     "en": "Please fill out the *customs declaration* form.",
+     "vi": "Vui lòng điền tờ khai hải quan."
+    }
+   ]
+  },
+  {
+   "id": "tai_per_diem",
+   "word": "per diem",
+   "pos": "noun",
+   "ipa": "/pɜːr ˈdiːəm/",
+   "level": "TOEIC",
+   "meaning": "phụ cấp công tác theo ngày",
+   "definition": "money paid each day for travel costs",
+   "collocations": [
+    "a daily per diem"
+   ],
+   "examples": [
+    {
+     "en": "Staff receive a *per diem* of $50 for meals.",
+     "vi": "Nhân viên được phụ cấp 50 đô mỗi ngày cho ăn uống."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,54 @@
+#id: toeic_events
+#prefix: tev
+#order: 61
+#icon: 🎤
+#title: TOEIC: Conferences & Events
+#title_vi: TOEIC: Hội nghị & Sự kiện
+#desc: Đăng ký tham dự, diễn giả, gian hàng, lịch trình, buổi ra mắt: chủ đề quảng cáo sự kiện và email mời trong Part 7.
+conference | noun | /ˈkɑːnfərəns/ | hội nghị | a large formal meeting | attend a conference; annual conference | The *conference* will be held in Singapore this year. | Hội nghị năm nay sẽ tổ chức tại Singapore.
+attendee | noun | /əˌtenˈdiː/ | người tham dự | a person who attends an event | conference attendees | All *attendees* will receive a name badge. | Mọi người tham dự sẽ nhận thẻ tên.
+keynote speaker | noun | /ˈkiːnoʊt ˌspiːkər/ | diễn giả chính | the main speaker at a conference | the keynote speaker | This year's *keynote speaker* is a famous economist. | Diễn giả chính năm nay là một nhà kinh tế nổi tiếng.
+keynote | adjective | /ˈkiːnoʊt/ | chủ đạo, chính | most important | keynote address; keynote speech | The CEO will give the *keynote* address. | Giám đốc sẽ có bài phát biểu chính.
+speaker | noun | /ˈspiːkər/ | diễn giả; loa | a person who gives a talk; a device for sound | guest speaker; Bluetooth speaker | Our guest *speaker* is an expert in marketing. | Diễn giả khách mời của chúng tôi là chuyên gia marketing.
+presenter | noun | /prɪˈzentər/ | người trình bày | a person who gives a presentation | the next presenter | Each *presenter* has 20 minutes. | Mỗi người trình bày có 20 phút.
+moderator | noun | /ˈmɑːdəreɪtər/ | người điều phối thảo luận | a person who leads a discussion | panel moderator | The *moderator* will take questions from the audience. | Người điều phối sẽ nhận câu hỏi từ khán giả.
+panel discussion | noun | /ˈpænl dɪˌskʌʃn/ | buổi tọa đàm | a discussion by a group of experts | join a panel discussion | The *panel discussion* starts at 2 p.m. | Buổi tọa đàm bắt đầu lúc 2 giờ chiều.
+breakout session | noun | /ˈbreɪkaʊt ˌseʃn/ | phiên thảo luận nhóm nhỏ | a smaller meeting during a conference | attend a breakout session | After lunch, there will be three *breakout sessions*. | Sau bữa trưa sẽ có ba phiên thảo luận nhóm.
+booth | noun | /buːθ/ | gian hàng; buồng | a small area at a trade show; a small enclosed space | exhibition booth; ticket booth | Visit our *booth* at the trade fair. | Hãy ghé gian hàng của chúng tôi tại hội chợ.
+exhibitor | noun | /ɪɡˈzɪbɪtər/ | đơn vị trưng bày | a company that shows products at an exhibition | exhibitor list | Over 300 *exhibitors* will attend the fair. | Hơn 300 đơn vị sẽ trưng bày tại hội chợ.
+trade show | noun | /ˈtreɪd ʃoʊ/ | triển lãm thương mại | an event where companies show products | attend a trade show | We met many new clients at the *trade show*. | Chúng tôi gặp nhiều khách hàng mới tại triển lãm thương mại.
+trade fair | noun | /ˈtreɪd fer/ | hội chợ thương mại | a large exhibition of products | international trade fair | The *trade fair* runs from May 3 to 6. | Hội chợ thương mại diễn ra từ 3 đến 6 tháng Năm.
+expo | noun | /ˈekspoʊ/ | hội chợ triển lãm | a large public exhibition | technology expo | The tech *expo* attracts thousands of visitors. | Hội chợ công nghệ thu hút hàng nghìn khách.
+RSVP | verb | /ˌɑːr es viː ˈpiː/ | phản hồi lời mời | to reply to an invitation | please RSVP by Friday | Please *RSVP* by June 1. | Vui lòng phản hồi lời mời trước 1/6.
+invitation | noun | /ˌɪnvɪˈteɪʃn/ | lời mời; thiệp mời | a request to come to an event | send invitations; accept an invitation | Thank you for the *invitation*. | Cảm ơn lời mời của bạn.
+invite | verb | /ɪnˈvaɪt/ | mời | to ask someone to come | invite someone to; by invitation only | You are *invited* to our annual dinner. | Bạn được mời dự tiệc thường niên của chúng tôi.
+guest list | noun | /ˈɡest lɪst/ | danh sách khách mời | a list of invited people | on the guest list | Is my name on the *guest list*? | Tên tôi có trong danh sách khách mời không?
+schedule of events | noun | /ˌskedʒuːl əv ɪˈvents/ | lịch trình sự kiện | a list of activities and times | see the schedule of events | The *schedule of events* is on our website. | Lịch trình sự kiện có trên website của chúng tôi.
+program | noun | /ˈproʊɡræm/ | chương trình (sự kiện) | a printed list of what happens at an event | event program | Please see the *program* for session times. | Vui lòng xem chương trình để biết giờ các phiên.
+registration desk | noun | /ˌredʒɪˈstreɪʃn desk/ | quầy đăng ký | a table where attendees sign in | at the registration desk | Pick up your badge at the *registration desk*. | Nhận thẻ tại quầy đăng ký.
+early-bird | adjective | /ˈɜːrli bɜːrd/ | ưu đãi đăng ký sớm | for people who book early | early-bird discount; early-bird rate | Register by May 1 for the *early-bird* rate. | Đăng ký trước 1/5 để được giá ưu đãi sớm.
+admission | noun | /ədˈmɪʃn/ | sự vào cửa; phí vào cửa | permission to enter; the cost of entering | free admission; admission fee | *Admission* is free for members. | Hội viên được vào cửa miễn phí.
+ticket holder | noun | /ˈtɪkɪt ˌhoʊldər/ | người có vé | a person who has a ticket | ticket holders only | Entry is for *ticket holders* only. | Chỉ người có vé mới được vào.
+venue capacity | noun | /ˈvenjuː kəˈpæsəti/ | sức chứa của địa điểm | how many people a place can hold | check the venue capacity | The *venue capacity* is 800 people. | Sức chứa của địa điểm là 800 người.
+host | verb | /hoʊst/ | tổ chức, đăng cai | to organize an event | host a conference; host a party | Our company will *host* the annual conference. | Công ty chúng tôi sẽ đăng cai hội nghị thường niên.
+organize | verb | /ˈɔːrɡənaɪz/ | tổ chức | to plan and arrange | organize an event | Who is *organizing* the year-end party? | Ai tổ chức tiệc cuối năm?
+launch event | noun | /ˈlɔːntʃ ɪˌvent/ | sự kiện ra mắt | an event to introduce a new product | product launch event | Journalists were invited to the *launch event*. | Các nhà báo được mời dự sự kiện ra mắt.
+gala | noun | /ˈɡeɪlə/ | buổi dạ tiệc | a special public celebration | charity gala; gala dinner | The charity *gala* raised $1 million. | Dạ tiệc từ thiện quyên góp được 1 triệu đô.
+reception | noun | /rɪˈsepʃn/ | tiệc chiêu đãi | a formal party to welcome people | welcome reception; wedding reception | A welcome *reception* will be held on the first evening. | Tiệc chào mừng sẽ được tổ chức vào tối đầu tiên.
+networking | noun | /ˈnetwɜːrkɪŋ/ | giao lưu, kết nối công việc | meeting people to make business contacts | networking event; networking opportunity | The event is a great *networking* opportunity. | Sự kiện là cơ hội kết nối tuyệt vời.
+name tag | noun | /ˈneɪm tæɡ/ | bảng tên | a label with your name | wear a name tag | Please wear your *name tag* during the conference. | Vui lòng đeo bảng tên suốt hội nghị.
+podium | noun | /ˈpoʊdiəm/ | bục phát biểu | a raised platform for a speaker | at the podium; step up to the podium | The speaker is standing at the *podium*. | Diễn giả đang đứng ở bục phát biểu.
+microphone | noun | /ˈmaɪkrəfoʊn/ | micro | a device for making your voice louder | speak into the microphone | Please speak into the *microphone*. | Vui lòng nói vào micro.
+audio equipment | noun | /ˈɔːdioʊ ɪˌkwɪpmənt/ | thiết bị âm thanh | speakers, microphones etc. | set up the audio equipment | The technician is testing the *audio equipment*. | Kỹ thuật viên đang kiểm tra thiết bị âm thanh.
+slide | noun | /slaɪd/ | trang trình chiếu | one page of a presentation | the next slide; presentation slides | Let's move on to the next *slide*. | Chúng ta chuyển sang trang chiếu tiếp theo.
+Q&A session | noun | /ˌkjuː ən ˈeɪ ˌseʃn/ | phần hỏi đáp | a time for questions and answers | there will be a Q&A session | There will be a *Q&A session* after the talk. | Sẽ có phần hỏi đáp sau bài nói.
+proceedings | noun | /prəˈsiːdɪŋz/ | kỷ yếu; diễn biến | a written record of a conference; events | conference proceedings | The *proceedings* will be published online. | Kỷ yếu hội nghị sẽ được đăng trực tuyến.
+awards ceremony | noun | /əˈwɔːrdz ˌserəmoʊni/ | lễ trao giải | an event where prizes are given | attend the awards ceremony | The *awards ceremony* starts at 8 p.m. | Lễ trao giải bắt đầu lúc 8 giờ tối.
+fundraiser | noun | /ˈfʌndreɪzər/ | sự kiện gây quỹ | an event to collect money for a cause | hold a fundraiser | The school is holding a *fundraiser* for new computers. | Trường tổ chức sự kiện gây quỹ mua máy tính mới.
+volunteer | verb | /ˌvɑːlənˈtɪr/ | tình nguyện | to offer to do something without being asked or paid | volunteer to help | Several staff *volunteered* to help at the event. | Một số nhân viên tình nguyện giúp tại sự kiện.
+last-minute | adjective | /ˌlæst ˈmɪnɪt/ | vào phút chót | happening at the latest possible time | last-minute change; last-minute booking | There has been a *last-minute* change to the program. | Chương trình có thay đổi vào phút chót.
+postpone | verb | /poʊstˈpoʊn/ | hoãn lại | to move an event to a later time | postpone until; be postponed | The concert has been *postponed* because of rain. | Buổi hòa nhạc bị hoãn vì mưa.
+call off | verb | /ˌkɔːl ˈɔːf/ | hủy bỏ | to cancel | call off a meeting | The picnic was *called off* because of the storm. | Buổi dã ngoại bị hủy vì bão.
+turnout | noun | /ˈtɜːrnaʊt/ | số người tham dự | the number of people who attend an event | a good turnout; high turnout | There was a great *turnout* for the seminar. | Hội thảo có rất đông người tham dự.
+sold-out | adjective | /ˌsoʊld ˈaʊt/ | cháy vé | with all tickets sold | a sold-out show | The band played to a *sold-out* crowd. | Ban nhạc biểu diễn trước khán phòng cháy vé.
+press release | noun | /ˈpres rɪˌliːs/ | thông cáo báo chí | an official statement given to journalists | issue a press release | The company issued a *press release* about the merger. | Công ty phát thông cáo báo chí về vụ sáp nhập.

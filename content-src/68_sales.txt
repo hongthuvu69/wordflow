@@ -1,0 +1,53 @@
+#id: toeic_sales
+#prefix: tsa
+#order: 68
+#icon: 📈
+#title: TOEIC: Sales & Business Strategy
+#title_vi: TOEIC: Bán hàng & Chiến lược kinh doanh
+#desc: Doanh số, thị phần, khách hàng tiềm năng, chiến lược, mở rộng: từ vựng của báo cáo kinh doanh và bài nói Part 4.
+sales figures | noun | /ˈseɪlz ˌfɪɡjərz/ | số liệu bán hàng | numbers showing how much was sold | quarterly sales figures | Our *sales figures* improved this month. | Số liệu bán hàng tháng này đã cải thiện.
+sales representative | noun | /ˈseɪlz ˌreprɪzentətɪv/ | nhân viên kinh doanh | a person who sells a company's products | contact a sales representative | A *sales representative* will contact you shortly. | Nhân viên kinh doanh sẽ sớm liên hệ bạn.
+sales pitch | noun | /ˈseɪlz pɪtʃ/ | bài chào hàng | a talk to persuade someone to buy | give a sales pitch | Keep your *sales pitch* short and clear. | Hãy giữ bài chào hàng ngắn gọn, rõ ràng.
+prospective | adjective | /prəˈspektɪv/ | tiềm năng, tương lai | likely to become something | prospective clients; prospective employees | We are meeting *prospective* clients next week. | Tuần tới chúng tôi gặp khách hàng tiềm năng.
+lead generation | noun | /ˈliːd dʒenəˌreɪʃn/ | tạo khách hàng tiềm năng | finding people who may buy | improve lead generation | The website is our main source of *lead generation*. | Website là nguồn chính tạo khách hàng tiềm năng.
+clientele | noun | /ˌklaɪənˈtel/ | tập khách hàng | the customers of a business | a loyal clientele; wealthy clientele | The restaurant has a loyal *clientele*. | Nhà hàng có lượng khách quen trung thành.
+customer base | noun | /ˈkʌstəmər beɪs/ | tập khách hàng | all the customers of a business | expand our customer base | We want to grow our *customer base* in Asia. | Chúng tôi muốn mở rộng tập khách hàng ở châu Á.
+market share | noun | /ˌmɑːrkɪt ˈʃer/ | thị phần | the percentage of a market a company controls | gain market share | The company increased its *market share* to 25%. | Công ty tăng thị phần lên 25%.
+market research | noun | /ˌmɑːrkɪt rɪˈsɜːrtʃ/ | nghiên cứu thị trường | collecting information about customers | conduct market research | *Market research* shows strong demand for the product. | Nghiên cứu thị trường cho thấy nhu cầu cao với sản phẩm.
+target market | noun | /ˌtɑːrɡɪt ˈmɑːrkɪt/ | thị trường mục tiêu | the group of customers a company wants | identify your target market | Our *target market* is young professionals. | Thị trường mục tiêu của chúng tôi là người trẻ đi làm.
+strategy | noun | /ˈstrætədʒi/ | chiến lược | a plan to achieve a goal | marketing strategy; business strategy | We need a new *strategy* to attract young customers. | Chúng ta cần chiến lược mới để thu hút khách hàng trẻ.
+strategic | adjective | /strəˈtiːdʒɪk/ | mang tính chiến lược | part of a plan | strategic partner; strategic decision | Moving to Singapore was a *strategic* decision. | Chuyển sang Singapore là một quyết định chiến lược.
+competitive advantage | noun | /kəmˌpetətɪv ədˈvæntɪdʒ/ | lợi thế cạnh tranh | something that makes a company better than rivals | gain a competitive advantage | Fast delivery gives us a *competitive advantage*. | Giao hàng nhanh mang lại lợi thế cạnh tranh cho chúng tôi.
+market leader | noun | /ˌmɑːrkɪt ˈliːdər/ | công ty dẫn đầu thị trường | the company with the biggest share | become the market leader | They are the *market leader* in home appliances. | Họ dẫn đầu thị trường đồ gia dụng.
+brand awareness | noun | /ˈbrænd əˌwernəs/ | độ nhận diện thương hiệu | how well people know a brand | increase brand awareness | The campaign aims to increase *brand awareness*. | Chiến dịch nhằm tăng độ nhận diện thương hiệu.
+branding | noun | /ˈbrændɪŋ/ | xây dựng thương hiệu | creating a brand image | strong branding | Good *branding* helps customers remember you. | Xây dựng thương hiệu tốt giúp khách nhớ đến bạn.
+endorse | verb | /ɪnˈdɔːrs/ | ủng hộ; quảng cáo cho | to support publicly; to appear in ads for | endorse a product | A famous athlete *endorses* the shoes. | Một vận động viên nổi tiếng làm đại diện quảng cáo cho đôi giày.
+testimonial | noun | /ˌtestɪˈmoʊniəl/ | lời chứng thực của khách hàng | a statement praising a product or person | customer testimonials | Read *testimonials* from our happy customers. | Đọc nhận xét từ những khách hàng hài lòng của chúng tôi.
+upsell | verb | /ˈʌpsel/ | bán thêm (sản phẩm đắt hơn) | to persuade a customer to buy something more expensive | upsell customers | Staff are trained to *upsell* larger sizes. | Nhân viên được đào tạo để mời khách mua cỡ lớn hơn.
+revenue stream | noun | /ˈrevənuː striːm/ | nguồn doanh thu | a source of income | a new revenue stream | Online classes are a new *revenue stream* for us. | Lớp học trực tuyến là nguồn doanh thu mới của chúng tôi.
+profit margin | noun | /ˈprɑːfɪt ˌmɑːrdʒɪn/ | biên lợi nhuận | the difference between cost and selling price | a high profit margin | Luxury goods have a high *profit margin*. | Hàng xa xỉ có biên lợi nhuận cao.
+growth rate | noun | /ˈɡroʊθ reɪt/ | tốc độ tăng trưởng | how fast something grows | annual growth rate | The *growth rate* slowed in the third quarter. | Tốc độ tăng trưởng chậm lại trong quý ba.
+quota | noun | /ˈkwoʊtə/ | chỉ tiêu, hạn ngạch | a fixed amount that must be achieved | sales quota; meet a quota | Each salesperson has a monthly *quota*. | Mỗi nhân viên bán hàng có chỉ tiêu hằng tháng.
+benchmark | noun | /ˈbentʃmɑːrk/ | tiêu chuẩn so sánh | a standard used for comparison | set a benchmark; industry benchmark | Their service is the *benchmark* for the industry. | Dịch vụ của họ là chuẩn mực của ngành.
+outperform | verb | /ˌaʊtpərˈfɔːrm/ | vượt trội hơn | to do better than | outperform competitors | Our new store *outperformed* all others. | Cửa hàng mới của chúng tôi vượt trội hơn tất cả các cửa hàng khác.
+merchandising | noun | /ˈmɜːrtʃəndaɪzɪŋ/ | trưng bày hàng hóa | the way products are displayed and promoted | visual merchandising | Good *merchandising* increases sales. | Trưng bày hàng tốt giúp tăng doanh số.
+point of sale | noun | /ˌpɔɪnt əv ˈseɪl/ | điểm bán hàng | the place where a sale happens | point-of-sale system | We installed a new *point of sale* system. | Chúng tôi lắp hệ thống bán hàng mới.
+distribution channel | noun | /ˌdɪstrɪˈbjuːʃn ˌtʃænl/ | kênh phân phối | the way products reach customers | online distribution channels | The internet is our main *distribution channel*. | Internet là kênh phân phối chính của chúng tôi.
+franchise | noun | /ˈfræntʃaɪz/ | nhượng quyền thương mại | a right to sell a company's products under its name | open a franchise; franchise owner | She owns three coffee shop *franchises*. | Cô ấy sở hữu ba cửa hàng cà phê nhượng quyền.
+startup | noun | /ˈstɑːrtʌp/ | công ty khởi nghiệp | a new small company | tech startup | He works for a small tech *startup*. | Anh ấy làm cho một công ty khởi nghiệp công nghệ nhỏ.
+stakeholder | noun | /ˈsteɪkhoʊldər/ | bên liên quan | a person with an interest in a business | key stakeholders | We met with all *stakeholders* to discuss the plan. | Chúng tôi họp với tất cả bên liên quan để bàn kế hoạch.
+feasibility | noun | /ˌfiːzəˈbɪləti/ | tính khả thi | how possible something is | feasibility study | A *feasibility* study will be done first. | Sẽ làm nghiên cứu khả thi trước.
+feasible | adjective | /ˈfiːzəbl/ | khả thi | possible to do | a feasible plan | Is it *feasible* to finish by Friday? | Có khả thi để hoàn thành trước thứ Sáu không?
+diversify | verb | /daɪˈvɜːrsɪfaɪ/ | đa dạng hóa | to start doing different kinds of business | diversify into | The company *diversified* into healthcare. | Công ty đa dạng hóa sang lĩnh vực y tế.
+streamline | verb | /ˈstriːmlaɪn/ | tinh gọn | to make a process simpler and more efficient | streamline the process | We *streamlined* the ordering process. | Chúng tôi đã tinh gọn quy trình đặt hàng.
+restructure | verb | /ˌriːˈstrʌktʃər/ | tái cơ cấu | to organize a company in a new way | restructure the company | The company was *restructured* last year. | Công ty được tái cơ cấu năm ngoái.
+downsize | verb | /ˈdaʊnsaɪz/ | cắt giảm quy mô | to reduce the number of employees | downsize the workforce | The firm *downsized* from 500 to 300 staff. | Công ty cắt giảm từ 500 xuống 300 nhân viên.
+outlet | noun | /ˈaʊtlet/ | cửa hàng bán lẻ; ổ cắm | a shop selling a company's goods; an electrical socket | retail outlet; power outlet | The brand has 50 *outlets* nationwide. | Thương hiệu có 50 cửa hàng trên toàn quốc.
+headcount | noun | /ˈhedkaʊnt/ | số lượng nhân sự | the number of people employed | reduce headcount | Our *headcount* grew by 20% this year. | Số lượng nhân sự của chúng tôi tăng 20% năm nay.
+key account | noun | /ˌkiː əˈkaʊnt/ | khách hàng quan trọng | an important client | key account manager | She manages our *key accounts*. | Cô ấy quản lý các khách hàng quan trọng của chúng tôi.
+close a deal | verb | /ˌkloʊz ə ˈdiːl/ | chốt thỏa thuận | to complete a business agreement | close a deal with | We hope to *close a deal* by the end of the month. | Chúng tôi hy vọng chốt được thỏa thuận trước cuối tháng.
+counteroffer | noun | /ˈkaʊntərɔːfər/ | đề nghị ngược lại | an offer made in reply to another offer | make a counteroffer | They rejected our price and made a *counteroffer*. | Họ từ chối giá của chúng tôi và đưa ra đề nghị khác.
+terms of payment | noun | /ˌtɜːrmz əv ˈpeɪmənt/ | điều khoản thanh toán | how and when payment must be made | agree on terms of payment | We need to agree on *terms of payment*. | Chúng ta cần thống nhất điều khoản thanh toán.
+win-win | adjective | /ˌwɪn ˈwɪn/ | đôi bên cùng có lợi | good for everyone involved | a win-win situation | The partnership is a *win-win* for both companies. | Sự hợp tác mang lại lợi ích cho cả hai công ty.
+bottom line | noun | /ˌbɑːtəm ˈlaɪn/ | lợi nhuận cuối cùng; điều cốt yếu | the final profit; the most important fact | affect the bottom line | Lower costs will improve our *bottom line*. | Chi phí thấp hơn sẽ cải thiện lợi nhuận cuối cùng.
+ROI | noun | /ˌɑːr oʊ ˈaɪ/ | lợi tức đầu tư | return on investment | a high ROI | The campaign delivered a strong *ROI*. | Chiến dịch mang lại lợi tức đầu tư cao.

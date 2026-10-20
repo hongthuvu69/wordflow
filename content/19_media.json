@@ -1,0 +1,870 @@
+{
+ "id": "media",
+ "order": 19,
+ "icon": "📰",
+ "level": "B2",
+ "title": "News & Media",
+ "title_vi": "Tin tức & Truyền thông",
+ "description": "Báo chí, truyền hình, xuất bản, phát ngôn: giúp đọc tin tức và hiểu các bài nói Part 4 (radio, bản tin).",
+ "words": [
+  {
+   "id": "med_broadcast",
+   "word": "broadcast",
+   "pos": "verb",
+   "ipa": "/ˈbrɔːdkæst/",
+   "level": "B2",
+   "meaning": "phát sóng",
+   "definition": "to send out a programme on TV or radio",
+   "collocations": [
+    "broadcast live",
+    "be broadcast on"
+   ],
+   "examples": [
+    {
+     "en": "The match will be *broadcast* live on Channel 5.",
+     "vi": "Trận đấu sẽ được phát trực tiếp trên kênh 5."
+    }
+   ]
+  },
+  {
+   "id": "med_broadcaster",
+   "word": "broadcaster",
+   "pos": "noun",
+   "ipa": "/ˈbrɔːdkæstər/",
+   "level": "B2",
+   "meaning": "đài truyền hình; phát thanh viên",
+   "definition": "a company or person that broadcasts",
+   "collocations": [
+    "a national broadcaster",
+    "public broadcaster"
+   ],
+   "examples": [
+    {
+     "en": "The national *broadcaster* covered the event.",
+     "vi": "Đài truyền hình quốc gia đưa tin về sự kiện."
+    }
+   ]
+  },
+  {
+   "id": "med_channel",
+   "word": "channel",
+   "pos": "noun",
+   "ipa": "/ˈtʃænl/",
+   "level": "B1",
+   "meaning": "kênh",
+   "definition": "a TV station; a way of communicating",
+   "collocations": [
+    "change the channel",
+    "news channel",
+    "sales channel"
+   ],
+   "examples": [
+    {
+     "en": "Which *channel* is the news on?",
+     "vi": "Thời sự phát trên kênh nào?"
+    }
+   ]
+  },
+  {
+   "id": "med_coverage",
+   "word": "coverage",
+   "pos": "noun",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "level": "B2",
+   "meaning": "việc đưa tin; phạm vi bảo hiểm/phủ sóng",
+   "definition": "the reporting of news; the amount protected by insurance",
+   "collocations": [
+    "media coverage",
+    "live coverage",
+    "insurance coverage"
+   ],
+   "examples": [
+    {
+     "en": "The event received wide media *coverage*.",
+     "vi": "Sự kiện được truyền thông đưa tin rộng rãi."
+    }
+   ]
+  },
+  {
+   "id": "med_documentary",
+   "word": "documentary",
+   "pos": "noun",
+   "ipa": "/ˌdɑːkjuˈmentri/",
+   "level": "B1",
+   "meaning": "phim tài liệu",
+   "definition": "a film or programme giving facts about something",
+   "collocations": [
+    "watch a documentary",
+    "a documentary about"
+   ],
+   "examples": [
+    {
+     "en": "I watched a *documentary* about climate change.",
+     "vi": "Tôi xem một bộ phim tài liệu về biến đổi khí hậu."
+    }
+   ]
+  },
+  {
+   "id": "med_edition",
+   "word": "edition",
+   "pos": "noun",
+   "ipa": "/ɪˈdɪʃn/",
+   "level": "B2",
+   "meaning": "ấn bản, số (báo)",
+   "definition": "one version or copy of a book or newspaper",
+   "collocations": [
+    "the latest edition",
+    "online edition",
+    "special edition"
+   ],
+   "examples": [
+    {
+     "en": "The article appeared in today's *edition*.",
+     "vi": "Bài báo xuất hiện trong số báo hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "med_editor",
+   "word": "editor",
+   "pos": "noun",
+   "ipa": "/ˈedɪtər/",
+   "level": "B1",
+   "meaning": "biên tập viên",
+   "definition": "a person who prepares texts for publishing",
+   "collocations": [
+    "newspaper editor",
+    "chief editor"
+   ],
+   "examples": [
+    {
+     "en": "The *editor* asked me to shorten the article.",
+     "vi": "Biên tập viên yêu cầu tôi rút ngắn bài viết."
+    }
+   ]
+  },
+  {
+   "id": "med_edit",
+   "word": "edit",
+   "pos": "verb",
+   "ipa": "/ˈedɪt/",
+   "level": "B2",
+   "meaning": "biên tập, chỉnh sửa",
+   "definition": "to prepare text or video by correcting and changing it",
+   "collocations": [
+    "edit a document",
+    "edit a video"
+   ],
+   "examples": [
+    {
+     "en": "Can you *edit* this report before I send it?",
+     "vi": "Bạn có thể chỉnh sửa báo cáo này trước khi tôi gửi không?"
+    }
+   ]
+  },
+  {
+   "id": "med_editorial",
+   "word": "editorial",
+   "pos": "noun",
+   "ipa": "/ˌedɪˈtɔːriəl/",
+   "level": "B2",
+   "meaning": "bài xã luận",
+   "definition": "a newspaper article giving the editor's opinion",
+   "collocations": [
+    "write an editorial"
+   ],
+   "examples": [
+    {
+     "en": "The *editorial* criticized the new tax.",
+     "vi": "Bài xã luận chỉ trích loại thuế mới."
+    }
+   ]
+  },
+  {
+   "id": "med_episode",
+   "word": "episode",
+   "pos": "noun",
+   "ipa": "/ˈepɪsoʊd/",
+   "level": "B1",
+   "meaning": "tập (phim); sự việc",
+   "definition": "one part of a TV series; an event",
+   "collocations": [
+    "the first episode",
+    "the latest episode"
+   ],
+   "examples": [
+    {
+     "en": "I've watched three *episodes* of the series.",
+     "vi": "Tôi đã xem ba tập của bộ phim."
+    }
+   ]
+  },
+  {
+   "id": "med_headline",
+   "word": "headline",
+   "pos": "noun",
+   "ipa": "/ˈhedlaɪn/",
+   "level": "B1",
+   "meaning": "tiêu đề tin",
+   "definition": "the title of a newspaper story",
+   "collocations": [
+    "make headlines",
+    "front-page headline"
+   ],
+   "examples": [
+    {
+     "en": "The story made *headlines* around the world.",
+     "vi": "Câu chuyện lên trang nhất khắp thế giới."
+    }
+   ]
+  },
+  {
+   "id": "med_journal",
+   "word": "journal",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːrnl/",
+   "level": "B1",
+   "meaning": "tạp chí chuyên ngành; nhật ký",
+   "definition": "a serious magazine; a written record",
+   "collocations": [
+    "medical journal",
+    "keep a journal"
+   ],
+   "examples": [
+    {
+     "en": "The study was published in a medical *journal*.",
+     "vi": "Nghiên cứu được đăng trên một tạp chí y khoa."
+    }
+   ]
+  },
+  {
+   "id": "med_journalism",
+   "word": "journalism",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːrnəlɪzəm/",
+   "level": "B2",
+   "meaning": "nghề báo",
+   "definition": "the work of writing news",
+   "collocations": [
+    "study journalism",
+    "online journalism"
+   ],
+   "examples": [
+    {
+     "en": "She has a degree in *journalism*.",
+     "vi": "Cô ấy có bằng báo chí."
+    }
+   ]
+  },
+  {
+   "id": "med_press",
+   "word": "press",
+   "pos": "noun",
+   "ipa": "/pres/",
+   "level": "B1",
+   "meaning": "báo chí",
+   "definition": "newspapers and journalists",
+   "collocations": [
+    "press release",
+    "press conference",
+    "the press"
+   ],
+   "examples": [
+    {
+     "en": "The company issued a *press* release this morning.",
+     "vi": "Công ty phát thông cáo báo chí sáng nay."
+    }
+   ],
+   "note": "press conference = họp báo."
+  },
+  {
+   "id": "med_publication",
+   "word": "publication",
+   "pos": "noun",
+   "ipa": "/ˌpʌblɪˈkeɪʃn/",
+   "level": "B2",
+   "meaning": "ấn phẩm; sự xuất bản",
+   "definition": "a book or magazine; the act of publishing",
+   "collocations": [
+    "date of publication",
+    "a monthly publication"
+   ],
+   "examples": [
+    {
+     "en": "The report is ready for *publication*.",
+     "vi": "Bản báo cáo đã sẵn sàng để xuất bản."
+    }
+   ]
+  },
+  {
+   "id": "med_publishing",
+   "word": "publishing",
+   "pos": "noun",
+   "ipa": "/ˈpʌblɪʃɪŋ/",
+   "level": "B2",
+   "meaning": "ngành xuất bản",
+   "definition": "the business of producing books and magazines",
+   "collocations": [
+    "publishing company",
+    "work in publishing"
+   ],
+   "examples": [
+    {
+     "en": "He works for a *publishing* company.",
+     "vi": "Anh ấy làm cho một công ty xuất bản."
+    }
+   ]
+  },
+  {
+   "id": "med_reporting",
+   "word": "reporting",
+   "pos": "noun",
+   "ipa": "/rɪˈpɔːrtɪŋ/",
+   "level": "B2",
+   "meaning": "việc đưa tin",
+   "definition": "the presenting of news",
+   "collocations": [
+    "news reporting",
+    "accurate reporting"
+   ],
+   "examples": [
+    {
+     "en": "The newspaper is known for honest *reporting*.",
+     "vi": "Tờ báo nổi tiếng nhờ đưa tin trung thực."
+    }
+   ]
+  },
+  {
+   "id": "med_viewer",
+   "word": "viewer",
+   "pos": "noun",
+   "ipa": "/ˈvjuːər/",
+   "level": "B1",
+   "meaning": "khán giả truyền hình",
+   "definition": "a person who watches TV",
+   "collocations": [
+    "millions of viewers",
+    "TV viewers"
+   ],
+   "examples": [
+    {
+     "en": "The show attracts five million *viewers* a week.",
+     "vi": "Chương trình thu hút năm triệu người xem mỗi tuần."
+    }
+   ]
+  },
+  {
+   "id": "med_spokesperson",
+   "word": "spokesperson",
+   "pos": "noun",
+   "ipa": "/ˈspoʊkspɜːrsn/",
+   "level": "B2",
+   "meaning": "người phát ngôn",
+   "definition": "a person who speaks for an organization",
+   "collocations": [
+    "a company spokesperson"
+   ],
+   "examples": [
+    {
+     "en": "A *spokesperson* said the factory would reopen soon.",
+     "vi": "Người phát ngôn cho biết nhà máy sẽ sớm mở cửa lại."
+    }
+   ]
+  },
+  {
+   "id": "med_spokesman",
+   "word": "spokesman",
+   "pos": "noun",
+   "ipa": "/ˈspoʊksmən/",
+   "level": "B2",
+   "meaning": "người phát ngôn (nam)",
+   "definition": "a man who speaks for an organization",
+   "collocations": [
+    "a government spokesman"
+   ],
+   "examples": [
+    {
+     "en": "A police *spokesman* confirmed the news.",
+     "vi": "Người phát ngôn cảnh sát xác nhận tin tức."
+    }
+   ]
+  },
+  {
+   "id": "med_spokeswoman",
+   "word": "spokeswoman",
+   "pos": "noun",
+   "ipa": "/ˈspoʊkswʊmən/",
+   "level": "B2",
+   "meaning": "người phát ngôn (nữ)",
+   "definition": "a woman who speaks for an organization",
+   "collocations": [
+    "the airline's spokeswoman"
+   ],
+   "examples": [
+    {
+     "en": "The airline's *spokeswoman* apologized for the delays.",
+     "vi": "Nữ phát ngôn viên hãng bay xin lỗi về sự chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "med_quote",
+   "word": "quote",
+   "pos": "verb",
+   "ipa": "/kwoʊt/",
+   "level": "B1",
+   "meaning": "trích dẫn; báo giá",
+   "definition": "to repeat someone's words; to give a price",
+   "collocations": [
+    "quote someone",
+    "quote a price"
+   ],
+   "examples": [
+    {
+     "en": "The article *quoted* the CEO several times.",
+     "vi": "Bài báo trích lời giám đốc nhiều lần."
+    }
+   ],
+   "note": "Danh từ quote = bảng báo giá (get a quote)."
+  },
+  {
+   "id": "med_quotation",
+   "word": "quotation",
+   "pos": "noun",
+   "ipa": "/kwoʊˈteɪʃn/",
+   "level": "B1",
+   "meaning": "câu trích dẫn; bảng báo giá",
+   "definition": "words repeated from someone; a written price",
+   "collocations": [
+    "a famous quotation",
+    "ask for a quotation"
+   ],
+   "examples": [
+    {
+     "en": "Please send us a *quotation* for 500 chairs.",
+     "vi": "Vui lòng gửi chúng tôi báo giá cho 500 chiếc ghế."
+    }
+   ]
+  },
+  {
+   "id": "med_cite",
+   "word": "cite",
+   "pos": "verb",
+   "ipa": "/saɪt/",
+   "level": "B2",
+   "meaning": "trích dẫn, viện dẫn",
+   "definition": "to mention something as an example or proof",
+   "collocations": [
+    "cite a source",
+    "cite an example"
+   ],
+   "examples": [
+    {
+     "en": "The report *cites* several recent studies.",
+     "vi": "Báo cáo viện dẫn một số nghiên cứu gần đây."
+    }
+   ]
+  },
+  {
+   "id": "med_caption",
+   "word": "caption",
+   "pos": "noun",
+   "ipa": "/ˈkæpʃn/",
+   "level": "B2",
+   "meaning": "chú thích ảnh",
+   "definition": "words printed under a picture",
+   "collocations": [
+    "photo caption",
+    "write a caption"
+   ],
+   "examples": [
+    {
+     "en": "Read the *caption* under each photo.",
+     "vi": "Đọc phần chú thích dưới mỗi bức ảnh."
+    }
+   ]
+  },
+  {
+   "id": "med_scandal",
+   "word": "scandal",
+   "pos": "noun",
+   "ipa": "/ˈskændl/",
+   "level": "B2",
+   "meaning": "vụ bê bối",
+   "definition": "an event that shocks people because it is wrong",
+   "collocations": [
+    "a political scandal",
+    "cause a scandal"
+   ],
+   "examples": [
+    {
+     "en": "The minister resigned after the *scandal*.",
+     "vi": "Bộ trưởng từ chức sau vụ bê bối."
+    }
+   ]
+  },
+  {
+   "id": "med_controversy",
+   "word": "controversy",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntrəvɜːrsi/",
+   "level": "B2",
+   "meaning": "cuộc tranh cãi",
+   "definition": "public disagreement about something",
+   "collocations": [
+    "cause controversy",
+    "political controversy"
+   ],
+   "examples": [
+    {
+     "en": "The new law caused a lot of *controversy*.",
+     "vi": "Luật mới gây nhiều tranh cãi."
+    }
+   ]
+  },
+  {
+   "id": "med_controversial",
+   "word": "controversial",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːntrəˈvɜːrʃl/",
+   "level": "B2",
+   "meaning": "gây tranh cãi",
+   "definition": "causing public disagreement",
+   "collocations": [
+    "a controversial decision",
+    "highly controversial"
+   ],
+   "examples": [
+    {
+     "en": "It was a *controversial* decision.",
+     "vi": "Đó là một quyết định gây tranh cãi."
+    }
+   ]
+  },
+  {
+   "id": "med_anonymous",
+   "word": "anonymous",
+   "pos": "adjective",
+   "ipa": "/əˈnɑːnɪməs/",
+   "level": "C1",
+   "meaning": "ẩn danh",
+   "definition": "with a name that is not known",
+   "collocations": [
+    "an anonymous source",
+    "remain anonymous"
+   ],
+   "examples": [
+    {
+     "en": "The survey is completely *anonymous*.",
+     "vi": "Cuộc khảo sát hoàn toàn ẩn danh."
+    }
+   ]
+  },
+  {
+   "id": "med_source",
+   "word": "source",
+   "pos": "noun",
+   "ipa": "/sɔːrs/",
+   "level": "A2",
+   "meaning": "nguồn",
+   "definition": "a place or person that provides something",
+   "collocations": [
+    "a reliable source",
+    "source of income"
+   ],
+   "examples": [
+    {
+     "en": "According to *sources*, the deal will be signed soon.",
+     "vi": "Theo các nguồn tin, thỏa thuận sẽ sớm được ký."
+    }
+   ]
+  },
+  {
+   "id": "med_rumour",
+   "word": "rumour",
+   "pos": "noun",
+   "ipa": "/ˈruːmər/",
+   "level": "C1",
+   "meaning": "tin đồn",
+   "definition": "a story that may not be true",
+   "collocations": [
+    "spread a rumour",
+    "there are rumours that"
+   ],
+   "examples": [
+    {
+     "en": "There are *rumours* that the company will be sold.",
+     "vi": "Có tin đồn rằng công ty sẽ bị bán."
+    }
+   ],
+   "note": "Anh-Mỹ: rumor."
+  },
+  {
+   "id": "med_reveal",
+   "word": "reveal",
+   "pos": "verb",
+   "ipa": "/rɪˈviːl/",
+   "level": "B2",
+   "meaning": "tiết lộ",
+   "definition": "to make something known",
+   "collocations": [
+    "reveal a secret",
+    "reveal that"
+   ],
+   "examples": [
+    {
+     "en": "The survey *revealed* that most staff want flexible hours.",
+     "vi": "Khảo sát tiết lộ rằng hầu hết nhân viên muốn giờ làm linh hoạt."
+    }
+   ]
+  },
+  {
+   "id": "med_expose",
+   "word": "expose",
+   "pos": "verb",
+   "ipa": "/ɪkˈspoʊz/",
+   "level": "B2",
+   "meaning": "phơi bày; để tiếp xúc",
+   "definition": "to show the truth about something bad; to put in contact with something harmful",
+   "collocations": [
+    "expose a scandal",
+    "be exposed to"
+   ],
+   "examples": [
+    {
+     "en": "The journalist *exposed* the fraud.",
+     "vi": "Nhà báo đã phơi bày vụ lừa đảo."
+    }
+   ]
+  },
+  {
+   "id": "med_exposure",
+   "word": "exposure",
+   "pos": "noun",
+   "ipa": "/ɪkˈspoʊʒər/",
+   "level": "B2",
+   "meaning": "sự xuất hiện trước công chúng; sự tiếp xúc",
+   "definition": "public attention; being in contact with something",
+   "collocations": [
+    "media exposure",
+    "exposure to the sun"
+   ],
+   "examples": [
+    {
+     "en": "The event gave the brand great *exposure*.",
+     "vi": "Sự kiện giúp thương hiệu xuất hiện rộng rãi trước công chúng."
+    }
+   ]
+  },
+  {
+   "id": "med_info",
+   "word": "info",
+   "pos": "noun",
+   "ipa": "/ˈɪnfoʊ/",
+   "level": "B2",
+   "meaning": "thông tin (văn nói)",
+   "definition": "information",
+   "collocations": [
+    "more info",
+    "contact info"
+   ],
+   "examples": [
+    {
+     "en": "For more *info*, visit our website.",
+     "vi": "Để biết thêm thông tin, hãy truy cập website."
+    }
+   ]
+  },
+  {
+   "id": "med_blog",
+   "word": "blog",
+   "pos": "noun",
+   "ipa": "/blɑːɡ/",
+   "level": "A1",
+   "meaning": "blog, nhật ký mạng",
+   "definition": "a website where someone writes regularly",
+   "collocations": [
+    "write a blog",
+    "blog post"
+   ],
+   "examples": [
+    {
+     "en": "She writes a *blog* about travel.",
+     "vi": "Cô ấy viết blog về du lịch."
+    }
+   ]
+  },
+  {
+   "id": "med_follower",
+   "word": "follower",
+   "pos": "noun",
+   "ipa": "/ˈfɑːloʊər/",
+   "level": "B2",
+   "meaning": "người theo dõi",
+   "definition": "a person who follows someone on social media; a supporter",
+   "collocations": [
+    "have a million followers"
+   ],
+   "examples": [
+    {
+     "en": "The brand has two million *followers* online.",
+     "vi": "Thương hiệu có hai triệu người theo dõi trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "med_influence",
+   "word": "influence",
+   "pos": "noun",
+   "ipa": "/ˈɪnfluəns/",
+   "level": "B1",
+   "meaning": "sự ảnh hưởng",
+   "definition": "the power to affect someone or something",
+   "collocations": [
+    "have an influence on",
+    "under the influence of"
+   ],
+   "examples": [
+    {
+     "en": "Social media has a big *influence* on young people.",
+     "vi": "Mạng xã hội có ảnh hưởng lớn đến giới trẻ."
+    }
+   ]
+  },
+  {
+   "id": "med_viral",
+   "word": "viral",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪrəl/",
+   "level": "C1",
+   "meaning": "lan truyền mạnh trên mạng",
+   "definition": "spreading quickly on the internet",
+   "collocations": [
+    "go viral",
+    "a viral video"
+   ],
+   "examples": [
+    {
+     "en": "The video went *viral* overnight.",
+     "vi": "Video lan truyền chóng mặt chỉ sau một đêm."
+    }
+   ]
+  },
+  {
+   "id": "med_subscribe",
+   "word": "subscribe",
+   "pos": "verb",
+   "ipa": "/səbˈskraɪb/",
+   "level": "C1",
+   "meaning": "đăng ký (theo dõi, nhận)",
+   "definition": "to pay to receive something regularly",
+   "collocations": [
+    "subscribe to a magazine",
+    "subscribe to a channel"
+   ],
+   "examples": [
+    {
+     "en": "*Subscribe* to our newsletter for weekly updates.",
+     "vi": "Đăng ký bản tin của chúng tôi để nhận cập nhật hàng tuần."
+    }
+   ]
+  },
+  {
+   "id": "med_newsletter",
+   "word": "newsletter",
+   "pos": "noun",
+   "ipa": "/ˈnuːzletər/",
+   "level": "C1",
+   "meaning": "bản tin",
+   "definition": "a regular report sent to members",
+   "collocations": [
+    "monthly newsletter",
+    "company newsletter"
+   ],
+   "examples": [
+    {
+     "en": "The company *newsletter* comes out every month.",
+     "vi": "Bản tin công ty ra hàng tháng."
+    }
+   ]
+  },
+  {
+   "id": "med_column",
+   "word": "column",
+   "pos": "noun",
+   "ipa": "/ˈkɑːləm/",
+   "level": "A2",
+   "meaning": "chuyên mục; cột",
+   "definition": "a regular article in a newspaper; a vertical row",
+   "collocations": [
+    "write a column",
+    "advice column"
+   ],
+   "examples": [
+    {
+     "en": "She writes a weekly *column* on business.",
+     "vi": "Cô ấy viết chuyên mục kinh doanh hằng tuần."
+    }
+   ]
+  },
+  {
+   "id": "med_current",
+   "word": "current",
+   "pos": "adjective",
+   "ipa": "/ˈkɜːrənt/",
+   "level": "B1",
+   "meaning": "hiện tại",
+   "definition": "happening now",
+   "collocations": [
+    "current events",
+    "current situation",
+    "current address"
+   ],
+   "examples": [
+    {
+     "en": "We discuss *current* events in class.",
+     "vi": "Chúng tôi thảo luận thời sự trong lớp."
+    }
+   ]
+  },
+  {
+   "id": "med_currently",
+   "word": "currently",
+   "pos": "adverb",
+   "ipa": "/ˈkɜːrəntli/",
+   "level": "B1",
+   "meaning": "hiện nay",
+   "definition": "at the present time",
+   "collocations": [
+    "is currently unavailable",
+    "currently working"
+   ],
+   "examples": [
+    {
+     "en": "The manager is *currently* on holiday.",
+     "vi": "Quản lý hiện đang đi nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "med_latest",
+   "word": "latest",
+   "pos": "adjective",
+   "ipa": "/ˈleɪtɪst/",
+   "level": "B1",
+   "meaning": "mới nhất",
+   "definition": "the most recent",
+   "collocations": [
+    "the latest news",
+    "latest version"
+   ],
+   "examples": [
+    {
+     "en": "Have you heard the *latest* news?",
+     "vi": "Bạn đã nghe tin mới nhất chưa?"
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

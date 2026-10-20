@@ -1,0 +1,1109 @@
+{
+ "id": "familiar2",
+ "order": 50,
+ "icon": "🔁",
+ "level": "B1",
+ "title": "Familiar Words, New Meanings (2)",
+ "title_vi": "Từ quen – nghĩa mới (2)",
+ "description": "Tiếp tục nhóm từ cơ bản mang nghĩa nâng cao, cùng các từ chỉ phương hướng, ẩm thực và đời sống.",
+ "words": [
+  {
+   "id": "fa2_about",
+   "word": "about",
+   "pos": "adverb",
+   "ipa": "/əˈbaʊt/",
+   "level": "B1",
+   "meaning": "khoảng; xung quanh",
+   "definition": "approximately; in many directions",
+   "collocations": [
+    "about 20 people",
+    "walk about"
+   ],
+   "examples": [
+    {
+     "en": "*About* 50 people attended the seminar.",
+     "vi": "Khoảng 50 người tham dự hội thảo."
+    }
+   ]
+  },
+  {
+   "id": "fa2_act",
+   "word": "act",
+   "pos": "noun",
+   "ipa": "/ækt/",
+   "level": "B1",
+   "meaning": "đạo luật; hành động; tiết mục",
+   "definition": "a law; an action; a short performance",
+   "collocations": [
+    "an act of kindness",
+    "pass an act"
+   ],
+   "examples": [
+    {
+     "en": "Parliament passed a new *Act* on data privacy.",
+     "vi": "Quốc hội thông qua đạo luật mới về quyền riêng tư dữ liệu."
+    }
+   ]
+  },
+  {
+   "id": "fa2_advance",
+   "word": "advance",
+   "pos": "noun",
+   "ipa": "/ədˈvæns/",
+   "level": "B2",
+   "meaning": "sự tiến bộ; tiền ứng trước",
+   "definition": "progress; money paid before",
+   "collocations": [
+    "in advance",
+    "technological advances"
+   ],
+   "examples": [
+    {
+     "en": "Recent *advances* in technology make remote work easy.",
+     "vi": "Những tiến bộ công nghệ gần đây giúp làm việc từ xa dễ dàng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_age",
+   "word": "age",
+   "pos": "verb",
+   "ipa": "/eɪdʒ/",
+   "level": "B1",
+   "meaning": "già đi; ủ (lâu năm)",
+   "definition": "to become older",
+   "collocations": [
+    "an ageing population"
+   ],
+   "examples": [
+    {
+     "en": "Japan has an *ageing* population.",
+     "vi": "Nhật Bản có dân số đang già hóa."
+    }
+   ]
+  },
+  {
+   "id": "fa2_aid",
+   "word": "aid",
+   "pos": "noun",
+   "ipa": "/eɪd/",
+   "level": "B2",
+   "meaning": "sự trợ giúp; dụng cụ hỗ trợ",
+   "definition": "help; something that helps",
+   "collocations": [
+    "first aid",
+    "hearing aid",
+    "visual aids"
+   ],
+   "examples": [
+    {
+     "en": "Use visual *aids* to make your talk clear.",
+     "vi": "Dùng phương tiện trực quan để bài nói rõ ràng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_aim",
+   "word": "aim",
+   "pos": "verb",
+   "ipa": "/eɪm/",
+   "level": "B1",
+   "meaning": "nhằm mục đích",
+   "definition": "to try to achieve",
+   "collocations": [
+    "aim to",
+    "be aimed at"
+   ],
+   "examples": [
+    {
+     "en": "The course is *aimed* at beginners.",
+     "vi": "Khóa học hướng tới người mới bắt đầu."
+    }
+   ]
+  },
+  {
+   "id": "fa2_altogether",
+   "word": "altogether",
+   "pos": "adverb",
+   "ipa": "/ˌɔːltəˈɡeðər/",
+   "level": "B2",
+   "meaning": "tổng cộng; hoàn toàn",
+   "definition": "in total; completely",
+   "collocations": [
+    "altogether different",
+    "stop altogether"
+   ],
+   "examples": [
+    {
+     "en": "That comes to $45 *altogether*.",
+     "vi": "Tổng cộng là 45 đô."
+    }
+   ]
+  },
+  {
+   "id": "fa2_angle",
+   "word": "angle",
+   "pos": "noun",
+   "ipa": "/ˈæŋɡl/",
+   "level": "B2",
+   "meaning": "góc; góc độ",
+   "definition": "the space between two lines; a point of view",
+   "collocations": [
+    "from a different angle"
+   ],
+   "examples": [
+    {
+     "en": "Let's look at the problem from a different *angle*.",
+     "vi": "Hãy nhìn vấn đề từ một góc độ khác."
+    }
+   ]
+  },
+  {
+   "id": "fa2_apology",
+   "word": "apology",
+   "pos": "noun",
+   "ipa": "/əˈpɑːlədʒi/",
+   "level": "B2",
+   "meaning": "lời xin lỗi",
+   "definition": "words saying sorry",
+   "collocations": [
+    "make an apology",
+    "please accept our apologies"
+   ],
+   "examples": [
+    {
+     "en": "Please accept our *apologies* for the delay.",
+     "vi": "Xin quý khách thứ lỗi vì sự chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "fa2_excuse",
+   "word": "excuse",
+   "pos": "noun",
+   "ipa": "/ɪkˈskjuːs/",
+   "level": "B2",
+   "meaning": "lời bào chữa, cớ",
+   "definition": "a reason given to explain a mistake",
+   "collocations": [
+    "make excuses",
+    "no excuse"
+   ],
+   "examples": [
+    {
+     "en": "There's no *excuse* for being rude to customers.",
+     "vi": "Không có lý do gì để thô lỗ với khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_arrow",
+   "word": "arrow",
+   "pos": "noun",
+   "ipa": "/ˈæroʊ/",
+   "level": "B2",
+   "meaning": "mũi tên",
+   "definition": "a symbol pointing in a direction",
+   "collocations": [
+    "follow the arrows"
+   ],
+   "examples": [
+    {
+     "en": "Follow the *arrows* to the conference room.",
+     "vi": "Đi theo các mũi tên để đến phòng hội nghị."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bar",
+   "word": "bar",
+   "pos": "noun",
+   "ipa": "/bɑːr/",
+   "level": "B2",
+   "meaning": "thanh; quầy bar",
+   "definition": "a long piece of metal; a place serving drinks",
+   "collocations": [
+    "a chocolate bar",
+    "bar chart",
+    "menu bar"
+   ],
+   "examples": [
+    {
+     "en": "Click the menu *bar* at the top.",
+     "vi": "Nhấp vào thanh menu ở trên cùng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_base",
+   "word": "base",
+   "pos": "verb",
+   "ipa": "/beɪs/",
+   "level": "B1",
+   "meaning": "đặt trụ sở; dựa vào",
+   "definition": "to have your main office in; to use as a basis",
+   "collocations": [
+    "be based in",
+    "be based on"
+   ],
+   "examples": [
+    {
+     "en": "The company is *based* in Ho Chi Minh City.",
+     "vi": "Công ty đặt trụ sở tại TP. Hồ Chí Minh."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bear",
+   "word": "bear",
+   "pos": "verb",
+   "ipa": "/ber/",
+   "level": "B2",
+   "meaning": "chịu; mang",
+   "definition": "to accept something difficult; to carry",
+   "collocations": [
+    "bear in mind",
+    "can't bear"
+   ],
+   "examples": [
+    {
+     "en": "Please *bear* in mind that the store closes at 6.",
+     "vi": "Xin lưu ý cửa hàng đóng cửa lúc 6 giờ."
+    }
+   ]
+  },
+  {
+   "id": "fa2_being",
+   "word": "being",
+   "pos": "noun",
+   "ipa": "/ˈbiːɪŋ/",
+   "level": "B2",
+   "meaning": "sinh vật; sự tồn tại",
+   "definition": "a living creature; existence",
+   "collocations": [
+    "human beings",
+    "come into being"
+   ],
+   "examples": [
+    {
+     "en": "Human *beings* need sleep to stay healthy.",
+     "vi": "Con người cần ngủ để khỏe mạnh."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bell",
+   "word": "bell",
+   "pos": "noun",
+   "ipa": "/bel/",
+   "level": "B1",
+   "meaning": "cái chuông",
+   "definition": "a device that rings",
+   "collocations": [
+    "ring the bell",
+    "doorbell"
+   ],
+   "examples": [
+    {
+     "en": "Please ring the *bell* for service.",
+     "vi": "Vui lòng bấm chuông để được phục vụ."
+    }
+   ]
+  },
+  {
+   "id": "fa2_better",
+   "word": "better",
+   "pos": "verb",
+   "ipa": "/ˈbetər/",
+   "level": "B1",
+   "meaning": "cải thiện; (had better) nên",
+   "definition": "to improve; used to give advice",
+   "collocations": [
+    "you'd better",
+    "better yourself"
+   ],
+   "examples": [
+    {
+     "en": "You'd *better* leave early to avoid traffic.",
+     "vi": "Bạn nên đi sớm để tránh kẹt xe."
+    }
+   ]
+  },
+  {
+   "id": "fa2_block",
+   "word": "block",
+   "pos": "noun",
+   "ipa": "/blɑːk/",
+   "level": "B1",
+   "meaning": "dãy nhà; khối",
+   "definition": "a large building; a solid piece",
+   "collocations": [
+    "office block",
+    "two blocks away"
+   ],
+   "examples": [
+    {
+     "en": "The bank is two *blocks* from here.",
+     "vi": "Ngân hàng cách đây hai dãy nhà."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bold",
+   "word": "bold",
+   "pos": "adjective",
+   "ipa": "/boʊld/",
+   "level": "B2",
+   "meaning": "táo bạo; in đậm",
+   "definition": "brave; printed in thick letters",
+   "collocations": [
+    "a bold decision",
+    "in bold"
+   ],
+   "examples": [
+    {
+     "en": "Key words are printed in *bold*.",
+     "vi": "Từ khóa được in đậm."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bond",
+   "word": "bond",
+   "pos": "noun",
+   "ipa": "/bɑːnd/",
+   "level": "B2",
+   "meaning": "mối gắn kết; trái phiếu",
+   "definition": "a close connection; a financial certificate",
+   "collocations": [
+    "build a bond",
+    "government bonds"
+   ],
+   "examples": [
+    {
+     "en": "Team events help build a strong *bond*.",
+     "vi": "Các hoạt động tập thể giúp gắn kết đội."
+    }
+   ]
+  },
+  {
+   "id": "fa2_border",
+   "word": "border",
+   "pos": "noun",
+   "ipa": "/ˈbɔːrdər/",
+   "level": "B1",
+   "meaning": "biên giới; viền",
+   "definition": "the line between two countries",
+   "collocations": [
+    "cross the border",
+    "border control"
+   ],
+   "examples": [
+    {
+     "en": "We crossed the *border* into Cambodia.",
+     "vi": "Chúng tôi qua biên giới sang Campuchia."
+    }
+   ]
+  },
+  {
+   "id": "fa2_bound",
+   "word": "bound",
+   "pos": "adjective",
+   "ipa": "/baʊnd/",
+   "level": "B2",
+   "meaning": "chắc chắn sẽ; đi đến",
+   "definition": "certain to happen; travelling towards",
+   "collocations": [
+    "bound to",
+    "bound for"
+   ],
+   "examples": [
+    {
+     "en": "Prices are *bound* to rise next year.",
+     "vi": "Giá chắc chắn sẽ tăng năm sau."
+    }
+   ],
+   "note": "a train bound for Hanoi = tàu đi Hà Nội."
+  },
+  {
+   "id": "fa2_bubble",
+   "word": "bubble",
+   "pos": "noun",
+   "ipa": "/ˈbʌbl/",
+   "level": "B1",
+   "meaning": "bong bóng",
+   "definition": "a ball of air or gas",
+   "collocations": [
+    "soap bubbles",
+    "bubble tea"
+   ],
+   "examples": [
+    {
+     "en": "Let's get some *bubble* tea after work.",
+     "vi": "Tan làm mình đi uống trà sữa nhé."
+    }
+   ]
+  },
+  {
+   "id": "fa2_but",
+   "word": "but",
+   "pos": "preposition",
+   "ipa": "/bʌt/",
+   "level": "B2",
+   "meaning": "ngoại trừ",
+   "definition": "except",
+   "collocations": [
+    "all but one",
+    "nothing but"
+   ],
+   "examples": [
+    {
+     "en": "Everyone *but* Tom came to the meeting.",
+     "vi": "Mọi người trừ Tom đều đến họp."
+    }
+   ]
+  },
+  {
+   "id": "fa2_by",
+   "word": "by",
+   "pos": "preposition",
+   "ipa": "/baɪ/",
+   "level": "B1",
+   "meaning": "trước (hạn); bởi",
+   "definition": "not later than; by means of",
+   "collocations": [
+    "by Friday",
+    "by e-mail",
+    "by bus"
+   ],
+   "examples": [
+    {
+     "en": "Please reply *by* Friday.",
+     "vi": "Vui lòng trả lời trước thứ Sáu."
+    }
+   ],
+   "note": "by + thời hạn = chậm nhất là (rất hay gặp Part 5)."
+  },
+  {
+   "id": "fa2_cap",
+   "word": "cap",
+   "pos": "noun",
+   "ipa": "/kæp/",
+   "level": "B1",
+   "meaning": "mũ lưỡi trai; nắp; mức trần",
+   "definition": "a soft hat; a lid; an upper limit",
+   "collocations": [
+    "baseball cap",
+    "a cap on spending"
+   ],
+   "examples": [
+    {
+     "en": "There is a *cap* on travel spending.",
+     "vi": "Có mức trần cho chi phí đi lại."
+    }
+   ]
+  },
+  {
+   "id": "fa2_cast",
+   "word": "cast",
+   "pos": "noun",
+   "ipa": "/kæst/",
+   "level": "B2",
+   "meaning": "dàn diễn viên",
+   "definition": "all the actors in a film or play",
+   "collocations": [
+    "the cast of the film"
+   ],
+   "examples": [
+    {
+     "en": "The film has an amazing *cast*.",
+     "vi": "Bộ phim có dàn diễn viên tuyệt vời."
+    }
+   ]
+  },
+  {
+   "id": "fa2_chain",
+   "word": "chain",
+   "pos": "noun",
+   "ipa": "/tʃeɪn/",
+   "level": "B1",
+   "meaning": "chuỗi (cửa hàng)",
+   "definition": "a group of shops owned by one company; connected metal rings",
+   "collocations": [
+    "hotel chain",
+    "supply chain"
+   ],
+   "examples": [
+    {
+     "en": "The company runs a *chain* of coffee shops.",
+     "vi": "Công ty điều hành một chuỗi quán cà phê."
+    }
+   ]
+  },
+  {
+   "id": "fa2_chair",
+   "word": "chair",
+   "pos": "verb",
+   "ipa": "/tʃer/",
+   "level": "B2",
+   "meaning": "chủ trì",
+   "definition": "to lead a meeting",
+   "collocations": [
+    "chair a meeting"
+   ],
+   "examples": [
+    {
+     "en": "Ms. Lee will *chair* the meeting.",
+     "vi": "Bà Lee sẽ chủ trì cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "fa2_clear",
+   "word": "clear",
+   "pos": "verb",
+   "ipa": "/klɪr/",
+   "level": "B1",
+   "meaning": "dọn sạch; được thông qua",
+   "definition": "to remove things; to give permission",
+   "collocations": [
+    "clear the table",
+    "clear customs"
+   ],
+   "examples": [
+    {
+     "en": "Please *clear* your desk before you leave.",
+     "vi": "Vui lòng dọn bàn trước khi về."
+    }
+   ]
+  },
+  {
+   "id": "fa2_close",
+   "word": "close",
+   "pos": "adjective",
+   "ipa": "/kloʊs/",
+   "level": "B1",
+   "meaning": "gần; thân thiết; sát sao",
+   "definition": "near; very friendly; careful",
+   "collocations": [
+    "close to",
+    "a close friend",
+    "pay close attention"
+   ],
+   "examples": [
+    {
+     "en": "Pay *close* attention to the instructions.",
+     "vi": "Chú ý kỹ hướng dẫn."
+    }
+   ]
+  },
+  {
+   "id": "fa2_content",
+   "word": "content",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntent/",
+   "level": "B1",
+   "meaning": "nội dung",
+   "definition": "the information in a website, book etc.",
+   "collocations": [
+    "online content",
+    "content creator"
+   ],
+   "examples": [
+    {
+     "en": "The website has a lot of free *content*.",
+     "vi": "Website có nhiều nội dung miễn phí."
+    }
+   ],
+   "note": "Tính từ content /kənˈtent/ = hài lòng."
+  },
+  {
+   "id": "fa2_cool",
+   "word": "cool",
+   "pos": "adjective",
+   "ipa": "/kuːl/",
+   "level": "B1",
+   "meaning": "mát; bình tĩnh; hay ho",
+   "definition": "a little cold; calm; good",
+   "collocations": [
+    "keep cool",
+    "that's cool"
+   ],
+   "examples": [
+    {
+     "en": "Store in a *cool* dry place.",
+     "vi": "Bảo quản nơi khô mát."
+    }
+   ]
+  },
+  {
+   "id": "fa2_cream",
+   "word": "cream",
+   "pos": "noun",
+   "ipa": "/kriːm/",
+   "level": "B1",
+   "meaning": "kem; màu kem",
+   "definition": "a thick liquid from milk; a substance for skin",
+   "collocations": [
+    "sun cream",
+    "cream-coloured"
+   ],
+   "examples": [
+    {
+     "en": "Don't forget your sun *cream*.",
+     "vi": "Đừng quên kem chống nắng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_cue",
+   "word": "cue",
+   "pos": "noun",
+   "ipa": "/kjuː/",
+   "level": "B2",
+   "meaning": "tín hiệu, gợi ý",
+   "definition": "a signal to do something",
+   "collocations": [
+    "on cue",
+    "take a cue from"
+   ],
+   "examples": [
+    {
+     "en": "Listen for *cues* in the conversation.",
+     "vi": "Hãy nghe các tín hiệu trong cuộc hội thoại."
+    }
+   ]
+  },
+  {
+   "id": "fa2_diamond",
+   "word": "diamond",
+   "pos": "noun",
+   "ipa": "/ˈdaɪəmənd/",
+   "level": "B1",
+   "meaning": "kim cương",
+   "definition": "a very hard valuable stone",
+   "collocations": [
+    "diamond ring"
+   ],
+   "examples": [
+    {
+     "en": "She wore a *diamond* necklace.",
+     "vi": "Cô ấy đeo dây chuyền kim cương."
+    }
+   ]
+  },
+  {
+   "id": "fa2_dot",
+   "word": "dot",
+   "pos": "noun",
+   "ipa": "/dɑːt/",
+   "level": "B2",
+   "meaning": "dấu chấm",
+   "definition": "a small round mark",
+   "collocations": [
+    "on the dot",
+    "dot com"
+   ],
+   "examples": [
+    {
+     "en": "The meeting starts at 9 on the *dot*.",
+     "vi": "Cuộc họp bắt đầu đúng 9 giờ."
+    }
+   ]
+  },
+  {
+   "id": "fa2_drunk",
+   "word": "drunk",
+   "pos": "adjective",
+   "ipa": "/drʌŋk/",
+   "level": "B1",
+   "meaning": "say rượu",
+   "definition": "having drunk too much alcohol",
+   "collocations": [
+    "get drunk",
+    "drunk driving"
+   ],
+   "examples": [
+    {
+     "en": "*Drunk* driving is a serious offence.",
+     "vi": "Lái xe khi say rượu là vi phạm nghiêm trọng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_dump",
+   "word": "dump",
+   "pos": "verb",
+   "ipa": "/dʌmp/",
+   "level": "B2",
+   "meaning": "vứt bỏ, đổ",
+   "definition": "to throw away carelessly",
+   "collocations": [
+    "dump rubbish"
+   ],
+   "examples": [
+    {
+     "en": "Do not *dump* rubbish here.",
+     "vi": "Không được đổ rác ở đây."
+    }
+   ]
+  },
+  {
+   "id": "fa2_eastern",
+   "word": "eastern",
+   "pos": "adjective",
+   "ipa": "/ˈiːstərn/",
+   "level": "B1",
+   "meaning": "thuộc phía đông",
+   "definition": "in or from the east",
+   "collocations": [
+    "Eastern Europe",
+    "eastern coast"
+   ],
+   "examples": [
+    {
+     "en": "The resort is on the *eastern* coast.",
+     "vi": "Khu nghỉ dưỡng nằm ở bờ biển phía đông."
+    }
+   ]
+  },
+  {
+   "id": "fa2_western",
+   "word": "western",
+   "pos": "adjective",
+   "ipa": "/ˈwestərn/",
+   "level": "B1",
+   "meaning": "thuộc phía tây; phương Tây",
+   "definition": "in or from the west",
+   "collocations": [
+    "western region",
+    "Western culture"
+   ],
+   "examples": [
+    {
+     "en": "The *western* part of the city is quieter.",
+     "vi": "Phía tây thành phố yên tĩnh hơn."
+    }
+   ]
+  },
+  {
+   "id": "fa2_northern",
+   "word": "northern",
+   "pos": "adjective",
+   "ipa": "/ˈnɔːrðərn/",
+   "level": "B1",
+   "meaning": "thuộc phía bắc",
+   "definition": "in or from the north",
+   "collocations": [
+    "northern Vietnam"
+   ],
+   "examples": [
+    {
+     "en": "Winters are cold in *northern* Vietnam.",
+     "vi": "Mùa đông ở miền Bắc Việt Nam lạnh."
+    }
+   ]
+  },
+  {
+   "id": "fa2_southern",
+   "word": "southern",
+   "pos": "adjective",
+   "ipa": "/ˈsʌðərn/",
+   "level": "B1",
+   "meaning": "thuộc phía nam",
+   "definition": "in or from the south",
+   "collocations": [
+    "southern region"
+   ],
+   "examples": [
+    {
+     "en": "The company has offices in the *southern* provinces.",
+     "vi": "Công ty có văn phòng ở các tỉnh phía Nam."
+    }
+   ]
+  },
+  {
+   "id": "fa2_even",
+   "word": "even",
+   "pos": "adjective",
+   "ipa": "/ˈiːvn/",
+   "level": "B2",
+   "meaning": "bằng phẳng; chẵn; đều",
+   "definition": "flat; divisible by two; equal",
+   "collocations": [
+    "even numbers",
+    "an even surface"
+   ],
+   "examples": [
+    {
+     "en": "Place the machine on an *even* surface.",
+     "vi": "Đặt máy trên bề mặt phẳng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_favour",
+   "word": "favour",
+   "pos": "noun",
+   "ipa": "/ˈfeɪvər/",
+   "level": "B1",
+   "meaning": "sự giúp đỡ; sự ủng hộ",
+   "definition": "a kind act; support",
+   "collocations": [
+    "do me a favour",
+    "in favour of"
+   ],
+   "examples": [
+    {
+     "en": "Could you do me a *favour*?",
+     "vi": "Bạn giúp tôi một việc được không?"
+    }
+   ],
+   "note": "in favour of = ủng hộ. Anh-Mỹ: favor."
+  },
+  {
+   "id": "fa2_feed",
+   "word": "feed",
+   "pos": "verb",
+   "ipa": "/fiːd/",
+   "level": "B2",
+   "meaning": "cho ăn; cung cấp",
+   "definition": "to give food; to supply",
+   "collocations": [
+    "feed the cat",
+    "feed paper into"
+   ],
+   "examples": [
+    {
+     "en": "*Feed* the paper into the printer one sheet at a time.",
+     "vi": "Đưa giấy vào máy in từng tờ một."
+    }
+   ]
+  },
+  {
+   "id": "fa2_feel",
+   "word": "feel",
+   "pos": "noun",
+   "ipa": "/fiːl/",
+   "level": "B2",
+   "meaning": "cảm giác, không khí",
+   "definition": "the impression something gives",
+   "collocations": [
+    "a homely feel",
+    "get a feel for"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has a friendly, relaxed *feel*.",
+     "vi": "Khách sạn mang lại cảm giác thân thiện, thư thái."
+    }
+   ]
+  },
+  {
+   "id": "fa2_fighting",
+   "word": "fighting",
+   "pos": "noun",
+   "ipa": "/ˈfaɪtɪŋ/",
+   "level": "B1",
+   "meaning": "giao tranh, đánh nhau",
+   "definition": "the act of fighting",
+   "collocations": [
+    "heavy fighting"
+   ],
+   "examples": [
+    {
+     "en": "*Fighting* broke out near the border.",
+     "vi": "Giao tranh nổ ra gần biên giới."
+    }
+   ]
+  },
+  {
+   "id": "fa2_figure",
+   "word": "figure",
+   "pos": "noun",
+   "ipa": "/ˈfɪɡjər/",
+   "level": "B2",
+   "meaning": "số liệu; nhân vật",
+   "definition": "a number; a person",
+   "collocations": [
+    "sales figures",
+    "a public figure"
+   ],
+   "examples": [
+    {
+     "en": "The latest sales *figures* look good.",
+     "vi": "Số liệu bán hàng mới nhất rất khả quan."
+    }
+   ],
+   "note": "figure out = tìm ra."
+  },
+  {
+   "id": "fa2_flag",
+   "word": "flag",
+   "pos": "noun",
+   "ipa": "/flæɡ/",
+   "level": "B1",
+   "meaning": "lá cờ",
+   "definition": "a piece of cloth with a design",
+   "collocations": [
+    "national flag"
+   ],
+   "examples": [
+    {
+     "en": "The national *flag* flies outside the building.",
+     "vi": "Quốc kỳ tung bay bên ngoài tòa nhà."
+    }
+   ]
+  },
+  {
+   "id": "fa2_flavour",
+   "word": "flavour",
+   "pos": "noun",
+   "ipa": "/ˈfleɪvər/",
+   "level": "B2",
+   "meaning": "hương vị",
+   "definition": "taste",
+   "collocations": [
+    "strong flavour",
+    "ice cream flavours"
+   ],
+   "examples": [
+    {
+     "en": "This ice cream comes in ten *flavours*.",
+     "vi": "Loại kem này có mười hương vị."
+    }
+   ]
+  },
+  {
+   "id": "fa2_flour",
+   "word": "flour",
+   "pos": "noun",
+   "ipa": "/ˈflaʊər/",
+   "level": "B1",
+   "meaning": "bột mì",
+   "definition": "powder made from grain",
+   "collocations": [
+    "wheat flour",
+    "rice flour"
+   ],
+   "examples": [
+    {
+     "en": "Mix the *flour* with milk and eggs.",
+     "vi": "Trộn bột mì với sữa và trứng."
+    }
+   ]
+  },
+  {
+   "id": "fa2_following",
+   "word": "following",
+   "pos": "adjective",
+   "ipa": "/ˈfɑːloʊɪŋ/",
+   "level": "B1",
+   "meaning": "sau đây; tiếp theo",
+   "definition": "next; listed next",
+   "collocations": [
+    "the following day",
+    "the following items"
+   ],
+   "examples": [
+    {
+     "en": "Please bring the *following* documents.",
+     "vi": "Vui lòng mang các giấy tờ sau."
+    }
+   ]
+  },
+  {
+   "id": "fa2_go",
+   "word": "go",
+   "pos": "noun",
+   "ipa": "/ɡoʊ/",
+   "level": "B1",
+   "meaning": "lần thử",
+   "definition": "an attempt",
+   "collocations": [
+    "have a go",
+    "give it a go"
+   ],
+   "examples": [
+    {
+     "en": "I've never tried it, but I'll give it a *go*.",
+     "vi": "Tôi chưa thử bao giờ nhưng sẽ thử một lần."
+    }
+   ]
+  },
+  {
+   "id": "fa2_grocery",
+   "word": "grocery",
+   "pos": "noun",
+   "ipa": "/ˈɡroʊsəri/",
+   "level": "B2",
+   "meaning": "cửa hàng tạp hóa",
+   "definition": "a shop selling food",
+   "collocations": [
+    "grocery store"
+   ],
+   "examples": [
+    {
+     "en": "There's a *grocery* store on the corner.",
+     "vi": "Có một cửa hàng tạp hóa ở góc phố."
+    }
+   ]
+  },
+  {
+   "id": "fa2_mall",
+   "word": "mall",
+   "pos": "noun",
+   "ipa": "/mɔːl/",
+   "level": "B1",
+   "meaning": "trung tâm thương mại",
+   "definition": "a large building with many shops",
+   "collocations": [
+    "shopping mall"
+   ],
+   "examples": [
+    {
+     "en": "Let's meet at the shopping *mall*.",
+     "vi": "Gặp nhau ở trung tâm thương mại nhé."
+    }
+   ]
+  },
+  {
+   "id": "fa2_spice",
+   "word": "spice",
+   "pos": "noun",
+   "ipa": "/spaɪs/",
+   "level": "B2",
+   "meaning": "gia vị",
+   "definition": "a powder or seed used to add flavour",
+   "collocations": [
+    "herbs and spices"
+   ],
+   "examples": [
+    {
+     "en": "This dish uses a lot of *spices*.",
+     "vi": "Món này dùng nhiều gia vị."
+    }
+   ]
+  },
+  {
+   "id": "fa2_stall",
+   "word": "stall",
+   "pos": "noun",
+   "ipa": "/stɔːl/",
+   "level": "B2",
+   "meaning": "quầy hàng, sạp",
+   "definition": "a table or small shop in a market",
+   "collocations": [
+    "market stall",
+    "food stall"
+   ],
+   "examples": [
+    {
+     "en": "There are dozens of food *stalls* at the night market.",
+     "vi": "Có hàng chục quầy đồ ăn ở chợ đêm."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

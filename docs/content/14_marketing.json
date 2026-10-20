@@ -1,0 +1,892 @@
+{
+ "id": "marketing",
+ "order": 14,
+ "icon": "📣",
+ "level": "B2",
+ "title": "Marketing & Customers",
+ "title_vi": "Marketing & Khách hàng",
+ "description": "Quảng cáo, khảo sát, ra mắt sản phẩm, thương hiệu, đánh giá của khách: rất hay gặp trong Part 3–4 và Part 7.",
+ "words": [
+  {
+   "id": "mkt_marketing",
+   "word": "marketing",
+   "pos": "noun",
+   "ipa": "/ˈmɑːrkɪtɪŋ/",
+   "level": "B1",
+   "meaning": "tiếp thị, marketing",
+   "definition": "the activity of advertising and selling products",
+   "collocations": [
+    "marketing department",
+    "marketing campaign",
+    "online marketing"
+   ],
+   "examples": [
+    {
+     "en": "She is the head of *marketing*.",
+     "vi": "Cô ấy là trưởng bộ phận marketing."
+    }
+   ]
+  },
+  {
+   "id": "mkt_market",
+   "word": "market",
+   "pos": "verb",
+   "ipa": "/ˈmɑːrkɪt/",
+   "level": "B1",
+   "meaning": "tiếp thị, quảng bá bán",
+   "definition": "to advertise and sell a product",
+   "collocations": [
+    "market a product",
+    "be marketed to young people"
+   ],
+   "examples": [
+    {
+     "en": "The drink is *marketed* mainly to teenagers.",
+     "vi": "Loại nước này chủ yếu được tiếp thị tới thanh thiếu niên."
+    }
+   ]
+  },
+  {
+   "id": "mkt_ad",
+   "word": "ad",
+   "pos": "noun",
+   "ipa": "/æd/",
+   "level": "B1",
+   "meaning": "quảng cáo (viết tắt)",
+   "definition": "an advertisement",
+   "collocations": [
+    "place an ad",
+    "online ads",
+    "job ad"
+   ],
+   "examples": [
+    {
+     "en": "We placed an *ad* in the local newspaper.",
+     "vi": "Chúng tôi đăng một quảng cáo trên báo địa phương."
+    }
+   ]
+  },
+  {
+   "id": "mkt_campaign",
+   "word": "campaign",
+   "pos": "noun",
+   "ipa": "/kæmˈpeɪn/",
+   "level": "B1",
+   "meaning": "chiến dịch",
+   "definition": "a planned series of activities to achieve something",
+   "collocations": [
+    "advertising campaign",
+    "launch a campaign",
+    "marketing campaign"
+   ],
+   "examples": [
+    {
+     "en": "The new *campaign* will start in May.",
+     "vi": "Chiến dịch mới sẽ bắt đầu vào tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "mkt_launch",
+   "word": "launch",
+   "pos": "verb",
+   "ipa": "/lɔːntʃ/",
+   "level": "B2",
+   "meaning": "ra mắt, tung ra",
+   "definition": "to start selling a new product; to start an activity",
+   "collocations": [
+    "launch a product",
+    "launch a website",
+    "launch a campaign"
+   ],
+   "examples": [
+    {
+     "en": "The company will *launch* its new phone next month.",
+     "vi": "Công ty sẽ ra mắt điện thoại mới vào tháng sau."
+    }
+   ],
+   "note": "Danh từ: the product launch = buổi ra mắt sản phẩm."
+  },
+  {
+   "id": "mkt_consumer",
+   "word": "consumer",
+   "pos": "noun",
+   "ipa": "/kənˈsuːmər/",
+   "level": "B1",
+   "meaning": "người tiêu dùng",
+   "definition": "a person who buys goods or services",
+   "collocations": [
+    "consumer goods",
+    "consumer demand",
+    "consumer rights"
+   ],
+   "examples": [
+    {
+     "en": "*Consumers* are spending more online.",
+     "vi": "Người tiêu dùng đang chi tiêu nhiều hơn trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_consume",
+   "word": "consume",
+   "pos": "verb",
+   "ipa": "/kənˈsuːm/",
+   "level": "B1",
+   "meaning": "tiêu thụ",
+   "definition": "to use energy, goods or time; to eat or drink",
+   "collocations": [
+    "consume energy",
+    "consume less"
+   ],
+   "examples": [
+    {
+     "en": "This model *consumes* 30% less electricity.",
+     "vi": "Mẫu này tiêu thụ ít hơn 30% điện năng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_consumption",
+   "word": "consumption",
+   "pos": "noun",
+   "ipa": "/kənˈsʌmpʃn/",
+   "level": "B2",
+   "meaning": "sự tiêu thụ",
+   "definition": "the amount of something that is used",
+   "collocations": [
+    "energy consumption",
+    "fuel consumption"
+   ],
+   "examples": [
+    {
+     "en": "We need to reduce our energy *consumption*.",
+     "vi": "Chúng ta cần giảm mức tiêu thụ năng lượng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_client",
+   "word": "client",
+   "pos": "noun",
+   "ipa": "/ˈklaɪənt/",
+   "level": "B1",
+   "meaning": "khách hàng (dịch vụ)",
+   "definition": "a person who pays for a professional service",
+   "collocations": [
+    "meet a client",
+    "a regular client",
+    "client list"
+   ],
+   "examples": [
+    {
+     "en": "I have a meeting with a *client* at 3 p.m.",
+     "vi": "Tôi có cuộc họp với khách hàng lúc 3 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "mkt_demand",
+   "word": "demand",
+   "pos": "noun",
+   "ipa": "/dɪˈmænd/",
+   "level": "B2",
+   "meaning": "nhu cầu; yêu cầu",
+   "definition": "the desire of customers for goods; a firm request",
+   "collocations": [
+    "high demand",
+    "meet demand",
+    "in demand"
+   ],
+   "examples": [
+    {
+     "en": "There is high *demand* for electric cars.",
+     "vi": "Nhu cầu xe điện đang cao."
+    }
+   ],
+   "note": "supply and demand = cung và cầu."
+  },
+  {
+   "id": "mkt_preference",
+   "word": "preference",
+   "pos": "noun",
+   "ipa": "/ˈprefrəns/",
+   "level": "B2",
+   "meaning": "sự ưu tiên, sở thích",
+   "definition": "a greater liking for one thing than another",
+   "collocations": [
+    "customer preferences",
+    "have a preference for"
+   ],
+   "examples": [
+    {
+     "en": "We adjust our menu to customer *preferences*.",
+     "vi": "Chúng tôi điều chỉnh thực đơn theo sở thích khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_popularity",
+   "word": "popularity",
+   "pos": "noun",
+   "ipa": "/ˌpɑːpjuˈlærəti/",
+   "level": "B2",
+   "meaning": "sự phổ biến",
+   "definition": "the state of being liked by many people",
+   "collocations": [
+    "gain popularity",
+    "growing popularity"
+   ],
+   "examples": [
+    {
+     "en": "The app's *popularity* has grown quickly.",
+     "vi": "Mức độ phổ biến của ứng dụng tăng nhanh."
+    }
+   ]
+  },
+  {
+   "id": "mkt_reputation",
+   "word": "reputation",
+   "pos": "noun",
+   "ipa": "/ˌrepjuˈteɪʃn/",
+   "level": "B2",
+   "meaning": "danh tiếng",
+   "definition": "the opinion people have about someone or something",
+   "collocations": [
+    "a good reputation",
+    "build a reputation",
+    "damage a reputation"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has an excellent *reputation*.",
+     "vi": "Khách sạn có danh tiếng rất tốt."
+    }
+   ]
+  },
+  {
+   "id": "mkt_publicity",
+   "word": "publicity",
+   "pos": "noun",
+   "ipa": "/pʌbˈlɪsəti/",
+   "level": "B2",
+   "meaning": "sự quảng bá, chú ý của công chúng",
+   "definition": "attention from newspapers and TV; advertising",
+   "collocations": [
+    "get publicity",
+    "bad publicity",
+    "publicity campaign"
+   ],
+   "examples": [
+    {
+     "en": "The event got a lot of *publicity*.",
+     "vi": "Sự kiện nhận được nhiều sự chú ý của truyền thông."
+    }
+   ]
+  },
+  {
+   "id": "mkt_sponsor",
+   "word": "sponsor",
+   "pos": "noun",
+   "ipa": "/ˈspɑːnsər/",
+   "level": "B2",
+   "meaning": "nhà tài trợ",
+   "definition": "a company that pays for an event in exchange for advertising",
+   "collocations": [
+    "main sponsor",
+    "official sponsor"
+   ],
+   "examples": [
+    {
+     "en": "The bank is the main *sponsor* of the marathon.",
+     "vi": "Ngân hàng là nhà tài trợ chính của cuộc thi marathon."
+    }
+   ]
+  },
+  {
+   "id": "mkt_sponsorship",
+   "word": "sponsorship",
+   "pos": "noun",
+   "ipa": "/ˈspɑːnsərʃɪp/",
+   "level": "B2",
+   "meaning": "sự tài trợ",
+   "definition": "financial support from a sponsor",
+   "collocations": [
+    "sponsorship deal",
+    "corporate sponsorship"
+   ],
+   "examples": [
+    {
+     "en": "The team signed a new *sponsorship* deal.",
+     "vi": "Đội bóng đã ký hợp đồng tài trợ mới."
+    }
+   ]
+  },
+  {
+   "id": "mkt_slogan",
+   "word": "slogan",
+   "pos": "noun",
+   "ipa": "/ˈsloʊɡən/",
+   "level": "B2",
+   "meaning": "khẩu hiệu",
+   "definition": "a short phrase used in advertising",
+   "collocations": [
+    "advertising slogan",
+    "a catchy slogan"
+   ],
+   "examples": [
+    {
+     "en": "The company changed its *slogan* last year.",
+     "vi": "Công ty đã đổi khẩu hiệu vào năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "mkt_logo",
+   "word": "logo",
+   "pos": "noun",
+   "ipa": "/ˈloʊɡoʊ/",
+   "level": "B2",
+   "meaning": "biểu tượng, logo",
+   "definition": "a design that represents a company",
+   "collocations": [
+    "company logo",
+    "design a logo"
+   ],
+   "examples": [
+    {
+     "en": "The new *logo* will appear on all products.",
+     "vi": "Logo mới sẽ xuất hiện trên tất cả sản phẩm."
+    }
+   ]
+  },
+  {
+   "id": "mkt_icon",
+   "word": "icon",
+   "pos": "noun",
+   "ipa": "/ˈaɪkɑːn/",
+   "level": "B2",
+   "meaning": "biểu tượng; người nổi tiếng tiêu biểu",
+   "definition": "a small picture on a screen; a famous symbol",
+   "collocations": [
+    "click the icon",
+    "a fashion icon"
+   ],
+   "examples": [
+    {
+     "en": "Click the printer *icon* to print the page.",
+     "vi": "Nhấp vào biểu tượng máy in để in trang."
+    }
+   ]
+  },
+  {
+   "id": "mkt_label",
+   "word": "label",
+   "pos": "noun",
+   "ipa": "/ˈleɪbl/",
+   "level": "B1",
+   "meaning": "nhãn",
+   "definition": "a piece of paper on a product with information",
+   "collocations": [
+    "price label",
+    "read the label",
+    "shipping label"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *label* before use.",
+     "vi": "Vui lòng đọc nhãn trước khi dùng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_package",
+   "word": "package",
+   "pos": "noun",
+   "ipa": "/ˈpækɪdʒ/",
+   "level": "B1",
+   "meaning": "gói hàng; gói (dịch vụ)",
+   "definition": "a box or parcel; a set of things offered together",
+   "collocations": [
+    "holiday package",
+    "salary package",
+    "deliver a package"
+   ],
+   "examples": [
+    {
+     "en": "A *package* arrived for you this morning.",
+     "vi": "Có một gói hàng gửi cho bạn sáng nay."
+    }
+   ]
+  },
+  {
+   "id": "mkt_packet",
+   "word": "packet",
+   "pos": "noun",
+   "ipa": "/ˈpækɪt/",
+   "level": "B2",
+   "meaning": "gói nhỏ, túi",
+   "definition": "a small container made of paper or plastic",
+   "collocations": [
+    "a packet of sugar",
+    "information packet"
+   ],
+   "examples": [
+    {
+     "en": "Each guest will receive an information *packet*.",
+     "vi": "Mỗi khách sẽ nhận một túi tài liệu thông tin."
+    }
+   ]
+  },
+  {
+   "id": "mkt_sample",
+   "word": "sample",
+   "pos": "noun",
+   "ipa": "/ˈsæmpl/",
+   "level": "B1",
+   "meaning": "mẫu thử",
+   "definition": "a small amount of a product to show what it is like",
+   "collocations": [
+    "free sample",
+    "product sample",
+    "send a sample"
+   ],
+   "examples": [
+    {
+     "en": "Customers can try free *samples* in the store.",
+     "vi": "Khách có thể dùng thử mẫu miễn phí tại cửa hàng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_survey",
+   "word": "survey",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrveɪ/",
+   "level": "B2",
+   "meaning": "cuộc khảo sát",
+   "definition": "a set of questions to find out people's opinions",
+   "collocations": [
+    "customer survey",
+    "conduct a survey",
+    "complete a survey"
+   ],
+   "examples": [
+    {
+     "en": "Please take a few minutes to complete our *survey*.",
+     "vi": "Vui lòng dành vài phút để hoàn thành khảo sát."
+    }
+   ]
+  },
+  {
+   "id": "mkt_questionnaire",
+   "word": "questionnaire",
+   "pos": "noun",
+   "ipa": "/ˌkwestʃəˈner/",
+   "level": "B2",
+   "meaning": "bảng câu hỏi",
+   "definition": "a written list of questions",
+   "collocations": [
+    "fill in a questionnaire",
+    "send out a questionnaire"
+   ],
+   "examples": [
+    {
+     "en": "Guests were asked to fill in a *questionnaire*.",
+     "vi": "Khách được đề nghị điền bảng câu hỏi."
+    }
+   ]
+  },
+  {
+   "id": "mkt_rating",
+   "word": "rating",
+   "pos": "noun",
+   "ipa": "/ˈreɪtɪŋ/",
+   "level": "B2",
+   "meaning": "điểm đánh giá, xếp hạng",
+   "definition": "a measurement of how good or popular something is",
+   "collocations": [
+    "customer rating",
+    "five-star rating",
+    "high rating"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has a high customer *rating*.",
+     "vi": "Khách sạn có điểm đánh giá của khách cao."
+    }
+   ]
+  },
+  {
+   "id": "mkt_target",
+   "word": "target",
+   "pos": "noun",
+   "ipa": "/ˈtɑːrɡɪt/",
+   "level": "B2",
+   "meaning": "mục tiêu, chỉ tiêu",
+   "definition": "a result you try to achieve",
+   "collocations": [
+    "sales target",
+    "meet a target",
+    "target audience"
+   ],
+   "examples": [
+    {
+     "en": "We met our sales *target* for the year.",
+     "vi": "Chúng tôi đã đạt chỉ tiêu bán hàng của năm."
+    }
+   ]
+  },
+  {
+   "id": "mkt_trend",
+   "word": "trend",
+   "pos": "noun",
+   "ipa": "/trend/",
+   "level": "B1",
+   "meaning": "xu hướng",
+   "definition": "a general direction of change",
+   "collocations": [
+    "the latest trends",
+    "market trend",
+    "follow a trend"
+   ],
+   "examples": [
+    {
+     "en": "Online shopping is a growing *trend*.",
+     "vi": "Mua sắm trực tuyến là xu hướng đang tăng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_feature",
+   "word": "feature",
+   "pos": "noun",
+   "ipa": "/ˈfiːtʃər/",
+   "level": "B1",
+   "meaning": "tính năng, đặc điểm",
+   "definition": "an important or interesting part of something",
+   "collocations": [
+    "key features",
+    "new feature",
+    "safety features"
+   ],
+   "examples": [
+    {
+     "en": "The phone's best *feature* is its camera.",
+     "vi": "Tính năng tốt nhất của điện thoại là camera."
+    }
+   ],
+   "note": "Động từ: The film features a famous actor."
+  },
+  {
+   "id": "mkt_display",
+   "word": "display",
+   "pos": "noun",
+   "ipa": "/dɪˈspleɪ/",
+   "level": "B2",
+   "meaning": "sự trưng bày",
+   "definition": "an arrangement of things for people to see",
+   "collocations": [
+    "on display",
+    "window display",
+    "display case"
+   ],
+   "examples": [
+    {
+     "en": "The new models are on *display* in the showroom.",
+     "vi": "Các mẫu mới đang được trưng bày ở phòng trưng bày."
+    }
+   ]
+  },
+  {
+   "id": "mkt_exhibition",
+   "word": "exhibition",
+   "pos": "noun",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "level": "B1",
+   "meaning": "triển lãm",
+   "definition": "a public show of art or products",
+   "collocations": [
+    "art exhibition",
+    "trade exhibition",
+    "hold an exhibition"
+   ],
+   "examples": [
+    {
+     "en": "The *exhibition* runs until the end of June.",
+     "vi": "Triển lãm kéo dài đến cuối tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "mkt_exhibit",
+   "word": "exhibit",
+   "pos": "verb",
+   "ipa": "/ɪɡˈzɪbɪt/",
+   "level": "B2",
+   "meaning": "trưng bày, triển lãm",
+   "definition": "to show something in public",
+   "collocations": [
+    "exhibit products",
+    "exhibit at a fair"
+   ],
+   "examples": [
+    {
+     "en": "Over 200 companies will *exhibit* at the trade fair.",
+     "vi": "Hơn 200 công ty sẽ trưng bày tại hội chợ."
+    }
+   ]
+  },
+  {
+   "id": "mkt_impression",
+   "word": "impression",
+   "pos": "noun",
+   "ipa": "/ɪmˈpreʃn/",
+   "level": "B1",
+   "meaning": "ấn tượng",
+   "definition": "an idea or feeling about someone or something",
+   "collocations": [
+    "first impression",
+    "make a good impression"
+   ],
+   "examples": [
+    {
+     "en": "It's important to make a good first *impression*.",
+     "vi": "Tạo ấn tượng tốt ban đầu là điều quan trọng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_impress",
+   "word": "impress",
+   "pos": "verb",
+   "ipa": "/ɪmˈpres/",
+   "level": "B2",
+   "meaning": "gây ấn tượng",
+   "definition": "to make someone admire you",
+   "collocations": [
+    "impress customers",
+    "be impressed by"
+   ],
+   "examples": [
+    {
+     "en": "The design *impressed* the clients.",
+     "vi": "Thiết kế đã gây ấn tượng với khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "mkt_convince",
+   "word": "convince",
+   "pos": "verb",
+   "ipa": "/kənˈvɪns/",
+   "level": "B1",
+   "meaning": "thuyết phục",
+   "definition": "to make someone believe or do something",
+   "collocations": [
+    "convince someone to",
+    "convince customers"
+   ],
+   "examples": [
+    {
+     "en": "We *convinced* the client to sign a longer contract.",
+     "vi": "Chúng tôi đã thuyết phục khách hàng ký hợp đồng dài hơn."
+    }
+   ]
+  },
+  {
+   "id": "mkt_persuade",
+   "word": "persuade",
+   "pos": "verb",
+   "ipa": "/pərˈsweɪd/",
+   "level": "B1",
+   "meaning": "thuyết phục",
+   "definition": "to make someone agree to do something by giving reasons",
+   "collocations": [
+    "persuade someone to do something"
+   ],
+   "examples": [
+    {
+     "en": "She *persuaded* her manager to try the new system.",
+     "vi": "Cô ấy thuyết phục quản lý dùng thử hệ thống mới."
+    }
+   ]
+  },
+  {
+   "id": "mkt_attract",
+   "word": "attract",
+   "pos": "verb",
+   "ipa": "/əˈtrækt/",
+   "level": "B1",
+   "meaning": "thu hút",
+   "definition": "to make people come or be interested",
+   "collocations": [
+    "attract customers",
+    "attract attention",
+    "attract investment"
+   ],
+   "examples": [
+    {
+     "en": "The sale *attracted* hundreds of shoppers.",
+     "vi": "Đợt giảm giá thu hút hàng trăm người mua sắm."
+    }
+   ]
+  },
+  {
+   "id": "mkt_appeal",
+   "word": "appeal",
+   "pos": "noun",
+   "ipa": "/əˈpiːl/",
+   "level": "B2",
+   "meaning": "sức hấp dẫn; lời kêu gọi",
+   "definition": "the quality of being attractive; an urgent request",
+   "collocations": [
+    "wide appeal",
+    "an appeal for help"
+   ],
+   "examples": [
+    {
+     "en": "The product has wide *appeal* among young people.",
+     "vi": "Sản phẩm có sức hấp dẫn rộng với giới trẻ."
+    }
+   ],
+   "note": "Động từ appeal to = hấp dẫn đối với."
+  },
+  {
+   "id": "mkt_loyal",
+   "word": "loyal",
+   "pos": "adjective",
+   "ipa": "/ˈlɔɪəl/",
+   "level": "B2",
+   "meaning": "trung thành",
+   "definition": "continuing to support a person or company",
+   "collocations": [
+    "loyal customers",
+    "remain loyal"
+   ],
+   "examples": [
+    {
+     "en": "We give discounts to our *loyal* customers.",
+     "vi": "Chúng tôi giảm giá cho khách hàng thân thiết."
+    }
+   ],
+   "note": "loyalty card = thẻ khách hàng thân thiết."
+  },
+  {
+   "id": "mkt_complaint",
+   "word": "complaint",
+   "pos": "noun",
+   "ipa": "/kəmˈpleɪnt/",
+   "level": "B1",
+   "meaning": "lời phàn nàn, khiếu nại",
+   "definition": "a statement that something is wrong",
+   "collocations": [
+    "make a complaint",
+    "customer complaint",
+    "handle complaints"
+   ],
+   "examples": [
+    {
+     "en": "We received several *complaints* about the delay.",
+     "vi": "Chúng tôi nhận được một số khiếu nại về sự chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "mkt_satisfaction",
+   "word": "satisfaction",
+   "pos": "noun",
+   "ipa": "/ˌsætɪsˈfækʃn/",
+   "level": "B2",
+   "meaning": "sự hài lòng",
+   "definition": "the feeling of being pleased",
+   "collocations": [
+    "customer satisfaction",
+    "job satisfaction"
+   ],
+   "examples": [
+    {
+     "en": "Customer *satisfaction* is our top priority.",
+     "vi": "Sự hài lòng của khách hàng là ưu tiên hàng đầu."
+    }
+   ]
+  },
+  {
+   "id": "mkt_satisfied",
+   "word": "satisfied",
+   "pos": "adjective",
+   "ipa": "/ˈsætɪsfaɪd/",
+   "level": "B2",
+   "meaning": "hài lòng",
+   "definition": "pleased with something",
+   "collocations": [
+    "satisfied customers",
+    "be satisfied with"
+   ],
+   "examples": [
+    {
+     "en": "Most customers were *satisfied* with the service.",
+     "vi": "Hầu hết khách hàng hài lòng với dịch vụ."
+    }
+   ]
+  },
+  {
+   "id": "mkt_satisfy",
+   "word": "satisfy",
+   "pos": "verb",
+   "ipa": "/ˈsætɪsfaɪ/",
+   "level": "B2",
+   "meaning": "làm hài lòng; đáp ứng",
+   "definition": "to please someone; to meet a need",
+   "collocations": [
+    "satisfy customers",
+    "satisfy the requirements"
+   ],
+   "examples": [
+    {
+     "en": "The product failed to *satisfy* safety requirements.",
+     "vi": "Sản phẩm không đáp ứng yêu cầu an toàn."
+    }
+   ]
+  },
+  {
+   "id": "mkt_promising",
+   "word": "promising",
+   "pos": "adjective",
+   "ipa": "/ˈprɑːmɪsɪŋ/",
+   "level": "B2",
+   "meaning": "đầy hứa hẹn",
+   "definition": "showing signs of being successful",
+   "collocations": [
+    "promising results",
+    "a promising start"
+   ],
+   "examples": [
+    {
+     "en": "Early sales figures are *promising*.",
+     "vi": "Số liệu bán hàng ban đầu rất hứa hẹn."
+    }
+   ]
+  },
+  {
+   "id": "mkt_preview",
+   "word": "preview",
+   "pos": "noun",
+   "ipa": "/ˈpriːvjuː/",
+   "level": "B2",
+   "meaning": "bản xem trước, buổi giới thiệu trước",
+   "definition": "a chance to see something before it is available",
+   "collocations": [
+    "a sneak preview",
+    "press preview"
+   ],
+   "examples": [
+    {
+     "en": "Members can attend a *preview* of the new collection.",
+     "vi": "Hội viên có thể dự buổi giới thiệu trước bộ sưu tập mới."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

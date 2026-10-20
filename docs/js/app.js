@@ -60,7 +60,7 @@ function phraseOfDay() {
 
 // Tiến độ theo cấp độ của chủ đề (A2, B1, B2).
 function levelRoadmap() {
-  return ["A2", "B1", "B2"].map((level) => {
+  return ["A2", "B1", "B2", "TOEIC"].map((level) => {
     const ids = content.topics.filter((t) => t.level === level).flatMap((t) => content.wordIds(t.id));
     return { level, ...progress.topicStats(ids) };
   });
@@ -93,7 +93,7 @@ function viewVocab() {
       <a href="#/practice"><span>✍️</span>Luyện viết</a>
       <a href="#/phrases"><span>💬</span>Mẫu câu</a>
     </div>
-    <div class="section-title">🗺️ Lộ trình A2 → B2</div>
+    <div class="section-title">🗺️ Lộ trình A2 → B2 → TOEIC</div>
     <div class="card">${levelRoadmap()
       .map(
         (l) => `<div class="list-row"><b style="width:34px">${l.level}</b>
@@ -101,9 +101,10 @@ function viewVocab() {
           <span class="muted small">${l.total ? `${l.seen}/${l.total}` : ""}</span></div>`
       )
       .join("")}</div>
-    <div class="section-title">Tiến độ theo chủ đề</div>
+    <div class="section-title row"><span class="grow">Chủ đề đang học</span><a class="link" href="#/topics">Tất cả ${content.topics.length} chủ đề →</a></div>
     <div class="card">
-      ${content.topics
+      ${(content.topics.filter((t) => progress.topicStats(content.wordIds(t.id)).seen > 0).slice(0, 8).concat(
+          content.topics.filter((t) => progress.topicStats(content.wordIds(t.id)).seen === 0).slice(0, 3)))
         .map((t) => {
           const ts = progress.topicStats(content.wordIds(t.id));
           return `<a class="list-row" href="#/topic/${t.id}">
@@ -127,18 +128,28 @@ function viewVocab() {
 
 // ---------------- Chủ đề ----------------
 
+const LEVEL_NAME = { A2: "A2 · Nền tảng", B1: "B1 · Trung cấp", B2: "B2 · Trung cao cấp (Oxford 3000/5000)", TOEIC: "TOEIC · Từ vựng công sở chuyên ngành" };
+
 function viewTopics() {
-  return `${header("Chủ đề", `${content.topics.length} chủ đề · ${content.allIds.length} từ`)}
-    ${content.topics
-      .map((t) => {
-        const ts = progress.topicStats(content.wordIds(t.id));
-        return `<a class="card" href="#/topic/${t.id}" style="display:block">
-          <div class="row"><span style="font-size:30px">${t.icon}</span><div class="grow"></div><span class="chip info">${esc(t.level)}</span></div>
-          <div style="font-size:18px;font-weight:700;margin-top:4px">${esc(t.title_vi)}</div>
-          <div class="muted small" style="margin-bottom:10px">${esc(t.description || "")}</div>
-          ${bar(ts.seen, ts.total)}
-          <div class="row muted small" style="margin-top:6px"><span class="grow">${ts.seen}/${ts.total} từ · ${t.phraseCount} tình huống</span>${ts.due ? `<b style="color:var(--warn)">⏰ ${ts.due}</b>` : ""}</div>
-        </a>`;
+  const levels = ["A2", "B1", "B2", "TOEIC", "C1"].filter((lv) => content.topics.some((t) => t.level === lv));
+  return `${header("Chủ đề", `${content.topics.length} chủ đề · ${content.allIds.length} từ`, { back: true })}
+    <div class="chips scroll">${levels.map((lv) => `<a class="chip plain" href="#/topics" data-jump="lv-${lv}">${lv}</a>`).join("")}</div>
+    ${levels
+      .map((lv) => {
+        const list = content.topics.filter((t) => t.level === lv);
+        const ids = list.flatMap((t) => content.wordIds(t.id));
+        const ls = progress.topicStats(ids);
+        return `<div class="section-title row" id="lv-${lv}"><span class="grow">${esc(LEVEL_NAME[lv] || lv)}</span><span class="muted small">${ls.seen}/${ls.total} từ</span></div>
+        <div class="card" style="padding:4px 12px">${list
+          .map((t) => {
+            const ts = progress.topicStats(content.wordIds(t.id));
+            return `<a class="list-row" href="#/topic/${t.id}">
+              <span class="ico">${t.icon}</span>
+              <div class="grow"><div class="t">${esc(t.title_vi)}</div><div class="muted small">${ts.total} từ${t.phraseCount ? ` · ${t.phraseCount} tình huống` : ""}</div>${bar(ts.seen, ts.total)}</div>
+              ${ts.due ? `<span class="chip warn">${ts.due}</span>` : `<span class="muted small">${ts.seen}/${ts.total}</span>`}
+            </a>`;
+          })
+          .join("")}</div>`;
       })
       .join("")}`;
 }
@@ -541,10 +552,11 @@ function practiceNext(ok) {
 // ---------------- Mẫu câu ----------------
 
 function viewPhrases(topicId) {
-  const tid = topicId || content.topics[0]?.id;
+  const withPhrases = content.topics.filter((t) => t.phraseCount > 0);
+  const tid = topicId || withPhrases[0]?.id;
   const regs = [["formal", "Trang trọng", "info"], ["neutral", "Bình thường", ""], ["casual", "Thân mật", "warn"]];
   return `${header("💬 Mẫu câu giao tiếp", "Nghe → nhắc lại to → tự thay từ để nói câu của bạn.", { back: !!topicId })}
-    <div class="chips scroll">${content.topics
+    <div class="chips scroll">${withPhrases
       .map((t) => `<a class="chip ${t.id === tid ? "on" : "plain"}" href="#/phrases/${t.id}">${t.icon} ${esc(t.title_vi)}</a>`)
       .join("")}</div>
     ${(content.phrases.get(tid) || [])
@@ -675,6 +687,12 @@ document.addEventListener("click", (ev) => {
   if (sayEl) {
     ev.preventDefault();
     speak(sayEl.dataset.say, !!sayEl.dataset.slow);
+    return;
+  }
+  const jump = ev.target.closest("[data-jump]");
+  if (jump) {
+    ev.preventDefault();
+    document.getElementById(jump.dataset.jump)?.scrollIntoView({ behavior: "smooth" });
     return;
   }
   const el = ev.target.closest("[data-act]");

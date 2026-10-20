@@ -1,0 +1,685 @@
+{
+ "id": "toeic_clinic",
+ "order": 66,
+ "icon": "🩺",
+ "level": "TOEIC",
+ "title": "TOEIC: Clinics & Appointments",
+ "title_vi": "TOEIC: Phòng khám & Lịch hẹn",
+ "description": "Đặt – dời lịch khám, bảo hiểm y tế, đơn thuốc, khám sức khỏe định kỳ: tình huống gọi điện điển hình trong Part 3.",
+ "words": [
+  {
+   "id": "tcl_medical_checkup",
+   "word": "medical checkup",
+   "pos": "noun",
+   "ipa": "/ˌmedɪkl ˈtʃekʌp/",
+   "level": "TOEIC",
+   "meaning": "khám sức khỏe tổng quát",
+   "definition": "a general examination by a doctor",
+   "collocations": [
+    "annual medical checkup"
+   ],
+   "examples": [
+    {
+     "en": "All staff must have an annual *medical checkup*.",
+     "vi": "Toàn bộ nhân viên phải khám sức khỏe hằng năm."
+    }
+   ]
+  },
+  {
+   "id": "tcl_physician",
+   "word": "physician",
+   "pos": "noun",
+   "ipa": "/fɪˈzɪʃn/",
+   "level": "C1",
+   "meaning": "bác sĩ (nội khoa)",
+   "definition": "a medical doctor",
+   "collocations": [
+    "family physician",
+    "consult a physician"
+   ],
+   "examples": [
+    {
+     "en": "Consult your *physician* before starting the program.",
+     "vi": "Hỏi ý kiến bác sĩ trước khi bắt đầu chương trình."
+    }
+   ]
+  },
+  {
+   "id": "tcl_dentist",
+   "word": "dentist",
+   "pos": "noun",
+   "ipa": "/ˈdentɪst/",
+   "level": "A2",
+   "meaning": "nha sĩ",
+   "definition": "a doctor who treats teeth",
+   "collocations": [
+    "see the dentist",
+    "dentist appointment"
+   ],
+   "examples": [
+    {
+     "en": "I have a *dentist* appointment at 3 p.m.",
+     "vi": "Tôi có hẹn nha sĩ lúc 3 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tcl_dental",
+   "word": "dental",
+   "pos": "adjective",
+   "ipa": "/ˈdentl/",
+   "level": "TOEIC",
+   "meaning": "thuộc răng",
+   "definition": "connected with teeth",
+   "collocations": [
+    "dental clinic",
+    "dental care"
+   ],
+   "examples": [
+    {
+     "en": "The insurance covers *dental* care.",
+     "vi": "Bảo hiểm chi trả chăm sóc răng miệng."
+    }
+   ]
+  },
+  {
+   "id": "tcl_pharmacist",
+   "word": "pharmacist",
+   "pos": "noun",
+   "ipa": "/ˈfɑːrməsɪst/",
+   "level": "TOEIC",
+   "meaning": "dược sĩ",
+   "definition": "a person who prepares and sells medicine",
+   "collocations": [
+    "ask the pharmacist"
+   ],
+   "examples": [
+    {
+     "en": "The *pharmacist* explained how to take the medicine.",
+     "vi": "Dược sĩ giải thích cách dùng thuốc."
+    }
+   ]
+  },
+  {
+   "id": "tcl_prescription_refill",
+   "word": "prescription refill",
+   "pos": "noun",
+   "ipa": "/prɪˈskrɪpʃn ˌriːfɪl/",
+   "level": "TOEIC",
+   "meaning": "lấy thêm thuốc theo đơn",
+   "definition": "getting more of a prescribed medicine",
+   "collocations": [
+    "request a prescription refill"
+   ],
+   "examples": [
+    {
+     "en": "You can request a *prescription refill* online.",
+     "vi": "Bạn có thể yêu cầu cấp thêm thuốc theo đơn trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "tcl_medical_records",
+   "word": "medical records",
+   "pos": "noun",
+   "ipa": "/ˌmedɪkl ˈrekərdz/",
+   "level": "TOEIC",
+   "meaning": "hồ sơ bệnh án",
+   "definition": "documents about a person's health",
+   "collocations": [
+    "update medical records"
+   ],
+   "examples": [
+    {
+     "en": "Please bring your *medical records* to the appointment.",
+     "vi": "Vui lòng mang hồ sơ bệnh án khi đến khám."
+    }
+   ]
+  },
+  {
+   "id": "tcl_insurance_card",
+   "word": "insurance card",
+   "pos": "noun",
+   "ipa": "/ɪnˈʃʊrəns kɑːrd/",
+   "level": "TOEIC",
+   "meaning": "thẻ bảo hiểm",
+   "definition": "a card showing you have insurance",
+   "collocations": [
+    "show your insurance card"
+   ],
+   "examples": [
+    {
+     "en": "Please show your *insurance card* at the front desk.",
+     "vi": "Vui lòng xuất trình thẻ bảo hiểm tại quầy lễ tân."
+    }
+   ]
+  },
+  {
+   "id": "tcl_waiting_room",
+   "word": "waiting room",
+   "pos": "noun",
+   "ipa": "/ˈweɪtɪŋ ruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng chờ",
+   "definition": "a room where people wait",
+   "collocations": [
+    "in the waiting room"
+   ],
+   "examples": [
+    {
+     "en": "Please take a seat in the *waiting room*.",
+     "vi": "Vui lòng ngồi chờ ở phòng chờ."
+    }
+   ]
+  },
+  {
+   "id": "tcl_reschedule_an_appointment",
+   "word": "reschedule an appointment",
+   "pos": "verb",
+   "ipa": "/ˌriːˈskedʒuːl ən əˈpɔɪntmənt/",
+   "level": "TOEIC",
+   "meaning": "dời lịch hẹn",
+   "definition": "to change the time of an appointment",
+   "collocations": [
+    "call to reschedule an appointment"
+   ],
+   "examples": [
+    {
+     "en": "I need to *reschedule an appointment* for next week.",
+     "vi": "Tôi cần dời lịch hẹn sang tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "tcl_available_slot",
+   "word": "available slot",
+   "pos": "noun",
+   "ipa": "/əˌveɪləbl ˈslɑːt/",
+   "level": "TOEIC",
+   "meaning": "khung giờ trống",
+   "definition": "a free time for an appointment",
+   "collocations": [
+    "the next available slot"
+   ],
+   "examples": [
+    {
+     "en": "The next *available slot* is Tuesday at 10.",
+     "vi": "Khung giờ trống tiếp theo là 10 giờ thứ Ba."
+    }
+   ]
+  },
+  {
+   "id": "tcl_slot",
+   "word": "slot",
+   "pos": "noun",
+   "ipa": "/slɑːt/",
+   "level": "C1",
+   "meaning": "khung giờ; khe",
+   "definition": "a time available for something; a narrow opening",
+   "collocations": [
+    "time slot",
+    "coin slot"
+   ],
+   "examples": [
+    {
+     "en": "All the morning *slots* are booked.",
+     "vi": "Các khung giờ buổi sáng đã kín."
+    }
+   ]
+  },
+  {
+   "id": "tcl_follow_up_appointment",
+   "word": "follow-up appointment",
+   "pos": "noun",
+   "ipa": "/ˈfɑːloʊ ʌp əˌpɔɪntmənt/",
+   "level": "TOEIC",
+   "meaning": "lịch tái khám",
+   "definition": "a second visit after treatment",
+   "collocations": [
+    "schedule a follow-up appointment"
+   ],
+   "examples": [
+    {
+     "en": "Please book a *follow-up appointment* in two weeks.",
+     "vi": "Vui lòng đặt lịch tái khám sau hai tuần."
+    }
+   ]
+  },
+  {
+   "id": "tcl_referral",
+   "word": "referral",
+   "pos": "noun",
+   "ipa": "/rɪˈfɜːrəl/",
+   "level": "TOEIC",
+   "meaning": "giấy giới thiệu (chuyển khám)",
+   "definition": "sending someone to a specialist",
+   "collocations": [
+    "get a referral"
+   ],
+   "examples": [
+    {
+     "en": "You need a *referral* to see a specialist.",
+     "vi": "Bạn cần giấy giới thiệu để khám chuyên khoa."
+    }
+   ]
+  },
+  {
+   "id": "tcl_treatment_plan",
+   "word": "treatment plan",
+   "pos": "noun",
+   "ipa": "/ˈtriːtmənt plæn/",
+   "level": "TOEIC",
+   "meaning": "phác đồ điều trị",
+   "definition": "a plan for medical care",
+   "collocations": [
+    "follow the treatment plan"
+   ],
+   "examples": [
+    {
+     "en": "The doctor explained the *treatment plan*.",
+     "vi": "Bác sĩ giải thích phác đồ điều trị."
+    }
+   ]
+  },
+  {
+   "id": "tcl_side_effect",
+   "word": "side effect",
+   "pos": "noun",
+   "ipa": "/ˈsaɪd ɪˌfekt/",
+   "level": "TOEIC",
+   "meaning": "tác dụng phụ",
+   "definition": "an unwanted effect of a medicine",
+   "collocations": [
+    "possible side effects"
+   ],
+   "examples": [
+    {
+     "en": "Drowsiness is a common *side effect*.",
+     "vi": "Buồn ngủ là tác dụng phụ thường gặp."
+    }
+   ]
+  },
+  {
+   "id": "tcl_over_the_counter",
+   "word": "over-the-counter",
+   "pos": "adjective",
+   "ipa": "/ˌoʊvər ðə ˈkaʊntər/",
+   "level": "TOEIC",
+   "meaning": "không cần kê đơn",
+   "definition": "able to be bought without a prescription",
+   "collocations": [
+    "over-the-counter medicine"
+   ],
+   "examples": [
+    {
+     "en": "You can buy this medicine *over-the-counter*.",
+     "vi": "Bạn có thể mua thuốc này không cần đơn."
+    }
+   ]
+  },
+  {
+   "id": "tcl_allergy",
+   "word": "allergy",
+   "pos": "noun",
+   "ipa": "/ˈælərdʒi/",
+   "level": "TOEIC",
+   "meaning": "dị ứng",
+   "definition": "a bad reaction of the body to something",
+   "collocations": [
+    "food allergy",
+    "have an allergy"
+   ],
+   "examples": [
+    {
+     "en": "Do you have any *allergies*?",
+     "vi": "Bạn có bị dị ứng gì không?"
+    }
+   ]
+  },
+  {
+   "id": "tcl_blood_pressure",
+   "word": "blood pressure",
+   "pos": "noun",
+   "ipa": "/ˈblʌd ˌpreʃər/",
+   "level": "TOEIC",
+   "meaning": "huyết áp",
+   "definition": "the force of blood in the body",
+   "collocations": [
+    "high blood pressure",
+    "check blood pressure"
+   ],
+   "examples": [
+    {
+     "en": "The nurse will check your *blood pressure*.",
+     "vi": "Y tá sẽ đo huyết áp cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "tcl_x_ray",
+   "word": "X-ray",
+   "pos": "noun",
+   "ipa": "/ˈeks reɪ/",
+   "level": "TOEIC",
+   "meaning": "chụp X-quang",
+   "definition": "a photo of the inside of the body",
+   "collocations": [
+    "have an X-ray"
+   ],
+   "examples": [
+    {
+     "en": "The doctor sent me for an *X-ray*.",
+     "vi": "Bác sĩ cho tôi đi chụp X-quang."
+    }
+   ]
+  },
+  {
+   "id": "tcl_lab_test",
+   "word": "lab test",
+   "pos": "noun",
+   "ipa": "/ˈlæb test/",
+   "level": "TOEIC",
+   "meaning": "xét nghiệm",
+   "definition": "a medical test done in a laboratory",
+   "collocations": [
+    "lab test results"
+   ],
+   "examples": [
+    {
+     "en": "Your *lab test* results will be ready tomorrow.",
+     "vi": "Kết quả xét nghiệm sẽ có vào ngày mai."
+    }
+   ]
+  },
+  {
+   "id": "tcl_outpatient",
+   "word": "outpatient",
+   "pos": "noun",
+   "ipa": "/ˈaʊtpeɪʃnt/",
+   "level": "TOEIC",
+   "meaning": "bệnh nhân ngoại trú",
+   "definition": "a patient who does not stay overnight",
+   "collocations": [
+    "outpatient clinic"
+   ],
+   "examples": [
+    {
+     "en": "The *outpatient* clinic is on the first floor.",
+     "vi": "Phòng khám ngoại trú ở tầng một."
+    }
+   ]
+  },
+  {
+   "id": "tcl_admitted",
+   "word": "admitted",
+   "pos": "adjective",
+   "ipa": "/ədˈmɪtɪd/",
+   "level": "TOEIC",
+   "meaning": "nhập viện",
+   "definition": "taken into hospital",
+   "collocations": [
+    "be admitted to hospital"
+   ],
+   "examples": [
+    {
+     "en": "He was *admitted* to hospital last night.",
+     "vi": "Anh ấy nhập viện tối qua."
+    }
+   ]
+  },
+  {
+   "id": "tcl_discharge",
+   "word": "discharge",
+   "pos": "verb",
+   "ipa": "/dɪsˈtʃɑːrdʒ/",
+   "level": "C1",
+   "meaning": "cho xuất viện",
+   "definition": "to allow a patient to leave hospital",
+   "collocations": [
+    "be discharged from hospital"
+   ],
+   "examples": [
+    {
+     "en": "She was *discharged* after two days.",
+     "vi": "Cô ấy được xuất viện sau hai ngày."
+    }
+   ]
+  },
+  {
+   "id": "tcl_wellness",
+   "word": "wellness",
+   "pos": "noun",
+   "ipa": "/ˈwelnəs/",
+   "level": "TOEIC",
+   "meaning": "sức khỏe tổng thể",
+   "definition": "being healthy",
+   "collocations": [
+    "wellness program",
+    "wellness centre"
+   ],
+   "examples": [
+    {
+     "en": "The company runs a *wellness* program for staff.",
+     "vi": "Công ty có chương trình chăm sóc sức khỏe cho nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "tcl_nutritionist",
+   "word": "nutritionist",
+   "pos": "noun",
+   "ipa": "/nuˈtrɪʃənɪst/",
+   "level": "TOEIC",
+   "meaning": "chuyên gia dinh dưỡng",
+   "definition": "an expert on food and health",
+   "collocations": [
+    "consult a nutritionist"
+   ],
+   "examples": [
+    {
+     "en": "A *nutritionist* will give a talk on healthy eating.",
+     "vi": "Một chuyên gia dinh dưỡng sẽ nói chuyện về ăn uống lành mạnh."
+    }
+   ]
+  },
+  {
+   "id": "tcl_physical_therapy",
+   "word": "physical therapy",
+   "pos": "noun",
+   "ipa": "/ˌfɪzɪkl ˈθerəpi/",
+   "level": "TOEIC",
+   "meaning": "vật lý trị liệu",
+   "definition": "treatment using exercise and massage",
+   "collocations": [
+    "attend physical therapy"
+   ],
+   "examples": [
+    {
+     "en": "He needs *physical therapy* for his knee.",
+     "vi": "Anh ấy cần vật lý trị liệu cho đầu gối."
+    }
+   ]
+  },
+  {
+   "id": "tcl_first_aid_kit",
+   "word": "first-aid kit",
+   "pos": "noun",
+   "ipa": "/ˌfɜːrst ˈeɪd kɪt/",
+   "level": "TOEIC",
+   "meaning": "bộ sơ cứu",
+   "definition": "a box of things for treating small injuries",
+   "collocations": [
+    "check the first-aid kit"
+   ],
+   "examples": [
+    {
+     "en": "The *first-aid kit* is in the kitchen.",
+     "vi": "Bộ sơ cứu ở trong bếp."
+    }
+   ]
+  },
+  {
+   "id": "tcl_co_pay",
+   "word": "co-pay",
+   "pos": "noun",
+   "ipa": "/ˈkoʊ peɪ/",
+   "level": "TOEIC",
+   "meaning": "khoản đồng chi trả",
+   "definition": "the part of a medical bill you pay yourself",
+   "collocations": [
+    "a $20 co-pay"
+   ],
+   "examples": [
+    {
+     "en": "Your *co-pay* for this visit is $15.",
+     "vi": "Phần đồng chi trả cho lần khám này là 15 đô."
+    }
+   ]
+  },
+  {
+   "id": "tcl_health_insurance",
+   "word": "health insurance",
+   "pos": "noun",
+   "ipa": "/ˈhelθ ɪnˌʃʊrəns/",
+   "level": "TOEIC",
+   "meaning": "bảo hiểm y tế",
+   "definition": "insurance that pays medical costs",
+   "collocations": [
+    "provide health insurance"
+   ],
+   "examples": [
+    {
+     "en": "Full-time employees receive *health insurance*.",
+     "vi": "Nhân viên toàn thời gian được bảo hiểm y tế."
+    }
+   ]
+  },
+  {
+   "id": "tcl_emergency_room",
+   "word": "emergency room",
+   "pos": "noun",
+   "ipa": "/ɪˈmɜːrdʒənsi ruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng cấp cứu",
+   "definition": "the hospital department for urgent cases",
+   "collocations": [
+    "go to the emergency room"
+   ],
+   "examples": [
+    {
+     "en": "He was taken to the *emergency room*.",
+     "vi": "Anh ấy được đưa vào phòng cấp cứu."
+    }
+   ]
+  },
+  {
+   "id": "tcl_vaccinated",
+   "word": "vaccinated",
+   "pos": "adjective",
+   "ipa": "/ˈvæksɪneɪtɪd/",
+   "level": "TOEIC",
+   "meaning": "đã tiêm chủng",
+   "definition": "having had a vaccine",
+   "collocations": [
+    "fully vaccinated"
+   ],
+   "examples": [
+    {
+     "en": "Visitors must be fully *vaccinated*.",
+     "vi": "Khách đến thăm phải tiêm chủng đầy đủ."
+    }
+   ]
+  },
+  {
+   "id": "tcl_hygienic",
+   "word": "hygienic",
+   "pos": "adjective",
+   "ipa": "/haɪˈdʒenɪk/",
+   "level": "TOEIC",
+   "meaning": "hợp vệ sinh",
+   "definition": "clean and safe",
+   "collocations": [
+    "hygienic conditions"
+   ],
+   "examples": [
+    {
+     "en": "The kitchen must be kept *hygienic*.",
+     "vi": "Nhà bếp phải luôn hợp vệ sinh."
+    }
+   ]
+  },
+  {
+   "id": "tcl_sanitizer",
+   "word": "sanitizer",
+   "pos": "noun",
+   "ipa": "/ˈsænɪtaɪzər/",
+   "level": "TOEIC",
+   "meaning": "dung dịch sát khuẩn",
+   "definition": "a liquid that kills germs",
+   "collocations": [
+    "hand sanitizer"
+   ],
+   "examples": [
+    {
+     "en": "Please use the hand *sanitizer* at the entrance.",
+     "vi": "Vui lòng dùng nước rửa tay sát khuẩn ở lối vào."
+    }
+   ]
+  },
+  {
+   "id": "tcl_contagious",
+   "word": "contagious",
+   "pos": "adjective",
+   "ipa": "/kənˈteɪdʒəs/",
+   "level": "TOEIC",
+   "meaning": "dễ lây",
+   "definition": "able to spread from person to person",
+   "collocations": [
+    "a contagious disease"
+   ],
+   "examples": [
+    {
+     "en": "If you're *contagious*, please stay home.",
+     "vi": "Nếu bạn có thể lây bệnh, hãy ở nhà."
+    }
+   ]
+  },
+  {
+   "id": "tcl_symptom_check",
+   "word": "symptom check",
+   "pos": "noun",
+   "ipa": "/ˈsɪmptəm tʃek/",
+   "level": "TOEIC",
+   "meaning": "kiểm tra triệu chứng",
+   "definition": "checking for signs of illness",
+   "collocations": [
+    "daily symptom check"
+   ],
+   "examples": [
+    {
+     "en": "Complete the daily *symptom check* before coming in.",
+     "vi": "Hoàn thành kiểm tra triệu chứng hằng ngày trước khi đến."
+    }
+   ]
+  },
+  {
+   "id": "tcl_dosage",
+   "word": "dosage",
+   "pos": "noun",
+   "ipa": "/ˈdoʊsɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "liều dùng",
+   "definition": "the amount of medicine to take",
+   "collocations": [
+    "recommended dosage"
+   ],
+   "examples": [
+    {
+     "en": "Do not exceed the recommended *dosage*.",
+     "vi": "Không dùng quá liều khuyến nghị."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

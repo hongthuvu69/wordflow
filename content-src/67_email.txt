@@ -1,0 +1,46 @@
+#id: toeic_email
+#prefix: tem
+#order: 67
+#icon: ✉️
+#title: TOEIC: Business Email Language
+#title_vi: TOEIC: Ngôn ngữ email công việc
+#desc: Cụm từ trang trọng hay xuất hiện trong email, thư, thông báo Part 6–7: please find attached, at your earliest convenience…
+regarding | preposition | /rɪˈɡɑːrdɪŋ/ | về việc | about | regarding your order | I'm writing *regarding* your recent order. | Tôi viết thư về đơn hàng gần đây của bạn.
+with regard to | preposition | /wɪð rɪˈɡɑːrd tə/ | liên quan đến | about | with regard to the meeting | *With regard to* your question, the answer is yes. | Về câu hỏi của bạn, câu trả lời là có.
+in response to | preposition | /ɪn rɪˈspɑːns tə/ | để đáp lại | as a reply to | in response to your e-mail | I am writing *in response to* your advertisement. | Tôi viết thư để phản hồi mẩu quảng cáo của quý công ty.
+further to | preposition | /ˈfɜːrðər tə/ | tiếp theo (cuộc trao đổi) | following | further to our conversation | *Further to* our phone call, I attach the contract. | Tiếp theo cuộc điện thoại, tôi gửi kèm hợp đồng.
+please find attached | phrase | /pliːz ˌfaɪnd əˈtætʃt/ | xin gửi kèm | used to say a file is attached | please find attached the report | *Please find attached* the agenda for Monday. | Xin gửi kèm chương trình họp ngày thứ Hai.
+enclosed | adjective | /ɪnˈkloʊzd/ | được gửi kèm (trong thư) | included in an envelope with a letter | please find enclosed | The *enclosed* brochure gives more details. | Tờ giới thiệu gửi kèm có thêm thông tin chi tiết.
+enclose | verb | /ɪnˈkloʊz/ | gửi kèm | to put something in an envelope with a letter | enclose a cheque | I have *enclosed* a copy of my certificate. | Tôi đã gửi kèm bản sao chứng chỉ.
+at your earliest convenience | phrase | /æt jɔːr ˌɜːrliɪst kənˈviːniəns/ | sớm nhất có thể | as soon as possible (polite) | reply at your earliest convenience | Please reply *at your earliest convenience*. | Vui lòng phản hồi sớm nhất có thể.
+look forward to | verb | /ˌlʊk ˈfɔːrwərd tə/ | mong đợi | to wait with pleasure | look forward to hearing from you | We *look forward to* working with you. | Chúng tôi mong được hợp tác với bạn. | look forward to + V-ing.
+should you have | phrase | /ʃʊd juː hæv/ | nếu bạn có | if you have (formal) | should you have any questions | *Should you have* any questions, please contact me. | Nếu bạn có câu hỏi nào, vui lòng liên hệ tôi. | Đảo ngữ trang trọng của câu điều kiện.
+to whom it may concern | phrase | /tə ˌhuːm ɪt meɪ kənˈsɜːrn/ | kính gửi những người liên quan | used to start a formal letter to an unknown reader | begin with "To whom it may concern" | The letter began "*To whom it may concern*". | Lá thư mở đầu bằng "Kính gửi những người liên quan".
+sincerely | adverb | /sɪnˈsɪrli/ | trân trọng (kết thư) | used to end a formal letter | Yours sincerely; Sincerely | *Sincerely*, Laura Bennett | Trân trọng, Laura Bennett
+regards | noun | /rɪˈɡɑːrdz/ | lời chào trân trọng | used to end an e-mail politely | best regards; kind regards | Best *regards*, Tom | Trân trọng, Tom
+on behalf of | preposition | /ɑːn bɪˈhæf əv/ | thay mặt | as a representative of | on behalf of the company | *On behalf of* the team, thank you for your support. | Thay mặt cả đội, xin cảm ơn sự ủng hộ của bạn.
+as per | preposition | /æz pɜːr/ | theo như | according to | as per your request; as per our agreement | *As per* your request, I've changed the delivery date. | Theo yêu cầu của bạn, tôi đã đổi ngày giao hàng.
+kindly | adverb | /ˈkaɪndli/ | vui lòng (trang trọng) | please | kindly reply; kindly note | *Kindly* confirm receipt of this e-mail. | Vui lòng xác nhận đã nhận e-mail này.
+forward | verb | /ˈfɔːrwərd/ | chuyển tiếp | to send an e-mail you received to someone else | forward an e-mail | I'll *forward* the message to the manager. | Tôi sẽ chuyển tiếp tin nhắn cho quản lý.
+cc | verb | /ˌsiː ˈsiː/ | gửi đồng thời (cc) | to send a copy of an e-mail to someone | cc someone on an e-mail | Please *cc* me on all e-mails to the client. | Vui lòng cc tôi trong mọi e-mail gửi khách hàng.
+subject line | noun | /ˈsʌbdʒɪkt laɪn/ | dòng tiêu đề | the title of an e-mail | write a clear subject line | Put the order number in the *subject line*. | Ghi số đơn hàng vào dòng tiêu đề.
+recipient list | noun | /rɪˈsɪpiənt lɪst/ | danh sách người nhận | the people an e-mail is sent to | add to the recipient list | Please add Ms. Lee to the *recipient list*. | Vui lòng thêm cô Lee vào danh sách người nhận.
+out of office | adjective | /ˌaʊt əv ˈɔːfɪs/ | vắng mặt (văn phòng) | away from work | out-of-office reply | I will be *out of office* until Monday. | Tôi sẽ vắng mặt đến thứ Hai.
+automatic reply | noun | /ˌɔːtəmætɪk rɪˈplaɪ/ | thư trả lời tự động | an e-mail sent automatically | set up an automatic reply | I received an *automatic reply* saying she's on holiday. | Tôi nhận thư trả lời tự động báo cô ấy đang nghỉ.
+subscriber | noun | /səbˈskraɪbər/ | người đăng ký nhận tin | a person who receives a newsletter regularly | dear subscribers | All *subscribers* get early access to sales. | Mọi người đăng ký đều được mua sớm khi có khuyến mãi.
+unsubscribe | verb | /ˌʌnsəbˈskraɪb/ | hủy đăng ký nhận tin | to stop receiving e-mails | click here to unsubscribe | Click the link below to *unsubscribe*. | Nhấp vào đường dẫn bên dưới để hủy đăng ký.
+reply all | verb | /rɪˌplaɪ ˈɔːl/ | trả lời tất cả | to answer everyone on an e-mail | don't reply all | Please don't *reply all* to this e-mail. | Vui lòng không bấm trả lời tất cả e-mail này.
+confirm receipt | verb | /kənˌfɜːrm rɪˈsiːt/ | xác nhận đã nhận | to say that you have received something | please confirm receipt | Please *confirm receipt* of the documents. | Vui lòng xác nhận đã nhận tài liệu.
+draw your attention to | verb | /ˌdrɔː jɔːr əˈtenʃn tə/ | lưu ý quý vị về | to make someone notice | I'd like to draw your attention to | I'd like to *draw your attention to* the new deadline. | Tôi muốn quý vị lưu ý về hạn chót mới.
+be advised | phrase | /bi ədˈvaɪzd/ | xin lưu ý | please note (formal) | please be advised that | Please *be advised* that the office will close early on Friday. | Xin lưu ý văn phòng sẽ đóng cửa sớm vào thứ Sáu.
+we regret to inform you | phrase | /wi rɪˌɡret tu ɪnˈfɔːrm juː/ | chúng tôi rất tiếc phải thông báo | used to give bad news formally | we regret to inform you that | *We regret to inform you* that the position has been filled. | Chúng tôi rất tiếc phải thông báo vị trí này đã được tuyển.
+pleased to announce | phrase | /ˌpliːzd tu əˈnaʊns/ | vui mừng thông báo | used to give good news formally | we are pleased to announce | We are *pleased to announce* the opening of our new branch. | Chúng tôi vui mừng thông báo khai trương chi nhánh mới.
+on short notice | adverb | /ɑːn ˌʃɔːrt ˈnoʊtɪs/ | gấp, báo trước ít thời gian | with little warning | at short notice; on short notice | Thank you for coming *on short notice*. | Cảm ơn bạn đã đến dù được báo gấp.
+until further notice | adverb | /ənˌtɪl ˌfɜːrðər ˈnoʊtɪs/ | cho đến khi có thông báo mới | until you are told something different | closed until further notice | The gym is closed *until further notice*. | Phòng tập đóng cửa cho đến khi có thông báo mới.
+for your reference | phrase | /fər jɔːr ˈrefrəns/ | để bạn tham khảo | so that you can check it | attached for your reference | I've attached last year's report *for your reference*. | Tôi gửi kèm báo cáo năm ngoái để bạn tham khảo.
+as soon as possible | adverb | /æz ˌsuːn æz ˈpɑːsəbl/ | càng sớm càng tốt | very soon | reply as soon as possible | Please send the files *as soon as possible*. | Vui lòng gửi tệp càng sớm càng tốt. | Viết tắt: ASAP.
+in the meantime | adverb | /ɪn ðə ˈmiːntaɪm/ | trong lúc chờ đợi | while waiting for something | in the meantime, please | *In the meantime*, please use the side entrance. | Trong lúc chờ đợi, vui lòng dùng lối vào bên hông.
+as discussed | phrase | /æz dɪˈskʌst/ | như đã thảo luận | as we talked about before | as discussed at the meeting | *As discussed*, the launch has moved to May. | Như đã thảo luận, buổi ra mắt dời sang tháng Năm.
+thank you in advance | phrase | /ˌθæŋk juː ɪn ədˈvæns/ | cảm ơn trước | thanks before something is done | thank you in advance for your help | *Thank you in advance* for your cooperation. | Cảm ơn trước sự hợp tác của bạn.
+cooperation | noun | /koʊˌɑːpəˈreɪʃn/ | sự hợp tác | working together | thank you for your cooperation | Thank you for your *cooperation*. | Cảm ơn sự hợp tác của bạn.
+inquire | verb | /ɪnˈkwaɪər/ | hỏi thông tin | to ask for information | inquire about | I'm writing to *inquire* about the job opening. | Tôi viết thư để hỏi về vị trí tuyển dụng.

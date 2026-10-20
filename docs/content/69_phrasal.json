@@ -1,0 +1,837 @@
+{
+ "id": "toeic_phrasal",
+ "order": 69,
+ "icon": "🧷",
+ "level": "TOEIC",
+ "title": "TOEIC: Phrasal Verbs at Work",
+ "title_vi": "TOEIC: Cụm động từ nơi công sở",
+ "description": "Carry out, set up, take over, run out of, look over…: cụm động từ xuất hiện thường xuyên trong hội thoại Part 3 và đáp án paraphrase.",
+ "words": [
+  {
+   "id": "tph_carry_out",
+   "word": "carry out",
+   "pos": "verb",
+   "ipa": "/ˌkæri ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "thực hiện",
+   "definition": "to do a task or plan",
+   "collocations": [
+    "carry out research",
+    "carry out a survey"
+   ],
+   "examples": [
+    {
+     "en": "The team will *carry out* a survey next month.",
+     "vi": "Nhóm sẽ thực hiện một cuộc khảo sát vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "tph_set_up",
+   "word": "set up",
+   "pos": "verb",
+   "ipa": "/ˌset ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "thiết lập; lắp đặt; thành lập",
+   "definition": "to arrange; to install; to start a business",
+   "collocations": [
+    "set up a meeting",
+    "set up the equipment"
+   ],
+   "examples": [
+    {
+     "en": "Could you *set up* a meeting with the client?",
+     "vi": "Bạn có thể sắp xếp một cuộc họp với khách hàng không?"
+    }
+   ]
+  },
+  {
+   "id": "tph_take_over",
+   "word": "take over",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈoʊvər/",
+   "level": "TOEIC",
+   "meaning": "tiếp quản",
+   "definition": "to take control or responsibility",
+   "collocations": [
+    "take over a company",
+    "take over from"
+   ],
+   "examples": [
+    {
+     "en": "Ms. Park will *take over* as manager next month.",
+     "vi": "Bà Park sẽ tiếp quản vị trí quản lý vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "tph_take_on",
+   "word": "take on",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɑːn/",
+   "level": "TOEIC",
+   "meaning": "đảm nhận; tuyển",
+   "definition": "to accept work; to employ",
+   "collocations": [
+    "take on more work",
+    "take on staff"
+   ],
+   "examples": [
+    {
+     "en": "I can't *take on* any more projects right now.",
+     "vi": "Hiện tôi không thể nhận thêm dự án nào."
+    }
+   ]
+  },
+  {
+   "id": "tph_run_out_of",
+   "word": "run out of",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˈaʊt əv/",
+   "level": "TOEIC",
+   "meaning": "hết (cái gì)",
+   "definition": "to use all of something",
+   "collocations": [
+    "run out of paper",
+    "run out of time"
+   ],
+   "examples": [
+    {
+     "en": "We've *run out of* printer paper.",
+     "vi": "Chúng ta hết giấy in rồi."
+    }
+   ]
+  },
+  {
+   "id": "tph_look_over",
+   "word": "look over",
+   "pos": "verb",
+   "ipa": "/ˌlʊk ˈoʊvər/",
+   "level": "TOEIC",
+   "meaning": "xem qua, rà soát",
+   "definition": "to check quickly",
+   "collocations": [
+    "look over a document"
+   ],
+   "examples": [
+    {
+     "en": "Could you *look over* my report before I send it?",
+     "vi": "Bạn xem qua báo cáo giúp tôi trước khi gửi được không?"
+    }
+   ]
+  },
+  {
+   "id": "tph_go_over",
+   "word": "go over",
+   "pos": "verb",
+   "ipa": "/ˌɡoʊ ˈoʊvər/",
+   "level": "TOEIC",
+   "meaning": "xem lại, điểm qua",
+   "definition": "to examine or explain carefully",
+   "collocations": [
+    "go over the details"
+   ],
+   "examples": [
+    {
+     "en": "Let's *go over* the schedule one more time.",
+     "vi": "Hãy xem lại lịch trình một lần nữa."
+    }
+   ]
+  },
+  {
+   "id": "tph_fill_in",
+   "word": "fill in",
+   "pos": "verb",
+   "ipa": "/ˌfɪl ˈɪn/",
+   "level": "TOEIC",
+   "meaning": "điền; làm thay",
+   "definition": "to complete a form; to do someone's job",
+   "collocations": [
+    "fill in a form",
+    "fill in for someone"
+   ],
+   "examples": [
+    {
+     "en": "Please *fill in* your name and address.",
+     "vi": "Vui lòng điền tên và địa chỉ."
+    }
+   ]
+  },
+  {
+   "id": "tph_hand_in",
+   "word": "hand in",
+   "pos": "verb",
+   "ipa": "/ˌhænd ˈɪn/",
+   "level": "TOEIC",
+   "meaning": "nộp",
+   "definition": "to give work to someone in authority",
+   "collocations": [
+    "hand in a report"
+   ],
+   "examples": [
+    {
+     "en": "Please *hand in* your timesheets by Friday.",
+     "vi": "Vui lòng nộp bảng chấm công trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tph_hand_out",
+   "word": "hand out",
+   "pos": "verb",
+   "ipa": "/ˌhænd ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "phát",
+   "definition": "to give to each person in a group",
+   "collocations": [
+    "hand out leaflets"
+   ],
+   "examples": [
+    {
+     "en": "A woman is *handing out* brochures.",
+     "vi": "Một người phụ nữ đang phát tờ giới thiệu."
+    }
+   ]
+  },
+  {
+   "id": "tph_turn_down",
+   "word": "turn down",
+   "pos": "verb",
+   "ipa": "/ˌtɜːrn ˈdaʊn/",
+   "level": "TOEIC",
+   "meaning": "từ chối; vặn nhỏ",
+   "definition": "to refuse; to reduce volume",
+   "collocations": [
+    "turn down an offer",
+    "turn down the music"
+   ],
+   "examples": [
+    {
+     "en": "She *turned down* the job offer.",
+     "vi": "Cô ấy đã từ chối lời mời làm việc."
+    }
+   ]
+  },
+  {
+   "id": "tph_put_off",
+   "word": "put off",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "trì hoãn",
+   "definition": "to postpone",
+   "collocations": [
+    "put off a meeting"
+   ],
+   "examples": [
+    {
+     "en": "We had to *put off* the launch until June.",
+     "vi": "Chúng tôi phải hoãn buổi ra mắt đến tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tph_bring_up",
+   "word": "bring up",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "nêu ra",
+   "definition": "to mention a subject",
+   "collocations": [
+    "bring up an issue"
+   ],
+   "examples": [
+    {
+     "en": "I'll *bring up* the budget at the meeting.",
+     "vi": "Tôi sẽ nêu vấn đề ngân sách trong cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "tph_come_up_with",
+   "word": "come up with",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈʌp wɪð/",
+   "level": "TOEIC",
+   "meaning": "nghĩ ra",
+   "definition": "to think of an idea",
+   "collocations": [
+    "come up with a solution"
+   ],
+   "examples": [
+    {
+     "en": "We need to *come up with* a new slogan.",
+     "vi": "Chúng ta cần nghĩ ra khẩu hiệu mới."
+    }
+   ]
+  },
+  {
+   "id": "tph_deal_with",
+   "word": "deal with",
+   "pos": "verb",
+   "ipa": "/ˈdiːl wɪð/",
+   "level": "TOEIC",
+   "meaning": "giải quyết, xử lý",
+   "definition": "to take action about a problem",
+   "collocations": [
+    "deal with complaints"
+   ],
+   "examples": [
+    {
+     "en": "She *deals with* customer complaints.",
+     "vi": "Cô ấy xử lý các khiếu nại của khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "tph_check_in_with",
+   "word": "check in with",
+   "pos": "verb",
+   "ipa": "/ˌtʃek ˈɪn wɪð/",
+   "level": "TOEIC",
+   "meaning": "hỏi thăm tình hình",
+   "definition": "to talk to someone to see how things are",
+   "collocations": [
+    "check in with the team"
+   ],
+   "examples": [
+    {
+     "en": "I'll *check in with* you tomorrow about the report.",
+     "vi": "Mai tôi sẽ hỏi bạn tình hình báo cáo."
+    }
+   ]
+  },
+  {
+   "id": "tph_catch_up",
+   "word": "catch up",
+   "pos": "verb",
+   "ipa": "/ˌkætʃ ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "bắt kịp; trò chuyện cập nhật",
+   "definition": "to reach the same level; to talk about recent news",
+   "collocations": [
+    "catch up on work",
+    "catch up with someone"
+   ],
+   "examples": [
+    {
+     "en": "I need to *catch up* on my e-mails.",
+     "vi": "Tôi cần xử lý cho kịp các e-mail tồn đọng."
+    }
+   ]
+  },
+  {
+   "id": "tph_fall_behind",
+   "word": "fall behind",
+   "pos": "verb",
+   "ipa": "/ˌfɔːl bɪˈhaɪnd/",
+   "level": "TOEIC",
+   "meaning": "tụt lại phía sau",
+   "definition": "to fail to keep up",
+   "collocations": [
+    "fall behind schedule"
+   ],
+   "examples": [
+    {
+     "en": "We can't afford to *fall behind* schedule.",
+     "vi": "Chúng ta không thể để chậm tiến độ."
+    }
+   ]
+  },
+  {
+   "id": "tph_keep_up_with",
+   "word": "keep up with",
+   "pos": "verb",
+   "ipa": "/ˌkiːp ˈʌp wɪð/",
+   "level": "TOEIC",
+   "meaning": "theo kịp",
+   "definition": "to stay at the same level as",
+   "collocations": [
+    "keep up with demand"
+   ],
+   "examples": [
+    {
+     "en": "The factory can't *keep up with* demand.",
+     "vi": "Nhà máy không theo kịp nhu cầu."
+    }
+   ]
+  },
+  {
+   "id": "tph_point_out",
+   "word": "point out",
+   "pos": "verb",
+   "ipa": "/ˌpɔɪnt ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "chỉ ra",
+   "definition": "to tell someone about a fact",
+   "collocations": [
+    "point out a mistake"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for *pointing out* the error.",
+     "vi": "Cảm ơn bạn đã chỉ ra lỗi."
+    }
+   ]
+  },
+  {
+   "id": "tph_work_out",
+   "word": "work out",
+   "pos": "verb",
+   "ipa": "/ˌwɜːrk ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "giải quyết; tính ra; tập thể dục",
+   "definition": "to solve; to calculate; to exercise",
+   "collocations": [
+    "work out a plan",
+    "things worked out"
+   ],
+   "examples": [
+    {
+     "en": "Don't worry, everything will *work out*.",
+     "vi": "Đừng lo, mọi việc sẽ ổn thôi."
+    }
+   ]
+  },
+  {
+   "id": "tph_draw_up",
+   "word": "draw up",
+   "pos": "verb",
+   "ipa": "/ˌdrɔː ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "soạn thảo",
+   "definition": "to prepare a written document",
+   "collocations": [
+    "draw up a contract",
+    "draw up a plan"
+   ],
+   "examples": [
+    {
+     "en": "Our lawyer will *draw up* the contract.",
+     "vi": "Luật sư của chúng tôi sẽ soạn hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tph_sign_off_on",
+   "word": "sign off on",
+   "pos": "verb",
+   "ipa": "/ˌsaɪn ˈɔːf ɑːn/",
+   "level": "TOEIC",
+   "meaning": "phê duyệt",
+   "definition": "to give official approval",
+   "collocations": [
+    "sign off on a budget"
+   ],
+   "examples": [
+    {
+     "en": "The director needs to *sign off on* the budget.",
+     "vi": "Giám đốc cần phê duyệt ngân sách."
+    }
+   ]
+  },
+  {
+   "id": "tph_set_aside",
+   "word": "set aside",
+   "pos": "verb",
+   "ipa": "/ˌset əˈsaɪd/",
+   "level": "TOEIC",
+   "meaning": "để dành",
+   "definition": "to keep for a purpose",
+   "collocations": [
+    "set aside time",
+    "set aside money"
+   ],
+   "examples": [
+    {
+     "en": "*Set aside* 30 minutes a day for English.",
+     "vi": "Hãy dành ra 30 phút mỗi ngày cho tiếng Anh."
+    }
+   ]
+  },
+  {
+   "id": "tph_cut_back_on",
+   "word": "cut back on",
+   "pos": "verb",
+   "ipa": "/ˌkʌt ˈbæk ɑːn/",
+   "level": "TOEIC",
+   "meaning": "cắt giảm",
+   "definition": "to reduce",
+   "collocations": [
+    "cut back on spending"
+   ],
+   "examples": [
+    {
+     "en": "We need to *cut back on* travel costs.",
+     "vi": "Chúng ta cần cắt giảm chi phí đi lại."
+    }
+   ]
+  },
+  {
+   "id": "tph_lay_out",
+   "word": "lay out",
+   "pos": "verb",
+   "ipa": "/ˌleɪ ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "trình bày; sắp đặt",
+   "definition": "to explain clearly; to arrange",
+   "collocations": [
+    "lay out a plan"
+   ],
+   "examples": [
+    {
+     "en": "The manager *laid out* the plan for next year.",
+     "vi": "Quản lý trình bày kế hoạch năm tới."
+    }
+   ]
+  },
+  {
+   "id": "tph_phase_out",
+   "word": "phase out",
+   "pos": "verb",
+   "ipa": "/ˌfeɪz ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "loại bỏ dần",
+   "definition": "to stop using gradually",
+   "collocations": [
+    "phase out old models"
+   ],
+   "examples": [
+    {
+     "en": "The company is *phasing out* paper invoices.",
+     "vi": "Công ty đang loại bỏ dần hóa đơn giấy."
+    }
+   ]
+  },
+  {
+   "id": "tph_roll_out",
+   "word": "roll out",
+   "pos": "verb",
+   "ipa": "/ˌroʊl ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "triển khai",
+   "definition": "to introduce a new product or service",
+   "collocations": [
+    "roll out a new system"
+   ],
+   "examples": [
+    {
+     "en": "The new app will be *rolled out* next month.",
+     "vi": "Ứng dụng mới sẽ được triển khai tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "tph_step_down",
+   "word": "step down",
+   "pos": "verb",
+   "ipa": "/ˌstep ˈdaʊn/",
+   "level": "TOEIC",
+   "meaning": "từ chức",
+   "definition": "to leave an important job",
+   "collocations": [
+    "step down as CEO"
+   ],
+   "examples": [
+    {
+     "en": "The CEO will *step down* in December.",
+     "vi": "Giám đốc sẽ từ chức vào tháng Mười Hai."
+    }
+   ]
+  },
+  {
+   "id": "tph_take_part_in",
+   "word": "take part in",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈpɑːrt ɪn/",
+   "level": "TOEIC",
+   "meaning": "tham gia",
+   "definition": "to participate",
+   "collocations": [
+    "take part in a workshop"
+   ],
+   "examples": [
+    {
+     "en": "Over 100 employees *took part in* the training.",
+     "vi": "Hơn 100 nhân viên đã tham gia buổi đào tạo."
+    }
+   ]
+  },
+  {
+   "id": "tph_turn_in",
+   "word": "turn in",
+   "pos": "verb",
+   "ipa": "/ˌtɜːrn ˈɪn/",
+   "level": "TOEIC",
+   "meaning": "nộp",
+   "definition": "to give work to a teacher or manager",
+   "collocations": [
+    "turn in a report"
+   ],
+   "examples": [
+    {
+     "en": "Please *turn in* your forms by noon.",
+     "vi": "Vui lòng nộp mẫu đơn trước buổi trưa."
+    }
+   ]
+  },
+  {
+   "id": "tph_turn_out",
+   "word": "turn out",
+   "pos": "verb",
+   "ipa": "/ˌtɜːrn ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "hóa ra; có mặt",
+   "definition": "to happen in a particular way; to come to an event",
+   "collocations": [
+    "it turned out that"
+   ],
+   "examples": [
+    {
+     "en": "The meeting *turned out* to be very useful.",
+     "vi": "Cuộc họp hóa ra rất hữu ích."
+    }
+   ]
+  },
+  {
+   "id": "tph_show_around",
+   "word": "show around",
+   "pos": "verb",
+   "ipa": "/ˌʃoʊ əˈraʊnd/",
+   "level": "TOEIC",
+   "meaning": "dẫn đi tham quan",
+   "definition": "to guide someone around a place",
+   "collocations": [
+    "show someone around the office"
+   ],
+   "examples": [
+    {
+     "en": "A guide will *show around* the new staff at 10 a.m.",
+     "vi": "Một hướng dẫn viên sẽ dẫn nhân viên mới đi tham quan lúc 10 giờ sáng."
+    }
+   ],
+   "note": "Thường nói: Let me show you around."
+  },
+  {
+   "id": "tph_get_through",
+   "word": "get through",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "level": "TOEIC",
+   "meaning": "gọi được; vượt qua",
+   "definition": "to reach someone by phone; to finish",
+   "collocations": [
+    "get through to",
+    "get through the day"
+   ],
+   "examples": [
+    {
+     "en": "I tried calling but couldn't *get through*.",
+     "vi": "Tôi gọi nhưng không liên lạc được."
+    }
+   ]
+  },
+  {
+   "id": "tph_hang_up",
+   "word": "hang up",
+   "pos": "verb",
+   "ipa": "/ˌhæŋ ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "cúp máy",
+   "definition": "to end a phone call",
+   "collocations": [
+    "don't hang up"
+   ],
+   "examples": [
+    {
+     "en": "Please don't *hang up*; I'll transfer you.",
+     "vi": "Xin đừng cúp máy, tôi sẽ chuyển cuộc gọi."
+    }
+   ]
+  },
+  {
+   "id": "tph_hold_on",
+   "word": "hold on",
+   "pos": "verb",
+   "ipa": "/ˌhoʊld ˈɑːn/",
+   "level": "TOEIC",
+   "meaning": "chờ máy, đợi",
+   "definition": "to wait",
+   "collocations": [
+    "hold on a moment"
+   ],
+   "examples": [
+    {
+     "en": "*Hold on* a moment, please.",
+     "vi": "Vui lòng đợi một chút."
+    }
+   ]
+  },
+  {
+   "id": "tph_run_into",
+   "word": "run into",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˈɪntuː/",
+   "level": "TOEIC",
+   "meaning": "gặp phải; tình cờ gặp",
+   "definition": "to experience a problem; to meet by chance",
+   "collocations": [
+    "run into problems",
+    "run into a friend"
+   ],
+   "examples": [
+    {
+     "en": "We *ran into* some problems with the software.",
+     "vi": "Chúng tôi gặp một số vấn đề với phần mềm."
+    }
+   ]
+  },
+  {
+   "id": "tph_stand_out",
+   "word": "stand out",
+   "pos": "verb",
+   "ipa": "/ˌstænd ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "nổi bật",
+   "definition": "to be easy to notice",
+   "collocations": [
+    "stand out from the crowd"
+   ],
+   "examples": [
+    {
+     "en": "Her application *stood out* from the others.",
+     "vi": "Hồ sơ của cô ấy nổi bật hơn các hồ sơ khác."
+    }
+   ]
+  },
+  {
+   "id": "tph_wrap_up",
+   "word": "wrap up",
+   "pos": "verb",
+   "ipa": "/ˌræp ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "kết thúc",
+   "definition": "to finish",
+   "collocations": [
+    "wrap up a meeting"
+   ],
+   "examples": [
+    {
+     "en": "Let's *wrap up* the meeting; it's almost 5.",
+     "vi": "Chúng ta kết thúc cuộc họp thôi, gần 5 giờ rồi."
+    }
+   ]
+  },
+  {
+   "id": "tph_follow_through",
+   "word": "follow through",
+   "pos": "verb",
+   "ipa": "/ˌfɑːloʊ ˈθruː/",
+   "level": "TOEIC",
+   "meaning": "thực hiện đến cùng",
+   "definition": "to complete something you started or promised",
+   "collocations": [
+    "follow through on a promise"
+   ],
+   "examples": [
+    {
+     "en": "It's important to *follow through* on your promises.",
+     "vi": "Điều quan trọng là thực hiện đến cùng lời hứa của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tph_reach_out",
+   "word": "reach out",
+   "pos": "verb",
+   "ipa": "/ˌriːtʃ ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "liên hệ",
+   "definition": "to contact someone, often to offer help",
+   "collocations": [
+    "reach out to customers"
+   ],
+   "examples": [
+    {
+     "en": "Feel free to *reach out* if you need anything.",
+     "vi": "Cứ liên hệ nếu bạn cần gì nhé."
+    }
+   ]
+  },
+  {
+   "id": "tph_fill_up",
+   "word": "fill up",
+   "pos": "verb",
+   "ipa": "/ˌfɪl ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "làm đầy; kín chỗ",
+   "definition": "to become full",
+   "collocations": [
+    "seats fill up quickly"
+   ],
+   "examples": [
+    {
+     "en": "The workshop *fills up* quickly, so register early.",
+     "vi": "Buổi tập huấn nhanh kín chỗ nên hãy đăng ký sớm."
+    }
+   ]
+  },
+  {
+   "id": "tph_set_off",
+   "word": "set off",
+   "pos": "verb",
+   "ipa": "/ˌset ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "khởi hành; kích hoạt",
+   "definition": "to start a journey; to make an alarm ring",
+   "collocations": [
+    "set off early",
+    "set off the alarm"
+   ],
+   "examples": [
+    {
+     "en": "We *set off* for the airport at 6 a.m.",
+     "vi": "Chúng tôi khởi hành ra sân bay lúc 6 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "tph_drop_off",
+   "word": "drop off",
+   "pos": "verb",
+   "ipa": "/ˌdrɑːp ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "đưa đến, để lại",
+   "definition": "to take someone or something somewhere",
+   "collocations": [
+    "drop off a package"
+   ],
+   "examples": [
+    {
+     "en": "I'll *drop off* the documents at your office.",
+     "vi": "Tôi sẽ để tài liệu ở văn phòng bạn."
+    }
+   ]
+  },
+  {
+   "id": "tph_line_up",
+   "word": "line up",
+   "pos": "verb",
+   "ipa": "/ˌlaɪn ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "xếp hàng; sắp xếp",
+   "definition": "to stand in a line; to arrange",
+   "collocations": [
+    "line up speakers"
+   ],
+   "examples": [
+    {
+     "en": "People are *lining up* to buy tickets.",
+     "vi": "Mọi người đang xếp hàng mua vé."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

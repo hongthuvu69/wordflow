@@ -1,0 +1,57 @@
+#id: money
+#prefix: mon
+#order: 12
+#icon: 💰
+#title: Money & Economy
+#title_vi: Tiền bạc & Kinh tế
+#desc: Thu nhập, chi phí, vay nợ, thuế, nền kinh tế: từ vựng tài chính cốt lõi cho TOEIC và đọc báo.
+finance | noun | /ˈfaɪnæns/ | tài chính | the management of money | finance department; personal finance; corporate finance | She works in the *finance* department. | Cô ấy làm ở phòng tài chính.
+financial | adjective | /faɪˈnænʃl/ | thuộc tài chính | connected with money | financial report; financial support; financial year | The *financial* report will be released on Monday. | Báo cáo tài chính sẽ được công bố vào thứ Hai.
+fund | noun | /fʌnd/ | quỹ; tiền vốn | an amount of money collected for a purpose | raise funds; lack of funds; investment fund | The school is trying to raise *funds* for a new library. | Trường đang gây quỹ để xây thư viện mới. | Động từ: fund a project = tài trợ dự án.
+funding | noun | /ˈfʌndɪŋ/ | nguồn tài trợ, kinh phí | money provided for a particular purpose | government funding; receive funding; secure funding | The project received *funding* from the city. | Dự án nhận được kinh phí từ thành phố.
+grant | noun | /ɡrænt/ | khoản trợ cấp, tài trợ | money given by a government or organization for a purpose | research grant; apply for a grant; receive a grant | She received a *grant* to study abroad. | Cô ấy nhận được một khoản tài trợ để du học. | Động từ grant = cấp, cho phép (grant permission).
+income | noun | /ˈɪnkʌm/ | thu nhập | money received from work or investments | annual income; low-income families; source of income | Rent takes up a third of my *income*. | Tiền thuê nhà chiếm một phần ba thu nhập của tôi.
+wage | noun | /weɪdʒ/ | tiền công (theo giờ/tuần) | money paid for work, usually weekly or hourly | minimum wage; hourly wage; wage increase | The *minimum wage* will rise next year. | Lương tối thiểu sẽ tăng vào năm tới. | salary = lương tháng/năm cố định; wage = theo giờ/tuần.
+pension | noun | /ˈpenʃn/ | lương hưu | money paid regularly to a retired person | pension plan; state pension; receive a pension | He lives on a small *pension*. | Ông ấy sống bằng khoản lương hưu ít ỏi.
+expense | noun | /ɪkˈspens/ | chi phí, khoản chi | money spent on something | travel expenses; business expenses; at the company's expense | The company will cover all travel *expenses*. | Công ty sẽ chi trả toàn bộ chi phí đi lại. | expense report = báo cáo chi phí (TOEIC).
+spending | noun | /ˈspendɪŋ/ | sự chi tiêu | the amount of money spent | government spending; consumer spending; cut spending | Consumer *spending* rose during the holidays. | Chi tiêu tiêu dùng tăng trong kỳ nghỉ lễ.
+fee | noun | /fiː/ | phí, lệ phí | money paid for a service or to join something | registration fee; late fee; membership fee | There is a small *fee* for late payment. | Có một khoản phí nhỏ nếu thanh toán trễ.
+payment | noun | /ˈpeɪmənt/ | sự thanh toán; khoản tiền trả | an amount of money paid | make a payment; monthly payment; payment method | We accept *payment* by credit card. | Chúng tôi nhận thanh toán bằng thẻ tín dụng.
+credit | noun | /ˈkredɪt/ | tín dụng; sự ghi nhận công lao | an arrangement to pay later; praise for something done | credit card; on credit; take credit for | She deserves *credit* for the success of the project. | Cô ấy xứng đáng được ghi nhận cho thành công của dự án.
+debt | noun | /det/ | món nợ | money that you owe | in debt; pay off a debt; get into debt | It took him five years to pay off his *debt*. | Anh ấy mất 5 năm để trả hết nợ. | Chữ b câm: /det/.
+loan | noun | /loʊn/ | khoản vay | money that a bank lends | take out a loan; bank loan; repay a loan | They took out a *loan* to buy new equipment. | Họ vay ngân hàng để mua thiết bị mới.
+owe | verb | /oʊ/ | nợ | to have to pay money back to someone | owe money; owe someone a favour | I still *owe* you $20 for lunch. | Tôi vẫn còn nợ bạn 20 đô tiền ăn trưa.
+mortgage | noun | /ˈmɔːrɡɪdʒ/ | khoản vay mua nhà | a loan to buy a house | take out a mortgage; pay off the mortgage; mortgage rate | They pay their *mortgage* every month. | Họ trả tiền vay mua nhà hàng tháng. | Chữ t câm: MOR-gij.
+deposit | noun | /dɪˈpɑːzɪt/ | tiền đặt cọc; tiền gửi | money paid first as part of a payment; money put in a bank | pay a deposit; security deposit; make a deposit | A 10% *deposit* is required to book the room. | Cần đặt cọc 10% để đặt phòng.
+saving | noun | /ˈseɪvɪŋ/ | tiền tiết kiệm; sự tiết kiệm | money you keep; an amount not spent | savings account; cost savings; life savings | The new system will bring big cost *savings*. | Hệ thống mới sẽ giúp tiết kiệm chi phí đáng kể.
+tax | noun | /tæks/ | thuế | money paid to the government | income tax; pay tax; tax rate; including tax | All prices include *tax*. | Tất cả giá đã bao gồm thuế.
+currency | noun | /ˈkɜːrənsi/ | tiền tệ | the money used in a country | foreign currency; local currency; exchange currency | You can pay in local *currency* or US dollars. | Bạn có thể trả bằng tiền địa phương hoặc đô la Mỹ.
+coin | noun | /kɔɪn/ | đồng xu | a small flat piece of metal used as money | a gold coin; insert a coin | Insert a *coin* to start the machine. | Bỏ một đồng xu để khởi động máy.
+economy | noun | /ɪˈkɑːnəmi/ | nền kinh tế | the system of money, trade and industry of a country | the global economy; a strong economy; boost the economy | Tourism is important for the local *economy*. | Du lịch quan trọng với nền kinh tế địa phương. | economy class = hạng phổ thông.
+economic | adjective | /ˌiːkəˈnɑːmɪk/ | thuộc kinh tế | connected with the economy | economic growth; economic crisis; economic policy | The country has seen strong *economic* growth. | Đất nước có tăng trưởng kinh tế mạnh. | economical = tiết kiệm (an economical car).
+economics | noun | /ˌiːkəˈnɑːmɪks/ | kinh tế học | the study of how money, trade and industry work | study economics; a degree in economics | She has a degree in *economics*. | Cô ấy có bằng kinh tế học.
+economist | noun | /ɪˈkɑːnəmɪst/ | nhà kinh tế học | an expert in economics | a leading economist; economists predict | *Economists* predict that prices will rise. | Các nhà kinh tế dự đoán giá cả sẽ tăng.
+inflation | noun | /ɪnˈfleɪʃn/ | lạm phát | a general rise in prices | high inflation; inflation rate; control inflation | *Inflation* reached 4% last year. | Lạm phát đạt 4% năm ngoái.
+recession | noun | /rɪˈseʃn/ | suy thoái kinh tế | a period when the economy is doing badly | economic recession; in recession; during the recession | Many firms closed during the *recession*. | Nhiều công ty đóng cửa trong thời kỳ suy thoái.
+wealth | noun | /welθ/ | sự giàu có, của cải | a large amount of money or property | great wealth; create wealth; the distribution of wealth | Tourism has brought *wealth* to the region. | Du lịch đã mang lại sự giàu có cho vùng này.
+wealthy | adjective | /ˈwelθi/ | giàu có | having a lot of money | a wealthy family; wealthy customers | The resort attracts *wealthy* tourists. | Khu nghỉ dưỡng thu hút du khách giàu có.
+fortune | noun | /ˈfɔːrtʃən/ | tài sản lớn; vận may | a large amount of money; luck | make a fortune; cost a fortune; good fortune | That watch must have cost a *fortune*. | Cái đồng hồ đó chắc phải tốn cả gia tài.
+billionaire | noun | /ˌbɪljəˈner/ | tỷ phú | a person who has at least a billion dollars | a tech billionaire; become a billionaire | The *billionaire* donated millions to charity. | Vị tỷ phú đã quyên góp hàng triệu đô cho từ thiện.
+poverty | noun | /ˈpɑːvərti/ | sự nghèo đói | the state of being very poor | live in poverty; reduce poverty; poverty line | The charity helps families living in *poverty*. | Tổ chức từ thiện giúp các gia đình sống trong nghèo khó.
+welfare | noun | /ˈwelfer/ | phúc lợi; sự an sinh | help given to people in need; health and happiness | social welfare; employee welfare; animal welfare | The company cares about employee *welfare*. | Công ty quan tâm đến phúc lợi của nhân viên.
+insurance | noun | /ɪnˈʃʊrəns/ | bảo hiểm | an arrangement where you pay a company and they pay you if something bad happens | health insurance; travel insurance; insurance policy | Does your job include health *insurance*? | Công việc của bạn có bảo hiểm y tế không?
+lottery | noun | /ˈlɑːtəri/ | xổ số | a game where people buy tickets to win money | win the lottery; lottery ticket | He bought a *lottery* ticket on the way home. | Anh ấy mua một tờ vé số trên đường về.
+bet | verb | /bet/ | đánh cược; dám chắc | to risk money on a result; to be sure | bet on; I bet (that) | I *bet* the meeting will run late again. | Tôi dám chắc cuộc họp lại kéo dài nữa cho xem. | Văn nói: "You bet!" = Chắc chắn rồi!
+rent | noun | /rent/ | tiền thuê | money paid regularly to use a place | pay the rent; monthly rent; for rent | The *rent* for the office is $2,000 a month. | Tiền thuê văn phòng là 2.000 đô một tháng.
+property | noun | /ˈprɑːpərti/ | bất động sản; tài sản | a building and its land; things that someone owns | private property; property market; personal property | *Property* prices in the city keep rising. | Giá bất động sản trong thành phố liên tục tăng.
+estate | noun | /ɪˈsteɪt/ | khu đất lớn; tài sản | a large area of land; all the money and property someone owns | real estate; housing estate; estate agent | She works in *real estate*. | Cô ấy làm trong ngành bất động sản.
+valuable | adjective | /ˈvæljuəbl/ | có giá trị, quý | worth a lot of money; very useful | valuable information; valuable experience | The internship gave me *valuable* experience. | Kỳ thực tập cho tôi kinh nghiệm quý giá.
+value | noun | /ˈvæljuː/ | giá trị | how much something is worth | market value; good value for money; increase in value | The hotel offers good *value* for money. | Khách sạn có giá cả xứng đáng với chất lượng.
+rate | noun | /reɪt/ | tỷ lệ; mức giá | a level or speed; a fixed price | interest rate; exchange rate; at a rate of | The bank offers a low interest *rate*. | Ngân hàng đưa ra lãi suất thấp.
+percentage | noun | /pərˈsentɪdʒ/ | tỷ lệ phần trăm | an amount shown as part of 100 | a high percentage; a percentage of | A large *percentage* of our customers are under 30. | Một tỷ lệ lớn khách hàng của chúng tôi dưới 30 tuổi.
+trillion | number | /ˈtrɪljən/ | nghìn tỷ | 1,000,000,000,000 | a trillion dollars | The economy is worth over a *trillion* dollars. | Nền kinh tế này trị giá hơn một nghìn tỷ đô la.
+index | noun | /ˈɪndeks/ | chỉ số; mục lục | a number showing the level of prices; a list at the end of a book | price index; stock index | The stock market *index* fell 2% today. | Chỉ số thị trường chứng khoán giảm 2% hôm nay.
+affordable | adjective | /əˈfɔːrdəbl/ | giá phải chăng | cheap enough for most people to buy | affordable prices; affordable housing | The city needs more *affordable* housing. | Thành phố cần thêm nhà ở giá rẻ.
+annual | adjective | /ˈænjuəl/ | hằng năm | happening once a year | annual report; annual meeting; annual leave | The *annual* meeting will be held in March. | Cuộc họp thường niên sẽ diễn ra vào tháng Ba. | annual leave = phép năm.
+annually | adverb | /ˈænjuəli/ | hằng năm | once a year | be held annually; reviewed annually | Salaries are reviewed *annually*. | Lương được xem xét lại hằng năm.
+purchase | noun | /ˈpɜːrtʃəs/ | sự mua; món hàng đã mua | the act of buying something | make a purchase; proof of purchase; purchase order | Please keep your receipt as proof of *purchase*. | Vui lòng giữ hóa đơn làm bằng chứng mua hàng. | Trang trọng hơn buy. Động từ: purchase tickets.

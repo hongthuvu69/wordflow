@@ -1,0 +1,55 @@
+#id: toeic_hr
+#prefix: thr
+#order: 53
+#icon: 🤝
+#title: TOEIC: HR & Recruitment
+#title_vi: TOEIC: Nhân sự & Tuyển dụng
+#desc: Tin tuyển dụng, phỏng vấn, hợp đồng lao động, lương thưởng, đánh giá: nhóm từ dày đặc trong Part 7.
+résumé | noun | /ˈrezəmeɪ/ | sơ yếu lý lịch | a document listing your education and work experience | submit a résumé; update your résumé | Please send your *résumé* to hr@company.com. | Vui lòng gửi sơ yếu lý lịch đến hr@company.com. | Anh-Anh: CV.
+cover letter | noun | /ˈkʌvər ˌletər/ | thư xin việc | a letter sent with a job application | write a cover letter | Include a *cover letter* explaining why you want the job. | Gửi kèm thư xin việc giải thích vì sao bạn muốn công việc này.
+vacancy | noun | /ˈveɪkənsi/ | vị trí trống; phòng trống | a job that is available; a free room | job vacancy; fill a vacancy; no vacancies | We have a *vacancy* for a sales assistant. | Chúng tôi có một vị trí trống cho trợ lý bán hàng.
+job opening | noun | /ˈdʒɑːb ˌoʊpənɪŋ/ | vị trí tuyển dụng | an available job | current job openings | Check our website for current *job openings*. | Xem website để biết các vị trí đang tuyển.
+job description | noun | /ˈdʒɑːb dɪˌskrɪpʃn/ | bản mô tả công việc | a list of the duties of a job | read the job description | The *job description* lists all the main duties. | Bản mô tả công việc liệt kê mọi nhiệm vụ chính.
+pool | noun | /puːl/ | nhóm ứng viên | a group of people available for something | a strong pool of candidates | We have a strong *pool* of candidates this year. | Năm nay chúng tôi có nhóm ứng viên mạnh.
+shortlist | verb | /ˈʃɔːrtlɪst/ | đưa vào danh sách rút gọn | to put on a final list of candidates | be shortlisted for | Five applicants were *shortlisted* for interviews. | Năm ứng viên được chọn vào vòng phỏng vấn.
+interviewer | noun | /ˈɪntərvjuːər/ | người phỏng vấn | a person who asks questions in an interview | the interviewer asked | The *interviewer* asked about my experience. | Người phỏng vấn hỏi về kinh nghiệm của tôi.
+interviewee | noun | /ˌɪntərvjuːˈiː/ | người được phỏng vấn | a person being interviewed | each interviewee | Each *interviewee* will meet two managers. | Mỗi người được phỏng vấn sẽ gặp hai quản lý.
+hiring | noun | /ˈhaɪərɪŋ/ | việc tuyển dụng | employing new people | hiring manager; hiring freeze | The *hiring* manager will contact you next week. | Quản lý tuyển dụng sẽ liên hệ bạn tuần sau.
+job offer | noun | /ˈdʒɑːb ˌɔːfər/ | lời mời làm việc | an offer of a job | accept a job offer; turn down an offer | She accepted the *job offer* yesterday. | Cô ấy đã nhận lời mời làm việc hôm qua.
+starting salary | noun | /ˌstɑːrtɪŋ ˈsæləri/ | mức lương khởi điểm | the pay at the beginning of a job | a starting salary of | The *starting salary* is $1,200 a month. | Lương khởi điểm là 1.200 đô một tháng.
+payroll | noun | /ˈpeɪroʊl/ | bảng lương; bộ phận tính lương | the list of employees and their pay | on the payroll; payroll department | Contact *payroll* if your salary is wrong. | Liên hệ bộ phận tính lương nếu lương của bạn bị sai.
+paycheck | noun | /ˈpeɪtʃek/ | phiếu lương, tiền lương | the money paid to an employee | monthly paycheck | The bonus will be added to your next *paycheck*. | Tiền thưởng sẽ được cộng vào kỳ lương tới.
+bonus | noun | /ˈboʊnəs/ | tiền thưởng | extra money for good work | annual bonus; performance bonus | All staff received a year-end *bonus*. | Toàn bộ nhân viên được thưởng cuối năm.
+raise | noun | /reɪz/ | sự tăng lương | an increase in pay | get a raise; ask for a raise | She asked her manager for a *raise*. | Cô ấy đề nghị quản lý tăng lương.
+compensation | noun | /ˌkɑːmpenˈseɪʃn/ | lương thưởng; tiền bồi thường | pay and benefits; money for loss or damage | compensation package; receive compensation | The *compensation* package includes health insurance. | Gói lương thưởng bao gồm bảo hiểm y tế.
+reimburse | verb | /ˌriːɪmˈbɜːrs/ | hoàn trả (chi phí) | to pay back money spent for work | be reimbursed for | You will be *reimbursed* for travel expenses. | Bạn sẽ được hoàn trả chi phí đi lại.
+reimbursement | noun | /ˌriːɪmˈbɜːrsmənt/ | sự hoàn trả chi phí | paying back money spent | request reimbursement | Submit receipts for *reimbursement* within 30 days. | Nộp hóa đơn để được hoàn tiền trong vòng 30 ngày.
+appraisal | noun | /əˈpreɪzl/ | sự đánh giá (nhân viên) | a meeting to judge an employee's work | annual appraisal; performance appraisal | My annual *appraisal* is next week. | Buổi đánh giá năm của tôi diễn ra tuần sau.
+orientation | noun | /ˌɔːriənˈteɪʃn/ | buổi định hướng (nhân viên mới) | an introduction for new staff or students | new employee orientation; attend orientation | New staff must attend *orientation* on Monday. | Nhân viên mới phải dự buổi định hướng vào thứ Hai.
+onboarding | noun | /ˈɑːnbɔːrdɪŋ/ | quy trình hội nhập nhân viên mới | helping new employees start their job | onboarding process | The *onboarding* process takes two weeks. | Quy trình hội nhập nhân viên mới mất hai tuần.
+probation | noun | /proʊˈbeɪʃn/ | thời gian thử việc | a period of testing a new employee | on probation; probation period | New employees have a three-month *probation* period. | Nhân viên mới có thời gian thử việc ba tháng.
+maternity leave | noun | /məˈtɜːrnəti liːv/ | nghỉ thai sản | time off for a mother after a birth | on maternity leave | She is on *maternity leave* until March. | Cô ấy nghỉ thai sản đến tháng Ba.
+sick leave | noun | /ˈsɪk liːv/ | nghỉ ốm | time off work because of illness | take sick leave | Employees get ten days of paid *sick leave*. | Nhân viên có mười ngày nghỉ ốm hưởng lương.
+time off | noun | /ˌtaɪm ˈɔːf/ | thời gian nghỉ | time away from work | take time off; request time off | I'd like to request some *time off* in May. | Tôi muốn xin nghỉ vài ngày vào tháng Năm.
+vacation | noun | /veɪˈkeɪʃn/ | kỳ nghỉ | time away from work for rest or travel | on vacation; paid vacation | He's on *vacation* this week. | Tuần này anh ấy đi nghỉ.
+benefits package | noun | /ˈbenɪfɪts ˌpækɪdʒ/ | gói phúc lợi | all the extras an employer gives | a generous benefits package | We offer a competitive salary and *benefits package*. | Chúng tôi có lương và gói phúc lợi cạnh tranh.
+employee | noun | /ɪmˈplɔɪiː/ | nhân viên | a person paid to work for a company | full-time employees; employee of the month | She was named *employee* of the month. | Cô ấy được bình chọn là nhân viên xuất sắc tháng.
+employer | noun | /ɪmˈplɔɪər/ | chủ lao động | a person or company that employs people | a major employer; previous employer | The hospital is the largest *employer* in town. | Bệnh viện là nơi tuyển dụng lớn nhất thị trấn.
+employ | verb | /ɪmˈplɔɪ/ | thuê, tuyển dụng | to pay someone to work for you | employ staff; be employed by | The factory *employs* 500 people. | Nhà máy thuê 500 người.
+lay off | verb | /ˌleɪ ˈɔːf/ | cho nghỉ việc (cắt giảm) | to stop employing workers because there is not enough work | be laid off | The company *laid off* 100 workers. | Công ty cắt giảm 100 công nhân.
+transfer request | noun | /rɪˈkwest/ | đơn xin chuyển công tác | asking to move to another office or job | submit a transfer request | She submitted a *transfer request* to the Tokyo office. | Cô ấy nộp đơn xin chuyển sang văn phòng Tokyo.
+relocate | verb | /ˌriːˈloʊkeɪt/ | chuyển đến nơi mới | to move to a new place | relocate to; relocate the office | The company will *relocate* its headquarters to Da Nang. | Công ty sẽ chuyển trụ sở chính tới Đà Nẵng.
+relocation | noun | /ˌriːloʊˈkeɪʃn/ | sự chuyển địa điểm | moving to a new place | relocation costs; relocation package | The company pays *relocation* costs for new hires. | Công ty trả chi phí chuyển chỗ ở cho nhân viên mới.
+reference check | noun | /ˈrefrəns tʃek/ | việc kiểm tra người giới thiệu | contacting previous employers about a candidate | carry out reference checks | We will do *reference checks* before making an offer. | Chúng tôi sẽ kiểm tra người giới thiệu trước khi mời làm việc.
+gap | noun | /ɡæp/ | khoảng trống; chênh lệch | a space or difference | a gap in employment; skills gap | Please explain the *gap* in your employment history. | Vui lòng giải thích khoảng trống trong quá trình làm việc của bạn.
+proficiency | noun | /prəˈfɪʃnsi/ | sự thành thạo | a high level of skill | language proficiency; proficiency in | *Proficiency* in English is required. | Yêu cầu thành thạo tiếng Anh.
+proficient | adjective | /prəˈfɪʃnt/ | thành thạo | skilled | proficient in; proficient at | Applicants must be *proficient* in Excel. | Ứng viên phải thành thạo Excel.
+preferred | adjective | /prɪˈfɜːrd/ | ưu tiên | liked more; wanted more | experience preferred; preferred qualifications | Experience in sales is *preferred*. | Ưu tiên ứng viên có kinh nghiệm bán hàng.
+eligible | adjective | /ˈelɪdʒəbl/ | đủ điều kiện | having the right to do or receive something | eligible for; eligible to apply | Full-time staff are *eligible* for the bonus. | Nhân viên toàn thời gian đủ điều kiện nhận thưởng.
+eligibility | noun | /ˌelɪdʒəˈbɪləti/ | tính hợp lệ, đủ điều kiện | the state of being eligible | check eligibility | Check your *eligibility* before applying. | Kiểm tra điều kiện của bạn trước khi nộp đơn.
+diligent | adjective | /ˈdɪlɪdʒənt/ | siêng năng | working hard and carefully | a diligent worker | She is a *diligent* and reliable employee. | Cô ấy là nhân viên siêng năng và đáng tin cậy.
+dedicated | adjective | /ˈdedɪkeɪtɪd/ | tận tụy; chuyên dụng | working hard for something; for one purpose | dedicated staff; a dedicated line | We have a *dedicated* team of engineers. | Chúng tôi có một đội kỹ sư tận tụy.
+team player | noun | /ˌtiːm ˈpleɪər/ | người có tinh thần đồng đội | a person who works well with others | be a team player | We are looking for a *team player* with good communication skills. | Chúng tôi tìm người có tinh thần đồng đội và giao tiếp tốt.
+workload | noun | /ˈwɜːrkloʊd/ | khối lượng công việc | the amount of work to do | heavy workload; manage your workload | Hiring two more staff will reduce our *workload*. | Tuyển thêm hai nhân viên sẽ giảm khối lượng công việc.
+turnover | noun | /ˈtɜːrnoʊvər/ | tỷ lệ nghỉ việc; doanh thu | the rate at which staff leave; total sales | staff turnover; annual turnover | High staff *turnover* is costly. | Tỷ lệ nhân viên nghỉ việc cao rất tốn kém.
+morale | noun | /məˈræl/ | tinh thần (tập thể) | the level of confidence of a group | staff morale; boost morale | The team event helped boost *morale*. | Sự kiện tập thể giúp nâng cao tinh thần.

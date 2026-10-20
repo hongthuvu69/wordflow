@@ -1,0 +1,765 @@
+{
+ "id": "toeic_logistics",
+ "order": 56,
+ "icon": "📦",
+ "level": "TOEIC",
+ "title": "TOEIC: Shipping & Logistics",
+ "title_vi": "TOEIC: Vận chuyển & Kho vận",
+ "description": "Gửi hàng, theo dõi đơn, hải quan, giao hàng trễ, kho bãi: chủ đề cực kỳ phổ biến trong email Part 7 và hội thoại Part 3.",
+ "words": [
+  {
+   "id": "tlg_courier",
+   "word": "courier",
+   "pos": "noun",
+   "ipa": "/ˈkʊriər/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ chuyển phát; người giao hàng",
+   "definition": "a company or person that delivers packages quickly",
+   "collocations": [
+    "by courier",
+    "courier service"
+   ],
+   "examples": [
+    {
+     "en": "The documents were sent by *courier*.",
+     "vi": "Tài liệu được gửi qua dịch vụ chuyển phát."
+    }
+   ]
+  },
+  {
+   "id": "tlg_freight",
+   "word": "freight",
+   "pos": "noun",
+   "ipa": "/freɪt/",
+   "level": "TOEIC",
+   "meaning": "hàng hóa vận chuyển; cước",
+   "definition": "goods carried by ship, plane or truck; the cost of this",
+   "collocations": [
+    "air freight",
+    "freight charges"
+   ],
+   "examples": [
+    {
+     "en": "*Freight* charges are included in the price.",
+     "vi": "Cước vận chuyển đã bao gồm trong giá."
+    }
+   ]
+  },
+  {
+   "id": "tlg_parcel",
+   "word": "parcel",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrsl/",
+   "level": "TOEIC",
+   "meaning": "bưu kiện",
+   "definition": "a package sent by post",
+   "collocations": [
+    "send a parcel",
+    "parcel delivery"
+   ],
+   "examples": [
+    {
+     "en": "A *parcel* arrived for you this morning.",
+     "vi": "Có bưu kiện gửi bạn sáng nay."
+    }
+   ]
+  },
+  {
+   "id": "tlg_tracking_number",
+   "word": "tracking number",
+   "pos": "noun",
+   "ipa": "/ˈtrækɪŋ ˌnʌmbər/",
+   "level": "TOEIC",
+   "meaning": "mã vận đơn",
+   "definition": "a number used to follow a delivery",
+   "collocations": [
+    "enter your tracking number"
+   ],
+   "examples": [
+    {
+     "en": "Use your *tracking number* to check the delivery status.",
+     "vi": "Dùng mã vận đơn để kiểm tra tình trạng giao hàng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_dispatch",
+   "word": "dispatch",
+   "pos": "verb",
+   "ipa": "/dɪˈspætʃ/",
+   "level": "TOEIC",
+   "meaning": "gửi đi, điều phối",
+   "definition": "to send goods or people somewhere",
+   "collocations": [
+    "dispatch an order",
+    "be dispatched"
+   ],
+   "examples": [
+    {
+     "en": "Your order was *dispatched* this morning.",
+     "vi": "Đơn hàng của bạn đã được gửi đi sáng nay."
+    }
+   ]
+  },
+  {
+   "id": "tlg_consignment",
+   "word": "consignment",
+   "pos": "noun",
+   "ipa": "/kənˈsaɪnmənt/",
+   "level": "TOEIC",
+   "meaning": "lô hàng gửi",
+   "definition": "a quantity of goods sent together",
+   "collocations": [
+    "a consignment of"
+   ],
+   "examples": [
+    {
+     "en": "A *consignment* of laptops arrived yesterday.",
+     "vi": "Một lô máy tính xách tay đã đến hôm qua."
+    }
+   ]
+  },
+  {
+   "id": "tlg_logistics",
+   "word": "logistics",
+   "pos": "noun",
+   "ipa": "/ləˈdʒɪstɪks/",
+   "level": "TOEIC",
+   "meaning": "hậu cần, kho vận",
+   "definition": "the planning and organizing of moving goods",
+   "collocations": [
+    "logistics company",
+    "event logistics"
+   ],
+   "examples": [
+    {
+     "en": "She manages the *logistics* for the conference.",
+     "vi": "Cô ấy phụ trách hậu cần cho hội nghị."
+    }
+   ]
+  },
+  {
+   "id": "tlg_supply_chain",
+   "word": "supply chain",
+   "pos": "noun",
+   "ipa": "/səˈplaɪ tʃeɪn/",
+   "level": "TOEIC",
+   "meaning": "chuỗi cung ứng",
+   "definition": "the system of making and delivering a product",
+   "collocations": [
+    "supply chain problems"
+   ],
+   "examples": [
+    {
+     "en": "Problems in the *supply chain* delayed production.",
+     "vi": "Sự cố trong chuỗi cung ứng làm chậm sản xuất."
+    }
+   ]
+  },
+  {
+   "id": "tlg_distributor",
+   "word": "distributor",
+   "pos": "noun",
+   "ipa": "/dɪˈstrɪbjətər/",
+   "level": "TOEIC",
+   "meaning": "nhà phân phối",
+   "definition": "a company that supplies goods to shops",
+   "collocations": [
+    "an authorized distributor"
+   ],
+   "examples": [
+    {
+     "en": "We are the official *distributor* in Vietnam.",
+     "vi": "Chúng tôi là nhà phân phối chính thức tại Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "tlg_loading_dock",
+   "word": "loading dock",
+   "pos": "noun",
+   "ipa": "/ˈloʊdɪŋ dɑːk/",
+   "level": "TOEIC",
+   "meaning": "bến bốc dỡ hàng",
+   "definition": "an area where goods are put on or taken off trucks",
+   "collocations": [
+    "at the loading dock"
+   ],
+   "examples": [
+    {
+     "en": "Deliveries should go to the *loading dock*.",
+     "vi": "Hàng giao nên đưa tới bến bốc dỡ."
+    }
+   ]
+  },
+  {
+   "id": "tlg_unload",
+   "word": "unload",
+   "pos": "verb",
+   "ipa": "/ʌnˈloʊd/",
+   "level": "TOEIC",
+   "meaning": "dỡ hàng",
+   "definition": "to remove goods from a vehicle",
+   "collocations": [
+    "unload a truck"
+   ],
+   "examples": [
+    {
+     "en": "Workers are *unloading* boxes from a truck.",
+     "vi": "Công nhân đang dỡ hộp khỏi xe tải."
+    }
+   ],
+   "note": "Part 1 rất hay gặp."
+  },
+  {
+   "id": "tlg_forklift",
+   "word": "forklift",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrklɪft/",
+   "level": "TOEIC",
+   "meaning": "xe nâng",
+   "definition": "a vehicle for lifting heavy goods",
+   "collocations": [
+    "drive a forklift"
+   ],
+   "examples": [
+    {
+     "en": "A man is driving a *forklift* in the warehouse.",
+     "vi": "Một người đàn ông đang lái xe nâng trong kho."
+    }
+   ]
+  },
+  {
+   "id": "tlg_pallet",
+   "word": "pallet",
+   "pos": "noun",
+   "ipa": "/ˈpælət/",
+   "level": "TOEIC",
+   "meaning": "tấm pallet",
+   "definition": "a flat wooden frame for moving goods",
+   "collocations": [
+    "wooden pallets",
+    "on a pallet"
+   ],
+   "examples": [
+    {
+     "en": "The boxes are stacked on *pallets*.",
+     "vi": "Các thùng hàng được xếp trên pallet."
+    }
+   ]
+  },
+  {
+   "id": "tlg_crate",
+   "word": "crate",
+   "pos": "noun",
+   "ipa": "/kreɪt/",
+   "level": "TOEIC",
+   "meaning": "thùng gỗ, két",
+   "definition": "a large box for carrying goods",
+   "collocations": [
+    "a wooden crate"
+   ],
+   "examples": [
+    {
+     "en": "The bottles are packed in *crates*.",
+     "vi": "Các chai được đóng trong thùng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_packaging",
+   "word": "packaging",
+   "pos": "noun",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "level": "TOEIC",
+   "meaning": "bao bì",
+   "definition": "materials used to wrap products",
+   "collocations": [
+    "plastic packaging",
+    "reduce packaging"
+   ],
+   "examples": [
+    {
+     "en": "We use recycled *packaging*.",
+     "vi": "Chúng tôi dùng bao bì tái chế."
+    }
+   ]
+  },
+  {
+   "id": "tlg_fragile",
+   "word": "fragile",
+   "pos": "adjective",
+   "ipa": "/ˈfrædʒl/",
+   "level": "C1",
+   "meaning": "dễ vỡ",
+   "definition": "easily broken",
+   "collocations": [
+    "handle with care: fragile"
+   ],
+   "examples": [
+    {
+     "en": "Mark the box \"*fragile*\".",
+     "vi": "Ghi chữ \"dễ vỡ\" lên thùng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_in_transit",
+   "word": "in transit",
+   "pos": "adjective",
+   "ipa": "/ɪn ˈtrænzɪt/",
+   "level": "TOEIC",
+   "meaning": "đang vận chuyển",
+   "definition": "being moved from one place to another",
+   "collocations": [
+    "goods in transit",
+    "lost in transit"
+   ],
+   "examples": [
+    {
+     "en": "Your order is currently *in transit*.",
+     "vi": "Đơn hàng của bạn đang trên đường vận chuyển."
+    }
+   ]
+  },
+  {
+   "id": "tlg_estimated_arrival",
+   "word": "estimated arrival",
+   "pos": "noun",
+   "ipa": "/ˌestɪmeɪtɪd əˈraɪvl/",
+   "level": "TOEIC",
+   "meaning": "thời gian đến dự kiến",
+   "definition": "the expected time something will arrive",
+   "collocations": [
+    "estimated arrival time"
+   ],
+   "examples": [
+    {
+     "en": "The *estimated arrival* time is 3 p.m.",
+     "vi": "Thời gian đến dự kiến là 3 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tlg_expedite",
+   "word": "expedite",
+   "pos": "verb",
+   "ipa": "/ˈekspədaɪt/",
+   "level": "TOEIC",
+   "meaning": "xúc tiến, đẩy nhanh",
+   "definition": "to make a process happen faster",
+   "collocations": [
+    "expedite delivery",
+    "expedite the process"
+   ],
+   "examples": [
+    {
+     "en": "Can you *expedite* the shipment? We need it by Friday.",
+     "vi": "Bạn có thể giao gấp không? Chúng tôi cần trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tlg_express",
+   "word": "express",
+   "pos": "adjective",
+   "ipa": "/ɪkˈspres/",
+   "level": "A2",
+   "meaning": "hỏa tốc, nhanh",
+   "definition": "fast",
+   "collocations": [
+    "express delivery",
+    "express train"
+   ],
+   "examples": [
+    {
+     "en": "*Express* delivery costs an extra $10.",
+     "vi": "Giao hỏa tốc tốn thêm 10 đô."
+    }
+   ]
+  },
+  {
+   "id": "tlg_overnight_delivery",
+   "word": "overnight delivery",
+   "pos": "noun",
+   "ipa": "/ˌoʊvərnaɪt dɪˈlɪvəri/",
+   "level": "TOEIC",
+   "meaning": "giao hàng qua đêm",
+   "definition": "delivery the next day",
+   "collocations": [
+    "by overnight delivery"
+   ],
+   "examples": [
+    {
+     "en": "Send the contract by *overnight delivery*.",
+     "vi": "Gửi hợp đồng bằng dịch vụ giao trong đêm."
+    }
+   ]
+  },
+  {
+   "id": "tlg_recipient",
+   "word": "recipient",
+   "pos": "noun",
+   "ipa": "/rɪˈsɪpiənt/",
+   "level": "C1",
+   "meaning": "người nhận",
+   "definition": "a person who receives something",
+   "collocations": [
+    "the recipient's address"
+   ],
+   "examples": [
+    {
+     "en": "The *recipient* must sign for the package.",
+     "vi": "Người nhận phải ký nhận gói hàng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_sender",
+   "word": "sender",
+   "pos": "noun",
+   "ipa": "/ˈsendər/",
+   "level": "TOEIC",
+   "meaning": "người gửi",
+   "definition": "a person who sends something",
+   "collocations": [
+    "return to sender"
+   ],
+   "examples": [
+    {
+     "en": "The parcel was returned to the *sender*.",
+     "vi": "Bưu kiện bị trả lại người gửi."
+    }
+   ]
+  },
+  {
+   "id": "tlg_address_label",
+   "word": "address label",
+   "pos": "noun",
+   "ipa": "/ˈædres ˌleɪbl/",
+   "level": "TOEIC",
+   "meaning": "nhãn địa chỉ",
+   "definition": "a label showing where to send something",
+   "collocations": [
+    "print an address label"
+   ],
+   "examples": [
+    {
+     "en": "Attach the *address label* to the top of the box.",
+     "vi": "Dán nhãn địa chỉ lên nắp thùng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_postage",
+   "word": "postage",
+   "pos": "noun",
+   "ipa": "/ˈpoʊstɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "bưu phí",
+   "definition": "the cost of sending something by post",
+   "collocations": [
+    "postage paid",
+    "postage and packing"
+   ],
+   "examples": [
+    {
+     "en": "*Postage* is free for orders over $30.",
+     "vi": "Miễn bưu phí cho đơn trên 30 đô."
+    }
+   ]
+  },
+  {
+   "id": "tlg_signed_for",
+   "word": "signed for",
+   "pos": "adjective",
+   "ipa": "/saɪnd fɔːr/",
+   "level": "TOEIC",
+   "meaning": "ký nhận",
+   "definition": "with a signature needed on delivery",
+   "collocations": [
+    "signed-for delivery"
+   ],
+   "examples": [
+    {
+     "en": "Valuable items are sent by *signed-for* delivery.",
+     "vi": "Hàng giá trị được gửi bằng dịch vụ ký nhận."
+    }
+   ]
+  },
+  {
+   "id": "tlg_backlog",
+   "word": "backlog",
+   "pos": "noun",
+   "ipa": "/ˈbæklɔːɡ/",
+   "level": "TOEIC",
+   "meaning": "lượng việc tồn đọng",
+   "definition": "work that should have been done already",
+   "collocations": [
+    "a backlog of orders"
+   ],
+   "examples": [
+    {
+     "en": "We have a *backlog* of orders after the holiday.",
+     "vi": "Chúng tôi tồn đọng nhiều đơn hàng sau kỳ nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "tlg_fleet",
+   "word": "fleet",
+   "pos": "noun",
+   "ipa": "/fliːt/",
+   "level": "C1",
+   "meaning": "đội xe, đội tàu",
+   "definition": "a group of vehicles owned by one company",
+   "collocations": [
+    "delivery fleet",
+    "a fleet of trucks"
+   ],
+   "examples": [
+    {
+     "en": "The company has a *fleet* of 50 delivery vans.",
+     "vi": "Công ty có đội 50 xe giao hàng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_truck",
+   "word": "truck",
+   "pos": "noun",
+   "ipa": "/trʌk/",
+   "level": "A2",
+   "meaning": "xe tải",
+   "definition": "a large road vehicle for goods",
+   "collocations": [
+    "delivery truck",
+    "truck driver"
+   ],
+   "examples": [
+    {
+     "en": "A delivery *truck* is parked outside.",
+     "vi": "Một xe tải giao hàng đang đỗ bên ngoài."
+    }
+   ]
+  },
+  {
+   "id": "tlg_van",
+   "word": "van",
+   "pos": "noun",
+   "ipa": "/væn/",
+   "level": "A2",
+   "meaning": "xe tải nhỏ",
+   "definition": "a small vehicle for carrying goods",
+   "collocations": [
+    "delivery van"
+   ],
+   "examples": [
+    {
+     "en": "The *van* will arrive between 9 and 12.",
+     "vi": "Xe giao hàng sẽ đến trong khoảng 9 đến 12 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tlg_container_ship",
+   "word": "container ship",
+   "pos": "noun",
+   "ipa": "/kənˈteɪnər ʃɪp/",
+   "level": "TOEIC",
+   "meaning": "tàu container",
+   "definition": "a large ship carrying metal containers",
+   "collocations": [
+    "load a container ship"
+   ],
+   "examples": [
+    {
+     "en": "The goods will travel by *container ship*.",
+     "vi": "Hàng sẽ được chở bằng tàu container."
+    }
+   ]
+  },
+  {
+   "id": "tlg_stockroom",
+   "word": "stockroom",
+   "pos": "noun",
+   "ipa": "/ˈstɑːkruːm/",
+   "level": "TOEIC",
+   "meaning": "kho hàng (cửa hàng)",
+   "definition": "a room where goods are kept",
+   "collocations": [
+    "in the stockroom"
+   ],
+   "examples": [
+    {
+     "en": "Check the *stockroom* for more sizes.",
+     "vi": "Kiểm tra kho để tìm thêm cỡ."
+    }
+   ]
+  },
+  {
+   "id": "tlg_inventory_check",
+   "word": "inventory check",
+   "pos": "noun",
+   "ipa": "/ˈɪnvəntɔːri tʃek/",
+   "level": "TOEIC",
+   "meaning": "kiểm kê hàng",
+   "definition": "counting all the goods in stock",
+   "collocations": [
+    "do an inventory check"
+   ],
+   "examples": [
+    {
+     "en": "The store closes early for an *inventory check*.",
+     "vi": "Cửa hàng đóng sớm để kiểm kê."
+    }
+   ]
+  },
+  {
+   "id": "tlg_outsource",
+   "word": "outsource",
+   "pos": "verb",
+   "ipa": "/ˈaʊtsɔːrs/",
+   "level": "TOEIC",
+   "meaning": "thuê ngoài",
+   "definition": "to pay another company to do work",
+   "collocations": [
+    "outsource production"
+   ],
+   "examples": [
+    {
+     "en": "We *outsource* our delivery to a local company.",
+     "vi": "Chúng tôi thuê ngoài việc giao hàng cho một công ty địa phương."
+    }
+   ]
+  },
+  {
+   "id": "tlg_proof_of_delivery",
+   "word": "proof of delivery",
+   "pos": "noun",
+   "ipa": "/ˌpruːf əv dɪˈlɪvəri/",
+   "level": "TOEIC",
+   "meaning": "bằng chứng giao hàng",
+   "definition": "a document showing goods were delivered",
+   "collocations": [
+    "signed proof of delivery"
+   ],
+   "examples": [
+    {
+     "en": "The driver will ask for *proof of delivery*.",
+     "vi": "Tài xế sẽ yêu cầu xác nhận đã giao hàng."
+    }
+   ]
+  },
+  {
+   "id": "tlg_manifest",
+   "word": "manifest",
+   "pos": "noun",
+   "ipa": "/ˈmænɪfest/",
+   "level": "C1",
+   "meaning": "bảng kê hàng hóa",
+   "definition": "a list of goods or passengers on a ship or plane",
+   "collocations": [
+    "cargo manifest"
+   ],
+   "examples": [
+    {
+     "en": "Check the cargo *manifest* before loading.",
+     "vi": "Kiểm tra bảng kê hàng trước khi xếp."
+    }
+   ]
+  },
+  {
+   "id": "tlg_on_schedule",
+   "word": "on schedule",
+   "pos": "adjective",
+   "ipa": "/ɑːn ˈskedʒuːl/",
+   "level": "TOEIC",
+   "meaning": "đúng tiến độ",
+   "definition": "happening at the planned time",
+   "collocations": [
+    "on schedule",
+    "behind schedule"
+   ],
+   "examples": [
+    {
+     "en": "The shipment is *on schedule*.",
+     "vi": "Lô hàng đang đúng tiến độ."
+    }
+   ]
+  },
+  {
+   "id": "tlg_behind_schedule",
+   "word": "behind schedule",
+   "pos": "adjective",
+   "ipa": "/bɪˌhaɪnd ˈskedʒuːl/",
+   "level": "TOEIC",
+   "meaning": "chậm tiến độ",
+   "definition": "later than planned",
+   "collocations": [
+    "fall behind schedule"
+   ],
+   "examples": [
+    {
+     "en": "Production is two weeks *behind schedule*.",
+     "vi": "Sản xuất chậm tiến độ hai tuần."
+    }
+   ]
+  },
+  {
+   "id": "tlg_ship_date",
+   "word": "ship date",
+   "pos": "noun",
+   "ipa": "/ˈʃɪp deɪt/",
+   "level": "TOEIC",
+   "meaning": "ngày gửi hàng",
+   "definition": "the date goods are sent",
+   "collocations": [
+    "confirm the ship date"
+   ],
+   "examples": [
+    {
+     "en": "Please confirm the *ship date* for our order.",
+     "vi": "Vui lòng xác nhận ngày gửi hàng cho đơn của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tlg_mail_room",
+   "word": "mail room",
+   "pos": "noun",
+   "ipa": "/ˈmeɪl ruːm/",
+   "level": "TOEIC",
+   "meaning": "phòng thư",
+   "definition": "a room in an office where post is handled",
+   "collocations": [
+    "pick up from the mail room"
+   ],
+   "examples": [
+    {
+     "en": "Your package is in the *mail room*.",
+     "vi": "Gói hàng của bạn ở phòng thư."
+    }
+   ]
+  },
+  {
+   "id": "tlg_door_to_door",
+   "word": "door-to-door",
+   "pos": "adjective",
+   "ipa": "/ˌdɔːr tə ˈdɔːr/",
+   "level": "TOEIC",
+   "meaning": "tận nơi",
+   "definition": "from one place directly to another",
+   "collocations": [
+    "door-to-door delivery"
+   ],
+   "examples": [
+    {
+     "en": "We offer *door-to-door* delivery.",
+     "vi": "Chúng tôi giao hàng tận nơi."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

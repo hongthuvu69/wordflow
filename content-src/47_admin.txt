@@ -1,0 +1,63 @@
+#id: admin
+#prefix: adm
+#order: 47
+#icon: 🗂️
+#title: Office Admin & Events
+#title_vi: Hành chính văn phòng & Sự kiện
+#desc: Giấy tờ, chữ ký, hồ sơ, địa điểm tổ chức, ban tổ chức: từ vựng email nội bộ và thông báo sự kiện.
+document | noun | /ˈdɑːkjumənt/ | tài liệu, giấy tờ | an official paper or file | sign a document; legal documents | Please bring all the necessary *documents*. | Vui lòng mang theo mọi giấy tờ cần thiết.
+draft | noun | /dræft/ | bản nháp | an early version of a document | first draft; rough draft | I've attached the first *draft* of the report. | Tôi đã đính kèm bản nháp đầu tiên của báo cáo.
+file | noun | /faɪl/ | hồ sơ; tệp | a folder of documents; computer data | on file; attach a file | We will keep your CV on *file*. | Chúng tôi sẽ lưu CV của bạn trong hồ sơ.
+detail | noun | /ˈdiːteɪl/ | chi tiết | a small fact | for more details; contact details | Please check your contact *details*. | Vui lòng kiểm tra thông tin liên lạc của bạn.
+detailed | adjective | /ˈdiːteɪld/ | chi tiết | giving many details | a detailed report; detailed information | Please send me a *detailed* plan. | Vui lòng gửi tôi một kế hoạch chi tiết.
+signature | noun | /ˈsɪɡnətʃər/ | chữ ký | your name written in your own way | require a signature; e-mail signature | The form needs your *signature* at the bottom. | Mẫu đơn cần chữ ký của bạn ở cuối trang.
+ID | noun | /ˌaɪ ˈdiː/ | giấy tờ tùy thân | identification | photo ID; ID card | Please show your *ID* at reception. | Vui lòng xuất trình giấy tờ tùy thân ở lễ tân.
+identity | noun | /aɪˈdentəti/ | danh tính; bản sắc | who someone is | proof of identity; brand identity | You need proof of *identity* to open an account. | Bạn cần giấy tờ chứng minh danh tính để mở tài khoản.
+queue | noun | /kjuː/ | hàng (người xếp) | a line of people waiting | in a queue; join the queue | There was a long *queue* at the bank. | Có một hàng dài ở ngân hàng. | Anh-Mỹ: line.
+clerk | noun | /klɜːrk/ | thư ký, nhân viên văn phòng/quầy | a person who keeps records or serves customers | bank clerk; hotel clerk | The hotel *clerk* gave us our keys. | Nhân viên lễ tân khách sạn đưa chìa khóa cho chúng tôi.
+panel | noun | /ˈpænl/ | ban (hội thẩm, chuyên gia); tấm | a group of experts; a flat piece | panel discussion; solar panel | A *panel* of experts will answer questions. | Một ban chuyên gia sẽ trả lời câu hỏi.
+forum | noun | /ˈfɔːrəm/ | diễn đàn | a place or meeting for discussion | online forum; business forum | The company hosts a monthly staff *forum*. | Công ty tổ chức diễn đàn nhân viên hằng tháng.
+venue | noun | /ˈvenjuː/ | địa điểm tổ chức | the place where an event happens | conference venue; change of venue | The *venue* for the conference has changed. | Địa điểm hội nghị đã thay đổi.
+convention | noun | /kənˈvenʃn/ | hội nghị lớn; quy ước | a large meeting; an accepted way of behaving | convention centre; social convention | The *convention* centre can hold 5,000 people. | Trung tâm hội nghị chứa được 5.000 người.
+organizer | noun | /ˈɔːrɡənaɪzər/ | ban tổ chức, người tổ chức | a person who arranges an event | event organizer | The *organizers* expect 300 guests. | Ban tổ chức dự kiến 300 khách.
+organized | adjective | /ˈɔːrɡənaɪzd/ | ngăn nắp, có tổ chức | well planned; able to plan well | well organized; get organized | She is very *organized* and never misses a deadline. | Cô ấy rất ngăn nắp và không bao giờ trễ hạn.
+planning | noun | /ˈplænɪŋ/ | việc lập kế hoạch | the process of making plans | event planning; careful planning | The event needs careful *planning*. | Sự kiện cần được lên kế hoạch cẩn thận.
+preparation | noun | /ˌprepəˈreɪʃn/ | sự chuẩn bị | the act of getting ready | in preparation for; preparation time | Good *preparation* is the key to a good presentation. | Chuẩn bị tốt là chìa khóa của bài thuyết trình hay.
+prepared | adjective | /prɪˈperd/ | sẵn sàng | ready; willing | be prepared for; prepared to | Be *prepared* to answer questions after your talk. | Hãy sẵn sàng trả lời câu hỏi sau phần trình bày.
+version | noun | /ˈvɜːrʒn/ | phiên bản | a form of something slightly different | the latest version; updated version | Please use the latest *version* of the form. | Vui lòng dùng phiên bản mới nhất của mẫu đơn.
+print | verb | /prɪnt/ | in | to produce text on paper | print a document; print out | Could you *print* ten copies of the agenda? | Bạn in giúp mười bản chương trình họp được không?
+printing | noun | /ˈprɪntɪŋ/ | việc in ấn | the process of producing printed material | printing costs; colour printing | *Printing* costs have been cut by half. | Chi phí in ấn đã giảm một nửa.
+ink | noun | /ɪŋk/ | mực | coloured liquid for writing and printing | ink cartridge; in black ink | The printer is out of *ink*. | Máy in hết mực.
+marker | noun | /ˈmɑːrkər/ | bút dạ; mốc đánh dấu | a pen with a thick tip; a sign | whiteboard marker | Can you pass me a whiteboard *marker*? | Bạn đưa tôi cây bút viết bảng được không?
+clip | noun | /klɪp/ | cái kẹp; đoạn phim ngắn | a small object for holding things; a short video | paper clip; video clip | Hold the pages together with a paper *clip*. | Kẹp các trang lại bằng kẹp giấy.
+tag | noun | /tæɡ/ | thẻ, nhãn | a small label | name tag; price tag | Please wear your name *tag* at all times. | Vui lòng đeo thẻ tên mọi lúc.
+badge | noun | /bædʒ/ | thẻ đeo, huy hiệu | a small piece of metal or plastic showing your name or job | name badge; security badge | Visitors must wear a *badge*. | Khách đến thăm phải đeo thẻ.
+entrance | noun | /ˈentrəns/ | lối vào | a door or gate to enter | main entrance; side entrance; entrance fee | Please use the side *entrance* during repairs. | Vui lòng dùng lối vào bên hông trong thời gian sửa chữa.
+entry | noun | /ˈentri/ | sự vào; bài dự thi; mục ghi | the act of entering; something entered in a competition or list | no entry; free entry; competition entry | *Entry* to the exhibition is free. | Vào cửa triển lãm miễn phí.
+location | noun | /loʊˈkeɪʃn/ | vị trí, địa điểm | a place | a convenient location; new location | The store has moved to a new *location*. | Cửa hàng đã chuyển đến địa điểm mới.
+status | noun | /ˈsteɪtəs/ | tình trạng; địa vị | the situation at a time; social position | order status; check the status | You can check the *status* of your order online. | Bạn có thể kiểm tra tình trạng đơn hàng trên mạng.
+mission | noun | /ˈmɪʃn/ | sứ mệnh; nhiệm vụ | an important purpose; a task | mission statement; on a mission | Our *mission* is to make learning easy for everyone. | Sứ mệnh của chúng tôi là giúp mọi người học dễ dàng.
+scheme | noun | /skiːm/ | kế hoạch, chương trình | an official plan | pension scheme; a training scheme | The company has a new bonus *scheme*. | Công ty có chương trình thưởng mới.
+model | noun | /ˈmɑːdl/ | mẫu (sản phẩm); hình mẫu | a particular type of product; an example to copy | the latest model; business model | This *model* comes in three colours. | Mẫu này có ba màu.
+mode | noun | /moʊd/ | chế độ; phương thức | a way of operating | airplane mode; mode of transport | Please switch your phone to silent *mode*. | Vui lòng chuyển điện thoại sang chế độ im lặng.
+type | verb | /taɪp/ | đánh máy | to write using a keyboard | type a letter; type in | Please *type* your name in the box. | Vui lòng gõ tên của bạn vào ô.
+sort | verb | /sɔːrt/ | phân loại | to put into groups | sort out; sort by date | Please *sort* the files by date. | Vui lòng sắp xếp các tệp theo ngày. | sort out = giải quyết.
+setting | noun | /ˈsetɪŋ/ | cài đặt; bối cảnh | a position on a control; the place where something happens | change the settings; a beautiful setting | You can change the *settings* in the menu. | Bạn có thể đổi cài đặt trong menu.
+position | noun | /pəˈzɪʃn/ | vị trí (công việc, nơi chốn) | a job; a place | apply for a position; in position | We have a *position* available in our sales team. | Chúng tôi có một vị trí trống trong đội kinh doanh.
+specialist | noun | /ˈspeʃəlɪst/ | chuyên gia | a person with expert knowledge | IT specialist; see a specialist | Our IT *specialist* will fix the problem. | Chuyên viên IT của chúng tôi sẽ khắc phục sự cố.
+seeker | noun | /ˈsiːkər/ | người tìm kiếm | a person looking for something | job seekers | The website helps job *seekers* find work. | Website giúp người tìm việc tìm được việc làm.
+supporter | noun | /səˈpɔːrtər/ | người ủng hộ | a person who supports | a strong supporter; football supporters | She is a strong *supporter* of the plan. | Cô ấy là người ủng hộ mạnh mẽ kế hoạch.
+photographer | noun | /fəˈtɑːɡrəfər/ | nhiếp ảnh gia | a person who takes photos | professional photographer | We hired a *photographer* for the event. | Chúng tôi thuê một nhiếp ảnh gia cho sự kiện.
+photography | noun | /fəˈtɑːɡrəfi/ | nhiếp ảnh | the art of taking photos | no photography; wedding photography | *Photography* is not allowed during the show. | Không được chụp ảnh trong buổi diễn.
+picture | verb | /ˈpɪktʃər/ | hình dung | to imagine | picture yourself | *Picture* yourself relaxing on a beautiful beach. | Hãy hình dung bạn đang thư giãn trên bãi biển đẹp.
+collection | noun | /kəˈlekʃn/ | bộ sưu tập; sự thu gom | a group of objects; the act of collecting | art collection; rubbish collection | The museum has a large *collection* of old coins. | Bảo tàng có bộ sưu tập tiền xu cổ lớn.
+collector | noun | /kəˈlektər/ | nhà sưu tầm; người thu | a person who collects things | art collector; tax collector | He is a keen stamp *collector*. | Ông ấy là người sưu tầm tem nhiệt tình.
+screening | noun | /ˈskriːnɪŋ/ | buổi chiếu; sự sàng lọc | the showing of a film; testing for something | film screening; health screening | There will be a free *screening* of the film on Friday. | Sẽ có buổi chiếu phim miễn phí vào thứ Sáu.
+administration | noun | /ədˌmɪnɪˈstreɪʃn/ | sự quản trị, hành chính | the work of managing an organization | business administration; admin staff | She works in hospital *administration*. | Cô ấy làm công tác hành chính tại bệnh viện.
+accountant | noun | /əˈkaʊntənt/ | kế toán viên | a person who keeps financial records | chartered accountant; hire an accountant | Our *accountant* will check the figures. | Kế toán của chúng tôi sẽ kiểm tra số liệu.
+development | noun | /dɪˈveləpmənt/ | sự phát triển; diễn biến mới | growth; a new event | product development; latest developments | We'll keep you informed of any new *developments*. | Chúng tôi sẽ thông báo cho bạn mọi diễn biến mới.
+centre | noun | /ˈsentər/ | trung tâm | the middle; a building for an activity | city centre; shopping centre; call centre | The hotel is in the city *centre*. | Khách sạn ở trung tâm thành phố. | Anh-Mỹ: center.
+central | adjective | /ˈsentrəl/ | trung tâm, chính | in the middle; main | central location; central office | All reports go to the *central* office. | Mọi báo cáo đều gửi về văn phòng trung tâm.
+counter | noun | /ˈkaʊntər/ | quầy | a long flat surface in a shop or bank | check-in counter; over the counter | Please pay at the *counter*. | Vui lòng thanh toán tại quầy.
+shift | noun | /ʃɪft/ | ca làm việc; sự thay đổi | a period of work; a change | night shift; work shifts; a shift in | She works the night *shift* at the hospital. | Cô ấy làm ca đêm ở bệnh viện.
+opening | noun | /ˈoʊpnɪŋ/ | lễ khai trương; vị trí trống | the start of something; a job available | grand opening; job openings | We have several job *openings* in marketing. | Chúng tôi có vài vị trí trống ở bộ phận marketing.

@@ -1,0 +1,922 @@
+{
+ "id": "sport",
+ "order": 32,
+ "icon": "⚽",
+ "level": "B2",
+ "title": "Sport & Leisure",
+ "title_vi": "Thể thao & Giải trí",
+ "description": "Giải đấu, tập luyện, sân vận động, hoạt động ngoài trời: chủ đề hay gặp trong quảng cáo và hội thoại cuối tuần.",
+ "words": [
+  {
+   "id": "spo_championship",
+   "word": "championship",
+   "pos": "noun",
+   "ipa": "/ˈtʃæmpiənʃɪp/",
+   "level": "B2",
+   "meaning": "giải vô địch",
+   "definition": "a competition to find the best player or team",
+   "collocations": [
+    "world championship",
+    "win the championship"
+   ],
+   "examples": [
+    {
+     "en": "The team won the national *championship*.",
+     "vi": "Đội đã giành chức vô địch quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "spo_champion",
+   "word": "champion",
+   "pos": "noun",
+   "ipa": "/ˈtʃæmpiən/",
+   "level": "B1",
+   "meaning": "nhà vô địch",
+   "definition": "the winner of a competition",
+   "collocations": [
+    "world champion",
+    "reigning champion"
+   ],
+   "examples": [
+    {
+     "en": "She is a former world *champion*.",
+     "vi": "Cô ấy là cựu vô địch thế giới."
+    }
+   ]
+  },
+  {
+   "id": "spo_tournament",
+   "word": "tournament",
+   "pos": "noun",
+   "ipa": "/ˈtʊrnəmənt/",
+   "level": "B2",
+   "meaning": "giải đấu",
+   "definition": "a series of games to find the winner",
+   "collocations": [
+    "tennis tournament",
+    "host a tournament"
+   ],
+   "examples": [
+    {
+     "en": "The company sponsors a golf *tournament*.",
+     "vi": "Công ty tài trợ một giải đấu golf."
+    }
+   ]
+  },
+  {
+   "id": "spo_league",
+   "word": "league",
+   "pos": "noun",
+   "ipa": "/liːɡ/",
+   "level": "B2",
+   "meaning": "giải đấu; liên đoàn",
+   "definition": "a group of teams that play against each other",
+   "collocations": [
+    "Premier League",
+    "top of the league"
+   ],
+   "examples": [
+    {
+     "en": "Our team is at the top of the *league*.",
+     "vi": "Đội của chúng tôi đứng đầu bảng."
+    }
+   ]
+  },
+  {
+   "id": "spo_contest",
+   "word": "contest",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntest/",
+   "level": "B2",
+   "meaning": "cuộc thi",
+   "definition": "a competition",
+   "collocations": [
+    "enter a contest",
+    "photo contest"
+   ],
+   "examples": [
+    {
+     "en": "Enter our photo *contest* to win a free trip.",
+     "vi": "Tham gia cuộc thi ảnh để giành chuyến du lịch miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "spo_victory",
+   "word": "victory",
+   "pos": "noun",
+   "ipa": "/ˈvɪktəri/",
+   "level": "B2",
+   "meaning": "chiến thắng",
+   "definition": "success in a game or war",
+   "collocations": [
+    "win a victory",
+    "a 3–0 victory"
+   ],
+   "examples": [
+    {
+     "en": "The team celebrated its *victory*.",
+     "vi": "Đội ăn mừng chiến thắng."
+    }
+   ]
+  },
+  {
+   "id": "spo_defeat",
+   "word": "defeat",
+   "pos": "verb",
+   "ipa": "/dɪˈfiːt/",
+   "level": "B2",
+   "meaning": "đánh bại",
+   "definition": "to win against someone",
+   "collocations": [
+    "defeat the champion",
+    "be defeated"
+   ],
+   "examples": [
+    {
+     "en": "They *defeated* last year's champions.",
+     "vi": "Họ đánh bại nhà vô địch năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "spo_beat",
+   "word": "beat",
+   "pos": "verb",
+   "ipa": "/biːt/",
+   "level": "B1",
+   "meaning": "đánh bại; đập",
+   "definition": "to defeat; to hit repeatedly",
+   "collocations": [
+    "beat a record",
+    "beat the competition"
+   ],
+   "examples": [
+    {
+     "en": "We *beat* our sales record this month.",
+     "vi": "Chúng tôi phá kỷ lục doanh số tháng này."
+    }
+   ]
+  },
+  {
+   "id": "spo_opponent",
+   "word": "opponent",
+   "pos": "noun",
+   "ipa": "/əˈpoʊnənt/",
+   "level": "B2",
+   "meaning": "đối thủ",
+   "definition": "a person you compete against",
+   "collocations": [
+    "a strong opponent",
+    "face an opponent"
+   ],
+   "examples": [
+    {
+     "en": "She shook hands with her *opponent*.",
+     "vi": "Cô ấy bắt tay đối thủ."
+    }
+   ]
+  },
+  {
+   "id": "spo_coach",
+   "word": "coach",
+   "pos": "noun",
+   "ipa": "/koʊtʃ/",
+   "level": "B1",
+   "meaning": "huấn luyện viên; xe khách",
+   "definition": "a person who trains a team; a comfortable bus",
+   "collocations": [
+    "football coach",
+    "travel by coach"
+   ],
+   "examples": [
+    {
+     "en": "The *coach* told the players to rest.",
+     "vi": "Huấn luyện viên bảo các cầu thủ nghỉ ngơi."
+    }
+   ]
+  },
+  {
+   "id": "spo_referee",
+   "word": "referee",
+   "pos": "noun",
+   "ipa": "/ˌrefəˈriː/",
+   "level": "B2",
+   "meaning": "trọng tài",
+   "definition": "a person who controls a game",
+   "collocations": [
+    "the referee blew the whistle"
+   ],
+   "examples": [
+    {
+     "en": "The *referee* stopped the match because of rain.",
+     "vi": "Trọng tài dừng trận đấu vì mưa."
+    }
+   ]
+  },
+  {
+   "id": "spo_spectator",
+   "word": "spectator",
+   "pos": "noun",
+   "ipa": "/ˈspekteɪtər/",
+   "level": "B2",
+   "meaning": "khán giả (thể thao)",
+   "definition": "a person who watches a sports event",
+   "collocations": [
+    "thousands of spectators"
+   ],
+   "examples": [
+    {
+     "en": "Over 40,000 *spectators* watched the final.",
+     "vi": "Hơn 40.000 khán giả theo dõi trận chung kết."
+    }
+   ]
+  },
+  {
+   "id": "spo_stadium",
+   "word": "stadium",
+   "pos": "noun",
+   "ipa": "/ˈsteɪdiəm/",
+   "level": "B1",
+   "meaning": "sân vận động",
+   "definition": "a large sports ground with seats",
+   "collocations": [
+    "football stadium",
+    "national stadium"
+   ],
+   "examples": [
+    {
+     "en": "The concert will be held at the national *stadium*.",
+     "vi": "Buổi hòa nhạc sẽ diễn ra tại sân vận động quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "spo_medal",
+   "word": "medal",
+   "pos": "noun",
+   "ipa": "/ˈmedl/",
+   "level": "B2",
+   "meaning": "huy chương",
+   "definition": "a metal disc given as a prize",
+   "collocations": [
+    "gold medal",
+    "win a medal"
+   ],
+   "examples": [
+    {
+     "en": "She won a gold *medal* at the Asian Games.",
+     "vi": "Cô ấy giành huy chương vàng tại Asian Games."
+    }
+   ]
+  },
+  {
+   "id": "spo_marathon",
+   "word": "marathon",
+   "pos": "noun",
+   "ipa": "/ˈmærəθɑːn/",
+   "level": "B2",
+   "meaning": "cuộc chạy marathon",
+   "definition": "a running race of about 42 km",
+   "collocations": [
+    "run a marathon",
+    "half marathon"
+   ],
+   "examples": [
+    {
+     "en": "He ran his first *marathon* last year.",
+     "vi": "Anh ấy chạy marathon đầu tiên năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "spo_racing",
+   "word": "racing",
+   "pos": "noun",
+   "ipa": "/ˈreɪsɪŋ/",
+   "level": "B1",
+   "meaning": "đua (xe, ngựa)",
+   "definition": "the sport of racing",
+   "collocations": [
+    "car racing",
+    "racing driver"
+   ],
+   "examples": [
+    {
+     "en": "He loves watching motor *racing*.",
+     "vi": "Anh ấy thích xem đua xe."
+    }
+   ]
+  },
+  {
+   "id": "spo_sporting",
+   "word": "sporting",
+   "pos": "adjective",
+   "ipa": "/ˈspɔːrtɪŋ/",
+   "level": "B2",
+   "meaning": "thuộc thể thao",
+   "definition": "connected with sport",
+   "collocations": [
+    "sporting event",
+    "sporting goods"
+   ],
+   "examples": [
+    {
+     "en": "The city hosts many big *sporting* events.",
+     "vi": "Thành phố tổ chức nhiều sự kiện thể thao lớn."
+    }
+   ]
+  },
+  {
+   "id": "spo_rugby",
+   "word": "rugby",
+   "pos": "noun",
+   "ipa": "/ˈrʌɡbi/",
+   "level": "B1",
+   "meaning": "bóng bầu dục",
+   "definition": "a game played with an oval ball",
+   "collocations": [
+    "play rugby",
+    "rugby team"
+   ],
+   "examples": [
+    {
+     "en": "*Rugby* is very popular in New Zealand.",
+     "vi": "Bóng bầu dục rất phổ biến ở New Zealand."
+    }
+   ]
+  },
+  {
+   "id": "spo_bat",
+   "word": "bat",
+   "pos": "noun",
+   "ipa": "/bæt/",
+   "level": "B2",
+   "meaning": "cây gậy (bóng chày); con dơi",
+   "definition": "a piece of wood for hitting a ball; a flying animal",
+   "collocations": [
+    "baseball bat"
+   ],
+   "examples": [
+    {
+     "en": "He hit the ball with the *bat*.",
+     "vi": "Anh ấy đánh bóng bằng gậy."
+    }
+   ]
+  },
+  {
+   "id": "spo_kick",
+   "word": "kick",
+   "pos": "verb",
+   "ipa": "/kɪk/",
+   "level": "B1",
+   "meaning": "đá",
+   "definition": "to hit with your foot",
+   "collocations": [
+    "kick the ball",
+    "kick off"
+   ],
+   "examples": [
+    {
+     "en": "The meeting will *kick off* at 9 a.m.",
+     "vi": "Cuộc họp sẽ bắt đầu lúc 9 giờ sáng."
+    }
+   ],
+   "note": "kick off = bắt đầu (văn nói)."
+  },
+  {
+   "id": "spo_shot",
+   "word": "shot",
+   "pos": "noun",
+   "ipa": "/ʃɑːt/",
+   "level": "B2",
+   "meaning": "cú sút; phát súng; tấm ảnh",
+   "definition": "an attempt to score; the firing of a gun; a photo",
+   "collocations": [
+    "take a shot",
+    "a great shot"
+   ],
+   "examples": [
+    {
+     "en": "That's a great *shot* of the sunset.",
+     "vi": "Đó là một tấm ảnh hoàng hôn tuyệt đẹp."
+    }
+   ]
+  },
+  {
+   "id": "spo_pitch",
+   "word": "pitch",
+   "pos": "noun",
+   "ipa": "/pɪtʃ/",
+   "level": "B2",
+   "meaning": "sân cỏ; bài chào hàng",
+   "definition": "a field for sport; a talk to sell something",
+   "collocations": [
+    "football pitch",
+    "sales pitch"
+   ],
+   "examples": [
+    {
+     "en": "She gave a great sales *pitch* to the client.",
+     "vi": "Cô ấy có bài chào hàng xuất sắc với khách."
+    }
+   ]
+  },
+  {
+   "id": "spo_swim",
+   "word": "swim",
+   "pos": "verb",
+   "ipa": "/swɪm/",
+   "level": "B1",
+   "meaning": "bơi",
+   "definition": "to move through water",
+   "collocations": [
+    "go swimming",
+    "swimming pool"
+   ],
+   "examples": [
+    {
+     "en": "The hotel guests can *swim* in the rooftop pool.",
+     "vi": "Khách khách sạn có thể bơi ở hồ trên sân thượng."
+    }
+   ]
+  },
+  {
+   "id": "spo_dive",
+   "word": "dive",
+   "pos": "verb",
+   "ipa": "/daɪv/",
+   "level": "B2",
+   "meaning": "lặn; nhảy xuống nước",
+   "definition": "to jump into water head first; to swim underwater",
+   "collocations": [
+    "scuba diving",
+    "dive into"
+   ],
+   "examples": [
+    {
+     "en": "We went *diving* near Nha Trang.",
+     "vi": "Chúng tôi đi lặn gần Nha Trang."
+    }
+   ]
+  },
+  {
+   "id": "spo_climb",
+   "word": "climb",
+   "pos": "verb",
+   "ipa": "/klaɪm/",
+   "level": "B1",
+   "meaning": "leo",
+   "definition": "to go up something using hands and feet",
+   "collocations": [
+    "climb a mountain",
+    "climb the stairs"
+   ],
+   "examples": [
+    {
+     "en": "They *climbed* Fansipan last summer.",
+     "vi": "Họ leo Fansipan mùa hè năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "spo_outdoor",
+   "word": "outdoor",
+   "pos": "adjective",
+   "ipa": "/ˈaʊtdɔːr/",
+   "level": "B1",
+   "meaning": "ngoài trời",
+   "definition": "happening outside",
+   "collocations": [
+    "outdoor activities",
+    "outdoor seating"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has *outdoor* seating.",
+     "vi": "Nhà hàng có chỗ ngồi ngoài trời."
+    }
+   ]
+  },
+  {
+   "id": "spo_outdoors",
+   "word": "outdoors",
+   "pos": "adverb",
+   "ipa": "/ˌaʊtˈdɔːrz/",
+   "level": "B1",
+   "meaning": "ở ngoài trời",
+   "definition": "outside a building",
+   "collocations": [
+    "eat outdoors",
+    "spend time outdoors"
+   ],
+   "examples": [
+    {
+     "en": "The concert will be held *outdoors* if it doesn't rain.",
+     "vi": "Buổi hòa nhạc sẽ tổ chức ngoài trời nếu không mưa."
+    }
+   ]
+  },
+  {
+   "id": "spo_indoor",
+   "word": "indoor",
+   "pos": "adjective",
+   "ipa": "/ˈɪndɔːr/",
+   "level": "B1",
+   "meaning": "trong nhà",
+   "definition": "happening inside a building",
+   "collocations": [
+    "indoor pool",
+    "indoor activities"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has an *indoor* swimming pool.",
+     "vi": "Khách sạn có hồ bơi trong nhà."
+    }
+   ]
+  },
+  {
+   "id": "spo_indoors",
+   "word": "indoors",
+   "pos": "adverb",
+   "ipa": "/ˌɪnˈdɔːrz/",
+   "level": "B1",
+   "meaning": "ở trong nhà",
+   "definition": "inside a building",
+   "collocations": [
+    "stay indoors",
+    "go indoors"
+   ],
+   "examples": [
+    {
+     "en": "Stay *indoors* during the storm.",
+     "vi": "Hãy ở trong nhà khi có bão."
+    }
+   ]
+  },
+  {
+   "id": "spo_leisure",
+   "word": "leisure",
+   "pos": "noun",
+   "ipa": "/ˈliːʒər/",
+   "level": "B1",
+   "meaning": "thời gian rảnh, giải trí",
+   "definition": "time when you are not working",
+   "collocations": [
+    "leisure time",
+    "leisure centre",
+    "leisure activities"
+   ],
+   "examples": [
+    {
+     "en": "What do you do in your *leisure* time?",
+     "vi": "Bạn làm gì lúc rảnh rỗi?"
+    }
+   ]
+  },
+  {
+   "id": "spo_tent",
+   "word": "tent",
+   "pos": "noun",
+   "ipa": "/tent/",
+   "level": "B1",
+   "meaning": "cái lều",
+   "definition": "a shelter made of cloth for camping",
+   "collocations": [
+    "put up a tent",
+    "camp in a tent"
+   ],
+   "examples": [
+    {
+     "en": "We put up our *tent* near the lake.",
+     "vi": "Chúng tôi dựng lều gần hồ."
+    }
+   ]
+  },
+  {
+   "id": "spo_puzzle",
+   "word": "puzzle",
+   "pos": "noun",
+   "ipa": "/ˈpʌzl/",
+   "level": "B2",
+   "meaning": "câu đố; trò ghép hình",
+   "definition": "a game that tests your thinking; a mystery",
+   "collocations": [
+    "jigsaw puzzle",
+    "crossword puzzle"
+   ],
+   "examples": [
+    {
+     "en": "It's a *puzzle* why sales dropped.",
+     "vi": "Thật khó hiểu tại sao doanh số giảm."
+    }
+   ]
+  },
+  {
+   "id": "spo_balloon",
+   "word": "balloon",
+   "pos": "noun",
+   "ipa": "/bəˈluːn/",
+   "level": "B2",
+   "meaning": "bóng bay",
+   "definition": "a rubber bag filled with air",
+   "collocations": [
+    "blow up a balloon",
+    "hot-air balloon"
+   ],
+   "examples": [
+    {
+     "en": "We decorated the room with *balloons*.",
+     "vi": "Chúng tôi trang trí phòng bằng bóng bay."
+    }
+   ]
+  },
+  {
+   "id": "spo_toy",
+   "word": "toy",
+   "pos": "noun",
+   "ipa": "/tɔɪ/",
+   "level": "A2",
+   "meaning": "đồ chơi",
+   "definition": "an object for children to play with",
+   "collocations": [
+    "toy store",
+    "soft toys"
+   ],
+   "examples": [
+    {
+     "en": "The *toy* store is on the second floor.",
+     "vi": "Cửa hàng đồ chơi ở tầng hai."
+    }
+   ]
+  },
+  {
+   "id": "spo_fitness_centre",
+   "word": "fitness centre",
+   "pos": "noun",
+   "ipa": "/ˈfɪtnəs ˌsentər/",
+   "level": "TOEIC",
+   "meaning": "trung tâm thể dục",
+   "definition": "a place with equipment for exercise",
+   "collocations": [
+    "join a fitness centre"
+   ],
+   "examples": [
+    {
+     "en": "Membership includes use of the *fitness centre*.",
+     "vi": "Thẻ hội viên bao gồm quyền dùng trung tâm thể dục."
+    }
+   ]
+  },
+  {
+   "id": "spo_membership",
+   "word": "membership",
+   "pos": "noun",
+   "ipa": "/ˈmembərʃɪp/",
+   "level": "B2",
+   "meaning": "tư cách hội viên",
+   "definition": "being a member of a club or group",
+   "collocations": [
+    "membership card",
+    "annual membership"
+   ],
+   "examples": [
+    {
+     "en": "Your *membership* expires next month.",
+     "vi": "Thẻ hội viên của bạn hết hạn vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "spo_gym",
+   "word": "gym",
+   "pos": "noun",
+   "ipa": "/dʒɪm/",
+   "level": "A1",
+   "meaning": "phòng tập thể hình",
+   "definition": "a place with equipment for exercise",
+   "collocations": [
+    "go to the gym",
+    "work out at the gym"
+   ],
+   "examples": [
+    {
+     "en": "I go to the *gym* three times a week.",
+     "vi": "Tôi đi tập gym ba lần một tuần."
+    }
+   ]
+  },
+  {
+   "id": "spo_athlete",
+   "word": "athlete",
+   "pos": "noun",
+   "ipa": "/ˈæθliːt/",
+   "level": "A2",
+   "meaning": "vận động viên",
+   "definition": "a person who is good at sport",
+   "collocations": [
+    "a professional athlete"
+   ],
+   "examples": [
+    {
+     "en": "Top *athletes* train for hours every day.",
+     "vi": "Vận động viên hàng đầu tập luyện hàng giờ mỗi ngày."
+    }
+   ]
+  },
+  {
+   "id": "spo_stretch",
+   "word": "stretch",
+   "pos": "verb",
+   "ipa": "/stretʃ/",
+   "level": "B2",
+   "meaning": "duỗi, kéo giãn",
+   "definition": "to make your body longer to loosen muscles",
+   "collocations": [
+    "stretch your legs",
+    "stretch before running"
+   ],
+   "examples": [
+    {
+     "en": "Always *stretch* before you exercise.",
+     "vi": "Luôn khởi động giãn cơ trước khi tập."
+    }
+   ]
+  },
+  {
+   "id": "spo_pace",
+   "word": "pace",
+   "pos": "noun",
+   "ipa": "/peɪs/",
+   "level": "B2",
+   "meaning": "tốc độ, nhịp độ",
+   "definition": "the speed at which something happens",
+   "collocations": [
+    "at a fast pace",
+    "keep pace with"
+   ],
+   "examples": [
+    {
+     "en": "Work at your own *pace*.",
+     "vi": "Làm việc theo tốc độ của riêng bạn."
+    }
+   ]
+  },
+  {
+   "id": "spo_speed",
+   "word": "speed",
+   "pos": "noun",
+   "ipa": "/spiːd/",
+   "level": "B2",
+   "meaning": "tốc độ",
+   "definition": "how fast something moves",
+   "collocations": [
+    "at high speed",
+    "speed limit"
+   ],
+   "examples": [
+    {
+     "en": "The *speed* limit here is 50 km/h.",
+     "vi": "Giới hạn tốc độ ở đây là 50 km/h."
+    }
+   ]
+  },
+  {
+   "id": "spo_strength",
+   "word": "strength",
+   "pos": "noun",
+   "ipa": "/streŋθ/",
+   "level": "B1",
+   "meaning": "sức mạnh; điểm mạnh",
+   "definition": "physical power; a good quality",
+   "collocations": [
+    "strengths and weaknesses",
+    "build strength"
+   ],
+   "examples": [
+    {
+     "en": "What are your greatest *strengths*?",
+     "vi": "Điểm mạnh lớn nhất của bạn là gì?"
+    }
+   ],
+   "note": "Câu hỏi phỏng vấn kinh điển."
+  },
+  {
+   "id": "spo_strengthen",
+   "word": "strengthen",
+   "pos": "verb",
+   "ipa": "/ˈstreŋθn/",
+   "level": "B2",
+   "meaning": "củng cố, làm mạnh thêm",
+   "definition": "to make stronger",
+   "collocations": [
+    "strengthen relationships",
+    "strengthen muscles"
+   ],
+   "examples": [
+    {
+     "en": "The deal will *strengthen* our position in Asia.",
+     "vi": "Thỏa thuận sẽ củng cố vị thế của chúng tôi ở châu Á."
+    }
+   ]
+  },
+  {
+   "id": "spo_win",
+   "word": "win",
+   "pos": "verb",
+   "ipa": "/wɪn/",
+   "level": "B1",
+   "meaning": "thắng; giành được",
+   "definition": "to be the best in a competition; to get something",
+   "collocations": [
+    "win a prize",
+    "win a contract"
+   ],
+   "examples": [
+    {
+     "en": "We *won* the contract against three other firms.",
+     "vi": "Chúng tôi giành được hợp đồng trước ba công ty khác."
+    }
+   ]
+  },
+  {
+   "id": "spo_score",
+   "word": "score",
+   "pos": "verb",
+   "ipa": "/skɔːr/",
+   "level": "A2",
+   "meaning": "ghi bàn; đạt điểm",
+   "definition": "to get a goal or point; to get a result in a test",
+   "collocations": [
+    "score a goal",
+    "score 800 on TOEIC"
+   ],
+   "examples": [
+    {
+     "en": "She *scored* 850 on the TOEIC test.",
+     "vi": "Cô ấy đạt 850 điểm TOEIC."
+    }
+   ]
+  },
+  {
+   "id": "spo_record",
+   "word": "record",
+   "pos": "noun",
+   "ipa": "/ˈrekərd/",
+   "level": "A2",
+   "meaning": "kỷ lục; hồ sơ",
+   "definition": "the best result ever; written information",
+   "collocations": [
+    "break a record",
+    "keep records"
+   ],
+   "examples": [
+    {
+     "en": "Sales reached a *record* high this year.",
+     "vi": "Doanh số đạt mức kỷ lục năm nay."
+    }
+   ]
+  },
+  {
+   "id": "spo_cycling",
+   "word": "cycling",
+   "pos": "noun",
+   "ipa": "/ˈsaɪklɪŋ/",
+   "level": "TOEIC",
+   "meaning": "đạp xe",
+   "definition": "riding a bicycle",
+   "collocations": [
+    "go cycling",
+    "cycling route"
+   ],
+   "examples": [
+    {
+     "en": "*Cycling* to work is good for your health.",
+     "vi": "Đạp xe đi làm tốt cho sức khỏe."
+    }
+   ]
+  },
+  {
+   "id": "spo_hiking",
+   "word": "hiking",
+   "pos": "noun",
+   "ipa": "/ˈhaɪkɪŋ/",
+   "level": "TOEIC",
+   "meaning": "đi bộ đường dài",
+   "definition": "walking long distances in the countryside",
+   "collocations": [
+    "go hiking",
+    "hiking boots"
+   ],
+   "examples": [
+    {
+     "en": "We went *hiking* in the mountains.",
+     "vi": "Chúng tôi đi bộ đường dài trên núi."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,920 @@
+{
+ "id": "meetings",
+ "order": 15,
+ "icon": "🗣️",
+ "level": "B2",
+ "title": "Meetings & Communication",
+ "title_vi": "Họp hành & Giao tiếp công việc",
+ "description": "Thông báo, xác nhận, đề xuất, tranh luận, đàm phán: từ vựng cho email, cuộc họp và hội thoại Part 3.",
+ "words": [
+  {
+   "id": "mtg_agenda",
+   "word": "agenda",
+   "pos": "noun",
+   "ipa": "/əˈdʒendə/",
+   "level": "B2",
+   "meaning": "chương trình nghị sự",
+   "definition": "a list of things to discuss at a meeting",
+   "collocations": [
+    "on the agenda",
+    "set the agenda",
+    "meeting agenda"
+   ],
+   "examples": [
+    {
+     "en": "The budget is the first item on the *agenda*.",
+     "vi": "Ngân sách là mục đầu tiên trong chương trình họp."
+    }
+   ]
+  },
+  {
+   "id": "mtg_announce",
+   "word": "announce",
+   "pos": "verb",
+   "ipa": "/əˈnaʊns/",
+   "level": "B1",
+   "meaning": "thông báo, công bố",
+   "definition": "to tell people something officially",
+   "collocations": [
+    "announce a decision",
+    "announce that"
+   ],
+   "examples": [
+    {
+     "en": "The CEO *announced* that the office would move.",
+     "vi": "Giám đốc thông báo rằng văn phòng sẽ chuyển."
+    }
+   ]
+  },
+  {
+   "id": "mtg_announcement",
+   "word": "announcement",
+   "pos": "noun",
+   "ipa": "/əˈnaʊnsmənt/",
+   "level": "B1",
+   "meaning": "lời thông báo",
+   "definition": "an official statement about something",
+   "collocations": [
+    "make an announcement",
+    "public announcement"
+   ],
+   "examples": [
+    {
+     "en": "Please listen carefully to the following *announcement*.",
+     "vi": "Xin hãy chú ý lắng nghe thông báo sau."
+    }
+   ],
+   "note": "Rất hay gặp mở đầu Part 4."
+  },
+  {
+   "id": "mtg_confirm",
+   "word": "confirm",
+   "pos": "verb",
+   "ipa": "/kənˈfɜːrm/",
+   "level": "B1",
+   "meaning": "xác nhận",
+   "definition": "to say that something is true or definite",
+   "collocations": [
+    "confirm a booking",
+    "confirm the details"
+   ],
+   "examples": [
+    {
+     "en": "Please *confirm* your attendance by Friday.",
+     "vi": "Vui lòng xác nhận việc tham dự trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "mtg_clarify",
+   "word": "clarify",
+   "pos": "verb",
+   "ipa": "/ˈklærəfaɪ/",
+   "level": "B2",
+   "meaning": "làm rõ",
+   "definition": "to make something clearer",
+   "collocations": [
+    "clarify a point",
+    "clarify the situation"
+   ],
+   "examples": [
+    {
+     "en": "Could you *clarify* what you mean by \"soon\"?",
+     "vi": "Bạn có thể làm rõ \"sớm\" nghĩa là khi nào không?"
+    }
+   ]
+  },
+  {
+   "id": "mtg_comment",
+   "word": "comment",
+   "pos": "noun",
+   "ipa": "/ˈkɑːment/",
+   "level": "B1",
+   "meaning": "lời nhận xét, bình luận",
+   "definition": "something you say or write giving an opinion",
+   "collocations": [
+    "make a comment",
+    "comments on",
+    "no comment"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your helpful *comments*.",
+     "vi": "Cảm ơn những nhận xét hữu ích của bạn."
+    }
+   ]
+  },
+  {
+   "id": "mtg_remark",
+   "word": "remark",
+   "pos": "noun",
+   "ipa": "/rɪˈmɑːrk/",
+   "level": "B2",
+   "meaning": "lời nhận xét",
+   "definition": "something you say about something",
+   "collocations": [
+    "opening remarks",
+    "make a remark"
+   ],
+   "examples": [
+    {
+     "en": "The director made a few opening *remarks*.",
+     "vi": "Giám đốc phát biểu vài lời khai mạc."
+    }
+   ]
+  },
+  {
+   "id": "mtg_mention",
+   "word": "mention",
+   "pos": "verb",
+   "ipa": "/ˈmenʃn/",
+   "level": "B1",
+   "meaning": "đề cập",
+   "definition": "to talk about something briefly",
+   "collocations": [
+    "as mentioned",
+    "mention that",
+    "not to mention"
+   ],
+   "examples": [
+    {
+     "en": "As I *mentioned* yesterday, the deadline has changed.",
+     "vi": "Như tôi đã đề cập hôm qua, hạn chót đã thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "mtg_propose",
+   "word": "propose",
+   "pos": "verb",
+   "ipa": "/prəˈpoʊz/",
+   "level": "B2",
+   "meaning": "đề xuất",
+   "definition": "to suggest a plan or idea",
+   "collocations": [
+    "propose a change",
+    "propose that"
+   ],
+   "examples": [
+    {
+     "en": "I *propose* that we hold the meeting online.",
+     "vi": "Tôi đề xuất chúng ta họp trực tuyến."
+    }
+   ],
+   "note": "propose that + S + V nguyên mẫu."
+  },
+  {
+   "id": "mtg_proposal",
+   "word": "proposal",
+   "pos": "noun",
+   "ipa": "/prəˈpoʊzl/",
+   "level": "B2",
+   "meaning": "bản đề xuất",
+   "definition": "a formal suggestion or plan",
+   "collocations": [
+    "submit a proposal",
+    "business proposal",
+    "reject a proposal"
+   ],
+   "examples": [
+    {
+     "en": "Please send me the *proposal* by Monday.",
+     "vi": "Vui lòng gửi tôi bản đề xuất trước thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "mtg_recommendation",
+   "word": "recommendation",
+   "pos": "noun",
+   "ipa": "/ˌrekəmenˈdeɪʃn/",
+   "level": "B1",
+   "meaning": "lời khuyên, sự giới thiệu",
+   "definition": "a suggestion about what to do; a statement that someone is good",
+   "collocations": [
+    "letter of recommendation",
+    "make a recommendation"
+   ],
+   "examples": [
+    {
+     "en": "The report makes several *recommendations*.",
+     "vi": "Bản báo cáo đưa ra một số khuyến nghị."
+    }
+   ]
+  },
+  {
+   "id": "mtg_advise",
+   "word": "advise",
+   "pos": "verb",
+   "ipa": "/ədˈvaɪz/",
+   "level": "B1",
+   "meaning": "khuyên; thông báo",
+   "definition": "to tell someone what you think they should do; to inform",
+   "collocations": [
+    "advise someone to",
+    "be advised that"
+   ],
+   "examples": [
+    {
+     "en": "Passengers are *advised* to arrive two hours early.",
+     "vi": "Hành khách được khuyên đến sớm hai tiếng."
+    }
+   ],
+   "note": "\"Please be advised that…\" = Xin lưu ý rằng…"
+  },
+  {
+   "id": "mtg_inform",
+   "word": "inform",
+   "pos": "verb",
+   "ipa": "/ɪnˈfɔːrm/",
+   "level": "B2",
+   "meaning": "thông báo",
+   "definition": "to tell someone about something officially",
+   "collocations": [
+    "inform someone of/about",
+    "keep someone informed"
+   ],
+   "examples": [
+    {
+     "en": "We will *inform* you of any changes.",
+     "vi": "Chúng tôi sẽ thông báo cho bạn nếu có thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "mtg_notify",
+   "word": "notify",
+   "pos": "verb",
+   "ipa": "/ˈnoʊtɪfaɪ/",
+   "level": "C1",
+   "meaning": "thông báo chính thức",
+   "definition": "to formally tell someone about something",
+   "collocations": [
+    "notify staff",
+    "be notified of"
+   ],
+   "examples": [
+    {
+     "en": "Winners will be *notified* by e-mail.",
+     "vi": "Người thắng sẽ được thông báo qua e-mail."
+    }
+   ]
+  },
+  {
+   "id": "mtg_request",
+   "word": "request",
+   "pos": "noun",
+   "ipa": "/rɪˈkwest/",
+   "level": "B1",
+   "meaning": "yêu cầu, đề nghị",
+   "definition": "the act of asking for something politely",
+   "collocations": [
+    "make a request",
+    "on request",
+    "at your request"
+   ],
+   "examples": [
+    {
+     "en": "Copies are available on *request*.",
+     "vi": "Bản sao có sẵn khi được yêu cầu."
+    }
+   ]
+  },
+  {
+   "id": "mtg_enquiry",
+   "word": "enquiry",
+   "pos": "noun",
+   "ipa": "/ɪnˈkwaɪəri/",
+   "level": "B2",
+   "meaning": "sự hỏi thông tin",
+   "definition": "a question to get information",
+   "collocations": [
+    "make an enquiry",
+    "for further enquiries"
+   ],
+   "examples": [
+    {
+     "en": "For further *enquiries*, please call our office.",
+     "vi": "Để biết thêm thông tin, vui lòng gọi văn phòng chúng tôi."
+    }
+   ],
+   "note": "Cách viết Anh-Mỹ: inquiry."
+  },
+  {
+   "id": "mtg_inquiry",
+   "word": "inquiry",
+   "pos": "noun",
+   "ipa": "/ɪnˈkwaɪəri/",
+   "level": "B2",
+   "meaning": "câu hỏi; cuộc điều tra",
+   "definition": "a request for information; an official investigation",
+   "collocations": [
+    "customer inquiries",
+    "an inquiry into"
+   ],
+   "examples": [
+    {
+     "en": "We received many *inquiries* about the new product.",
+     "vi": "Chúng tôi nhận được nhiều câu hỏi về sản phẩm mới."
+    }
+   ]
+  },
+  {
+   "id": "mtg_respond",
+   "word": "respond",
+   "pos": "verb",
+   "ipa": "/rɪˈspɑːnd/",
+   "level": "A2",
+   "meaning": "trả lời, phản hồi",
+   "definition": "to reply; to react",
+   "collocations": [
+    "respond to an e-mail",
+    "respond quickly"
+   ],
+   "examples": [
+    {
+     "en": "Please *respond* to this e-mail by Thursday.",
+     "vi": "Vui lòng trả lời e-mail này trước thứ Năm."
+    }
+   ]
+  },
+  {
+   "id": "mtg_discussion",
+   "word": "discussion",
+   "pos": "noun",
+   "ipa": "/dɪˈskʌʃn/",
+   "level": "A2",
+   "meaning": "cuộc thảo luận",
+   "definition": "a conversation about something",
+   "collocations": [
+    "have a discussion",
+    "under discussion"
+   ],
+   "examples": [
+    {
+     "en": "The plan is still under *discussion*.",
+     "vi": "Kế hoạch vẫn đang được thảo luận."
+    }
+   ]
+  },
+  {
+   "id": "mtg_debate",
+   "word": "debate",
+   "pos": "noun",
+   "ipa": "/dɪˈbeɪt/",
+   "level": "B2",
+   "meaning": "cuộc tranh luận",
+   "definition": "a discussion where people express different opinions",
+   "collocations": [
+    "public debate",
+    "a debate about"
+   ],
+   "examples": [
+    {
+     "en": "There was a long *debate* about the new rules.",
+     "vi": "Đã có một cuộc tranh luận dài về quy định mới."
+    }
+   ]
+  },
+  {
+   "id": "mtg_negotiate",
+   "word": "negotiate",
+   "pos": "verb",
+   "ipa": "/nɪˈɡoʊʃieɪt/",
+   "level": "B2",
+   "meaning": "đàm phán",
+   "definition": "to discuss something to reach an agreement",
+   "collocations": [
+    "negotiate a contract",
+    "negotiate with"
+   ],
+   "examples": [
+    {
+     "en": "We are *negotiating* a new contract with the supplier.",
+     "vi": "Chúng tôi đang đàm phán hợp đồng mới với nhà cung cấp."
+    }
+   ]
+  },
+  {
+   "id": "mtg_negotiation",
+   "word": "negotiation",
+   "pos": "noun",
+   "ipa": "/nɪˌɡoʊʃiˈeɪʃn/",
+   "level": "B2",
+   "meaning": "cuộc đàm phán",
+   "definition": "formal discussion to reach an agreement",
+   "collocations": [
+    "under negotiation",
+    "salary negotiation"
+   ],
+   "examples": [
+    {
+     "en": "*Negotiations* will continue next week.",
+     "vi": "Các cuộc đàm phán sẽ tiếp tục vào tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "mtg_disagreement",
+   "word": "disagreement",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈɡriːmənt/",
+   "level": "B2",
+   "meaning": "sự bất đồng",
+   "definition": "a situation where people have different opinions",
+   "collocations": [
+    "a disagreement about",
+    "in disagreement"
+   ],
+   "examples": [
+    {
+     "en": "There was some *disagreement* about the budget.",
+     "vi": "Có một số bất đồng về ngân sách."
+    }
+   ]
+  },
+  {
+   "id": "mtg_compromise",
+   "word": "compromise",
+   "pos": "noun",
+   "ipa": "/ˈkɑːmprəmaɪz/",
+   "level": "C1",
+   "meaning": "sự thỏa hiệp",
+   "definition": "an agreement where both sides accept less than they wanted",
+   "collocations": [
+    "reach a compromise",
+    "make compromises"
+   ],
+   "examples": [
+    {
+     "en": "After hours of talks, they reached a *compromise*.",
+     "vi": "Sau nhiều giờ thảo luận, họ đã đạt được thỏa hiệp."
+    }
+   ]
+  },
+  {
+   "id": "mtg_consensus",
+   "word": "consensus",
+   "pos": "noun",
+   "ipa": "/kənˈsensəs/",
+   "level": "C1",
+   "meaning": "sự đồng thuận",
+   "definition": "general agreement",
+   "collocations": [
+    "reach a consensus",
+    "a general consensus"
+   ],
+   "examples": [
+    {
+     "en": "The team reached a *consensus* on the new design.",
+     "vi": "Nhóm đã đạt được đồng thuận về thiết kế mới."
+    }
+   ]
+  },
+  {
+   "id": "mtg_consult",
+   "word": "consult",
+   "pos": "verb",
+   "ipa": "/kənˈsʌlt/",
+   "level": "B2",
+   "meaning": "hỏi ý kiến, tham khảo",
+   "definition": "to ask someone for advice or information",
+   "collocations": [
+    "consult a doctor",
+    "consult the manual",
+    "consult with"
+   ],
+   "examples": [
+    {
+     "en": "Please *consult* your manager before booking travel.",
+     "vi": "Vui lòng hỏi ý kiến quản lý trước khi đặt chuyến đi."
+    }
+   ]
+  },
+  {
+   "id": "mtg_address",
+   "word": "address",
+   "pos": "verb",
+   "ipa": "/əˈdres/",
+   "level": "B2",
+   "meaning": "giải quyết; phát biểu trước",
+   "definition": "to deal with a problem; to speak to a group",
+   "collocations": [
+    "address an issue",
+    "address the audience"
+   ],
+   "examples": [
+    {
+     "en": "We need to *address* this problem immediately.",
+     "vi": "Chúng ta cần giải quyết vấn đề này ngay."
+    }
+   ],
+   "note": "Nghĩa B2 rất hay gặp TOEIC: address a concern."
+  },
+  {
+   "id": "mtg_brief",
+   "word": "brief",
+   "pos": "adjective",
+   "ipa": "/briːf/",
+   "level": "B2",
+   "meaning": "ngắn gọn",
+   "definition": "lasting a short time; using few words",
+   "collocations": [
+    "a brief meeting",
+    "a brief summary",
+    "in brief"
+   ],
+   "examples": [
+    {
+     "en": "Let's have a *brief* meeting after lunch.",
+     "vi": "Hãy họp ngắn sau bữa trưa."
+    }
+   ]
+  },
+  {
+   "id": "mtg_briefly",
+   "word": "briefly",
+   "pos": "adverb",
+   "ipa": "/ˈbriːfli/",
+   "level": "B2",
+   "meaning": "một cách ngắn gọn",
+   "definition": "for a short time; in a few words",
+   "collocations": [
+    "briefly explain",
+    "speak briefly"
+   ],
+   "examples": [
+    {
+     "en": "I'll *briefly* explain the new procedure.",
+     "vi": "Tôi sẽ giải thích ngắn gọn quy trình mới."
+    }
+   ]
+  },
+  {
+   "id": "mtg_summarize",
+   "word": "summarize",
+   "pos": "verb",
+   "ipa": "/ˈsʌməraɪz/",
+   "level": "B1",
+   "meaning": "tóm tắt",
+   "definition": "to give the main points of something",
+   "collocations": [
+    "summarize the results",
+    "to summarize"
+   ],
+   "examples": [
+    {
+     "en": "Could you *summarize* the main points of the report?",
+     "vi": "Bạn có thể tóm tắt các ý chính của báo cáo không?"
+    }
+   ]
+  },
+  {
+   "id": "mtg_summary",
+   "word": "summary",
+   "pos": "noun",
+   "ipa": "/ˈsʌməri/",
+   "level": "B1",
+   "meaning": "bản tóm tắt",
+   "definition": "a short statement of the main points",
+   "collocations": [
+    "in summary",
+    "a brief summary",
+    "executive summary"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *summary* before the meeting.",
+     "vi": "Vui lòng đọc bản tóm tắt trước cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "mtg_outline",
+   "word": "outline",
+   "pos": "noun",
+   "ipa": "/ˈaʊtlaɪn/",
+   "level": "B2",
+   "meaning": "dàn ý, đề cương",
+   "definition": "a description of the main facts or points",
+   "collocations": [
+    "an outline of the plan",
+    "in outline"
+   ],
+   "examples": [
+    {
+     "en": "Here is an *outline* of the training program.",
+     "vi": "Đây là đề cương của chương trình đào tạo."
+    }
+   ]
+  },
+  {
+   "id": "mtg_presentation",
+   "word": "presentation",
+   "pos": "noun",
+   "ipa": "/ˌpriːzenˈteɪʃn/",
+   "level": "B1",
+   "meaning": "bài thuyết trình",
+   "definition": "a talk giving information about something",
+   "collocations": [
+    "give a presentation",
+    "sales presentation"
+   ],
+   "examples": [
+    {
+     "en": "She gave an excellent *presentation* on the new product.",
+     "vi": "Cô ấy có bài thuyết trình xuất sắc về sản phẩm mới."
+    }
+   ]
+  },
+  {
+   "id": "mtg_handout",
+   "word": "handout",
+   "pos": "noun",
+   "ipa": "/ˈhændaʊt/",
+   "level": "TOEIC",
+   "meaning": "tài liệu phát tay",
+   "definition": "a document given to people at a meeting or class",
+   "collocations": [
+    "print handouts",
+    "refer to the handout"
+   ],
+   "examples": [
+    {
+     "en": "Please refer to page 3 of the *handout*.",
+     "vi": "Vui lòng xem trang 3 của tài liệu phát tay."
+    }
+   ]
+  },
+  {
+   "id": "mtg_attachment",
+   "word": "attachment",
+   "pos": "noun",
+   "ipa": "/əˈtætʃmənt/",
+   "level": "B2",
+   "meaning": "tệp đính kèm",
+   "definition": "a file sent with an e-mail",
+   "collocations": [
+    "open the attachment",
+    "see attachment"
+   ],
+   "examples": [
+    {
+     "en": "Please see the *attachment* for details.",
+     "vi": "Vui lòng xem tệp đính kèm để biết chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "mtg_correspondence",
+   "word": "correspondence",
+   "pos": "noun",
+   "ipa": "/ˌkɔːrəˈspɑːndəns/",
+   "level": "TOEIC",
+   "meaning": "thư từ giao dịch",
+   "definition": "letters or e-mails exchanged",
+   "collocations": [
+    "business correspondence",
+    "in correspondence with"
+   ],
+   "examples": [
+    {
+     "en": "All *correspondence* should be sent to the main office.",
+     "vi": "Mọi thư từ nên được gửi đến văn phòng chính."
+    }
+   ]
+  },
+  {
+   "id": "mtg_reminder",
+   "word": "reminder",
+   "pos": "noun",
+   "ipa": "/rɪˈmaɪndər/",
+   "level": "C1",
+   "meaning": "lời nhắc",
+   "definition": "a message that helps someone remember",
+   "collocations": [
+    "send a reminder",
+    "a friendly reminder"
+   ],
+   "examples": [
+    {
+     "en": "This is a friendly *reminder* about tomorrow's meeting.",
+     "vi": "Đây là lời nhắc về cuộc họp ngày mai."
+    }
+   ]
+  },
+  {
+   "id": "mtg_remind",
+   "word": "remind",
+   "pos": "verb",
+   "ipa": "/rɪˈmaɪnd/",
+   "level": "B1",
+   "meaning": "nhắc nhở",
+   "definition": "to help someone remember",
+   "collocations": [
+    "remind someone to",
+    "remind someone about"
+   ],
+   "examples": [
+    {
+     "en": "Please *remind* me to call the client.",
+     "vi": "Vui lòng nhắc tôi gọi cho khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "mtg_interrupt",
+   "word": "interrupt",
+   "pos": "verb",
+   "ipa": "/ˌɪntəˈrʌpt/",
+   "level": "B2",
+   "meaning": "ngắt lời, làm gián đoạn",
+   "definition": "to stop someone while they are speaking",
+   "collocations": [
+    "sorry to interrupt",
+    "be interrupted by"
+   ],
+   "examples": [
+    {
+     "en": "Sorry to *interrupt*, but there's a call for you.",
+     "vi": "Xin lỗi ngắt lời, nhưng có điện thoại cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "mtg_acknowledge",
+   "word": "acknowledge",
+   "pos": "verb",
+   "ipa": "/əkˈnɑːlɪdʒ/",
+   "level": "B2",
+   "meaning": "thừa nhận; báo đã nhận",
+   "definition": "to accept that something is true; to say you received something",
+   "collocations": [
+    "acknowledge receipt",
+    "acknowledge a mistake"
+   ],
+   "examples": [
+    {
+     "en": "Please *acknowledge* receipt of this e-mail.",
+     "vi": "Vui lòng xác nhận đã nhận e-mail này."
+    }
+   ]
+  },
+  {
+   "id": "mtg_assure",
+   "word": "assure",
+   "pos": "verb",
+   "ipa": "/əˈʃʊr/",
+   "level": "B2",
+   "meaning": "cam đoan, đảm bảo",
+   "definition": "to tell someone something is true to remove doubt",
+   "collocations": [
+    "assure someone that",
+    "rest assured"
+   ],
+   "examples": [
+    {
+     "en": "I *assure* you that the problem will be fixed today.",
+     "vi": "Tôi cam đoan với bạn vấn đề sẽ được khắc phục hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "mtg_convey",
+   "word": "convey",
+   "pos": "verb",
+   "ipa": "/kənˈveɪ/",
+   "level": "B2",
+   "meaning": "truyền đạt",
+   "definition": "to make ideas or feelings known",
+   "collocations": [
+    "convey a message",
+    "convey information"
+   ],
+   "examples": [
+    {
+     "en": "The chart *conveys* the information clearly.",
+     "vi": "Biểu đồ truyền đạt thông tin một cách rõ ràng."
+    }
+   ]
+  },
+  {
+   "id": "mtg_communication",
+   "word": "communication",
+   "pos": "noun",
+   "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+   "level": "B1",
+   "meaning": "sự giao tiếp, liên lạc",
+   "definition": "the activity of sharing information",
+   "collocations": [
+    "communication skills",
+    "good communication"
+   ],
+   "examples": [
+    {
+     "en": "Good *communication* is the key to teamwork.",
+     "vi": "Giao tiếp tốt là chìa khóa của làm việc nhóm."
+    }
+   ]
+  },
+  {
+   "id": "mtg_contact",
+   "word": "contact",
+   "pos": "verb",
+   "ipa": "/ˈkɑːntækt/",
+   "level": "B1",
+   "meaning": "liên hệ",
+   "definition": "to communicate with someone by phone, e-mail etc.",
+   "collocations": [
+    "contact us",
+    "contact the office",
+    "be contacted"
+   ],
+   "examples": [
+    {
+     "en": "For more information, *contact* our customer service team.",
+     "vi": "Để biết thêm thông tin, hãy liên hệ đội chăm sóc khách hàng."
+    }
+   ],
+   "note": "contact someone (không có giới từ)."
+  },
+  {
+   "id": "mtg_interaction",
+   "word": "interaction",
+   "pos": "noun",
+   "ipa": "/ˌɪntərˈækʃn/",
+   "level": "B2",
+   "meaning": "sự tương tác",
+   "definition": "communication between people",
+   "collocations": [
+    "social interaction",
+    "customer interaction"
+   ],
+   "examples": [
+    {
+     "en": "The job involves a lot of *interaction* with customers.",
+     "vi": "Công việc đòi hỏi tương tác nhiều với khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "mtg_gesture",
+   "word": "gesture",
+   "pos": "noun",
+   "ipa": "/ˈdʒestʃər/",
+   "level": "B2",
+   "meaning": "cử chỉ",
+   "definition": "a movement of the hand or head to show meaning",
+   "collocations": [
+    "a friendly gesture",
+    "make a gesture"
+   ],
+   "examples": [
+    {
+     "en": "Sending flowers was a kind *gesture*.",
+     "vi": "Gửi hoa là một cử chỉ tử tế."
+    }
+   ]
+  },
+  {
+   "id": "mtg_poll",
+   "word": "poll",
+   "pos": "noun",
+   "ipa": "/ˈpoʊl/",
+   "level": "C1",
+   "meaning": "cuộc thăm dò ý kiến",
+   "definition": "a survey of what people think",
+   "collocations": [
+    "conduct a poll",
+    "according to a poll"
+   ],
+   "examples": [
+    {
+     "en": "A recent *poll* shows that staff want flexible hours.",
+     "vi": "Một cuộc thăm dò gần đây cho thấy nhân viên muốn giờ làm linh hoạt."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

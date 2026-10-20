@@ -1,0 +1,65 @@
+#id: familiar2
+#prefix: fa2
+#order: 50
+#icon: 🔁
+#title: Familiar Words, New Meanings (2)
+#title_vi: Từ quen – nghĩa mới (2)
+#desc: Tiếp tục nhóm từ cơ bản mang nghĩa nâng cao, cùng các từ chỉ phương hướng, ẩm thực và đời sống.
+about | adverb | /əˈbaʊt/ | khoảng; xung quanh | approximately; in many directions | about 20 people; walk about | *About* 50 people attended the seminar. | Khoảng 50 người tham dự hội thảo.
+act | noun | /ækt/ | đạo luật; hành động; tiết mục | a law; an action; a short performance | an act of kindness; pass an act | Parliament passed a new *Act* on data privacy. | Quốc hội thông qua đạo luật mới về quyền riêng tư dữ liệu.
+advance | noun | /ədˈvæns/ | sự tiến bộ; tiền ứng trước | progress; money paid before | in advance; technological advances | Recent *advances* in technology make remote work easy. | Những tiến bộ công nghệ gần đây giúp làm việc từ xa dễ dàng.
+age | verb | /eɪdʒ/ | già đi; ủ (lâu năm) | to become older | an ageing population | Japan has an *ageing* population. | Nhật Bản có dân số đang già hóa.
+aid | noun | /eɪd/ | sự trợ giúp; dụng cụ hỗ trợ | help; something that helps | first aid; hearing aid; visual aids | Use visual *aids* to make your talk clear. | Dùng phương tiện trực quan để bài nói rõ ràng.
+aim | verb | /eɪm/ | nhằm mục đích | to try to achieve | aim to; be aimed at | The course is *aimed* at beginners. | Khóa học hướng tới người mới bắt đầu.
+altogether | adverb | /ˌɔːltəˈɡeðər/ | tổng cộng; hoàn toàn | in total; completely | altogether different; stop altogether | That comes to $45 *altogether*. | Tổng cộng là 45 đô.
+angle | noun | /ˈæŋɡl/ | góc; góc độ | the space between two lines; a point of view | from a different angle | Let's look at the problem from a different *angle*. | Hãy nhìn vấn đề từ một góc độ khác.
+apology | noun | /əˈpɑːlədʒi/ | lời xin lỗi | words saying sorry | make an apology; please accept our apologies | Please accept our *apologies* for the delay. | Xin quý khách thứ lỗi vì sự chậm trễ.
+excuse | noun | /ɪkˈskjuːs/ | lời bào chữa, cớ | a reason given to explain a mistake | make excuses; no excuse | There's no *excuse* for being rude to customers. | Không có lý do gì để thô lỗ với khách hàng.
+arrow | noun | /ˈæroʊ/ | mũi tên | a symbol pointing in a direction | follow the arrows | Follow the *arrows* to the conference room. | Đi theo các mũi tên để đến phòng hội nghị.
+bar | noun | /bɑːr/ | thanh; quầy bar | a long piece of metal; a place serving drinks | a chocolate bar; bar chart; menu bar | Click the menu *bar* at the top. | Nhấp vào thanh menu ở trên cùng.
+base | verb | /beɪs/ | đặt trụ sở; dựa vào | to have your main office in; to use as a basis | be based in; be based on | The company is *based* in Ho Chi Minh City. | Công ty đặt trụ sở tại TP. Hồ Chí Minh.
+bear | verb | /ber/ | chịu; mang | to accept something difficult; to carry | bear in mind; can't bear | Please *bear* in mind that the store closes at 6. | Xin lưu ý cửa hàng đóng cửa lúc 6 giờ.
+being | noun | /ˈbiːɪŋ/ | sinh vật; sự tồn tại | a living creature; existence | human beings; come into being | Human *beings* need sleep to stay healthy. | Con người cần ngủ để khỏe mạnh.
+bell | noun | /bel/ | cái chuông | a device that rings | ring the bell; doorbell | Please ring the *bell* for service. | Vui lòng bấm chuông để được phục vụ.
+better | verb | /ˈbetər/ | cải thiện; (had better) nên | to improve; used to give advice | you'd better; better yourself | You'd *better* leave early to avoid traffic. | Bạn nên đi sớm để tránh kẹt xe.
+block | noun | /blɑːk/ | dãy nhà; khối | a large building; a solid piece | office block; two blocks away | The bank is two *blocks* from here. | Ngân hàng cách đây hai dãy nhà.
+bold | adjective | /boʊld/ | táo bạo; in đậm | brave; printed in thick letters | a bold decision; in bold | Key words are printed in *bold*. | Từ khóa được in đậm.
+bond | noun | /bɑːnd/ | mối gắn kết; trái phiếu | a close connection; a financial certificate | build a bond; government bonds | Team events help build a strong *bond*. | Các hoạt động tập thể giúp gắn kết đội.
+border | noun | /ˈbɔːrdər/ | biên giới; viền | the line between two countries | cross the border; border control | We crossed the *border* into Cambodia. | Chúng tôi qua biên giới sang Campuchia.
+bound | adjective | /baʊnd/ | chắc chắn sẽ; đi đến | certain to happen; travelling towards | bound to; bound for | Prices are *bound* to rise next year. | Giá chắc chắn sẽ tăng năm sau. | a train bound for Hanoi = tàu đi Hà Nội.
+bubble | noun | /ˈbʌbl/ | bong bóng | a ball of air or gas | soap bubbles; bubble tea | Let's get some *bubble* tea after work. | Tan làm mình đi uống trà sữa nhé.
+but | preposition | /bʌt/ | ngoại trừ | except | all but one; nothing but | Everyone *but* Tom came to the meeting. | Mọi người trừ Tom đều đến họp.
+by | preposition | /baɪ/ | trước (hạn); bởi | not later than; by means of | by Friday; by e-mail; by bus | Please reply *by* Friday. | Vui lòng trả lời trước thứ Sáu. | by + thời hạn = chậm nhất là (rất hay gặp Part 5).
+cap | noun | /kæp/ | mũ lưỡi trai; nắp; mức trần | a soft hat; a lid; an upper limit | baseball cap; a cap on spending | There is a *cap* on travel spending. | Có mức trần cho chi phí đi lại.
+cast | noun | /kæst/ | dàn diễn viên | all the actors in a film or play | the cast of the film | The film has an amazing *cast*. | Bộ phim có dàn diễn viên tuyệt vời.
+chain | noun | /tʃeɪn/ | chuỗi (cửa hàng) | a group of shops owned by one company; connected metal rings | hotel chain; supply chain | The company runs a *chain* of coffee shops. | Công ty điều hành một chuỗi quán cà phê.
+chair | verb | /tʃer/ | chủ trì | to lead a meeting | chair a meeting | Ms. Lee will *chair* the meeting. | Bà Lee sẽ chủ trì cuộc họp.
+clear | verb | /klɪr/ | dọn sạch; được thông qua | to remove things; to give permission | clear the table; clear customs | Please *clear* your desk before you leave. | Vui lòng dọn bàn trước khi về.
+close | adjective | /kloʊs/ | gần; thân thiết; sát sao | near; very friendly; careful | close to; a close friend; pay close attention | Pay *close* attention to the instructions. | Chú ý kỹ hướng dẫn.
+content | noun | /ˈkɑːntent/ | nội dung | the information in a website, book etc. | online content; content creator | The website has a lot of free *content*. | Website có nhiều nội dung miễn phí. | Tính từ content /kənˈtent/ = hài lòng.
+cool | adjective | /kuːl/ | mát; bình tĩnh; hay ho | a little cold; calm; good | keep cool; that's cool | Store in a *cool* dry place. | Bảo quản nơi khô mát.
+cream | noun | /kriːm/ | kem; màu kem | a thick liquid from milk; a substance for skin | sun cream; cream-coloured | Don't forget your sun *cream*. | Đừng quên kem chống nắng.
+cue | noun | /kjuː/ | tín hiệu, gợi ý | a signal to do something | on cue; take a cue from | Listen for *cues* in the conversation. | Hãy nghe các tín hiệu trong cuộc hội thoại.
+diamond | noun | /ˈdaɪəmənd/ | kim cương | a very hard valuable stone | diamond ring | She wore a *diamond* necklace. | Cô ấy đeo dây chuyền kim cương.
+dot | noun | /dɑːt/ | dấu chấm | a small round mark | on the dot; dot com | The meeting starts at 9 on the *dot*. | Cuộc họp bắt đầu đúng 9 giờ.
+drunk | adjective | /drʌŋk/ | say rượu | having drunk too much alcohol | get drunk; drunk driving | *Drunk* driving is a serious offence. | Lái xe khi say rượu là vi phạm nghiêm trọng.
+dump | verb | /dʌmp/ | vứt bỏ, đổ | to throw away carelessly | dump rubbish | Do not *dump* rubbish here. | Không được đổ rác ở đây.
+eastern | adjective | /ˈiːstərn/ | thuộc phía đông | in or from the east | Eastern Europe; eastern coast | The resort is on the *eastern* coast. | Khu nghỉ dưỡng nằm ở bờ biển phía đông.
+western | adjective | /ˈwestərn/ | thuộc phía tây; phương Tây | in or from the west | western region; Western culture | The *western* part of the city is quieter. | Phía tây thành phố yên tĩnh hơn.
+northern | adjective | /ˈnɔːrðərn/ | thuộc phía bắc | in or from the north | northern Vietnam | Winters are cold in *northern* Vietnam. | Mùa đông ở miền Bắc Việt Nam lạnh.
+southern | adjective | /ˈsʌðərn/ | thuộc phía nam | in or from the south | southern region | The company has offices in the *southern* provinces. | Công ty có văn phòng ở các tỉnh phía Nam.
+even | adjective | /ˈiːvn/ | bằng phẳng; chẵn; đều | flat; divisible by two; equal | even numbers; an even surface | Place the machine on an *even* surface. | Đặt máy trên bề mặt phẳng.
+favour | noun | /ˈfeɪvər/ | sự giúp đỡ; sự ủng hộ | a kind act; support | do me a favour; in favour of | Could you do me a *favour*? | Bạn giúp tôi một việc được không? | in favour of = ủng hộ. Anh-Mỹ: favor.
+feed | verb | /fiːd/ | cho ăn; cung cấp | to give food; to supply | feed the cat; feed paper into | *Feed* the paper into the printer one sheet at a time. | Đưa giấy vào máy in từng tờ một.
+feel | noun | /fiːl/ | cảm giác, không khí | the impression something gives | a homely feel; get a feel for | The hotel has a friendly, relaxed *feel*. | Khách sạn mang lại cảm giác thân thiện, thư thái.
+fighting | noun | /ˈfaɪtɪŋ/ | giao tranh, đánh nhau | the act of fighting | heavy fighting | *Fighting* broke out near the border. | Giao tranh nổ ra gần biên giới.
+figure | noun | /ˈfɪɡjər/ | số liệu; nhân vật | a number; a person | sales figures; a public figure | The latest sales *figures* look good. | Số liệu bán hàng mới nhất rất khả quan. | figure out = tìm ra.
+flag | noun | /flæɡ/ | lá cờ | a piece of cloth with a design | national flag | The national *flag* flies outside the building. | Quốc kỳ tung bay bên ngoài tòa nhà.
+flavour | noun | /ˈfleɪvər/ | hương vị | taste | strong flavour; ice cream flavours | This ice cream comes in ten *flavours*. | Loại kem này có mười hương vị.
+flour | noun | /ˈflaʊər/ | bột mì | powder made from grain | wheat flour; rice flour | Mix the *flour* with milk and eggs. | Trộn bột mì với sữa và trứng.
+following | adjective | /ˈfɑːloʊɪŋ/ | sau đây; tiếp theo | next; listed next | the following day; the following items | Please bring the *following* documents. | Vui lòng mang các giấy tờ sau.
+go | noun | /ɡoʊ/ | lần thử | an attempt | have a go; give it a go | I've never tried it, but I'll give it a *go*. | Tôi chưa thử bao giờ nhưng sẽ thử một lần.
+grocery | noun | /ˈɡroʊsəri/ | cửa hàng tạp hóa | a shop selling food | grocery store | There's a *grocery* store on the corner. | Có một cửa hàng tạp hóa ở góc phố.
+mall | noun | /mɔːl/ | trung tâm thương mại | a large building with many shops | shopping mall | Let's meet at the shopping *mall*. | Gặp nhau ở trung tâm thương mại nhé.
+spice | noun | /spaɪs/ | gia vị | a powder or seed used to add flavour | herbs and spices | This dish uses a lot of *spices*. | Món này dùng nhiều gia vị.
+stall | noun | /stɔːl/ | quầy hàng, sạp | a table or small shop in a market | market stall; food stall | There are dozens of food *stalls* at the night market. | Có hàng chục quầy đồ ăn ở chợ đêm.

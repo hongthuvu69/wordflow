@@ -1,0 +1,813 @@
+{
+ "id": "toeic_part1",
+ "order": 70,
+ "icon": "🖼️",
+ "level": "TOEIC",
+ "title": "TOEIC: Picture Words (Part 1)",
+ "title_vi": "TOEIC: Từ vựng mô tả tranh (Part 1)",
+ "description": "Vỉa hè, lan can, giá treo, xe đẩy, bến tàu…: những đồ vật và cảnh vật hay xuất hiện trong ảnh Part 1.",
+ "words": [
+  {
+   "id": "tp1_sidewalk",
+   "word": "sidewalk",
+   "pos": "noun",
+   "ipa": "/ˈsaɪdwɔːk/",
+   "level": "TOEIC",
+   "meaning": "vỉa hè",
+   "definition": "a path for people beside a road",
+   "collocations": [
+    "walk along the sidewalk"
+   ],
+   "examples": [
+    {
+     "en": "People are walking along the *sidewalk*.",
+     "vi": "Mọi người đang đi bộ trên vỉa hè."
+    }
+   ],
+   "note": "Anh-Anh: pavement."
+  },
+  {
+   "id": "tp1_pedestrian",
+   "word": "pedestrian",
+   "pos": "noun",
+   "ipa": "/pəˈdestriən/",
+   "level": "TOEIC",
+   "meaning": "người đi bộ",
+   "definition": "a person walking in the street",
+   "collocations": [
+    "pedestrian crossing"
+   ],
+   "examples": [
+    {
+     "en": "*Pedestrians* are crossing the street.",
+     "vi": "Người đi bộ đang băng qua đường."
+    }
+   ]
+  },
+  {
+   "id": "tp1_crosswalk",
+   "word": "crosswalk",
+   "pos": "noun",
+   "ipa": "/ˈkrɔːswɔːk/",
+   "level": "TOEIC",
+   "meaning": "vạch sang đường",
+   "definition": "a marked place to cross a road",
+   "collocations": [
+    "at the crosswalk"
+   ],
+   "examples": [
+    {
+     "en": "A woman is waiting at the *crosswalk*.",
+     "vi": "Một người phụ nữ đang chờ ở vạch sang đường."
+    }
+   ]
+  },
+  {
+   "id": "tp1_curb",
+   "word": "curb",
+   "pos": "noun",
+   "ipa": "/kɜːrb/",
+   "level": "TOEIC",
+   "meaning": "lề đường",
+   "definition": "the edge of a sidewalk",
+   "collocations": [
+    "park by the curb"
+   ],
+   "examples": [
+    {
+     "en": "A car is parked by the *curb*.",
+     "vi": "Một chiếc xe đỗ cạnh lề đường."
+    }
+   ]
+  },
+  {
+   "id": "tp1_streetlight",
+   "word": "streetlight",
+   "pos": "noun",
+   "ipa": "/ˈstriːtlaɪt/",
+   "level": "TOEIC",
+   "meaning": "đèn đường",
+   "definition": "a light on a tall post beside a road",
+   "collocations": [
+    "a row of streetlights"
+   ],
+   "examples": [
+    {
+     "en": "*Streetlights* line the road.",
+     "vi": "Đèn đường chạy dọc con đường."
+    }
+   ]
+  },
+  {
+   "id": "tp1_railing",
+   "word": "railing",
+   "pos": "noun",
+   "ipa": "/ˈreɪlɪŋ/",
+   "level": "TOEIC",
+   "meaning": "lan can",
+   "definition": "a fence of bars",
+   "collocations": [
+    "lean on the railing"
+   ],
+   "examples": [
+    {
+     "en": "A man is leaning on the *railing*.",
+     "vi": "Một người đàn ông đang tựa vào lan can."
+    }
+   ]
+  },
+  {
+   "id": "tp1_handrail",
+   "word": "handrail",
+   "pos": "noun",
+   "ipa": "/ˈhændreɪl/",
+   "level": "TOEIC",
+   "meaning": "tay vịn",
+   "definition": "a bar to hold on stairs",
+   "collocations": [
+    "hold the handrail"
+   ],
+   "examples": [
+    {
+     "en": "Please hold the *handrail* on the stairs.",
+     "vi": "Vui lòng vịn tay vịn khi đi cầu thang."
+    }
+   ]
+  },
+  {
+   "id": "tp1_staircase",
+   "word": "staircase",
+   "pos": "noun",
+   "ipa": "/ˈsterkeɪs/",
+   "level": "TOEIC",
+   "meaning": "cầu thang",
+   "definition": "a set of stairs",
+   "collocations": [
+    "climb the staircase"
+   ],
+   "examples": [
+    {
+     "en": "Some people are walking down a *staircase*.",
+     "vi": "Vài người đang đi xuống cầu thang."
+    }
+   ]
+  },
+  {
+   "id": "tp1_hallway",
+   "word": "hallway",
+   "pos": "noun",
+   "ipa": "/ˈhɔːlweɪ/",
+   "level": "TOEIC",
+   "meaning": "hành lang",
+   "definition": "a passage in a building",
+   "collocations": [
+    "at the end of the hallway"
+   ],
+   "examples": [
+    {
+     "en": "Boxes have been left in the *hallway*.",
+     "vi": "Các hộp được để ngoài hành lang."
+    }
+   ]
+  },
+  {
+   "id": "tp1_doorway",
+   "word": "doorway",
+   "pos": "noun",
+   "ipa": "/ˈdɔːrweɪ/",
+   "level": "TOEIC",
+   "meaning": "ô cửa ra vào",
+   "definition": "the space where a door opens",
+   "collocations": [
+    "stand in the doorway"
+   ],
+   "examples": [
+    {
+     "en": "A woman is standing in the *doorway*.",
+     "vi": "Một người phụ nữ đang đứng ở cửa ra vào."
+    }
+   ]
+  },
+  {
+   "id": "tp1_archway",
+   "word": "archway",
+   "pos": "noun",
+   "ipa": "/ˈɑːrtʃweɪ/",
+   "level": "TOEIC",
+   "meaning": "cổng vòm",
+   "definition": "a passage under an arch",
+   "collocations": [
+    "walk through an archway"
+   ],
+   "examples": [
+    {
+     "en": "People are walking through an *archway*.",
+     "vi": "Mọi người đang đi qua một cổng vòm."
+    }
+   ]
+  },
+  {
+   "id": "tp1_awning",
+   "word": "awning",
+   "pos": "noun",
+   "ipa": "/ˈɔːnɪŋ/",
+   "level": "TOEIC",
+   "meaning": "mái hiên (vải)",
+   "definition": "a cloth cover over a window or door",
+   "collocations": [
+    "under the awning"
+   ],
+   "examples": [
+    {
+     "en": "Tables are set up under an *awning*.",
+     "vi": "Bàn được bày dưới mái hiên."
+    }
+   ]
+  },
+  {
+   "id": "tp1_bench",
+   "word": "bench",
+   "pos": "noun",
+   "ipa": "/bentʃ/",
+   "level": "C1",
+   "meaning": "ghế băng",
+   "definition": "a long seat for several people",
+   "collocations": [
+    "sit on a bench",
+    "park bench"
+   ],
+   "examples": [
+    {
+     "en": "Two people are sitting on a *bench*.",
+     "vi": "Hai người đang ngồi trên ghế băng."
+    }
+   ]
+  },
+  {
+   "id": "tp1_fountain",
+   "word": "fountain",
+   "pos": "noun",
+   "ipa": "/ˈfaʊntn/",
+   "level": "TOEIC",
+   "meaning": "đài phun nước",
+   "definition": "a structure that sends water into the air",
+   "collocations": [
+    "in front of the fountain"
+   ],
+   "examples": [
+    {
+     "en": "Children are playing near the *fountain*.",
+     "vi": "Trẻ em đang chơi gần đài phun nước."
+    }
+   ]
+  },
+  {
+   "id": "tp1_lawn",
+   "word": "lawn",
+   "pos": "noun",
+   "ipa": "/lɔːn/",
+   "level": "C1",
+   "meaning": "bãi cỏ",
+   "definition": "an area of short grass",
+   "collocations": [
+    "mow the lawn"
+   ],
+   "examples": [
+    {
+     "en": "A man is mowing the *lawn*.",
+     "vi": "Một người đàn ông đang cắt cỏ."
+    }
+   ]
+  },
+  {
+   "id": "tp1_mow",
+   "word": "mow",
+   "pos": "verb",
+   "ipa": "/moʊ/",
+   "level": "TOEIC",
+   "meaning": "cắt cỏ",
+   "definition": "to cut grass",
+   "collocations": [
+    "mow the lawn",
+    "lawn mower"
+   ],
+   "examples": [
+    {
+     "en": "The gardener is *mowing* the grass.",
+     "vi": "Người làm vườn đang cắt cỏ."
+    }
+   ]
+  },
+  {
+   "id": "tp1_rake",
+   "word": "rake",
+   "pos": "verb",
+   "ipa": "/reɪk/",
+   "level": "TOEIC",
+   "meaning": "cào",
+   "definition": "to collect leaves with a tool",
+   "collocations": [
+    "rake leaves"
+   ],
+   "examples": [
+    {
+     "en": "A woman is *raking* leaves.",
+     "vi": "Một người phụ nữ đang cào lá."
+    }
+   ]
+  },
+  {
+   "id": "tp1_hose",
+   "word": "hose",
+   "pos": "noun",
+   "ipa": "/hoʊz/",
+   "level": "TOEIC",
+   "meaning": "vòi nước",
+   "definition": "a long tube for water",
+   "collocations": [
+    "garden hose"
+   ],
+   "examples": [
+    {
+     "en": "He is watering plants with a *hose*.",
+     "vi": "Anh ấy đang tưới cây bằng vòi nước."
+    }
+   ]
+  },
+  {
+   "id": "tp1_wheelbarrow",
+   "word": "wheelbarrow",
+   "pos": "noun",
+   "ipa": "/ˈwiːlbæroʊ/",
+   "level": "TOEIC",
+   "meaning": "xe cút kít",
+   "definition": "a small cart with one wheel",
+   "collocations": [
+    "push a wheelbarrow"
+   ],
+   "examples": [
+    {
+     "en": "A worker is pushing a *wheelbarrow*.",
+     "vi": "Một công nhân đang đẩy xe cút kít."
+    }
+   ]
+  },
+  {
+   "id": "tp1_potted_plant",
+   "word": "potted plant",
+   "pos": "noun",
+   "ipa": "/ˌpɑːtɪd ˈplænt/",
+   "level": "TOEIC",
+   "meaning": "chậu cây",
+   "definition": "a plant in a pot",
+   "collocations": [
+    "potted plants on the windowsill"
+   ],
+   "examples": [
+    {
+     "en": "*Potted plants* have been placed by the window.",
+     "vi": "Chậu cây được đặt cạnh cửa sổ."
+    }
+   ]
+  },
+  {
+   "id": "tp1_windowsill",
+   "word": "windowsill",
+   "pos": "noun",
+   "ipa": "/ˈwɪndoʊsɪl/",
+   "level": "TOEIC",
+   "meaning": "bậu cửa sổ",
+   "definition": "the shelf at the bottom of a window",
+   "collocations": [
+    "on the windowsill"
+   ],
+   "examples": [
+    {
+     "en": "A cup has been left on the *windowsill*.",
+     "vi": "Một cái cốc bị bỏ lại trên bậu cửa sổ."
+    }
+   ]
+  },
+  {
+   "id": "tp1_rack",
+   "word": "rack",
+   "pos": "noun",
+   "ipa": "/ræk/",
+   "level": "TOEIC",
+   "meaning": "giá, kệ (treo/để)",
+   "definition": "a frame for holding things",
+   "collocations": [
+    "clothing rack",
+    "bicycle rack"
+   ],
+   "examples": [
+    {
+     "en": "Clothes are hanging on a *rack*.",
+     "vi": "Quần áo được treo trên giá."
+    }
+   ]
+  },
+  {
+   "id": "tp1_display_case",
+   "word": "display case",
+   "pos": "noun",
+   "ipa": "/dɪˈspleɪ keɪs/",
+   "level": "TOEIC",
+   "meaning": "tủ trưng bày",
+   "definition": "a glass box for showing items",
+   "collocations": [
+    "items in a display case"
+   ],
+   "examples": [
+    {
+     "en": "Jewelry is shown in a *display case*.",
+     "vi": "Trang sức được trưng bày trong tủ kính."
+    }
+   ]
+  },
+  {
+   "id": "tp1_storefront",
+   "word": "storefront",
+   "pos": "noun",
+   "ipa": "/ˈstɔːrfrʌnt/",
+   "level": "TOEIC",
+   "meaning": "mặt tiền cửa hàng",
+   "definition": "the front of a shop facing the street",
+   "collocations": [
+    "a glass storefront"
+   ],
+   "examples": [
+    {
+     "en": "A sign is hanging above the *storefront*.",
+     "vi": "Một tấm biển treo phía trên mặt tiền cửa hàng."
+    }
+   ]
+  },
+  {
+   "id": "tp1_street_vendor",
+   "word": "street vendor",
+   "pos": "noun",
+   "ipa": "/ˌstriːt ˈvendər/",
+   "level": "TOEIC",
+   "meaning": "người bán hàng rong",
+   "definition": "a person selling things on the street",
+   "collocations": [
+    "buy from a street vendor"
+   ],
+   "examples": [
+    {
+     "en": "A *street vendor* is selling fruit.",
+     "vi": "Một người bán hàng rong đang bán trái cây."
+    }
+   ]
+  },
+  {
+   "id": "tp1_stool",
+   "word": "stool",
+   "pos": "noun",
+   "ipa": "/stuːl/",
+   "level": "TOEIC",
+   "meaning": "ghế đẩu",
+   "definition": "a seat with no back",
+   "collocations": [
+    "sit on a stool",
+    "bar stool"
+   ],
+   "examples": [
+    {
+     "en": "A man is sitting on a *stool* at the counter.",
+     "vi": "Một người đàn ông ngồi ghế đẩu ở quầy."
+    }
+   ]
+  },
+  {
+   "id": "tp1_lamp",
+   "word": "lamp",
+   "pos": "noun",
+   "ipa": "/læmp/",
+   "level": "A2",
+   "meaning": "đèn bàn",
+   "definition": "a device that gives light",
+   "collocations": [
+    "desk lamp",
+    "turn on a lamp"
+   ],
+   "examples": [
+    {
+     "en": "A *lamp* is on the desk.",
+     "vi": "Có một cây đèn trên bàn."
+    }
+   ]
+  },
+  {
+   "id": "tp1_trolley",
+   "word": "trolley",
+   "pos": "noun",
+   "ipa": "/ˈtrɑːli/",
+   "level": "TOEIC",
+   "meaning": "xe đẩy",
+   "definition": "a cart with wheels",
+   "collocations": [
+    "luggage trolley"
+   ],
+   "examples": [
+    {
+     "en": "A man is pushing a luggage *trolley*.",
+     "vi": "Một người đàn ông đang đẩy xe hành lý."
+    }
+   ]
+  },
+  {
+   "id": "tp1_dock",
+   "word": "dock",
+   "pos": "noun",
+   "ipa": "/dɑːk/",
+   "level": "TOEIC",
+   "meaning": "bến tàu",
+   "definition": "a place where ships are loaded",
+   "collocations": [
+    "at the dock"
+   ],
+   "examples": [
+    {
+     "en": "Boats are tied up at the *dock*.",
+     "vi": "Thuyền được buộc ở bến tàu."
+    }
+   ]
+  },
+  {
+   "id": "tp1_pier",
+   "word": "pier",
+   "pos": "noun",
+   "ipa": "/pɪr/",
+   "level": "TOEIC",
+   "meaning": "cầu tàu",
+   "definition": "a structure going out into the sea",
+   "collocations": [
+    "walk along the pier"
+   ],
+   "examples": [
+    {
+     "en": "People are fishing from the *pier*.",
+     "vi": "Mọi người đang câu cá trên cầu tàu."
+    }
+   ]
+  },
+  {
+   "id": "tp1_ferry",
+   "word": "ferry",
+   "pos": "noun",
+   "ipa": "/ˈferi/",
+   "level": "TOEIC",
+   "meaning": "phà",
+   "definition": "a boat carrying people and cars",
+   "collocations": [
+    "take the ferry"
+   ],
+   "examples": [
+    {
+     "en": "Passengers are getting off a *ferry*.",
+     "vi": "Hành khách đang xuống phà."
+    }
+   ]
+  },
+  {
+   "id": "tp1_dock_worker",
+   "word": "dock worker",
+   "pos": "noun",
+   "ipa": "/ˈdɑːk ˌwɜːrkər/",
+   "level": "TOEIC",
+   "meaning": "công nhân bến cảng",
+   "definition": "a person who loads and unloads ships",
+   "collocations": [
+    "dock workers unloading cargo"
+   ],
+   "examples": [
+    {
+     "en": "Two *dock workers* are lifting a crate.",
+     "vi": "Hai công nhân bến cảng đang nâng một thùng hàng."
+    }
+   ]
+  },
+  {
+   "id": "tp1_kneel",
+   "word": "kneel",
+   "pos": "verb",
+   "ipa": "/niːl/",
+   "level": "TOEIC",
+   "meaning": "quỳ",
+   "definition": "to go down on your knees",
+   "collocations": [
+    "kneel down"
+   ],
+   "examples": [
+    {
+     "en": "A woman is *kneeling* to plant flowers.",
+     "vi": "Một người phụ nữ đang quỳ để trồng hoa."
+    }
+   ],
+   "note": "kneel – knelt – knelt."
+  },
+  {
+   "id": "tp1_crouch",
+   "word": "crouch",
+   "pos": "verb",
+   "ipa": "/kraʊtʃ/",
+   "level": "TOEIC",
+   "meaning": "ngồi xổm, khom người",
+   "definition": "to bend your knees and lower your body",
+   "collocations": [
+    "crouch down"
+   ],
+   "examples": [
+    {
+     "en": "A man is *crouching* next to a car.",
+     "vi": "Một người đàn ông đang ngồi xổm cạnh xe ô tô."
+    }
+   ]
+  },
+  {
+   "id": "tp1_browse",
+   "word": "browse",
+   "pos": "verb",
+   "ipa": "/braʊz/",
+   "level": "TOEIC",
+   "meaning": "xem lướt (hàng hóa)",
+   "definition": "to look at things in a shop without a plan",
+   "collocations": [
+    "browse in a bookstore"
+   ],
+   "examples": [
+    {
+     "en": "Customers are *browsing* in a bookstore.",
+     "vi": "Khách hàng đang xem sách trong hiệu sách."
+    }
+   ]
+  },
+  {
+   "id": "tp1_stroll",
+   "word": "stroll",
+   "pos": "verb",
+   "ipa": "/stroʊl/",
+   "level": "TOEIC",
+   "meaning": "đi dạo",
+   "definition": "to walk slowly for pleasure",
+   "collocations": [
+    "stroll along the beach"
+   ],
+   "examples": [
+    {
+     "en": "A couple is *strolling* along the beach.",
+     "vi": "Một cặp đôi đang dạo dọc bãi biển."
+    }
+   ]
+  },
+  {
+   "id": "tp1_board_up",
+   "word": "board up",
+   "pos": "verb",
+   "ipa": "/ˌbɔːrd ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "lấy ván bịt lại",
+   "definition": "to cover with wooden boards",
+   "collocations": [
+    "windows boarded up"
+   ],
+   "examples": [
+    {
+     "en": "The windows have been *boarded up*.",
+     "vi": "Các cửa sổ đã bị bịt bằng ván."
+    }
+   ]
+  },
+  {
+   "id": "tp1_be_under_construction",
+   "word": "be under construction",
+   "pos": "verb",
+   "ipa": "/bi ˌʌndər kənˈstrʌkʃn/",
+   "level": "TOEIC",
+   "meaning": "đang được xây dựng",
+   "definition": "to be in the process of being built",
+   "collocations": [
+    "a building is under construction"
+   ],
+   "examples": [
+    {
+     "en": "A bridge *is under construction*.",
+     "vi": "Một cây cầu đang được xây dựng."
+    }
+   ],
+   "note": "Câu kinh điển Part 1."
+  },
+  {
+   "id": "tp1_be_lined_up",
+   "word": "be lined up",
+   "pos": "verb",
+   "ipa": "/bi ˌlaɪnd ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "được xếp thành hàng",
+   "definition": "to be arranged in a row",
+   "collocations": [
+    "cars are lined up"
+   ],
+   "examples": [
+    {
+     "en": "Bicycles *are lined up* along the fence.",
+     "vi": "Xe đạp được xếp thành hàng dọc hàng rào."
+    }
+   ]
+  },
+  {
+   "id": "tp1_be_propped_against",
+   "word": "be propped against",
+   "pos": "verb",
+   "ipa": "/bi ˌprɑːpt əˈɡenst/",
+   "level": "TOEIC",
+   "meaning": "được dựng tựa vào",
+   "definition": "to be leaning against something",
+   "collocations": [
+    "a ladder is propped against the wall"
+   ],
+   "examples": [
+    {
+     "en": "A ladder *is propped against* the wall.",
+     "vi": "Một cái thang được dựng tựa vào tường."
+    }
+   ]
+  },
+  {
+   "id": "tp1_overlook",
+   "word": "overlook",
+   "pos": "verb",
+   "ipa": "/ˌoʊvərˈlʊk/",
+   "level": "C1",
+   "meaning": "nhìn ra; bỏ sót",
+   "definition": "to have a view of; to fail to notice",
+   "collocations": [
+    "overlook the sea",
+    "overlook a mistake"
+   ],
+   "examples": [
+    {
+     "en": "The balcony *overlooks* the harbor.",
+     "vi": "Ban công nhìn ra bến cảng."
+    }
+   ]
+  },
+  {
+   "id": "tp1_reflection",
+   "word": "reflection",
+   "pos": "noun",
+   "ipa": "/rɪˈflekʃn/",
+   "level": "C1",
+   "meaning": "hình phản chiếu; sự suy ngẫm",
+   "definition": "an image in a mirror or water; careful thought",
+   "collocations": [
+    "a reflection in the water"
+   ],
+   "examples": [
+    {
+     "en": "Trees are casting *reflections* on the water.",
+     "vi": "Cây cối in bóng trên mặt nước."
+    }
+   ]
+  },
+  {
+   "id": "tp1_unoccupied",
+   "word": "unoccupied",
+   "pos": "adjective",
+   "ipa": "/ʌnˈɑːkjupaɪd/",
+   "level": "TOEIC",
+   "meaning": "trống, không có người",
+   "definition": "empty",
+   "collocations": [
+    "unoccupied seats"
+   ],
+   "examples": [
+    {
+     "en": "Some of the seats are *unoccupied*.",
+     "vi": "Một số ghế còn trống."
+    }
+   ]
+  },
+  {
+   "id": "tp1_deserted",
+   "word": "deserted",
+   "pos": "adjective",
+   "ipa": "/dɪˈzɜːrtɪd/",
+   "level": "TOEIC",
+   "meaning": "vắng vẻ",
+   "definition": "with no people",
+   "collocations": [
+    "a deserted street"
+   ],
+   "examples": [
+    {
+     "en": "The street is completely *deserted*.",
+     "vi": "Con phố hoàn toàn vắng vẻ."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

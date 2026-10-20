@@ -1,0 +1,1043 @@
+{
+ "id": "familiar1",
+ "order": 49,
+ "icon": "🔄",
+ "level": "B1",
+ "title": "Familiar Words, New Meanings (1)",
+ "title_vi": "Từ quen – nghĩa mới (1)",
+ "description": "Những từ bạn tưởng đã biết nhưng ở trình độ B1–B2 lại mang nghĩa khác: face a problem, head a team, point out…",
+ "words": [
+  {
+   "id": "fa1_face",
+   "word": "face",
+   "pos": "verb",
+   "ipa": "/feɪs/",
+   "level": "B1",
+   "meaning": "đối mặt",
+   "definition": "to have to deal with a problem",
+   "collocations": [
+    "face a problem",
+    "face challenges",
+    "be faced with"
+   ],
+   "examples": [
+    {
+     "en": "Many small businesses *face* rising costs.",
+     "vi": "Nhiều doanh nghiệp nhỏ đang đối mặt với chi phí tăng."
+    }
+   ]
+  },
+  {
+   "id": "fa1_head",
+   "word": "head",
+   "pos": "verb",
+   "ipa": "/hed/",
+   "level": "B1",
+   "meaning": "dẫn đầu; đi về hướng",
+   "definition": "to lead; to move towards",
+   "collocations": [
+    "head a team",
+    "head for",
+    "be headed by"
+   ],
+   "examples": [
+    {
+     "en": "She *heads* the marketing department.",
+     "vi": "Cô ấy đứng đầu phòng marketing."
+    }
+   ],
+   "note": "head office = trụ sở chính."
+  },
+  {
+   "id": "fa1_hand",
+   "word": "hand",
+   "pos": "verb",
+   "ipa": "/hænd/",
+   "level": "B1",
+   "meaning": "đưa, trao",
+   "definition": "to give with your hand",
+   "collocations": [
+    "hand in",
+    "hand out",
+    "hand over"
+   ],
+   "examples": [
+    {
+     "en": "Please *hand* in your reports by Friday.",
+     "vi": "Vui lòng nộp báo cáo trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "fa1_point",
+   "word": "point",
+   "pos": "verb",
+   "ipa": "/pɔɪnt/",
+   "level": "B1",
+   "meaning": "chỉ ra",
+   "definition": "to show with your finger; to show a fact",
+   "collocations": [
+    "point out",
+    "point to"
+   ],
+   "examples": [
+    {
+     "en": "She *pointed* out a mistake in the report.",
+     "vi": "Cô ấy chỉ ra một lỗi trong báo cáo."
+    }
+   ]
+  },
+  {
+   "id": "fa1_pointed",
+   "word": "pointed",
+   "pos": "adjective",
+   "ipa": "/ˈpɔɪntɪd/",
+   "level": "B2",
+   "meaning": "nhọn; thẳng thừng",
+   "definition": "having a sharp end; direct and critical",
+   "collocations": [
+    "a pointed question"
+   ],
+   "examples": [
+    {
+     "en": "He asked a few *pointed* questions about costs.",
+     "vi": "Anh ấy đặt vài câu hỏi thẳng thắn về chi phí."
+    }
+   ]
+  },
+  {
+   "id": "fa1_back",
+   "word": "back",
+   "pos": "verb",
+   "ipa": "/bæk/",
+   "level": "B2",
+   "meaning": "ủng hộ; lùi (xe)",
+   "definition": "to support; to move backwards",
+   "collocations": [
+    "back a plan",
+    "back up"
+   ],
+   "examples": [
+    {
+     "en": "The board *backed* the new plan.",
+     "vi": "Hội đồng ủng hộ kế hoạch mới."
+    }
+   ],
+   "note": "back up a file = sao lưu."
+  },
+  {
+   "id": "fa1_backwards",
+   "word": "backwards",
+   "pos": "adverb",
+   "ipa": "/ˈbækwərdz/",
+   "level": "B1",
+   "meaning": "về phía sau",
+   "definition": "towards the back",
+   "collocations": [
+    "step backwards",
+    "backwards and forwards"
+   ],
+   "examples": [
+    {
+     "en": "He took a step *backwards*.",
+     "vi": "Anh ấy lùi lại một bước."
+    }
+   ]
+  },
+  {
+   "id": "fa1_forward",
+   "word": "forward",
+   "pos": "adverb",
+   "ipa": "/ˈfɔːrwərd/",
+   "level": "B2",
+   "meaning": "về phía trước",
+   "definition": "towards the front or the future",
+   "collocations": [
+    "look forward to",
+    "move forward",
+    "forward an e-mail"
+   ],
+   "examples": [
+    {
+     "en": "I look *forward* to hearing from you.",
+     "vi": "Tôi mong nhận được hồi âm của bạn."
+    }
+   ],
+   "note": "Động từ forward = chuyển tiếp (forward the e-mail)."
+  },
+  {
+   "id": "fa1_upwards",
+   "word": "upwards",
+   "pos": "adverb",
+   "ipa": "/ˈʌpwərdz/",
+   "level": "B2",
+   "meaning": "hướng lên",
+   "definition": "towards a higher place or level",
+   "collocations": [
+    "move upwards",
+    "upwards of"
+   ],
+   "examples": [
+    {
+     "en": "Prices have moved *upwards* this year.",
+     "vi": "Giá đã đi lên trong năm nay."
+    }
+   ]
+  },
+  {
+   "id": "fa1_downwards",
+   "word": "downwards",
+   "pos": "adverb",
+   "ipa": "/ˈdaʊnwərdz/",
+   "level": "B2",
+   "meaning": "hướng xuống",
+   "definition": "towards a lower place or level",
+   "collocations": [
+    "face downwards",
+    "revised downwards"
+   ],
+   "examples": [
+    {
+     "en": "The sales forecast was revised *downwards*.",
+     "vi": "Dự báo doanh số bị điều chỉnh giảm."
+    }
+   ]
+  },
+  {
+   "id": "fa1_ahead",
+   "word": "ahead",
+   "pos": "adverb",
+   "ipa": "/əˈhed/",
+   "level": "B1",
+   "meaning": "phía trước; trước",
+   "definition": "in front; in the future; earlier",
+   "collocations": [
+    "go ahead",
+    "ahead of schedule",
+    "plan ahead"
+   ],
+   "examples": [
+    {
+     "en": "Go *ahead* and start without me.",
+     "vi": "Cứ bắt đầu trước đi, không cần chờ tôi."
+    }
+   ]
+  },
+  {
+   "id": "fa1_further",
+   "word": "further",
+   "pos": "adverb",
+   "ipa": "/ˈfɜːrðər/",
+   "level": "B1",
+   "meaning": "thêm nữa; xa hơn",
+   "definition": "more; to a greater degree",
+   "collocations": [
+    "further information",
+    "until further notice"
+   ],
+   "examples": [
+    {
+     "en": "The office is closed until *further* notice.",
+     "vi": "Văn phòng đóng cửa cho đến khi có thông báo mới."
+    }
+   ]
+  },
+  {
+   "id": "fa1_far",
+   "word": "far",
+   "pos": "adverb",
+   "ipa": "/fɑːr/",
+   "level": "B1",
+   "meaning": "rất nhiều; xa",
+   "definition": "much; a long distance",
+   "collocations": [
+    "far better",
+    "so far",
+    "as far as"
+   ],
+   "examples": [
+    {
+     "en": "So *far*, we have received 50 applications.",
+     "vi": "Đến nay, chúng tôi đã nhận 50 hồ sơ."
+    }
+   ]
+  },
+  {
+   "id": "fa1_elsewhere",
+   "word": "elsewhere",
+   "pos": "adverb",
+   "ipa": "/ˌelsˈwer/",
+   "level": "B2",
+   "meaning": "ở nơi khác",
+   "definition": "in another place",
+   "collocations": [
+    "look elsewhere"
+   ],
+   "examples": [
+    {
+     "en": "If the price is too high, customers will shop *elsewhere*.",
+     "vi": "Nếu giá quá cao, khách hàng sẽ mua ở nơi khác."
+    }
+   ]
+  },
+  {
+   "id": "fa1_hold",
+   "word": "hold",
+   "pos": "verb",
+   "ipa": "/hoʊld/",
+   "level": "B2",
+   "meaning": "tổ chức; chứa; giữ máy",
+   "definition": "to organize an event; to contain; to wait on the phone",
+   "collocations": [
+    "hold a meeting",
+    "hold on",
+    "hold 100 people"
+   ],
+   "examples": [
+    {
+     "en": "The meeting will be *held* in Room 3.",
+     "vi": "Cuộc họp sẽ được tổ chức tại phòng 3."
+    }
+   ],
+   "note": "\"Please hold\" = vui lòng giữ máy."
+  },
+  {
+   "id": "fa1_house",
+   "word": "house",
+   "pos": "verb",
+   "ipa": "/haʊz/",
+   "level": "B2",
+   "meaning": "chứa, làm nơi đặt",
+   "definition": "to provide space for",
+   "collocations": [
+    "be housed in"
+   ],
+   "examples": [
+    {
+     "en": "The museum is *housed* in an old bank.",
+     "vi": "Bảo tàng được đặt trong một tòa nhà ngân hàng cũ."
+    }
+   ],
+   "note": "Động từ phát âm /haʊz/."
+  },
+  {
+   "id": "fa1_store",
+   "word": "store",
+   "pos": "verb",
+   "ipa": "/stɔːr/",
+   "level": "B1",
+   "meaning": "lưu trữ",
+   "definition": "to keep for future use",
+   "collocations": [
+    "store data",
+    "store in a cool place"
+   ],
+   "examples": [
+    {
+     "en": "*Store* in a cool, dry place.",
+     "vi": "Bảo quản nơi khô mát."
+    }
+   ]
+  },
+  {
+   "id": "fa1_stand",
+   "word": "stand",
+   "pos": "verb",
+   "ipa": "/stænd/",
+   "level": "B2",
+   "meaning": "chịu đựng; ứng cử",
+   "definition": "to accept something unpleasant; to be a candidate",
+   "collocations": [
+    "can't stand",
+    "stand for"
+   ],
+   "examples": [
+    {
+     "en": "I can't *stand* waiting in long queues.",
+     "vi": "Tôi không chịu nổi việc xếp hàng dài."
+    }
+   ],
+   "note": "stand for = viết tắt của."
+  },
+  {
+   "id": "fa1_step",
+   "word": "step",
+   "pos": "noun",
+   "ipa": "/step/",
+   "level": "B2",
+   "meaning": "bước, biện pháp",
+   "definition": "an action in a process",
+   "collocations": [
+    "take steps",
+    "step by step",
+    "the next step"
+   ],
+   "examples": [
+    {
+     "en": "The next *step* is to sign the contract.",
+     "vi": "Bước tiếp theo là ký hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "fa1_move",
+   "word": "move",
+   "pos": "noun",
+   "ipa": "/muːv/",
+   "level": "B1",
+   "meaning": "bước đi, động thái",
+   "definition": "an action to achieve something",
+   "collocations": [
+    "a smart move",
+    "make a move"
+   ],
+   "examples": [
+    {
+     "en": "Opening a store online was a smart *move*.",
+     "vi": "Mở cửa hàng trực tuyến là một bước đi khôn ngoan."
+    }
+   ]
+  },
+  {
+   "id": "fa1_moving",
+   "word": "moving",
+   "pos": "adjective",
+   "ipa": "/ˈmuːvɪŋ/",
+   "level": "B2",
+   "meaning": "cảm động; đang di chuyển",
+   "definition": "causing strong emotion; changing place",
+   "collocations": [
+    "a moving speech",
+    "moving company"
+   ],
+   "examples": [
+    {
+     "en": "It was a very *moving* speech.",
+     "vi": "Đó là một bài phát biểu rất cảm động."
+    }
+   ]
+  },
+  {
+   "id": "fa1_lead",
+   "word": "lead",
+   "pos": "noun",
+   "ipa": "/liːd/",
+   "level": "B1",
+   "meaning": "vị trí dẫn đầu; đầu mối",
+   "definition": "the first position; information that may help",
+   "collocations": [
+    "take the lead",
+    "sales leads"
+   ],
+   "examples": [
+    {
+     "en": "She took the *lead* on the project.",
+     "vi": "Cô ấy đảm nhận vai trò dẫn dắt dự án."
+    }
+   ]
+  },
+  {
+   "id": "fa1_leading",
+   "word": "leading",
+   "pos": "adjective",
+   "ipa": "/ˈliːdɪŋ/",
+   "level": "B1",
+   "meaning": "hàng đầu",
+   "definition": "most important or successful",
+   "collocations": [
+    "a leading company",
+    "leading role"
+   ],
+   "examples": [
+    {
+     "en": "We are a *leading* supplier of office furniture.",
+     "vi": "Chúng tôi là nhà cung cấp nội thất văn phòng hàng đầu."
+    }
+   ]
+  },
+  {
+   "id": "fa1_leave",
+   "word": "leave",
+   "pos": "noun",
+   "ipa": "/liːv/",
+   "level": "B2",
+   "meaning": "kỳ nghỉ phép",
+   "definition": "time allowed away from work",
+   "collocations": [
+    "annual leave",
+    "sick leave",
+    "on leave"
+   ],
+   "examples": [
+    {
+     "en": "She is on maternity *leave* until June.",
+     "vi": "Cô ấy nghỉ thai sản đến tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "fa1_line",
+   "word": "line",
+   "pos": "noun",
+   "ipa": "/laɪn/",
+   "level": "B2",
+   "meaning": "dòng sản phẩm; hàng; đường dây",
+   "definition": "a type of product; a row; a phone connection",
+   "collocations": [
+    "product line",
+    "stand in line",
+    "hold the line"
+   ],
+   "examples": [
+    {
+     "en": "The company launched a new *line* of skin care products.",
+     "vi": "Công ty ra mắt dòng sản phẩm chăm sóc da mới."
+    }
+   ]
+  },
+  {
+   "id": "fa1_live",
+   "word": "live",
+   "pos": "adjective",
+   "ipa": "/laɪv/",
+   "level": "B1",
+   "meaning": "trực tiếp",
+   "definition": "happening now, not recorded",
+   "collocations": [
+    "live music",
+    "live broadcast"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has *live* music on Fridays.",
+     "vi": "Nhà hàng có nhạc sống vào thứ Sáu."
+    }
+   ],
+   "note": "Phát âm /laɪv/ khi là tính từ."
+  },
+  {
+   "id": "fa1_living",
+   "word": "living",
+   "pos": "noun",
+   "ipa": "/ˈlɪvɪŋ/",
+   "level": "B1",
+   "meaning": "sinh kế, cách kiếm sống",
+   "definition": "money to buy what you need",
+   "collocations": [
+    "earn a living",
+    "cost of living"
+   ],
+   "examples": [
+    {
+     "en": "What do you do for a *living*?",
+     "vi": "Bạn làm nghề gì?"
+    }
+   ]
+  },
+  {
+   "id": "fa1_low",
+   "word": "low",
+   "pos": "adjective",
+   "ipa": "/loʊ/",
+   "level": "B2",
+   "meaning": "thấp; sắp hết",
+   "definition": "small in amount; nearly used up",
+   "collocations": [
+    "low prices",
+    "running low on"
+   ],
+   "examples": [
+    {
+     "en": "We're running *low* on paper.",
+     "vi": "Chúng ta sắp hết giấy."
+    }
+   ]
+  },
+  {
+   "id": "fa1_high",
+   "word": "high",
+   "pos": "adjective",
+   "ipa": "/haɪ/",
+   "level": "B2",
+   "meaning": "cao (mức độ)",
+   "definition": "large in amount or level",
+   "collocations": [
+    "high quality",
+    "high demand"
+   ],
+   "examples": [
+    {
+     "en": "There is *high* demand for skilled workers.",
+     "vi": "Nhu cầu lao động lành nghề đang cao."
+    }
+   ]
+  },
+  {
+   "id": "fa1_loss",
+   "word": "loss",
+   "pos": "noun",
+   "ipa": "/lɔːs/",
+   "level": "B1",
+   "meaning": "sự thua lỗ; mất mát",
+   "definition": "money lost by a business; losing something",
+   "collocations": [
+    "make a loss",
+    "weight loss"
+   ],
+   "examples": [
+    {
+     "en": "The company made a *loss* last year.",
+     "vi": "Công ty bị lỗ năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "fa1_minor",
+   "word": "minor",
+   "pos": "adjective",
+   "ipa": "/ˈmaɪnər/",
+   "level": "B2",
+   "meaning": "nhỏ, không quan trọng",
+   "definition": "small; not serious",
+   "collocations": [
+    "minor changes",
+    "minor injury"
+   ],
+   "examples": [
+    {
+     "en": "We made a few *minor* changes to the design.",
+     "vi": "Chúng tôi đã thay đổi nhỏ trong thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "fa1_extra",
+   "word": "extra",
+   "pos": "adjective",
+   "ipa": "/ˈekstrə/",
+   "level": "B1",
+   "meaning": "thêm, phụ",
+   "definition": "more than usual",
+   "collocations": [
+    "extra charge",
+    "extra time"
+   ],
+   "examples": [
+    {
+     "en": "There is an *extra* charge for late check-out.",
+     "vi": "Trả phòng muộn sẽ bị tính thêm phí."
+    }
+   ]
+  },
+  {
+   "id": "fa1_free",
+   "word": "free",
+   "pos": "adjective",
+   "ipa": "/friː/",
+   "level": "B2",
+   "meaning": "miễn phí; rảnh; không có",
+   "definition": "costing nothing; not busy; without",
+   "collocations": [
+    "free of charge",
+    "sugar-free",
+    "feel free"
+   ],
+   "examples": [
+    {
+     "en": "Please feel *free* to ask questions.",
+     "vi": "Cứ thoải mái đặt câu hỏi nhé."
+    }
+   ]
+  },
+  {
+   "id": "fa1_empty",
+   "word": "empty",
+   "pos": "adjective",
+   "ipa": "/ˈempti/",
+   "level": "B1",
+   "meaning": "trống",
+   "definition": "with nothing inside",
+   "collocations": [
+    "empty seats",
+    "empty the bin"
+   ],
+   "examples": [
+    {
+     "en": "The office is almost *empty* on Fridays.",
+     "vi": "Văn phòng gần như trống vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "fa1_fixed",
+   "word": "fixed",
+   "pos": "adjective",
+   "ipa": "/fɪkst/",
+   "level": "B1",
+   "meaning": "cố định",
+   "definition": "not changing",
+   "collocations": [
+    "fixed price",
+    "fixed hours"
+   ],
+   "examples": [
+    {
+     "en": "The course has a *fixed* fee of $200.",
+     "vi": "Khóa học có học phí cố định 200 đô."
+    }
+   ]
+  },
+  {
+   "id": "fa1_due",
+   "word": "due",
+   "pos": "adjective",
+   "ipa": "/duː/",
+   "level": "B1",
+   "meaning": "đến hạn; do",
+   "definition": "expected to happen; owed; because of",
+   "collocations": [
+    "due date",
+    "due to",
+    "be due on"
+   ],
+   "examples": [
+    {
+     "en": "The report is *due* on Friday.",
+     "vi": "Báo cáo đến hạn vào thứ Sáu."
+    }
+   ],
+   "note": "due to + N = do, vì."
+  },
+  {
+   "id": "fa1_date",
+   "word": "date",
+   "pos": "verb",
+   "ipa": "/deɪt/",
+   "level": "B2",
+   "meaning": "ghi ngày; có từ",
+   "definition": "to write a date on; to have existed since",
+   "collocations": [
+    "dated May 5",
+    "date back to"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your letter *dated* May 5.",
+     "vi": "Cảm ơn thư ông/bà đề ngày 5/5."
+    }
+   ]
+  },
+  {
+   "id": "fa1_time",
+   "word": "time",
+   "pos": "verb",
+   "ipa": "/taɪm/",
+   "level": "B2",
+   "meaning": "chọn thời điểm; bấm giờ",
+   "definition": "to plan when something happens; to measure how long",
+   "collocations": [
+    "well timed",
+    "time yourself"
+   ],
+   "examples": [
+    {
+     "en": "*Time* yourself when you practise Part 7.",
+     "vi": "Hãy bấm giờ khi luyện Part 7."
+    }
+   ]
+  },
+  {
+   "id": "fa1_note",
+   "word": "note",
+   "pos": "verb",
+   "ipa": "/noʊt/",
+   "level": "B1",
+   "meaning": "lưu ý",
+   "definition": "to notice; to mention",
+   "collocations": [
+    "please note that",
+    "note down"
+   ],
+   "examples": [
+    {
+     "en": "Please *note* that the office will be closed on Monday.",
+     "vi": "Xin lưu ý văn phòng sẽ đóng cửa vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "fa1_object",
+   "word": "object",
+   "pos": "verb",
+   "ipa": "/əbˈdʒekt/",
+   "level": "B2",
+   "meaning": "phản đối",
+   "definition": "to say you disagree",
+   "collocations": [
+    "object to"
+   ],
+   "examples": [
+    {
+     "en": "Several residents *objected* to the new building.",
+     "vi": "Một số cư dân phản đối tòa nhà mới."
+    }
+   ],
+   "note": "Danh từ object /ˈɑːbdʒekt/ = đồ vật; mục tiêu."
+  },
+  {
+   "id": "fa1_subject",
+   "word": "subject",
+   "pos": "adjective",
+   "ipa": "/ˈsʌbdʒekt/",
+   "level": "B2",
+   "meaning": "(subject to) tùy thuộc vào",
+   "definition": "likely to be affected by",
+   "collocations": [
+    "subject to change",
+    "subject to approval"
+   ],
+   "examples": [
+    {
+     "en": "Prices are *subject* to change without notice.",
+     "vi": "Giá có thể thay đổi mà không báo trước."
+    }
+   ],
+   "note": "Cụm cực kỳ hay gặp trong TOEIC."
+  },
+  {
+   "id": "fa1_term",
+   "word": "term",
+   "pos": "noun",
+   "ipa": "/tɜːrm/",
+   "level": "B2",
+   "meaning": "thuật ngữ; kỳ hạn",
+   "definition": "a word for something; a period of time",
+   "collocations": [
+    "technical term",
+    "in the long term"
+   ],
+   "examples": [
+    {
+     "en": "In the long *term*, the system will save money.",
+     "vi": "Về lâu dài, hệ thống sẽ tiết kiệm tiền."
+    }
+   ]
+  },
+  {
+   "id": "fa1_terms",
+   "word": "terms",
+   "pos": "noun",
+   "ipa": "/tɜːrmz/",
+   "level": "B2",
+   "meaning": "điều khoản",
+   "definition": "conditions of an agreement",
+   "collocations": [
+    "terms and conditions",
+    "in terms of"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *terms* and conditions carefully.",
+     "vi": "Vui lòng đọc kỹ các điều khoản và điều kiện."
+    }
+   ],
+   "note": "in terms of = xét về mặt."
+  },
+  {
+   "id": "fa1_suit",
+   "word": "suit",
+   "pos": "verb",
+   "ipa": "/suːt/",
+   "level": "B1",
+   "meaning": "phù hợp với",
+   "definition": "to be convenient or right for",
+   "collocations": [
+    "suit your needs",
+    "suit you"
+   ],
+   "examples": [
+    {
+     "en": "We offer plans to *suit* every budget.",
+     "vi": "Chúng tôi có các gói phù hợp mọi ngân sách."
+    }
+   ]
+  },
+  {
+   "id": "fa1_treat",
+   "word": "treat",
+   "pos": "verb",
+   "ipa": "/triːt/",
+   "level": "B1",
+   "meaning": "đối xử; chiêu đãi",
+   "definition": "to behave towards; to pay for someone",
+   "collocations": [
+    "treat someone fairly",
+    "treat yourself"
+   ],
+   "examples": [
+    {
+     "en": "Let me *treat* you to lunch.",
+     "vi": "Để tôi mời bạn bữa trưa."
+    }
+   ]
+  },
+  {
+   "id": "fa1_cover",
+   "word": "cover",
+   "pos": "verb",
+   "ipa": "/ˈkʌvər/",
+   "level": "B1",
+   "meaning": "chi trả; bao gồm; đưa tin; làm thay",
+   "definition": "to pay for; to include; to report; to do someone's work",
+   "collocations": [
+    "cover the cost",
+    "cover a topic",
+    "cover for"
+   ],
+   "examples": [
+    {
+     "en": "Can you *cover* for me on Friday?",
+     "vi": "Thứ Sáu bạn làm thay tôi được không?"
+    }
+   ]
+  },
+  {
+   "id": "fa1_covered",
+   "word": "covered",
+   "pos": "adjective",
+   "ipa": "/ˈkʌvərd/",
+   "level": "B1",
+   "meaning": "được bảo hiểm; có mái che",
+   "definition": "protected by insurance; having a roof",
+   "collocations": [
+    "covered parking",
+    "covered by insurance"
+   ],
+   "examples": [
+    {
+     "en": "The damage is *covered* by insurance.",
+     "vi": "Thiệt hại được bảo hiểm chi trả."
+    }
+   ]
+  },
+  {
+   "id": "fa1_cut",
+   "word": "cut",
+   "pos": "noun",
+   "ipa": "/kʌt/",
+   "level": "B1",
+   "meaning": "sự cắt giảm",
+   "definition": "a reduction",
+   "collocations": [
+    "budget cuts",
+    "price cut",
+    "job cuts"
+   ],
+   "examples": [
+    {
+     "en": "The company announced *cuts* to its budget.",
+     "vi": "Công ty công bố cắt giảm ngân sách."
+    }
+   ]
+  },
+  {
+   "id": "fa1_count",
+   "word": "count",
+   "pos": "verb",
+   "ipa": "/kaʊnt/",
+   "level": "B1",
+   "meaning": "có giá trị, được tính; đếm",
+   "definition": "to be important or valid; to say numbers",
+   "collocations": [
+    "every minute counts",
+    "count as"
+   ],
+   "examples": [
+    {
+     "en": "Every point *counts* in the TOEIC test.",
+     "vi": "Mỗi điểm đều quan trọng trong bài thi TOEIC."
+    }
+   ]
+  },
+  {
+   "id": "fa1_set",
+   "word": "set",
+   "pos": "verb",
+   "ipa": "/set/",
+   "level": "B1",
+   "meaning": "thiết lập, đặt ra",
+   "definition": "to fix a time, rule or goal",
+   "collocations": [
+    "set a goal",
+    "set up",
+    "set a deadline"
+   ],
+   "examples": [
+    {
+     "en": "Let's *set* a date for the next meeting.",
+     "vi": "Hãy chọn ngày cho cuộc họp tới."
+    }
+   ],
+   "note": "set up = thành lập; cài đặt."
+  },
+  {
+   "id": "fa1_spot",
+   "word": "spot",
+   "pos": "verb",
+   "ipa": "/spɑːt/",
+   "level": "B1",
+   "meaning": "phát hiện, nhận ra",
+   "definition": "to see or notice",
+   "collocations": [
+    "spot a mistake",
+    "spot the difference"
+   ],
+   "examples": [
+    {
+     "en": "Can you *spot* the mistake in this sentence?",
+     "vi": "Bạn có tìm ra lỗi trong câu này không?"
+    }
+   ],
+   "note": "Danh từ spot = chỗ, địa điểm."
+  },
+  {
+   "id": "fa1_strike",
+   "word": "strike",
+   "pos": "noun",
+   "ipa": "/straɪk/",
+   "level": "B2",
+   "meaning": "cuộc đình công",
+   "definition": "a time when workers refuse to work",
+   "collocations": [
+    "go on strike",
+    "train strike"
+   ],
+   "examples": [
+    {
+     "en": "Train services were cancelled due to a *strike*.",
+     "vi": "Các chuyến tàu bị hủy do đình công."
+    }
+   ]
+  },
+  {
+   "id": "fa1_pause",
+   "word": "pause",
+   "pos": "verb",
+   "ipa": "/pɔːz/",
+   "level": "B2",
+   "meaning": "tạm dừng",
+   "definition": "to stop for a short time",
+   "collocations": [
+    "pause the video",
+    "pause for a moment"
+   ],
+   "examples": [
+    {
+     "en": "*Pause* the audio and repeat the sentence.",
+     "vi": "Dừng âm thanh và nhắc lại câu."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

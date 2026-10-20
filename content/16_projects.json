@@ -1,0 +1,1096 @@
+{
+ "id": "projects",
+ "order": 16,
+ "icon": "📋",
+ "level": "B2",
+ "title": "Projects & Problem Solving",
+ "title_vi": "Dự án & Giải quyết vấn đề",
+ "description": "Lập kế hoạch, triển khai, đánh giá rủi ro, xử lý sự cố: ngôn ngữ của báo cáo và cuộc họp dự án.",
+ "words": [
+  {
+   "id": "prj_approach",
+   "word": "approach",
+   "pos": "noun",
+   "ipa": "/əˈproʊtʃ/",
+   "level": "B2",
+   "meaning": "cách tiếp cận",
+   "definition": "a way of dealing with something",
+   "collocations": [
+    "a new approach",
+    "approach to the problem"
+   ],
+   "examples": [
+    {
+     "en": "We need a different *approach* to customer service.",
+     "vi": "Chúng ta cần một cách tiếp cận khác với dịch vụ khách hàng."
+    }
+   ],
+   "note": "Động từ approach = tiến lại gần (The deadline is approaching)."
+  },
+  {
+   "id": "prj_implement",
+   "word": "implement",
+   "pos": "verb",
+   "ipa": "/ˈɪmplɪment/",
+   "level": "B2",
+   "meaning": "triển khai, thực hiện",
+   "definition": "to put a plan or system into action",
+   "collocations": [
+    "implement a plan",
+    "implement changes"
+   ],
+   "examples": [
+    {
+     "en": "The new system will be *implemented* next month.",
+     "vi": "Hệ thống mới sẽ được triển khai vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "prj_initiative",
+   "word": "initiative",
+   "pos": "noun",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "level": "B2",
+   "meaning": "sáng kiến; sự chủ động",
+   "definition": "a new plan for dealing with a problem; the ability to act without being told",
+   "collocations": [
+    "a new initiative",
+    "take the initiative"
+   ],
+   "examples": [
+    {
+     "en": "The recycling *initiative* has cut waste by 30%.",
+     "vi": "Sáng kiến tái chế đã cắt giảm 30% rác thải."
+    }
+   ]
+  },
+  {
+   "id": "prj_phase",
+   "word": "phase",
+   "pos": "noun",
+   "ipa": "/feɪz/",
+   "level": "B2",
+   "meaning": "giai đoạn",
+   "definition": "a stage in a process",
+   "collocations": [
+    "the first phase",
+    "phase two",
+    "in phases"
+   ],
+   "examples": [
+    {
+     "en": "The first *phase* of the project is complete.",
+     "vi": "Giai đoạn đầu của dự án đã hoàn tất."
+    }
+   ]
+  },
+  {
+   "id": "prj_priority",
+   "word": "priority",
+   "pos": "noun",
+   "ipa": "/praɪˈɔːrəti/",
+   "level": "B2",
+   "meaning": "sự ưu tiên",
+   "definition": "something more important than other things",
+   "collocations": [
+    "top priority",
+    "give priority to",
+    "set priorities"
+   ],
+   "examples": [
+    {
+     "en": "Safety is our top *priority*.",
+     "vi": "An toàn là ưu tiên hàng đầu của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "prj_procedure",
+   "word": "procedure",
+   "pos": "noun",
+   "ipa": "/prəˈsiːdʒər/",
+   "level": "B2",
+   "meaning": "thủ tục, quy trình",
+   "definition": "an official way of doing something",
+   "collocations": [
+    "safety procedures",
+    "follow the procedure",
+    "standard procedure"
+   ],
+   "examples": [
+    {
+     "en": "Please follow the correct *procedure* for reporting accidents.",
+     "vi": "Vui lòng làm đúng quy trình báo cáo tai nạn."
+    }
+   ]
+  },
+  {
+   "id": "prj_process",
+   "word": "process",
+   "pos": "noun",
+   "ipa": "/ˈprɑːses/",
+   "level": "B2",
+   "meaning": "quá trình, quy trình",
+   "definition": "a series of actions to achieve a result",
+   "collocations": [
+    "the hiring process",
+    "in the process of"
+   ],
+   "examples": [
+    {
+     "en": "We are in the *process* of updating our website.",
+     "vi": "Chúng tôi đang trong quá trình cập nhật website."
+    }
+   ],
+   "note": "Động từ process = xử lý (process an order)."
+  },
+  {
+   "id": "prj_objective",
+   "word": "objective",
+   "pos": "noun",
+   "ipa": "/əbˈdʒektɪv/",
+   "level": "B2",
+   "meaning": "mục tiêu",
+   "definition": "something you are trying to achieve",
+   "collocations": [
+    "main objective",
+    "achieve an objective"
+   ],
+   "examples": [
+    {
+     "en": "The main *objective* is to reduce costs.",
+     "vi": "Mục tiêu chính là giảm chi phí."
+    }
+   ],
+   "note": "Tính từ objective = khách quan."
+  },
+  {
+   "id": "prj_outcome",
+   "word": "outcome",
+   "pos": "noun",
+   "ipa": "/ˈaʊtkʌm/",
+   "level": "B2",
+   "meaning": "kết quả",
+   "definition": "the result of an action or process",
+   "collocations": [
+    "a positive outcome",
+    "the outcome of the meeting"
+   ],
+   "examples": [
+    {
+     "en": "We are waiting for the *outcome* of the negotiations.",
+     "vi": "Chúng tôi đang chờ kết quả đàm phán."
+    }
+   ]
+  },
+  {
+   "id": "prj_framework",
+   "word": "framework",
+   "pos": "noun",
+   "ipa": "/ˈfreɪmwɜːrk/",
+   "level": "B2",
+   "meaning": "khuôn khổ",
+   "definition": "a set of rules or ideas used to make decisions",
+   "collocations": [
+    "legal framework",
+    "within the framework of"
+   ],
+   "examples": [
+    {
+     "en": "The report provides a *framework* for future planning.",
+     "vi": "Bản báo cáo cung cấp khuôn khổ cho việc lập kế hoạch sau này."
+    }
+   ]
+  },
+  {
+   "id": "prj_guideline",
+   "word": "guideline",
+   "pos": "noun",
+   "ipa": "/ˈɡaɪdlaɪn/",
+   "level": "B2",
+   "meaning": "hướng dẫn, nguyên tắc chỉ đạo",
+   "definition": "rules or advice on how to do something",
+   "collocations": [
+    "follow the guidelines",
+    "safety guidelines"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *guidelines* before submitting your work.",
+     "vi": "Vui lòng đọc hướng dẫn trước khi nộp bài."
+    }
+   ]
+  },
+  {
+   "id": "prj_criterion",
+   "word": "criterion",
+   "pos": "noun",
+   "ipa": "/kraɪˈtɪriən/",
+   "level": "B2",
+   "meaning": "tiêu chí",
+   "definition": "a standard used to judge something",
+   "collocations": [
+    "meet the criteria",
+    "selection criteria"
+   ],
+   "examples": [
+    {
+     "en": "Applicants must meet the following *criteria*.",
+     "vi": "Ứng viên phải đáp ứng các tiêu chí sau."
+    }
+   ],
+   "note": "Số nhiều: criteria."
+  },
+  {
+   "id": "prj_requirement",
+   "word": "requirement",
+   "pos": "noun",
+   "ipa": "/rɪˈkwaɪərmənt/",
+   "level": "B2",
+   "meaning": "yêu cầu",
+   "definition": "something that you need or must have",
+   "collocations": [
+    "meet the requirements",
+    "minimum requirements"
+   ],
+   "examples": [
+    {
+     "en": "A driver's licence is a *requirement* for this job.",
+     "vi": "Bằng lái xe là yêu cầu cho công việc này."
+    }
+   ]
+  },
+  {
+   "id": "prj_require",
+   "word": "require",
+   "pos": "verb",
+   "ipa": "/rɪˈkwaɪər/",
+   "level": "B1",
+   "meaning": "yêu cầu, đòi hỏi",
+   "definition": "to need something; to make something necessary",
+   "collocations": [
+    "be required to",
+    "required documents"
+   ],
+   "examples": [
+    {
+     "en": "All visitors are *required* to sign in.",
+     "vi": "Tất cả khách đến đều phải đăng ký vào."
+    }
+   ],
+   "note": "be required to + V (rất hay gặp Part 5)."
+  },
+  {
+   "id": "prj_ensure",
+   "word": "ensure",
+   "pos": "verb",
+   "ipa": "/ɪnˈʃʊr/",
+   "level": "B2",
+   "meaning": "đảm bảo",
+   "definition": "to make certain that something happens",
+   "collocations": [
+    "ensure that",
+    "ensure quality",
+    "ensure safety"
+   ],
+   "examples": [
+    {
+     "en": "Please *ensure* that all windows are closed.",
+     "vi": "Vui lòng đảm bảo tất cả cửa sổ đã đóng."
+    }
+   ]
+  },
+  {
+   "id": "prj_enable",
+   "word": "enable",
+   "pos": "verb",
+   "ipa": "/ɪˈneɪbl/",
+   "level": "B2",
+   "meaning": "cho phép, giúp có thể",
+   "definition": "to make it possible for someone to do something",
+   "collocations": [
+    "enable someone to do something"
+   ],
+   "examples": [
+    {
+     "en": "The new software *enables* us to work faster.",
+     "vi": "Phần mềm mới giúp chúng tôi làm việc nhanh hơn."
+    }
+   ],
+   "note": "enable + O + to V."
+  },
+  {
+   "id": "prj_enhance",
+   "word": "enhance",
+   "pos": "verb",
+   "ipa": "/ɪnˈhæns/",
+   "level": "B2",
+   "meaning": "nâng cao, cải thiện",
+   "definition": "to improve the quality of something",
+   "collocations": [
+    "enhance performance",
+    "enhance the experience"
+   ],
+   "examples": [
+    {
+     "en": "The changes will *enhance* the customer experience.",
+     "vi": "Những thay đổi sẽ nâng cao trải nghiệm khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "prj_improvement",
+   "word": "improvement",
+   "pos": "noun",
+   "ipa": "/ɪmˈpruːvmənt/",
+   "level": "B1",
+   "meaning": "sự cải thiện",
+   "definition": "the act of getting better",
+   "collocations": [
+    "room for improvement",
+    "home improvement"
+   ],
+   "examples": [
+    {
+     "en": "There has been a big *improvement* in sales.",
+     "vi": "Doanh số đã cải thiện rõ rệt."
+    }
+   ]
+  },
+  {
+   "id": "prj_eliminate",
+   "word": "eliminate",
+   "pos": "verb",
+   "ipa": "/ɪˈlɪmɪneɪt/",
+   "level": "B2",
+   "meaning": "loại bỏ",
+   "definition": "to remove something completely",
+   "collocations": [
+    "eliminate errors",
+    "eliminate waste"
+   ],
+   "examples": [
+    {
+     "en": "The new system *eliminates* paperwork.",
+     "vi": "Hệ thống mới loại bỏ giấy tờ."
+    }
+   ]
+  },
+  {
+   "id": "prj_effective",
+   "word": "effective",
+   "pos": "adjective",
+   "ipa": "/ɪˈfektɪv/",
+   "level": "B1",
+   "meaning": "hiệu quả; có hiệu lực",
+   "definition": "producing the result you want; officially in use",
+   "collocations": [
+    "effective solution",
+    "effective from"
+   ],
+   "examples": [
+    {
+     "en": "The new policy is *effective* from January 1.",
+     "vi": "Chính sách mới có hiệu lực từ ngày 1 tháng 1."
+    }
+   ],
+   "note": "effective + ngày = có hiệu lực từ (rất hay gặp TOEIC)."
+  },
+  {
+   "id": "prj_effectively",
+   "word": "effectively",
+   "pos": "adverb",
+   "ipa": "/ɪˈfektɪvli/",
+   "level": "B1",
+   "meaning": "một cách hiệu quả",
+   "definition": "in a way that produces the result you want",
+   "collocations": [
+    "work effectively",
+    "communicate effectively"
+   ],
+   "examples": [
+    {
+     "en": "Managers must communicate *effectively* with their teams.",
+     "vi": "Quản lý phải giao tiếp hiệu quả với đội của mình."
+    }
+   ]
+  },
+  {
+   "id": "prj_efficiently",
+   "word": "efficiently",
+   "pos": "adverb",
+   "ipa": "/ɪˈfɪʃntli/",
+   "level": "B2",
+   "meaning": "một cách hiệu quả (năng suất)",
+   "definition": "without wasting time or energy",
+   "collocations": [
+    "run efficiently",
+    "work efficiently"
+   ],
+   "examples": [
+    {
+     "en": "The new machine runs more *efficiently*.",
+     "vi": "Máy mới chạy hiệu quả hơn."
+    }
+   ]
+  },
+  {
+   "id": "prj_obstacle",
+   "word": "obstacle",
+   "pos": "noun",
+   "ipa": "/ˈɑːbstəkl/",
+   "level": "B2",
+   "meaning": "trở ngại",
+   "definition": "something that makes progress difficult",
+   "collocations": [
+    "overcome obstacles",
+    "a major obstacle"
+   ],
+   "examples": [
+    {
+     "en": "Cost is the main *obstacle* to the plan.",
+     "vi": "Chi phí là trở ngại chính cho kế hoạch."
+    }
+   ]
+  },
+  {
+   "id": "prj_overcome",
+   "word": "overcome",
+   "pos": "verb",
+   "ipa": "/ˌoʊvərˈkʌm/",
+   "level": "B2",
+   "meaning": "vượt qua",
+   "definition": "to succeed in dealing with a problem",
+   "collocations": [
+    "overcome a problem",
+    "overcome difficulties"
+   ],
+   "examples": [
+    {
+     "en": "The team *overcame* many challenges to finish on time.",
+     "vi": "Nhóm đã vượt qua nhiều thử thách để hoàn thành đúng hạn."
+    }
+   ]
+  },
+  {
+   "id": "prj_tackle",
+   "word": "tackle",
+   "pos": "verb",
+   "ipa": "/ˈtækl/",
+   "level": "B2",
+   "meaning": "giải quyết, xử lý",
+   "definition": "to make an effort to deal with a difficult problem",
+   "collocations": [
+    "tackle a problem",
+    "tackle the issue"
+   ],
+   "examples": [
+    {
+     "en": "The government must *tackle* unemployment.",
+     "vi": "Chính phủ phải giải quyết nạn thất nghiệp."
+    }
+   ]
+  },
+  {
+   "id": "prj_cope",
+   "word": "cope",
+   "pos": "verb",
+   "ipa": "/koʊp/",
+   "level": "B2",
+   "meaning": "đối phó, xoay xở",
+   "definition": "to deal successfully with something difficult",
+   "collocations": [
+    "cope with stress",
+    "cope with demand"
+   ],
+   "examples": [
+    {
+     "en": "The factory can't *cope* with the increased demand.",
+     "vi": "Nhà máy không đáp ứng kịp nhu cầu tăng thêm."
+    }
+   ]
+  },
+  {
+   "id": "prj_resolve",
+   "word": "resolve",
+   "pos": "verb",
+   "ipa": "/rɪˈzɑːlv/",
+   "level": "B2",
+   "meaning": "giải quyết",
+   "definition": "to find a solution to a problem",
+   "collocations": [
+    "resolve a problem",
+    "resolve a dispute"
+   ],
+   "examples": [
+    {
+     "en": "The technical issue has been *resolved*.",
+     "vi": "Sự cố kỹ thuật đã được giải quyết."
+    }
+   ]
+  },
+  {
+   "id": "prj_resolution",
+   "word": "resolution",
+   "pos": "noun",
+   "ipa": "/ˌrezəˈluːʃn/",
+   "level": "B2",
+   "meaning": "sự giải quyết; độ phân giải; quyết tâm",
+   "definition": "a solution; the detail an image shows; a firm decision",
+   "collocations": [
+    "high resolution",
+    "New Year's resolution"
+   ],
+   "examples": [
+    {
+     "en": "We hope for a quick *resolution* to the problem.",
+     "vi": "Chúng tôi mong vấn đề được giải quyết nhanh."
+    }
+   ]
+  },
+  {
+   "id": "prj_crisis",
+   "word": "crisis",
+   "pos": "noun",
+   "ipa": "/ˈkraɪsɪs/",
+   "level": "B2",
+   "meaning": "khủng hoảng",
+   "definition": "a time of great difficulty",
+   "collocations": [
+    "financial crisis",
+    "in crisis",
+    "crisis management"
+   ],
+   "examples": [
+    {
+     "en": "The company went through a *crisis* last year.",
+     "vi": "Công ty đã trải qua một cuộc khủng hoảng năm ngoái."
+    }
+   ],
+   "note": "Số nhiều: crises."
+  },
+  {
+   "id": "prj_challenge",
+   "word": "challenge",
+   "pos": "noun",
+   "ipa": "/ˈtʃælɪndʒ/",
+   "level": "B1",
+   "meaning": "thử thách",
+   "definition": "something new and difficult",
+   "collocations": [
+    "face a challenge",
+    "a big challenge",
+    "rise to the challenge"
+   ],
+   "examples": [
+    {
+     "en": "Finding enough staff is our biggest *challenge*.",
+     "vi": "Tìm đủ nhân sự là thử thách lớn nhất của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "prj_challenging",
+   "word": "challenging",
+   "pos": "adjective",
+   "ipa": "/ˈtʃælɪndʒɪŋ/",
+   "level": "B2",
+   "meaning": "đầy thử thách",
+   "definition": "difficult in an interesting way",
+   "collocations": [
+    "a challenging job",
+    "challenging task"
+   ],
+   "examples": [
+    {
+     "en": "She wants a more *challenging* role.",
+     "vi": "Cô ấy muốn một vai trò nhiều thử thách hơn."
+    }
+   ]
+  },
+  {
+   "id": "prj_difficulty",
+   "word": "difficulty",
+   "pos": "noun",
+   "ipa": "/ˈdɪfɪkəlti/",
+   "level": "B1",
+   "meaning": "khó khăn",
+   "definition": "a problem; the state of being hard to do",
+   "collocations": [
+    "have difficulty (in) doing",
+    "financial difficulties"
+   ],
+   "examples": [
+    {
+     "en": "Many customers had *difficulty* logging in.",
+     "vi": "Nhiều khách hàng gặp khó khăn khi đăng nhập."
+    }
+   ],
+   "note": "have difficulty + V-ing."
+  },
+  {
+   "id": "prj_risk",
+   "word": "risk",
+   "pos": "noun",
+   "ipa": "/rɪsk/",
+   "level": "B1",
+   "meaning": "rủi ro",
+   "definition": "the possibility of something bad happening",
+   "collocations": [
+    "take a risk",
+    "at risk",
+    "reduce the risk"
+   ],
+   "examples": [
+    {
+     "en": "Every investment involves some *risk*.",
+     "vi": "Mọi khoản đầu tư đều có rủi ro."
+    }
+   ]
+  },
+  {
+   "id": "prj_risky",
+   "word": "risky",
+   "pos": "adjective",
+   "ipa": "/ˈrɪski/",
+   "level": "B2",
+   "meaning": "rủi ro",
+   "definition": "involving the possibility of danger or loss",
+   "collocations": [
+    "a risky decision",
+    "too risky"
+   ],
+   "examples": [
+    {
+     "en": "Opening a second shop now would be *risky*.",
+     "vi": "Mở cửa hàng thứ hai lúc này sẽ rủi ro."
+    }
+   ]
+  },
+  {
+   "id": "prj_failure",
+   "word": "failure",
+   "pos": "noun",
+   "ipa": "/ˈfeɪljər/",
+   "level": "B2",
+   "meaning": "sự thất bại; sự hỏng hóc",
+   "definition": "lack of success; the fact of not working",
+   "collocations": [
+    "power failure",
+    "end in failure"
+   ],
+   "examples": [
+    {
+     "en": "The *failure* of the project cost us a lot of money.",
+     "vi": "Thất bại của dự án khiến chúng tôi mất nhiều tiền."
+    }
+   ]
+  },
+  {
+   "id": "prj_fault",
+   "word": "fault",
+   "pos": "noun",
+   "ipa": "/fɔːlt/",
+   "level": "B2",
+   "meaning": "lỗi (trách nhiệm); hỏng hóc",
+   "definition": "responsibility for a mistake; a problem in a machine",
+   "collocations": [
+    "it's my fault",
+    "a technical fault"
+   ],
+   "examples": [
+    {
+     "en": "The delay was caused by a technical *fault*.",
+     "vi": "Sự chậm trễ do một lỗi kỹ thuật gây ra."
+    }
+   ]
+  },
+  {
+   "id": "prj_prompt",
+   "word": "prompt",
+   "pos": "adjective",
+   "ipa": "/prɑːmpt/",
+   "level": "B2",
+   "meaning": "nhanh chóng, kịp thời",
+   "definition": "done without delay",
+   "collocations": [
+    "a prompt reply",
+    "prompt payment"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *prompt* reply.",
+     "vi": "Cảm ơn bạn đã trả lời nhanh chóng."
+    }
+   ]
+  },
+  {
+   "id": "prj_urgent",
+   "word": "urgent",
+   "pos": "adjective",
+   "ipa": "/ˈɜːrdʒənt/",
+   "level": "B2",
+   "meaning": "khẩn cấp",
+   "definition": "needing attention immediately",
+   "collocations": [
+    "urgent matter",
+    "urgent need",
+    "mark as urgent"
+   ],
+   "examples": [
+    {
+     "en": "I need to speak to you about an *urgent* matter.",
+     "vi": "Tôi cần nói với bạn về một việc khẩn."
+    }
+   ]
+  },
+  {
+   "id": "prj_monitor",
+   "word": "monitor",
+   "pos": "verb",
+   "ipa": "/ˈmɑːnɪtər/",
+   "level": "B2",
+   "meaning": "theo dõi, giám sát",
+   "definition": "to watch and check something over time",
+   "collocations": [
+    "monitor progress",
+    "closely monitor"
+   ],
+   "examples": [
+    {
+     "en": "We will *monitor* the results closely.",
+     "vi": "Chúng tôi sẽ theo dõi sát sao kết quả."
+    }
+   ]
+  },
+  {
+   "id": "prj_track",
+   "word": "track",
+   "pos": "verb",
+   "ipa": "/træk/",
+   "level": "B2",
+   "meaning": "theo dõi, lần theo",
+   "definition": "to follow the progress of something",
+   "collocations": [
+    "track an order",
+    "keep track of"
+   ],
+   "examples": [
+    {
+     "en": "You can *track* your order online.",
+     "vi": "Bạn có thể theo dõi đơn hàng trên mạng."
+    }
+   ],
+   "note": "keep track of = theo dõi, nắm được."
+  },
+  {
+   "id": "prj_assess",
+   "word": "assess",
+   "pos": "verb",
+   "ipa": "/əˈses/",
+   "level": "B2",
+   "meaning": "đánh giá",
+   "definition": "to judge the quality or importance of something",
+   "collocations": [
+    "assess the situation",
+    "assess the damage"
+   ],
+   "examples": [
+    {
+     "en": "Experts are *assessing* the damage.",
+     "vi": "Các chuyên gia đang đánh giá thiệt hại."
+    }
+   ]
+  },
+  {
+   "id": "prj_assessment",
+   "word": "assessment",
+   "pos": "noun",
+   "ipa": "/əˈsesmənt/",
+   "level": "B2",
+   "meaning": "sự đánh giá",
+   "definition": "an opinion or judgement about something",
+   "collocations": [
+    "risk assessment",
+    "make an assessment"
+   ],
+   "examples": [
+    {
+     "en": "A risk *assessment* must be done before the event.",
+     "vi": "Phải đánh giá rủi ro trước sự kiện."
+    }
+   ]
+  },
+  {
+   "id": "prj_revise",
+   "word": "revise",
+   "pos": "verb",
+   "ipa": "/rɪˈvaɪz/",
+   "level": "B1",
+   "meaning": "sửa đổi; ôn tập",
+   "definition": "to change something to improve it; to study again",
+   "collocations": [
+    "revise a plan",
+    "revised edition"
+   ],
+   "examples": [
+    {
+     "en": "Please *revise* the report and send it back.",
+     "vi": "Vui lòng chỉnh sửa báo cáo và gửi lại."
+    }
+   ]
+  },
+  {
+   "id": "prj_revision",
+   "word": "revision",
+   "pos": "noun",
+   "ipa": "/rɪˈvɪʒn/",
+   "level": "B2",
+   "meaning": "sự sửa đổi",
+   "definition": "a change made to something",
+   "collocations": [
+    "make revisions",
+    "revision of the schedule"
+   ],
+   "examples": [
+    {
+     "en": "The contract needs a few *revisions*.",
+     "vi": "Hợp đồng cần sửa vài chỗ."
+    }
+   ]
+  },
+  {
+   "id": "prj_modify",
+   "word": "modify",
+   "pos": "verb",
+   "ipa": "/ˈmɑːdɪfaɪ/",
+   "level": "B2",
+   "meaning": "sửa đổi, điều chỉnh",
+   "definition": "to change something slightly",
+   "collocations": [
+    "modify the design",
+    "slightly modified"
+   ],
+   "examples": [
+    {
+     "en": "We *modified* the design based on customer feedback.",
+     "vi": "Chúng tôi điều chỉnh thiết kế dựa trên góp ý khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "prj_adjust",
+   "word": "adjust",
+   "pos": "verb",
+   "ipa": "/əˈdʒʌst/",
+   "level": "B2",
+   "meaning": "điều chỉnh; thích nghi",
+   "definition": "to change something slightly; to get used to something",
+   "collocations": [
+    "adjust the settings",
+    "adjust to a new job"
+   ],
+   "examples": [
+    {
+     "en": "You can *adjust* the height of the chair.",
+     "vi": "Bạn có thể chỉnh độ cao của ghế."
+    }
+   ]
+  },
+  {
+   "id": "prj_adapt",
+   "word": "adapt",
+   "pos": "verb",
+   "ipa": "/əˈdæpt/",
+   "level": "B2",
+   "meaning": "thích nghi; điều chỉnh",
+   "definition": "to change to suit new conditions",
+   "collocations": [
+    "adapt to change",
+    "adapt a product"
+   ],
+   "examples": [
+    {
+     "en": "Companies must *adapt* to new technology.",
+     "vi": "Các công ty phải thích nghi với công nghệ mới."
+    }
+   ]
+  },
+  {
+   "id": "prj_alternative",
+   "word": "alternative",
+   "pos": "noun",
+   "ipa": "/ɔːlˈtɜːrnətɪv/",
+   "level": "B1",
+   "meaning": "lựa chọn thay thế",
+   "definition": "something you can choose instead",
+   "collocations": [
+    "an alternative to",
+    "a cheaper alternative"
+   ],
+   "examples": [
+    {
+     "en": "Is there a cheaper *alternative* to this software?",
+     "vi": "Có lựa chọn nào rẻ hơn phần mềm này không?"
+    }
+   ]
+  },
+  {
+   "id": "prj_scenario",
+   "word": "scenario",
+   "pos": "noun",
+   "ipa": "/səˈnærioʊ/",
+   "level": "B2",
+   "meaning": "kịch bản, tình huống",
+   "definition": "a possible series of future events",
+   "collocations": [
+    "worst-case scenario",
+    "in this scenario"
+   ],
+   "examples": [
+    {
+     "en": "In the worst-case *scenario*, we'll delay the launch.",
+     "vi": "Trong tình huống xấu nhất, chúng ta sẽ hoãn ra mắt."
+    }
+   ]
+  },
+  {
+   "id": "prj_potential",
+   "word": "potential",
+   "pos": "adjective",
+   "ipa": "/pəˈtenʃl/",
+   "level": "B2",
+   "meaning": "tiềm năng",
+   "definition": "possible in the future",
+   "collocations": [
+    "potential customers",
+    "potential problems"
+   ],
+   "examples": [
+    {
+     "en": "We met several *potential* clients at the fair.",
+     "vi": "Chúng tôi gặp vài khách hàng tiềm năng tại hội chợ."
+    }
+   ]
+  },
+  {
+   "id": "prj_maximum",
+   "word": "maximum",
+   "pos": "adjective",
+   "ipa": "/ˈmæksɪməm/",
+   "level": "B2",
+   "meaning": "tối đa",
+   "definition": "the largest possible",
+   "collocations": [
+    "maximum capacity",
+    "maximum speed"
+   ],
+   "examples": [
+    {
+     "en": "The *maximum* number of guests is 50.",
+     "vi": "Số khách tối đa là 50."
+    }
+   ]
+  },
+  {
+   "id": "prj_minimum",
+   "word": "minimum",
+   "pos": "adjective",
+   "ipa": "/ˈmɪnɪməm/",
+   "level": "B2",
+   "meaning": "tối thiểu",
+   "definition": "the smallest possible",
+   "collocations": [
+    "minimum order",
+    "minimum wage",
+    "a minimum of"
+   ],
+   "examples": [
+    {
+     "en": "There is a *minimum* order of 100 units.",
+     "vi": "Đơn hàng tối thiểu là 100 sản phẩm."
+    }
+   ]
+  },
+  {
+   "id": "prj_temporary",
+   "word": "temporary",
+   "pos": "adjective",
+   "ipa": "/ˈtempəreri/",
+   "level": "B2",
+   "meaning": "tạm thời",
+   "definition": "lasting only for a short time",
+   "collocations": [
+    "temporary job",
+    "temporary solution",
+    "temporary staff"
+   ],
+   "examples": [
+    {
+     "en": "This is only a *temporary* solution.",
+     "vi": "Đây chỉ là giải pháp tạm thời."
+    }
+   ]
+  },
+  {
+   "id": "prj_temporarily",
+   "word": "temporarily",
+   "pos": "adverb",
+   "ipa": "/ˌtempəˈrerəli/",
+   "level": "B2",
+   "meaning": "tạm thời",
+   "definition": "for a short time only",
+   "collocations": [
+    "temporarily closed",
+    "temporarily unavailable"
+   ],
+   "examples": [
+    {
+     "en": "The website is *temporarily* unavailable.",
+     "vi": "Website tạm thời không truy cập được."
+    }
+   ]
+  },
+  {
+   "id": "prj_permanent",
+   "word": "permanent",
+   "pos": "adjective",
+   "ipa": "/ˈpɜːrmənənt/",
+   "level": "B2",
+   "meaning": "lâu dài, cố định",
+   "definition": "lasting for a long time or forever",
+   "collocations": [
+    "permanent job",
+    "permanent staff",
+    "permanent address"
+   ],
+   "examples": [
+    {
+     "en": "She was offered a *permanent* position.",
+     "vi": "Cô ấy được mời vào vị trí chính thức lâu dài."
+    }
+   ]
+  },
+  {
+   "id": "prj_permanently",
+   "word": "permanently",
+   "pos": "adverb",
+   "ipa": "/ˈpɜːrmənəntli/",
+   "level": "B2",
+   "meaning": "vĩnh viễn",
+   "definition": "for all time",
+   "collocations": [
+    "permanently closed",
+    "permanently delete"
+   ],
+   "examples": [
+    {
+     "en": "The store will close *permanently* next month.",
+     "vi": "Cửa hàng sẽ đóng cửa vĩnh viễn vào tháng tới."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

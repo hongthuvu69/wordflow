@@ -1,0 +1,66 @@
+#id: quality
+#prefix: qua
+#order: 44
+#icon: ⭐
+#title: Importance & Quality
+#title_vi: Mức độ quan trọng & Chất lượng
+#desc: Essential, crucial, appropriate, relevant…: tính từ đánh giá dùng dày đặc trong văn bản công việc và Part 5.
+essential | adjective | /ɪˈsenʃl/ | thiết yếu | completely necessary | essential for; it is essential that | A valid passport is *essential* for international travel. | Hộ chiếu còn hạn là bắt buộc khi đi nước ngoài.
+vital | adjective | /ˈvaɪtl/ | sống còn, cực kỳ quan trọng | extremely important | vital role; vital information | Customer feedback is *vital* to our success. | Góp ý của khách hàng cực kỳ quan trọng với thành công của chúng tôi.
+crucial | adjective | /ˈkruːʃl/ | then chốt | extremely important | a crucial decision; crucial role | The next two weeks are *crucial* for the project. | Hai tuần tới là then chốt với dự án.
+critical | adjective | /ˈkrɪtɪkl/ | quan trọng; phê phán; nguy kịch | very important; saying what is wrong; very serious | critical stage; critical of; in critical condition | Teamwork is *critical* to success. | Làm việc nhóm là yếu tố quan trọng để thành công.
+critically | adverb | /ˈkrɪtɪkli/ | nghiêm trọng; một cách phê phán | very seriously; in a critical way | critically important; think critically | Students should learn to think *critically*. | Học sinh nên học cách tư duy phản biện.
+fundamental | adjective | /ˌfʌndəˈmentl/ | cơ bản, nền tảng | basic and most important | fundamental change; fundamental right | There is a *fundamental* problem with the design. | Có một vấn đề cơ bản trong thiết kế.
+importance | noun | /ɪmˈpɔːrtns/ | tầm quan trọng | the quality of being important | of great importance; stress the importance of | Never underestimate the *importance* of good communication. | Đừng bao giờ coi nhẹ tầm quan trọng của giao tiếp tốt.
+significance | noun | /sɪɡˈnɪfɪkəns/ | ý nghĩa, tầm quan trọng | importance; meaning | of great significance | The meeting has great *significance* for the company's future. | Cuộc họp có ý nghĩa lớn với tương lai công ty.
+necessity | noun | /nəˈsesəti/ | sự cần thiết; nhu yếu phẩm | something you need | a necessity; out of necessity | A car is a *necessity* in this job. | Ô tô là thứ cần thiết cho công việc này.
+necessarily | adverb | /ˌnesəˈserəli/ | nhất thiết | used to say something is not always true | not necessarily | Expensive products are not *necessarily* better. | Sản phẩm đắt chưa chắc đã tốt hơn.
+appropriate | adjective | /əˈproʊpriət/ | thích hợp | suitable for a situation | appropriate clothing; take appropriate action | Please wear *appropriate* clothing for the event. | Vui lòng mặc trang phục phù hợp với sự kiện.
+suitable | adjective | /ˈsuːtəbl/ | phù hợp | right for a purpose | suitable for; a suitable candidate | The room is not *suitable* for large groups. | Căn phòng không phù hợp cho nhóm đông người.
+proper | adjective | /ˈprɑːpər/ | đúng đắn, phù hợp | correct or appropriate | proper training; proper equipment | Make sure you have the *proper* equipment. | Hãy đảm bảo bạn có thiết bị phù hợp.
+properly | adverb | /ˈprɑːpərli/ | đúng cách | correctly | work properly; properly trained | The printer isn't working *properly*. | Máy in không hoạt động bình thường.
+relevant | adjective | /ˈreləvənt/ | liên quan, thích hợp | connected with what is being discussed | relevant experience; relevant to | Please include any *relevant* documents. | Vui lòng đính kèm mọi tài liệu liên quan.
+acceptable | adjective | /əkˈseptəbl/ | có thể chấp nhận | good enough | acceptable level; socially acceptable | The quality is *acceptable* but not excellent. | Chất lượng chấp nhận được nhưng chưa xuất sắc.
+unacceptable | adjective | /ˌʌnəkˈseptəbl/ | không thể chấp nhận | not acceptable | totally unacceptable | This level of service is *unacceptable*. | Mức dịch vụ này là không thể chấp nhận.
+reasonable | adjective | /ˈriːznəbl/ | hợp lý; phải chăng | fair and sensible; not too expensive | reasonable price; reasonable request | The hotel offers good rooms at *reasonable* prices. | Khách sạn có phòng tốt với giá phải chăng.
+reasonably | adverb | /ˈriːznəbli/ | khá; hợp lý | fairly; in a sensible way | reasonably priced; reasonably good | The meals are *reasonably* priced. | Các bữa ăn có giá khá hợp lý.
+practical | adjective | /ˈpræktɪkl/ | thực tế, thiết thực | useful; connected with real situations | practical experience; practical advice | The course gives you *practical* skills. | Khóa học mang lại kỹ năng thực tế.
+ideal | adjective | /aɪˈdiːəl/ | lý tưởng | perfect | ideal location; ideal candidate | The hotel is *ideal* for business travellers. | Khách sạn lý tưởng cho khách công tác.
+perfectly | adverb | /ˈpɜːrfɪktli/ | hoàn toàn; hoàn hảo | completely; in a perfect way | perfectly clear; work perfectly | I understand *perfectly*. | Tôi hoàn toàn hiểu.
+beneficial | adjective | /ˌbenɪˈfɪʃl/ | có lợi | helpful; having a good effect | beneficial to; mutually beneficial | The agreement is *beneficial* to both companies. | Thỏa thuận có lợi cho cả hai công ty.
+benefit | noun | /ˈbenɪfɪt/ | lợi ích; phúc lợi | an advantage; extra things given by an employer | health benefits; the benefits of | The job comes with good *benefits*. | Công việc có phúc lợi tốt.
+useless | adjective | /ˈjuːsləs/ | vô dụng | not useful | completely useless | This old printer is *useless*. | Cái máy in cũ này vô dụng.
+unnecessary | adjective | /ʌnˈnesəseri/ | không cần thiết | not needed | unnecessary costs; avoid unnecessary delays | Please avoid *unnecessary* printing. | Vui lòng tránh in ấn không cần thiết.
+basic | adjective | /ˈbeɪsɪk/ | cơ bản | simple; most important | basic skills; basic salary | The job requires *basic* computer skills. | Công việc yêu cầu kỹ năng máy tính cơ bản.
+basis | noun | /ˈbeɪsɪs/ | cơ sở, nền tảng | the reason or facts behind something; a way of doing | on a daily basis; on the basis of | We review prices on a monthly *basis*. | Chúng tôi xem xét giá hằng tháng. | on a … basis = theo kiểu…, rất hay gặp.
+advanced | adjective | /ədˈvænst/ | tiên tiến; nâng cao | modern; at a high level | advanced technology; advanced level | The course is for *advanced* learners. | Khóa học dành cho người học trình độ cao.
+complex | adjective | /ˌkɑːmˈpleks/ | phức tạp | having many parts | complex system; complex issue | It's a *complex* problem with no easy answer. | Đó là vấn đề phức tạp không có lời giải dễ dàng. | Danh từ: an office complex = khu phức hợp văn phòng.
+complicated | adjective | /ˈkɑːmplɪkeɪtɪd/ | rắc rối | difficult to understand | complicated instructions | The form is too *complicated*. | Mẫu đơn quá rắc rối.
+comprehensive | adjective | /ˌkɑːmprɪˈhensɪv/ | toàn diện | including everything | comprehensive guide; comprehensive insurance | We offer a *comprehensive* training program. | Chúng tôi có chương trình đào tạo toàn diện.
+core | adjective | /kɔːr/ | cốt lõi | most important | core values; core business | Honesty is one of our *core* values. | Trung thực là một trong những giá trị cốt lõi của chúng tôi.
+key | adjective | /kiː/ | then chốt | very important | key factor; key role; key points | Price is a *key* factor for most customers. | Giá là yếu tố then chốt với hầu hết khách hàng.
+principal | adjective | /ˈprɪnsəpl/ | chính | most important | principal reason; principal office | The *principal* reason for the delay was bad weather. | Lý do chính của sự chậm trễ là thời tiết xấu. | Danh từ principal = hiệu trưởng.
+principle | noun | /ˈprɪnsəpl/ | nguyên tắc | a basic rule or belief | in principle; basic principles | In *principle*, I agree with the plan. | Về nguyên tắc, tôi đồng ý với kế hoạch.
+prime | adjective | /praɪm/ | hàng đầu, chính | main; of the best quality | prime location; prime example | The shop is in a *prime* location. | Cửa hàng nằm ở vị trí đắc địa.
+standard | noun | /ˈstændərd/ | tiêu chuẩn | a level of quality | high standards; meet standards; standard procedure | All products meet international *standards*. | Mọi sản phẩm đều đạt tiêu chuẩn quốc tế.
+strict | adjective | /strɪkt/ | nghiêm ngặt | demanding that rules are obeyed | strict rules; strict deadline | We have *strict* rules about safety. | Chúng tôi có quy định nghiêm ngặt về an toàn.
+strictly | adverb | /ˈstrɪktli/ | nghiêm ngặt | in a strict way | strictly prohibited; strictly confidential | This information is *strictly* confidential. | Thông tin này tuyệt đối bảo mật.
+thorough | adjective | /ˈθɜːroʊ/ | kỹ lưỡng | careful and complete | a thorough check; thorough investigation | The mechanic did a *thorough* check of the car. | Thợ máy đã kiểm tra xe kỹ lưỡng.
+thoroughly | adverb | /ˈθɜːroʊli/ | kỹ càng | completely and carefully | thoroughly clean; thoroughly enjoy | Please read the instructions *thoroughly*. | Vui lòng đọc kỹ hướng dẫn.
+flexible | adjective | /ˈfleksəbl/ | linh hoạt | able to change easily | flexible hours; flexible working | We offer *flexible* working hours. | Chúng tôi có giờ làm việc linh hoạt.
+dynamic | adjective | /daɪˈnæmɪk/ | năng động | full of energy and new ideas | a dynamic team; dynamic market | We are looking for a *dynamic* sales manager. | Chúng tôi tìm một quản lý bán hàng năng động.
+intense | adjective | /ɪnˈtens/ | dữ dội, mãnh liệt | very strong | intense competition; intense heat | There is *intense* competition in the market. | Thị trường cạnh tranh gay gắt.
+extreme | adjective | /ɪkˈstriːm/ | cực độ | very great; very severe | extreme weather; extreme caution | Use *extreme* caution when driving in fog. | Hết sức cẩn thận khi lái xe trong sương mù.
+dramatic | adjective | /drəˈmætɪk/ | đột ngột, mạnh mẽ | sudden and noticeable | a dramatic increase; dramatic change | There was a *dramatic* rise in sales. | Doanh số tăng vọt.
+dramatically | adverb | /drəˈmætɪkli/ | một cách mạnh mẽ | suddenly and by a large amount | change dramatically | Prices have increased *dramatically*. | Giá cả tăng mạnh.
+positive | adjective | /ˈpɑːzətɪv/ | tích cực; chắc chắn | good; hopeful; certain | positive feedback; positive attitude | We received very *positive* feedback. | Chúng tôi nhận được phản hồi rất tích cực.
+negative | adjective | /ˈneɡətɪv/ | tiêu cực | bad; harmful | negative effect; negative comments | The delay had a *negative* effect on sales. | Sự chậm trễ ảnh hưởng tiêu cực tới doanh số.
+neutral | adjective | /ˈnuːtrəl/ | trung lập | not supporting either side | neutral colours; remain neutral | The office is painted in *neutral* colours. | Văn phòng được sơn màu trung tính.
+normal | adjective | /ˈnɔːrml/ | bình thường | usual | back to normal; normal working hours | Service will return to *normal* tomorrow. | Dịch vụ sẽ trở lại bình thường vào ngày mai.
+overall | adjective | /ˌoʊvərˈɔːl/ | tổng thể | including everything | overall cost; overall impression | *Overall*, the event was a success. | Nhìn chung, sự kiện đã thành công.
+inevitable | adjective | /ɪnˈevɪtəbl/ | không thể tránh khỏi | certain to happen | an inevitable result | Some delays are *inevitable*. | Một số chậm trễ là không thể tránh khỏi.
+inevitably | adverb | /ɪnˈevɪtəbli/ | chắc chắn sẽ | as is certain to happen | inevitably lead to | Rising costs will *inevitably* lead to higher prices. | Chi phí tăng chắc chắn dẫn tới giá cao hơn.
+capable | adjective | /ˈkeɪpəbl/ | có khả năng | having the ability to do something | capable of; highly capable | The new machine is *capable* of printing 100 pages a minute. | Máy mới có thể in 100 trang mỗi phút.
+capacity | noun | /kəˈpæsəti/ | sức chứa; năng lực | the amount something can hold; ability | seating capacity; full capacity; in my capacity as | The hall has a *capacity* of 500. | Hội trường có sức chứa 500 người.
+willing | adjective | /ˈwɪlɪŋ/ | sẵn lòng | ready to do something | willing to; more than willing | Are you *willing* to travel for work? | Bạn có sẵn sàng đi công tác không?
+unable | adjective | /ʌnˈeɪbl/ | không thể | not able | be unable to | We are *unable* to process your request at this time. | Hiện chúng tôi không thể xử lý yêu cầu của bạn.

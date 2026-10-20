@@ -1,0 +1,66 @@
+#id: describing
+#prefix: dsc
+#order: 41
+#icon: 🎨
+#title: Describing Things
+#title_vi: Miêu tả sự vật
+#desc: Hình dạng, kích thước, chất liệu, ấn tượng: tính từ giúp miêu tả sản phẩm, địa điểm và trải nghiệm.
+shape | noun | /ʃeɪp/ | hình dạng; tình trạng | the form of something; condition | in good shape; take shape | The plan is starting to take *shape*. | Kế hoạch đang dần thành hình.
+shaped | adjective | /ʃeɪpt/ | có hình | having a particular shape | heart-shaped; L-shaped | The office has an L-*shaped* desk. | Văn phòng có bàn làm việc hình chữ L.
+curve | noun | /kɜːrv/ | đường cong | a line that bends | a sharp curve; learning curve | There is a steep learning *curve* in this job. | Công việc này đòi hỏi học hỏi nhiều trong thời gian ngắn.
+curved | adjective | /kɜːrvd/ | cong | having a curve | curved screen; curved roof | The building has a *curved* glass roof. | Tòa nhà có mái kính cong.
+round | adjective | /raʊnd/ | tròn | shaped like a circle | round table; round trip | We sat at a *round* table. | Chúng tôi ngồi quanh một chiếc bàn tròn.
+rough | adjective | /rʌf/ | thô ráp; đại khái; khó khăn | not smooth; not exact; difficult | a rough idea; rough surface; a rough day | Can you give me a *rough* estimate? | Bạn có thể ước tính sơ bộ cho tôi không?
+smooth | adjective | /smuːð/ | trơn, mượt; suôn sẻ | flat and even; without problems | smooth surface; a smooth transition | Thanks for making the move so *smooth*. | Cảm ơn bạn đã giúp việc chuyển đi suôn sẻ.
+sharp | adjective | /ʃɑːrp/ | sắc; rõ nét; chính xác (giờ) | able to cut; clear; exactly | a sharp knife; at 9 sharp | The meeting starts at 9 o'clock *sharp*. | Cuộc họp bắt đầu đúng 9 giờ.
+solid | adjective | /ˈsɑːlɪd/ | rắn chắc, vững | hard; strong; reliable | solid wood; solid experience | She has *solid* experience in sales. | Cô ấy có kinh nghiệm vững vàng về bán hàng.
+hollow | adjective | /ˈhɑːloʊ/ | rỗng | having an empty space inside | a hollow tree | The wall sounds *hollow*. | Bức tường nghe như rỗng.
+tight | adjective | /taɪt/ | chật; eo hẹp | fitting closely; with little time or money | tight schedule; tight budget | We have a very *tight* schedule this week. | Tuần này lịch của chúng tôi rất kín.
+loose | adjective | /luːs/ | lỏng | not firmly fixed; not tight | a loose screw; loose clothes | One of the chair legs is *loose*. | Một chân ghế bị lỏng.
+narrow | adjective | /ˈnæroʊ/ | hẹp | small from side to side | a narrow street; narrow down | Let's *narrow* down the list to three candidates. | Hãy thu hẹp danh sách còn ba ứng viên.
+broad | adjective | /brɔːd/ | rộng | wide; general | a broad range; broad shoulders | The course covers a *broad* range of topics. | Khóa học bao quát nhiều chủ đề.
+broadly | adverb | /ˈbrɔːdli/ | nhìn chung | generally | broadly speaking; broadly similar | *Broadly* speaking, customers are happy. | Nhìn chung, khách hàng hài lòng.
+deep | adjective | /diːp/ | sâu | going far down | deep water; deep breath | The pool is three metres *deep*. | Hồ bơi sâu ba mét.
+deeply | adverb | /ˈdiːpli/ | sâu sắc | very much | deeply sorry; deeply concerned | We are *deeply* sorry for the delay. | Chúng tôi vô cùng xin lỗi vì sự chậm trễ.
+shallow | adjective | /ˈʃæloʊ/ | nông | not deep | shallow water; the shallow end | Children must stay in the *shallow* end of the pool. | Trẻ em phải ở phía nước nông của hồ bơi.
+steep | adjective | /stiːp/ | dốc; (giá) cao | rising sharply; too expensive | a steep hill; a steep price | The road up to the hotel is very *steep*. | Con đường lên khách sạn rất dốc.
+vertical | adjective | /ˈvɜːrtɪkl/ | thẳng đứng | going straight up | a vertical line | Draw a *vertical* line down the middle of the page. | Vẽ một đường thẳng đứng ở giữa trang.
+parallel | adjective | /ˈpærəlel/ | song song | side by side at the same distance | parallel to; parallel lines | The road runs *parallel* to the river. | Con đường chạy song song với dòng sông.
+upper | adjective | /ˈʌpər/ | phía trên | higher | upper floor; upper limit | Our office is on the *upper* floor. | Văn phòng chúng tôi ở tầng trên.
+lower | adjective | /ˈloʊər/ | phía dưới; thấp hơn | below; less | lower level; lower prices | The café is on the *lower* level. | Quán cà phê ở tầng dưới. | Động từ lower = hạ thấp (lower prices).
+inner | adjective | /ˈɪnər/ | bên trong | inside; close to the centre | inner city; inner circle | The hotel is in the *inner* city. | Khách sạn nằm ở nội thành.
+outer | adjective | /ˈaʊtər/ | bên ngoài | on the outside | outer layer; outer space | Remove the *outer* packaging before use. | Tháo bao bì bên ngoài trước khi dùng.
+layer | noun | /ˈleɪər/ | lớp | a level of material covering a surface | a thin layer; an extra layer | Wear an extra *layer* in cold weather. | Mặc thêm một lớp áo khi trời lạnh.
+edge | noun | /edʒ/ | mép, cạnh; lợi thế | the outside limit of something; an advantage | on the edge; competitive edge | Good service gives us a competitive *edge*. | Dịch vụ tốt giúp chúng tôi có lợi thế cạnh tranh.
+coloured | adjective | /ˈkʌlərd/ | có màu | having a colour | brightly coloured; coloured pens | The children used *coloured* pencils. | Bọn trẻ dùng bút chì màu. | Anh-Mỹ: colored.
+colourful | adjective | /ˈkʌlərfl/ | nhiều màu sắc | having many bright colours | colourful clothes; colourful market | The market is full of *colourful* fruit. | Chợ đầy trái cây nhiều màu sắc.
+golden | adjective | /ˈɡoʊldən/ | màu vàng; quý giá | made of gold; very good | a golden opportunity; golden beach | This is a *golden* opportunity for our company. | Đây là cơ hội vàng cho công ty chúng ta.
+shiny | adjective | /ˈʃaɪni/ | sáng bóng | bright and reflecting light | shiny shoes; shiny surface | He wore *shiny* black shoes. | Anh ấy đi đôi giày đen bóng loáng.
+plain | adjective | /pleɪn/ | đơn giản, trơn | simple; without decoration | plain white; plain paper | Please write on *plain* paper. | Vui lòng viết trên giấy trắng trơn.
+tiny | adjective | /ˈtaɪni/ | rất nhỏ | very small | a tiny room; tiny mistake | The room was *tiny* but clean. | Căn phòng rất nhỏ nhưng sạch sẽ.
+giant | adjective | /ˈdʒaɪənt/ | khổng lồ | very large | a giant screen; tech giant | The company is a technology *giant*. | Công ty là một gã khổng lồ công nghệ.
+grand | adjective | /ɡrænd/ | hoành tráng, lớn | impressive and large | grand opening; grand total | The *grand* opening is on Saturday. | Lễ khai trương hoành tráng vào thứ Bảy.
+magnificent | adjective | /mæɡˈnɪfɪsnt/ | tráng lệ | extremely beautiful or impressive | a magnificent view; magnificent building | The hotel has a *magnificent* view of the sea. | Khách sạn có tầm nhìn tráng lệ ra biển.
+spectacular | adjective | /spekˈtækjələr/ | ngoạn mục | very impressive | spectacular views; spectacular show | The fireworks were *spectacular*. | Màn pháo hoa thật ngoạn mục.
+stunning | adjective | /ˈstʌnɪŋ/ | tuyệt đẹp | extremely attractive | a stunning view; stunning design | The new office has a *stunning* design. | Văn phòng mới có thiết kế tuyệt đẹp.
+fabulous | adjective | /ˈfæbjələs/ | tuyệt vời | extremely good | a fabulous time; fabulous food | We had a *fabulous* time at the resort. | Chúng tôi đã có khoảng thời gian tuyệt vời ở khu nghỉ dưỡng.
+extraordinary | adjective | /ɪkˈstrɔːrdəneri/ | phi thường | very unusual or special | an extraordinary achievement | She has an *extraordinary* talent for music. | Cô ấy có tài năng âm nhạc phi thường.
+remarkable | adjective | /rɪˈmɑːrkəbl/ | đáng chú ý, phi thường | unusual and surprising in a good way | a remarkable achievement; remarkable growth | The company has made *remarkable* progress. | Công ty đã có tiến bộ đáng kể.
+outstanding | adjective | /aʊtˈstændɪŋ/ | xuất sắc; chưa thanh toán | excellent; not yet paid or done | outstanding service; outstanding balance | Please pay the *outstanding* balance by Friday. | Vui lòng thanh toán số dư còn nợ trước thứ Sáu. | Hai nghĩa đều rất hay gặp TOEIC.
+unique | adjective | /juˈniːk/ | độc nhất | being the only one; very special | a unique opportunity; unique design | Each piece is *unique*. | Mỗi sản phẩm là độc nhất.
+precious | adjective | /ˈpreʃəs/ | quý giá | rare and valuable | precious stones; precious time | Time is *precious*, so let's start. | Thời gian quý báu, ta bắt đầu thôi.
+rare | adjective | /rer/ | hiếm | not common | a rare opportunity; rare species | It's *rare* to see snow here. | Hiếm khi thấy tuyết ở đây.
+exotic | adjective | /ɪɡˈzɑːtɪk/ | ngoại lai, kỳ lạ | from a distant country; unusual | exotic fruit; exotic places | The market sells *exotic* fruit from around the world. | Chợ bán trái cây lạ từ khắp thế giới.
+fancy | adjective | /ˈfænsi/ | sang trọng, cầu kỳ | expensive and fashionable; decorated | a fancy restaurant; nothing fancy | Let's go somewhere nice but not too *fancy*. | Đi đâu đó tốt tốt nhưng đừng quá sang.
+luxury | noun | /ˈlʌkʃəri/ | sự xa xỉ | great comfort; expensive things | luxury hotel; luxury goods | They stayed in a *luxury* hotel. | Họ ở khách sạn sang trọng.
+old-fashioned | adjective | /ˌoʊld ˈfæʃnd/ | lỗi thời | not modern | old-fashioned design; old-fashioned ideas | The website looks *old-fashioned*. | Website trông lỗi thời.
+contemporary | adjective | /kənˈtempəreri/ | đương đại | belonging to the present time | contemporary art; contemporary design | The gallery shows *contemporary* art. | Phòng tranh trưng bày nghệ thuật đương đại.
+conventional | adjective | /kənˈvenʃənl/ | thông thường, truyền thống | usual; traditional | conventional methods; conventional wisdom | The new method is faster than *conventional* ones. | Phương pháp mới nhanh hơn các cách truyền thống.
+dull | adjective | /dʌl/ | buồn tẻ; xỉn màu | boring; not bright | a dull meeting; dull colours | The meeting was long and *dull*. | Cuộc họp dài và buồn tẻ.
+fascinating | adjective | /ˈfæsɪneɪtɪŋ/ | hấp dẫn, lôi cuốn | extremely interesting | a fascinating story; find it fascinating | The tour guide told us *fascinating* stories. | Hướng dẫn viên kể cho chúng tôi những câu chuyện hấp dẫn.
+memorable | adjective | /ˈmemərəbl/ | đáng nhớ | worth remembering | a memorable trip; memorable experience | Thank you for a *memorable* evening. | Cảm ơn vì một buổi tối đáng nhớ.
+enjoyable | adjective | /ɪnˈdʒɔɪəbl/ | thú vị, vui | giving pleasure | an enjoyable evening; highly enjoyable | The training was useful and *enjoyable*. | Buổi đào tạo vừa hữu ích vừa thú vị.
+ridiculous | adjective | /rɪˈdɪkjələs/ | lố bịch, vô lý | very silly or unreasonable | a ridiculous price; ridiculous idea | $50 for a coffee is *ridiculous*! | 50 đô một ly cà phê thì thật vô lý!
+fake | adjective | /feɪk/ | giả | not real | fake news; fake products | Be careful of *fake* products online. | Hãy cẩn thận với hàng giả trên mạng.
+pure | adjective | /pjʊr/ | nguyên chất; thuần túy | not mixed; complete | pure water; by pure chance | We met by *pure* chance. | Chúng tôi gặp nhau hoàn toàn tình cờ.
+mild | adjective | /maɪld/ | ôn hòa; nhẹ | not severe; not strong | mild weather; a mild flavour | The weather is *mild* in spring. | Thời tiết mùa xuân ôn hòa.

@@ -1,7 +1,7 @@
 // Service worker: cho app chạy offline.
 // Chiến lược "network-first": có mạng thì luôn lấy bản mới nhất (bỏ qua cache HTTP 10 phút của
 // GitHub Pages), mạng chậm quá 3 giây hoặc mất mạng thì dùng bản đã lưu.
-const CACHE = "wordflow-v3";
+const CACHE = "wordflow-v4";
 const TIMEOUT_MS = 3000;
 const SHELL = [
   "./",

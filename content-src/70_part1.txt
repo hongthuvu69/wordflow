@@ -1,0 +1,53 @@
+#id: toeic_part1
+#prefix: tp1
+#order: 70
+#icon: 🖼️
+#title: TOEIC: Picture Words (Part 1)
+#title_vi: TOEIC: Từ vựng mô tả tranh (Part 1)
+#desc: Vỉa hè, lan can, giá treo, xe đẩy, bến tàu…: những đồ vật và cảnh vật hay xuất hiện trong ảnh Part 1.
+sidewalk | noun | /ˈsaɪdwɔːk/ | vỉa hè | a path for people beside a road | walk along the sidewalk | People are walking along the *sidewalk*. | Mọi người đang đi bộ trên vỉa hè. | Anh-Anh: pavement.
+pedestrian | noun | /pəˈdestriən/ | người đi bộ | a person walking in the street | pedestrian crossing | *Pedestrians* are crossing the street. | Người đi bộ đang băng qua đường.
+crosswalk | noun | /ˈkrɔːswɔːk/ | vạch sang đường | a marked place to cross a road | at the crosswalk | A woman is waiting at the *crosswalk*. | Một người phụ nữ đang chờ ở vạch sang đường.
+curb | noun | /kɜːrb/ | lề đường | the edge of a sidewalk | park by the curb | A car is parked by the *curb*. | Một chiếc xe đỗ cạnh lề đường.
+streetlight | noun | /ˈstriːtlaɪt/ | đèn đường | a light on a tall post beside a road | a row of streetlights | *Streetlights* line the road. | Đèn đường chạy dọc con đường.
+railing | noun | /ˈreɪlɪŋ/ | lan can | a fence of bars | lean on the railing | A man is leaning on the *railing*. | Một người đàn ông đang tựa vào lan can.
+handrail | noun | /ˈhændreɪl/ | tay vịn | a bar to hold on stairs | hold the handrail | Please hold the *handrail* on the stairs. | Vui lòng vịn tay vịn khi đi cầu thang.
+staircase | noun | /ˈsterkeɪs/ | cầu thang | a set of stairs | climb the staircase | Some people are walking down a *staircase*. | Vài người đang đi xuống cầu thang.
+hallway | noun | /ˈhɔːlweɪ/ | hành lang | a passage in a building | at the end of the hallway | Boxes have been left in the *hallway*. | Các hộp được để ngoài hành lang.
+doorway | noun | /ˈdɔːrweɪ/ | ô cửa ra vào | the space where a door opens | stand in the doorway | A woman is standing in the *doorway*. | Một người phụ nữ đang đứng ở cửa ra vào.
+archway | noun | /ˈɑːrtʃweɪ/ | cổng vòm | a passage under an arch | walk through an archway | People are walking through an *archway*. | Mọi người đang đi qua một cổng vòm.
+awning | noun | /ˈɔːnɪŋ/ | mái hiên (vải) | a cloth cover over a window or door | under the awning | Tables are set up under an *awning*. | Bàn được bày dưới mái hiên.
+bench | noun | /bentʃ/ | ghế băng | a long seat for several people | sit on a bench; park bench | Two people are sitting on a *bench*. | Hai người đang ngồi trên ghế băng.
+fountain | noun | /ˈfaʊntn/ | đài phun nước | a structure that sends water into the air | in front of the fountain | Children are playing near the *fountain*. | Trẻ em đang chơi gần đài phun nước.
+lawn | noun | /lɔːn/ | bãi cỏ | an area of short grass | mow the lawn | A man is mowing the *lawn*. | Một người đàn ông đang cắt cỏ.
+mow | verb | /moʊ/ | cắt cỏ | to cut grass | mow the lawn; lawn mower | The gardener is *mowing* the grass. | Người làm vườn đang cắt cỏ.
+rake | verb | /reɪk/ | cào | to collect leaves with a tool | rake leaves | A woman is *raking* leaves. | Một người phụ nữ đang cào lá.
+hose | noun | /hoʊz/ | vòi nước | a long tube for water | garden hose | He is watering plants with a *hose*. | Anh ấy đang tưới cây bằng vòi nước.
+wheelbarrow | noun | /ˈwiːlbæroʊ/ | xe cút kít | a small cart with one wheel | push a wheelbarrow | A worker is pushing a *wheelbarrow*. | Một công nhân đang đẩy xe cút kít.
+potted plant | noun | /ˌpɑːtɪd ˈplænt/ | chậu cây | a plant in a pot | potted plants on the windowsill | *Potted plants* have been placed by the window. | Chậu cây được đặt cạnh cửa sổ.
+windowsill | noun | /ˈwɪndoʊsɪl/ | bậu cửa sổ | the shelf at the bottom of a window | on the windowsill | A cup has been left on the *windowsill*. | Một cái cốc bị bỏ lại trên bậu cửa sổ.
+rack | noun | /ræk/ | giá, kệ (treo/để) | a frame for holding things | clothing rack; bicycle rack | Clothes are hanging on a *rack*. | Quần áo được treo trên giá.
+display case | noun | /dɪˈspleɪ keɪs/ | tủ trưng bày | a glass box for showing items | items in a display case | Jewelry is shown in a *display case*. | Trang sức được trưng bày trong tủ kính.
+storefront | noun | /ˈstɔːrfrʌnt/ | mặt tiền cửa hàng | the front of a shop facing the street | a glass storefront | A sign is hanging above the *storefront*. | Một tấm biển treo phía trên mặt tiền cửa hàng.
+street vendor | noun | /ˌstriːt ˈvendər/ | người bán hàng rong | a person selling things on the street | buy from a street vendor | A *street vendor* is selling fruit. | Một người bán hàng rong đang bán trái cây.
+stool | noun | /stuːl/ | ghế đẩu | a seat with no back | sit on a stool; bar stool | A man is sitting on a *stool* at the counter. | Một người đàn ông ngồi ghế đẩu ở quầy.
+lamp | noun | /læmp/ | đèn bàn | a device that gives light | desk lamp; turn on a lamp | A *lamp* is on the desk. | Có một cây đèn trên bàn.
+trolley | noun | /ˈtrɑːli/ | xe đẩy | a cart with wheels | luggage trolley | A man is pushing a luggage *trolley*. | Một người đàn ông đang đẩy xe hành lý.
+dock | noun | /dɑːk/ | bến tàu | a place where ships are loaded | at the dock | Boats are tied up at the *dock*. | Thuyền được buộc ở bến tàu.
+pier | noun | /pɪr/ | cầu tàu | a structure going out into the sea | walk along the pier | People are fishing from the *pier*. | Mọi người đang câu cá trên cầu tàu.
+ferry | noun | /ˈferi/ | phà | a boat carrying people and cars | take the ferry | Passengers are getting off a *ferry*. | Hành khách đang xuống phà.
+dock worker | noun | /ˈdɑːk ˌwɜːrkər/ | công nhân bến cảng | a person who loads and unloads ships | dock workers unloading cargo | Two *dock workers* are lifting a crate. | Hai công nhân bến cảng đang nâng một thùng hàng.
+kneel | verb | /niːl/ | quỳ | to go down on your knees | kneel down | A woman is *kneeling* to plant flowers. | Một người phụ nữ đang quỳ để trồng hoa. | kneel – knelt – knelt.
+crouch | verb | /kraʊtʃ/ | ngồi xổm, khom người | to bend your knees and lower your body | crouch down | A man is *crouching* next to a car. | Một người đàn ông đang ngồi xổm cạnh xe ô tô.
+examine | verb | /ɪɡˈzæmɪn/ | xem xét | to look at closely | examine a document | A man is *examining* a piece of paper. | Một người đàn ông đang xem xét một tờ giấy.
+browse | verb | /braʊz/ | xem lướt (hàng hóa) | to look at things in a shop without a plan | browse in a bookstore | Customers are *browsing* in a bookstore. | Khách hàng đang xem sách trong hiệu sách.
+stroll | verb | /stroʊl/ | đi dạo | to walk slowly for pleasure | stroll along the beach | A couple is *strolling* along the beach. | Một cặp đôi đang dạo dọc bãi biển.
+board up | verb | /ˌbɔːrd ˈʌp/ | lấy ván bịt lại | to cover with wooden boards | windows boarded up | The windows have been *boarded up*. | Các cửa sổ đã bị bịt bằng ván.
+be under construction | verb | /bi ˌʌndər kənˈstrʌkʃn/ | đang được xây dựng | to be in the process of being built | a building is under construction | A bridge *is under construction*. | Một cây cầu đang được xây dựng. | Câu kinh điển Part 1.
+be lined up | verb | /bi ˌlaɪnd ˈʌp/ | được xếp thành hàng | to be arranged in a row | cars are lined up | Bicycles *are lined up* along the fence. | Xe đạp được xếp thành hàng dọc hàng rào.
+be propped against | verb | /bi ˌprɑːpt əˈɡenst/ | được dựng tựa vào | to be leaning against something | a ladder is propped against the wall | A ladder *is propped against* the wall. | Một cái thang được dựng tựa vào tường.
+overlook | verb | /ˌoʊvərˈlʊk/ | nhìn ra; bỏ sót | to have a view of; to fail to notice | overlook the sea; overlook a mistake | The balcony *overlooks* the harbor. | Ban công nhìn ra bến cảng.
+reflection | noun | /rɪˈflekʃn/ | hình phản chiếu; sự suy ngẫm | an image in a mirror or water; careful thought | a reflection in the water | Trees are casting *reflections* on the water. | Cây cối in bóng trên mặt nước.
+unoccupied | adjective | /ʌnˈɑːkjupaɪd/ | trống, không có người | empty | unoccupied seats | Some of the seats are *unoccupied*. | Một số ghế còn trống.
+deserted | adjective | /dɪˈzɜːrtɪd/ | vắng vẻ | with no people | a deserted street | The street is completely *deserted*. | Con phố hoàn toàn vắng vẻ.
+crowded | adjective | /ˈkraʊdɪd/ | đông đúc | full of people | a crowded market | The platform is *crowded* with passengers. | Sân ga đông nghẹt hành khách.

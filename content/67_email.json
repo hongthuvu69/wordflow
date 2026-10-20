@@ -1,0 +1,704 @@
+{
+ "id": "toeic_email",
+ "order": 67,
+ "icon": "✉️",
+ "level": "TOEIC",
+ "title": "TOEIC: Business Email Language",
+ "title_vi": "TOEIC: Ngôn ngữ email công việc",
+ "description": "Cụm từ trang trọng hay xuất hiện trong email, thư, thông báo Part 6–7: please find attached, at your earliest convenience…",
+ "words": [
+  {
+   "id": "tem_regarding",
+   "word": "regarding",
+   "pos": "preposition",
+   "ipa": "/rɪˈɡɑːrdɪŋ/",
+   "level": "TOEIC",
+   "meaning": "về việc",
+   "definition": "about",
+   "collocations": [
+    "regarding your order"
+   ],
+   "examples": [
+    {
+     "en": "I'm writing *regarding* your recent order.",
+     "vi": "Tôi viết thư về đơn hàng gần đây của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tem_with_regard_to",
+   "word": "with regard to",
+   "pos": "preposition",
+   "ipa": "/wɪð rɪˈɡɑːrd tə/",
+   "level": "TOEIC",
+   "meaning": "liên quan đến",
+   "definition": "about",
+   "collocations": [
+    "with regard to the meeting"
+   ],
+   "examples": [
+    {
+     "en": "*With regard to* your question, the answer is yes.",
+     "vi": "Về câu hỏi của bạn, câu trả lời là có."
+    }
+   ]
+  },
+  {
+   "id": "tem_in_response_to",
+   "word": "in response to",
+   "pos": "preposition",
+   "ipa": "/ɪn rɪˈspɑːns tə/",
+   "level": "TOEIC",
+   "meaning": "để đáp lại",
+   "definition": "as a reply to",
+   "collocations": [
+    "in response to your e-mail"
+   ],
+   "examples": [
+    {
+     "en": "I am writing *in response to* your advertisement.",
+     "vi": "Tôi viết thư để phản hồi mẩu quảng cáo của quý công ty."
+    }
+   ]
+  },
+  {
+   "id": "tem_further_to",
+   "word": "further to",
+   "pos": "preposition",
+   "ipa": "/ˈfɜːrðər tə/",
+   "level": "TOEIC",
+   "meaning": "tiếp theo (cuộc trao đổi)",
+   "definition": "following",
+   "collocations": [
+    "further to our conversation"
+   ],
+   "examples": [
+    {
+     "en": "*Further to* our phone call, I attach the contract.",
+     "vi": "Tiếp theo cuộc điện thoại, tôi gửi kèm hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "tem_please_find_attached",
+   "word": "please find attached",
+   "pos": "phrase",
+   "ipa": "/pliːz ˌfaɪnd əˈtætʃt/",
+   "level": "TOEIC",
+   "meaning": "xin gửi kèm",
+   "definition": "used to say a file is attached",
+   "collocations": [
+    "please find attached the report"
+   ],
+   "examples": [
+    {
+     "en": "*Please find attached* the agenda for Monday.",
+     "vi": "Xin gửi kèm chương trình họp ngày thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "tem_enclosed",
+   "word": "enclosed",
+   "pos": "adjective",
+   "ipa": "/ɪnˈkloʊzd/",
+   "level": "TOEIC",
+   "meaning": "được gửi kèm (trong thư)",
+   "definition": "included in an envelope with a letter",
+   "collocations": [
+    "please find enclosed"
+   ],
+   "examples": [
+    {
+     "en": "The *enclosed* brochure gives more details.",
+     "vi": "Tờ giới thiệu gửi kèm có thêm thông tin chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "tem_enclose",
+   "word": "enclose",
+   "pos": "verb",
+   "ipa": "/ɪnˈkloʊz/",
+   "level": "TOEIC",
+   "meaning": "gửi kèm",
+   "definition": "to put something in an envelope with a letter",
+   "collocations": [
+    "enclose a cheque"
+   ],
+   "examples": [
+    {
+     "en": "I have *enclosed* a copy of my certificate.",
+     "vi": "Tôi đã gửi kèm bản sao chứng chỉ."
+    }
+   ]
+  },
+  {
+   "id": "tem_at_your_earliest_convenience",
+   "word": "at your earliest convenience",
+   "pos": "phrase",
+   "ipa": "/æt jɔːr ˌɜːrliɪst kənˈviːniəns/",
+   "level": "TOEIC",
+   "meaning": "sớm nhất có thể",
+   "definition": "as soon as possible (polite)",
+   "collocations": [
+    "reply at your earliest convenience"
+   ],
+   "examples": [
+    {
+     "en": "Please reply *at your earliest convenience*.",
+     "vi": "Vui lòng phản hồi sớm nhất có thể."
+    }
+   ]
+  },
+  {
+   "id": "tem_look_forward_to",
+   "word": "look forward to",
+   "pos": "verb",
+   "ipa": "/ˌlʊk ˈfɔːrwərd tə/",
+   "level": "TOEIC",
+   "meaning": "mong đợi",
+   "definition": "to wait with pleasure",
+   "collocations": [
+    "look forward to hearing from you"
+   ],
+   "examples": [
+    {
+     "en": "We *look forward to* working with you.",
+     "vi": "Chúng tôi mong được hợp tác với bạn."
+    }
+   ],
+   "note": "look forward to + V-ing."
+  },
+  {
+   "id": "tem_should_you_have",
+   "word": "should you have",
+   "pos": "phrase",
+   "ipa": "/ʃʊd juː hæv/",
+   "level": "TOEIC",
+   "meaning": "nếu bạn có",
+   "definition": "if you have (formal)",
+   "collocations": [
+    "should you have any questions"
+   ],
+   "examples": [
+    {
+     "en": "*Should you have* any questions, please contact me.",
+     "vi": "Nếu bạn có câu hỏi nào, vui lòng liên hệ tôi."
+    }
+   ],
+   "note": "Đảo ngữ trang trọng của câu điều kiện."
+  },
+  {
+   "id": "tem_to_whom_it_may_concern",
+   "word": "to whom it may concern",
+   "pos": "phrase",
+   "ipa": "/tə ˌhuːm ɪt meɪ kənˈsɜːrn/",
+   "level": "TOEIC",
+   "meaning": "kính gửi những người liên quan",
+   "definition": "used to start a formal letter to an unknown reader",
+   "collocations": [
+    "begin with \"To whom it may concern\""
+   ],
+   "examples": [
+    {
+     "en": "The letter began \"*To whom it may concern*\".",
+     "vi": "Lá thư mở đầu bằng \"Kính gửi những người liên quan\"."
+    }
+   ]
+  },
+  {
+   "id": "tem_sincerely",
+   "word": "sincerely",
+   "pos": "adverb",
+   "ipa": "/sɪnˈsɪrli/",
+   "level": "TOEIC",
+   "meaning": "trân trọng (kết thư)",
+   "definition": "used to end a formal letter",
+   "collocations": [
+    "Yours sincerely",
+    "Sincerely"
+   ],
+   "examples": [
+    {
+     "en": "*Sincerely*, Laura Bennett",
+     "vi": "Trân trọng, Laura Bennett"
+    }
+   ]
+  },
+  {
+   "id": "tem_regards",
+   "word": "regards",
+   "pos": "noun",
+   "ipa": "/rɪˈɡɑːrdz/",
+   "level": "TOEIC",
+   "meaning": "lời chào trân trọng",
+   "definition": "used to end an e-mail politely",
+   "collocations": [
+    "best regards",
+    "kind regards"
+   ],
+   "examples": [
+    {
+     "en": "Best *regards*, Tom",
+     "vi": "Trân trọng, Tom"
+    }
+   ]
+  },
+  {
+   "id": "tem_on_behalf_of",
+   "word": "on behalf of",
+   "pos": "preposition",
+   "ipa": "/ɑːn bɪˈhæf əv/",
+   "level": "TOEIC",
+   "meaning": "thay mặt",
+   "definition": "as a representative of",
+   "collocations": [
+    "on behalf of the company"
+   ],
+   "examples": [
+    {
+     "en": "*On behalf of* the team, thank you for your support.",
+     "vi": "Thay mặt cả đội, xin cảm ơn sự ủng hộ của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tem_as_per",
+   "word": "as per",
+   "pos": "preposition",
+   "ipa": "/æz pɜːr/",
+   "level": "TOEIC",
+   "meaning": "theo như",
+   "definition": "according to",
+   "collocations": [
+    "as per your request",
+    "as per our agreement"
+   ],
+   "examples": [
+    {
+     "en": "*As per* your request, I've changed the delivery date.",
+     "vi": "Theo yêu cầu của bạn, tôi đã đổi ngày giao hàng."
+    }
+   ]
+  },
+  {
+   "id": "tem_kindly",
+   "word": "kindly",
+   "pos": "adverb",
+   "ipa": "/ˈkaɪndli/",
+   "level": "TOEIC",
+   "meaning": "vui lòng (trang trọng)",
+   "definition": "please",
+   "collocations": [
+    "kindly reply",
+    "kindly note"
+   ],
+   "examples": [
+    {
+     "en": "*Kindly* confirm receipt of this e-mail.",
+     "vi": "Vui lòng xác nhận đã nhận e-mail này."
+    }
+   ]
+  },
+  {
+   "id": "tem_cc",
+   "word": "cc",
+   "pos": "verb",
+   "ipa": "/ˌsiː ˈsiː/",
+   "level": "TOEIC",
+   "meaning": "gửi đồng thời (cc)",
+   "definition": "to send a copy of an e-mail to someone",
+   "collocations": [
+    "cc someone on an e-mail"
+   ],
+   "examples": [
+    {
+     "en": "Please *cc* me on all e-mails to the client.",
+     "vi": "Vui lòng cc tôi trong mọi e-mail gửi khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "tem_subject_line",
+   "word": "subject line",
+   "pos": "noun",
+   "ipa": "/ˈsʌbdʒɪkt laɪn/",
+   "level": "TOEIC",
+   "meaning": "dòng tiêu đề",
+   "definition": "the title of an e-mail",
+   "collocations": [
+    "write a clear subject line"
+   ],
+   "examples": [
+    {
+     "en": "Put the order number in the *subject line*.",
+     "vi": "Ghi số đơn hàng vào dòng tiêu đề."
+    }
+   ]
+  },
+  {
+   "id": "tem_recipient_list",
+   "word": "recipient list",
+   "pos": "noun",
+   "ipa": "/rɪˈsɪpiənt lɪst/",
+   "level": "TOEIC",
+   "meaning": "danh sách người nhận",
+   "definition": "the people an e-mail is sent to",
+   "collocations": [
+    "add to the recipient list"
+   ],
+   "examples": [
+    {
+     "en": "Please add Ms. Lee to the *recipient list*.",
+     "vi": "Vui lòng thêm cô Lee vào danh sách người nhận."
+    }
+   ]
+  },
+  {
+   "id": "tem_out_of_office",
+   "word": "out of office",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt əv ˈɔːfɪs/",
+   "level": "TOEIC",
+   "meaning": "vắng mặt (văn phòng)",
+   "definition": "away from work",
+   "collocations": [
+    "out-of-office reply"
+   ],
+   "examples": [
+    {
+     "en": "I will be *out of office* until Monday.",
+     "vi": "Tôi sẽ vắng mặt đến thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "tem_automatic_reply",
+   "word": "automatic reply",
+   "pos": "noun",
+   "ipa": "/ˌɔːtəmætɪk rɪˈplaɪ/",
+   "level": "TOEIC",
+   "meaning": "thư trả lời tự động",
+   "definition": "an e-mail sent automatically",
+   "collocations": [
+    "set up an automatic reply"
+   ],
+   "examples": [
+    {
+     "en": "I received an *automatic reply* saying she's on holiday.",
+     "vi": "Tôi nhận thư trả lời tự động báo cô ấy đang nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "tem_subscriber",
+   "word": "subscriber",
+   "pos": "noun",
+   "ipa": "/səbˈskraɪbər/",
+   "level": "C1",
+   "meaning": "người đăng ký nhận tin",
+   "definition": "a person who receives a newsletter regularly",
+   "collocations": [
+    "dear subscribers"
+   ],
+   "examples": [
+    {
+     "en": "All *subscribers* get early access to sales.",
+     "vi": "Mọi người đăng ký đều được mua sớm khi có khuyến mãi."
+    }
+   ]
+  },
+  {
+   "id": "tem_unsubscribe",
+   "word": "unsubscribe",
+   "pos": "verb",
+   "ipa": "/ˌʌnsəbˈskraɪb/",
+   "level": "TOEIC",
+   "meaning": "hủy đăng ký nhận tin",
+   "definition": "to stop receiving e-mails",
+   "collocations": [
+    "click here to unsubscribe"
+   ],
+   "examples": [
+    {
+     "en": "Click the link below to *unsubscribe*.",
+     "vi": "Nhấp vào đường dẫn bên dưới để hủy đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "tem_reply_all",
+   "word": "reply all",
+   "pos": "verb",
+   "ipa": "/rɪˌplaɪ ˈɔːl/",
+   "level": "TOEIC",
+   "meaning": "trả lời tất cả",
+   "definition": "to answer everyone on an e-mail",
+   "collocations": [
+    "don't reply all"
+   ],
+   "examples": [
+    {
+     "en": "Please don't *reply all* to this e-mail.",
+     "vi": "Vui lòng không bấm trả lời tất cả e-mail này."
+    }
+   ]
+  },
+  {
+   "id": "tem_confirm_receipt",
+   "word": "confirm receipt",
+   "pos": "verb",
+   "ipa": "/kənˌfɜːrm rɪˈsiːt/",
+   "level": "TOEIC",
+   "meaning": "xác nhận đã nhận",
+   "definition": "to say that you have received something",
+   "collocations": [
+    "please confirm receipt"
+   ],
+   "examples": [
+    {
+     "en": "Please *confirm receipt* of the documents.",
+     "vi": "Vui lòng xác nhận đã nhận tài liệu."
+    }
+   ]
+  },
+  {
+   "id": "tem_draw_your_attention_to",
+   "word": "draw your attention to",
+   "pos": "verb",
+   "ipa": "/ˌdrɔː jɔːr əˈtenʃn tə/",
+   "level": "TOEIC",
+   "meaning": "lưu ý quý vị về",
+   "definition": "to make someone notice",
+   "collocations": [
+    "I'd like to draw your attention to"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to *draw your attention to* the new deadline.",
+     "vi": "Tôi muốn quý vị lưu ý về hạn chót mới."
+    }
+   ]
+  },
+  {
+   "id": "tem_be_advised",
+   "word": "be advised",
+   "pos": "phrase",
+   "ipa": "/bi ədˈvaɪzd/",
+   "level": "TOEIC",
+   "meaning": "xin lưu ý",
+   "definition": "please note (formal)",
+   "collocations": [
+    "please be advised that"
+   ],
+   "examples": [
+    {
+     "en": "Please *be advised* that the office will close early on Friday.",
+     "vi": "Xin lưu ý văn phòng sẽ đóng cửa sớm vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tem_we_regret_to_inform_you",
+   "word": "we regret to inform you",
+   "pos": "phrase",
+   "ipa": "/wi rɪˌɡret tu ɪnˈfɔːrm juː/",
+   "level": "TOEIC",
+   "meaning": "chúng tôi rất tiếc phải thông báo",
+   "definition": "used to give bad news formally",
+   "collocations": [
+    "we regret to inform you that"
+   ],
+   "examples": [
+    {
+     "en": "*We regret to inform you* that the position has been filled.",
+     "vi": "Chúng tôi rất tiếc phải thông báo vị trí này đã được tuyển."
+    }
+   ]
+  },
+  {
+   "id": "tem_pleased_to_announce",
+   "word": "pleased to announce",
+   "pos": "phrase",
+   "ipa": "/ˌpliːzd tu əˈnaʊns/",
+   "level": "TOEIC",
+   "meaning": "vui mừng thông báo",
+   "definition": "used to give good news formally",
+   "collocations": [
+    "we are pleased to announce"
+   ],
+   "examples": [
+    {
+     "en": "We are *pleased to announce* the opening of our new branch.",
+     "vi": "Chúng tôi vui mừng thông báo khai trương chi nhánh mới."
+    }
+   ]
+  },
+  {
+   "id": "tem_on_short_notice",
+   "word": "on short notice",
+   "pos": "adverb",
+   "ipa": "/ɑːn ˌʃɔːrt ˈnoʊtɪs/",
+   "level": "TOEIC",
+   "meaning": "gấp, báo trước ít thời gian",
+   "definition": "with little warning",
+   "collocations": [
+    "at short notice",
+    "on short notice"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for coming *on short notice*.",
+     "vi": "Cảm ơn bạn đã đến dù được báo gấp."
+    }
+   ]
+  },
+  {
+   "id": "tem_until_further_notice",
+   "word": "until further notice",
+   "pos": "adverb",
+   "ipa": "/ənˌtɪl ˌfɜːrðər ˈnoʊtɪs/",
+   "level": "TOEIC",
+   "meaning": "cho đến khi có thông báo mới",
+   "definition": "until you are told something different",
+   "collocations": [
+    "closed until further notice"
+   ],
+   "examples": [
+    {
+     "en": "The gym is closed *until further notice*.",
+     "vi": "Phòng tập đóng cửa cho đến khi có thông báo mới."
+    }
+   ]
+  },
+  {
+   "id": "tem_for_your_reference",
+   "word": "for your reference",
+   "pos": "phrase",
+   "ipa": "/fər jɔːr ˈrefrəns/",
+   "level": "TOEIC",
+   "meaning": "để bạn tham khảo",
+   "definition": "so that you can check it",
+   "collocations": [
+    "attached for your reference"
+   ],
+   "examples": [
+    {
+     "en": "I've attached last year's report *for your reference*.",
+     "vi": "Tôi gửi kèm báo cáo năm ngoái để bạn tham khảo."
+    }
+   ]
+  },
+  {
+   "id": "tem_as_soon_as_possible",
+   "word": "as soon as possible",
+   "pos": "adverb",
+   "ipa": "/æz ˌsuːn æz ˈpɑːsəbl/",
+   "level": "TOEIC",
+   "meaning": "càng sớm càng tốt",
+   "definition": "very soon",
+   "collocations": [
+    "reply as soon as possible"
+   ],
+   "examples": [
+    {
+     "en": "Please send the files *as soon as possible*.",
+     "vi": "Vui lòng gửi tệp càng sớm càng tốt."
+    }
+   ],
+   "note": "Viết tắt: ASAP."
+  },
+  {
+   "id": "tem_in_the_meantime",
+   "word": "in the meantime",
+   "pos": "adverb",
+   "ipa": "/ɪn ðə ˈmiːntaɪm/",
+   "level": "TOEIC",
+   "meaning": "trong lúc chờ đợi",
+   "definition": "while waiting for something",
+   "collocations": [
+    "in the meantime, please"
+   ],
+   "examples": [
+    {
+     "en": "*In the meantime*, please use the side entrance.",
+     "vi": "Trong lúc chờ đợi, vui lòng dùng lối vào bên hông."
+    }
+   ]
+  },
+  {
+   "id": "tem_as_discussed",
+   "word": "as discussed",
+   "pos": "phrase",
+   "ipa": "/æz dɪˈskʌst/",
+   "level": "TOEIC",
+   "meaning": "như đã thảo luận",
+   "definition": "as we talked about before",
+   "collocations": [
+    "as discussed at the meeting"
+   ],
+   "examples": [
+    {
+     "en": "*As discussed*, the launch has moved to May.",
+     "vi": "Như đã thảo luận, buổi ra mắt dời sang tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "tem_thank_you_in_advance",
+   "word": "thank you in advance",
+   "pos": "phrase",
+   "ipa": "/ˌθæŋk juː ɪn ədˈvæns/",
+   "level": "TOEIC",
+   "meaning": "cảm ơn trước",
+   "definition": "thanks before something is done",
+   "collocations": [
+    "thank you in advance for your help"
+   ],
+   "examples": [
+    {
+     "en": "*Thank you in advance* for your cooperation.",
+     "vi": "Cảm ơn trước sự hợp tác của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tem_cooperation",
+   "word": "cooperation",
+   "pos": "noun",
+   "ipa": "/koʊˌɑːpəˈreɪʃn/",
+   "level": "C1",
+   "meaning": "sự hợp tác",
+   "definition": "working together",
+   "collocations": [
+    "thank you for your cooperation"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *cooperation*.",
+     "vi": "Cảm ơn sự hợp tác của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tem_inquire",
+   "word": "inquire",
+   "pos": "verb",
+   "ipa": "/ɪnˈkwaɪər/",
+   "level": "TOEIC",
+   "meaning": "hỏi thông tin",
+   "definition": "to ask for information",
+   "collocations": [
+    "inquire about"
+   ],
+   "examples": [
+    {
+     "en": "I'm writing to *inquire* about the job opening.",
+     "vi": "Tôi viết thư để hỏi về vị trí tuyển dụng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

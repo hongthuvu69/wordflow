@@ -1,0 +1,1093 @@
+{
+ "id": "familiar3",
+ "order": 51,
+ "icon": "♻️",
+ "level": "B1",
+ "title": "Familiar Words, New Meanings (3)",
+ "title_vi": "Từ quen – nghĩa mới (3)",
+ "description": "Nhóm cuối của các từ cơ bản ở nghĩa B1–B2: make, need, used to, worse/worst, whole, yet…",
+ "words": [
+  {
+   "id": "fa3_make",
+   "word": "make",
+   "pos": "noun",
+   "ipa": "/meɪk/",
+   "level": "B2",
+   "meaning": "hãng, nhãn hiệu",
+   "definition": "the brand of a product",
+   "collocations": [
+    "make and model"
+   ],
+   "examples": [
+    {
+     "en": "What *make* is your car?",
+     "vi": "Xe bạn của hãng nào?"
+    }
+   ]
+  },
+  {
+   "id": "fa3_making",
+   "word": "making",
+   "pos": "noun",
+   "ipa": "/ˈmeɪkɪŋ/",
+   "level": "B2",
+   "meaning": "sự làm ra; tố chất",
+   "definition": "the process of making something",
+   "collocations": [
+    "decision-making",
+    "in the making"
+   ],
+   "examples": [
+    {
+     "en": "She has the *makings* of a great manager.",
+     "vi": "Cô ấy có tố chất của một nhà quản lý giỏi."
+    }
+   ],
+   "note": "decision-making = việc ra quyết định."
+  },
+  {
+   "id": "fa3_mistake",
+   "word": "mistake",
+   "pos": "verb",
+   "ipa": "/mɪˈsteɪk/",
+   "level": "B2",
+   "meaning": "nhầm lẫn",
+   "definition": "to think one person or thing is another",
+   "collocations": [
+    "mistake A for B"
+   ],
+   "examples": [
+    {
+     "en": "I *mistook* him for the manager.",
+     "vi": "Tôi nhầm anh ấy là quản lý."
+    }
+   ]
+  },
+  {
+   "id": "fa3_need",
+   "word": "need",
+   "pos": "noun",
+   "ipa": "/niːd/",
+   "level": "B1",
+   "meaning": "nhu cầu",
+   "definition": "something you must have",
+   "collocations": [
+    "customer needs",
+    "in need of",
+    "meet the needs"
+   ],
+   "examples": [
+    {
+     "en": "We design products to meet customer *needs*.",
+     "vi": "Chúng tôi thiết kế sản phẩm đáp ứng nhu cầu khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "fa3_net",
+   "word": "net",
+   "pos": "adjective",
+   "ipa": "/net/",
+   "level": "B1",
+   "meaning": "ròng (sau khi trừ)",
+   "definition": "after taxes or costs are taken away",
+   "collocations": [
+    "net profit",
+    "net income"
+   ],
+   "examples": [
+    {
+     "en": "The company's *net* profit rose by 8%.",
+     "vi": "Lợi nhuận ròng của công ty tăng 8%."
+    }
+   ],
+   "note": "gross = gộp (trước khi trừ)."
+  },
+  {
+   "id": "fa3_next",
+   "word": "next",
+   "pos": "adverb",
+   "ipa": "/nekst/",
+   "level": "B1",
+   "meaning": "tiếp theo",
+   "definition": "after this",
+   "collocations": [
+    "what to do next",
+    "next to"
+   ],
+   "examples": [
+    {
+     "en": "What should we do *next*?",
+     "vi": "Chúng ta nên làm gì tiếp theo?"
+    }
+   ]
+  },
+  {
+   "id": "fa3_now",
+   "word": "now",
+   "pos": "conjunction",
+   "ipa": "/naʊ/",
+   "level": "B1",
+   "meaning": "giờ thì, vì giờ đây",
+   "definition": "because something has happened",
+   "collocations": [
+    "now that"
+   ],
+   "examples": [
+    {
+     "en": "*Now* that the project is finished, we can relax.",
+     "vi": "Giờ dự án đã xong, chúng ta có thể nghỉ ngơi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_occupy",
+   "word": "occupy",
+   "pos": "verb",
+   "ipa": "/ˈɑːkjupaɪ/",
+   "level": "B2",
+   "meaning": "chiếm (chỗ); bận rộn",
+   "definition": "to use a space; to keep busy",
+   "collocations": [
+    "occupied seat",
+    "keep occupied"
+   ],
+   "examples": [
+    {
+     "en": "This seat is *occupied*.",
+     "vi": "Ghế này có người ngồi rồi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_occur",
+   "word": "occur",
+   "pos": "verb",
+   "ipa": "/əˈkɜːr/",
+   "level": "B1",
+   "meaning": "xảy ra; nảy ra (ý)",
+   "definition": "to happen; to come into your mind",
+   "collocations": [
+    "occur to someone",
+    "the accident occurred"
+   ],
+   "examples": [
+    {
+     "en": "The accident *occurred* at 9 a.m.",
+     "vi": "Vụ tai nạn xảy ra lúc 9 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "fa3_ours",
+   "word": "ours",
+   "pos": "pronoun",
+   "ipa": "/ˈaʊərz/",
+   "level": "B1",
+   "meaning": "của chúng tôi",
+   "definition": "the one belonging to us",
+   "collocations": [
+    "a friend of ours"
+   ],
+   "examples": [
+    {
+     "en": "The red car is *ours*.",
+     "vi": "Chiếc xe màu đỏ là của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_theirs",
+   "word": "theirs",
+   "pos": "pronoun",
+   "ipa": "/ðerz/",
+   "level": "B1",
+   "meaning": "của họ",
+   "definition": "the one belonging to them",
+   "collocations": [
+    "the choice is theirs"
+   ],
+   "examples": [
+    {
+     "en": "Our prices are lower than *theirs*.",
+     "vi": "Giá của chúng tôi thấp hơn của họ."
+    }
+   ]
+  },
+  {
+   "id": "fa3_plus",
+   "word": "plus",
+   "pos": "preposition",
+   "ipa": "/plʌs/",
+   "level": "B1",
+   "meaning": "cộng thêm",
+   "definition": "and also; added to",
+   "collocations": [
+    "plus tax",
+    "plus shipping"
+   ],
+   "examples": [
+    {
+     "en": "The price is $50 *plus* tax.",
+     "vi": "Giá là 50 đô chưa gồm thuế."
+    }
+   ],
+   "note": "Danh từ: a plus = một điểm cộng."
+  },
+  {
+   "id": "fa3_possess",
+   "word": "possess",
+   "pos": "verb",
+   "ipa": "/pəˈzes/",
+   "level": "B2",
+   "meaning": "sở hữu",
+   "definition": "to have or own",
+   "collocations": [
+    "possess skills",
+    "possess a licence"
+   ],
+   "examples": [
+    {
+     "en": "Candidates must *possess* a valid driving licence.",
+     "vi": "Ứng viên phải có bằng lái xe còn hạn."
+    }
+   ]
+  },
+  {
+   "id": "fa3_inherit",
+   "word": "inherit",
+   "pos": "verb",
+   "ipa": "/ɪnˈherɪt/",
+   "level": "B2",
+   "meaning": "thừa kế; tiếp quản",
+   "definition": "to receive from someone who has died; to take over",
+   "collocations": [
+    "inherit a house",
+    "inherit a problem"
+   ],
+   "examples": [
+    {
+     "en": "The new manager *inherited* several problems.",
+     "vi": "Quản lý mới tiếp quản một số vấn đề tồn đọng."
+    }
+   ]
+  },
+  {
+   "id": "fa3_insert",
+   "word": "insert",
+   "pos": "verb",
+   "ipa": "/ɪnˈsɜːrt/",
+   "level": "B2",
+   "meaning": "chèn, đưa vào",
+   "definition": "to put something into something",
+   "collocations": [
+    "insert a card",
+    "insert a picture"
+   ],
+   "examples": [
+    {
+     "en": "*Insert* your card and enter your PIN.",
+     "vi": "Đưa thẻ vào và nhập mã PIN."
+    }
+   ]
+  },
+  {
+   "id": "fa3_interact",
+   "word": "interact",
+   "pos": "verb",
+   "ipa": "/ˌɪntərˈækt/",
+   "level": "B2",
+   "meaning": "tương tác",
+   "definition": "to communicate with",
+   "collocations": [
+    "interact with customers"
+   ],
+   "examples": [
+    {
+     "en": "Sales staff *interact* with customers every day.",
+     "vi": "Nhân viên bán hàng tương tác với khách hàng hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "fa3_kind",
+   "word": "kind",
+   "pos": "noun",
+   "ipa": "/kaɪnd/",
+   "level": "B1",
+   "meaning": "loại",
+   "definition": "a type",
+   "collocations": [
+    "what kind of",
+    "all kinds of"
+   ],
+   "examples": [
+    {
+     "en": "What *kind* of job are you looking for?",
+     "vi": "Bạn đang tìm loại công việc nào?"
+    }
+   ]
+  },
+  {
+   "id": "fa3_like",
+   "word": "like",
+   "pos": "preposition",
+   "ipa": "/laɪk/",
+   "level": "B1",
+   "meaning": "giống như; chẳng hạn",
+   "definition": "similar to; for example",
+   "collocations": [
+    "look like",
+    "feel like",
+    "such as"
+   ],
+   "examples": [
+    {
+     "en": "Fruits *like* oranges contain vitamin C.",
+     "vi": "Các loại trái cây như cam có chứa vitamin C."
+    }
+   ],
+   "note": "feel like + V-ing = muốn làm gì."
+  },
+  {
+   "id": "fa3_unlike",
+   "word": "unlike",
+   "pos": "preposition",
+   "ipa": "/ˌʌnˈlaɪk/",
+   "level": "B1",
+   "meaning": "không giống, khác với",
+   "definition": "different from",
+   "collocations": [
+    "unlike most companies"
+   ],
+   "examples": [
+    {
+     "en": "*Unlike* most hotels, we don't charge for Wi-Fi.",
+     "vi": "Khác với hầu hết khách sạn, chúng tôi không tính phí Wi-Fi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_ring",
+   "word": "ring",
+   "pos": "noun",
+   "ipa": "/rɪŋ/",
+   "level": "B1",
+   "meaning": "chiếc nhẫn; cú điện thoại; vòng",
+   "definition": "a piece of jewellery; a phone call; a circle",
+   "collocations": [
+    "give someone a ring",
+    "wedding ring"
+   ],
+   "examples": [
+    {
+     "en": "Give me a *ring* when you arrive.",
+     "vi": "Đến nơi thì gọi cho tôi nhé."
+    }
+   ]
+  },
+  {
+   "id": "fa3_rose",
+   "word": "rose",
+   "pos": "noun",
+   "ipa": "/roʊz/",
+   "level": "B2",
+   "meaning": "hoa hồng",
+   "definition": "a flower with a sweet smell",
+   "collocations": [
+    "red roses"
+   ],
+   "examples": [
+    {
+     "en": "He bought her a dozen *roses*.",
+     "vi": "Anh ấy mua tặng cô một tá hoa hồng."
+    }
+   ]
+  },
+  {
+   "id": "fa3_row",
+   "word": "row",
+   "pos": "noun",
+   "ipa": "/roʊ/",
+   "level": "B1",
+   "meaning": "hàng, dãy",
+   "definition": "a line of things or people",
+   "collocations": [
+    "in a row",
+    "front row",
+    "three days in a row"
+   ],
+   "examples": [
+    {
+     "en": "We sat in the front *row*.",
+     "vi": "Chúng tôi ngồi ở hàng ghế đầu."
+    }
+   ],
+   "note": "in a row = liên tiếp."
+  },
+  {
+   "id": "fa3_rat",
+   "word": "rat",
+   "pos": "noun",
+   "ipa": "/ræt/",
+   "level": "B2",
+   "meaning": "con chuột (lớn)",
+   "definition": "an animal like a large mouse",
+   "collocations": [
+    "rat problem"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant was closed because of *rats*.",
+     "vi": "Nhà hàng bị đóng cửa vì có chuột."
+    }
+   ]
+  },
+  {
+   "id": "fa3_sense",
+   "word": "sense",
+   "pos": "noun",
+   "ipa": "/sens/",
+   "level": "B2",
+   "meaning": "giác quan; ý thức; ý nghĩa",
+   "definition": "the ability to see, hear etc.; understanding; meaning",
+   "collocations": [
+    "sense of humour",
+    "make sense",
+    "common sense"
+   ],
+   "examples": [
+    {
+     "en": "Your plan makes *sense*.",
+     "vi": "Kế hoạch của bạn hợp lý."
+    }
+   ]
+  },
+  {
+   "id": "fa3_sex",
+   "word": "sex",
+   "pos": "noun",
+   "ipa": "/seks/",
+   "level": "B1",
+   "meaning": "giới tính",
+   "definition": "being male or female",
+   "collocations": [
+    "sex and age",
+    "of either sex"
+   ],
+   "examples": [
+    {
+     "en": "The form asks for your name, age and *sex*.",
+     "vi": "Mẫu đơn hỏi tên, tuổi và giới tính của bạn."
+    }
+   ]
+  },
+  {
+   "id": "fa3_sexual",
+   "word": "sexual",
+   "pos": "adjective",
+   "ipa": "/ˈsekʃuəl/",
+   "level": "B1",
+   "meaning": "thuộc giới tính; tình dục",
+   "definition": "connected with sex",
+   "collocations": [
+    "sexual harassment"
+   ],
+   "examples": [
+    {
+     "en": "The company has a strict policy against *sexual* harassment.",
+     "vi": "Công ty có chính sách nghiêm ngặt chống quấy rối tình dục."
+    }
+   ]
+  },
+  {
+   "id": "fa3_sexy",
+   "word": "sexy",
+   "pos": "adjective",
+   "ipa": "/ˈseksi/",
+   "level": "B2",
+   "meaning": "gợi cảm; hấp dẫn (văn nói)",
+   "definition": "sexually attractive; exciting (informal)",
+   "collocations": [
+    "a sexy car"
+   ],
+   "examples": [
+    {
+     "en": "Data analysis isn't *sexy*, but it's important.",
+     "vi": "Phân tích dữ liệu không hấp dẫn nhưng rất quan trọng."
+    }
+   ]
+  },
+  {
+   "id": "fa3_gay",
+   "word": "gay",
+   "pos": "adjective",
+   "ipa": "/ɡeɪ/",
+   "level": "B2",
+   "meaning": "đồng tính",
+   "definition": "attracted to people of the same sex",
+   "collocations": [
+    "gay rights"
+   ],
+   "examples": [
+    {
+     "en": "The company supports equal rights for *gay* employees.",
+     "vi": "Công ty ủng hộ quyền bình đẳng cho nhân viên đồng tính."
+    }
+   ]
+  },
+  {
+   "id": "fa3_punk",
+   "word": "punk",
+   "pos": "noun",
+   "ipa": "/pʌŋk/",
+   "level": "B2",
+   "meaning": "nhạc punk",
+   "definition": "a type of loud rock music",
+   "collocations": [
+    "punk rock",
+    "punk band"
+   ],
+   "examples": [
+    {
+     "en": "He played in a *punk* band when he was young.",
+     "vi": "Thời trẻ anh ấy chơi trong một ban nhạc punk."
+    }
+   ]
+  },
+  {
+   "id": "fa3_slope",
+   "word": "slope",
+   "pos": "noun",
+   "ipa": "/sloʊp/",
+   "level": "B2",
+   "meaning": "dốc, sườn dốc",
+   "definition": "a surface that goes up or down",
+   "collocations": [
+    "a steep slope",
+    "ski slope"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is at the bottom of the ski *slopes*.",
+     "vi": "Khách sạn nằm dưới chân các dốc trượt tuyết."
+    }
+   ]
+  },
+  {
+   "id": "fa3_slow",
+   "word": "slow",
+   "pos": "verb",
+   "ipa": "/sloʊ/",
+   "level": "B1",
+   "meaning": "chậm lại",
+   "definition": "to become slower",
+   "collocations": [
+    "slow down"
+   ],
+   "examples": [
+    {
+     "en": "Sales *slowed* down in the summer.",
+     "vi": "Doanh số chậm lại vào mùa hè."
+    }
+   ]
+  },
+  {
+   "id": "fa3_spring",
+   "word": "spring",
+   "pos": "noun",
+   "ipa": "/sprɪŋ/",
+   "level": "B2",
+   "meaning": "mùa xuân; lò xo; suối",
+   "definition": "the season after winter; a metal coil; natural water",
+   "collocations": [
+    "hot spring",
+    "in spring"
+   ],
+   "examples": [
+    {
+     "en": "We visited the hot *springs* in Japan.",
+     "vi": "Chúng tôi tắm suối nước nóng ở Nhật."
+    }
+   ]
+  },
+  {
+   "id": "fa3_still",
+   "word": "still",
+   "pos": "adjective",
+   "ipa": "/stɪl/",
+   "level": "B1",
+   "meaning": "đứng yên; (nước) không ga",
+   "definition": "not moving; without bubbles",
+   "collocations": [
+    "stand still",
+    "still water"
+   ],
+   "examples": [
+    {
+     "en": "Please stand *still* for the photo.",
+     "vi": "Vui lòng đứng yên để chụp ảnh."
+    }
+   ],
+   "note": "still water = nước không ga."
+  },
+  {
+   "id": "fa3_stroke",
+   "word": "stroke",
+   "pos": "noun",
+   "ipa": "/stroʊk/",
+   "level": "B2",
+   "meaning": "đột quỵ; cú (đánh)",
+   "definition": "a sudden illness of the brain; a hit",
+   "collocations": [
+    "have a stroke",
+    "a stroke of luck"
+   ],
+   "examples": [
+    {
+     "en": "It was a *stroke* of luck that we found a taxi.",
+     "vi": "Thật may mắn là chúng tôi bắt được taxi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_super",
+   "word": "super",
+   "pos": "adjective",
+   "ipa": "/ˈsuːpər/",
+   "level": "B2",
+   "meaning": "tuyệt (văn nói)",
+   "definition": "very good",
+   "collocations": [
+    "super helpful",
+    "super fast"
+   ],
+   "examples": [
+    {
+     "en": "The staff were *super* helpful.",
+     "vi": "Nhân viên cực kỳ nhiệt tình."
+    }
+   ]
+  },
+  {
+   "id": "fa3_surround",
+   "word": "surround",
+   "pos": "verb",
+   "ipa": "/səˈraʊnd/",
+   "level": "B2",
+   "meaning": "bao quanh",
+   "definition": "to be all around",
+   "collocations": [
+    "be surrounded by"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is *surrounded* by gardens.",
+     "vi": "Khách sạn được bao quanh bởi vườn cây."
+    }
+   ]
+  },
+  {
+   "id": "fa3_surrounding",
+   "word": "surrounding",
+   "pos": "adjective",
+   "ipa": "/səˈraʊndɪŋ/",
+   "level": "B2",
+   "meaning": "xung quanh",
+   "definition": "near and around",
+   "collocations": [
+    "surrounding area",
+    "surrounding villages"
+   ],
+   "examples": [
+    {
+     "en": "The festival attracts visitors from the *surrounding* area.",
+     "vi": "Lễ hội thu hút du khách từ khu vực xung quanh."
+    }
+   ]
+  },
+  {
+   "id": "fa3_that",
+   "word": "that",
+   "pos": "adverb",
+   "ipa": "/ðæt/",
+   "level": "B1",
+   "meaning": "đến mức đó",
+   "definition": "so; very",
+   "collocations": [
+    "not that bad",
+    "not that expensive"
+   ],
+   "examples": [
+    {
+     "en": "The test wasn't *that* difficult.",
+     "vi": "Bài kiểm tra không khó đến thế."
+    }
+   ]
+  },
+  {
+   "id": "fa3_this",
+   "word": "this",
+   "pos": "adverb",
+   "ipa": "/ðɪs/",
+   "level": "B1",
+   "meaning": "đến mức này",
+   "definition": "so; as much as this",
+   "collocations": [
+    "this late",
+    "this much"
+   ],
+   "examples": [
+    {
+     "en": "I didn't expect the meeting to run *this* late.",
+     "vi": "Tôi không nghĩ cuộc họp lại kéo dài muộn thế này."
+    }
+   ]
+  },
+  {
+   "id": "fa3_tone",
+   "word": "tone",
+   "pos": "noun",
+   "ipa": "/toʊn/",
+   "level": "B2",
+   "meaning": "giọng điệu; âm báo",
+   "definition": "the way something sounds; a sound",
+   "collocations": [
+    "tone of voice",
+    "leave a message after the tone"
+   ],
+   "examples": [
+    {
+     "en": "Please leave a message after the *tone*.",
+     "vi": "Vui lòng để lại lời nhắn sau tiếng bíp."
+    }
+   ]
+  },
+  {
+   "id": "fa3_trick",
+   "word": "trick",
+   "pos": "noun",
+   "ipa": "/trɪk/",
+   "level": "B1",
+   "meaning": "mẹo; trò lừa",
+   "definition": "a clever way of doing something; something to deceive",
+   "collocations": [
+    "tips and tricks",
+    "play a trick"
+   ],
+   "examples": [
+    {
+     "en": "Here are a few *tricks* for remembering new words.",
+     "vi": "Đây là vài mẹo để nhớ từ mới."
+    }
+   ]
+  },
+  {
+   "id": "fa3_try",
+   "word": "try",
+   "pos": "noun",
+   "ipa": "/traɪ/",
+   "level": "B2",
+   "meaning": "lần thử",
+   "definition": "an attempt",
+   "collocations": [
+    "give it a try",
+    "have a try"
+   ],
+   "examples": [
+    {
+     "en": "Why don't you give it a *try*?",
+     "vi": "Sao bạn không thử xem?"
+    }
+   ]
+  },
+  {
+   "id": "fa3_used",
+   "word": "used",
+   "pos": "adjective",
+   "ipa": "/juːzd/",
+   "level": "B1",
+   "meaning": "đã qua sử dụng; quen với",
+   "definition": "not new; familiar with",
+   "collocations": [
+    "used cars",
+    "be used to"
+   ],
+   "examples": [
+    {
+     "en": "They sell *used* cars at good prices.",
+     "vi": "Họ bán xe cũ giá tốt."
+    }
+   ]
+  },
+  {
+   "id": "fa3_used_to",
+   "word": "used to",
+   "pos": "modal verb",
+   "ipa": "/ˈjuːst tə/",
+   "level": "B1",
+   "meaning": "đã từng",
+   "definition": "something that happened regularly in the past",
+   "collocations": [
+    "used to work",
+    "used to live"
+   ],
+   "examples": [
+    {
+     "en": "I *used to* work in a bank.",
+     "vi": "Tôi từng làm ở ngân hàng."
+    }
+   ],
+   "note": "be used to + V-ing = quen với việc."
+  },
+  {
+   "id": "fa3_very",
+   "word": "very",
+   "pos": "adjective",
+   "ipa": "/ˈveri/",
+   "level": "B2",
+   "meaning": "chính, đúng",
+   "definition": "exact; extreme",
+   "collocations": [
+    "the very best",
+    "at the very end"
+   ],
+   "examples": [
+    {
+     "en": "This is the *very* book I was looking for.",
+     "vi": "Đây đúng là cuốn sách tôi đang tìm."
+    }
+   ]
+  },
+  {
+   "id": "fa3_warm",
+   "word": "warm",
+   "pos": "verb",
+   "ipa": "/wɔːrm/",
+   "level": "B1",
+   "meaning": "làm ấm; khởi động",
+   "definition": "to make warm",
+   "collocations": [
+    "warm up"
+   ],
+   "examples": [
+    {
+     "en": "Let's *warm* up with an easy question.",
+     "vi": "Hãy khởi động bằng một câu hỏi dễ."
+    }
+   ],
+   "note": "warm-up = phần khởi động."
+  },
+  {
+   "id": "fa3_water",
+   "word": "water",
+   "pos": "verb",
+   "ipa": "/ˈwɔːtər/",
+   "level": "B1",
+   "meaning": "tưới nước",
+   "definition": "to give water to plants",
+   "collocations": [
+    "water the plants"
+   ],
+   "examples": [
+    {
+     "en": "Could you *water* the plants while I'm away?",
+     "vi": "Bạn tưới cây giúp tôi khi tôi đi vắng được không?"
+    }
+   ]
+  },
+  {
+   "id": "fa3_way",
+   "word": "way",
+   "pos": "noun",
+   "ipa": "/weɪ/",
+   "level": "B2",
+   "meaning": "cách; phương diện",
+   "definition": "a method; a respect",
+   "collocations": [
+    "by the way",
+    "in a way",
+    "no way"
+   ],
+   "examples": [
+    {
+     "en": "By the *way*, the meeting has moved to 3 p.m.",
+     "vi": "Nhân tiện, cuộc họp đã dời sang 3 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "fa3_whole",
+   "word": "whole",
+   "pos": "noun",
+   "ipa": "/hoʊl/",
+   "level": "B1",
+   "meaning": "toàn bộ",
+   "definition": "all of something",
+   "collocations": [
+    "as a whole",
+    "on the whole"
+   ],
+   "examples": [
+    {
+     "en": "On the *whole*, the trip was a success.",
+     "vi": "Nhìn chung, chuyến đi thành công."
+    }
+   ]
+  },
+  {
+   "id": "fa3_will",
+   "word": "will",
+   "pos": "noun",
+   "ipa": "/wɪl/",
+   "level": "B1",
+   "meaning": "ý chí; di chúc",
+   "definition": "determination; a legal document about property after death",
+   "collocations": [
+    "willpower",
+    "against your will"
+   ],
+   "examples": [
+    {
+     "en": "Learning a language takes a strong *will*.",
+     "vi": "Học ngôn ngữ cần ý chí mạnh mẽ."
+    }
+   ]
+  },
+  {
+   "id": "fa3_wind",
+   "word": "wind",
+   "pos": "verb",
+   "ipa": "/waɪnd/",
+   "level": "B2",
+   "meaning": "lên dây; uốn lượn",
+   "definition": "to turn; to follow a curving path",
+   "collocations": [
+    "wind down",
+    "a winding road"
+   ],
+   "examples": [
+    {
+     "en": "The road *winds* through the mountains.",
+     "vi": "Con đường uốn lượn qua núi."
+    }
+   ],
+   "note": "Động từ phát âm /waɪnd/."
+  },
+  {
+   "id": "fa3_worry",
+   "word": "worry",
+   "pos": "noun",
+   "ipa": "/ˈwɜːri/",
+   "level": "B1",
+   "meaning": "mối lo",
+   "definition": "a problem that makes you worried",
+   "collocations": [
+    "no worries",
+    "my main worry"
+   ],
+   "examples": [
+    {
+     "en": "My main *worry* is the cost.",
+     "vi": "Lo ngại chính của tôi là chi phí."
+    }
+   ]
+  },
+  {
+   "id": "fa3_worse",
+   "word": "worse",
+   "pos": "adjective",
+   "ipa": "/wɜːrs/",
+   "level": "B1",
+   "meaning": "tệ hơn",
+   "definition": "more bad",
+   "collocations": [
+    "get worse",
+    "even worse"
+   ],
+   "examples": [
+    {
+     "en": "Traffic is *worse* than usual today.",
+     "vi": "Hôm nay giao thông tệ hơn mọi khi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_worst",
+   "word": "worst",
+   "pos": "adjective",
+   "ipa": "/wɜːrst/",
+   "level": "B1",
+   "meaning": "tệ nhất",
+   "definition": "most bad",
+   "collocations": [
+    "the worst case",
+    "at worst"
+   ],
+   "examples": [
+    {
+     "en": "That was the *worst* flight I've ever taken.",
+     "vi": "Đó là chuyến bay tệ nhất tôi từng đi."
+    }
+   ]
+  },
+  {
+   "id": "fa3_wrong",
+   "word": "wrong",
+   "pos": "adjective",
+   "ipa": "/rɔːŋ/",
+   "level": "B1",
+   "meaning": "sai; trục trặc",
+   "definition": "not correct; not working",
+   "collocations": [
+    "go wrong",
+    "something is wrong with"
+   ],
+   "examples": [
+    {
+     "en": "Something is *wrong* with the printer.",
+     "vi": "Máy in đang có vấn đề."
+    }
+   ]
+  },
+  {
+   "id": "fa3_yet",
+   "word": "yet",
+   "pos": "adverb",
+   "ipa": "/jet/",
+   "level": "B2",
+   "meaning": "chưa; tuy nhiên",
+   "definition": "until now; but",
+   "collocations": [
+    "not yet",
+    "yet another"
+   ],
+   "examples": [
+    {
+     "en": "The parcel hasn't arrived *yet*.",
+     "vi": "Bưu kiện vẫn chưa đến."
+    }
+   ],
+   "note": "yet (liên từ) = nhưng: simple yet effective."
+  },
+  {
+   "id": "fa3_young",
+   "word": "young",
+   "pos": "noun",
+   "ipa": "/jʌŋ/",
+   "level": "B1",
+   "meaning": "con non; giới trẻ",
+   "definition": "baby animals; young people",
+   "collocations": [
+    "the young"
+   ],
+   "examples": [
+    {
+     "en": "The bird is feeding its *young*.",
+     "vi": "Con chim đang mớm mồi cho con non."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

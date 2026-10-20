@@ -1,0 +1,1055 @@
+{
+ "id": "society",
+ "order": 28,
+ "icon": "🏘️",
+ "level": "B2",
+ "title": "Society & Community",
+ "title_vi": "Xã hội & Cộng đồng",
+ "description": "Dân cư, đô thị – nông thôn, thế hệ, từ thiện, bình đẳng, các mối quan hệ: chủ đề quen thuộc của IELTS và bài đọc TOEIC.",
+ "words": [
+  {
+   "id": "soc_community",
+   "word": "community",
+   "pos": "noun",
+   "ipa": "/kəˈmjuːnəti/",
+   "level": "A2",
+   "meaning": "cộng đồng",
+   "definition": "the people living in one area or sharing interests",
+   "collocations": [
+    "local community",
+    "community centre"
+   ],
+   "examples": [
+    {
+     "en": "The company supports the local *community*.",
+     "vi": "Công ty hỗ trợ cộng đồng địa phương."
+    }
+   ]
+  },
+  {
+   "id": "soc_resident",
+   "word": "resident",
+   "pos": "noun",
+   "ipa": "/ˈrezɪdənt/",
+   "level": "B2",
+   "meaning": "cư dân",
+   "definition": "a person who lives in a place",
+   "collocations": [
+    "local residents",
+    "residents only"
+   ],
+   "examples": [
+    {
+     "en": "Parking is for *residents* only.",
+     "vi": "Bãi đỗ xe chỉ dành cho cư dân."
+    }
+   ]
+  },
+  {
+   "id": "soc_inhabitant",
+   "word": "inhabitant",
+   "pos": "noun",
+   "ipa": "/ɪnˈhæbɪtənt/",
+   "level": "B2",
+   "meaning": "cư dân, người sống ở",
+   "definition": "a person or animal living in a place",
+   "collocations": [
+    "the inhabitants of the island"
+   ],
+   "examples": [
+    {
+     "en": "The island has only 300 *inhabitants*.",
+     "vi": "Hòn đảo chỉ có 300 cư dân."
+    }
+   ]
+  },
+  {
+   "id": "soc_population",
+   "word": "population",
+   "pos": "noun",
+   "ipa": "/ˌpɑːpjuˈleɪʃn/",
+   "level": "A2",
+   "meaning": "dân số",
+   "definition": "the number of people living in a place",
+   "collocations": [
+    "growing population",
+    "population of"
+   ],
+   "examples": [
+    {
+     "en": "The city's *population* has doubled in 20 years.",
+     "vi": "Dân số thành phố tăng gấp đôi trong 20 năm."
+    }
+   ]
+  },
+  {
+   "id": "soc_urban",
+   "word": "urban",
+   "pos": "adjective",
+   "ipa": "/ˈɜːrbən/",
+   "level": "B2",
+   "meaning": "thuộc đô thị",
+   "definition": "connected with a town or city",
+   "collocations": [
+    "urban areas",
+    "urban development"
+   ],
+   "examples": [
+    {
+     "en": "More people now live in *urban* areas.",
+     "vi": "Ngày càng nhiều người sống ở khu đô thị."
+    }
+   ]
+  },
+  {
+   "id": "soc_rural",
+   "word": "rural",
+   "pos": "adjective",
+   "ipa": "/ˈrʊrəl/",
+   "level": "B2",
+   "meaning": "thuộc nông thôn",
+   "definition": "connected with the countryside",
+   "collocations": [
+    "rural areas",
+    "rural life"
+   ],
+   "examples": [
+    {
+     "en": "Internet access is still limited in *rural* areas.",
+     "vi": "Truy cập internet vẫn hạn chế ở vùng nông thôn."
+    }
+   ]
+  },
+  {
+   "id": "soc_suburb",
+   "word": "suburb",
+   "pos": "noun",
+   "ipa": "/ˈsʌbɜːrb/",
+   "level": "B2",
+   "meaning": "ngoại ô",
+   "definition": "an area where people live outside the city centre",
+   "collocations": [
+    "live in the suburbs"
+   ],
+   "examples": [
+    {
+     "en": "They moved to a quiet *suburb*.",
+     "vi": "Họ chuyển về một vùng ngoại ô yên tĩnh."
+    }
+   ]
+  },
+  {
+   "id": "soc_neighbourhood",
+   "word": "neighbourhood",
+   "pos": "noun",
+   "ipa": "/ˈneɪbərhʊd/",
+   "level": "B1",
+   "meaning": "khu dân cư, vùng lân cận",
+   "definition": "a district of a town",
+   "collocations": [
+    "a quiet neighbourhood",
+    "in the neighbourhood"
+   ],
+   "examples": [
+    {
+     "en": "Is there a good restaurant in the *neighbourhood*?",
+     "vi": "Gần đây có nhà hàng nào ngon không?"
+    }
+   ],
+   "note": "Anh-Mỹ: neighborhood."
+  },
+  {
+   "id": "soc_district",
+   "word": "district",
+   "pos": "noun",
+   "ipa": "/ˈdɪstrɪkt/",
+   "level": "B2",
+   "meaning": "quận, khu vực",
+   "definition": "an area of a country or city",
+   "collocations": [
+    "business district",
+    "District 1"
+   ],
+   "examples": [
+    {
+     "en": "Our office is in the business *district*.",
+     "vi": "Văn phòng của chúng tôi ở khu thương mại."
+    }
+   ]
+  },
+  {
+   "id": "soc_downtown",
+   "word": "downtown",
+   "pos": "adverb",
+   "ipa": "/ˌdaʊnˈtaʊn/",
+   "level": "B2",
+   "meaning": "ở trung tâm thành phố",
+   "definition": "in or to the centre of a city",
+   "collocations": [
+    "go downtown",
+    "downtown area"
+   ],
+   "examples": [
+    {
+     "en": "Let's meet *downtown* after work.",
+     "vi": "Tan làm mình gặp nhau ở trung tâm nhé."
+    }
+   ]
+  },
+  {
+   "id": "soc_countryside",
+   "word": "countryside",
+   "pos": "noun",
+   "ipa": "/ˈkʌntrisaɪd/",
+   "level": "B1",
+   "meaning": "vùng quê",
+   "definition": "land outside towns and cities",
+   "collocations": [
+    "in the countryside",
+    "beautiful countryside"
+   ],
+   "examples": [
+    {
+     "en": "We spent the weekend in the *countryside*.",
+     "vi": "Chúng tôi nghỉ cuối tuần ở vùng quê."
+    }
+   ]
+  },
+  {
+   "id": "soc_housing",
+   "word": "housing",
+   "pos": "noun",
+   "ipa": "/ˈhaʊzɪŋ/",
+   "level": "B2",
+   "meaning": "nhà ở",
+   "definition": "houses and flats for people to live in",
+   "collocations": [
+    "affordable housing",
+    "housing market"
+   ],
+   "examples": [
+    {
+     "en": "The city needs more cheap *housing*.",
+     "vi": "Thành phố cần thêm nhà ở giá rẻ."
+    }
+   ]
+  },
+  {
+   "id": "soc_household",
+   "word": "household",
+   "pos": "noun",
+   "ipa": "/ˈhaʊshoʊld/",
+   "level": "B2",
+   "meaning": "hộ gia đình",
+   "definition": "all the people living in one house",
+   "collocations": [
+    "household items",
+    "household chores"
+   ],
+   "examples": [
+    {
+     "en": "Most *households* now have internet access.",
+     "vi": "Hầu hết hộ gia đình giờ có internet."
+    }
+   ]
+  },
+  {
+   "id": "soc_homeless",
+   "word": "homeless",
+   "pos": "adjective",
+   "ipa": "/ˈhoʊmləs/",
+   "level": "B2",
+   "meaning": "vô gia cư",
+   "definition": "having no home",
+   "collocations": [
+    "homeless people",
+    "the homeless"
+   ],
+   "examples": [
+    {
+     "en": "The charity provides meals for *homeless* people.",
+     "vi": "Tổ chức từ thiện cung cấp bữa ăn cho người vô gia cư."
+    }
+   ]
+  },
+  {
+   "id": "soc_infrastructure",
+   "word": "infrastructure",
+   "pos": "noun",
+   "ipa": "/ˈɪnfrəstrʌktʃər/",
+   "level": "B2",
+   "meaning": "cơ sở hạ tầng",
+   "definition": "basic systems like roads, power and water",
+   "collocations": [
+    "transport infrastructure",
+    "invest in infrastructure"
+   ],
+   "examples": [
+    {
+     "en": "The government is investing in *infrastructure*.",
+     "vi": "Chính phủ đang đầu tư vào cơ sở hạ tầng."
+    }
+   ]
+  },
+  {
+   "id": "soc_facility",
+   "word": "facility",
+   "pos": "noun",
+   "ipa": "/fəˈsɪləti/",
+   "level": "B2",
+   "meaning": "cơ sở vật chất, tiện nghi",
+   "definition": "a building or equipment for a purpose",
+   "collocations": [
+    "sports facilities",
+    "production facility"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has excellent *facilities*.",
+     "vi": "Khách sạn có cơ sở vật chất tuyệt vời."
+    }
+   ]
+  },
+  {
+   "id": "soc_generation",
+   "word": "generation",
+   "pos": "noun",
+   "ipa": "/ˌdʒenəˈreɪʃn/",
+   "level": "B1",
+   "meaning": "thế hệ",
+   "definition": "people born around the same time",
+   "collocations": [
+    "the younger generation",
+    "for generations"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has been run by the same family for three *generations*.",
+     "vi": "Nhà hàng do cùng một gia đình điều hành qua ba thế hệ."
+    }
+   ]
+  },
+  {
+   "id": "soc_elderly",
+   "word": "elderly",
+   "pos": "adjective",
+   "ipa": "/ˈeldərli/",
+   "level": "B2",
+   "meaning": "cao tuổi",
+   "definition": "old (polite word)",
+   "collocations": [
+    "elderly people",
+    "elderly parents"
+   ],
+   "examples": [
+    {
+     "en": "Please give your seat to *elderly* passengers.",
+     "vi": "Vui lòng nhường ghế cho hành khách cao tuổi."
+    }
+   ]
+  },
+  {
+   "id": "soc_youth",
+   "word": "youth",
+   "pos": "noun",
+   "ipa": "/juːθ/",
+   "level": "B1",
+   "meaning": "tuổi trẻ; thanh niên",
+   "definition": "the time when you are young; young people",
+   "collocations": [
+    "in my youth",
+    "youth club"
+   ],
+   "examples": [
+    {
+     "en": "He played football in his *youth*.",
+     "vi": "Thời trẻ ông ấy chơi bóng đá."
+    }
+   ]
+  },
+  {
+   "id": "soc_teens",
+   "word": "teens",
+   "pos": "noun",
+   "ipa": "/tiːnz/",
+   "level": "B2",
+   "meaning": "tuổi thiếu niên (13–19)",
+   "definition": "the age between 13 and 19",
+   "collocations": [
+    "in her teens",
+    "early teens"
+   ],
+   "examples": [
+    {
+     "en": "She started working in her *teens*.",
+     "vi": "Cô ấy bắt đầu đi làm từ tuổi thiếu niên."
+    }
+   ]
+  },
+  {
+   "id": "soc_childhood",
+   "word": "childhood",
+   "pos": "noun",
+   "ipa": "/ˈtʃaɪldhʊd/",
+   "level": "B1",
+   "meaning": "thời thơ ấu",
+   "definition": "the time when you are a child",
+   "collocations": [
+    "in childhood",
+    "childhood memories"
+   ],
+   "examples": [
+    {
+     "en": "I spent my *childhood* in a small village.",
+     "vi": "Tôi trải qua tuổi thơ ở một ngôi làng nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "soc_aged",
+   "word": "aged",
+   "pos": "adjective",
+   "ipa": "/eɪdʒd/",
+   "level": "B1",
+   "meaning": "ở độ tuổi",
+   "definition": "of a particular age",
+   "collocations": [
+    "aged 18 to 25",
+    "children aged 5"
+   ],
+   "examples": [
+    {
+     "en": "The course is for students *aged* 16 and over.",
+     "vi": "Khóa học dành cho học viên từ 16 tuổi trở lên."
+    }
+   ]
+  },
+  {
+   "id": "soc_citizen",
+   "word": "citizen",
+   "pos": "noun",
+   "ipa": "/ˈsɪtɪzn/",
+   "level": "B2",
+   "meaning": "công dân",
+   "definition": "a person who belongs to a country or city",
+   "collocations": [
+    "a Vietnamese citizen",
+    "senior citizens"
+   ],
+   "examples": [
+    {
+     "en": "Senior *citizens* get a discount on tickets.",
+     "vi": "Người cao tuổi được giảm giá vé."
+    }
+   ]
+  },
+  {
+   "id": "soc_civil",
+   "word": "civil",
+   "pos": "adjective",
+   "ipa": "/ˈsɪvl/",
+   "level": "B2",
+   "meaning": "dân sự; lịch sự",
+   "definition": "connected with ordinary citizens; polite",
+   "collocations": [
+    "civil rights",
+    "civil engineer",
+    "civil servant"
+   ],
+   "examples": [
+    {
+     "en": "He works as a *civil* engineer.",
+     "vi": "Anh ấy là kỹ sư xây dựng dân dụng."
+    }
+   ]
+  },
+  {
+   "id": "soc_immigrant",
+   "word": "immigrant",
+   "pos": "noun",
+   "ipa": "/ˈɪmɪɡrənt/",
+   "level": "B1",
+   "meaning": "người nhập cư",
+   "definition": "a person who comes to live in another country",
+   "collocations": [
+    "illegal immigrants",
+    "immigrant workers"
+   ],
+   "examples": [
+    {
+     "en": "Many *immigrants* work in the restaurant industry.",
+     "vi": "Nhiều người nhập cư làm trong ngành nhà hàng."
+    }
+   ]
+  },
+  {
+   "id": "soc_immigration",
+   "word": "immigration",
+   "pos": "noun",
+   "ipa": "/ˌɪmɪˈɡreɪʃn/",
+   "level": "B2",
+   "meaning": "sự nhập cư; cửa nhập cảnh",
+   "definition": "coming to live in another country; passport control",
+   "collocations": [
+    "go through immigration",
+    "immigration policy"
+   ],
+   "examples": [
+    {
+     "en": "It took an hour to get through *immigration*.",
+     "vi": "Mất một tiếng để qua cửa nhập cảnh."
+    }
+   ]
+  },
+  {
+   "id": "soc_refugee",
+   "word": "refugee",
+   "pos": "noun",
+   "ipa": "/ˌrefjuˈdʒiː/",
+   "level": "B2",
+   "meaning": "người tị nạn",
+   "definition": "a person who has left their country because of danger",
+   "collocations": [
+    "refugee camp"
+   ],
+   "examples": [
+    {
+     "en": "Thousands of *refugees* crossed the border.",
+     "vi": "Hàng nghìn người tị nạn đã vượt biên giới."
+    }
+   ]
+  },
+  {
+   "id": "soc_ethnic",
+   "word": "ethnic",
+   "pos": "adjective",
+   "ipa": "/ˈeθnɪk/",
+   "level": "B2",
+   "meaning": "thuộc dân tộc",
+   "definition": "connected with a group sharing culture or origin",
+   "collocations": [
+    "ethnic minority",
+    "ethnic groups"
+   ],
+   "examples": [
+    {
+     "en": "Vietnam has 54 *ethnic* groups.",
+     "vi": "Việt Nam có 54 dân tộc."
+    }
+   ]
+  },
+  {
+   "id": "soc_racial",
+   "word": "racial",
+   "pos": "adjective",
+   "ipa": "/ˈreɪʃl/",
+   "level": "B2",
+   "meaning": "thuộc chủng tộc",
+   "definition": "connected with race",
+   "collocations": [
+    "racial discrimination",
+    "racial equality"
+   ],
+   "examples": [
+    {
+     "en": "The law bans *racial* discrimination.",
+     "vi": "Luật cấm phân biệt chủng tộc."
+    }
+   ]
+  },
+  {
+   "id": "soc_racism",
+   "word": "racism",
+   "pos": "noun",
+   "ipa": "/ˈreɪsɪzəm/",
+   "level": "B2",
+   "meaning": "sự phân biệt chủng tộc",
+   "definition": "unfair treatment of people because of their race",
+   "collocations": [
+    "fight racism"
+   ],
+   "examples": [
+    {
+     "en": "The campaign aims to fight *racism* in sport.",
+     "vi": "Chiến dịch nhằm chống phân biệt chủng tộc trong thể thao."
+    }
+   ]
+  },
+  {
+   "id": "soc_racist",
+   "word": "racist",
+   "pos": "adjective",
+   "ipa": "/ˈreɪsɪst/",
+   "level": "B2",
+   "meaning": "phân biệt chủng tộc",
+   "definition": "treating people unfairly because of race",
+   "collocations": [
+    "racist comments"
+   ],
+   "examples": [
+    {
+     "en": "*Racist* comments are not acceptable.",
+     "vi": "Những lời phân biệt chủng tộc là không thể chấp nhận."
+    }
+   ]
+  },
+  {
+   "id": "soc_gender",
+   "word": "gender",
+   "pos": "noun",
+   "ipa": "/ˈdʒendər/",
+   "level": "B2",
+   "meaning": "giới tính",
+   "definition": "being male or female",
+   "collocations": [
+    "gender equality",
+    "gender gap"
+   ],
+   "examples": [
+    {
+     "en": "The company is working to close the *gender* pay gap.",
+     "vi": "Công ty đang thu hẹp khoảng cách lương giữa nam và nữ."
+    }
+   ]
+  },
+  {
+   "id": "soc_equal",
+   "word": "equal",
+   "pos": "adjective",
+   "ipa": "/ˈiːkwəl/",
+   "level": "B1",
+   "meaning": "bình đẳng; bằng nhau",
+   "definition": "the same in size or value; having the same rights",
+   "collocations": [
+    "equal opportunities",
+    "equal pay"
+   ],
+   "examples": [
+    {
+     "en": "Men and women should get *equal* pay.",
+     "vi": "Nam và nữ nên được trả lương ngang nhau."
+    }
+   ]
+  },
+  {
+   "id": "soc_equally",
+   "word": "equally",
+   "pos": "adverb",
+   "ipa": "/ˈiːkwəli/",
+   "level": "B1",
+   "meaning": "như nhau",
+   "definition": "in the same way; to the same degree",
+   "collocations": [
+    "equally important",
+    "share equally"
+   ],
+   "examples": [
+    {
+     "en": "Both factors are *equally* important.",
+     "vi": "Cả hai yếu tố đều quan trọng như nhau."
+    }
+   ]
+  },
+  {
+   "id": "soc_diversity",
+   "word": "diversity",
+   "pos": "noun",
+   "ipa": "/daɪˈvɜːrsəti/",
+   "level": "B2",
+   "meaning": "sự đa dạng",
+   "definition": "a range of different people or things",
+   "collocations": [
+    "cultural diversity",
+    "promote diversity"
+   ],
+   "examples": [
+    {
+     "en": "We value *diversity* in our workplace.",
+     "vi": "Chúng tôi coi trọng sự đa dạng tại nơi làm việc."
+    }
+   ]
+  },
+  {
+   "id": "soc_diverse",
+   "word": "diverse",
+   "pos": "adjective",
+   "ipa": "/daɪˈvɜːrs/",
+   "level": "B2",
+   "meaning": "đa dạng",
+   "definition": "very different from each other",
+   "collocations": [
+    "a diverse team",
+    "diverse range"
+   ],
+   "examples": [
+    {
+     "en": "Our team is very *diverse*.",
+     "vi": "Đội của chúng tôi rất đa dạng."
+    }
+   ]
+  },
+  {
+   "id": "soc_donate",
+   "word": "donate",
+   "pos": "verb",
+   "ipa": "/ˈdoʊneɪt/",
+   "level": "B1",
+   "meaning": "quyên góp",
+   "definition": "to give money or goods to help people",
+   "collocations": [
+    "donate to charity",
+    "donate blood"
+   ],
+   "examples": [
+    {
+     "en": "Staff *donated* clothes to the local shelter.",
+     "vi": "Nhân viên quyên góp quần áo cho nhà tạm trú địa phương."
+    }
+   ]
+  },
+  {
+   "id": "soc_donation",
+   "word": "donation",
+   "pos": "noun",
+   "ipa": "/doʊˈneɪʃn/",
+   "level": "B2",
+   "meaning": "khoản quyên góp",
+   "definition": "money or goods given to help",
+   "collocations": [
+    "make a donation",
+    "accept donations"
+   ],
+   "examples": [
+    {
+     "en": "All *donations* go to the children's hospital.",
+     "vi": "Mọi khoản quyên góp đều dành cho bệnh viện nhi."
+    }
+   ]
+  },
+  {
+   "id": "soc_voluntary",
+   "word": "voluntary",
+   "pos": "adjective",
+   "ipa": "/ˈvɑːlənteri/",
+   "level": "B2",
+   "meaning": "tự nguyện",
+   "definition": "done willingly without being forced or paid",
+   "collocations": [
+    "voluntary work",
+    "voluntary basis"
+   ],
+   "examples": [
+    {
+     "en": "Attendance at the event is *voluntary*.",
+     "vi": "Việc tham dự sự kiện là tự nguyện."
+    }
+   ]
+  },
+  {
+   "id": "soc_charity",
+   "word": "charity",
+   "pos": "noun",
+   "ipa": "/ˈtʃærəti/",
+   "level": "A2",
+   "meaning": "tổ chức từ thiện",
+   "definition": "an organization that helps people in need",
+   "collocations": [
+    "raise money for charity",
+    "charity event"
+   ],
+   "examples": [
+    {
+     "en": "The run raised $10,000 for *charity*.",
+     "vi": "Cuộc chạy quyên góp được 10.000 đô cho từ thiện."
+    }
+   ]
+  },
+  {
+   "id": "soc_marriage",
+   "word": "marriage",
+   "pos": "noun",
+   "ipa": "/ˈmærɪdʒ/",
+   "level": "B1",
+   "meaning": "hôn nhân",
+   "definition": "the relationship between a married couple",
+   "collocations": [
+    "a happy marriage",
+    "arranged marriage"
+   ],
+   "examples": [
+    {
+     "en": "They have had a long and happy *marriage*.",
+     "vi": "Họ có cuộc hôn nhân lâu dài và hạnh phúc."
+    }
+   ]
+  },
+  {
+   "id": "soc_bride",
+   "word": "bride",
+   "pos": "noun",
+   "ipa": "/braɪd/",
+   "level": "B1",
+   "meaning": "cô dâu",
+   "definition": "a woman on her wedding day",
+   "collocations": [
+    "the bride and groom"
+   ],
+   "examples": [
+    {
+     "en": "The *bride* looked beautiful.",
+     "vi": "Cô dâu trông thật xinh đẹp."
+    }
+   ]
+  },
+  {
+   "id": "soc_divorce",
+   "word": "divorce",
+   "pos": "noun",
+   "ipa": "/dɪˈvɔːrs/",
+   "level": "B2",
+   "meaning": "sự ly hôn",
+   "definition": "the legal ending of a marriage",
+   "collocations": [
+    "get a divorce",
+    "end in divorce"
+   ],
+   "examples": [
+    {
+     "en": "Her parents got a *divorce* when she was ten.",
+     "vi": "Bố mẹ cô ấy ly hôn khi cô mười tuổi."
+    }
+   ]
+  },
+  {
+   "id": "soc_sibling",
+   "word": "sibling",
+   "pos": "noun",
+   "ipa": "/ˈsɪblɪŋ/",
+   "level": "B2",
+   "meaning": "anh chị em ruột",
+   "definition": "a brother or sister",
+   "collocations": [
+    "How many siblings do you have?"
+   ],
+   "examples": [
+    {
+     "en": "I have two *siblings*: a brother and a sister.",
+     "vi": "Tôi có hai anh chị em: một anh trai và một chị gái."
+    }
+   ]
+  },
+  {
+   "id": "soc_relative",
+   "word": "relative",
+   "pos": "noun",
+   "ipa": "/ˈrelətɪv/",
+   "level": "B1",
+   "meaning": "họ hàng",
+   "definition": "a member of your family",
+   "collocations": [
+    "close relatives",
+    "visit relatives"
+   ],
+   "examples": [
+    {
+     "en": "We visit our *relatives* during Tet.",
+     "vi": "Chúng tôi đi thăm họ hàng dịp Tết."
+    }
+   ]
+  },
+  {
+   "id": "soc_relation",
+   "word": "relation",
+   "pos": "noun",
+   "ipa": "/rɪˈleɪʃn/",
+   "level": "B1",
+   "meaning": "mối quan hệ",
+   "definition": "the way people or things are connected",
+   "collocations": [
+    "business relations",
+    "in relation to"
+   ],
+   "examples": [
+    {
+     "en": "The two companies have good *relations*.",
+     "vi": "Hai công ty có quan hệ tốt."
+    }
+   ]
+  },
+  {
+   "id": "soc_friendship",
+   "word": "friendship",
+   "pos": "noun",
+   "ipa": "/ˈfrendʃɪp/",
+   "level": "B1",
+   "meaning": "tình bạn",
+   "definition": "a relationship between friends",
+   "collocations": [
+    "a close friendship",
+    "build friendships"
+   ],
+   "examples": [
+    {
+     "en": "Their *friendship* started at university.",
+     "vi": "Tình bạn của họ bắt đầu từ thời đại học."
+    }
+   ]
+  },
+  {
+   "id": "soc_peer",
+   "word": "peer",
+   "pos": "noun",
+   "ipa": "/pɪr/",
+   "level": "B2",
+   "meaning": "người đồng trang lứa, đồng nghiệp ngang cấp",
+   "definition": "a person of the same age or position",
+   "collocations": [
+    "peer pressure",
+    "peer review"
+   ],
+   "examples": [
+    {
+     "en": "She is highly respected by her *peers*.",
+     "vi": "Cô ấy rất được đồng nghiệp ngang cấp tôn trọng."
+    }
+   ],
+   "note": "peer pressure = áp lực từ bạn bè đồng trang lứa."
+  },
+  {
+   "id": "soc_fellow",
+   "word": "fellow",
+   "pos": "adjective",
+   "ipa": "/ˈfeloʊ/",
+   "level": "B2",
+   "meaning": "đồng (nghiệp), cùng cảnh",
+   "definition": "used about people in the same situation",
+   "collocations": [
+    "fellow workers",
+    "fellow passengers"
+   ],
+   "examples": [
+    {
+     "en": "She thanked her *fellow* workers for their help.",
+     "vi": "Cô ấy cảm ơn các đồng nghiệp đã giúp đỡ."
+    }
+   ]
+  },
+  {
+   "id": "soc_mate",
+   "word": "mate",
+   "pos": "noun",
+   "ipa": "/meɪt/",
+   "level": "B2",
+   "meaning": "bạn (thân mật)",
+   "definition": "a friend",
+   "collocations": [
+    "best mate",
+    "flatmate"
+   ],
+   "examples": [
+    {
+     "en": "I'm going for a drink with my *mates*.",
+     "vi": "Tôi đi uống nước với mấy đứa bạn."
+    }
+   ]
+  },
+  {
+   "id": "soc_stranger",
+   "word": "stranger",
+   "pos": "noun",
+   "ipa": "/ˈstreɪndʒər/",
+   "level": "B1",
+   "meaning": "người lạ",
+   "definition": "a person you do not know",
+   "collocations": [
+    "a complete stranger",
+    "talk to strangers"
+   ],
+   "examples": [
+    {
+     "en": "A *stranger* helped me find the station.",
+     "vi": "Một người lạ giúp tôi tìm nhà ga."
+    }
+   ]
+  },
+  {
+   "id": "soc_host",
+   "word": "host",
+   "pos": "noun",
+   "ipa": "/hoʊst/",
+   "level": "B1",
+   "meaning": "chủ nhà; người dẫn chương trình",
+   "definition": "a person who invites guests; a presenter",
+   "collocations": [
+    "host family",
+    "TV host"
+   ],
+   "examples": [
+    {
+     "en": "The *host* welcomed us warmly.",
+     "vi": "Chủ nhà chào đón chúng tôi nồng hậu."
+    }
+   ],
+   "note": "Động từ: host an event = tổ chức sự kiện."
+  },
+  {
+   "id": "soc_gather",
+   "word": "gather",
+   "pos": "verb",
+   "ipa": "/ˈɡæðər/",
+   "level": "B1",
+   "meaning": "tụ tập; thu thập",
+   "definition": "to come together; to collect",
+   "collocations": [
+    "gather information",
+    "gather around"
+   ],
+   "examples": [
+    {
+     "en": "Please *gather* in the lobby at 8 a.m.",
+     "vi": "Vui lòng tập trung ở sảnh lúc 8 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "soc_custom",
+   "word": "custom",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəm/",
+   "level": "B1",
+   "meaning": "phong tục",
+   "definition": "a traditional way of doing something",
+   "collocations": [
+    "local customs",
+    "it is the custom to"
+   ],
+   "examples": [
+    {
+     "en": "It's a local *custom* to remove your shoes indoors.",
+     "vi": "Cởi giày khi vào nhà là phong tục địa phương."
+    }
+   ],
+   "note": "customs (số nhiều) = hải quan."
+  },
+  {
+   "id": "soc_norm",
+   "word": "norm",
+   "pos": "noun",
+   "ipa": "/nɔːrm/",
+   "level": "B2",
+   "meaning": "chuẩn mực; điều bình thường",
+   "definition": "a usual or expected way of behaving",
+   "collocations": [
+    "social norms",
+    "become the norm"
+   ],
+   "examples": [
+    {
+     "en": "Working from home has become the *norm*.",
+     "vi": "Làm việc tại nhà đã trở thành điều bình thường."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

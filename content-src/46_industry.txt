@@ -1,0 +1,54 @@
+#id: industry
+#prefix: ind
+#order: 46
+#icon: 🏭
+#title: Industry & Materials
+#title_vi: Công nghiệp & Vật liệu
+#desc: Nhà máy, kỹ thuật, nguyên vật liệu, xuất nhập khẩu, giao hàng: bối cảnh TOEIC về sản xuất và logistics.
+material | noun | /məˈtɪriəl/ | vật liệu; tài liệu | a substance used to make things; information for a purpose | raw materials; building materials; training materials | The price of raw *materials* has gone up. | Giá nguyên vật liệu đã tăng.
+component | noun | /kəmˈpoʊnənt/ | linh kiện, thành phần | one of the parts of a machine or system | electronic components; key component | The factory makes *components* for smartphones. | Nhà máy sản xuất linh kiện cho điện thoại thông minh.
+compound | noun | /ˈkɑːmpaʊnd/ | hợp chất; khu (có tường bao) | a substance made of two or more elements; an enclosed area | chemical compound; a factory compound | Water is a *compound* of hydrogen and oxygen. | Nước là hợp chất của hydro và oxy.
+steel | noun | /stiːl/ | thép | a strong metal made from iron | stainless steel; steel industry | The bridge is made of *steel*. | Cây cầu được làm bằng thép.
+brick | noun | /brɪk/ | gạch | a block of baked clay used for building | red brick; brick wall | The old factory is a red *brick* building. | Nhà máy cũ là một tòa nhà gạch đỏ.
+concrete | noun | /ˈkɑːnkriːt/ | bê tông | a hard building material | concrete floor; reinforced concrete | Workers are pouring *concrete* for the foundation. | Công nhân đang đổ bê tông móng. | Tính từ concrete = cụ thể (concrete examples).
+engineering | noun | /ˌendʒɪˈnɪrɪŋ/ | ngành kỹ thuật | the work of designing machines, buildings etc. | civil engineering; engineering department | He has a degree in mechanical *engineering*. | Anh ấy có bằng kỹ thuật cơ khí.
+mechanic | noun | /məˈkænɪk/ | thợ máy | a person who repairs engines | car mechanic | The *mechanic* said the car needs new brakes. | Thợ máy nói xe cần thay phanh mới.
+mechanical | adjective | /məˈkænɪkl/ | thuộc cơ khí, máy móc | connected with machines | mechanical problem; mechanical engineer | The flight was delayed due to a *mechanical* problem. | Chuyến bay bị hoãn do sự cố kỹ thuật.
+structure | noun | /ˈstrʌktʃər/ | cấu trúc; công trình | the way parts are arranged; a building | company structure; steel structure | The company changed its management *structure*. | Công ty đã thay đổi cơ cấu quản lý.
+surface | noun | /ˈsɜːrfɪs/ | bề mặt | the top or outside layer | smooth surface; work surface | Clean all kitchen *surfaces* daily. | Lau sạch mọi bề mặt bếp hằng ngày.
+foundation | noun | /faʊnˈdeɪʃn/ | nền móng; quỹ (từ thiện) | the base of a building; an organization that gives money | lay the foundation; charitable foundation | The *foundation* supports education in rural areas. | Quỹ hỗ trợ giáo dục ở vùng nông thôn.
+frame | noun | /freɪm/ | khung | a structure that holds something | picture frame; window frame; time frame | We need to finish within a short time *frame*. | Chúng ta cần hoàn thành trong khung thời gian ngắn.
+load | noun | /loʊd/ | hàng chở; khối lượng | something carried; an amount of work | a heavy load; workload | The truck was carrying a heavy *load*. | Chiếc xe tải chở hàng nặng. | Động từ: load / unload = chất / dỡ hàng (Part 1).
+labour | noun | /ˈleɪbər/ | lao động; nhân công | work; workers | labour costs; cheap labour; manual labour | *Labour* costs make up half of our expenses. | Chi phí nhân công chiếm một nửa chi phí của chúng tôi. | Anh-Mỹ: labor.
+mine | noun | /maɪn/ | mỏ | a deep hole where coal or metal is dug | coal mine; gold mine | He worked in a coal *mine* for 20 years. | Ông ấy làm ở mỏ than 20 năm. | Đại từ mine = của tôi.
+miner | noun | /ˈmaɪnər/ | thợ mỏ | a person who works in a mine | coal miner | The *miners* were rescued after two days. | Các thợ mỏ được giải cứu sau hai ngày.
+powder | noun | /ˈpaʊdər/ | bột | very small dry pieces | washing powder; milk powder | Mix the *powder* with water. | Trộn bột với nước.
+mix | verb | /mɪks/ | trộn, pha | to combine things | mix with; mix up | Don't *mix* up the two files. | Đừng để lẫn hai tệp với nhau. | mix up = nhầm lẫn.
+mixed | adjective | /mɪkst/ | lẫn lộn, hỗn hợp | of different kinds | mixed feelings; mixed reviews | The film got *mixed* reviews. | Bộ phim nhận được đánh giá trái chiều.
+mixture | noun | /ˈmɪkstʃər/ | hỗn hợp | a combination of different things | a mixture of | The team is a *mixture* of young and experienced staff. | Đội là sự kết hợp giữa nhân viên trẻ và giàu kinh nghiệm.
+export | noun | /ˈekspɔːrt/ | xuất khẩu; hàng xuất khẩu | selling goods to another country | export market; main exports | Coffee is one of Vietnam's main *exports*. | Cà phê là một trong những mặt hàng xuất khẩu chính của Việt Nam.
+import | verb | /ɪmˈpɔːrt/ | nhập khẩu | to bring goods from another country | import goods; imported cars | We *import* most of our parts from Japan. | Chúng tôi nhập khẩu hầu hết linh kiện từ Nhật.
+delivery | noun | /dɪˈlɪvəri/ | sự giao hàng | taking goods to a place | free delivery; delivery date; on delivery | We offer free *delivery* on orders over $50. | Chúng tôi giao hàng miễn phí cho đơn trên 50 đô.
+resource | noun | /ˈriːsɔːrs/ | nguồn lực, tài nguyên | something useful that you can use | human resources; limited resources | Please contact *Human Resources* about your leave. | Vui lòng liên hệ phòng Nhân sự về việc nghỉ phép.
+extract | verb | /ɪkˈstrækt/ | chiết xuất, trích xuất | to remove or take out | extract oil; extract data | The software *extracts* data from receipts. | Phần mềm trích xuất dữ liệu từ hóa đơn.
+exploit | verb | /ɪkˈsplɔɪt/ | khai thác; bóc lột | to use fully; to use unfairly | exploit resources; exploit workers | Companies must not *exploit* their workers. | Các công ty không được bóc lột người lao động.
+fragment | noun | /ˈfræɡmənt/ | mảnh vỡ | a small broken piece | fragments of glass | Be careful of *fragments* of broken glass. | Cẩn thận các mảnh kính vỡ.
+mass | noun | /mæs/ | khối lớn; số đông | a large amount; a large number | mass production; the masses | *Mass* production lowered the price. | Sản xuất hàng loạt đã giúp giảm giá.
+medium | adjective | /ˈmiːdiəm/ | trung bình, vừa | middle in size or amount | medium size; small and medium businesses | Would you like a small, *medium* or large coffee? | Bạn muốn cà phê cỡ nhỏ, vừa hay lớn?
+matching | adjective | /ˈmætʃɪŋ/ | hợp nhau, đồng bộ | having the same colour or style | matching furniture | She wore a dress and *matching* shoes. | Cô ấy mặc váy và giày đồng bộ.
+rocket | noun | /ˈrɑːkɪt/ | tên lửa | a vehicle for space travel | launch a rocket; space rocket | Prices *rocketed* after the storm. | Giá tăng vọt sau cơn bão. | Động từ rocket = tăng vọt.
+receiver | noun | /rɪˈsiːvər/ | ống nghe; người nhận | part of a phone; a person who receives | pick up the receiver | She picked up the *receiver* and dialled. | Cô ấy nhấc ống nghe và quay số.
+lens | noun | /lenz/ | ống kính, thấu kính | a curved piece of glass in cameras or glasses | camera lens; contact lenses | Clean the camera *lens* with a soft cloth. | Lau ống kính máy ảnh bằng khăn mềm.
+flash | noun | /flæʃ/ | đèn flash; tia chớp | a bright light used for photos; a sudden light | flash photography; in a flash | *Flash* photography is not allowed in the museum. | Không được chụp ảnh dùng đèn flash trong bảo tàng.
+footprint | noun | /ˈfʊtprɪnt/ | dấu chân; dấu ấn (môi trường) | a mark of a foot; the effect something has | carbon footprint | We are reducing our carbon *footprint*. | Chúng tôi đang giảm dấu chân các-bon.
+warehouse | noun | /ˈwerhaʊs/ | nhà kho | a large building for storing goods | in the warehouse; warehouse manager | The goods are stored in our *warehouse*. | Hàng hóa được lưu trong kho của chúng tôi.
+manual | noun | /ˈmænjuəl/ | sách hướng dẫn | a book of instructions | user manual; instruction manual | Read the *manual* before using the machine. | Đọc sách hướng dẫn trước khi dùng máy.
+assemble | verb | /əˈsembl/ | lắp ráp; tập hợp | to put parts together; to gather | assemble furniture; assembly line | The cars are *assembled* in Thailand. | Ô tô được lắp ráp tại Thái Lan.
+plant | noun | /plænt/ | nhà máy; cây | a factory; a living thing that grows | power plant; manufacturing plant | The company is building a new *plant* in Binh Duong. | Công ty đang xây nhà máy mới ở Bình Dương.
+machinery | noun | /məˈʃiːnəri/ | máy móc (nói chung) | machines as a group | heavy machinery; farm machinery | Only trained staff may operate the *machinery*. | Chỉ nhân viên được đào tạo mới được vận hành máy móc.
+defect | noun | /ˈdiːfekt/ | khuyết tật, lỗi | a fault | manufacturing defect; free from defects | Each product is checked for *defects*. | Mỗi sản phẩm đều được kiểm tra lỗi.
+quality control | noun | /ˌkwɑːləti kənˈtroʊl/ | kiểm soát chất lượng | checking products meet standards | quality control team | She works in *quality control*. | Cô ấy làm ở bộ phận kiểm soát chất lượng.
+shipment | noun | /ˈʃɪpmənt/ | lô hàng | goods sent together | a shipment of; track a shipment | The next *shipment* will arrive on Tuesday. | Lô hàng tiếp theo sẽ đến vào thứ Ba.
+cargo | noun | /ˈkɑːrɡoʊ/ | hàng hóa (chở bằng tàu, máy bay) | goods carried by ship or plane | cargo ship; air cargo | The ship was carrying *cargo* from China. | Con tàu chở hàng từ Trung Quốc.
+inventory | noun | /ˈɪnvəntɔːri/ | hàng tồn kho; bảng kiểm kê | all the goods in stock; a list of them | take inventory; inventory system | We do a full *inventory* every quarter. | Chúng tôi kiểm kê toàn bộ mỗi quý.
+supplier | noun | /səˈplaɪər/ | nhà cung cấp | a company that provides goods | a reliable supplier; change suppliers | We are looking for a new paper *supplier*. | Chúng tôi đang tìm nhà cung cấp giấy mới.

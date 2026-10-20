@@ -1,0 +1,54 @@
+#id: toeic_logistics
+#prefix: tlg
+#order: 56
+#icon: 📦
+#title: TOEIC: Shipping & Logistics
+#title_vi: TOEIC: Vận chuyển & Kho vận
+#desc: Gửi hàng, theo dõi đơn, hải quan, giao hàng trễ, kho bãi: chủ đề cực kỳ phổ biến trong email Part 7 và hội thoại Part 3.
+courier | noun | /ˈkʊriər/ | dịch vụ chuyển phát; người giao hàng | a company or person that delivers packages quickly | by courier; courier service | The documents were sent by *courier*. | Tài liệu được gửi qua dịch vụ chuyển phát.
+freight | noun | /freɪt/ | hàng hóa vận chuyển; cước | goods carried by ship, plane or truck; the cost of this | air freight; freight charges | *Freight* charges are included in the price. | Cước vận chuyển đã bao gồm trong giá.
+parcel | noun | /ˈpɑːrsl/ | bưu kiện | a package sent by post | send a parcel; parcel delivery | A *parcel* arrived for you this morning. | Có bưu kiện gửi bạn sáng nay.
+tracking number | noun | /ˈtrækɪŋ ˌnʌmbər/ | mã vận đơn | a number used to follow a delivery | enter your tracking number | Use your *tracking number* to check the delivery status. | Dùng mã vận đơn để kiểm tra tình trạng giao hàng.
+dispatch | verb | /dɪˈspætʃ/ | gửi đi, điều phối | to send goods or people somewhere | dispatch an order; be dispatched | Your order was *dispatched* this morning. | Đơn hàng của bạn đã được gửi đi sáng nay.
+consignment | noun | /kənˈsaɪnmənt/ | lô hàng gửi | a quantity of goods sent together | a consignment of | A *consignment* of laptops arrived yesterday. | Một lô máy tính xách tay đã đến hôm qua.
+logistics | noun | /ləˈdʒɪstɪks/ | hậu cần, kho vận | the planning and organizing of moving goods | logistics company; event logistics | She manages the *logistics* for the conference. | Cô ấy phụ trách hậu cần cho hội nghị.
+supply chain | noun | /səˈplaɪ tʃeɪn/ | chuỗi cung ứng | the system of making and delivering a product | supply chain problems | Problems in the *supply chain* delayed production. | Sự cố trong chuỗi cung ứng làm chậm sản xuất.
+distributor | noun | /dɪˈstrɪbjətər/ | nhà phân phối | a company that supplies goods to shops | an authorized distributor | We are the official *distributor* in Vietnam. | Chúng tôi là nhà phân phối chính thức tại Việt Nam.
+customs | noun | /ˈkʌstəmz/ | hải quan | the place at a border where goods are checked | clear customs; customs form | The package is being held at *customs*. | Gói hàng đang bị giữ ở hải quan.
+duty | noun | /ˈduːti/ | thuế (nhập khẩu) | a tax on goods brought into a country | import duty; duty-free | You must pay import *duty* on these goods. | Bạn phải trả thuế nhập khẩu cho hàng này. | duty-free = miễn thuế.
+loading dock | noun | /ˈloʊdɪŋ dɑːk/ | bến bốc dỡ hàng | an area where goods are put on or taken off trucks | at the loading dock | Deliveries should go to the *loading dock*. | Hàng giao nên đưa tới bến bốc dỡ.
+unload | verb | /ʌnˈloʊd/ | dỡ hàng | to remove goods from a vehicle | unload a truck | Workers are *unloading* boxes from a truck. | Công nhân đang dỡ hộp khỏi xe tải. | Part 1 rất hay gặp.
+forklift | noun | /ˈfɔːrklɪft/ | xe nâng | a vehicle for lifting heavy goods | drive a forklift | A man is driving a *forklift* in the warehouse. | Một người đàn ông đang lái xe nâng trong kho.
+pallet | noun | /ˈpælət/ | tấm pallet | a flat wooden frame for moving goods | wooden pallets; on a pallet | The boxes are stacked on *pallets*. | Các thùng hàng được xếp trên pallet.
+crate | noun | /kreɪt/ | thùng gỗ, két | a large box for carrying goods | a wooden crate | The bottles are packed in *crates*. | Các chai được đóng trong thùng.
+packaging | noun | /ˈpækɪdʒɪŋ/ | bao bì | materials used to wrap products | plastic packaging; reduce packaging | We use recycled *packaging*. | Chúng tôi dùng bao bì tái chế.
+fragile | adjective | /ˈfrædʒl/ | dễ vỡ | easily broken | handle with care: fragile | Mark the box "*fragile*". | Ghi chữ "dễ vỡ" lên thùng.
+handle | verb | /ˈhændl/ | xử lý; cầm nắm | to deal with; to hold | handle with care; handle complaints | Please *handle* the package with care. | Vui lòng cầm gói hàng cẩn thận.
+in transit | adjective | /ɪn ˈtrænzɪt/ | đang vận chuyển | being moved from one place to another | goods in transit; lost in transit | Your order is currently *in transit*. | Đơn hàng của bạn đang trên đường vận chuyển.
+estimated arrival | noun | /ˌestɪmeɪtɪd əˈraɪvl/ | thời gian đến dự kiến | the expected time something will arrive | estimated arrival time | The *estimated arrival* time is 3 p.m. | Thời gian đến dự kiến là 3 giờ chiều.
+expedite | verb | /ˈekspədaɪt/ | xúc tiến, đẩy nhanh | to make a process happen faster | expedite delivery; expedite the process | Can you *expedite* the shipment? We need it by Friday. | Bạn có thể giao gấp không? Chúng tôi cần trước thứ Sáu.
+express | adjective | /ɪkˈspres/ | hỏa tốc, nhanh | fast | express delivery; express train | *Express* delivery costs an extra $10. | Giao hỏa tốc tốn thêm 10 đô.
+overnight delivery | noun | /ˌoʊvərnaɪt dɪˈlɪvəri/ | giao hàng qua đêm | delivery the next day | by overnight delivery | Send the contract by *overnight delivery*. | Gửi hợp đồng bằng dịch vụ giao trong đêm.
+recipient | noun | /rɪˈsɪpiənt/ | người nhận | a person who receives something | the recipient's address | The *recipient* must sign for the package. | Người nhận phải ký nhận gói hàng.
+sender | noun | /ˈsendər/ | người gửi | a person who sends something | return to sender | The parcel was returned to the *sender*. | Bưu kiện bị trả lại người gửi.
+address label | noun | /ˈædres ˌleɪbl/ | nhãn địa chỉ | a label showing where to send something | print an address label | Attach the *address label* to the top of the box. | Dán nhãn địa chỉ lên nắp thùng.
+postage | noun | /ˈpoʊstɪdʒ/ | bưu phí | the cost of sending something by post | postage paid; postage and packing | *Postage* is free for orders over $30. | Miễn bưu phí cho đơn trên 30 đô.
+signed for | adjective | /saɪnd fɔːr/ | ký nhận | with a signature needed on delivery | signed-for delivery | Valuable items are sent by *signed-for* delivery. | Hàng giá trị được gửi bằng dịch vụ ký nhận.
+delay | verb | /dɪˈleɪ/ | làm chậm, trì hoãn | to make late | be delayed; delay a shipment | The shipment was *delayed* by bad weather. | Lô hàng bị chậm vì thời tiết xấu.
+backlog | noun | /ˈbæklɔːɡ/ | lượng việc tồn đọng | work that should have been done already | a backlog of orders | We have a *backlog* of orders after the holiday. | Chúng tôi tồn đọng nhiều đơn hàng sau kỳ nghỉ.
+route | verb | /ruːt/ | định tuyến, chuyển hướng | to send by a particular way | be routed through | Your call is being *routed* to the next available agent. | Cuộc gọi của bạn đang được chuyển tới nhân viên rảnh tiếp theo.
+fleet | noun | /fliːt/ | đội xe, đội tàu | a group of vehicles owned by one company | delivery fleet; a fleet of trucks | The company has a *fleet* of 50 delivery vans. | Công ty có đội 50 xe giao hàng.
+truck | noun | /trʌk/ | xe tải | a large road vehicle for goods | delivery truck; truck driver | A delivery *truck* is parked outside. | Một xe tải giao hàng đang đỗ bên ngoài.
+van | noun | /væn/ | xe tải nhỏ | a small vehicle for carrying goods | delivery van | The *van* will arrive between 9 and 12. | Xe giao hàng sẽ đến trong khoảng 9 đến 12 giờ.
+container ship | noun | /kənˈteɪnər ʃɪp/ | tàu container | a large ship carrying metal containers | load a container ship | The goods will travel by *container ship*. | Hàng sẽ được chở bằng tàu container.
+storage | noun | /ˈstɔːrɪdʒ/ | sự lưu kho | the keeping of goods | storage space; in storage | We need more *storage* space for winter stock. | Chúng tôi cần thêm chỗ lưu kho cho hàng mùa đông.
+stockroom | noun | /ˈstɑːkruːm/ | kho hàng (cửa hàng) | a room where goods are kept | in the stockroom | Check the *stockroom* for more sizes. | Kiểm tra kho để tìm thêm cỡ.
+inventory check | noun | /ˈɪnvəntɔːri tʃek/ | kiểm kê hàng | counting all the goods in stock | do an inventory check | The store closes early for an *inventory check*. | Cửa hàng đóng sớm để kiểm kê.
+outsource | verb | /ˈaʊtsɔːrs/ | thuê ngoài | to pay another company to do work | outsource production | We *outsource* our delivery to a local company. | Chúng tôi thuê ngoài việc giao hàng cho một công ty địa phương.
+proof of delivery | noun | /ˌpruːf əv dɪˈlɪvəri/ | bằng chứng giao hàng | a document showing goods were delivered | signed proof of delivery | The driver will ask for *proof of delivery*. | Tài xế sẽ yêu cầu xác nhận đã giao hàng.
+manifest | noun | /ˈmænɪfest/ | bảng kê hàng hóa | a list of goods or passengers on a ship or plane | cargo manifest | Check the cargo *manifest* before loading. | Kiểm tra bảng kê hàng trước khi xếp.
+on schedule | adjective | /ɑːn ˈskedʒuːl/ | đúng tiến độ | happening at the planned time | on schedule; behind schedule | The shipment is *on schedule*. | Lô hàng đang đúng tiến độ.
+behind schedule | adjective | /bɪˌhaɪnd ˈskedʒuːl/ | chậm tiến độ | later than planned | fall behind schedule | Production is two weeks *behind schedule*. | Sản xuất chậm tiến độ hai tuần.
+ship date | noun | /ˈʃɪp deɪt/ | ngày gửi hàng | the date goods are sent | confirm the ship date | Please confirm the *ship date* for our order. | Vui lòng xác nhận ngày gửi hàng cho đơn của chúng tôi.
+mail room | noun | /ˈmeɪl ruːm/ | phòng thư | a room in an office where post is handled | pick up from the mail room | Your package is in the *mail room*. | Gói hàng của bạn ở phòng thư.
+door-to-door | adjective | /ˌdɔːr tə ˈdɔːr/ | tận nơi | from one place directly to another | door-to-door delivery | We offer *door-to-door* delivery. | Chúng tôi giao hàng tận nơi.

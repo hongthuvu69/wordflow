@@ -1,0 +1,921 @@
+{
+ "id": "nature",
+ "order": 29,
+ "icon": "🌿",
+ "level": "B2",
+ "title": "Nature & the Environment",
+ "title_vi": "Thiên nhiên & Môi trường",
+ "description": "Hệ sinh thái, khí thải, năng lượng tái tạo, địa hình, động thực vật: bổ sung cho chủ đề Môi trường B1.",
+ "words": [
+  {
+   "id": "nat_environmental",
+   "word": "environmental",
+   "pos": "adjective",
+   "ipa": "/ɪnˌvaɪrənˈmentl/",
+   "level": "B1",
+   "meaning": "thuộc môi trường",
+   "definition": "connected with the natural world",
+   "collocations": [
+    "environmental damage",
+    "environmental protection"
+   ],
+   "examples": [
+    {
+     "en": "The factory must reduce its *environmental* impact.",
+     "vi": "Nhà máy phải giảm tác động tới môi trường."
+    }
+   ]
+  },
+  {
+   "id": "nat_ecosystem",
+   "word": "ecosystem",
+   "pos": "noun",
+   "ipa": "/ˈiːkoʊsɪstəm/",
+   "level": "B2",
+   "meaning": "hệ sinh thái",
+   "definition": "all the living things in an area and their environment",
+   "collocations": [
+    "protect the ecosystem",
+    "marine ecosystem"
+   ],
+   "examples": [
+    {
+     "en": "Plastic waste damages ocean *ecosystems*.",
+     "vi": "Rác thải nhựa phá hủy hệ sinh thái đại dương."
+    }
+   ]
+  },
+  {
+   "id": "nat_habitat",
+   "word": "habitat",
+   "pos": "noun",
+   "ipa": "/ˈhæbɪtæt/",
+   "level": "B2",
+   "meaning": "môi trường sống",
+   "definition": "the natural home of an animal or plant",
+   "collocations": [
+    "natural habitat",
+    "loss of habitat"
+   ],
+   "examples": [
+    {
+     "en": "Many animals are losing their natural *habitat*.",
+     "vi": "Nhiều loài động vật đang mất môi trường sống tự nhiên."
+    }
+   ]
+  },
+  {
+   "id": "nat_species",
+   "word": "species",
+   "pos": "noun",
+   "ipa": "/ˈspiːʃiːz/",
+   "level": "B2",
+   "meaning": "loài",
+   "definition": "a group of animals or plants of the same type",
+   "collocations": [
+    "endangered species",
+    "rare species"
+   ],
+   "examples": [
+    {
+     "en": "The forest is home to many rare *species*.",
+     "vi": "Khu rừng là nhà của nhiều loài quý hiếm."
+    }
+   ],
+   "note": "Số ít và số nhiều giống nhau."
+  },
+  {
+   "id": "nat_wildlife",
+   "word": "wildlife",
+   "pos": "noun",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "level": "B2",
+   "meaning": "động vật hoang dã",
+   "definition": "animals and plants living in nature",
+   "collocations": [
+    "protect wildlife",
+    "wildlife park"
+   ],
+   "examples": [
+    {
+     "en": "The park is full of *wildlife*.",
+     "vi": "Công viên có rất nhiều động vật hoang dã."
+    }
+   ]
+  },
+  {
+   "id": "nat_conservation",
+   "word": "conservation",
+   "pos": "noun",
+   "ipa": "/ˌkɑːnsərˈveɪʃn/",
+   "level": "B2",
+   "meaning": "sự bảo tồn",
+   "definition": "the protection of nature",
+   "collocations": [
+    "wildlife conservation",
+    "energy conservation"
+   ],
+   "examples": [
+    {
+     "en": "The money will go to forest *conservation*.",
+     "vi": "Số tiền sẽ dành cho bảo tồn rừng."
+    }
+   ]
+  },
+  {
+   "id": "nat_preserve",
+   "word": "preserve",
+   "pos": "verb",
+   "ipa": "/prɪˈzɜːrv/",
+   "level": "B2",
+   "meaning": "bảo tồn, giữ gìn",
+   "definition": "to keep something in its original state",
+   "collocations": [
+    "preserve the environment",
+    "preserve tradition"
+   ],
+   "examples": [
+    {
+     "en": "The old town has been carefully *preserved*.",
+     "vi": "Phố cổ được bảo tồn cẩn thận."
+    }
+   ]
+  },
+  {
+   "id": "nat_emission",
+   "word": "emission",
+   "pos": "noun",
+   "ipa": "/iˈmɪʃn/",
+   "level": "B2",
+   "meaning": "khí thải",
+   "definition": "gas sent into the air",
+   "collocations": [
+    "carbon emissions",
+    "reduce emissions"
+   ],
+   "examples": [
+    {
+     "en": "New cars must produce lower *emissions*.",
+     "vi": "Xe mới phải thải ít khí hơn."
+    }
+   ]
+  },
+  {
+   "id": "nat_greenhouse",
+   "word": "greenhouse",
+   "pos": "noun",
+   "ipa": "/ˈɡriːnhaʊs/",
+   "level": "B2",
+   "meaning": "nhà kính",
+   "definition": "a glass building for growing plants",
+   "collocations": [
+    "greenhouse gases",
+    "greenhouse effect"
+   ],
+   "examples": [
+    {
+     "en": "*Greenhouse* gases cause global warming.",
+     "vi": "Khí nhà kính gây ra hiện tượng ấm lên toàn cầu."
+    }
+   ]
+  },
+  {
+   "id": "nat_warming",
+   "word": "warming",
+   "pos": "noun",
+   "ipa": "/ˈwɔːrmɪŋ/",
+   "level": "B2",
+   "meaning": "sự ấm lên",
+   "definition": "the process of becoming warmer",
+   "collocations": [
+    "global warming"
+   ],
+   "examples": [
+    {
+     "en": "Global *warming* is melting the ice at the poles.",
+     "vi": "Sự ấm lên toàn cầu đang làm tan băng ở hai cực."
+    }
+   ]
+  },
+  {
+   "id": "nat_renewable",
+   "word": "renewable",
+   "pos": "adjective",
+   "ipa": "/rɪˈnuːəbl/",
+   "level": "B1",
+   "meaning": "có thể tái tạo",
+   "definition": "that can be replaced naturally",
+   "collocations": [
+    "renewable energy",
+    "renewable resources"
+   ],
+   "examples": [
+    {
+     "en": "The factory uses only *renewable* energy.",
+     "vi": "Nhà máy chỉ dùng năng lượng tái tạo."
+    }
+   ],
+   "note": "Nghĩa khác: renewable contract = hợp đồng có thể gia hạn."
+  },
+  {
+   "id": "nat_organic",
+   "word": "organic",
+   "pos": "adjective",
+   "ipa": "/ɔːrˈɡænɪk/",
+   "level": "B2",
+   "meaning": "hữu cơ",
+   "definition": "grown without chemicals",
+   "collocations": [
+    "organic food",
+    "organic farming"
+   ],
+   "examples": [
+    {
+     "en": "This shop sells only *organic* vegetables.",
+     "vi": "Cửa hàng này chỉ bán rau hữu cơ."
+    }
+   ]
+  },
+  {
+   "id": "nat_agriculture",
+   "word": "agriculture",
+   "pos": "noun",
+   "ipa": "/ˈæɡrɪkʌltʃər/",
+   "level": "B2",
+   "meaning": "nông nghiệp",
+   "definition": "farming",
+   "collocations": [
+    "modern agriculture",
+    "work in agriculture"
+   ],
+   "examples": [
+    {
+     "en": "*Agriculture* is still important to the economy.",
+     "vi": "Nông nghiệp vẫn quan trọng đối với nền kinh tế."
+    }
+   ]
+  },
+  {
+   "id": "nat_crop",
+   "word": "crop",
+   "pos": "noun",
+   "ipa": "/krɑːp/",
+   "level": "B2",
+   "meaning": "cây trồng; vụ mùa",
+   "definition": "a plant grown for food; the amount harvested",
+   "collocations": [
+    "grow crops",
+    "a good crop"
+   ],
+   "examples": [
+    {
+     "en": "Rice is the main *crop* in this region.",
+     "vi": "Lúa là cây trồng chính của vùng này."
+    }
+   ]
+  },
+  {
+   "id": "nat_soil",
+   "word": "soil",
+   "pos": "noun",
+   "ipa": "/sɔɪl/",
+   "level": "B1",
+   "meaning": "đất (trồng)",
+   "definition": "the top layer of earth where plants grow",
+   "collocations": [
+    "rich soil",
+    "soil quality"
+   ],
+   "examples": [
+    {
+     "en": "The *soil* here is good for growing coffee.",
+     "vi": "Đất ở đây tốt cho trồng cà phê."
+    }
+   ]
+  },
+  {
+   "id": "nat_seed",
+   "word": "seed",
+   "pos": "noun",
+   "ipa": "/siːd/",
+   "level": "B1",
+   "meaning": "hạt giống",
+   "definition": "a small part of a plant from which a new plant grows",
+   "collocations": [
+    "plant seeds",
+    "sunflower seeds"
+   ],
+   "examples": [
+    {
+     "en": "Plant the *seeds* in spring.",
+     "vi": "Gieo hạt vào mùa xuân."
+    }
+   ]
+  },
+  {
+   "id": "nat_grain",
+   "word": "grain",
+   "pos": "noun",
+   "ipa": "/ɡreɪn/",
+   "level": "B1",
+   "meaning": "ngũ cốc; hạt",
+   "definition": "seeds of plants like rice and wheat; a small piece",
+   "collocations": [
+    "whole grains",
+    "a grain of sand"
+   ],
+   "examples": [
+    {
+     "en": "Brown rice is a whole *grain*.",
+     "vi": "Gạo lứt là ngũ cốc nguyên hạt."
+    }
+   ]
+  },
+  {
+   "id": "nat_wheat",
+   "word": "wheat",
+   "pos": "noun",
+   "ipa": "/wiːt/",
+   "level": "B2",
+   "meaning": "lúa mì",
+   "definition": "a plant used to make flour",
+   "collocations": [
+    "wheat flour",
+    "wheat field"
+   ],
+   "examples": [
+    {
+     "en": "Bread is made from *wheat* flour.",
+     "vi": "Bánh mì làm từ bột mì."
+    }
+   ]
+  },
+  {
+   "id": "nat_dairy",
+   "word": "dairy",
+   "pos": "adjective",
+   "ipa": "/ˈderi/",
+   "level": "B2",
+   "meaning": "thuộc sữa",
+   "definition": "made from milk",
+   "collocations": [
+    "dairy products",
+    "dairy farm"
+   ],
+   "examples": [
+    {
+     "en": "Cheese and yogurt are *dairy* products.",
+     "vi": "Phô mai và sữa chua là sản phẩm từ sữa."
+    }
+   ]
+  },
+  {
+   "id": "nat_herb",
+   "word": "herb",
+   "pos": "noun",
+   "ipa": "/ɜːrb/",
+   "level": "B2",
+   "meaning": "thảo mộc, rau thơm",
+   "definition": "a plant used in cooking or medicine",
+   "collocations": [
+    "fresh herbs",
+    "herb garden"
+   ],
+   "examples": [
+    {
+     "en": "Add some fresh *herbs* to the soup.",
+     "vi": "Thêm ít rau thơm vào món canh."
+    }
+   ],
+   "note": "Anh-Mỹ: h câm /ɜːrb/."
+  },
+  {
+   "id": "nat_bush",
+   "word": "bush",
+   "pos": "noun",
+   "ipa": "/bʊʃ/",
+   "level": "B2",
+   "meaning": "bụi cây",
+   "definition": "a plant like a small tree",
+   "collocations": [
+    "rose bush",
+    "behind a bush"
+   ],
+   "examples": [
+    {
+     "en": "The cat is hiding behind the *bush*.",
+     "vi": "Con mèo trốn sau bụi cây."
+    }
+   ]
+  },
+  {
+   "id": "nat_leaf",
+   "word": "leaf",
+   "pos": "noun",
+   "ipa": "/liːf/",
+   "level": "B1",
+   "meaning": "lá cây",
+   "definition": "a flat green part of a plant",
+   "collocations": [
+    "fallen leaves",
+    "tea leaves"
+   ],
+   "examples": [
+    {
+     "en": "The *leaves* turn red in autumn.",
+     "vi": "Lá chuyển đỏ vào mùa thu."
+    }
+   ],
+   "note": "Số nhiều: leaves."
+  },
+  {
+   "id": "nat_root",
+   "word": "root",
+   "pos": "noun",
+   "ipa": "/ruːt/",
+   "level": "B2",
+   "meaning": "rễ; nguồn gốc",
+   "definition": "the part of a plant under the ground; the origin",
+   "collocations": [
+    "the root cause",
+    "tree roots"
+   ],
+   "examples": [
+    {
+     "en": "We need to find the *root* cause of the problem.",
+     "vi": "Chúng ta cần tìm nguyên nhân gốc rễ của vấn đề."
+    }
+   ]
+  },
+  {
+   "id": "nat_landscape",
+   "word": "landscape",
+   "pos": "noun",
+   "ipa": "/ˈlændskeɪp/",
+   "level": "B2",
+   "meaning": "phong cảnh",
+   "definition": "everything you can see in an area of land",
+   "collocations": [
+    "beautiful landscape",
+    "mountain landscape"
+   ],
+   "examples": [
+    {
+     "en": "The *landscape* around Sapa is stunning.",
+     "vi": "Phong cảnh quanh Sa Pa thật ngoạn mục."
+    }
+   ]
+  },
+  {
+   "id": "nat_cliff",
+   "word": "cliff",
+   "pos": "noun",
+   "ipa": "/klɪf/",
+   "level": "B2",
+   "meaning": "vách đá",
+   "definition": "a high steep rock face, often by the sea",
+   "collocations": [
+    "cliff edge",
+    "walk along the cliffs"
+   ],
+   "examples": [
+    {
+     "en": "The hotel stands on top of a *cliff*.",
+     "vi": "Khách sạn nằm trên đỉnh một vách đá."
+    }
+   ]
+  },
+  {
+   "id": "nat_cave",
+   "word": "cave",
+   "pos": "noun",
+   "ipa": "/keɪv/",
+   "level": "B2",
+   "meaning": "hang động",
+   "definition": "a large hole in a hill or under the ground",
+   "collocations": [
+    "explore a cave"
+   ],
+   "examples": [
+    {
+     "en": "Son Doong is the world's largest *cave*.",
+     "vi": "Sơn Đoòng là hang động lớn nhất thế giới."
+    }
+   ]
+  },
+  {
+   "id": "nat_bay",
+   "word": "bay",
+   "pos": "noun",
+   "ipa": "/beɪ/",
+   "level": "B2",
+   "meaning": "vịnh",
+   "definition": "part of the sea surrounded by land",
+   "collocations": [
+    "Ha Long Bay",
+    "a sandy bay"
+   ],
+   "examples": [
+    {
+     "en": "We took a boat trip around Ha Long *Bay*.",
+     "vi": "Chúng tôi đi thuyền quanh vịnh Hạ Long."
+    }
+   ]
+  },
+  {
+   "id": "nat_shore",
+   "word": "shore",
+   "pos": "noun",
+   "ipa": "/ʃɔːr/",
+   "level": "B2",
+   "meaning": "bờ biển, bờ hồ",
+   "definition": "the land along the edge of the sea or a lake",
+   "collocations": [
+    "on the shore",
+    "along the shore"
+   ],
+   "examples": [
+    {
+     "en": "We walked along the *shore* at sunset.",
+     "vi": "Chúng tôi đi dạo dọc bờ biển lúc hoàng hôn."
+    }
+   ]
+  },
+  {
+   "id": "nat_desert",
+   "word": "desert",
+   "pos": "noun",
+   "ipa": "/ˈdezərt/",
+   "level": "B2",
+   "meaning": "sa mạc",
+   "definition": "a large dry area with few plants",
+   "collocations": [
+    "the Sahara Desert",
+    "desert island"
+   ],
+   "examples": [
+    {
+     "en": "It hardly ever rains in the *desert*.",
+     "vi": "Ở sa mạc hầu như không bao giờ mưa."
+    }
+   ]
+  },
+  {
+   "id": "nat_stream",
+   "word": "stream",
+   "pos": "noun",
+   "ipa": "/striːm/",
+   "level": "B2",
+   "meaning": "dòng suối; luồng",
+   "definition": "a small river; a continuous flow",
+   "collocations": [
+    "mountain stream",
+    "a stream of customers"
+   ],
+   "examples": [
+    {
+     "en": "A *stream* of customers came in all morning.",
+     "vi": "Khách hàng ra vào liên tục cả buổi sáng."
+    }
+   ]
+  },
+  {
+   "id": "nat_mud",
+   "word": "mud",
+   "pos": "noun",
+   "ipa": "/mʌd/",
+   "level": "B1",
+   "meaning": "bùn",
+   "definition": "wet soft earth",
+   "collocations": [
+    "covered in mud"
+   ],
+   "examples": [
+    {
+     "en": "The car got stuck in the *mud*.",
+     "vi": "Chiếc xe bị sa lầy trong bùn."
+    }
+   ]
+  },
+  {
+   "id": "nat_sand",
+   "word": "sand",
+   "pos": "noun",
+   "ipa": "/sænd/",
+   "level": "B1",
+   "meaning": "cát",
+   "definition": "tiny pieces of rock on beaches",
+   "collocations": [
+    "white sand",
+    "sand castle"
+   ],
+   "examples": [
+    {
+     "en": "The beach has fine white *sand*.",
+     "vi": "Bãi biển có cát trắng mịn."
+    }
+   ]
+  },
+  {
+   "id": "nat_dust",
+   "word": "dust",
+   "pos": "noun",
+   "ipa": "/dʌst/",
+   "level": "B1",
+   "meaning": "bụi",
+   "definition": "dry powder of dirt",
+   "collocations": [
+    "covered in dust",
+    "dust mask"
+   ],
+   "examples": [
+    {
+     "en": "The old books were covered in *dust*.",
+     "vi": "Những cuốn sách cũ phủ đầy bụi."
+    }
+   ]
+  },
+  {
+   "id": "nat_dirt",
+   "word": "dirt",
+   "pos": "noun",
+   "ipa": "/dɜːrt/",
+   "level": "B1",
+   "meaning": "bụi bẩn, đất",
+   "definition": "earth or dust that makes things dirty",
+   "collocations": [
+    "dirt road",
+    "covered in dirt"
+   ],
+   "examples": [
+    {
+     "en": "Wipe the *dirt* off your shoes before entering.",
+     "vi": "Lau sạch đất ở giày trước khi vào."
+    }
+   ]
+  },
+  {
+   "id": "nat_steam",
+   "word": "steam",
+   "pos": "noun",
+   "ipa": "/stiːm/",
+   "level": "B2",
+   "meaning": "hơi nước",
+   "definition": "the gas produced when water boils",
+   "collocations": [
+    "steam engine",
+    "steam rising"
+   ],
+   "examples": [
+    {
+     "en": "*Steam* rose from the hot soup.",
+     "vi": "Hơi nóng bốc lên từ bát canh."
+    }
+   ]
+  },
+  {
+   "id": "nat_flame",
+   "word": "flame",
+   "pos": "noun",
+   "ipa": "/fleɪm/",
+   "level": "B2",
+   "meaning": "ngọn lửa",
+   "definition": "the bright burning gas of a fire",
+   "collocations": [
+    "in flames",
+    "candle flame"
+   ],
+   "examples": [
+    {
+     "en": "The building was in *flames* when firefighters arrived.",
+     "vi": "Tòa nhà đang bốc cháy khi lính cứu hỏa đến."
+    }
+   ]
+  },
+  {
+   "id": "nat_tropical",
+   "word": "tropical",
+   "pos": "adjective",
+   "ipa": "/ˈtrɑːpɪkl/",
+   "level": "B2",
+   "meaning": "nhiệt đới",
+   "definition": "from the hot parts of the world",
+   "collocations": [
+    "tropical fruit",
+    "tropical climate"
+   ],
+   "examples": [
+    {
+     "en": "Vietnam has a *tropical* climate.",
+     "vi": "Việt Nam có khí hậu nhiệt đới."
+    }
+   ]
+  },
+  {
+   "id": "nat_creature",
+   "word": "creature",
+   "pos": "noun",
+   "ipa": "/ˈkriːtʃər/",
+   "level": "B2",
+   "meaning": "sinh vật",
+   "definition": "a living thing, especially an animal",
+   "collocations": [
+    "sea creatures",
+    "living creatures"
+   ],
+   "examples": [
+    {
+     "en": "The aquarium has many strange sea *creatures*.",
+     "vi": "Thủy cung có nhiều sinh vật biển kỳ lạ."
+    }
+   ]
+  },
+  {
+   "id": "nat_bee",
+   "word": "bee",
+   "pos": "noun",
+   "ipa": "/biː/",
+   "level": "B1",
+   "meaning": "con ong",
+   "definition": "a flying insect that makes honey",
+   "collocations": [
+    "busy as a bee",
+    "bee sting"
+   ],
+   "examples": [
+    {
+     "en": "*Bees* are important for growing crops.",
+     "vi": "Ong rất quan trọng cho việc trồng trọt."
+    }
+   ]
+  },
+  {
+   "id": "nat_worm",
+   "word": "worm",
+   "pos": "noun",
+   "ipa": "/wɜːrm/",
+   "level": "B2",
+   "meaning": "con giun",
+   "definition": "a long thin animal with no legs",
+   "collocations": [
+    "earthworm"
+   ],
+   "examples": [
+    {
+     "en": "Birds were looking for *worms* in the grass.",
+     "vi": "Chim đang tìm giun trên cỏ."
+    }
+   ]
+  },
+  {
+   "id": "nat_feather",
+   "word": "feather",
+   "pos": "noun",
+   "ipa": "/ˈfeðər/",
+   "level": "B2",
+   "meaning": "lông vũ",
+   "definition": "one of the soft parts covering a bird",
+   "collocations": [
+    "as light as a feather"
+   ],
+   "examples": [
+    {
+     "en": "The pillow is filled with *feathers*.",
+     "vi": "Chiếc gối được nhồi lông vũ."
+    }
+   ]
+  },
+  {
+   "id": "nat_tail",
+   "word": "tail",
+   "pos": "noun",
+   "ipa": "/teɪl/",
+   "level": "B1",
+   "meaning": "cái đuôi",
+   "definition": "the part at the end of an animal's body",
+   "collocations": [
+    "wag its tail"
+   ],
+   "examples": [
+    {
+     "en": "The dog wagged its *tail* happily.",
+     "vi": "Con chó vẫy đuôi vui vẻ."
+    }
+   ]
+  },
+  {
+   "id": "nat_wing",
+   "word": "wing",
+   "pos": "noun",
+   "ipa": "/wɪŋ/",
+   "level": "B1",
+   "meaning": "cánh; dãy nhà",
+   "definition": "the part used for flying; a part of a building",
+   "collocations": [
+    "bird wings",
+    "the east wing"
+   ],
+   "examples": [
+    {
+     "en": "The meeting room is in the west *wing*.",
+     "vi": "Phòng họp nằm ở dãy nhà phía tây."
+    }
+   ]
+  },
+  {
+   "id": "nat_shell",
+   "word": "shell",
+   "pos": "noun",
+   "ipa": "/ʃel/",
+   "level": "B1",
+   "meaning": "vỏ (ốc, trứng, hạt)",
+   "definition": "the hard outer part of an egg, nut or sea animal",
+   "collocations": [
+    "sea shells",
+    "egg shell"
+   ],
+   "examples": [
+    {
+     "en": "The children collected *shells* on the beach.",
+     "vi": "Bọn trẻ nhặt vỏ ốc trên bãi biển."
+    }
+   ]
+  },
+  {
+   "id": "nat_hunt",
+   "word": "hunt",
+   "pos": "verb",
+   "ipa": "/hʌnt/",
+   "level": "B1",
+   "meaning": "săn bắt; tìm kiếm",
+   "definition": "to chase and kill animals; to search hard",
+   "collocations": [
+    "hunt for",
+    "job hunting"
+   ],
+   "examples": [
+    {
+     "en": "I've been *hunting* for a new flat for weeks.",
+     "vi": "Tôi đã tìm căn hộ mới mấy tuần nay."
+    }
+   ]
+  },
+  {
+   "id": "nat_hunting",
+   "word": "hunting",
+   "pos": "noun",
+   "ipa": "/ˈhʌntɪŋ/",
+   "level": "B2",
+   "meaning": "việc săn bắn; việc tìm kiếm",
+   "definition": "the activity of hunting",
+   "collocations": [
+    "job hunting",
+    "go hunting"
+   ],
+   "examples": [
+    {
+     "en": "Job *hunting* can be stressful.",
+     "vi": "Tìm việc có thể rất căng thẳng."
+    }
+   ]
+  },
+  {
+   "id": "nat_fossil",
+   "word": "fossil",
+   "pos": "noun",
+   "ipa": "/ˈfɑːsl/",
+   "level": "B2",
+   "meaning": "hóa thạch",
+   "definition": "the remains of an ancient animal or plant in rock",
+   "collocations": [
+    "fossil fuels"
+   ],
+   "examples": [
+    {
+     "en": "We need to use fewer *fossil* fuels.",
+     "vi": "Chúng ta cần dùng ít nhiên liệu hóa thạch hơn."
+    }
+   ]
+  },
+  {
+   "id": "nat_coal",
+   "word": "coal",
+   "pos": "noun",
+   "ipa": "/koʊl/",
+   "level": "B1",
+   "meaning": "than đá",
+   "definition": "a black rock burned for energy",
+   "collocations": [
+    "coal mine",
+    "coal power"
+   ],
+   "examples": [
+    {
+     "en": "Many power stations still burn *coal*.",
+     "vi": "Nhiều nhà máy điện vẫn đốt than."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

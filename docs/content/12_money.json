@@ -1,0 +1,1009 @@
+{
+ "id": "money",
+ "order": 12,
+ "icon": "💰",
+ "level": "B2",
+ "title": "Money & Economy",
+ "title_vi": "Tiền bạc & Kinh tế",
+ "description": "Thu nhập, chi phí, vay nợ, thuế, nền kinh tế: từ vựng tài chính cốt lõi cho TOEIC và đọc báo.",
+ "words": [
+  {
+   "id": "mon_finance",
+   "word": "finance",
+   "pos": "noun",
+   "ipa": "/ˈfaɪnæns/",
+   "level": "B2",
+   "meaning": "tài chính",
+   "definition": "the management of money",
+   "collocations": [
+    "finance department",
+    "personal finance",
+    "corporate finance"
+   ],
+   "examples": [
+    {
+     "en": "She works in the *finance* department.",
+     "vi": "Cô ấy làm ở phòng tài chính."
+    }
+   ]
+  },
+  {
+   "id": "mon_financial",
+   "word": "financial",
+   "pos": "adjective",
+   "ipa": "/faɪˈnænʃl/",
+   "level": "B1",
+   "meaning": "thuộc tài chính",
+   "definition": "connected with money",
+   "collocations": [
+    "financial report",
+    "financial support",
+    "financial year"
+   ],
+   "examples": [
+    {
+     "en": "The *financial* report will be released on Monday.",
+     "vi": "Báo cáo tài chính sẽ được công bố vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "mon_fund",
+   "word": "fund",
+   "pos": "noun",
+   "ipa": "/fʌnd/",
+   "level": "B2",
+   "meaning": "quỹ; tiền vốn",
+   "definition": "an amount of money collected for a purpose",
+   "collocations": [
+    "raise funds",
+    "lack of funds",
+    "investment fund"
+   ],
+   "examples": [
+    {
+     "en": "The school is trying to raise *funds* for a new library.",
+     "vi": "Trường đang gây quỹ để xây thư viện mới."
+    }
+   ],
+   "note": "Động từ: fund a project = tài trợ dự án."
+  },
+  {
+   "id": "mon_funding",
+   "word": "funding",
+   "pos": "noun",
+   "ipa": "/ˈfʌndɪŋ/",
+   "level": "B2",
+   "meaning": "nguồn tài trợ, kinh phí",
+   "definition": "money provided for a particular purpose",
+   "collocations": [
+    "government funding",
+    "receive funding",
+    "secure funding"
+   ],
+   "examples": [
+    {
+     "en": "The project received *funding* from the city.",
+     "vi": "Dự án nhận được kinh phí từ thành phố."
+    }
+   ]
+  },
+  {
+   "id": "mon_grant",
+   "word": "grant",
+   "pos": "noun",
+   "ipa": "/ɡrænt/",
+   "level": "B2",
+   "meaning": "khoản trợ cấp, tài trợ",
+   "definition": "money given by a government or organization for a purpose",
+   "collocations": [
+    "research grant",
+    "apply for a grant",
+    "receive a grant"
+   ],
+   "examples": [
+    {
+     "en": "She received a *grant* to study abroad.",
+     "vi": "Cô ấy nhận được một khoản tài trợ để du học."
+    }
+   ],
+   "note": "Động từ grant = cấp, cho phép (grant permission)."
+  },
+  {
+   "id": "mon_income",
+   "word": "income",
+   "pos": "noun",
+   "ipa": "/ˈɪnkʌm/",
+   "level": "B2",
+   "meaning": "thu nhập",
+   "definition": "money received from work or investments",
+   "collocations": [
+    "annual income",
+    "low-income families",
+    "source of income"
+   ],
+   "examples": [
+    {
+     "en": "Rent takes up a third of my *income*.",
+     "vi": "Tiền thuê nhà chiếm một phần ba thu nhập của tôi."
+    }
+   ]
+  },
+  {
+   "id": "mon_wage",
+   "word": "wage",
+   "pos": "noun",
+   "ipa": "/weɪdʒ/",
+   "level": "B2",
+   "meaning": "tiền công (theo giờ/tuần)",
+   "definition": "money paid for work, usually weekly or hourly",
+   "collocations": [
+    "minimum wage",
+    "hourly wage",
+    "wage increase"
+   ],
+   "examples": [
+    {
+     "en": "The *minimum wage* will rise next year.",
+     "vi": "Lương tối thiểu sẽ tăng vào năm tới."
+    }
+   ],
+   "note": "salary = lương tháng/năm cố định; wage = theo giờ/tuần."
+  },
+  {
+   "id": "mon_pension",
+   "word": "pension",
+   "pos": "noun",
+   "ipa": "/ˈpenʃn/",
+   "level": "B2",
+   "meaning": "lương hưu",
+   "definition": "money paid regularly to a retired person",
+   "collocations": [
+    "pension plan",
+    "state pension",
+    "receive a pension"
+   ],
+   "examples": [
+    {
+     "en": "He lives on a small *pension*.",
+     "vi": "Ông ấy sống bằng khoản lương hưu ít ỏi."
+    }
+   ]
+  },
+  {
+   "id": "mon_expense",
+   "word": "expense",
+   "pos": "noun",
+   "ipa": "/ɪkˈspens/",
+   "level": "B2",
+   "meaning": "chi phí, khoản chi",
+   "definition": "money spent on something",
+   "collocations": [
+    "travel expenses",
+    "business expenses",
+    "at the company's expense"
+   ],
+   "examples": [
+    {
+     "en": "The company will cover all travel *expenses*.",
+     "vi": "Công ty sẽ chi trả toàn bộ chi phí đi lại."
+    }
+   ],
+   "note": "expense report = báo cáo chi phí (TOEIC)."
+  },
+  {
+   "id": "mon_spending",
+   "word": "spending",
+   "pos": "noun",
+   "ipa": "/ˈspendɪŋ/",
+   "level": "B1",
+   "meaning": "sự chi tiêu",
+   "definition": "the amount of money spent",
+   "collocations": [
+    "government spending",
+    "consumer spending",
+    "cut spending"
+   ],
+   "examples": [
+    {
+     "en": "Consumer *spending* rose during the holidays.",
+     "vi": "Chi tiêu tiêu dùng tăng trong kỳ nghỉ lễ."
+    }
+   ]
+  },
+  {
+   "id": "mon_fee",
+   "word": "fee",
+   "pos": "noun",
+   "ipa": "/fiː/",
+   "level": "B2",
+   "meaning": "phí, lệ phí",
+   "definition": "money paid for a service or to join something",
+   "collocations": [
+    "registration fee",
+    "late fee",
+    "membership fee"
+   ],
+   "examples": [
+    {
+     "en": "There is a small *fee* for late payment.",
+     "vi": "Có một khoản phí nhỏ nếu thanh toán trễ."
+    }
+   ]
+  },
+  {
+   "id": "mon_payment",
+   "word": "payment",
+   "pos": "noun",
+   "ipa": "/ˈpeɪmənt/",
+   "level": "B1",
+   "meaning": "sự thanh toán; khoản tiền trả",
+   "definition": "an amount of money paid",
+   "collocations": [
+    "make a payment",
+    "monthly payment",
+    "payment method"
+   ],
+   "examples": [
+    {
+     "en": "We accept *payment* by credit card.",
+     "vi": "Chúng tôi nhận thanh toán bằng thẻ tín dụng."
+    }
+   ]
+  },
+  {
+   "id": "mon_credit",
+   "word": "credit",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt/",
+   "level": "B2",
+   "meaning": "tín dụng; sự ghi nhận công lao",
+   "definition": "an arrangement to pay later; praise for something done",
+   "collocations": [
+    "credit card",
+    "on credit",
+    "take credit for"
+   ],
+   "examples": [
+    {
+     "en": "She deserves *credit* for the success of the project.",
+     "vi": "Cô ấy xứng đáng được ghi nhận cho thành công của dự án."
+    }
+   ]
+  },
+  {
+   "id": "mon_debt",
+   "word": "debt",
+   "pos": "noun",
+   "ipa": "/det/",
+   "level": "B2",
+   "meaning": "món nợ",
+   "definition": "money that you owe",
+   "collocations": [
+    "in debt",
+    "pay off a debt",
+    "get into debt"
+   ],
+   "examples": [
+    {
+     "en": "It took him five years to pay off his *debt*.",
+     "vi": "Anh ấy mất 5 năm để trả hết nợ."
+    }
+   ],
+   "note": "Chữ b câm: /det/."
+  },
+  {
+   "id": "mon_loan",
+   "word": "loan",
+   "pos": "noun",
+   "ipa": "/loʊn/",
+   "level": "B2",
+   "meaning": "khoản vay",
+   "definition": "money that a bank lends",
+   "collocations": [
+    "take out a loan",
+    "bank loan",
+    "repay a loan"
+   ],
+   "examples": [
+    {
+     "en": "They took out a *loan* to buy new equipment.",
+     "vi": "Họ vay ngân hàng để mua thiết bị mới."
+    }
+   ]
+  },
+  {
+   "id": "mon_owe",
+   "word": "owe",
+   "pos": "verb",
+   "ipa": "/oʊ/",
+   "level": "B2",
+   "meaning": "nợ",
+   "definition": "to have to pay money back to someone",
+   "collocations": [
+    "owe money",
+    "owe someone a favour"
+   ],
+   "examples": [
+    {
+     "en": "I still *owe* you $20 for lunch.",
+     "vi": "Tôi vẫn còn nợ bạn 20 đô tiền ăn trưa."
+    }
+   ]
+  },
+  {
+   "id": "mon_mortgage",
+   "word": "mortgage",
+   "pos": "noun",
+   "ipa": "/ˈmɔːrɡɪdʒ/",
+   "level": "B2",
+   "meaning": "khoản vay mua nhà",
+   "definition": "a loan to buy a house",
+   "collocations": [
+    "take out a mortgage",
+    "pay off the mortgage",
+    "mortgage rate"
+   ],
+   "examples": [
+    {
+     "en": "They pay their *mortgage* every month.",
+     "vi": "Họ trả tiền vay mua nhà hàng tháng."
+    }
+   ],
+   "note": "Chữ t câm: MOR-gij."
+  },
+  {
+   "id": "mon_deposit",
+   "word": "deposit",
+   "pos": "noun",
+   "ipa": "/dɪˈpɑːzɪt/",
+   "level": "B2",
+   "meaning": "tiền đặt cọc; tiền gửi",
+   "definition": "money paid first as part of a payment; money put in a bank",
+   "collocations": [
+    "pay a deposit",
+    "security deposit",
+    "make a deposit"
+   ],
+   "examples": [
+    {
+     "en": "A 10% *deposit* is required to book the room.",
+     "vi": "Cần đặt cọc 10% để đặt phòng."
+    }
+   ]
+  },
+  {
+   "id": "mon_saving",
+   "word": "saving",
+   "pos": "noun",
+   "ipa": "/ˈseɪvɪŋ/",
+   "level": "B2",
+   "meaning": "tiền tiết kiệm; sự tiết kiệm",
+   "definition": "money you keep; an amount not spent",
+   "collocations": [
+    "savings account",
+    "cost savings",
+    "life savings"
+   ],
+   "examples": [
+    {
+     "en": "The new system will bring big cost *savings*.",
+     "vi": "Hệ thống mới sẽ giúp tiết kiệm chi phí đáng kể."
+    }
+   ]
+  },
+  {
+   "id": "mon_tax",
+   "word": "tax",
+   "pos": "noun",
+   "ipa": "/tæks/",
+   "level": "B1",
+   "meaning": "thuế",
+   "definition": "money paid to the government",
+   "collocations": [
+    "income tax",
+    "pay tax",
+    "tax rate",
+    "including tax"
+   ],
+   "examples": [
+    {
+     "en": "All prices include *tax*.",
+     "vi": "Tất cả giá đã bao gồm thuế."
+    }
+   ]
+  },
+  {
+   "id": "mon_currency",
+   "word": "currency",
+   "pos": "noun",
+   "ipa": "/ˈkɜːrənsi/",
+   "level": "B1",
+   "meaning": "tiền tệ",
+   "definition": "the money used in a country",
+   "collocations": [
+    "foreign currency",
+    "local currency",
+    "exchange currency"
+   ],
+   "examples": [
+    {
+     "en": "You can pay in local *currency* or US dollars.",
+     "vi": "Bạn có thể trả bằng tiền địa phương hoặc đô la Mỹ."
+    }
+   ]
+  },
+  {
+   "id": "mon_coin",
+   "word": "coin",
+   "pos": "noun",
+   "ipa": "/kɔɪn/",
+   "level": "B1",
+   "meaning": "đồng xu",
+   "definition": "a small flat piece of metal used as money",
+   "collocations": [
+    "a gold coin",
+    "insert a coin"
+   ],
+   "examples": [
+    {
+     "en": "Insert a *coin* to start the machine.",
+     "vi": "Bỏ một đồng xu để khởi động máy."
+    }
+   ]
+  },
+  {
+   "id": "mon_economy",
+   "word": "economy",
+   "pos": "noun",
+   "ipa": "/ɪˈkɑːnəmi/",
+   "level": "B1",
+   "meaning": "nền kinh tế",
+   "definition": "the system of money, trade and industry of a country",
+   "collocations": [
+    "the global economy",
+    "a strong economy",
+    "boost the economy"
+   ],
+   "examples": [
+    {
+     "en": "Tourism is important for the local *economy*.",
+     "vi": "Du lịch quan trọng với nền kinh tế địa phương."
+    }
+   ],
+   "note": "economy class = hạng phổ thông."
+  },
+  {
+   "id": "mon_economic",
+   "word": "economic",
+   "pos": "adjective",
+   "ipa": "/ˌiːkəˈnɑːmɪk/",
+   "level": "B1",
+   "meaning": "thuộc kinh tế",
+   "definition": "connected with the economy",
+   "collocations": [
+    "economic growth",
+    "economic crisis",
+    "economic policy"
+   ],
+   "examples": [
+    {
+     "en": "The country has seen strong *economic* growth.",
+     "vi": "Đất nước có tăng trưởng kinh tế mạnh."
+    }
+   ],
+   "note": "economical = tiết kiệm (an economical car)."
+  },
+  {
+   "id": "mon_economics",
+   "word": "economics",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˈnɑːmɪks/",
+   "level": "B2",
+   "meaning": "kinh tế học",
+   "definition": "the study of how money, trade and industry work",
+   "collocations": [
+    "study economics",
+    "a degree in economics"
+   ],
+   "examples": [
+    {
+     "en": "She has a degree in *economics*.",
+     "vi": "Cô ấy có bằng kinh tế học."
+    }
+   ]
+  },
+  {
+   "id": "mon_economist",
+   "word": "economist",
+   "pos": "noun",
+   "ipa": "/ɪˈkɑːnəmɪst/",
+   "level": "B2",
+   "meaning": "nhà kinh tế học",
+   "definition": "an expert in economics",
+   "collocations": [
+    "a leading economist",
+    "economists predict"
+   ],
+   "examples": [
+    {
+     "en": "*Economists* predict that prices will rise.",
+     "vi": "Các nhà kinh tế dự đoán giá cả sẽ tăng."
+    }
+   ]
+  },
+  {
+   "id": "mon_inflation",
+   "word": "inflation",
+   "pos": "noun",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "level": "B2",
+   "meaning": "lạm phát",
+   "definition": "a general rise in prices",
+   "collocations": [
+    "high inflation",
+    "inflation rate",
+    "control inflation"
+   ],
+   "examples": [
+    {
+     "en": "*Inflation* reached 4% last year.",
+     "vi": "Lạm phát đạt 4% năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "mon_recession",
+   "word": "recession",
+   "pos": "noun",
+   "ipa": "/rɪˈseʃn/",
+   "level": "B2",
+   "meaning": "suy thoái kinh tế",
+   "definition": "a period when the economy is doing badly",
+   "collocations": [
+    "economic recession",
+    "in recession",
+    "during the recession"
+   ],
+   "examples": [
+    {
+     "en": "Many firms closed during the *recession*.",
+     "vi": "Nhiều công ty đóng cửa trong thời kỳ suy thoái."
+    }
+   ]
+  },
+  {
+   "id": "mon_wealth",
+   "word": "wealth",
+   "pos": "noun",
+   "ipa": "/welθ/",
+   "level": "B2",
+   "meaning": "sự giàu có, của cải",
+   "definition": "a large amount of money or property",
+   "collocations": [
+    "great wealth",
+    "create wealth",
+    "the distribution of wealth"
+   ],
+   "examples": [
+    {
+     "en": "Tourism has brought *wealth* to the region.",
+     "vi": "Du lịch đã mang lại sự giàu có cho vùng này."
+    }
+   ]
+  },
+  {
+   "id": "mon_wealthy",
+   "word": "wealthy",
+   "pos": "adjective",
+   "ipa": "/ˈwelθi/",
+   "level": "B2",
+   "meaning": "giàu có",
+   "definition": "having a lot of money",
+   "collocations": [
+    "a wealthy family",
+    "wealthy customers"
+   ],
+   "examples": [
+    {
+     "en": "The resort attracts *wealthy* tourists.",
+     "vi": "Khu nghỉ dưỡng thu hút du khách giàu có."
+    }
+   ]
+  },
+  {
+   "id": "mon_fortune",
+   "word": "fortune",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrtʃən/",
+   "level": "B2",
+   "meaning": "tài sản lớn; vận may",
+   "definition": "a large amount of money; luck",
+   "collocations": [
+    "make a fortune",
+    "cost a fortune",
+    "good fortune"
+   ],
+   "examples": [
+    {
+     "en": "That watch must have cost a *fortune*.",
+     "vi": "Cái đồng hồ đó chắc phải tốn cả gia tài."
+    }
+   ]
+  },
+  {
+   "id": "mon_billionaire",
+   "word": "billionaire",
+   "pos": "noun",
+   "ipa": "/ˌbɪljəˈner/",
+   "level": "B2",
+   "meaning": "tỷ phú",
+   "definition": "a person who has at least a billion dollars",
+   "collocations": [
+    "a tech billionaire",
+    "become a billionaire"
+   ],
+   "examples": [
+    {
+     "en": "The *billionaire* donated millions to charity.",
+     "vi": "Vị tỷ phú đã quyên góp hàng triệu đô cho từ thiện."
+    }
+   ]
+  },
+  {
+   "id": "mon_poverty",
+   "word": "poverty",
+   "pos": "noun",
+   "ipa": "/ˈpɑːvərti/",
+   "level": "B1",
+   "meaning": "sự nghèo đói",
+   "definition": "the state of being very poor",
+   "collocations": [
+    "live in poverty",
+    "reduce poverty",
+    "poverty line"
+   ],
+   "examples": [
+    {
+     "en": "The charity helps families living in *poverty*.",
+     "vi": "Tổ chức từ thiện giúp các gia đình sống trong nghèo khó."
+    }
+   ]
+  },
+  {
+   "id": "mon_welfare",
+   "word": "welfare",
+   "pos": "noun",
+   "ipa": "/ˈwelfer/",
+   "level": "B2",
+   "meaning": "phúc lợi; sự an sinh",
+   "definition": "help given to people in need; health and happiness",
+   "collocations": [
+    "social welfare",
+    "employee welfare",
+    "animal welfare"
+   ],
+   "examples": [
+    {
+     "en": "The company cares about employee *welfare*.",
+     "vi": "Công ty quan tâm đến phúc lợi của nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "mon_insurance",
+   "word": "insurance",
+   "pos": "noun",
+   "ipa": "/ɪnˈʃʊrəns/",
+   "level": "B2",
+   "meaning": "bảo hiểm",
+   "definition": "an arrangement where you pay a company and they pay you if something bad happens",
+   "collocations": [
+    "health insurance",
+    "travel insurance",
+    "insurance policy"
+   ],
+   "examples": [
+    {
+     "en": "Does your job include health *insurance*?",
+     "vi": "Công việc của bạn có bảo hiểm y tế không?"
+    }
+   ]
+  },
+  {
+   "id": "mon_lottery",
+   "word": "lottery",
+   "pos": "noun",
+   "ipa": "/ˈlɑːtəri/",
+   "level": "B2",
+   "meaning": "xổ số",
+   "definition": "a game where people buy tickets to win money",
+   "collocations": [
+    "win the lottery",
+    "lottery ticket"
+   ],
+   "examples": [
+    {
+     "en": "He bought a *lottery* ticket on the way home.",
+     "vi": "Anh ấy mua một tờ vé số trên đường về."
+    }
+   ]
+  },
+  {
+   "id": "mon_bet",
+   "word": "bet",
+   "pos": "verb",
+   "ipa": "/bet/",
+   "level": "B2",
+   "meaning": "đánh cược; dám chắc",
+   "definition": "to risk money on a result; to be sure",
+   "collocations": [
+    "bet on",
+    "I bet (that)"
+   ],
+   "examples": [
+    {
+     "en": "I *bet* the meeting will run late again.",
+     "vi": "Tôi dám chắc cuộc họp lại kéo dài nữa cho xem."
+    }
+   ],
+   "note": "Văn nói: \"You bet!\" = Chắc chắn rồi!"
+  },
+  {
+   "id": "mon_rent",
+   "word": "rent",
+   "pos": "noun",
+   "ipa": "/rent/",
+   "level": "B1",
+   "meaning": "tiền thuê",
+   "definition": "money paid regularly to use a place",
+   "collocations": [
+    "pay the rent",
+    "monthly rent",
+    "for rent"
+   ],
+   "examples": [
+    {
+     "en": "The *rent* for the office is $2,000 a month.",
+     "vi": "Tiền thuê văn phòng là 2.000 đô một tháng."
+    }
+   ]
+  },
+  {
+   "id": "mon_property",
+   "word": "property",
+   "pos": "noun",
+   "ipa": "/ˈprɑːpərti/",
+   "level": "B1",
+   "meaning": "bất động sản; tài sản",
+   "definition": "a building and its land; things that someone owns",
+   "collocations": [
+    "private property",
+    "property market",
+    "personal property"
+   ],
+   "examples": [
+    {
+     "en": "*Property* prices in the city keep rising.",
+     "vi": "Giá bất động sản trong thành phố liên tục tăng."
+    }
+   ]
+  },
+  {
+   "id": "mon_estate",
+   "word": "estate",
+   "pos": "noun",
+   "ipa": "/ɪˈsteɪt/",
+   "level": "B2",
+   "meaning": "khu đất lớn; tài sản",
+   "definition": "a large area of land; all the money and property someone owns",
+   "collocations": [
+    "real estate",
+    "housing estate",
+    "estate agent"
+   ],
+   "examples": [
+    {
+     "en": "She works in *real estate*.",
+     "vi": "Cô ấy làm trong ngành bất động sản."
+    }
+   ]
+  },
+  {
+   "id": "mon_valuable",
+   "word": "valuable",
+   "pos": "adjective",
+   "ipa": "/ˈvæljuəbl/",
+   "level": "B1",
+   "meaning": "có giá trị, quý",
+   "definition": "worth a lot of money; very useful",
+   "collocations": [
+    "valuable information",
+    "valuable experience"
+   ],
+   "examples": [
+    {
+     "en": "The internship gave me *valuable* experience.",
+     "vi": "Kỳ thực tập cho tôi kinh nghiệm quý giá."
+    }
+   ]
+  },
+  {
+   "id": "mon_value",
+   "word": "value",
+   "pos": "noun",
+   "ipa": "/ˈvæljuː/",
+   "level": "B1",
+   "meaning": "giá trị",
+   "definition": "how much something is worth",
+   "collocations": [
+    "market value",
+    "good value for money",
+    "increase in value"
+   ],
+   "examples": [
+    {
+     "en": "The hotel offers good *value* for money.",
+     "vi": "Khách sạn có giá cả xứng đáng với chất lượng."
+    }
+   ]
+  },
+  {
+   "id": "mon_rate",
+   "word": "rate",
+   "pos": "noun",
+   "ipa": "/reɪt/",
+   "level": "B2",
+   "meaning": "tỷ lệ; mức giá",
+   "definition": "a level or speed; a fixed price",
+   "collocations": [
+    "interest rate",
+    "exchange rate",
+    "at a rate of"
+   ],
+   "examples": [
+    {
+     "en": "The bank offers a low interest *rate*.",
+     "vi": "Ngân hàng đưa ra lãi suất thấp."
+    }
+   ]
+  },
+  {
+   "id": "mon_percentage",
+   "word": "percentage",
+   "pos": "noun",
+   "ipa": "/pərˈsentɪdʒ/",
+   "level": "B1",
+   "meaning": "tỷ lệ phần trăm",
+   "definition": "an amount shown as part of 100",
+   "collocations": [
+    "a high percentage",
+    "a percentage of"
+   ],
+   "examples": [
+    {
+     "en": "A large *percentage* of our customers are under 30.",
+     "vi": "Một tỷ lệ lớn khách hàng của chúng tôi dưới 30 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "mon_trillion",
+   "word": "trillion",
+   "pos": "number",
+   "ipa": "/ˈtrɪljən/",
+   "level": "B2",
+   "meaning": "nghìn tỷ",
+   "definition": "1,000,000,000,000",
+   "collocations": [
+    "a trillion dollars"
+   ],
+   "examples": [
+    {
+     "en": "The economy is worth over a *trillion* dollars.",
+     "vi": "Nền kinh tế này trị giá hơn một nghìn tỷ đô la."
+    }
+   ]
+  },
+  {
+   "id": "mon_index",
+   "word": "index",
+   "pos": "noun",
+   "ipa": "/ˈɪndeks/",
+   "level": "B2",
+   "meaning": "chỉ số; mục lục",
+   "definition": "a number showing the level of prices; a list at the end of a book",
+   "collocations": [
+    "price index",
+    "stock index"
+   ],
+   "examples": [
+    {
+     "en": "The stock market *index* fell 2% today.",
+     "vi": "Chỉ số thị trường chứng khoán giảm 2% hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "mon_affordable",
+   "word": "affordable",
+   "pos": "adjective",
+   "ipa": "/əˈfɔːrdəbl/",
+   "level": "B2",
+   "meaning": "giá phải chăng",
+   "definition": "cheap enough for most people to buy",
+   "collocations": [
+    "affordable prices",
+    "affordable housing"
+   ],
+   "examples": [
+    {
+     "en": "The city needs more *affordable* housing.",
+     "vi": "Thành phố cần thêm nhà ở giá rẻ."
+    }
+   ]
+  },
+  {
+   "id": "mon_annual",
+   "word": "annual",
+   "pos": "adjective",
+   "ipa": "/ˈænjuəl/",
+   "level": "B2",
+   "meaning": "hằng năm",
+   "definition": "happening once a year",
+   "collocations": [
+    "annual report",
+    "annual meeting",
+    "annual leave"
+   ],
+   "examples": [
+    {
+     "en": "The *annual* meeting will be held in March.",
+     "vi": "Cuộc họp thường niên sẽ diễn ra vào tháng Ba."
+    }
+   ],
+   "note": "annual leave = phép năm."
+  },
+  {
+   "id": "mon_annually",
+   "word": "annually",
+   "pos": "adverb",
+   "ipa": "/ˈænjuəli/",
+   "level": "B2",
+   "meaning": "hằng năm",
+   "definition": "once a year",
+   "collocations": [
+    "be held annually",
+    "reviewed annually"
+   ],
+   "examples": [
+    {
+     "en": "Salaries are reviewed *annually*.",
+     "vi": "Lương được xem xét lại hằng năm."
+    }
+   ]
+  },
+  {
+   "id": "mon_purchase",
+   "word": "purchase",
+   "pos": "noun",
+   "ipa": "/ˈpɜːrtʃəs/",
+   "level": "B2",
+   "meaning": "sự mua; món hàng đã mua",
+   "definition": "the act of buying something",
+   "collocations": [
+    "make a purchase",
+    "proof of purchase",
+    "purchase order"
+   ],
+   "examples": [
+    {
+     "en": "Please keep your receipt as proof of *purchase*.",
+     "vi": "Vui lòng giữ hóa đơn làm bằng chứng mua hàng."
+    }
+   ],
+   "note": "Trang trọng hơn buy. Động từ: purchase tickets."
+  }
+ ],
+ "phrases": []
+}

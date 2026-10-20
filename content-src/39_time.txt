@@ -1,0 +1,57 @@
+#id: time
+#prefix: tim
+#order: 39
+#icon: ⏰
+#title: Time & Frequency
+#title_vi: Thời gian & Tần suất
+#desc: Trước – sau, ban đầu – về sau, thường xuyên – thỉnh thoảng: dấu hiệu chia thì trong Part 5 và đọc lịch trình.
+afterwards | adverb | /ˈæftərwərdz/ | sau đó | later; after something | shortly afterwards | We had a meeting and went to lunch *afterwards*. | Chúng tôi họp rồi sau đó đi ăn trưa.
+formerly | adverb | /ˈfɔːrmərli/ | trước đây | in the past | formerly known as | The hotel was *formerly* a factory. | Khách sạn trước đây là một nhà máy.
+former | adjective | /ˈfɔːrmər/ | cũ, trước đây | from an earlier time | former employee; former manager | She is a *former* employee of our company. | Cô ấy là nhân viên cũ của công ty chúng tôi. | the former … the latter = cái trước … cái sau.
+lately | adverb | /ˈleɪtli/ | gần đây | recently | have been busy lately | I've been very busy *lately*. | Gần đây tôi rất bận.
+newly | adverb | /ˈnuːli/ | mới (vừa) | recently | newly opened; newly built | We had lunch at the *newly* opened restaurant. | Chúng tôi ăn trưa ở nhà hàng mới khai trương.
+nowadays | adverb | /ˈnaʊədeɪz/ | ngày nay | at the present time | Nowadays, … | *Nowadays*, most people shop online. | Ngày nay, hầu hết mọi người mua sắm trực tuyến.
+overnight | adverb | /ˌoʊvərˈnaɪt/ | qua đêm; chỉ sau một đêm | during the night; suddenly | stay overnight; overnight delivery | The package will be delivered *overnight*. | Gói hàng sẽ được giao trong đêm.
+previous | adjective | /ˈpriːviəs/ | trước đó | happening before | previous experience; the previous day | *Previous* experience is not required. | Không yêu cầu kinh nghiệm trước đó.
+previously | adverb | /ˈpriːviəsli/ | trước đây | before | as previously mentioned | As *previously* mentioned, the office will close at 3 p.m. | Như đã đề cập trước đó, văn phòng sẽ đóng cửa lúc 3 giờ chiều.
+prior | adjective | /ˈpraɪər/ | trước | happening before | prior to; prior experience; prior notice | Please arrive 30 minutes *prior* to the start. | Vui lòng đến 30 phút trước khi bắt đầu. | prior to = before (trang trọng, rất hay gặp TOEIC).
+shortly | adverb | /ˈʃɔːrtli/ | sắp, không lâu nữa | soon | shortly after; shortly before | The train will arrive *shortly*. | Tàu sẽ đến trong ít phút nữa.
+sometime | adverb | /ˈsʌmtaɪm/ | vào lúc nào đó | at a time not known | sometime next week | Let's meet *sometime* next week. | Tuần sau mình gặp nhau lúc nào đó nhé.
+subsequent | adjective | /ˈsʌbsɪkwənt/ | tiếp theo, sau đó | happening after something | subsequent years; subsequent to | Sales rose in *subsequent* months. | Doanh số tăng trong những tháng sau đó.
+subsequently | adverb | /ˈsʌbsɪkwəntli/ | sau đó | afterwards | was subsequently | He joined as an intern and was *subsequently* hired. | Anh ấy vào làm thực tập rồi sau đó được tuyển chính thức.
+initial | adjective | /ɪˈnɪʃl/ | ban đầu | happening at the beginning | initial stage; initial cost | The *initial* cost is high, but it saves money later. | Chi phí ban đầu cao nhưng về sau tiết kiệm.
+initially | adverb | /ɪˈnɪʃəli/ | lúc đầu | at the beginning | initially planned | *Initially*, the project was planned for six months. | Lúc đầu dự án được lên kế hoạch sáu tháng.
+instant | adjective | /ˈɪnstənt/ | ngay lập tức; ăn liền | happening immediately | instant access; instant coffee; instant message | Members get *instant* access to all videos. | Hội viên được truy cập ngay mọi video.
+instantly | adverb | /ˈɪnstəntli/ | ngay lập tức | immediately | instantly recognizable | The app updates *instantly*. | Ứng dụng cập nhật ngay lập tức.
+immediate | adjective | /ɪˈmiːdiət/ | ngay lập tức; trực tiếp | happening now; nearest | immediate action; immediate supervisor | Please report to your *immediate* supervisor. | Vui lòng báo cáo cho người giám sát trực tiếp.
+frequent | adjective | /ˈfriːkwənt/ | thường xuyên | happening often | frequent flyer; frequent visitor | *Frequent* customers receive a loyalty card. | Khách hàng thường xuyên nhận thẻ thành viên.
+frequently | adverb | /ˈfriːkwəntli/ | thường xuyên | often | frequently asked questions (FAQ) | Please read the *frequently* asked questions first. | Vui lòng đọc phần câu hỏi thường gặp trước.
+frequency | noun | /ˈfriːkwənsi/ | tần suất | how often something happens | increase the frequency | The *frequency* of buses will increase in summer. | Tần suất xe buýt sẽ tăng vào mùa hè.
+occasionally | adverb | /əˈkeɪʒnəli/ | thỉnh thoảng | sometimes but not often | only occasionally | I *occasionally* work on Saturdays. | Thỉnh thoảng tôi làm việc vào thứ Bảy.
+occasion | noun | /əˈkeɪʒn/ | dịp | a special event; a particular time | special occasion; on occasion | The restaurant is perfect for special *occasions*. | Nhà hàng rất phù hợp cho các dịp đặc biệt.
+regularly | adverb | /ˈreɡjələrli/ | đều đặn | often and at regular times | regularly check; meet regularly | Please check your e-mail *regularly*. | Vui lòng kiểm tra e-mail thường xuyên.
+constant | adjective | /ˈkɑːnstənt/ | liên tục, không đổi | happening all the time; staying the same | constant noise; constant temperature | Keep the medicine at a *constant* temperature. | Bảo quản thuốc ở nhiệt độ ổn định.
+constantly | adverb | /ˈkɑːnstəntli/ | liên tục | all the time | constantly changing; constantly improve | Technology is *constantly* changing. | Công nghệ liên tục thay đổi.
+continuous | adjective | /kənˈtɪnjuəs/ | liên tục | without stopping | continuous improvement; continuous growth | We believe in *continuous* improvement. | Chúng tôi tin vào cải tiến liên tục.
+consistent | adjective | /kənˈsɪstənt/ | nhất quán, ổn định | always the same | consistent quality; consistent with | The hotel offers *consistent* quality in every branch. | Khách sạn có chất lượng đồng đều ở mọi chi nhánh.
+consistently | adverb | /kənˈsɪstəntli/ | luôn luôn, nhất quán | in the same way every time | consistently high | Her work is *consistently* excellent. | Công việc của cô ấy luôn xuất sắc.
+ongoing | adjective | /ˈɑːnɡoʊɪŋ/ | đang diễn ra | continuing | ongoing project; ongoing training | Training is *ongoing* throughout the year. | Việc đào tạo diễn ra suốt năm.
+long-term | adjective | /ˌlɔːŋ ˈtɜːrm/ | dài hạn | lasting a long time | long-term goals; long-term contract | We are looking for a *long-term* partner. | Chúng tôi đang tìm đối tác lâu dài.
+short-term | adjective | /ˌʃɔːrt ˈtɜːrm/ | ngắn hạn | lasting a short time | short-term contract; short-term solution | This is only a *short-term* solution. | Đây chỉ là giải pháp ngắn hạn.
+lifetime | noun | /ˈlaɪftaɪm/ | cả đời | the time a person lives | once in a lifetime; lifetime warranty | The product comes with a *lifetime* warranty. | Sản phẩm được bảo hành trọn đời.
+duration | noun | /duˈreɪʃn/ | khoảng thời gian | the length of time something lasts | for the duration of; duration of the contract | Please stay seated for the *duration* of the flight. | Vui lòng ngồi yên trong suốt chuyến bay.
+interval | noun | /ˈɪntərvl/ | khoảng thời gian giữa; giờ giải lao | a period between two events | at regular intervals; a 15-minute interval | Buses run at 10-minute *intervals*. | Xe buýt chạy cách nhau 10 phút.
+timing | noun | /ˈtaɪmɪŋ/ | sự chọn thời điểm | choosing when something happens | good timing; perfect timing | The *timing* of the launch is very important. | Thời điểm ra mắt rất quan trọng.
+timeline | noun | /ˈtaɪmlaɪn/ | dòng thời gian, tiến độ | a plan showing when things will happen | project timeline; tight timeline | Here is the *timeline* for the project. | Đây là tiến độ của dự án.
+monthly | adjective | /ˈmʌnθli/ | hằng tháng | happening every month | monthly meeting; monthly fee | There is a *monthly* fee of $10. | Có phí hằng tháng là 10 đô.
+weekly | adjective | /ˈwiːkli/ | hằng tuần | happening every week | weekly report; weekly meeting | Please send your *weekly* report every Friday. | Vui lòng gửi báo cáo tuần vào mỗi thứ Sáu.
+daily | adjective | /ˈdeɪli/ | hằng ngày | happening every day | daily routine; daily newspaper | The museum offers *daily* tours. | Bảo tàng có tour tham quan hằng ngày.
+forever | adverb | /fərˈevər/ | mãi mãi | for all time | last forever; take forever | The download is taking *forever*. | Tải xuống mãi không xong.
+sudden | adjective | /ˈsʌdn/ | đột ngột | happening quickly and unexpectedly | a sudden change; all of a sudden | There was a *sudden* change in plans. | Kế hoạch thay đổi đột ngột.
+precede | verb | /prɪˈsiːd/ | đến trước | to happen before | be preceded by | The meeting will be *preceded* by a short lunch. | Trước cuộc họp sẽ có bữa trưa nhẹ.
+sequence | noun | /ˈsiːkwəns/ | trình tự | a series of things in order | in sequence; sequence of events | Please follow the steps in *sequence*. | Vui lòng làm theo các bước theo thứ tự.
+upcoming | adjective | /ˈʌpkʌmɪŋ/ | sắp tới | happening soon | upcoming event; upcoming meeting | Please register for the *upcoming* conference. | Vui lòng đăng ký hội nghị sắp tới.
+recently | adverb | /ˈriːsntli/ | gần đây | not long ago | until recently; recently opened | The company *recently* opened an office in Da Nang. | Công ty mới mở văn phòng ở Đà Nẵng.
+punctual | adjective | /ˈpʌŋktʃuəl/ | đúng giờ | arriving at the right time | be punctual | Please be *punctual* for all meetings. | Vui lòng đúng giờ trong mọi cuộc họp.
+overdue | adjective | /ˌoʊvərˈduː/ | quá hạn | not done or paid by the expected time | overdue payment; overdue books | Your payment is two weeks *overdue*. | Khoản thanh toán của bạn đã quá hạn hai tuần.
+in advance | adverb | /ɪn ədˈvæns/ | trước (thời hạn) | before a particular time | book in advance; pay in advance | Please book at least two days *in advance*. | Vui lòng đặt trước ít nhất hai ngày.

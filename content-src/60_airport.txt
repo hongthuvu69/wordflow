@@ -1,0 +1,55 @@
+#id: toeic_airport
+#prefix: tai
+#order: 60
+#icon: 🛫
+#title: TOEIC: Airports & Business Travel
+#title_vi: TOEIC: Sân bay & Công tác
+#desc: Thông báo sân bay, hành lý, quá cảnh, đổi chuyến, công tác: bối cảnh kinh điển của Part 4.
+carry-on | noun | /ˈkæri ɑːn/ | hành lý xách tay | a small bag you take on a plane | carry-on bag; one carry-on item | Each passenger may bring one *carry-on* bag. | Mỗi hành khách được mang một túi xách tay.
+checked baggage | noun | /ˌtʃekt ˈbæɡɪdʒ/ | hành lý ký gửi | bags put in the hold of a plane | checked baggage allowance | *Checked baggage* must not weigh more than 23 kg. | Hành lý ký gửi không được nặng quá 23 kg.
+baggage allowance | noun | /ˈbæɡɪdʒ əˌlaʊəns/ | mức hành lý miễn cước | the amount of luggage you may take free | exceed the baggage allowance | Check your *baggage allowance* before you fly. | Kiểm tra hạn mức hành lý trước khi bay.
+baggage claim | noun | /ˈbæɡɪdʒ kleɪm/ | khu nhận hành lý | the area where you collect luggage | at baggage claim | Collect your bags at *baggage claim* 4. | Nhận hành lý ở băng chuyền số 4.
+overhead bin | noun | /ˌoʊvərhed ˈbɪn/ | hộc hành lý trên đầu | the space above airplane seats for bags | place bags in the overhead bin | Please store your bags in the *overhead bin*. | Vui lòng để túi vào hộc phía trên.
+aisle | noun | /aɪl/ | lối đi | a passage between rows of seats | aisle seat; in the aisle | Please keep the *aisle* clear. | Vui lòng giữ lối đi thông thoáng. | Chữ s câm.
+gate | noun | /ɡeɪt/ | cửa ra máy bay | the place where passengers board a plane | boarding gate; gate 12 | Flight 205 is now boarding at *gate* 7. | Chuyến bay 205 đang lên máy bay tại cửa 7.
+layover | noun | /ˈleɪoʊvər/ | thời gian quá cảnh | a short stop between flights | a three-hour layover | I have a two-hour *layover* in Singapore. | Tôi quá cảnh hai tiếng ở Singapore.
+connecting flight | noun | /kəˌnektɪŋ ˈflaɪt/ | chuyến bay nối chuyến | a second flight to continue a journey | miss a connecting flight | I missed my *connecting flight* because of the delay. | Tôi lỡ chuyến nối vì bị trễ.
+direct flight | noun | /dəˌrekt ˈflaɪt/ | chuyến bay thẳng | a flight with no stops | book a direct flight | There are no *direct flights* to that city. | Không có chuyến bay thẳng đến thành phố đó.
+airline | noun | /ˈerlaɪn/ | hãng hàng không | a company that provides flights | budget airline; airline ticket | Which *airline* are you flying with? | Bạn bay hãng nào?
+flight attendant | noun | /ˈflaɪt əˌtendənt/ | tiếp viên hàng không | a person who looks after passengers on a plane | ask a flight attendant | A *flight attendant* is serving drinks. | Tiếp viên đang phục vụ đồ uống.
+pilot | noun | /ˈpaɪlət/ | phi công; thử nghiệm | a person who flies a plane; a test | pilot program | The *pilot* announced a short delay. | Phi công thông báo trễ một chút. | pilot project = dự án thí điểm.
+take off | verb | /ˌteɪk ˈɔːf/ | cất cánh; khởi sắc | to leave the ground; to become successful | the plane took off | The plane *took off* thirty minutes late. | Máy bay cất cánh trễ ba mươi phút.
+land | verb | /lænd/ | hạ cánh | to arrive on the ground | land safely; land at | We will *land* in Hanoi in about 20 minutes. | Chúng ta sẽ hạ cánh ở Hà Nội sau khoảng 20 phút.
+turbulence | noun | /ˈtɜːrbjələns/ | nhiễu động không khí | sudden movements of air that shake a plane | experience turbulence | Please fasten your seat belt; we are expecting *turbulence*. | Vui lòng thắt dây an toàn, sắp có nhiễu động.
+reschedule | verb | /ˌriːˈskedʒuːl/ | dời lịch | to change the time of something | reschedule a flight; reschedule a meeting | Can we *reschedule* the meeting to Thursday? | Chúng ta dời cuộc họp sang thứ Năm được không?
+rebook | verb | /ˌriːˈbʊk/ | đặt lại | to book again, often for a different time | rebook a flight | Passengers will be *rebooked* on the next flight. | Hành khách sẽ được đặt lại chuyến bay kế tiếp.
+overbooked | adjective | /ˌoʊvərˈbʊkt/ | bán vé quá số chỗ | having sold more seats than are available | the flight is overbooked | The flight was *overbooked*, so some passengers had to wait. | Chuyến bay bán quá chỗ nên một số hành khách phải chờ.
+security check | noun | /sɪˈkjʊrəti tʃek/ | kiểm tra an ninh | the process of checking passengers and bags | go through the security check | Allow 30 minutes for the *security check*. | Dành 30 phút cho khâu kiểm tra an ninh.
+passport control | noun | /ˈpæspɔːrt kənˌtroʊl/ | kiểm soát hộ chiếu | the place where passports are checked | go through passport control | There was a long queue at *passport control*. | Có hàng dài ở quầy kiểm soát hộ chiếu.
+departure lounge | noun | /dɪˈpɑːrtʃər laʊndʒ/ | phòng chờ khởi hành | the waiting area before boarding | wait in the departure lounge | Please wait in the *departure lounge* until your flight is called. | Vui lòng chờ ở phòng chờ cho đến khi chuyến bay được gọi.
+boarding | noun | /ˈbɔːrdɪŋ/ | việc lên máy bay | getting on a plane | boarding time; now boarding | *Boarding* begins 40 minutes before departure. | Lên máy bay bắt đầu 40 phút trước giờ khởi hành.
+jet lag | noun | /ˈdʒet læɡ/ | mệt mỏi do lệch múi giờ | tiredness after a long flight across time zones | suffer from jet lag | I'm still suffering from *jet lag*. | Tôi vẫn còn bị lệch múi giờ.
+frequent flyer | noun | /ˌfriːkwənt ˈflaɪər/ | hành khách bay thường xuyên | a person who flies often | frequent flyer miles | *Frequent flyer* members can use the lounge. | Hội viên bay thường xuyên được dùng phòng chờ.
+business class | noun | /ˈbɪznəs klæs/ | hạng thương gia | an expensive class of air travel | fly business class | Managers fly *business class* on long flights. | Các quản lý bay hạng thương gia trên chuyến dài.
+economy class | noun | /ɪˈkɑːnəmi klæs/ | hạng phổ thông | the cheapest class of air travel | an economy class ticket | Staff travel in *economy class*. | Nhân viên đi hạng phổ thông.
+business trip | noun | /ˈbɪznəs trɪp/ | chuyến công tác | a journey made for work | go on a business trip | He's on a *business trip* to Seoul. | Anh ấy đang đi công tác Seoul.
+travel agency | noun | /ˈtrævl ˌeɪdʒənsi/ | đại lý du lịch | a company that arranges travel | book through a travel agency | We booked the tour through a *travel agency*. | Chúng tôi đặt tour qua đại lý du lịch.
+travel arrangements | noun | /ˈtrævl əˌreɪndʒmənts/ | việc sắp xếp chuyến đi | plans for flights, hotels etc. | make travel arrangements | My assistant will make your *travel arrangements*. | Trợ lý của tôi sẽ sắp xếp chuyến đi cho bạn.
+round-trip ticket | noun | /ˌraʊnd trɪp ˈtɪkɪt/ | vé khứ hồi | a ticket to go and come back | buy a round-trip ticket | A *round-trip ticket* costs $350. | Vé khứ hồi giá 350 đô.
+one-way | adjective | /ˌwʌn ˈweɪ/ | một chiều | for travel in one direction | one-way ticket; one-way street | I only need a *one-way* ticket. | Tôi chỉ cần vé một chiều.
+e-ticket | noun | /ˈiː tɪkɪt/ | vé điện tử | an electronic ticket | print your e-ticket | Show your *e-ticket* on your phone. | Xuất trình vé điện tử trên điện thoại.
+car rental | noun | /ˈkɑːr ˌrentl/ | dịch vụ thuê xe | the service of renting a car | car rental company | The *car rental* desk is on the ground floor. | Quầy thuê xe ở tầng trệt.
+rent | verb | /rent/ | thuê | to pay to use something | rent a car; rent an apartment | We *rented* a car at the airport. | Chúng tôi thuê xe ở sân bay.
+taxi stand | noun | /ˈtæksi stænd/ | điểm đón taxi | a place where taxis wait | at the taxi stand | The *taxi stand* is outside Exit 3. | Điểm đón taxi ở ngoài lối ra số 3.
+currency exchange | noun | /ˈkɜːrənsi ɪksˌtʃeɪndʒ/ | quầy đổi tiền | a place to change money | at the currency exchange | You can change money at the *currency exchange*. | Bạn có thể đổi tiền tại quầy đổi ngoại tệ.
+duty-free | adjective | /ˌduːti ˈfriː/ | miễn thuế | without tax | duty-free shop | We bought chocolates at the *duty-free* shop. | Chúng tôi mua sô-cô-la ở cửa hàng miễn thuế.
+time difference | noun | /ˈtaɪm ˌdɪfrəns/ | chênh lệch múi giờ | the difference in time between places | a two-hour time difference | There is a seven-hour *time difference* with London. | Chênh lệch múi giờ với London là bảy tiếng.
+local time | noun | /ˈloʊkl taɪm/ | giờ địa phương | the time in a particular place | at 9 a.m. local time | We will arrive at 6 p.m. *local time*. | Chúng ta sẽ đến lúc 6 giờ chiều giờ địa phương.
+en route | adverb | /ˌɑːn ˈruːt/ | trên đường đi | on the way | en route to | We stopped in Dubai *en route* to London. | Chúng tôi dừng ở Dubai trên đường đến London.
+ground transportation | noun | /ˌɡraʊnd trænspɔːrˈteɪʃn/ | phương tiện mặt đất (từ sân bay) | buses, taxis and trains from an airport | arrange ground transportation | *Ground transportation* is available outside the terminal. | Có phương tiện đưa đón bên ngoài nhà ga.
+passenger list | noun | /ˈpæsɪndʒər lɪst/ | danh sách hành khách | a list of people on a flight or ship | check the passenger list | Your name is not on the *passenger list*. | Tên bạn không có trong danh sách hành khách.
+inflight | adjective | /ˈɪnflaɪt/ | trên máy bay | happening during a flight | inflight meal; inflight entertainment | The *inflight* meal was surprisingly good. | Bữa ăn trên máy bay ngon bất ngờ.
+seat belt | noun | /ˈsiːt belt/ | dây an toàn | a belt that holds you in a seat | fasten your seat belt | Keep your *seat belt* fastened while seated. | Thắt dây an toàn khi đang ngồi.
+emergency exit | noun | /ɪˈmɜːrdʒənsi ˌeksɪt/ | cửa thoát hiểm | a door used in an emergency | emergency exit row | Passengers in the *emergency exit* row must be over 15. | Hành khách ngồi hàng cửa thoát hiểm phải trên 15 tuổi.
+customs declaration | noun | /ˈkʌstəmz ˌdekləˌreɪʃn/ | tờ khai hải quan | a form listing goods you bring into a country | fill out a customs declaration | Please fill out the *customs declaration* form. | Vui lòng điền tờ khai hải quan.
+per diem | noun | /pɜːr ˈdiːəm/ | phụ cấp công tác theo ngày | money paid each day for travel costs | a daily per diem | Staff receive a *per diem* of $50 for meals. | Nhân viên được phụ cấp 50 đô mỗi ngày cho ăn uống.

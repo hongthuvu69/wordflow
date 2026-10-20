@@ -1,0 +1,907 @@
+{
+ "id": "industry",
+ "order": 46,
+ "icon": "🏭",
+ "level": "B2",
+ "title": "Industry & Materials",
+ "title_vi": "Công nghiệp & Vật liệu",
+ "description": "Nhà máy, kỹ thuật, nguyên vật liệu, xuất nhập khẩu, giao hàng: bối cảnh TOEIC về sản xuất và logistics.",
+ "words": [
+  {
+   "id": "ind_material",
+   "word": "material",
+   "pos": "noun",
+   "ipa": "/məˈtɪriəl/",
+   "level": "B2",
+   "meaning": "vật liệu; tài liệu",
+   "definition": "a substance used to make things; information for a purpose",
+   "collocations": [
+    "raw materials",
+    "building materials",
+    "training materials"
+   ],
+   "examples": [
+    {
+     "en": "The price of raw *materials* has gone up.",
+     "vi": "Giá nguyên vật liệu đã tăng."
+    }
+   ]
+  },
+  {
+   "id": "ind_component",
+   "word": "component",
+   "pos": "noun",
+   "ipa": "/kəmˈpoʊnənt/",
+   "level": "B2",
+   "meaning": "linh kiện, thành phần",
+   "definition": "one of the parts of a machine or system",
+   "collocations": [
+    "electronic components",
+    "key component"
+   ],
+   "examples": [
+    {
+     "en": "The factory makes *components* for smartphones.",
+     "vi": "Nhà máy sản xuất linh kiện cho điện thoại thông minh."
+    }
+   ]
+  },
+  {
+   "id": "ind_compound",
+   "word": "compound",
+   "pos": "noun",
+   "ipa": "/ˈkɑːmpaʊnd/",
+   "level": "B2",
+   "meaning": "hợp chất; khu (có tường bao)",
+   "definition": "a substance made of two or more elements; an enclosed area",
+   "collocations": [
+    "chemical compound",
+    "a factory compound"
+   ],
+   "examples": [
+    {
+     "en": "Water is a *compound* of hydrogen and oxygen.",
+     "vi": "Nước là hợp chất của hydro và oxy."
+    }
+   ]
+  },
+  {
+   "id": "ind_steel",
+   "word": "steel",
+   "pos": "noun",
+   "ipa": "/stiːl/",
+   "level": "B2",
+   "meaning": "thép",
+   "definition": "a strong metal made from iron",
+   "collocations": [
+    "stainless steel",
+    "steel industry"
+   ],
+   "examples": [
+    {
+     "en": "The bridge is made of *steel*.",
+     "vi": "Cây cầu được làm bằng thép."
+    }
+   ]
+  },
+  {
+   "id": "ind_brick",
+   "word": "brick",
+   "pos": "noun",
+   "ipa": "/brɪk/",
+   "level": "B2",
+   "meaning": "gạch",
+   "definition": "a block of baked clay used for building",
+   "collocations": [
+    "red brick",
+    "brick wall"
+   ],
+   "examples": [
+    {
+     "en": "The old factory is a red *brick* building.",
+     "vi": "Nhà máy cũ là một tòa nhà gạch đỏ."
+    }
+   ]
+  },
+  {
+   "id": "ind_concrete",
+   "word": "concrete",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnkriːt/",
+   "level": "B2",
+   "meaning": "bê tông",
+   "definition": "a hard building material",
+   "collocations": [
+    "concrete floor",
+    "reinforced concrete"
+   ],
+   "examples": [
+    {
+     "en": "Workers are pouring *concrete* for the foundation.",
+     "vi": "Công nhân đang đổ bê tông móng."
+    }
+   ],
+   "note": "Tính từ concrete = cụ thể (concrete examples)."
+  },
+  {
+   "id": "ind_engineering",
+   "word": "engineering",
+   "pos": "noun",
+   "ipa": "/ˌendʒɪˈnɪrɪŋ/",
+   "level": "B1",
+   "meaning": "ngành kỹ thuật",
+   "definition": "the work of designing machines, buildings etc.",
+   "collocations": [
+    "civil engineering",
+    "engineering department"
+   ],
+   "examples": [
+    {
+     "en": "He has a degree in mechanical *engineering*.",
+     "vi": "Anh ấy có bằng kỹ thuật cơ khí."
+    }
+   ]
+  },
+  {
+   "id": "ind_mechanic",
+   "word": "mechanic",
+   "pos": "noun",
+   "ipa": "/məˈkænɪk/",
+   "level": "B2",
+   "meaning": "thợ máy",
+   "definition": "a person who repairs engines",
+   "collocations": [
+    "car mechanic"
+   ],
+   "examples": [
+    {
+     "en": "The *mechanic* said the car needs new brakes.",
+     "vi": "Thợ máy nói xe cần thay phanh mới."
+    }
+   ]
+  },
+  {
+   "id": "ind_mechanical",
+   "word": "mechanical",
+   "pos": "adjective",
+   "ipa": "/məˈkænɪkl/",
+   "level": "B2",
+   "meaning": "thuộc cơ khí, máy móc",
+   "definition": "connected with machines",
+   "collocations": [
+    "mechanical problem",
+    "mechanical engineer"
+   ],
+   "examples": [
+    {
+     "en": "The flight was delayed due to a *mechanical* problem.",
+     "vi": "Chuyến bay bị hoãn do sự cố kỹ thuật."
+    }
+   ]
+  },
+  {
+   "id": "ind_structure",
+   "word": "structure",
+   "pos": "noun",
+   "ipa": "/ˈstrʌktʃər/",
+   "level": "B2",
+   "meaning": "cấu trúc; công trình",
+   "definition": "the way parts are arranged; a building",
+   "collocations": [
+    "company structure",
+    "steel structure"
+   ],
+   "examples": [
+    {
+     "en": "The company changed its management *structure*.",
+     "vi": "Công ty đã thay đổi cơ cấu quản lý."
+    }
+   ]
+  },
+  {
+   "id": "ind_surface",
+   "word": "surface",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrfɪs/",
+   "level": "B1",
+   "meaning": "bề mặt",
+   "definition": "the top or outside layer",
+   "collocations": [
+    "smooth surface",
+    "work surface"
+   ],
+   "examples": [
+    {
+     "en": "Clean all kitchen *surfaces* daily.",
+     "vi": "Lau sạch mọi bề mặt bếp hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "ind_foundation",
+   "word": "foundation",
+   "pos": "noun",
+   "ipa": "/faʊnˈdeɪʃn/",
+   "level": "B2",
+   "meaning": "nền móng; quỹ (từ thiện)",
+   "definition": "the base of a building; an organization that gives money",
+   "collocations": [
+    "lay the foundation",
+    "charitable foundation"
+   ],
+   "examples": [
+    {
+     "en": "The *foundation* supports education in rural areas.",
+     "vi": "Quỹ hỗ trợ giáo dục ở vùng nông thôn."
+    }
+   ]
+  },
+  {
+   "id": "ind_frame",
+   "word": "frame",
+   "pos": "noun",
+   "ipa": "/freɪm/",
+   "level": "B1",
+   "meaning": "khung",
+   "definition": "a structure that holds something",
+   "collocations": [
+    "picture frame",
+    "window frame",
+    "time frame"
+   ],
+   "examples": [
+    {
+     "en": "We need to finish within a short time *frame*.",
+     "vi": "Chúng ta cần hoàn thành trong khung thời gian ngắn."
+    }
+   ]
+  },
+  {
+   "id": "ind_load",
+   "word": "load",
+   "pos": "noun",
+   "ipa": "/loʊd/",
+   "level": "B2",
+   "meaning": "hàng chở; khối lượng",
+   "definition": "something carried; an amount of work",
+   "collocations": [
+    "a heavy load",
+    "workload"
+   ],
+   "examples": [
+    {
+     "en": "The truck was carrying a heavy *load*.",
+     "vi": "Chiếc xe tải chở hàng nặng."
+    }
+   ],
+   "note": "Động từ: load / unload = chất / dỡ hàng (Part 1)."
+  },
+  {
+   "id": "ind_labour",
+   "word": "labour",
+   "pos": "noun",
+   "ipa": "/ˈleɪbər/",
+   "level": "B2",
+   "meaning": "lao động; nhân công",
+   "definition": "work; workers",
+   "collocations": [
+    "labour costs",
+    "cheap labour",
+    "manual labour"
+   ],
+   "examples": [
+    {
+     "en": "*Labour* costs make up half of our expenses.",
+     "vi": "Chi phí nhân công chiếm một nửa chi phí của chúng tôi."
+    }
+   ],
+   "note": "Anh-Mỹ: labor."
+  },
+  {
+   "id": "ind_mine",
+   "word": "mine",
+   "pos": "noun",
+   "ipa": "/maɪn/",
+   "level": "B1",
+   "meaning": "mỏ",
+   "definition": "a deep hole where coal or metal is dug",
+   "collocations": [
+    "coal mine",
+    "gold mine"
+   ],
+   "examples": [
+    {
+     "en": "He worked in a coal *mine* for 20 years.",
+     "vi": "Ông ấy làm ở mỏ than 20 năm."
+    }
+   ],
+   "note": "Đại từ mine = của tôi."
+  },
+  {
+   "id": "ind_miner",
+   "word": "miner",
+   "pos": "noun",
+   "ipa": "/ˈmaɪnər/",
+   "level": "B2",
+   "meaning": "thợ mỏ",
+   "definition": "a person who works in a mine",
+   "collocations": [
+    "coal miner"
+   ],
+   "examples": [
+    {
+     "en": "The *miners* were rescued after two days.",
+     "vi": "Các thợ mỏ được giải cứu sau hai ngày."
+    }
+   ]
+  },
+  {
+   "id": "ind_powder",
+   "word": "powder",
+   "pos": "noun",
+   "ipa": "/ˈpaʊdər/",
+   "level": "B1",
+   "meaning": "bột",
+   "definition": "very small dry pieces",
+   "collocations": [
+    "washing powder",
+    "milk powder"
+   ],
+   "examples": [
+    {
+     "en": "Mix the *powder* with water.",
+     "vi": "Trộn bột với nước."
+    }
+   ]
+  },
+  {
+   "id": "ind_mix",
+   "word": "mix",
+   "pos": "verb",
+   "ipa": "/mɪks/",
+   "level": "B1",
+   "meaning": "trộn, pha",
+   "definition": "to combine things",
+   "collocations": [
+    "mix with",
+    "mix up"
+   ],
+   "examples": [
+    {
+     "en": "Don't *mix* up the two files.",
+     "vi": "Đừng để lẫn hai tệp với nhau."
+    }
+   ],
+   "note": "mix up = nhầm lẫn."
+  },
+  {
+   "id": "ind_mixed",
+   "word": "mixed",
+   "pos": "adjective",
+   "ipa": "/mɪkst/",
+   "level": "B2",
+   "meaning": "lẫn lộn, hỗn hợp",
+   "definition": "of different kinds",
+   "collocations": [
+    "mixed feelings",
+    "mixed reviews"
+   ],
+   "examples": [
+    {
+     "en": "The film got *mixed* reviews.",
+     "vi": "Bộ phim nhận được đánh giá trái chiều."
+    }
+   ]
+  },
+  {
+   "id": "ind_mixture",
+   "word": "mixture",
+   "pos": "noun",
+   "ipa": "/ˈmɪkstʃər/",
+   "level": "B1",
+   "meaning": "hỗn hợp",
+   "definition": "a combination of different things",
+   "collocations": [
+    "a mixture of"
+   ],
+   "examples": [
+    {
+     "en": "The team is a *mixture* of young and experienced staff.",
+     "vi": "Đội là sự kết hợp giữa nhân viên trẻ và giàu kinh nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "ind_export",
+   "word": "export",
+   "pos": "noun",
+   "ipa": "/ˈekspɔːrt/",
+   "level": "B1",
+   "meaning": "xuất khẩu; hàng xuất khẩu",
+   "definition": "selling goods to another country",
+   "collocations": [
+    "export market",
+    "main exports"
+   ],
+   "examples": [
+    {
+     "en": "Coffee is one of Vietnam's main *exports*.",
+     "vi": "Cà phê là một trong những mặt hàng xuất khẩu chính của Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "ind_import",
+   "word": "import",
+   "pos": "verb",
+   "ipa": "/ɪmˈpɔːrt/",
+   "level": "B1",
+   "meaning": "nhập khẩu",
+   "definition": "to bring goods from another country",
+   "collocations": [
+    "import goods",
+    "imported cars"
+   ],
+   "examples": [
+    {
+     "en": "We *import* most of our parts from Japan.",
+     "vi": "Chúng tôi nhập khẩu hầu hết linh kiện từ Nhật."
+    }
+   ]
+  },
+  {
+   "id": "ind_delivery",
+   "word": "delivery",
+   "pos": "noun",
+   "ipa": "/dɪˈlɪvəri/",
+   "level": "B2",
+   "meaning": "sự giao hàng",
+   "definition": "taking goods to a place",
+   "collocations": [
+    "free delivery",
+    "delivery date",
+    "on delivery"
+   ],
+   "examples": [
+    {
+     "en": "We offer free *delivery* on orders over $50.",
+     "vi": "Chúng tôi giao hàng miễn phí cho đơn trên 50 đô."
+    }
+   ]
+  },
+  {
+   "id": "ind_resource",
+   "word": "resource",
+   "pos": "noun",
+   "ipa": "/ˈriːsɔːrs/",
+   "level": "B1",
+   "meaning": "nguồn lực, tài nguyên",
+   "definition": "something useful that you can use",
+   "collocations": [
+    "human resources",
+    "limited resources"
+   ],
+   "examples": [
+    {
+     "en": "Please contact *Human Resources* about your leave.",
+     "vi": "Vui lòng liên hệ phòng Nhân sự về việc nghỉ phép."
+    }
+   ]
+  },
+  {
+   "id": "ind_extract",
+   "word": "extract",
+   "pos": "verb",
+   "ipa": "/ɪkˈstrækt/",
+   "level": "B2",
+   "meaning": "chiết xuất, trích xuất",
+   "definition": "to remove or take out",
+   "collocations": [
+    "extract oil",
+    "extract data"
+   ],
+   "examples": [
+    {
+     "en": "The software *extracts* data from receipts.",
+     "vi": "Phần mềm trích xuất dữ liệu từ hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "ind_exploit",
+   "word": "exploit",
+   "pos": "verb",
+   "ipa": "/ɪkˈsplɔɪt/",
+   "level": "B2",
+   "meaning": "khai thác; bóc lột",
+   "definition": "to use fully; to use unfairly",
+   "collocations": [
+    "exploit resources",
+    "exploit workers"
+   ],
+   "examples": [
+    {
+     "en": "Companies must not *exploit* their workers.",
+     "vi": "Các công ty không được bóc lột người lao động."
+    }
+   ]
+  },
+  {
+   "id": "ind_fragment",
+   "word": "fragment",
+   "pos": "noun",
+   "ipa": "/ˈfræɡmənt/",
+   "level": "B2",
+   "meaning": "mảnh vỡ",
+   "definition": "a small broken piece",
+   "collocations": [
+    "fragments of glass"
+   ],
+   "examples": [
+    {
+     "en": "Be careful of *fragments* of broken glass.",
+     "vi": "Cẩn thận các mảnh kính vỡ."
+    }
+   ]
+  },
+  {
+   "id": "ind_mass",
+   "word": "mass",
+   "pos": "noun",
+   "ipa": "/mæs/",
+   "level": "B2",
+   "meaning": "khối lớn; số đông",
+   "definition": "a large amount; a large number",
+   "collocations": [
+    "mass production",
+    "the masses"
+   ],
+   "examples": [
+    {
+     "en": "*Mass* production lowered the price.",
+     "vi": "Sản xuất hàng loạt đã giúp giảm giá."
+    }
+   ]
+  },
+  {
+   "id": "ind_medium",
+   "word": "medium",
+   "pos": "adjective",
+   "ipa": "/ˈmiːdiəm/",
+   "level": "B1",
+   "meaning": "trung bình, vừa",
+   "definition": "middle in size or amount",
+   "collocations": [
+    "medium size",
+    "small and medium businesses"
+   ],
+   "examples": [
+    {
+     "en": "Would you like a small, *medium* or large coffee?",
+     "vi": "Bạn muốn cà phê cỡ nhỏ, vừa hay lớn?"
+    }
+   ]
+  },
+  {
+   "id": "ind_matching",
+   "word": "matching",
+   "pos": "adjective",
+   "ipa": "/ˈmætʃɪŋ/",
+   "level": "B2",
+   "meaning": "hợp nhau, đồng bộ",
+   "definition": "having the same colour or style",
+   "collocations": [
+    "matching furniture"
+   ],
+   "examples": [
+    {
+     "en": "She wore a dress and *matching* shoes.",
+     "vi": "Cô ấy mặc váy và giày đồng bộ."
+    }
+   ]
+  },
+  {
+   "id": "ind_rocket",
+   "word": "rocket",
+   "pos": "noun",
+   "ipa": "/ˈrɑːkɪt/",
+   "level": "B2",
+   "meaning": "tên lửa",
+   "definition": "a vehicle for space travel",
+   "collocations": [
+    "launch a rocket",
+    "space rocket"
+   ],
+   "examples": [
+    {
+     "en": "Prices *rocketed* after the storm.",
+     "vi": "Giá tăng vọt sau cơn bão."
+    }
+   ],
+   "note": "Động từ rocket = tăng vọt."
+  },
+  {
+   "id": "ind_receiver",
+   "word": "receiver",
+   "pos": "noun",
+   "ipa": "/rɪˈsiːvər/",
+   "level": "B2",
+   "meaning": "ống nghe; người nhận",
+   "definition": "part of a phone; a person who receives",
+   "collocations": [
+    "pick up the receiver"
+   ],
+   "examples": [
+    {
+     "en": "She picked up the *receiver* and dialled.",
+     "vi": "Cô ấy nhấc ống nghe và quay số."
+    }
+   ]
+  },
+  {
+   "id": "ind_lens",
+   "word": "lens",
+   "pos": "noun",
+   "ipa": "/lenz/",
+   "level": "B2",
+   "meaning": "ống kính, thấu kính",
+   "definition": "a curved piece of glass in cameras or glasses",
+   "collocations": [
+    "camera lens",
+    "contact lenses"
+   ],
+   "examples": [
+    {
+     "en": "Clean the camera *lens* with a soft cloth.",
+     "vi": "Lau ống kính máy ảnh bằng khăn mềm."
+    }
+   ]
+  },
+  {
+   "id": "ind_flash",
+   "word": "flash",
+   "pos": "noun",
+   "ipa": "/flæʃ/",
+   "level": "B2",
+   "meaning": "đèn flash; tia chớp",
+   "definition": "a bright light used for photos; a sudden light",
+   "collocations": [
+    "flash photography",
+    "in a flash"
+   ],
+   "examples": [
+    {
+     "en": "*Flash* photography is not allowed in the museum.",
+     "vi": "Không được chụp ảnh dùng đèn flash trong bảo tàng."
+    }
+   ]
+  },
+  {
+   "id": "ind_footprint",
+   "word": "footprint",
+   "pos": "noun",
+   "ipa": "/ˈfʊtprɪnt/",
+   "level": "B2",
+   "meaning": "dấu chân; dấu ấn (môi trường)",
+   "definition": "a mark of a foot; the effect something has",
+   "collocations": [
+    "carbon footprint"
+   ],
+   "examples": [
+    {
+     "en": "We are reducing our carbon *footprint*.",
+     "vi": "Chúng tôi đang giảm dấu chân các-bon."
+    }
+   ]
+  },
+  {
+   "id": "ind_warehouse",
+   "word": "warehouse",
+   "pos": "noun",
+   "ipa": "/ˈwerhaʊs/",
+   "level": "C1",
+   "meaning": "nhà kho",
+   "definition": "a large building for storing goods",
+   "collocations": [
+    "in the warehouse",
+    "warehouse manager"
+   ],
+   "examples": [
+    {
+     "en": "The goods are stored in our *warehouse*.",
+     "vi": "Hàng hóa được lưu trong kho của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "ind_manual",
+   "word": "manual",
+   "pos": "noun",
+   "ipa": "/ˈmænjuəl/",
+   "level": "TOEIC",
+   "meaning": "sách hướng dẫn",
+   "definition": "a book of instructions",
+   "collocations": [
+    "user manual",
+    "instruction manual"
+   ],
+   "examples": [
+    {
+     "en": "Read the *manual* before using the machine.",
+     "vi": "Đọc sách hướng dẫn trước khi dùng máy."
+    }
+   ]
+  },
+  {
+   "id": "ind_assemble",
+   "word": "assemble",
+   "pos": "verb",
+   "ipa": "/əˈsembl/",
+   "level": "C1",
+   "meaning": "lắp ráp; tập hợp",
+   "definition": "to put parts together; to gather",
+   "collocations": [
+    "assemble furniture",
+    "assembly line"
+   ],
+   "examples": [
+    {
+     "en": "The cars are *assembled* in Thailand.",
+     "vi": "Ô tô được lắp ráp tại Thái Lan."
+    }
+   ]
+  },
+  {
+   "id": "ind_plant",
+   "word": "plant",
+   "pos": "noun",
+   "ipa": "/plænt/",
+   "level": "A1",
+   "meaning": "nhà máy; cây",
+   "definition": "a factory; a living thing that grows",
+   "collocations": [
+    "power plant",
+    "manufacturing plant"
+   ],
+   "examples": [
+    {
+     "en": "The company is building a new *plant* in Binh Duong.",
+     "vi": "Công ty đang xây nhà máy mới ở Bình Dương."
+    }
+   ]
+  },
+  {
+   "id": "ind_machinery",
+   "word": "machinery",
+   "pos": "noun",
+   "ipa": "/məˈʃiːnəri/",
+   "level": "C1",
+   "meaning": "máy móc (nói chung)",
+   "definition": "machines as a group",
+   "collocations": [
+    "heavy machinery",
+    "farm machinery"
+   ],
+   "examples": [
+    {
+     "en": "Only trained staff may operate the *machinery*.",
+     "vi": "Chỉ nhân viên được đào tạo mới được vận hành máy móc."
+    }
+   ]
+  },
+  {
+   "id": "ind_defect",
+   "word": "defect",
+   "pos": "noun",
+   "ipa": "/ˈdiːfekt/",
+   "level": "C1",
+   "meaning": "khuyết tật, lỗi",
+   "definition": "a fault",
+   "collocations": [
+    "manufacturing defect",
+    "free from defects"
+   ],
+   "examples": [
+    {
+     "en": "Each product is checked for *defects*.",
+     "vi": "Mỗi sản phẩm đều được kiểm tra lỗi."
+    }
+   ]
+  },
+  {
+   "id": "ind_quality_control",
+   "word": "quality control",
+   "pos": "noun",
+   "ipa": "/ˌkwɑːləti kənˈtroʊl/",
+   "level": "TOEIC",
+   "meaning": "kiểm soát chất lượng",
+   "definition": "checking products meet standards",
+   "collocations": [
+    "quality control team"
+   ],
+   "examples": [
+    {
+     "en": "She works in *quality control*.",
+     "vi": "Cô ấy làm ở bộ phận kiểm soát chất lượng."
+    }
+   ]
+  },
+  {
+   "id": "ind_shipment",
+   "word": "shipment",
+   "pos": "noun",
+   "ipa": "/ˈʃɪpmənt/",
+   "level": "TOEIC",
+   "meaning": "lô hàng",
+   "definition": "goods sent together",
+   "collocations": [
+    "a shipment of",
+    "track a shipment"
+   ],
+   "examples": [
+    {
+     "en": "The next *shipment* will arrive on Tuesday.",
+     "vi": "Lô hàng tiếp theo sẽ đến vào thứ Ba."
+    }
+   ]
+  },
+  {
+   "id": "ind_cargo",
+   "word": "cargo",
+   "pos": "noun",
+   "ipa": "/ˈkɑːrɡoʊ/",
+   "level": "C1",
+   "meaning": "hàng hóa (chở bằng tàu, máy bay)",
+   "definition": "goods carried by ship or plane",
+   "collocations": [
+    "cargo ship",
+    "air cargo"
+   ],
+   "examples": [
+    {
+     "en": "The ship was carrying *cargo* from China.",
+     "vi": "Con tàu chở hàng từ Trung Quốc."
+    }
+   ]
+  },
+  {
+   "id": "ind_inventory",
+   "word": "inventory",
+   "pos": "noun",
+   "ipa": "/ˈɪnvəntɔːri/",
+   "level": "TOEIC",
+   "meaning": "hàng tồn kho; bảng kiểm kê",
+   "definition": "all the goods in stock; a list of them",
+   "collocations": [
+    "take inventory",
+    "inventory system"
+   ],
+   "examples": [
+    {
+     "en": "We do a full *inventory* every quarter.",
+     "vi": "Chúng tôi kiểm kê toàn bộ mỗi quý."
+    }
+   ]
+  },
+  {
+   "id": "ind_supplier",
+   "word": "supplier",
+   "pos": "noun",
+   "ipa": "/səˈplaɪər/",
+   "level": "TOEIC",
+   "meaning": "nhà cung cấp",
+   "definition": "a company that provides goods",
+   "collocations": [
+    "a reliable supplier",
+    "change suppliers"
+   ],
+   "examples": [
+    {
+     "en": "We are looking for a new paper *supplier*.",
+     "vi": "Chúng tôi đang tìm nhà cung cấp giấy mới."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

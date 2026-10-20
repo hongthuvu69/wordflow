@@ -1,0 +1,1134 @@
+{
+ "id": "describing",
+ "order": 41,
+ "icon": "🎨",
+ "level": "B2",
+ "title": "Describing Things",
+ "title_vi": "Miêu tả sự vật",
+ "description": "Hình dạng, kích thước, chất liệu, ấn tượng: tính từ giúp miêu tả sản phẩm, địa điểm và trải nghiệm.",
+ "words": [
+  {
+   "id": "dsc_shape",
+   "word": "shape",
+   "pos": "noun",
+   "ipa": "/ʃeɪp/",
+   "level": "B2",
+   "meaning": "hình dạng; tình trạng",
+   "definition": "the form of something; condition",
+   "collocations": [
+    "in good shape",
+    "take shape"
+   ],
+   "examples": [
+    {
+     "en": "The plan is starting to take *shape*.",
+     "vi": "Kế hoạch đang dần thành hình."
+    }
+   ]
+  },
+  {
+   "id": "dsc_shaped",
+   "word": "shaped",
+   "pos": "adjective",
+   "ipa": "/ʃeɪpt/",
+   "level": "B2",
+   "meaning": "có hình",
+   "definition": "having a particular shape",
+   "collocations": [
+    "heart-shaped",
+    "L-shaped"
+   ],
+   "examples": [
+    {
+     "en": "The office has an L-*shaped* desk.",
+     "vi": "Văn phòng có bàn làm việc hình chữ L."
+    }
+   ]
+  },
+  {
+   "id": "dsc_curve",
+   "word": "curve",
+   "pos": "noun",
+   "ipa": "/kɜːrv/",
+   "level": "B2",
+   "meaning": "đường cong",
+   "definition": "a line that bends",
+   "collocations": [
+    "a sharp curve",
+    "learning curve"
+   ],
+   "examples": [
+    {
+     "en": "There is a steep learning *curve* in this job.",
+     "vi": "Công việc này đòi hỏi học hỏi nhiều trong thời gian ngắn."
+    }
+   ]
+  },
+  {
+   "id": "dsc_curved",
+   "word": "curved",
+   "pos": "adjective",
+   "ipa": "/kɜːrvd/",
+   "level": "B2",
+   "meaning": "cong",
+   "definition": "having a curve",
+   "collocations": [
+    "curved screen",
+    "curved roof"
+   ],
+   "examples": [
+    {
+     "en": "The building has a *curved* glass roof.",
+     "vi": "Tòa nhà có mái kính cong."
+    }
+   ]
+  },
+  {
+   "id": "dsc_round",
+   "word": "round",
+   "pos": "adjective",
+   "ipa": "/raʊnd/",
+   "level": "B2",
+   "meaning": "tròn",
+   "definition": "shaped like a circle",
+   "collocations": [
+    "round table",
+    "round trip"
+   ],
+   "examples": [
+    {
+     "en": "We sat at a *round* table.",
+     "vi": "Chúng tôi ngồi quanh một chiếc bàn tròn."
+    }
+   ]
+  },
+  {
+   "id": "dsc_rough",
+   "word": "rough",
+   "pos": "adjective",
+   "ipa": "/rʌf/",
+   "level": "B1",
+   "meaning": "thô ráp; đại khái; khó khăn",
+   "definition": "not smooth; not exact; difficult",
+   "collocations": [
+    "a rough idea",
+    "rough surface",
+    "a rough day"
+   ],
+   "examples": [
+    {
+     "en": "Can you give me a *rough* estimate?",
+     "vi": "Bạn có thể ước tính sơ bộ cho tôi không?"
+    }
+   ]
+  },
+  {
+   "id": "dsc_smooth",
+   "word": "smooth",
+   "pos": "adjective",
+   "ipa": "/smuːð/",
+   "level": "B1",
+   "meaning": "trơn, mượt; suôn sẻ",
+   "definition": "flat and even; without problems",
+   "collocations": [
+    "smooth surface",
+    "a smooth transition"
+   ],
+   "examples": [
+    {
+     "en": "Thanks for making the move so *smooth*.",
+     "vi": "Cảm ơn bạn đã giúp việc chuyển đi suôn sẻ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_sharp",
+   "word": "sharp",
+   "pos": "adjective",
+   "ipa": "/ʃɑːrp/",
+   "level": "B1",
+   "meaning": "sắc; rõ nét; chính xác (giờ)",
+   "definition": "able to cut; clear; exactly",
+   "collocations": [
+    "a sharp knife",
+    "at 9 sharp"
+   ],
+   "examples": [
+    {
+     "en": "The meeting starts at 9 o'clock *sharp*.",
+     "vi": "Cuộc họp bắt đầu đúng 9 giờ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_solid",
+   "word": "solid",
+   "pos": "adjective",
+   "ipa": "/ˈsɑːlɪd/",
+   "level": "B1",
+   "meaning": "rắn chắc, vững",
+   "definition": "hard; strong; reliable",
+   "collocations": [
+    "solid wood",
+    "solid experience"
+   ],
+   "examples": [
+    {
+     "en": "She has *solid* experience in sales.",
+     "vi": "Cô ấy có kinh nghiệm vững vàng về bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_hollow",
+   "word": "hollow",
+   "pos": "adjective",
+   "ipa": "/ˈhɑːloʊ/",
+   "level": "B2",
+   "meaning": "rỗng",
+   "definition": "having an empty space inside",
+   "collocations": [
+    "a hollow tree"
+   ],
+   "examples": [
+    {
+     "en": "The wall sounds *hollow*.",
+     "vi": "Bức tường nghe như rỗng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_tight",
+   "word": "tight",
+   "pos": "adjective",
+   "ipa": "/taɪt/",
+   "level": "B1",
+   "meaning": "chật; eo hẹp",
+   "definition": "fitting closely; with little time or money",
+   "collocations": [
+    "tight schedule",
+    "tight budget"
+   ],
+   "examples": [
+    {
+     "en": "We have a very *tight* schedule this week.",
+     "vi": "Tuần này lịch của chúng tôi rất kín."
+    }
+   ]
+  },
+  {
+   "id": "dsc_loose",
+   "word": "loose",
+   "pos": "adjective",
+   "ipa": "/luːs/",
+   "level": "B2",
+   "meaning": "lỏng",
+   "definition": "not firmly fixed; not tight",
+   "collocations": [
+    "a loose screw",
+    "loose clothes"
+   ],
+   "examples": [
+    {
+     "en": "One of the chair legs is *loose*.",
+     "vi": "Một chân ghế bị lỏng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_narrow",
+   "word": "narrow",
+   "pos": "adjective",
+   "ipa": "/ˈnæroʊ/",
+   "level": "B2",
+   "meaning": "hẹp",
+   "definition": "small from side to side",
+   "collocations": [
+    "a narrow street",
+    "narrow down"
+   ],
+   "examples": [
+    {
+     "en": "Let's *narrow* down the list to three candidates.",
+     "vi": "Hãy thu hẹp danh sách còn ba ứng viên."
+    }
+   ]
+  },
+  {
+   "id": "dsc_broad",
+   "word": "broad",
+   "pos": "adjective",
+   "ipa": "/brɔːd/",
+   "level": "B2",
+   "meaning": "rộng",
+   "definition": "wide; general",
+   "collocations": [
+    "a broad range",
+    "broad shoulders"
+   ],
+   "examples": [
+    {
+     "en": "The course covers a *broad* range of topics.",
+     "vi": "Khóa học bao quát nhiều chủ đề."
+    }
+   ]
+  },
+  {
+   "id": "dsc_broadly",
+   "word": "broadly",
+   "pos": "adverb",
+   "ipa": "/ˈbrɔːdli/",
+   "level": "B2",
+   "meaning": "nhìn chung",
+   "definition": "generally",
+   "collocations": [
+    "broadly speaking",
+    "broadly similar"
+   ],
+   "examples": [
+    {
+     "en": "*Broadly* speaking, customers are happy.",
+     "vi": "Nhìn chung, khách hàng hài lòng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_deep",
+   "word": "deep",
+   "pos": "adjective",
+   "ipa": "/diːp/",
+   "level": "B1",
+   "meaning": "sâu",
+   "definition": "going far down",
+   "collocations": [
+    "deep water",
+    "deep breath"
+   ],
+   "examples": [
+    {
+     "en": "The pool is three metres *deep*.",
+     "vi": "Hồ bơi sâu ba mét."
+    }
+   ]
+  },
+  {
+   "id": "dsc_deeply",
+   "word": "deeply",
+   "pos": "adverb",
+   "ipa": "/ˈdiːpli/",
+   "level": "B2",
+   "meaning": "sâu sắc",
+   "definition": "very much",
+   "collocations": [
+    "deeply sorry",
+    "deeply concerned"
+   ],
+   "examples": [
+    {
+     "en": "We are *deeply* sorry for the delay.",
+     "vi": "Chúng tôi vô cùng xin lỗi vì sự chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_shallow",
+   "word": "shallow",
+   "pos": "adjective",
+   "ipa": "/ˈʃæloʊ/",
+   "level": "B2",
+   "meaning": "nông",
+   "definition": "not deep",
+   "collocations": [
+    "shallow water",
+    "the shallow end"
+   ],
+   "examples": [
+    {
+     "en": "Children must stay in the *shallow* end of the pool.",
+     "vi": "Trẻ em phải ở phía nước nông của hồ bơi."
+    }
+   ]
+  },
+  {
+   "id": "dsc_steep",
+   "word": "steep",
+   "pos": "adjective",
+   "ipa": "/stiːp/",
+   "level": "B2",
+   "meaning": "dốc; (giá) cao",
+   "definition": "rising sharply; too expensive",
+   "collocations": [
+    "a steep hill",
+    "a steep price"
+   ],
+   "examples": [
+    {
+     "en": "The road up to the hotel is very *steep*.",
+     "vi": "Con đường lên khách sạn rất dốc."
+    }
+   ]
+  },
+  {
+   "id": "dsc_vertical",
+   "word": "vertical",
+   "pos": "adjective",
+   "ipa": "/ˈvɜːrtɪkl/",
+   "level": "B2",
+   "meaning": "thẳng đứng",
+   "definition": "going straight up",
+   "collocations": [
+    "a vertical line"
+   ],
+   "examples": [
+    {
+     "en": "Draw a *vertical* line down the middle of the page.",
+     "vi": "Vẽ một đường thẳng đứng ở giữa trang."
+    }
+   ]
+  },
+  {
+   "id": "dsc_parallel",
+   "word": "parallel",
+   "pos": "adjective",
+   "ipa": "/ˈpærəlel/",
+   "level": "B2",
+   "meaning": "song song",
+   "definition": "side by side at the same distance",
+   "collocations": [
+    "parallel to",
+    "parallel lines"
+   ],
+   "examples": [
+    {
+     "en": "The road runs *parallel* to the river.",
+     "vi": "Con đường chạy song song với dòng sông."
+    }
+   ]
+  },
+  {
+   "id": "dsc_upper",
+   "word": "upper",
+   "pos": "adjective",
+   "ipa": "/ˈʌpər/",
+   "level": "B2",
+   "meaning": "phía trên",
+   "definition": "higher",
+   "collocations": [
+    "upper floor",
+    "upper limit"
+   ],
+   "examples": [
+    {
+     "en": "Our office is on the *upper* floor.",
+     "vi": "Văn phòng chúng tôi ở tầng trên."
+    }
+   ]
+  },
+  {
+   "id": "dsc_lower",
+   "word": "lower",
+   "pos": "adjective",
+   "ipa": "/ˈloʊər/",
+   "level": "B2",
+   "meaning": "phía dưới; thấp hơn",
+   "definition": "below; less",
+   "collocations": [
+    "lower level",
+    "lower prices"
+   ],
+   "examples": [
+    {
+     "en": "The café is on the *lower* level.",
+     "vi": "Quán cà phê ở tầng dưới."
+    }
+   ],
+   "note": "Động từ lower = hạ thấp (lower prices)."
+  },
+  {
+   "id": "dsc_inner",
+   "word": "inner",
+   "pos": "adjective",
+   "ipa": "/ˈɪnər/",
+   "level": "B2",
+   "meaning": "bên trong",
+   "definition": "inside; close to the centre",
+   "collocations": [
+    "inner city",
+    "inner circle"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is in the *inner* city.",
+     "vi": "Khách sạn nằm ở nội thành."
+    }
+   ]
+  },
+  {
+   "id": "dsc_outer",
+   "word": "outer",
+   "pos": "adjective",
+   "ipa": "/ˈaʊtər/",
+   "level": "B2",
+   "meaning": "bên ngoài",
+   "definition": "on the outside",
+   "collocations": [
+    "outer layer",
+    "outer space"
+   ],
+   "examples": [
+    {
+     "en": "Remove the *outer* packaging before use.",
+     "vi": "Tháo bao bì bên ngoài trước khi dùng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_layer",
+   "word": "layer",
+   "pos": "noun",
+   "ipa": "/ˈleɪər/",
+   "level": "B1",
+   "meaning": "lớp",
+   "definition": "a level of material covering a surface",
+   "collocations": [
+    "a thin layer",
+    "an extra layer"
+   ],
+   "examples": [
+    {
+     "en": "Wear an extra *layer* in cold weather.",
+     "vi": "Mặc thêm một lớp áo khi trời lạnh."
+    }
+   ]
+  },
+  {
+   "id": "dsc_edge",
+   "word": "edge",
+   "pos": "noun",
+   "ipa": "/edʒ/",
+   "level": "B1",
+   "meaning": "mép, cạnh; lợi thế",
+   "definition": "the outside limit of something; an advantage",
+   "collocations": [
+    "on the edge",
+    "competitive edge"
+   ],
+   "examples": [
+    {
+     "en": "Good service gives us a competitive *edge*.",
+     "vi": "Dịch vụ tốt giúp chúng tôi có lợi thế cạnh tranh."
+    }
+   ]
+  },
+  {
+   "id": "dsc_coloured",
+   "word": "coloured",
+   "pos": "adjective",
+   "ipa": "/ˈkʌlərd/",
+   "level": "B1",
+   "meaning": "có màu",
+   "definition": "having a colour",
+   "collocations": [
+    "brightly coloured",
+    "coloured pens"
+   ],
+   "examples": [
+    {
+     "en": "The children used *coloured* pencils.",
+     "vi": "Bọn trẻ dùng bút chì màu."
+    }
+   ],
+   "note": "Anh-Mỹ: colored."
+  },
+  {
+   "id": "dsc_colourful",
+   "word": "colourful",
+   "pos": "adjective",
+   "ipa": "/ˈkʌlərfl/",
+   "level": "B2",
+   "meaning": "nhiều màu sắc",
+   "definition": "having many bright colours",
+   "collocations": [
+    "colourful clothes",
+    "colourful market"
+   ],
+   "examples": [
+    {
+     "en": "The market is full of *colourful* fruit.",
+     "vi": "Chợ đầy trái cây nhiều màu sắc."
+    }
+   ]
+  },
+  {
+   "id": "dsc_golden",
+   "word": "golden",
+   "pos": "adjective",
+   "ipa": "/ˈɡoʊldən/",
+   "level": "B2",
+   "meaning": "màu vàng; quý giá",
+   "definition": "made of gold; very good",
+   "collocations": [
+    "a golden opportunity",
+    "golden beach"
+   ],
+   "examples": [
+    {
+     "en": "This is a *golden* opportunity for our company.",
+     "vi": "Đây là cơ hội vàng cho công ty chúng ta."
+    }
+   ]
+  },
+  {
+   "id": "dsc_shiny",
+   "word": "shiny",
+   "pos": "adjective",
+   "ipa": "/ˈʃaɪni/",
+   "level": "B1",
+   "meaning": "sáng bóng",
+   "definition": "bright and reflecting light",
+   "collocations": [
+    "shiny shoes",
+    "shiny surface"
+   ],
+   "examples": [
+    {
+     "en": "He wore *shiny* black shoes.",
+     "vi": "Anh ấy đi đôi giày đen bóng loáng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_plain",
+   "word": "plain",
+   "pos": "adjective",
+   "ipa": "/pleɪn/",
+   "level": "B2",
+   "meaning": "đơn giản, trơn",
+   "definition": "simple; without decoration",
+   "collocations": [
+    "plain white",
+    "plain paper"
+   ],
+   "examples": [
+    {
+     "en": "Please write on *plain* paper.",
+     "vi": "Vui lòng viết trên giấy trắng trơn."
+    }
+   ]
+  },
+  {
+   "id": "dsc_tiny",
+   "word": "tiny",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪni/",
+   "level": "B1",
+   "meaning": "rất nhỏ",
+   "definition": "very small",
+   "collocations": [
+    "a tiny room",
+    "tiny mistake"
+   ],
+   "examples": [
+    {
+     "en": "The room was *tiny* but clean.",
+     "vi": "Căn phòng rất nhỏ nhưng sạch sẽ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_giant",
+   "word": "giant",
+   "pos": "adjective",
+   "ipa": "/ˈdʒaɪənt/",
+   "level": "B1",
+   "meaning": "khổng lồ",
+   "definition": "very large",
+   "collocations": [
+    "a giant screen",
+    "tech giant"
+   ],
+   "examples": [
+    {
+     "en": "The company is a technology *giant*.",
+     "vi": "Công ty là một gã khổng lồ công nghệ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_grand",
+   "word": "grand",
+   "pos": "adjective",
+   "ipa": "/ɡrænd/",
+   "level": "B2",
+   "meaning": "hoành tráng, lớn",
+   "definition": "impressive and large",
+   "collocations": [
+    "grand opening",
+    "grand total"
+   ],
+   "examples": [
+    {
+     "en": "The *grand* opening is on Saturday.",
+     "vi": "Lễ khai trương hoành tráng vào thứ Bảy."
+    }
+   ]
+  },
+  {
+   "id": "dsc_magnificent",
+   "word": "magnificent",
+   "pos": "adjective",
+   "ipa": "/mæɡˈnɪfɪsnt/",
+   "level": "B2",
+   "meaning": "tráng lệ",
+   "definition": "extremely beautiful or impressive",
+   "collocations": [
+    "a magnificent view",
+    "magnificent building"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has a *magnificent* view of the sea.",
+     "vi": "Khách sạn có tầm nhìn tráng lệ ra biển."
+    }
+   ]
+  },
+  {
+   "id": "dsc_spectacular",
+   "word": "spectacular",
+   "pos": "adjective",
+   "ipa": "/spekˈtækjələr/",
+   "level": "B2",
+   "meaning": "ngoạn mục",
+   "definition": "very impressive",
+   "collocations": [
+    "spectacular views",
+    "spectacular show"
+   ],
+   "examples": [
+    {
+     "en": "The fireworks were *spectacular*.",
+     "vi": "Màn pháo hoa thật ngoạn mục."
+    }
+   ]
+  },
+  {
+   "id": "dsc_stunning",
+   "word": "stunning",
+   "pos": "adjective",
+   "ipa": "/ˈstʌnɪŋ/",
+   "level": "B2",
+   "meaning": "tuyệt đẹp",
+   "definition": "extremely attractive",
+   "collocations": [
+    "a stunning view",
+    "stunning design"
+   ],
+   "examples": [
+    {
+     "en": "The new office has a *stunning* design.",
+     "vi": "Văn phòng mới có thiết kế tuyệt đẹp."
+    }
+   ]
+  },
+  {
+   "id": "dsc_fabulous",
+   "word": "fabulous",
+   "pos": "adjective",
+   "ipa": "/ˈfæbjələs/",
+   "level": "B2",
+   "meaning": "tuyệt vời",
+   "definition": "extremely good",
+   "collocations": [
+    "a fabulous time",
+    "fabulous food"
+   ],
+   "examples": [
+    {
+     "en": "We had a *fabulous* time at the resort.",
+     "vi": "Chúng tôi đã có khoảng thời gian tuyệt vời ở khu nghỉ dưỡng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_extraordinary",
+   "word": "extraordinary",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstrɔːrdəneri/",
+   "level": "B2",
+   "meaning": "phi thường",
+   "definition": "very unusual or special",
+   "collocations": [
+    "an extraordinary achievement"
+   ],
+   "examples": [
+    {
+     "en": "She has an *extraordinary* talent for music.",
+     "vi": "Cô ấy có tài năng âm nhạc phi thường."
+    }
+   ]
+  },
+  {
+   "id": "dsc_remarkable",
+   "word": "remarkable",
+   "pos": "adjective",
+   "ipa": "/rɪˈmɑːrkəbl/",
+   "level": "B2",
+   "meaning": "đáng chú ý, phi thường",
+   "definition": "unusual and surprising in a good way",
+   "collocations": [
+    "a remarkable achievement",
+    "remarkable growth"
+   ],
+   "examples": [
+    {
+     "en": "The company has made *remarkable* progress.",
+     "vi": "Công ty đã có tiến bộ đáng kể."
+    }
+   ]
+  },
+  {
+   "id": "dsc_outstanding",
+   "word": "outstanding",
+   "pos": "adjective",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "level": "B2",
+   "meaning": "xuất sắc; chưa thanh toán",
+   "definition": "excellent; not yet paid or done",
+   "collocations": [
+    "outstanding service",
+    "outstanding balance"
+   ],
+   "examples": [
+    {
+     "en": "Please pay the *outstanding* balance by Friday.",
+     "vi": "Vui lòng thanh toán số dư còn nợ trước thứ Sáu."
+    }
+   ],
+   "note": "Hai nghĩa đều rất hay gặp TOEIC."
+  },
+  {
+   "id": "dsc_unique",
+   "word": "unique",
+   "pos": "adjective",
+   "ipa": "/juˈniːk/",
+   "level": "B2",
+   "meaning": "độc nhất",
+   "definition": "being the only one; very special",
+   "collocations": [
+    "a unique opportunity",
+    "unique design"
+   ],
+   "examples": [
+    {
+     "en": "Each piece is *unique*.",
+     "vi": "Mỗi sản phẩm là độc nhất."
+    }
+   ]
+  },
+  {
+   "id": "dsc_precious",
+   "word": "precious",
+   "pos": "adjective",
+   "ipa": "/ˈpreʃəs/",
+   "level": "B2",
+   "meaning": "quý giá",
+   "definition": "rare and valuable",
+   "collocations": [
+    "precious stones",
+    "precious time"
+   ],
+   "examples": [
+    {
+     "en": "Time is *precious*, so let's start.",
+     "vi": "Thời gian quý báu, ta bắt đầu thôi."
+    }
+   ]
+  },
+  {
+   "id": "dsc_rare",
+   "word": "rare",
+   "pos": "adjective",
+   "ipa": "/rer/",
+   "level": "B1",
+   "meaning": "hiếm",
+   "definition": "not common",
+   "collocations": [
+    "a rare opportunity",
+    "rare species"
+   ],
+   "examples": [
+    {
+     "en": "It's *rare* to see snow here.",
+     "vi": "Hiếm khi thấy tuyết ở đây."
+    }
+   ]
+  },
+  {
+   "id": "dsc_exotic",
+   "word": "exotic",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɑːtɪk/",
+   "level": "B2",
+   "meaning": "ngoại lai, kỳ lạ",
+   "definition": "from a distant country; unusual",
+   "collocations": [
+    "exotic fruit",
+    "exotic places"
+   ],
+   "examples": [
+    {
+     "en": "The market sells *exotic* fruit from around the world.",
+     "vi": "Chợ bán trái cây lạ từ khắp thế giới."
+    }
+   ]
+  },
+  {
+   "id": "dsc_fancy",
+   "word": "fancy",
+   "pos": "adjective",
+   "ipa": "/ˈfænsi/",
+   "level": "B1",
+   "meaning": "sang trọng, cầu kỳ",
+   "definition": "expensive and fashionable; decorated",
+   "collocations": [
+    "a fancy restaurant",
+    "nothing fancy"
+   ],
+   "examples": [
+    {
+     "en": "Let's go somewhere nice but not too *fancy*.",
+     "vi": "Đi đâu đó tốt tốt nhưng đừng quá sang."
+    }
+   ]
+  },
+  {
+   "id": "dsc_luxury",
+   "word": "luxury",
+   "pos": "noun",
+   "ipa": "/ˈlʌkʃəri/",
+   "level": "B1",
+   "meaning": "sự xa xỉ",
+   "definition": "great comfort; expensive things",
+   "collocations": [
+    "luxury hotel",
+    "luxury goods"
+   ],
+   "examples": [
+    {
+     "en": "They stayed in a *luxury* hotel.",
+     "vi": "Họ ở khách sạn sang trọng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_old_fashioned",
+   "word": "old-fashioned",
+   "pos": "adjective",
+   "ipa": "/ˌoʊld ˈfæʃnd/",
+   "level": "B1",
+   "meaning": "lỗi thời",
+   "definition": "not modern",
+   "collocations": [
+    "old-fashioned design",
+    "old-fashioned ideas"
+   ],
+   "examples": [
+    {
+     "en": "The website looks *old-fashioned*.",
+     "vi": "Website trông lỗi thời."
+    }
+   ]
+  },
+  {
+   "id": "dsc_contemporary",
+   "word": "contemporary",
+   "pos": "adjective",
+   "ipa": "/kənˈtempəreri/",
+   "level": "B2",
+   "meaning": "đương đại",
+   "definition": "belonging to the present time",
+   "collocations": [
+    "contemporary art",
+    "contemporary design"
+   ],
+   "examples": [
+    {
+     "en": "The gallery shows *contemporary* art.",
+     "vi": "Phòng tranh trưng bày nghệ thuật đương đại."
+    }
+   ]
+  },
+  {
+   "id": "dsc_conventional",
+   "word": "conventional",
+   "pos": "adjective",
+   "ipa": "/kənˈvenʃənl/",
+   "level": "B2",
+   "meaning": "thông thường, truyền thống",
+   "definition": "usual; traditional",
+   "collocations": [
+    "conventional methods",
+    "conventional wisdom"
+   ],
+   "examples": [
+    {
+     "en": "The new method is faster than *conventional* ones.",
+     "vi": "Phương pháp mới nhanh hơn các cách truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "dsc_dull",
+   "word": "dull",
+   "pos": "adjective",
+   "ipa": "/dʌl/",
+   "level": "B2",
+   "meaning": "buồn tẻ; xỉn màu",
+   "definition": "boring; not bright",
+   "collocations": [
+    "a dull meeting",
+    "dull colours"
+   ],
+   "examples": [
+    {
+     "en": "The meeting was long and *dull*.",
+     "vi": "Cuộc họp dài và buồn tẻ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_fascinating",
+   "word": "fascinating",
+   "pos": "adjective",
+   "ipa": "/ˈfæsɪneɪtɪŋ/",
+   "level": "B1",
+   "meaning": "hấp dẫn, lôi cuốn",
+   "definition": "extremely interesting",
+   "collocations": [
+    "a fascinating story",
+    "find it fascinating"
+   ],
+   "examples": [
+    {
+     "en": "The tour guide told us *fascinating* stories.",
+     "vi": "Hướng dẫn viên kể cho chúng tôi những câu chuyện hấp dẫn."
+    }
+   ]
+  },
+  {
+   "id": "dsc_memorable",
+   "word": "memorable",
+   "pos": "adjective",
+   "ipa": "/ˈmemərəbl/",
+   "level": "B2",
+   "meaning": "đáng nhớ",
+   "definition": "worth remembering",
+   "collocations": [
+    "a memorable trip",
+    "memorable experience"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for a *memorable* evening.",
+     "vi": "Cảm ơn vì một buổi tối đáng nhớ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_enjoyable",
+   "word": "enjoyable",
+   "pos": "adjective",
+   "ipa": "/ɪnˈdʒɔɪəbl/",
+   "level": "B2",
+   "meaning": "thú vị, vui",
+   "definition": "giving pleasure",
+   "collocations": [
+    "an enjoyable evening",
+    "highly enjoyable"
+   ],
+   "examples": [
+    {
+     "en": "The training was useful and *enjoyable*.",
+     "vi": "Buổi đào tạo vừa hữu ích vừa thú vị."
+    }
+   ]
+  },
+  {
+   "id": "dsc_ridiculous",
+   "word": "ridiculous",
+   "pos": "adjective",
+   "ipa": "/rɪˈdɪkjələs/",
+   "level": "B2",
+   "meaning": "lố bịch, vô lý",
+   "definition": "very silly or unreasonable",
+   "collocations": [
+    "a ridiculous price",
+    "ridiculous idea"
+   ],
+   "examples": [
+    {
+     "en": "$50 for a coffee is *ridiculous*!",
+     "vi": "50 đô một ly cà phê thì thật vô lý!"
+    }
+   ]
+  },
+  {
+   "id": "dsc_fake",
+   "word": "fake",
+   "pos": "adjective",
+   "ipa": "/feɪk/",
+   "level": "B2",
+   "meaning": "giả",
+   "definition": "not real",
+   "collocations": [
+    "fake news",
+    "fake products"
+   ],
+   "examples": [
+    {
+     "en": "Be careful of *fake* products online.",
+     "vi": "Hãy cẩn thận với hàng giả trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "dsc_pure",
+   "word": "pure",
+   "pos": "adjective",
+   "ipa": "/pjʊr/",
+   "level": "B2",
+   "meaning": "nguyên chất; thuần túy",
+   "definition": "not mixed; complete",
+   "collocations": [
+    "pure water",
+    "by pure chance"
+   ],
+   "examples": [
+    {
+     "en": "We met by *pure* chance.",
+     "vi": "Chúng tôi gặp nhau hoàn toàn tình cờ."
+    }
+   ]
+  },
+  {
+   "id": "dsc_mild",
+   "word": "mild",
+   "pos": "adjective",
+   "ipa": "/maɪld/",
+   "level": "B1",
+   "meaning": "ôn hòa; nhẹ",
+   "definition": "not severe; not strong",
+   "collocations": [
+    "mild weather",
+    "a mild flavour"
+   ],
+   "examples": [
+    {
+     "en": "The weather is *mild* in spring.",
+     "vi": "Thời tiết mùa xuân ôn hòa."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,54 @@
+#id: toeic_purchasing
+#prefix: tpu
+#order: 55
+#icon: 🛒
+#title: TOEIC: Purchasing & Orders
+#title_vi: TOEIC: Mua hàng & Đơn hàng
+#desc: Báo giá, đặt hàng số lượng lớn, phiếu giảm giá, đổi trả, bảo hành: các tình huống mua bán hay gặp trong Part 3 và Part 7.
+purchasing | noun | /ˈpɜːrtʃəsɪŋ/ | việc thu mua | the buying of goods for a company | purchasing department; purchasing manager | Send all orders to the *purchasing* department. | Gửi mọi đơn đặt hàng cho phòng thu mua.
+order form | noun | /ˈɔːrdər fɔːrm/ | phiếu đặt hàng | a form used to order goods | complete the order form | Please complete the attached *order form*. | Vui lòng điền phiếu đặt hàng đính kèm.
+purchase order | noun | /ˈpɜːrtʃəs ˌɔːrdər/ | đơn mua hàng | an official document to buy goods | issue a purchase order; PO number | Please include the *purchase order* number on the invoice. | Vui lòng ghi số đơn mua hàng trên hóa đơn.
+bulk | noun | /bʌlk/ | số lượng lớn | a large quantity | buy in bulk; bulk order | We get a discount when we buy in *bulk*. | Chúng tôi được giảm giá khi mua số lượng lớn.
+wholesale | adjective | /ˈhoʊlseɪl/ | bán sỉ | selling goods in large amounts to shops | wholesale price; wholesale market | We buy flowers at *wholesale* prices. | Chúng tôi mua hoa với giá sỉ.
+retailer | noun | /ˈriːteɪlər/ | nhà bán lẻ | a business that sells to the public | online retailer; major retailers | The product is sold through major *retailers*. | Sản phẩm được bán qua các nhà bán lẻ lớn.
+vendor | noun | /ˈvendər/ | nhà cung cấp; người bán | a company or person that sells something | street vendor; approved vendors | We only buy from approved *vendors*. | Chúng tôi chỉ mua từ các nhà cung cấp đã được duyệt.
+quote | noun | /kwoʊt/ | báo giá | a statement of how much a job will cost | get a quote; free quote | Could you send us a *quote* for 200 chairs? | Bạn có thể gửi báo giá cho 200 chiếc ghế không?
+unit price | noun | /ˈjuːnɪt praɪs/ | đơn giá | the price of one item | lower the unit price | The *unit price* drops for orders over 1,000. | Đơn giá giảm với đơn hàng trên 1.000 chiếc.
+in stock | adjective | /ɪn ˈstɑːk/ | còn hàng | available to buy | in stock now; keep in stock | This model is currently *in stock*. | Mẫu này hiện còn hàng.
+back order | noun | /ˈbæk ˌɔːrdər/ | đơn hàng chờ (hết hàng tạm thời) | an order waiting because the item is out of stock | on back order | The item is on *back order* until May. | Mặt hàng đang chờ hàng về đến tháng Năm.
+sold out | adjective | /ˌsoʊld ˈaʊt/ | bán hết | with no more available | completely sold out | Tickets for the concert are *sold out*. | Vé buổi hòa nhạc đã bán hết.
+voucher | noun | /ˈvaʊtʃər/ | phiếu mua hàng | a paper that can be used instead of money | gift voucher; discount voucher | You can use this *voucher* at any of our stores. | Bạn có thể dùng phiếu này ở bất kỳ cửa hàng nào của chúng tôi.
+coupon | noun | /ˈkuːpɑːn/ | phiếu giảm giá | a ticket that gives a discount | discount coupon; use a coupon | Bring this *coupon* to get 20% off. | Mang phiếu này đến để được giảm 20%.
+promotional | adjective | /prəˈmoʊʃənl/ | khuyến mãi, quảng bá | for advertising or special offers | promotional code; promotional offer | Enter the *promotional* code at checkout. | Nhập mã khuyến mãi khi thanh toán.
+promotion | noun | /prəˈmoʊʃn/ | chương trình khuyến mãi; sự thăng chức | a special offer; a move to a higher job | sales promotion; special promotion | The *promotion* ends on Sunday. | Chương trình khuyến mãi kết thúc vào Chủ nhật.
+checkout | noun | /ˈtʃekaʊt/ | quầy thanh toán; bước thanh toán | the place or step where you pay | at the checkout; proceed to checkout | Discounts are applied at *checkout*. | Giảm giá được áp dụng khi thanh toán.
+cart | noun | /kɑːrt/ | xe đẩy; giỏ hàng (online) | a small vehicle for carrying things; an online shopping basket | shopping cart; add to cart | Click "Add to *cart*" to buy the item. | Nhấp "Thêm vào giỏ" để mua sản phẩm.
+merchandise | noun | /ˈmɜːrtʃəndaɪz/ | hàng hóa | goods for sale | display merchandise; official merchandise | All *merchandise* is 30% off this weekend. | Mọi mặt hàng giảm 30% cuối tuần này.
+item | noun | /ˈaɪtəm/ | món hàng; mục | a single thing in a list or group | an item on the menu; return an item | Each *item* is checked before shipping. | Mỗi món hàng đều được kiểm tra trước khi gửi.
+replacement | noun | /rɪˈpleɪsmənt/ | sự thay thế; hàng thay thế | a new thing that replaces an old one | send a replacement; replacement parts | We will send you a *replacement* free of charge. | Chúng tôi sẽ gửi bạn sản phẩm thay thế miễn phí.
+replace | verb | /rɪˈpleɪs/ | thay thế | to put something new in place of something | replace a part; be replaced by | The old system will be *replaced* next year. | Hệ thống cũ sẽ được thay thế vào năm tới.
+warranty | noun | /ˈwɔːrənti/ | sự bảo hành | a written promise to repair a product | under warranty; two-year warranty | The laptop is still under *warranty*. | Máy tính xách tay vẫn còn bảo hành.
+defective | adjective | /dɪˈfektɪv/ | bị lỗi | not working correctly | defective products; return defective items | Please return any *defective* items within 30 days. | Vui lòng trả lại mọi sản phẩm lỗi trong vòng 30 ngày.
+faulty | adjective | /ˈfɔːlti/ | bị hỏng, lỗi | not working properly | a faulty product; faulty wiring | The *faulty* charger was replaced. | Bộ sạc lỗi đã được thay.
+return policy | noun | /rɪˈtɜːrn ˌpɑːləsi/ | chính sách đổi trả | the rules for bringing back goods | a 30-day return policy | Our *return policy* allows returns within 14 days. | Chính sách đổi trả của chúng tôi cho phép trả hàng trong 14 ngày.
+exchange policy | noun | /ɪksˈtʃeɪndʒ ˌpɑːləsi/ | chính sách đổi hàng | the rules for exchanging goods | a clear exchange policy | Please read our *exchange policy* before buying. | Vui lòng đọc chính sách đổi hàng trước khi mua.
+store credit | noun | /ˌstɔːr ˈkredɪt/ | tiền tích lũy mua hàng tại cửa hàng | money you can only spend in one store | receive store credit | Without a receipt, you will receive *store credit*. | Nếu không có hóa đơn, bạn sẽ nhận tiền tích lũy tại cửa hàng.
+complimentary | adjective | /ˌkɑːmplɪˈmentri/ | miễn phí (tặng kèm) | given free | complimentary breakfast; complimentary drinks | Guests receive a *complimentary* breakfast. | Khách được tặng bữa sáng miễn phí.
+free of charge | adverb | /ˌfriː əv ˈtʃɑːrdʒ/ | miễn phí | without payment | delivered free of charge | Repairs are done *free of charge*. | Sửa chữa miễn phí.
+shipping | noun | /ˈʃɪpɪŋ/ | phí/việc vận chuyển | the sending of goods | free shipping; shipping costs | We offer free *shipping* on all orders. | Chúng tôi miễn phí vận chuyển mọi đơn hàng.
+place an order | verb | /ˌpleɪs ən ˈɔːrdər/ | đặt hàng | to ask a company to supply goods | place an order for | I'd like to *place an order* for 50 boxes of paper. | Tôi muốn đặt 50 thùng giấy.
+cancel an order | verb | /ˌkænsl ən ˈɔːrdər/ | hủy đơn hàng | to stop an order | cancel an order online | You can *cancel an order* within 24 hours. | Bạn có thể hủy đơn trong vòng 24 giờ.
+confirmation | noun | /ˌkɑːnfərˈmeɪʃn/ | sự xác nhận | a statement that something is definite | order confirmation; confirmation e-mail | You will receive a *confirmation* e-mail shortly. | Bạn sẽ sớm nhận được e-mail xác nhận.
+specification | noun | /ˌspesɪfɪˈkeɪʃn/ | thông số kỹ thuật | a detailed description of how something must be made | technical specifications; meet specifications | The parts do not meet our *specifications*. | Linh kiện không đáp ứng thông số của chúng tôi.
+catalog | noun | /ˈkætəlɔːɡ/ | danh mục sản phẩm | a list of products for sale | product catalog; online catalog | Our new *catalog* is available online. | Danh mục sản phẩm mới có trên mạng. | Anh-Anh: catalogue.
+brochure | noun | /broʊˈʃʊr/ | tờ quảng cáo, sách giới thiệu | a small book with information about products | travel brochure; product brochure | Please take a *brochure* on your way out. | Vui lòng lấy một tờ giới thiệu khi ra về.
+flyer | noun | /ˈflaɪər/ | tờ rơi | a sheet of paper advertising something | hand out flyers | We handed out *flyers* at the station. | Chúng tôi phát tờ rơi ở nhà ga.
+price list | noun | /ˈpraɪs lɪst/ | bảng giá | a list of prices | updated price list | Please find our updated *price list* attached. | Bảng giá cập nhật được đính kèm.
+reasonably priced | adjective | /ˌriːznəbli ˈpraɪst/ | giá phải chăng | not too expensive | reasonably priced meals | The hotel restaurant is *reasonably priced*. | Nhà hàng khách sạn có giá phải chăng.
+affordability | noun | /əˌfɔːrdəˈbɪləti/ | khả năng chi trả | how cheap something is for people | housing affordability | Customers care most about *affordability*. | Khách hàng quan tâm nhất đến giá cả phải chăng.
+negotiable | adjective | /nɪˈɡoʊʃiəbl/ | có thể thương lượng | able to be discussed and changed | salary negotiable; price is negotiable | The price is *negotiable* for large orders. | Giá có thể thương lượng với đơn hàng lớn.
+procurement | noun | /prəˈkjʊrmənt/ | việc mua sắm (vật tư) | the process of buying supplies | procurement process | All *procurement* must follow company rules. | Mọi hoạt động mua sắm phải tuân thủ quy định công ty.
+stock up | verb | /ˌstɑːk ˈʌp/ | tích trữ, mua dự trữ | to buy a lot of something | stock up on | We need to *stock up* on paper before the holidays. | Chúng ta cần mua dự trữ giấy trước kỳ nghỉ.
+restock | verb | /ˌriːˈstɑːk/ | bổ sung hàng | to fill again with goods | restock the shelves | The shelves are *restocked* every morning. | Kệ hàng được bổ sung mỗi sáng.
+expire | verb | /ɪkˈspaɪər/ | hết hạn | to come to the end of the time it can be used | the offer expires; expired card | This coupon *expires* on May 31. | Phiếu giảm giá này hết hạn vào 31/5.
+expiration date | noun | /ˌekspəˈreɪʃn deɪt/ | ngày hết hạn | the date after which something cannot be used | check the expiration date | Check the *expiration date* before using the medicine. | Kiểm tra hạn sử dụng trước khi dùng thuốc.

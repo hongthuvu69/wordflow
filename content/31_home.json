@@ -1,0 +1,926 @@
+{
+ "id": "home",
+ "order": 31,
+ "icon": "🏠",
+ "level": "B1",
+ "title": "Home & Everyday Objects",
+ "title_vi": "Nhà cửa & Đồ vật quanh ta",
+ "description": "Phòng ốc, đồ dùng, sửa chữa, đồ đạc: rất hữu ích cho Part 1 (mô tả tranh) và Part 3 (bất động sản, sửa chữa).",
+ "words": [
+  {
+   "id": "hom_basement",
+   "word": "basement",
+   "pos": "noun",
+   "ipa": "/ˈbeɪsmənt/",
+   "level": "B2",
+   "meaning": "tầng hầm",
+   "definition": "a room under a building",
+   "collocations": [
+    "in the basement",
+    "basement parking"
+   ],
+   "examples": [
+    {
+     "en": "The gym is in the *basement*.",
+     "vi": "Phòng tập ở tầng hầm."
+    }
+   ]
+  },
+  {
+   "id": "hom_ceiling",
+   "word": "ceiling",
+   "pos": "noun",
+   "ipa": "/ˈsiːlɪŋ/",
+   "level": "B1",
+   "meaning": "trần nhà",
+   "definition": "the top surface inside a room",
+   "collocations": [
+    "high ceilings",
+    "ceiling fan"
+   ],
+   "examples": [
+    {
+     "en": "The room has a high *ceiling*.",
+     "vi": "Căn phòng có trần cao."
+    }
+   ]
+  },
+  {
+   "id": "hom_corridor",
+   "word": "corridor",
+   "pos": "noun",
+   "ipa": "/ˈkɔːrɪdɔːr/",
+   "level": "B2",
+   "meaning": "hành lang",
+   "definition": "a long passage in a building",
+   "collocations": [
+    "at the end of the corridor"
+   ],
+   "examples": [
+    {
+     "en": "The meeting room is at the end of the *corridor*.",
+     "vi": "Phòng họp ở cuối hành lang."
+    }
+   ]
+  },
+  {
+   "id": "hom_garage",
+   "word": "garage",
+   "pos": "noun",
+   "ipa": "/ɡəˈrɑːʒ/",
+   "level": "B1",
+   "meaning": "nhà để xe; xưởng sửa xe",
+   "definition": "a building for a car; a place that repairs cars",
+   "collocations": [
+    "park in the garage",
+    "take the car to the garage"
+   ],
+   "examples": [
+    {
+     "en": "My car is at the *garage* for repairs.",
+     "vi": "Xe tôi đang ở xưởng để sửa."
+    }
+   ]
+  },
+  {
+   "id": "hom_yard",
+   "word": "yard",
+   "pos": "noun",
+   "ipa": "/jɑːrd/",
+   "level": "B1",
+   "meaning": "sân",
+   "definition": "the land around a house",
+   "collocations": [
+    "back yard",
+    "front yard"
+   ],
+   "examples": [
+    {
+     "en": "The kids are playing in the *yard*.",
+     "vi": "Bọn trẻ đang chơi ngoài sân."
+    }
+   ]
+  },
+  {
+   "id": "hom_fence",
+   "word": "fence",
+   "pos": "noun",
+   "ipa": "/fens/",
+   "level": "B1",
+   "meaning": "hàng rào",
+   "definition": "a wall made of wood or wire",
+   "collocations": [
+    "build a fence",
+    "garden fence"
+   ],
+   "examples": [
+    {
+     "en": "A wooden *fence* surrounds the garden.",
+     "vi": "Một hàng rào gỗ bao quanh khu vườn."
+    }
+   ]
+  },
+  {
+   "id": "hom_cottage",
+   "word": "cottage",
+   "pos": "noun",
+   "ipa": "/ˈkɑːtɪdʒ/",
+   "level": "B1",
+   "meaning": "nhà tranh, nhà nhỏ ở quê",
+   "definition": "a small house in the countryside",
+   "collocations": [
+    "a holiday cottage"
+   ],
+   "examples": [
+    {
+     "en": "We rented a *cottage* by the lake.",
+     "vi": "Chúng tôi thuê một căn nhà nhỏ cạnh hồ."
+    }
+   ]
+  },
+  {
+   "id": "hom_heating",
+   "word": "heating",
+   "pos": "noun",
+   "ipa": "/ˈhiːtɪŋ/",
+   "level": "B1",
+   "meaning": "hệ thống sưởi",
+   "definition": "a system for keeping a building warm",
+   "collocations": [
+    "central heating",
+    "turn on the heating"
+   ],
+   "examples": [
+    {
+     "en": "Can you turn the *heating* up?",
+     "vi": "Bạn có thể tăng sưởi lên không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_lighting",
+   "word": "lighting",
+   "pos": "noun",
+   "ipa": "/ˈlaɪtɪŋ/",
+   "level": "B2",
+   "meaning": "ánh sáng, hệ thống đèn",
+   "definition": "the lights in a place",
+   "collocations": [
+    "poor lighting",
+    "office lighting"
+   ],
+   "examples": [
+    {
+     "en": "Good *lighting* makes the office more pleasant.",
+     "vi": "Ánh sáng tốt làm văn phòng dễ chịu hơn."
+    }
+   ]
+  },
+  {
+   "id": "hom_curtain",
+   "word": "curtain",
+   "pos": "noun",
+   "ipa": "/ˈkɜːrtn/",
+   "level": "B1",
+   "meaning": "rèm cửa",
+   "definition": "a piece of cloth hung over a window",
+   "collocations": [
+    "open the curtains",
+    "draw the curtains"
+   ],
+   "examples": [
+    {
+     "en": "Could you close the *curtains*?",
+     "vi": "Bạn kéo rèm lại được không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_blanket",
+   "word": "blanket",
+   "pos": "noun",
+   "ipa": "/ˈblæŋkɪt/",
+   "level": "B2",
+   "meaning": "chăn",
+   "definition": "a thick cover for a bed",
+   "collocations": [
+    "an extra blanket",
+    "wool blanket"
+   ],
+   "examples": [
+    {
+     "en": "Can I have an extra *blanket*, please?",
+     "vi": "Cho tôi xin thêm một cái chăn được không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_shelf",
+   "word": "shelf",
+   "pos": "noun",
+   "ipa": "/ʃelf/",
+   "level": "B1",
+   "meaning": "kệ, giá",
+   "definition": "a flat board on a wall for putting things on",
+   "collocations": [
+    "on the shelf",
+    "top shelf",
+    "bookshelf"
+   ],
+   "examples": [
+    {
+     "en": "The files are on the top *shelf*.",
+     "vi": "Hồ sơ ở trên kệ trên cùng."
+    }
+   ],
+   "note": "Số nhiều: shelves. Part 1 hay gặp: stocking shelves."
+  },
+  {
+   "id": "hom_basket",
+   "word": "basket",
+   "pos": "noun",
+   "ipa": "/ˈbæskɪt/",
+   "level": "B2",
+   "meaning": "cái giỏ",
+   "definition": "a container made of thin pieces of wood or plastic",
+   "collocations": [
+    "shopping basket",
+    "laundry basket"
+   ],
+   "examples": [
+    {
+     "en": "She is carrying a *basket* of fruit.",
+     "vi": "Cô ấy đang xách một giỏ trái cây."
+    }
+   ]
+  },
+  {
+   "id": "hom_container",
+   "word": "container",
+   "pos": "noun",
+   "ipa": "/kənˈteɪnər/",
+   "level": "B1",
+   "meaning": "thùng chứa; công-ten-nơ",
+   "definition": "a box or bottle for holding things; a large metal box for shipping",
+   "collocations": [
+    "plastic container",
+    "shipping container"
+   ],
+   "examples": [
+    {
+     "en": "Store the food in an airtight *container*.",
+     "vi": "Bảo quản thức ăn trong hộp kín."
+    }
+   ]
+  },
+  {
+   "id": "hom_envelope",
+   "word": "envelope",
+   "pos": "noun",
+   "ipa": "/ˈenvəloʊp/",
+   "level": "B2",
+   "meaning": "phong bì",
+   "definition": "a paper cover for a letter",
+   "collocations": [
+    "seal an envelope",
+    "a stamped envelope"
+   ],
+   "examples": [
+    {
+     "en": "Put the documents in an *envelope*.",
+     "vi": "Cho tài liệu vào phong bì."
+    }
+   ]
+  },
+  {
+   "id": "hom_candle",
+   "word": "candle",
+   "pos": "noun",
+   "ipa": "/ˈkændl/",
+   "level": "B2",
+   "meaning": "cây nến",
+   "definition": "a stick of wax that gives light",
+   "collocations": [
+    "light a candle"
+   ],
+   "examples": [
+    {
+     "en": "We lit *candles* when the power went out.",
+     "vi": "Chúng tôi thắp nến khi mất điện."
+    }
+   ]
+  },
+  {
+   "id": "hom_ladder",
+   "word": "ladder",
+   "pos": "noun",
+   "ipa": "/ˈlædər/",
+   "level": "B2",
+   "meaning": "cái thang",
+   "definition": "a piece of equipment for climbing up",
+   "collocations": [
+    "climb a ladder",
+    "on a ladder"
+   ],
+   "examples": [
+    {
+     "en": "A man is standing on a *ladder*.",
+     "vi": "Một người đàn ông đang đứng trên thang."
+    }
+   ],
+   "note": "Câu mô tả tranh Part 1 kinh điển."
+  },
+  {
+   "id": "hom_rope",
+   "word": "rope",
+   "pos": "noun",
+   "ipa": "/roʊp/",
+   "level": "B1",
+   "meaning": "dây thừng",
+   "definition": "a thick strong string",
+   "collocations": [
+    "tie with a rope",
+    "a piece of rope"
+   ],
+   "examples": [
+    {
+     "en": "They tied the boat with a *rope*.",
+     "vi": "Họ buộc thuyền bằng dây thừng."
+    }
+   ]
+  },
+  {
+   "id": "hom_string",
+   "word": "string",
+   "pos": "noun",
+   "ipa": "/strɪŋ/",
+   "level": "B1",
+   "meaning": "sợi dây; chuỗi",
+   "definition": "thin rope; a series of things",
+   "collocations": [
+    "a piece of string",
+    "a string of"
+   ],
+   "examples": [
+    {
+     "en": "The package was tied with *string*.",
+     "vi": "Gói hàng được buộc bằng dây."
+    }
+   ]
+  },
+  {
+   "id": "hom_hook",
+   "word": "hook",
+   "pos": "noun",
+   "ipa": "/hʊk/",
+   "level": "B2",
+   "meaning": "cái móc",
+   "definition": "a curved piece of metal for hanging things",
+   "collocations": [
+    "coat hook",
+    "on the hook"
+   ],
+   "examples": [
+    {
+     "en": "Hang your coat on the *hook*.",
+     "vi": "Treo áo khoác lên móc."
+    }
+   ]
+  },
+  {
+   "id": "hom_nail",
+   "word": "nail",
+   "pos": "noun",
+   "ipa": "/neɪl/",
+   "level": "B1",
+   "meaning": "cái đinh; móng tay",
+   "definition": "a thin metal pin; the hard part at the end of a finger",
+   "collocations": [
+    "hammer a nail",
+    "nail polish"
+   ],
+   "examples": [
+    {
+     "en": "He hammered a *nail* into the wall.",
+     "vi": "Anh ấy đóng một cây đinh vào tường."
+    }
+   ]
+  },
+  {
+   "id": "hom_pin",
+   "word": "pin",
+   "pos": "noun",
+   "ipa": "/pɪn/",
+   "level": "B1",
+   "meaning": "đinh ghim; mã PIN",
+   "definition": "a thin metal pin; a secret number",
+   "collocations": [
+    "PIN number",
+    "safety pin"
+   ],
+   "examples": [
+    {
+     "en": "Enter your *PIN* to continue.",
+     "vi": "Nhập mã PIN để tiếp tục."
+    }
+   ]
+  },
+  {
+   "id": "hom_tin",
+   "word": "tin",
+   "pos": "noun",
+   "ipa": "/tɪn/",
+   "level": "B1",
+   "meaning": "hộp thiếc, đồ hộp",
+   "definition": "a metal container for food",
+   "collocations": [
+    "a tin of tomatoes"
+   ],
+   "examples": [
+    {
+     "en": "Open a *tin* of beans for dinner.",
+     "vi": "Mở một hộp đậu cho bữa tối."
+    }
+   ]
+  },
+  {
+   "id": "hom_pan",
+   "word": "pan",
+   "pos": "noun",
+   "ipa": "/pæn/",
+   "level": "B1",
+   "meaning": "cái chảo",
+   "definition": "a metal pot for cooking",
+   "collocations": [
+    "frying pan",
+    "non-stick pan"
+   ],
+   "examples": [
+    {
+     "en": "Heat some oil in a *pan*.",
+     "vi": "Đun nóng ít dầu trong chảo."
+    }
+   ]
+  },
+  {
+   "id": "hom_pot",
+   "word": "pot",
+   "pos": "noun",
+   "ipa": "/pɑːt/",
+   "level": "B1",
+   "meaning": "nồi; chậu; bình",
+   "definition": "a deep round container",
+   "collocations": [
+    "a pot of coffee",
+    "flower pot"
+   ],
+   "examples": [
+    {
+     "en": "There's a fresh *pot* of coffee in the kitchen.",
+     "vi": "Có bình cà phê mới pha trong bếp."
+    }
+   ]
+  },
+  {
+   "id": "hom_pipe",
+   "word": "pipe",
+   "pos": "noun",
+   "ipa": "/paɪp/",
+   "level": "B1",
+   "meaning": "đường ống",
+   "definition": "a tube for carrying water or gas",
+   "collocations": [
+    "water pipe",
+    "a burst pipe"
+   ],
+   "examples": [
+    {
+     "en": "A burst *pipe* flooded the kitchen.",
+     "vi": "Một đường ống bị vỡ làm ngập nhà bếp."
+    }
+   ]
+  },
+  {
+   "id": "hom_tube",
+   "word": "tube",
+   "pos": "noun",
+   "ipa": "/tuːb/",
+   "level": "B1",
+   "meaning": "ống; tuýp",
+   "definition": "a long hollow pipe; a soft container",
+   "collocations": [
+    "a tube of toothpaste",
+    "the Tube"
+   ],
+   "examples": [
+    {
+     "en": "Squeeze the *tube* gently.",
+     "vi": "Bóp nhẹ tuýp."
+    }
+   ]
+  },
+  {
+   "id": "hom_tank",
+   "word": "tank",
+   "pos": "noun",
+   "ipa": "/tæŋk/",
+   "level": "B2",
+   "meaning": "bể chứa; xe tăng",
+   "definition": "a large container for liquid or gas; a military vehicle",
+   "collocations": [
+    "fuel tank",
+    "water tank"
+   ],
+   "examples": [
+    {
+     "en": "Fill up the *tank* before the long drive.",
+     "vi": "Đổ đầy bình xăng trước chuyến đi dài."
+    }
+   ]
+  },
+  {
+   "id": "hom_iron",
+   "word": "iron",
+   "pos": "noun",
+   "ipa": "/ˈaɪərn/",
+   "level": "B1",
+   "meaning": "bàn là; sắt",
+   "definition": "a device for making clothes smooth; a metal",
+   "collocations": [
+    "an iron and ironing board",
+    "iron gate"
+   ],
+   "examples": [
+    {
+     "en": "The hotel room has an *iron* and hairdryer.",
+     "vi": "Phòng khách sạn có bàn là và máy sấy tóc."
+    }
+   ]
+  },
+  {
+   "id": "hom_needle",
+   "word": "needle",
+   "pos": "noun",
+   "ipa": "/ˈniːdl/",
+   "level": "B1",
+   "meaning": "cái kim",
+   "definition": "a thin pointed piece of metal",
+   "collocations": [
+    "needle and thread"
+   ],
+   "examples": [
+    {
+     "en": "I need a *needle* and thread to fix this button.",
+     "vi": "Tôi cần kim chỉ để khâu lại cái cúc này."
+    }
+   ]
+  },
+  {
+   "id": "hom_kit",
+   "word": "kit",
+   "pos": "noun",
+   "ipa": "/kɪt/",
+   "level": "B2",
+   "meaning": "bộ dụng cụ",
+   "definition": "a set of tools or equipment",
+   "collocations": [
+    "first aid kit",
+    "tool kit"
+   ],
+   "examples": [
+    {
+     "en": "There's a first-aid *kit* in every office.",
+     "vi": "Mỗi văn phòng đều có một hộp sơ cứu."
+    }
+   ]
+  },
+  {
+   "id": "hom_cloth",
+   "word": "cloth",
+   "pos": "noun",
+   "ipa": "/klɔːθ/",
+   "level": "B1",
+   "meaning": "vải; giẻ",
+   "definition": "material made from cotton, wool etc.; a piece of it for cleaning",
+   "collocations": [
+    "a damp cloth",
+    "cotton cloth"
+   ],
+   "examples": [
+    {
+     "en": "Clean the screen with a soft *cloth*.",
+     "vi": "Lau màn hình bằng khăn mềm."
+    }
+   ]
+  },
+  {
+   "id": "hom_rubber",
+   "word": "rubber",
+   "pos": "noun",
+   "ipa": "/ˈrʌbər/",
+   "level": "B2",
+   "meaning": "cao su; cục tẩy",
+   "definition": "a strong material that bends; an eraser",
+   "collocations": [
+    "rubber gloves",
+    "rubber band"
+   ],
+   "examples": [
+    {
+     "en": "Wear *rubber* gloves when cleaning.",
+     "vi": "Đeo găng cao su khi dọn dẹp."
+    }
+   ]
+  },
+  {
+   "id": "hom_switch",
+   "word": "switch",
+   "pos": "noun",
+   "ipa": "/swɪtʃ/",
+   "level": "B1",
+   "meaning": "công tắc; sự chuyển đổi",
+   "definition": "a button for turning something on or off; a change",
+   "collocations": [
+    "light switch",
+    "make the switch"
+   ],
+   "examples": [
+    {
+     "en": "The light *switch* is next to the door.",
+     "vi": "Công tắc đèn ở cạnh cửa."
+    }
+   ]
+  },
+  {
+   "id": "hom_plug",
+   "word": "plug",
+   "pos": "noun",
+   "ipa": "/plʌɡ/",
+   "level": "C1",
+   "meaning": "phích cắm",
+   "definition": "the part of a cable that goes into the wall",
+   "collocations": [
+    "plug in",
+    "pull the plug"
+   ],
+   "examples": [
+    {
+     "en": "Is the printer *plugged* in?",
+     "vi": "Máy in đã cắm điện chưa?"
+    }
+   ],
+   "note": "Động từ plug in = cắm điện."
+  },
+  {
+   "id": "hom_repair",
+   "word": "repair",
+   "pos": "verb",
+   "ipa": "/rɪˈper/",
+   "level": "B1",
+   "meaning": "sửa chữa",
+   "definition": "to fix something broken",
+   "collocations": [
+    "repair a car",
+    "get something repaired"
+   ],
+   "examples": [
+    {
+     "en": "The lift is being *repaired*.",
+     "vi": "Thang máy đang được sửa chữa."
+    }
+   ],
+   "note": "under repair = đang sửa."
+  },
+  {
+   "id": "hom_decorate",
+   "word": "decorate",
+   "pos": "verb",
+   "ipa": "/ˈdekəreɪt/",
+   "level": "B1",
+   "meaning": "trang trí; sơn sửa",
+   "definition": "to make a place more attractive; to paint a room",
+   "collocations": [
+    "decorate the office",
+    "be decorated with"
+   ],
+   "examples": [
+    {
+     "en": "The lobby was *decorated* with flowers.",
+     "vi": "Sảnh được trang trí bằng hoa."
+    }
+   ]
+  },
+  {
+   "id": "hom_decoration",
+   "word": "decoration",
+   "pos": "noun",
+   "ipa": "/ˌdekəˈreɪʃn/",
+   "level": "B2",
+   "meaning": "đồ trang trí",
+   "definition": "things used to make a place look attractive",
+   "collocations": [
+    "Christmas decorations"
+   ],
+   "examples": [
+    {
+     "en": "We put up *decorations* for the party.",
+     "vi": "Chúng tôi treo đồ trang trí cho bữa tiệc."
+    }
+   ]
+  },
+  {
+   "id": "hom_fold",
+   "word": "fold",
+   "pos": "verb",
+   "ipa": "/foʊld/",
+   "level": "B1",
+   "meaning": "gấp",
+   "definition": "to bend paper or cloth so one part covers another",
+   "collocations": [
+    "fold a letter",
+    "fold your arms"
+   ],
+   "examples": [
+    {
+     "en": "Please *fold* the towels and put them away.",
+     "vi": "Vui lòng gấp khăn và cất đi."
+    }
+   ]
+  },
+  {
+   "id": "hom_folding",
+   "word": "folding",
+   "pos": "adjective",
+   "ipa": "/ˈfoʊldɪŋ/",
+   "level": "B2",
+   "meaning": "gấp được",
+   "definition": "able to be folded",
+   "collocations": [
+    "folding chair",
+    "folding table"
+   ],
+   "examples": [
+    {
+     "en": "We need twenty *folding* chairs for the event.",
+     "vi": "Chúng ta cần 20 ghế gấp cho sự kiện."
+    }
+   ]
+  },
+  {
+   "id": "hom_wrap",
+   "word": "wrap",
+   "pos": "verb",
+   "ipa": "/ræp/",
+   "level": "B2",
+   "meaning": "gói, bọc",
+   "definition": "to cover something with paper or cloth",
+   "collocations": [
+    "wrap a gift",
+    "gift-wrapped"
+   ],
+   "examples": [
+    {
+     "en": "Would you like me to *wrap* it as a gift?",
+     "vi": "Bạn có muốn tôi gói quà không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_pile",
+   "word": "pile",
+   "pos": "noun",
+   "ipa": "/paɪl/",
+   "level": "B2",
+   "meaning": "chồng, đống",
+   "definition": "a number of things put on top of each other",
+   "collocations": [
+    "a pile of papers",
+    "piles of"
+   ],
+   "examples": [
+    {
+     "en": "There's a *pile* of documents on my desk.",
+     "vi": "Có một chồng tài liệu trên bàn tôi."
+    }
+   ],
+   "note": "Part 1: Boxes are piled up = Các hộp được chất chồng."
+  },
+  {
+   "id": "hom_bunch",
+   "word": "bunch",
+   "pos": "noun",
+   "ipa": "/bʌntʃ/",
+   "level": "B2",
+   "meaning": "bó, chùm",
+   "definition": "a group of things held together",
+   "collocations": [
+    "a bunch of flowers",
+    "a bunch of keys"
+   ],
+   "examples": [
+    {
+     "en": "He bought her a *bunch* of flowers.",
+     "vi": "Anh ấy mua tặng cô một bó hoa."
+    }
+   ]
+  },
+  {
+   "id": "hom_mess",
+   "word": "mess",
+   "pos": "noun",
+   "ipa": "/mes/",
+   "level": "B1",
+   "meaning": "sự bừa bộn",
+   "definition": "a dirty or untidy state",
+   "collocations": [
+    "in a mess",
+    "make a mess"
+   ],
+   "examples": [
+    {
+     "en": "Sorry about the *mess*. We're moving offices.",
+     "vi": "Xin lỗi vì bừa bộn, chúng tôi đang chuyển văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "hom_stuff",
+   "word": "stuff",
+   "pos": "noun",
+   "ipa": "/stʌf/",
+   "level": "B1",
+   "meaning": "đồ đạc, thứ",
+   "definition": "things in general (informal)",
+   "collocations": [
+    "a lot of stuff",
+    "my stuff"
+   ],
+   "examples": [
+    {
+     "en": "Can I leave my *stuff* here?",
+     "vi": "Tôi để đồ ở đây được không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_spare",
+   "word": "spare",
+   "pos": "adjective",
+   "ipa": "/sper/",
+   "level": "B2",
+   "meaning": "dự phòng; rảnh",
+   "definition": "extra; not being used",
+   "collocations": [
+    "spare key",
+    "spare time",
+    "spare parts"
+   ],
+   "examples": [
+    {
+     "en": "Do you have a *spare* key?",
+     "vi": "Bạn có chìa khóa dự phòng không?"
+    }
+   ]
+  },
+  {
+   "id": "hom_furniture",
+   "word": "furniture",
+   "pos": "noun",
+   "ipa": "/ˈfɜːrnɪtʃər/",
+   "level": "A2",
+   "meaning": "đồ nội thất",
+   "definition": "chairs, tables, beds etc.",
+   "collocations": [
+    "office furniture",
+    "a piece of furniture"
+   ],
+   "examples": [
+    {
+     "en": "The new office *furniture* arrives on Monday.",
+     "vi": "Nội thất văn phòng mới sẽ đến vào thứ Hai."
+    }
+   ],
+   "note": "Danh từ không đếm được: a piece of furniture."
+  },
+  {
+   "id": "hom_appliance",
+   "word": "appliance",
+   "pos": "noun",
+   "ipa": "/əˈplaɪəns/",
+   "level": "TOEIC",
+   "meaning": "thiết bị gia dụng",
+   "definition": "a machine used in the home",
+   "collocations": [
+    "kitchen appliances",
+    "electrical appliances"
+   ],
+   "examples": [
+    {
+     "en": "The store offers free delivery on large *appliances*.",
+     "vi": "Cửa hàng giao miễn phí các thiết bị gia dụng lớn."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,64 @@
+#id: familiar3
+#prefix: fa3
+#order: 51
+#icon: ♻️
+#title: Familiar Words, New Meanings (3)
+#title_vi: Từ quen – nghĩa mới (3)
+#desc: Nhóm cuối của các từ cơ bản ở nghĩa B1–B2: make, need, used to, worse/worst, whole, yet…
+make | noun | /meɪk/ | hãng, nhãn hiệu | the brand of a product | make and model | What *make* is your car? | Xe bạn của hãng nào?
+making | noun | /ˈmeɪkɪŋ/ | sự làm ra; tố chất | the process of making something | decision-making; in the making | She has the *makings* of a great manager. | Cô ấy có tố chất của một nhà quản lý giỏi. | decision-making = việc ra quyết định.
+mistake | verb | /mɪˈsteɪk/ | nhầm lẫn | to think one person or thing is another | mistake A for B | I *mistook* him for the manager. | Tôi nhầm anh ấy là quản lý.
+need | noun | /niːd/ | nhu cầu | something you must have | customer needs; in need of; meet the needs | We design products to meet customer *needs*. | Chúng tôi thiết kế sản phẩm đáp ứng nhu cầu khách hàng.
+net | adjective | /net/ | ròng (sau khi trừ) | after taxes or costs are taken away | net profit; net income | The company's *net* profit rose by 8%. | Lợi nhuận ròng của công ty tăng 8%. | gross = gộp (trước khi trừ).
+next | adverb | /nekst/ | tiếp theo | after this | what to do next; next to | What should we do *next*? | Chúng ta nên làm gì tiếp theo?
+now | conjunction | /naʊ/ | giờ thì, vì giờ đây | because something has happened | now that | *Now* that the project is finished, we can relax. | Giờ dự án đã xong, chúng ta có thể nghỉ ngơi.
+occupy | verb | /ˈɑːkjupaɪ/ | chiếm (chỗ); bận rộn | to use a space; to keep busy | occupied seat; keep occupied | This seat is *occupied*. | Ghế này có người ngồi rồi.
+occur | verb | /əˈkɜːr/ | xảy ra; nảy ra (ý) | to happen; to come into your mind | occur to someone; the accident occurred | The accident *occurred* at 9 a.m. | Vụ tai nạn xảy ra lúc 9 giờ sáng.
+ours | pronoun | /ˈaʊərz/ | của chúng tôi | the one belonging to us | a friend of ours | The red car is *ours*. | Chiếc xe màu đỏ là của chúng tôi.
+theirs | pronoun | /ðerz/ | của họ | the one belonging to them | the choice is theirs | Our prices are lower than *theirs*. | Giá của chúng tôi thấp hơn của họ.
+plus | preposition | /plʌs/ | cộng thêm | and also; added to | plus tax; plus shipping | The price is $50 *plus* tax. | Giá là 50 đô chưa gồm thuế. | Danh từ: a plus = một điểm cộng.
+possess | verb | /pəˈzes/ | sở hữu | to have or own | possess skills; possess a licence | Candidates must *possess* a valid driving licence. | Ứng viên phải có bằng lái xe còn hạn.
+inherit | verb | /ɪnˈherɪt/ | thừa kế; tiếp quản | to receive from someone who has died; to take over | inherit a house; inherit a problem | The new manager *inherited* several problems. | Quản lý mới tiếp quản một số vấn đề tồn đọng.
+insert | verb | /ɪnˈsɜːrt/ | chèn, đưa vào | to put something into something | insert a card; insert a picture | *Insert* your card and enter your PIN. | Đưa thẻ vào và nhập mã PIN.
+interact | verb | /ˌɪntərˈækt/ | tương tác | to communicate with | interact with customers | Sales staff *interact* with customers every day. | Nhân viên bán hàng tương tác với khách hàng hằng ngày.
+kind | noun | /kaɪnd/ | loại | a type | what kind of; all kinds of | What *kind* of job are you looking for? | Bạn đang tìm loại công việc nào?
+like | preposition | /laɪk/ | giống như; chẳng hạn | similar to; for example | look like; feel like; such as | Fruits *like* oranges contain vitamin C. | Các loại trái cây như cam có chứa vitamin C. | feel like + V-ing = muốn làm gì.
+unlike | preposition | /ˌʌnˈlaɪk/ | không giống, khác với | different from | unlike most companies | *Unlike* most hotels, we don't charge for Wi-Fi. | Khác với hầu hết khách sạn, chúng tôi không tính phí Wi-Fi.
+ring | noun | /rɪŋ/ | chiếc nhẫn; cú điện thoại; vòng | a piece of jewellery; a phone call; a circle | give someone a ring; wedding ring | Give me a *ring* when you arrive. | Đến nơi thì gọi cho tôi nhé.
+rose | noun | /roʊz/ | hoa hồng | a flower with a sweet smell | red roses | He bought her a dozen *roses*. | Anh ấy mua tặng cô một tá hoa hồng.
+row | noun | /roʊ/ | hàng, dãy | a line of things or people | in a row; front row; three days in a row | We sat in the front *row*. | Chúng tôi ngồi ở hàng ghế đầu. | in a row = liên tiếp.
+rat | noun | /ræt/ | con chuột (lớn) | an animal like a large mouse | rat problem | The restaurant was closed because of *rats*. | Nhà hàng bị đóng cửa vì có chuột.
+sense | noun | /sens/ | giác quan; ý thức; ý nghĩa | the ability to see, hear etc.; understanding; meaning | sense of humour; make sense; common sense | Your plan makes *sense*. | Kế hoạch của bạn hợp lý.
+sex | noun | /seks/ | giới tính | being male or female | sex and age; of either sex | The form asks for your name, age and *sex*. | Mẫu đơn hỏi tên, tuổi và giới tính của bạn.
+sexual | adjective | /ˈsekʃuəl/ | thuộc giới tính; tình dục | connected with sex | sexual harassment | The company has a strict policy against *sexual* harassment. | Công ty có chính sách nghiêm ngặt chống quấy rối tình dục.
+sexy | adjective | /ˈseksi/ | gợi cảm; hấp dẫn (văn nói) | sexually attractive; exciting (informal) | a sexy car | Data analysis isn't *sexy*, but it's important. | Phân tích dữ liệu không hấp dẫn nhưng rất quan trọng.
+gay | adjective | /ɡeɪ/ | đồng tính | attracted to people of the same sex | gay rights | The company supports equal rights for *gay* employees. | Công ty ủng hộ quyền bình đẳng cho nhân viên đồng tính.
+punk | noun | /pʌŋk/ | nhạc punk | a type of loud rock music | punk rock; punk band | He played in a *punk* band when he was young. | Thời trẻ anh ấy chơi trong một ban nhạc punk.
+slope | noun | /sloʊp/ | dốc, sườn dốc | a surface that goes up or down | a steep slope; ski slope | The hotel is at the bottom of the ski *slopes*. | Khách sạn nằm dưới chân các dốc trượt tuyết.
+slow | verb | /sloʊ/ | chậm lại | to become slower | slow down | Sales *slowed* down in the summer. | Doanh số chậm lại vào mùa hè.
+spring | noun | /sprɪŋ/ | mùa xuân; lò xo; suối | the season after winter; a metal coil; natural water | hot spring; in spring | We visited the hot *springs* in Japan. | Chúng tôi tắm suối nước nóng ở Nhật.
+still | adjective | /stɪl/ | đứng yên; (nước) không ga | not moving; without bubbles | stand still; still water | Please stand *still* for the photo. | Vui lòng đứng yên để chụp ảnh. | still water = nước không ga.
+stroke | noun | /stroʊk/ | đột quỵ; cú (đánh) | a sudden illness of the brain; a hit | have a stroke; a stroke of luck | It was a *stroke* of luck that we found a taxi. | Thật may mắn là chúng tôi bắt được taxi.
+super | adjective | /ˈsuːpər/ | tuyệt (văn nói) | very good | super helpful; super fast | The staff were *super* helpful. | Nhân viên cực kỳ nhiệt tình.
+surround | verb | /səˈraʊnd/ | bao quanh | to be all around | be surrounded by | The hotel is *surrounded* by gardens. | Khách sạn được bao quanh bởi vườn cây.
+surrounding | adjective | /səˈraʊndɪŋ/ | xung quanh | near and around | surrounding area; surrounding villages | The festival attracts visitors from the *surrounding* area. | Lễ hội thu hút du khách từ khu vực xung quanh.
+that | adverb | /ðæt/ | đến mức đó | so; very | not that bad; not that expensive | The test wasn't *that* difficult. | Bài kiểm tra không khó đến thế.
+this | adverb | /ðɪs/ | đến mức này | so; as much as this | this late; this much | I didn't expect the meeting to run *this* late. | Tôi không nghĩ cuộc họp lại kéo dài muộn thế này.
+tone | noun | /toʊn/ | giọng điệu; âm báo | the way something sounds; a sound | tone of voice; leave a message after the tone | Please leave a message after the *tone*. | Vui lòng để lại lời nhắn sau tiếng bíp.
+trick | noun | /trɪk/ | mẹo; trò lừa | a clever way of doing something; something to deceive | tips and tricks; play a trick | Here are a few *tricks* for remembering new words. | Đây là vài mẹo để nhớ từ mới.
+try | noun | /traɪ/ | lần thử | an attempt | give it a try; have a try | Why don't you give it a *try*? | Sao bạn không thử xem?
+used | adjective | /juːzd/ | đã qua sử dụng; quen với | not new; familiar with | used cars; be used to | They sell *used* cars at good prices. | Họ bán xe cũ giá tốt.
+used to | modal verb | /ˈjuːst tə/ | đã từng | something that happened regularly in the past | used to work; used to live | I *used to* work in a bank. | Tôi từng làm ở ngân hàng. | be used to + V-ing = quen với việc.
+very | adjective | /ˈveri/ | chính, đúng | exact; extreme | the very best; at the very end | This is the *very* book I was looking for. | Đây đúng là cuốn sách tôi đang tìm.
+warm | verb | /wɔːrm/ | làm ấm; khởi động | to make warm | warm up | Let's *warm* up with an easy question. | Hãy khởi động bằng một câu hỏi dễ. | warm-up = phần khởi động.
+water | verb | /ˈwɔːtər/ | tưới nước | to give water to plants | water the plants | Could you *water* the plants while I'm away? | Bạn tưới cây giúp tôi khi tôi đi vắng được không?
+way | noun | /weɪ/ | cách; phương diện | a method; a respect | by the way; in a way; no way | By the *way*, the meeting has moved to 3 p.m. | Nhân tiện, cuộc họp đã dời sang 3 giờ chiều.
+whole | noun | /hoʊl/ | toàn bộ | all of something | as a whole; on the whole | On the *whole*, the trip was a success. | Nhìn chung, chuyến đi thành công.
+will | noun | /wɪl/ | ý chí; di chúc | determination; a legal document about property after death | willpower; against your will | Learning a language takes a strong *will*. | Học ngôn ngữ cần ý chí mạnh mẽ.
+wind | verb | /waɪnd/ | lên dây; uốn lượn | to turn; to follow a curving path | wind down; a winding road | The road *winds* through the mountains. | Con đường uốn lượn qua núi. | Động từ phát âm /waɪnd/.
+worry | noun | /ˈwɜːri/ | mối lo | a problem that makes you worried | no worries; my main worry | My main *worry* is the cost. | Lo ngại chính của tôi là chi phí.
+worse | adjective | /wɜːrs/ | tệ hơn | more bad | get worse; even worse | Traffic is *worse* than usual today. | Hôm nay giao thông tệ hơn mọi khi.
+worst | adjective | /wɜːrst/ | tệ nhất | most bad | the worst case; at worst | That was the *worst* flight I've ever taken. | Đó là chuyến bay tệ nhất tôi từng đi.
+wrong | adjective | /rɔːŋ/ | sai; trục trặc | not correct; not working | go wrong; something is wrong with | Something is *wrong* with the printer. | Máy in đang có vấn đề.
+yet | adverb | /jet/ | chưa; tuy nhiên | until now; but | not yet; yet another | The parcel hasn't arrived *yet*. | Bưu kiện vẫn chưa đến. | yet (liên từ) = nhưng: simple yet effective.
+young | noun | /jʌŋ/ | con non; giới trẻ | baby animals; young people | the young | The bird is feeding its *young*. | Con chim đang mớm mồi cho con non.

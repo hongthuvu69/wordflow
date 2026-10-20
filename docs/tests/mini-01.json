@@ -11,80 +11,282 @@
       "groups": [
         {
           "script": [
-            { "sp": "W", "accent": "us", "text": "Where should I put these boxes of printer paper?" },
-            { "sp": "M", "accent": "uk", "text": "A. Yes, I printed it this morning." },
-            { "sp": "M", "accent": "uk", "text": "B. In the supply closet next to the elevator." },
-            { "sp": "M", "accent": "uk", "text": "C. About twenty sheets." }
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "Where should I put these boxes of printer paper?"
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "A. Yes, I printed it this morning."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "B. In the supply closet next to the elevator."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "C. About twenty sheets."
+            }
           ],
           "questions": [
-            { "id": "m01-1", "n": 1, "type": "p2-wh", "options": ["Yes, I printed it this morning.", "In the supply closet next to the elevator.", "About twenty sheets."], "answer": 1,
+            {
+              "id": "m01-1",
+              "n": 1,
+              "type": "p2-wh",
+              "options": [
+                "Yes, I printed it this morning.",
+                "In the supply closet next to the elevator.",
+                "About twenty sheets."
+              ],
+              "answer": 1,
               "explain": "Câu hỏi Where → cần một địa điểm. (A) bẫy âm giống: printer → printed, và câu hỏi WH không trả lời bằng Yes. (C) trả lời số lượng (How many).",
-              "vocab": [["supply closet", "tủ/kho đồ văn phòng phẩm"], ["printer paper", "giấy in"]] }
+              "vocab": [
+                [
+                  "supply closet",
+                  "tủ/kho đồ văn phòng phẩm"
+                ],
+                [
+                  "printer paper",
+                  "giấy in"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "M", "accent": "us", "text": "Has the budget report been approved yet?" },
-            { "sp": "W", "accent": "au", "text": "A. The director is still reviewing it." },
-            { "sp": "W", "accent": "au", "text": "B. A new report card." },
-            { "sp": "W", "accent": "au", "text": "C. Yes, I'd like to." }
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "Has the budget report been approved yet?"
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "A. The director is still reviewing it."
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "B. A new report card."
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "C. Yes, I'd like to."
+            }
           ],
           "questions": [
-            { "id": "m01-2", "n": 2, "type": "p2-indirect", "options": ["The director is still reviewing it.", "A new report card.", "Yes, I'd like to."], "answer": 0,
+            {
+              "id": "m01-2",
+              "n": 2,
+              "type": "p2-indirect",
+              "options": [
+                "The director is still reviewing it.",
+                "A new report card.",
+                "Yes, I'd like to."
+              ],
+              "answer": 0,
               "explain": "Trả lời gián tiếp: không nói Yes/No mà cho biết giám đốc vẫn đang xem → tức là chưa duyệt. Đây là dạng đáp án đúng rất hay gặp. (B) lặp từ report, (C) có Yes nhưng không hợp nghĩa.",
-              "vocab": [["approve", "phê duyệt"], ["review", "xem xét"]] }
+              "vocab": [
+                [
+                  "approve",
+                  "phê duyệt"
+                ],
+                [
+                  "review",
+                  "xem xét"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "W", "accent": "uk", "text": "Could you send me the client's phone number?" },
-            { "sp": "M", "accent": "us", "text": "A. He's a new client." },
-            { "sp": "M", "accent": "us", "text": "B. Sure, I'll e-mail it to you right away." },
-            { "sp": "M", "accent": "us", "text": "C. No, I don't have a cell phone." }
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "Could you send me the client's phone number?"
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "A. He's a new client."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "B. No, I don't have a cell phone."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "C. Sure, I'll e-mail it to you right away."
+            }
           ],
           "questions": [
-            { "id": "m01-3", "n": 3, "type": "p2-request", "options": ["He's a new client.", "Sure, I'll e-mail it to you right away.", "No, I don't have a cell phone."], "answer": 1,
-              "explain": "Câu yêu cầu Could you…? → đồng ý (Sure / Of course) hoặc từ chối có lý do. (A) lặp từ client, (C) lặp từ phone: bẫy lặp từ.",
-              "vocab": [["right away", "ngay lập tức"]] }
+            {
+              "id": "m01-3",
+              "n": 3,
+              "type": "p2-request",
+              "options": [
+                "He's a new client.",
+                "No, I don't have a cell phone.",
+                "Sure, I'll e-mail it to you right away."
+              ],
+              "answer": 2,
+              "explain": "Câu yêu cầu Could you…? → đồng ý (Sure / Of course) hoặc từ chối có lý do. (A) lặp từ client, (B) lặp từ phone: bẫy lặp từ.",
+              "vocab": [
+                [
+                  "right away",
+                  "ngay lập tức"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "M", "accent": "ca", "text": "Would you prefer a window seat or an aisle seat?" },
-            { "sp": "W", "accent": "us", "text": "A. The flight was delayed." },
-            { "sp": "W", "accent": "us", "text": "B. Please have a seat." },
-            { "sp": "W", "accent": "us", "text": "C. Either is fine with me." }
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Would you prefer a window seat or an aisle seat?"
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "A. Either is fine with me."
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "B. The flight was delayed."
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "C. Please have a seat."
+            }
           ],
           "questions": [
-            { "id": "m01-4", "n": 4, "type": "p2-choice", "options": ["The flight was delayed.", "Please have a seat.", "Either is fine with me."], "answer": 2,
-              "explain": "Câu hỏi lựa chọn A or B: đáp án có thể chọn A, chọn B, hoặc \"cái nào cũng được\" (Either is fine / I don't mind). (B) lặp từ seat.",
-              "vocab": [["aisle seat", "ghế cạnh lối đi"], ["either", "cái nào (trong hai) cũng"]] }
+            {
+              "id": "m01-4",
+              "n": 4,
+              "type": "p2-choice",
+              "options": [
+                "Either is fine with me.",
+                "The flight was delayed.",
+                "Please have a seat."
+              ],
+              "answer": 0,
+              "explain": "Câu hỏi lựa chọn A or B: đáp án có thể chọn A, chọn B, hoặc \"cái nào cũng được\" (Either is fine / I don't mind). (C) lặp từ seat.",
+              "vocab": [
+                [
+                  "aisle seat",
+                  "ghế cạnh lối đi"
+                ],
+                [
+                  "either",
+                  "cái nào (trong hai) cũng"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "W", "accent": "au", "text": "The new coffee machine on the third floor isn't working." },
-            { "sp": "M", "accent": "uk", "text": "A. I'll call the repair service." },
-            { "sp": "M", "accent": "uk", "text": "B. Two sugars, please." },
-            { "sp": "M", "accent": "uk", "text": "C. On the fourth floor." }
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "The new coffee machine on the third floor isn't working."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "A. Two sugars, please."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "B. I'll call the repair service."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "C. On the fourth floor."
+            }
           ],
           "questions": [
-            { "id": "m01-5", "n": 5, "type": "p2-statement", "options": ["I'll call the repair service.", "Two sugars, please.", "On the fourth floor."], "answer": 0,
-              "explain": "Câu trần thuật nêu một vấn đề → đáp án thường là cách giải quyết. (B) liên tưởng coffee → sugar, (C) liên tưởng third floor → fourth floor.",
-              "vocab": [["repair service", "dịch vụ sửa chữa"]] }
+            {
+              "id": "m01-5",
+              "n": 5,
+              "type": "p2-statement",
+              "options": [
+                "Two sugars, please.",
+                "I'll call the repair service.",
+                "On the fourth floor."
+              ],
+              "answer": 1,
+              "explain": "Câu trần thuật nêu một vấn đề → đáp án thường là cách giải quyết. (A) liên tưởng coffee → sugar, (C) liên tưởng third floor → fourth floor.",
+              "vocab": [
+                [
+                  "repair service",
+                  "dịch vụ sửa chữa"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "M", "accent": "uk", "text": "When is the training session for new employees?" },
-            { "sp": "W", "accent": "ca", "text": "A. In Conference Room B." },
-            { "sp": "W", "accent": "ca", "text": "B. Yes, about ten new staff members." },
-            { "sp": "W", "accent": "ca", "text": "C. It's been moved to Thursday afternoon." }
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "When is the training session for new employees?"
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "A. In Conference Room B."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "B. Yes, about ten new staff members."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "C. It's been moved to Thursday afternoon."
+            }
           ],
           "questions": [
-            { "id": "m01-6", "n": 6, "type": "p2-wh", "options": ["In Conference Room B.", "Yes, about ten new staff members.", "It's been moved to Thursday afternoon."], "answer": 2,
+            {
+              "id": "m01-6",
+              "n": 6,
+              "type": "p2-wh",
+              "options": [
+                "In Conference Room B.",
+                "Yes, about ten new staff members.",
+                "It's been moved to Thursday afternoon."
+              ],
+              "answer": 2,
               "explain": "When → thời gian. (A) trả lời Where, (B) có Yes nên loại ngay với câu hỏi WH. Mẹo: nghe kỹ từ để hỏi đầu câu.",
-              "vocab": [["training session", "buổi đào tạo"], ["be moved to", "được dời sang"]] }
+              "vocab": [
+                [
+                  "training session",
+                  "buổi đào tạo"
+                ],
+                [
+                  "be moved to",
+                  "được dời sang"
+                ]
+              ]
+            }
           ]
         }
       ]
@@ -95,44 +297,178 @@
       "groups": [
         {
           "script": [
-            { "sp": "W", "accent": "us", "text": "Hi, Daniel. I'm putting together the order for office supplies. Do you need anything for your team?" },
-            { "sp": "M", "accent": "uk", "text": "Actually, yes. We're running low on toner for the color printer. We've got a big presentation for the Lexford account next week, and we'll need to print a lot of handouts." },
-            { "sp": "W", "accent": "us", "text": "OK, I'll add two cartridges. But just so you know, the supplier said orders placed after Wednesday won't arrive until the following Monday." },
-            { "sp": "M", "accent": "uk", "text": "Hmm, that might be too late. I'll stop by the electronics store on my way home and pick some up myself." }
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "Hi, Daniel. I'm putting together the order for office supplies. Do you need anything for your team?"
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Actually, yes. We're running low on toner for the color printer. We've got a big presentation for the Lexford account next week, and we'll need to print a lot of handouts."
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "OK, I'll add two cartridges. But just so you know, the supplier said orders placed after Wednesday won't arrive until the following Monday."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Hmm, that might be too late. I'll stop by the electronics store on my way home and pick some up myself."
+            }
           ],
           "questions": [
-            { "id": "m01-7", "n": 7, "type": "p34-topic", "prompt": "What is the woman preparing?", "options": ["A sales presentation", "A supply order", "A client contract", "A delivery schedule"], "answer": 1,
+            {
+              "id": "m01-7",
+              "n": 7,
+              "type": "p34-topic",
+              "prompt": "What is the woman preparing?",
+              "options": [
+                "A sales presentation",
+                "A client contract",
+                "A supply order",
+                "A delivery schedule"
+              ],
+              "answer": 2,
               "explain": "Câu đầu tiên: \"I'm putting together the order for office supplies\" → a supply order (paraphrase: office supplies → supply). Câu hỏi chủ đề thường nằm ở 1–2 câu đầu.",
-              "evidence": "putting together the order for office supplies" },
-            { "id": "m01-8", "n": 8, "type": "p34-detail", "prompt": "What does the man say his team will do next week?", "options": ["Hire new staff", "Move to a new office", "Give a presentation", "Repair a printer"], "answer": 2,
+              "evidence": "putting together the order for office supplies"
+            },
+            {
+              "id": "m01-8",
+              "n": 8,
+              "type": "p34-detail",
+              "prompt": "What does the man say his team will do next week?",
+              "options": [
+                "Give a presentation",
+                "Hire new staff",
+                "Move to a new office",
+                "Repair a printer"
+              ],
+              "answer": 0,
               "explain": "\"We've got a big presentation for the Lexford account next week\". (D) bẫy: có nhắc printer nhưng là hết mực, không phải sửa.",
-              "evidence": "big presentation for the Lexford account next week" },
-            { "id": "m01-9", "n": 9, "type": "p34-next", "prompt": "What will the man most likely do after work?", "options": ["Visit a store", "Call a supplier", "Print some handouts", "Meet a client"], "answer": 0,
+              "evidence": "big presentation for the Lexford account next week"
+            },
+            {
+              "id": "m01-9",
+              "n": 9,
+              "type": "p34-next",
+              "prompt": "What will the man most likely do after work?",
+              "options": [
+                "Call a supplier",
+                "Print some handouts",
+                "Meet a client",
+                "Visit a store"
+              ],
+              "answer": 3,
               "explain": "\"I'll stop by the electronics store on my way home\" → after work = on my way home; stop by the store = visit a store. Câu hỏi hành động tiếp theo thường nằm ở câu cuối.",
               "evidence": "stop by the electronics store on my way home",
-              "vocab": [["run low on", "sắp hết"], ["stop by", "ghé qua"], ["pick up", "mua/lấy"]] }
+              "vocab": [
+                [
+                  "run low on",
+                  "sắp hết"
+                ],
+                [
+                  "stop by",
+                  "ghé qua"
+                ],
+                [
+                  "pick up",
+                  "mua/lấy"
+                ]
+              ]
+            }
           ]
         },
         {
           "script": [
-            { "sp": "M", "accent": "ca", "text": "Good morning, Riverside Hotel. How can I help you?" },
-            { "sp": "W", "accent": "au", "text": "Hello, I'm organizing a dinner for our company's sales team on the fourteenth. I was hoping to reserve your private dining room for about twenty-five people." },
-            { "sp": "M", "accent": "ca", "text": "Let me check. I'm afraid the private room only seats eighteen." },
-            { "sp": "W", "accent": "au", "text": "Oh. Well, we've already sent out the invitations." },
-            { "sp": "M", "accent": "ca", "text": "In that case, we could reserve the back section of our main restaurant for you. It's quieter, and it can hold up to forty guests." },
-            { "sp": "W", "accent": "au", "text": "That sounds perfect. Could you e-mail me a copy of your set menus?" }
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Good morning, Riverside Hotel. How can I help you?"
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Hello, I'm organizing a dinner for our company's sales team on the fourteenth. I was hoping to reserve your private dining room for about twenty-five people."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Let me check. I'm afraid the private room only seats eighteen."
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Oh. Well, we've already sent out the invitations."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "In that case, we could reserve the back section of our main restaurant for you. It's quieter, and it can hold up to forty guests."
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "That sounds perfect. Could you e-mail me a copy of your set menus?"
+            }
           ],
           "questions": [
-            { "id": "m01-10", "n": 10, "type": "p34-topic", "prompt": "Why is the woman calling?", "options": ["To book a hotel room", "To reserve a space for an event", "To change a dinner order", "To complain about a service"], "answer": 1,
+            {
+              "id": "m01-10",
+              "n": 10,
+              "type": "p34-topic",
+              "prompt": "Why is the woman calling?",
+              "options": [
+                "To book a hotel room",
+                "To reserve a space for an event",
+                "To change a dinner order",
+                "To complain about a service"
+              ],
+              "answer": 1,
               "explain": "\"I was hoping to reserve your private dining room\" cho một bữa tối của công ty → reserve a space for an event. (A) bẫy: gọi đến khách sạn nhưng không đặt phòng ngủ.",
-              "evidence": "reserve your private dining room" },
-            { "id": "m01-11", "n": 11, "type": "p34-implied", "prompt": "Why does the woman say, \"we've already sent out the invitations\"?", "options": ["To confirm the date of the event", "To indicate that the number of guests cannot be reduced", "To ask for help writing invitations", "To explain why she is calling late"], "answer": 1,
+              "evidence": "reserve your private dining room"
+            },
+            {
+              "id": "m01-11",
+              "n": 11,
+              "type": "p34-implied",
+              "prompt": "Why does the woman say, \"we've already sent out the invitations\"?",
+              "options": [
+                "To confirm the date of the event",
+                "To ask for help writing invitations",
+                "To indicate that the number of guests cannot be reduced",
+                "To explain why she is calling late"
+              ],
+              "answer": 2,
               "explain": "Phòng chỉ đủ 18 người, mà thiệp mời đã gửi đi rồi → không thể giảm số khách. Câu hàm ý phải hiểu theo ngữ cảnh ngay TRƯỚC câu được trích.",
-              "evidence": "we've already sent out the invitations" },
-            { "id": "m01-12", "n": 12, "type": "p34-detail", "prompt": "What does the woman ask the man to do?", "options": ["Send some menu options", "Call her manager", "Lower a price", "Arrange transportation"], "answer": 0,
+              "evidence": "we've already sent out the invitations"
+            },
+            {
+              "id": "m01-12",
+              "n": 12,
+              "type": "p34-detail",
+              "prompt": "What does the woman ask the man to do?",
+              "options": [
+                "Send some menu options",
+                "Call her manager",
+                "Lower a price",
+                "Arrange transportation"
+              ],
+              "answer": 0,
               "explain": "\"Could you e-mail me a copy of your set menus?\" → send some menu options.",
               "evidence": "e-mail me a copy of your set menus",
-              "vocab": [["seat (v)", "có sức chứa (bao nhiêu chỗ ngồi)"], ["hold up to", "chứa tối đa"]] }
+              "vocab": [
+                [
+                  "seat (v)",
+                  "có sức chứa (bao nhiêu chỗ ngồi)"
+                ],
+                [
+                  "hold up to",
+                  "chứa tối đa"
+                ]
+              ]
+            }
           ]
         }
       ]
@@ -143,19 +479,72 @@
       "groups": [
         {
           "script": [
-            { "sp": "W", "accent": "uk", "text": "Good morning, everyone, and welcome to the Hartwell Manufacturing plant. Before we start the tour, I'd like to go over a few safety rules. Please wear the protective glasses we've handed out at all times while you're on the factory floor. Also, the machines are quite loud, so you'll each receive a headset that will let you hear me clearly. The tour will last about an hour, and at the end, we'll stop by the visitor center, where you can try samples of our newest products." }
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "Good morning, everyone, and welcome to the Hartwell Manufacturing plant. Before we start the tour, I'd like to go over a few safety rules. Please wear the protective glasses we've handed out at all times while you're on the factory floor. Also, the machines are quite loud, so you'll each receive a headset that will let you hear me clearly. The tour will last about an hour, and at the end, we'll stop by the visitor center, where you can try samples of our newest products."
+            }
           ],
           "questions": [
-            { "id": "m01-13", "n": 13, "type": "p34-speaker", "prompt": "Where most likely are the listeners?", "options": ["At a factory", "At a trade show", "At an electronics store", "At a training center"], "answer": 0,
+            {
+              "id": "m01-13",
+              "n": 13,
+              "type": "p34-speaker",
+              "prompt": "Where most likely are the listeners?",
+              "options": [
+                "At a trade show",
+                "At an electronics store",
+                "At a training center",
+                "At a factory"
+              ],
+              "answer": 3,
               "explain": "\"welcome to the Hartwell Manufacturing plant\", \"factory floor\" → nhà máy (plant = factory).",
-              "evidence": "Hartwell Manufacturing plant" },
-            { "id": "m01-14", "n": 14, "type": "p34-detail", "prompt": "What will the listeners receive?", "options": ["A product catalog", "A headset", "A visitor badge", "A map"], "answer": 1,
+              "evidence": "Hartwell Manufacturing plant"
+            },
+            {
+              "id": "m01-14",
+              "n": 14,
+              "type": "p34-detail",
+              "prompt": "What will the listeners receive?",
+              "options": [
+                "A product catalog",
+                "A headset",
+                "A visitor badge",
+                "A map"
+              ],
+              "answer": 1,
               "explain": "\"you'll each receive a headset\". Kính bảo hộ cũng được phát nhưng không có trong đáp án.",
-              "evidence": "you'll each receive a headset" },
-            { "id": "m01-15", "n": 15, "type": "p34-next", "prompt": "What will the listeners be able to do at the end of the tour?", "options": ["Meet a manager", "Try some products", "Buy tickets", "Watch a video"], "answer": 1,
+              "evidence": "you'll each receive a headset"
+            },
+            {
+              "id": "m01-15",
+              "n": 15,
+              "type": "p34-next",
+              "prompt": "What will the listeners be able to do at the end of the tour?",
+              "options": [
+                "Meet a manager",
+                "Buy tickets",
+                "Watch a video",
+                "Try some products"
+              ],
+              "answer": 3,
               "explain": "\"at the end … you can try samples of our newest products\" → try some products.",
               "evidence": "try samples of our newest products",
-              "vocab": [["go over", "điểm qua, xem lại"], ["hand out", "phát (tài liệu, đồ)"], ["sample", "hàng mẫu"]] }
+              "vocab": [
+                [
+                  "go over",
+                  "điểm qua, xem lại"
+                ],
+                [
+                  "hand out",
+                  "phát (tài liệu, đồ)"
+                ],
+                [
+                  "sample",
+                  "hàng mẫu"
+                ]
+              ]
+            }
           ]
         }
       ]
@@ -164,38 +553,342 @@
       "part": 5,
       "directions": "A word or phrase is missing in each of the sentences below. Four answer choices are given below each sentence. Select the best answer to complete the sentence.",
       "groups": [
-        { "questions": [ { "id": "m01-16", "n": 16, "type": "p5-wordform", "prompt": "The marketing team will ------- the results of the customer survey at Friday's meeting.", "options": ["presentation", "present", "presented", "presenting"], "answer": 1,
-          "explain": "Sau động từ khuyết thiếu will cần động từ nguyên mẫu → present. Mẹo: thấy will/can/should/must + chỗ trống → chọn V nguyên mẫu.", "vocab": [["survey", "khảo sát"]] } ] },
-        { "questions": [ { "id": "m01-17", "n": 17, "type": "p5-preposition", "prompt": "Ms. Tanaka has worked at Corbin Financial ------- more than fifteen years.", "options": ["since", "during", "for", "within"], "answer": 2,
-          "explain": "Thì hiện tại hoàn thành + khoảng thời gian (fifteen years) → for. since + mốc thời gian (since 2010)." } ] },
-        { "questions": [ { "id": "m01-18", "n": 18, "type": "p5-conjunction", "prompt": "All visitors must sign in at the front desk ------- entering the laboratory.", "options": ["before", "until", "because", "although"], "answer": 0,
-          "explain": "Theo nghĩa: phải đăng ký TRƯỚC KHI vào phòng thí nghiệm. before + V-ing dùng được; because/although phải đi với mệnh đề đầy đủ.", "vocab": [["sign in", "đăng ký vào (ký tên khi đến)"]] } ] },
-        { "questions": [ { "id": "m01-19", "n": 19, "type": "p5-comparison", "prompt": "The new software is ------- easier to use than the previous version.", "options": ["very", "much", "more", "most"], "answer": 1,
-          "explain": "Nhấn mạnh so sánh hơn dùng much/far/a lot/significantly + easier. very không đứng trước so sánh hơn; more easier là sai." } ] },
-        { "questions": [ { "id": "m01-20", "n": 20, "type": "p5-preposition", "prompt": "Applicants should submit their résumés ------- e-mail by March 31.", "options": ["on", "at", "by", "with"], "answer": 2,
-          "explain": "by + phương tiện (by e-mail, by phone, by mail). Câu này có 2 lần by với 2 nghĩa: by e-mail (bằng) và by March 31 (trước hạn)." } ] },
-        { "questions": [ { "id": "m01-21", "n": 21, "type": "p5-passive", "prompt": "Mr. Alvarez asked that all expense reports ------- by the end of the month.", "options": ["submit", "be submitted", "are submitting", "to submit"], "answer": 1,
-          "explain": "Hai dấu hiệu: (1) ask that + S + V nguyên mẫu (giả định); (2) báo cáo được nộp → bị động. Gộp lại → be submitted.", "vocab": [["expense report", "báo cáo chi phí"]] } ] },
-        { "questions": [ { "id": "m01-22", "n": 22, "type": "p5-wordform", "prompt": "The company's profits increased ------- after the launch of its new product line.", "options": ["significant", "significance", "significantly", "signify"], "answer": 2,
-          "explain": "Bổ nghĩa cho động từ increased → trạng từ (-ly) significantly." } ] },
-        { "questions": [ { "id": "m01-23", "n": 23, "type": "p5-relative", "prompt": "Employees ------- wish to attend the workshop should register by Friday.", "options": ["who", "whose", "which", "whom"], "answer": 0,
-          "explain": "Chỗ trống đứng trước động từ wish, thay cho người (employees) làm chủ ngữ → who. whom làm tân ngữ, whose + danh từ." } ] },
-        { "questions": [ { "id": "m01-24", "n": 24, "type": "p5-pronoun", "prompt": "Please contact Ms. Park if you have any questions about ------- new schedule.", "options": ["she", "her", "hers", "herself"], "answer": 1,
-          "explain": "Đứng trước cụm danh từ (new schedule) → tính từ sở hữu her." } ] },
-        { "questions": [ { "id": "m01-25", "n": 25, "type": "p5-tense", "prompt": "By the time the director arrived, the meeting ------- already.", "options": ["starts", "has started", "had started", "will start"], "answer": 2,
-          "explain": "By the time + quá khứ đơn (arrived) → hành động xảy ra trước đó dùng quá khứ hoàn thành had started." } ] },
-        { "questions": [ { "id": "m01-26", "n": 26, "type": "p5-wordform", "prompt": "The hotel offers free shuttle service to the airport for all ------- guests.", "options": ["register", "registering", "registration", "registered"], "answer": 3,
-          "explain": "Cần tính từ trước danh từ guests. registered guests = khách đã đăng ký (bị động, V3). Cụm cố định hay gặp trong TOEIC.", "vocab": [["shuttle service", "dịch vụ xe đưa đón"]] } ] },
-        { "questions": [ { "id": "m01-27", "n": 27, "type": "p5-vocab", "prompt": "The renovation of the lobby is expected to be completed ------- schedule.", "options": ["ahead of", "instead of", "in case of", "on behalf of"], "answer": 0,
-          "explain": "ahead of schedule = sớm hơn kế hoạch (ngược lại: behind schedule). Cụm rất hay gặp.", "vocab": [["renovation", "sự cải tạo"]] } ] },
-        { "questions": [ { "id": "m01-28", "n": 28, "type": "p5-conjunction", "prompt": "------- the weather was poor, the outdoor concert drew a large crowd.", "options": ["Despite", "Although", "However", "Because of"], "answer": 1,
-          "explain": "Phía sau là mệnh đề (the weather was poor) và nghĩa tương phản → Although. Despite/Because of + danh từ; However không nối hai mệnh đề trong một câu." } ] },
-        { "questions": [ { "id": "m01-29", "n": 29, "type": "p5-comparison", "prompt": "The sales figures for the third quarter were ------- than expected.", "options": ["high", "higher", "highest", "highly"], "answer": 1,
-          "explain": "Có than → so sánh hơn higher.", "vocab": [["sales figures", "số liệu doanh thu"]] } ] },
-        { "questions": [ { "id": "m01-30", "n": 30, "type": "p5-vocab", "prompt": "Keystone Electronics will ------- its warranty period from one year to two years.", "options": ["extend", "expire", "attend", "inform"], "answer": 0,
-          "explain": "extend = kéo dài (thời hạn bảo hành từ 1 lên 2 năm). expire = hết hạn (không có tân ngữ).", "vocab": [["warranty", "bảo hành"]] } ] },
-        { "questions": [ { "id": "m01-31", "n": 31, "type": "p5-vocab", "prompt": "Customers who are not completely satisfied may return the item for a full -------.", "options": ["refund", "receipt", "payment", "discount"], "answer": 0,
-          "explain": "full refund = hoàn tiền toàn bộ: cụm cố định khi trả hàng.", "vocab": [["refund", "tiền hoàn lại"]] } ] }
+        {
+          "questions": [
+            {
+              "id": "m01-16",
+              "n": 16,
+              "type": "p5-wordform",
+              "prompt": "The marketing team will ------- the results of the customer survey at Friday's meeting.",
+              "options": [
+                "presentation",
+                "present",
+                "presented",
+                "presenting"
+              ],
+              "answer": 1,
+              "explain": "Sau động từ khuyết thiếu will cần động từ nguyên mẫu → present. Mẹo: thấy will/can/should/must + chỗ trống → chọn V nguyên mẫu.",
+              "vocab": [
+                [
+                  "survey",
+                  "khảo sát"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-17",
+              "n": 17,
+              "type": "p5-preposition",
+              "prompt": "Ms. Tanaka has worked at Corbin Financial ------- more than fifteen years.",
+              "options": [
+                "for",
+                "since",
+                "during",
+                "within"
+              ],
+              "answer": 0,
+              "explain": "Thì hiện tại hoàn thành + khoảng thời gian (fifteen years) → for. since + mốc thời gian (since 2010)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-18",
+              "n": 18,
+              "type": "p5-conjunction",
+              "prompt": "All visitors must sign in at the front desk ------- entering the laboratory.",
+              "options": [
+                "until",
+                "because",
+                "before",
+                "although"
+              ],
+              "answer": 2,
+              "explain": "Theo nghĩa: phải đăng ký TRƯỚC KHI vào phòng thí nghiệm. before + V-ing dùng được; because/although phải đi với mệnh đề đầy đủ.",
+              "vocab": [
+                [
+                  "sign in",
+                  "đăng ký vào (ký tên khi đến)"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-19",
+              "n": 19,
+              "type": "p5-comparison",
+              "prompt": "The new software is ------- easier to use than the previous version.",
+              "options": [
+                "very",
+                "much",
+                "more",
+                "most"
+              ],
+              "answer": 1,
+              "explain": "Nhấn mạnh so sánh hơn dùng much/far/a lot/significantly + easier. very không đứng trước so sánh hơn; more easier là sai."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-20",
+              "n": 20,
+              "type": "p5-preposition",
+              "prompt": "Applicants should submit their résumés ------- e-mail by March 31.",
+              "options": [
+                "on",
+                "at",
+                "by",
+                "with"
+              ],
+              "answer": 2,
+              "explain": "by + phương tiện (by e-mail, by phone, by mail). Câu này có 2 lần by với 2 nghĩa: by e-mail (bằng) và by March 31 (trước hạn)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-21",
+              "n": 21,
+              "type": "p5-passive",
+              "prompt": "Mr. Alvarez asked that all expense reports ------- by the end of the month.",
+              "options": [
+                "submit",
+                "are submitting",
+                "to submit",
+                "be submitted"
+              ],
+              "answer": 3,
+              "explain": "Hai dấu hiệu: (1) ask that + S + V nguyên mẫu (giả định); (2) báo cáo được nộp → bị động. Gộp lại → be submitted.",
+              "vocab": [
+                [
+                  "expense report",
+                  "báo cáo chi phí"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-22",
+              "n": 22,
+              "type": "p5-wordform",
+              "prompt": "The company's profits increased ------- after the launch of its new product line.",
+              "options": [
+                "significantly",
+                "significant",
+                "significance",
+                "signify"
+              ],
+              "answer": 0,
+              "explain": "Bổ nghĩa cho động từ increased → trạng từ (-ly) significantly."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-23",
+              "n": 23,
+              "type": "p5-relative",
+              "prompt": "Employees ------- wish to attend the workshop should register by Friday.",
+              "options": [
+                "whose",
+                "which",
+                "who",
+                "whom"
+              ],
+              "answer": 2,
+              "explain": "Chỗ trống đứng trước động từ wish, thay cho người (employees) làm chủ ngữ → who. whom làm tân ngữ, whose + danh từ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-24",
+              "n": 24,
+              "type": "p5-pronoun",
+              "prompt": "Please contact Ms. Park if you have any questions about ------- new schedule.",
+              "options": [
+                "her",
+                "she",
+                "hers",
+                "herself"
+              ],
+              "answer": 0,
+              "explain": "Đứng trước cụm danh từ (new schedule) → tính từ sở hữu her."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-25",
+              "n": 25,
+              "type": "p5-tense",
+              "prompt": "By the time the director arrived, the meeting ------- already.",
+              "options": [
+                "starts",
+                "has started",
+                "will start",
+                "had started"
+              ],
+              "answer": 3,
+              "explain": "By the time + quá khứ đơn (arrived) → hành động xảy ra trước đó dùng quá khứ hoàn thành had started."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-26",
+              "n": 26,
+              "type": "p5-wordform",
+              "prompt": "The hotel offers free shuttle service to the airport for all ------- guests.",
+              "options": [
+                "register",
+                "registered",
+                "registering",
+                "registration"
+              ],
+              "answer": 1,
+              "explain": "Cần tính từ trước danh từ guests. registered guests = khách đã đăng ký (bị động, V3). Cụm cố định hay gặp trong TOEIC.",
+              "vocab": [
+                [
+                  "shuttle service",
+                  "dịch vụ xe đưa đón"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-27",
+              "n": 27,
+              "type": "p5-vocab",
+              "prompt": "The renovation of the lobby is expected to be completed ------- schedule.",
+              "options": [
+                "instead of",
+                "in case of",
+                "on behalf of",
+                "ahead of"
+              ],
+              "answer": 3,
+              "explain": "ahead of schedule = sớm hơn kế hoạch (ngược lại: behind schedule). Cụm rất hay gặp.",
+              "vocab": [
+                [
+                  "renovation",
+                  "sự cải tạo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-28",
+              "n": 28,
+              "type": "p5-conjunction",
+              "prompt": "------- the weather was poor, the outdoor concert drew a large crowd.",
+              "options": [
+                "Although",
+                "Despite",
+                "However",
+                "Because of"
+              ],
+              "answer": 0,
+              "explain": "Phía sau là mệnh đề (the weather was poor) và nghĩa tương phản → Although. Despite/Because of + danh từ; However không nối hai mệnh đề trong một câu."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-29",
+              "n": 29,
+              "type": "p5-comparison",
+              "prompt": "The sales figures for the third quarter were ------- than expected.",
+              "options": [
+                "high",
+                "highest",
+                "higher",
+                "highly"
+              ],
+              "answer": 2,
+              "explain": "Có than → so sánh hơn higher.",
+              "vocab": [
+                [
+                  "sales figures",
+                  "số liệu doanh thu"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-30",
+              "n": 30,
+              "type": "p5-vocab",
+              "prompt": "Keystone Electronics will ------- its warranty period from one year to two years.",
+              "options": [
+                "expire",
+                "extend",
+                "attend",
+                "inform"
+              ],
+              "answer": 1,
+              "explain": "extend = kéo dài (thời hạn bảo hành từ 1 lên 2 năm). expire = hết hạn (không có tân ngữ).",
+              "vocab": [
+                [
+                  "warranty",
+                  "bảo hành"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m01-31",
+              "n": 31,
+              "type": "p5-vocab",
+              "prompt": "Customers who are not completely satisfied may return the item for a full -------.",
+              "options": [
+                "refund",
+                "receipt",
+                "payment",
+                "discount"
+              ],
+              "answer": 0,
+              "explain": "full refund = hoàn tiền toàn bộ: cụm cố định khi trả hàng.",
+              "vocab": [
+                [
+                  "refund",
+                  "tiền hoàn lại"
+                ]
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -204,19 +897,75 @@
       "groups": [
         {
           "passages": [
-            { "kind": "memo", "head": "To: All Staff\nFrom: Facilities Management\nSubject: Parking garage maintenance\nDate: May 6",
-              "text": "Please be advised that the parking garage on Elm Street will be closed for maintenance from Monday, May 13, to Friday, May 17. During this time, employees {{32}} to use the public parking lot on Fulton Avenue. The company will cover the cost of parking for that week. {{33}}\n\nTo receive a refund, simply submit your parking receipts to the front office {{34}} May 24. We apologize for any {{35}} this may cause and appreciate your patience." }
+            {
+              "kind": "memo",
+              "head": "To: All Staff\nFrom: Facilities Management\nSubject: Parking garage maintenance\nDate: May 6",
+              "text": "Please be advised that the parking garage on Elm Street will be closed for maintenance from Monday, May 13, to Friday, May 17. During this time, employees {{32}} to use the public parking lot on Fulton Avenue. The company will cover the cost of parking for that week. {{33}}\n\nTo receive a refund, simply submit your parking receipts to the front office {{34}} May 24. We apologize for any {{35}} this may cause and appreciate your patience."
+            }
           ],
           "questions": [
-            { "id": "m01-32", "n": 32, "type": "p5-passive", "options": ["encourage", "are encouraged", "encouraging", "have encouraged"], "answer": 1,
-              "explain": "Nhân viên ĐƯỢC khuyến khích dùng bãi khác → bị động are encouraged to + V." },
-            { "id": "m01-33", "n": 33, "type": "p6-sentence", "options": ["The garage was built more than twenty years ago.", "Please keep your receipts from each day you park there.", "Fulton Avenue will also be closed next week.", "Many employees prefer to take the train."], "answer": 1,
-              "explain": "Câu trước: công ty trả phí gửi xe; câu sau: nộp biên lai để được hoàn tiền → cần câu nối nhắc giữ biên lai. Mẹo Part 6: đọc cả câu trước VÀ câu sau chỗ trống." },
-            { "id": "m01-34", "n": 34, "type": "p5-preposition", "options": ["no later than", "as soon as", "in addition to", "except for"], "answer": 0,
-              "explain": "no later than + mốc thời gian = chậm nhất là. as soon as phải đi với mệnh đề." },
-            { "id": "m01-35", "n": 35, "type": "p5-wordform", "options": ["inconvenience", "convenience", "inconvenient", "conveniently"], "answer": 0,
+            {
+              "id": "m01-32",
+              "n": 32,
+              "type": "p5-passive",
+              "options": [
+                "encourage",
+                "encouraging",
+                "have encouraged",
+                "are encouraged"
+              ],
+              "answer": 3,
+              "explain": "Nhân viên ĐƯỢC khuyến khích dùng bãi khác → bị động are encouraged to + V."
+            },
+            {
+              "id": "m01-33",
+              "n": 33,
+              "type": "p6-sentence",
+              "options": [
+                "The garage was built more than twenty years ago.",
+                "Fulton Avenue will also be closed next week.",
+                "Please keep your receipts from each day you park there.",
+                "Many employees prefer to take the train."
+              ],
+              "answer": 2,
+              "explain": "Câu trước: công ty trả phí gửi xe; câu sau: nộp biên lai để được hoàn tiền → cần câu nối nhắc giữ biên lai. Mẹo Part 6: đọc cả câu trước VÀ câu sau chỗ trống."
+            },
+            {
+              "id": "m01-34",
+              "n": 34,
+              "type": "p5-preposition",
+              "options": [
+                "as soon as",
+                "no later than",
+                "in addition to",
+                "except for"
+              ],
+              "answer": 1,
+              "explain": "no later than + mốc thời gian = chậm nhất là. as soon as phải đi với mệnh đề."
+            },
+            {
+              "id": "m01-35",
+              "n": 35,
+              "type": "p5-wordform",
+              "options": [
+                "inconvenience",
+                "convenience",
+                "inconvenient",
+                "conveniently"
+              ],
+              "answer": 0,
               "explain": "Sau any cần danh từ; theo nghĩa xin lỗi vì sự BẤT tiện → inconvenience. \"We apologize for any inconvenience\" là câu cố định.",
-              "vocab": [["please be advised that", "xin lưu ý rằng"], ["cover the cost", "chi trả chi phí"]] }
+              "vocab": [
+                [
+                  "please be advised that",
+                  "xin lưu ý rằng"
+                ],
+                [
+                  "cover the cost",
+                  "chi trả chi phí"
+                ]
+              ]
+            }
           ]
         }
       ]
@@ -227,33 +976,117 @@
       "groups": [
         {
           "passages": [
-            { "kind": "email", "head": "From: Laura Bennett <lbennett@greenfieldsuites.com>\nTo: Kevin Moore <kmoore@arcadiadesign.com>\nSubject: Your reservation\nDate: September 2",
-              "text": "Dear Mr. Moore,\n\nThank you for choosing Greenfield Suites for your upcoming stay. This e-mail confirms your reservation for a deluxe room from September 18 to September 21.\n\nAs requested, we have arranged an airport pickup upon your arrival. Our driver will meet you in the arrivals hall holding a sign with your name.\n\nPlease note that our rooftop restaurant will be closed for renovations during your stay. However, guests may enjoy a complimentary breakfast at the Garden Café on the ground floor.\n\nIf you need to make any changes to your booking, please contact us at least 48 hours before your arrival date.\n\nSincerely,\nLaura Bennett\nGuest Services" }
+            {
+              "kind": "email",
+              "head": "From: Laura Bennett <lbennett@greenfieldsuites.com>\nTo: Kevin Moore <kmoore@arcadiadesign.com>\nSubject: Your reservation\nDate: September 2",
+              "text": "Dear Mr. Moore,\n\nThank you for choosing Greenfield Suites for your upcoming stay. This e-mail confirms your reservation for a deluxe room from September 18 to September 21.\n\nAs requested, we have arranged an airport pickup upon your arrival. Our driver will meet you in the arrivals hall holding a sign with your name.\n\nPlease note that our rooftop restaurant will be closed for renovations during your stay. However, guests may enjoy a complimentary breakfast at the Garden Café on the ground floor.\n\nIf you need to make any changes to your booking, please contact us at least 48 hours before your arrival date.\n\nSincerely,\nLaura Bennett\nGuest Services"
+            }
           ],
           "questions": [
-            { "id": "m01-36", "n": 36, "type": "p7-main", "prompt": "What is the main purpose of the e-mail?", "options": ["To confirm a booking", "To advertise a restaurant", "To request a payment", "To apologize for a delay"], "answer": 0,
+            {
+              "id": "m01-36",
+              "n": 36,
+              "type": "p7-main",
+              "prompt": "What is the main purpose of the e-mail?",
+              "options": [
+                "To advertise a restaurant",
+                "To confirm a booking",
+                "To request a payment",
+                "To apologize for a delay"
+              ],
+              "answer": 1,
               "explain": "\"This e-mail confirms your reservation\" → confirm a booking (reservation = booking). Mục đích thư thường nằm ở đoạn đầu.",
-              "evidence": "This e-mail confirms your reservation" },
-            { "id": "m01-37", "n": 37, "type": "p7-inference", "prompt": "What is indicated about Mr. Moore?", "options": ["He asked for transportation from the airport.", "He will stay at the hotel for one week.", "He has stayed at the hotel before.", "He works for Greenfield Suites."], "answer": 0,
-              "explain": "\"As requested, we have arranged an airport pickup\" → chính ông Moore đã yêu cầu xe đón. (B) sai: 18–21/9 chỉ 3 đêm.",
-              "evidence": "As requested, we have arranged an airport pickup" },
-            { "id": "m01-38", "n": 38, "type": "p7-not", "prompt": "What is NOT mentioned in the e-mail?", "options": ["The length of Mr. Moore's stay", "A free meal", "The price of the room", "A deadline for changes"], "answer": 2,
+              "evidence": "This e-mail confirms your reservation"
+            },
+            {
+              "id": "m01-37",
+              "n": 37,
+              "type": "p7-inference",
+              "prompt": "What is indicated about Mr. Moore?",
+              "options": [
+                "He will stay at the hotel for one week.",
+                "He has stayed at the hotel before.",
+                "He works for Greenfield Suites.",
+                "He asked for transportation from the airport."
+              ],
+              "answer": 3,
+              "explain": "\"As requested, we have arranged an airport pickup\" → chính ông Moore đã yêu cầu xe đón. (A) sai: 18–21/9 chỉ 3 đêm.",
+              "evidence": "As requested, we have arranged an airport pickup"
+            },
+            {
+              "id": "m01-38",
+              "n": 38,
+              "type": "p7-not",
+              "prompt": "What is NOT mentioned in the e-mail?",
+              "options": [
+                "The length of Mr. Moore's stay",
+                "A free meal",
+                "The price of the room",
+                "A deadline for changes"
+              ],
+              "answer": 2,
               "explain": "Câu NOT: dò từng đáp án. (A) 18–21/9 ✓, (B) complimentary breakfast ✓, (D) 48 hours before ✓. Giá phòng không được nhắc → (C).",
-              "vocab": [["complimentary", "miễn phí (= free)"], ["upon arrival", "khi đến nơi"]] }
+              "vocab": [
+                [
+                  "complimentary",
+                  "miễn phí (= free)"
+                ],
+                [
+                  "upon arrival",
+                  "khi đến nơi"
+                ]
+              ]
+            }
           ]
         },
         {
           "passages": [
-            { "kind": "chat", "text": "Mia Chen [10:12 A.M.]: Hi Tom, are you still at the Westbrook client's office?\nTom Reyes [10:13 A.M.]: Yes, the meeting just ended. They loved the new logo designs.\nMia Chen [10:14 A.M.]: Great! Could you pick up the printed brochures from Copy Plus on your way back? They close at noon today.\nTom Reyes [10:15 A.M.]: I'm afraid I won't make it. I have to stop by the bank first.\nMia Chen [10:16 A.M.]: No problem. I'll ask Jenna." }
+            {
+              "kind": "chat",
+              "text": "Mia Chen [10:12 A.M.]: Hi Tom, are you still at the Westbrook client's office?\nTom Reyes [10:13 A.M.]: Yes, the meeting just ended. They loved the new logo designs.\nMia Chen [10:14 A.M.]: Great! Could you pick up the printed brochures from Copy Plus on your way back? They close at noon today.\nTom Reyes [10:15 A.M.]: I'm afraid I won't make it. I have to stop by the bank first.\nMia Chen [10:16 A.M.]: No problem. I'll ask Jenna."
+            }
           ],
           "questions": [
-            { "id": "m01-39", "n": 39, "type": "p7-inference", "prompt": "What is suggested about the Westbrook client?", "options": ["They were pleased with some designs.", "They canceled a meeting.", "They ordered more brochures.", "They will visit the office at noon."], "answer": 0,
+            {
+              "id": "m01-39",
+              "n": 39,
+              "type": "p7-inference",
+              "prompt": "What is suggested about the Westbrook client?",
+              "options": [
+                "They canceled a meeting.",
+                "They ordered more brochures.",
+                "They were pleased with some designs.",
+                "They will visit the office at noon."
+              ],
+              "answer": 2,
               "explain": "\"They loved the new logo designs\" → pleased with some designs (paraphrase loved → pleased).",
-              "evidence": "They loved the new logo designs" },
-            { "id": "m01-40", "n": 40, "type": "p7-intent", "prompt": "At 10:15 A.M., what does Mr. Reyes mean when he writes, \"I'm afraid I won't make it\"?", "options": ["He cannot attend a meeting.", "He is unable to collect the brochures.", "He will be late for lunch.", "He forgot to visit the bank."], "answer": 1,
+              "evidence": "They loved the new logo designs"
+            },
+            {
+              "id": "m01-40",
+              "n": 40,
+              "type": "p7-intent",
+              "prompt": "At 10:15 A.M., what does Mr. Reyes mean when he writes, \"I'm afraid I won't make it\"?",
+              "options": [
+                "He cannot attend a meeting.",
+                "He will be late for lunch.",
+                "He forgot to visit the bank.",
+                "He is unable to collect the brochures."
+              ],
+              "answer": 3,
               "explain": "Mia nhờ lấy tài liệu trước 12h; Tom phải ghé ngân hàng trước → không kịp lấy brochure. make it = kịp, đến được.",
               "evidence": "I'm afraid I won't make it",
-              "vocab": [["make it", "kịp / đến được"], ["brochure", "tờ quảng cáo"]] }
+              "vocab": [
+                [
+                  "make it",
+                  "kịp / đến được"
+                ],
+                [
+                  "brochure",
+                  "tờ quảng cáo"
+                ]
+              ]
+            }
           ]
         }
       ]

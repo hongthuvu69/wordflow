@@ -1,0 +1,1028 @@
+{
+ "id": "science",
+ "order": 18,
+ "icon": "🔬",
+ "level": "B2",
+ "title": "Science & Research",
+ "title_vi": "Khoa học & Nghiên cứu",
+ "description": "Thí nghiệm, phân tích, đo lường, giả thuyết: từ vựng học thuật hay gặp trong bài đọc dài và IELTS.",
+ "words": [
+  {
+   "id": "sci_analyse",
+   "word": "analyse",
+   "pos": "verb",
+   "ipa": "/ˈænəlaɪz/",
+   "level": "B1",
+   "meaning": "phân tích",
+   "definition": "to examine something in detail",
+   "collocations": [
+    "analyse data",
+    "analyse the results"
+   ],
+   "examples": [
+    {
+     "en": "We need to *analyse* the sales data carefully.",
+     "vi": "Chúng ta cần phân tích kỹ dữ liệu bán hàng."
+    }
+   ],
+   "note": "Anh-Mỹ viết analyze."
+  },
+  {
+   "id": "sci_analysis",
+   "word": "analysis",
+   "pos": "noun",
+   "ipa": "/əˈnæləsɪs/",
+   "level": "B1",
+   "meaning": "sự phân tích",
+   "definition": "a detailed study of something",
+   "collocations": [
+    "data analysis",
+    "carry out an analysis"
+   ],
+   "examples": [
+    {
+     "en": "The *analysis* shows a drop in customer numbers.",
+     "vi": "Bản phân tích cho thấy lượng khách giảm."
+    }
+   ],
+   "note": "Số nhiều: analyses."
+  },
+  {
+   "id": "sci_analyst",
+   "word": "analyst",
+   "pos": "noun",
+   "ipa": "/ˈænəlɪst/",
+   "level": "B2",
+   "meaning": "nhà phân tích",
+   "definition": "a person whose job is to analyse something",
+   "collocations": [
+    "financial analyst",
+    "data analyst"
+   ],
+   "examples": [
+    {
+     "en": "*Analysts* expect prices to rise.",
+     "vi": "Các nhà phân tích dự kiến giá sẽ tăng."
+    }
+   ]
+  },
+  {
+   "id": "sci_scientific",
+   "word": "scientific",
+   "pos": "adjective",
+   "ipa": "/ˌsaɪənˈtɪfɪk/",
+   "level": "B1",
+   "meaning": "thuộc khoa học",
+   "definition": "connected with science",
+   "collocations": [
+    "scientific research",
+    "scientific evidence"
+   ],
+   "examples": [
+    {
+     "en": "There is no *scientific* evidence for this claim.",
+     "vi": "Không có bằng chứng khoa học cho tuyên bố này."
+    }
+   ]
+  },
+  {
+   "id": "sci_experiment",
+   "word": "experiment",
+   "pos": "noun",
+   "ipa": "/ɪkˈsperɪmənt/",
+   "level": "B1",
+   "meaning": "thí nghiệm",
+   "definition": "a test done to learn something",
+   "collocations": [
+    "conduct an experiment",
+    "scientific experiment"
+   ],
+   "examples": [
+    {
+     "en": "The students did an *experiment* with plants and light.",
+     "vi": "Học sinh làm thí nghiệm về cây và ánh sáng."
+    }
+   ]
+  },
+  {
+   "id": "sci_laboratory",
+   "word": "laboratory",
+   "pos": "noun",
+   "ipa": "/ˈlæbrətɔːri/",
+   "level": "B1",
+   "meaning": "phòng thí nghiệm",
+   "definition": "a room for scientific work",
+   "collocations": [
+    "research laboratory",
+    "laboratory tests"
+   ],
+   "examples": [
+    {
+     "en": "The samples were sent to a *laboratory*.",
+     "vi": "Các mẫu được gửi tới phòng thí nghiệm."
+    }
+   ],
+   "note": "Viết tắt: lab."
+  },
+  {
+   "id": "sci_hypothesis",
+   "word": "hypothesis",
+   "pos": "noun",
+   "ipa": "/haɪˈpɑːθəsɪs/",
+   "level": "B2",
+   "meaning": "giả thuyết",
+   "definition": "an idea that has not yet been proved",
+   "collocations": [
+    "test a hypothesis",
+    "support a hypothesis"
+   ],
+   "examples": [
+    {
+     "en": "The results support our *hypothesis*.",
+     "vi": "Kết quả ủng hộ giả thuyết của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "sci_theory",
+   "word": "theory",
+   "pos": "noun",
+   "ipa": "/ˈθɪəri/",
+   "level": "B1",
+   "meaning": "lý thuyết, học thuyết",
+   "definition": "a set of ideas that explains something",
+   "collocations": [
+    "in theory",
+    "a scientific theory"
+   ],
+   "examples": [
+    {
+     "en": "In *theory*, the plan should work.",
+     "vi": "Về lý thuyết, kế hoạch sẽ hiệu quả."
+    }
+   ]
+  },
+  {
+   "id": "sci_conduct",
+   "word": "conduct",
+   "pos": "verb",
+   "ipa": "/kənˈdʌkt/",
+   "level": "B2",
+   "meaning": "tiến hành",
+   "definition": "to organize and do an activity",
+   "collocations": [
+    "conduct research",
+    "conduct a survey",
+    "conduct an interview"
+   ],
+   "examples": [
+    {
+     "en": "The company *conducted* a survey of 1,000 customers.",
+     "vi": "Công ty đã tiến hành khảo sát 1.000 khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "sci_observe",
+   "word": "observe",
+   "pos": "verb",
+   "ipa": "/əbˈzɜːrv/",
+   "level": "B2",
+   "meaning": "quan sát; tuân thủ",
+   "definition": "to watch carefully; to obey a rule",
+   "collocations": [
+    "observe behaviour",
+    "observe the rules"
+   ],
+   "examples": [
+    {
+     "en": "Researchers *observed* the animals for six months.",
+     "vi": "Các nhà nghiên cứu quan sát động vật trong sáu tháng."
+    }
+   ]
+  },
+  {
+   "id": "sci_observation",
+   "word": "observation",
+   "pos": "noun",
+   "ipa": "/ˌɑːbzərˈveɪʃn/",
+   "level": "B2",
+   "meaning": "sự quan sát",
+   "definition": "the act of watching carefully",
+   "collocations": [
+    "careful observation",
+    "under observation"
+   ],
+   "examples": [
+    {
+     "en": "The patient is under *observation* in hospital.",
+     "vi": "Bệnh nhân đang được theo dõi tại bệnh viện."
+    }
+   ]
+  },
+  {
+   "id": "sci_observer",
+   "word": "observer",
+   "pos": "noun",
+   "ipa": "/əbˈzɜːrvər/",
+   "level": "B2",
+   "meaning": "người quan sát",
+   "definition": "a person who watches something",
+   "collocations": [
+    "an independent observer",
+    "a keen observer"
+   ],
+   "examples": [
+    {
+     "en": "International *observers* watched the election.",
+     "vi": "Các quan sát viên quốc tế theo dõi cuộc bầu cử."
+    }
+   ]
+  },
+  {
+   "id": "sci_phenomenon",
+   "word": "phenomenon",
+   "pos": "noun",
+   "ipa": "/fəˈnɑːmɪnən/",
+   "level": "B2",
+   "meaning": "hiện tượng",
+   "definition": "something that happens and can be seen or studied",
+   "collocations": [
+    "a natural phenomenon",
+    "a global phenomenon"
+   ],
+   "examples": [
+    {
+     "en": "Online shopping has become a global *phenomenon*.",
+     "vi": "Mua sắm trực tuyến đã trở thành hiện tượng toàn cầu."
+    }
+   ],
+   "note": "Số nhiều: phenomena."
+  },
+  {
+   "id": "sci_finding",
+   "word": "finding",
+   "pos": "noun",
+   "ipa": "/ˈfaɪndɪŋ/",
+   "level": "B2",
+   "meaning": "phát hiện, kết quả nghiên cứu",
+   "definition": "information found in a study",
+   "collocations": [
+    "research findings",
+    "the main findings"
+   ],
+   "examples": [
+    {
+     "en": "The *findings* will be published next month.",
+     "vi": "Kết quả nghiên cứu sẽ được công bố tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "sci_testing",
+   "word": "testing",
+   "pos": "noun",
+   "ipa": "/ˈtestɪŋ/",
+   "level": "B2",
+   "meaning": "sự kiểm tra, thử nghiệm",
+   "definition": "the activity of testing something",
+   "collocations": [
+    "product testing",
+    "safety testing"
+   ],
+   "examples": [
+    {
+     "en": "All products go through strict safety *testing*.",
+     "vi": "Mọi sản phẩm đều qua kiểm tra an toàn nghiêm ngặt."
+    }
+   ]
+  },
+  {
+   "id": "sci_technique",
+   "word": "technique",
+   "pos": "noun",
+   "ipa": "/tekˈniːk/",
+   "level": "B1",
+   "meaning": "kỹ thuật, phương pháp",
+   "definition": "a particular way of doing something",
+   "collocations": [
+    "new techniques",
+    "learning techniques"
+   ],
+   "examples": [
+    {
+     "en": "She taught us some memory *techniques*.",
+     "vi": "Cô ấy dạy chúng tôi vài kỹ thuật ghi nhớ."
+    }
+   ]
+  },
+  {
+   "id": "sci_mechanism",
+   "word": "mechanism",
+   "pos": "noun",
+   "ipa": "/ˈmekənɪzəm/",
+   "level": "B2",
+   "meaning": "cơ chế",
+   "definition": "a part of a machine; a system for doing something",
+   "collocations": [
+    "safety mechanism",
+    "a mechanism for"
+   ],
+   "examples": [
+    {
+     "en": "There is no *mechanism* for customers to give feedback.",
+     "vi": "Không có cơ chế để khách hàng góp ý."
+    }
+   ]
+  },
+  {
+   "id": "sci_measure",
+   "word": "measure",
+   "pos": "verb",
+   "ipa": "/ˈmeʒər/",
+   "level": "B1",
+   "meaning": "đo lường",
+   "definition": "to find the size or amount of something",
+   "collocations": [
+    "measure the size",
+    "measure success"
+   ],
+   "examples": [
+    {
+     "en": "How do you *measure* customer satisfaction?",
+     "vi": "Bạn đo mức độ hài lòng của khách hàng thế nào?"
+    }
+   ],
+   "note": "Danh từ: measures = biện pháp (safety measures)."
+  },
+  {
+   "id": "sci_measurement",
+   "word": "measurement",
+   "pos": "noun",
+   "ipa": "/ˈmeʒərmənt/",
+   "level": "B2",
+   "meaning": "số đo, sự đo lường",
+   "definition": "the size or amount found by measuring",
+   "collocations": [
+    "take measurements",
+    "accurate measurement"
+   ],
+   "examples": [
+    {
+     "en": "The tailor took my *measurements*.",
+     "vi": "Thợ may lấy số đo của tôi."
+    }
+   ]
+  },
+  {
+   "id": "sci_calculate",
+   "word": "calculate",
+   "pos": "verb",
+   "ipa": "/ˈkælkjuleɪt/",
+   "level": "B2",
+   "meaning": "tính toán",
+   "definition": "to find an amount using numbers",
+   "collocations": [
+    "calculate the cost",
+    "calculate the total"
+   ],
+   "examples": [
+    {
+     "en": "Please *calculate* the total cost of the trip.",
+     "vi": "Vui lòng tính tổng chi phí chuyến đi."
+    }
+   ]
+  },
+  {
+   "id": "sci_accuracy",
+   "word": "accuracy",
+   "pos": "noun",
+   "ipa": "/ˈækjərəsi/",
+   "level": "B2",
+   "meaning": "độ chính xác",
+   "definition": "the state of being exact and correct",
+   "collocations": [
+    "check the accuracy",
+    "with accuracy"
+   ],
+   "examples": [
+    {
+     "en": "Please check the *accuracy* of the figures.",
+     "vi": "Vui lòng kiểm tra độ chính xác của số liệu."
+    }
+   ]
+  },
+  {
+   "id": "sci_accurate",
+   "word": "accurate",
+   "pos": "adjective",
+   "ipa": "/ˈækjərət/",
+   "level": "B2",
+   "meaning": "chính xác",
+   "definition": "correct and exact",
+   "collocations": [
+    "accurate information",
+    "accurate figures"
+   ],
+   "examples": [
+    {
+     "en": "Make sure the address is *accurate*.",
+     "vi": "Hãy đảm bảo địa chỉ chính xác."
+    }
+   ]
+  },
+  {
+   "id": "sci_accurately",
+   "word": "accurately",
+   "pos": "adverb",
+   "ipa": "/ˈækjərətli/",
+   "level": "B2",
+   "meaning": "một cách chính xác",
+   "definition": "in an exact and correct way",
+   "collocations": [
+    "accurately describe",
+    "measure accurately"
+   ],
+   "examples": [
+    {
+     "en": "The machine can measure weight *accurately*.",
+     "vi": "Máy có thể cân trọng lượng chính xác."
+    }
+   ]
+  },
+  {
+   "id": "sci_precise",
+   "word": "precise",
+   "pos": "adjective",
+   "ipa": "/prɪˈsaɪs/",
+   "level": "B2",
+   "meaning": "chính xác, rõ ràng",
+   "definition": "exact and accurate",
+   "collocations": [
+    "precise details",
+    "to be precise"
+   ],
+   "examples": [
+    {
+     "en": "Can you give me the *precise* time of arrival?",
+     "vi": "Bạn có thể cho tôi giờ đến chính xác không?"
+    }
+   ]
+  },
+  {
+   "id": "sci_precisely",
+   "word": "precisely",
+   "pos": "adverb",
+   "ipa": "/prɪˈsaɪsli/",
+   "level": "B2",
+   "meaning": "chính xác, đúng",
+   "definition": "exactly",
+   "collocations": [
+    "at precisely 9 o'clock",
+    "precisely because"
+   ],
+   "examples": [
+    {
+     "en": "The meeting starts at *precisely* 9 a.m.",
+     "vi": "Cuộc họp bắt đầu đúng 9 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "sci_prove",
+   "word": "prove",
+   "pos": "verb",
+   "ipa": "/pruːv/",
+   "level": "B1",
+   "meaning": "chứng minh; hóa ra là",
+   "definition": "to show that something is true; to turn out to be",
+   "collocations": [
+    "prove that",
+    "prove useful"
+   ],
+   "examples": [
+    {
+     "en": "The new system *proved* very useful.",
+     "vi": "Hệ thống mới hóa ra rất hữu ích."
+    }
+   ]
+  },
+  {
+   "id": "sci_proof",
+   "word": "proof",
+   "pos": "noun",
+   "ipa": "/pruːf/",
+   "level": "B2",
+   "meaning": "bằng chứng",
+   "definition": "facts that show something is true",
+   "collocations": [
+    "proof of purchase",
+    "proof of identity"
+   ],
+   "examples": [
+    {
+     "en": "You need *proof* of identity to open an account.",
+     "vi": "Bạn cần giấy tờ tùy thân để mở tài khoản."
+    }
+   ]
+  },
+  {
+   "id": "sci_examine",
+   "word": "examine",
+   "pos": "verb",
+   "ipa": "/ɪɡˈzæmɪn/",
+   "level": "B1",
+   "meaning": "xem xét kỹ; khám",
+   "definition": "to look at something carefully",
+   "collocations": [
+    "examine the evidence",
+    "examine a patient"
+   ],
+   "examples": [
+    {
+     "en": "The doctor *examined* my knee.",
+     "vi": "Bác sĩ đã khám đầu gối của tôi."
+    }
+   ]
+  },
+  {
+   "id": "sci_examination",
+   "word": "examination",
+   "pos": "noun",
+   "ipa": "/ɪɡˌzæmɪˈneɪʃn/",
+   "level": "B2",
+   "meaning": "sự kiểm tra; kỳ thi",
+   "definition": "a careful look at something; a formal exam",
+   "collocations": [
+    "medical examination",
+    "on closer examination"
+   ],
+   "examples": [
+    {
+     "en": "A full *examination* of the machine found no problems.",
+     "vi": "Kiểm tra toàn bộ máy không phát hiện vấn đề gì."
+    }
+   ]
+  },
+  {
+   "id": "sci_chemical",
+   "word": "chemical",
+   "pos": "noun",
+   "ipa": "/ˈkemɪkl/",
+   "level": "B1",
+   "meaning": "hóa chất",
+   "definition": "a substance used in chemistry",
+   "collocations": [
+    "harmful chemicals",
+    "chemical industry"
+   ],
+   "examples": [
+    {
+     "en": "Wear gloves when using these *chemicals*.",
+     "vi": "Hãy đeo găng tay khi dùng các hóa chất này."
+    }
+   ]
+  },
+  {
+   "id": "sci_substance",
+   "word": "substance",
+   "pos": "noun",
+   "ipa": "/ˈsʌbstəns/",
+   "level": "B1",
+   "meaning": "chất",
+   "definition": "a type of solid, liquid or gas",
+   "collocations": [
+    "a harmful substance",
+    "chemical substance"
+   ],
+   "examples": [
+    {
+     "en": "The bottle contains a dangerous *substance*.",
+     "vi": "Chai này chứa một chất nguy hiểm."
+    }
+   ]
+  },
+  {
+   "id": "sci_liquid",
+   "word": "liquid",
+   "pos": "noun",
+   "ipa": "/ˈlɪkwɪd/",
+   "level": "B1",
+   "meaning": "chất lỏng",
+   "definition": "a substance that flows, like water",
+   "collocations": [
+    "clear liquid",
+    "liquids are not allowed"
+   ],
+   "examples": [
+    {
+     "en": "*Liquids* over 100 ml are not allowed on the plane.",
+     "vi": "Chất lỏng trên 100 ml không được mang lên máy bay."
+    }
+   ]
+  },
+  {
+   "id": "sci_acid",
+   "word": "acid",
+   "pos": "noun",
+   "ipa": "/ˈæsɪd/",
+   "level": "B2",
+   "meaning": "axit",
+   "definition": "a chemical substance that can burn",
+   "collocations": [
+    "strong acid",
+    "acid rain"
+   ],
+   "examples": [
+    {
+     "en": "*Acid* rain damages forests and lakes.",
+     "vi": "Mưa axit gây hại cho rừng và hồ."
+    }
+   ]
+  },
+  {
+   "id": "sci_oxygen",
+   "word": "oxygen",
+   "pos": "noun",
+   "ipa": "/ˈɑːksɪdʒən/",
+   "level": "B2",
+   "meaning": "khí ô-xy",
+   "definition": "a gas in the air that we need to live",
+   "collocations": [
+    "oxygen mask",
+    "lack of oxygen"
+   ],
+   "examples": [
+    {
+     "en": "Plants produce *oxygen*.",
+     "vi": "Cây xanh tạo ra khí ô-xy."
+    }
+   ]
+  },
+  {
+   "id": "sci_carbon",
+   "word": "carbon",
+   "pos": "noun",
+   "ipa": "/ˈkɑːrbən/",
+   "level": "B2",
+   "meaning": "các-bon",
+   "definition": "a chemical element found in all living things",
+   "collocations": [
+    "carbon dioxide",
+    "carbon emissions",
+    "carbon footprint"
+   ],
+   "examples": [
+    {
+     "en": "The company aims to cut its *carbon* emissions by half.",
+     "vi": "Công ty đặt mục tiêu giảm một nửa lượng khí thải các-bon."
+    }
+   ]
+  },
+  {
+   "id": "sci_mineral",
+   "word": "mineral",
+   "pos": "noun",
+   "ipa": "/ˈmɪnərəl/",
+   "level": "B2",
+   "meaning": "khoáng chất",
+   "definition": "a natural substance found in rocks or food",
+   "collocations": [
+    "mineral water",
+    "vitamins and minerals"
+   ],
+   "examples": [
+    {
+     "en": "Fruit is full of vitamins and *minerals*.",
+     "vi": "Trái cây giàu vitamin và khoáng chất."
+    }
+   ]
+  },
+  {
+   "id": "sci_bacteria",
+   "word": "bacteria",
+   "pos": "noun",
+   "ipa": "/bækˈtɪriə/",
+   "level": "B2",
+   "meaning": "vi khuẩn",
+   "definition": "very small living things, some cause disease",
+   "collocations": [
+    "harmful bacteria",
+    "kill bacteria"
+   ],
+   "examples": [
+    {
+     "en": "Wash your hands to remove *bacteria*.",
+     "vi": "Rửa tay để loại bỏ vi khuẩn."
+    }
+   ],
+   "note": "Số ít: bacterium (ít dùng)."
+  },
+  {
+   "id": "sci_cell",
+   "word": "cell",
+   "pos": "noun",
+   "ipa": "/sel/",
+   "level": "B2",
+   "meaning": "tế bào; phòng giam",
+   "definition": "the smallest unit of a living thing; a small room in a prison",
+   "collocations": [
+    "brain cells",
+    "blood cells"
+   ],
+   "examples": [
+    {
+     "en": "The human body has trillions of *cells*.",
+     "vi": "Cơ thể người có hàng nghìn tỷ tế bào."
+    }
+   ]
+  },
+  {
+   "id": "sci_gene",
+   "word": "gene",
+   "pos": "noun",
+   "ipa": "/dʒiːn/",
+   "level": "B2",
+   "meaning": "gen",
+   "definition": "a unit in a cell that controls features passed from parents",
+   "collocations": [
+    "genes",
+    "in your genes"
+   ],
+   "examples": [
+    {
+     "en": "Eye colour is controlled by *genes*.",
+     "vi": "Màu mắt do gen quyết định."
+    }
+   ]
+  },
+  {
+   "id": "sci_genetic",
+   "word": "genetic",
+   "pos": "adjective",
+   "ipa": "/dʒəˈnetɪk/",
+   "level": "B2",
+   "meaning": "thuộc di truyền",
+   "definition": "connected with genes",
+   "collocations": [
+    "genetic disease",
+    "genetic research"
+   ],
+   "examples": [
+    {
+     "en": "The illness is *genetic*.",
+     "vi": "Căn bệnh này mang tính di truyền."
+    }
+   ]
+  },
+  {
+   "id": "sci_biological",
+   "word": "biological",
+   "pos": "adjective",
+   "ipa": "/ˌbaɪəˈlɑːdʒɪkl/",
+   "level": "B2",
+   "meaning": "thuộc sinh học",
+   "definition": "connected with living things",
+   "collocations": [
+    "biological process",
+    "biological parents"
+   ],
+   "examples": [
+    {
+     "en": "Sleep is a basic *biological* need.",
+     "vi": "Ngủ là nhu cầu sinh học cơ bản."
+    }
+   ]
+  },
+  {
+   "id": "sci_evolution",
+   "word": "evolution",
+   "pos": "noun",
+   "ipa": "/ˌevəˈluːʃn/",
+   "level": "B2",
+   "meaning": "sự tiến hóa, phát triển",
+   "definition": "the gradual development of something",
+   "collocations": [
+    "the evolution of",
+    "theory of evolution"
+   ],
+   "examples": [
+    {
+     "en": "The book describes the *evolution* of the mobile phone.",
+     "vi": "Cuốn sách mô tả sự phát triển của điện thoại di động."
+    }
+   ]
+  },
+  {
+   "id": "sci_evolve",
+   "word": "evolve",
+   "pos": "verb",
+   "ipa": "/iˈvɑːlv/",
+   "level": "B2",
+   "meaning": "tiến hóa, phát triển dần",
+   "definition": "to develop gradually",
+   "collocations": [
+    "evolve into",
+    "evolve over time"
+   ],
+   "examples": [
+    {
+     "en": "The company has *evolved* from a small shop into a large chain.",
+     "vi": "Công ty đã phát triển từ một cửa hàng nhỏ thành chuỗi lớn."
+    }
+   ]
+  },
+  {
+   "id": "sci_nuclear",
+   "word": "nuclear",
+   "pos": "adjective",
+   "ipa": "/ˈnuːkliər/",
+   "level": "B1",
+   "meaning": "hạt nhân",
+   "definition": "using the energy from splitting atoms",
+   "collocations": [
+    "nuclear power",
+    "nuclear energy"
+   ],
+   "examples": [
+    {
+     "en": "The country plans to build a *nuclear* power station.",
+     "vi": "Nước này dự định xây nhà máy điện hạt nhân."
+    }
+   ]
+  },
+  {
+   "id": "sci_radiation",
+   "word": "radiation",
+   "pos": "noun",
+   "ipa": "/ˌreɪdiˈeɪʃn/",
+   "level": "B2",
+   "meaning": "bức xạ",
+   "definition": "energy sent out as rays or waves",
+   "collocations": [
+    "high levels of radiation",
+    "radiation exposure"
+   ],
+   "examples": [
+    {
+     "en": "Phones produce a small amount of *radiation*.",
+     "vi": "Điện thoại phát ra một lượng nhỏ bức xạ."
+    }
+   ]
+  },
+  {
+   "id": "sci_solar",
+   "word": "solar",
+   "pos": "adjective",
+   "ipa": "/ˈsoʊlər/",
+   "level": "B2",
+   "meaning": "thuộc mặt trời",
+   "definition": "connected with the sun",
+   "collocations": [
+    "solar energy",
+    "solar panels",
+    "solar system"
+   ],
+   "examples": [
+    {
+     "en": "We installed *solar* panels on the roof.",
+     "vi": "Chúng tôi lắp tấm pin mặt trời trên mái nhà."
+    }
+   ]
+  },
+  {
+   "id": "sci_psychology",
+   "word": "psychology",
+   "pos": "noun",
+   "ipa": "/saɪˈkɑːlədʒi/",
+   "level": "B2",
+   "meaning": "tâm lý học",
+   "definition": "the study of the mind and behaviour",
+   "collocations": [
+    "study psychology",
+    "consumer psychology"
+   ],
+   "examples": [
+    {
+     "en": "She studied *psychology* at university.",
+     "vi": "Cô ấy học tâm lý học ở đại học."
+    }
+   ],
+   "note": "Chữ p câm."
+  },
+  {
+   "id": "sci_psychologist",
+   "word": "psychologist",
+   "pos": "noun",
+   "ipa": "/saɪˈkɑːlədʒɪst/",
+   "level": "B2",
+   "meaning": "nhà tâm lý học",
+   "definition": "an expert in psychology",
+   "collocations": [
+    "a child psychologist"
+   ],
+   "examples": [
+    {
+     "en": "The school hired a *psychologist* to help students.",
+     "vi": "Trường thuê một nhà tâm lý học để hỗ trợ học sinh."
+    }
+   ]
+  },
+  {
+   "id": "sci_psychological",
+   "word": "psychological",
+   "pos": "adjective",
+   "ipa": "/ˌsaɪkəˈlɑːdʒɪkl/",
+   "level": "B2",
+   "meaning": "thuộc tâm lý",
+   "definition": "connected with the mind",
+   "collocations": [
+    "psychological effect",
+    "psychological problems"
+   ],
+   "examples": [
+    {
+     "en": "Stress can have *psychological* effects.",
+     "vi": "Căng thẳng có thể gây ảnh hưởng tâm lý."
+    }
+   ]
+  },
+  {
+   "id": "sci_classify",
+   "word": "classify",
+   "pos": "verb",
+   "ipa": "/ˈklæsɪfaɪ/",
+   "level": "B2",
+   "meaning": "phân loại",
+   "definition": "to put things into groups",
+   "collocations": [
+    "classify into",
+    "be classified as"
+   ],
+   "examples": [
+    {
+     "en": "Books are *classified* by subject.",
+     "vi": "Sách được phân loại theo chủ đề."
+    }
+   ]
+  },
+  {
+   "id": "sci_category",
+   "word": "category",
+   "pos": "noun",
+   "ipa": "/ˈkætəɡɔːri/",
+   "level": "B1",
+   "meaning": "hạng mục, loại",
+   "definition": "a group of things with similar features",
+   "collocations": [
+    "fall into a category",
+    "product category"
+   ],
+   "examples": [
+    {
+     "en": "The products are divided into three *categories*.",
+     "vi": "Sản phẩm được chia làm ba loại."
+    }
+   ]
+  },
+  {
+   "id": "sci_characteristic",
+   "word": "characteristic",
+   "pos": "noun",
+   "ipa": "/ˌkærəktəˈrɪstɪk/",
+   "level": "B2",
+   "meaning": "đặc điểm",
+   "definition": "a typical quality or feature",
+   "collocations": [
+    "main characteristics",
+    "a common characteristic"
+   ],
+   "examples": [
+    {
+     "en": "Patience is an important *characteristic* of a good teacher.",
+     "vi": "Kiên nhẫn là đặc điểm quan trọng của giáo viên giỏi."
+    }
+   ]
+  },
+  {
+   "id": "sci_variation",
+   "word": "variation",
+   "pos": "noun",
+   "ipa": "/ˌveriˈeɪʃn/",
+   "level": "B2",
+   "meaning": "sự biến đổi, khác biệt",
+   "definition": "a change in amount or level",
+   "collocations": [
+    "variation in price",
+    "seasonal variations"
+   ],
+   "examples": [
+    {
+     "en": "There is a big *variation* in prices between shops.",
+     "vi": "Giá giữa các cửa hàng chênh lệch nhiều."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

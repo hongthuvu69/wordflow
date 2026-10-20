@@ -1,0 +1,1091 @@
+{
+ "id": "actions",
+ "order": 40,
+ "icon": "🤸",
+ "level": "B2",
+ "title": "Physical Actions",
+ "title_vi": "Động tác & Hành động",
+ "description": "Kéo, đẩy, rót, cúi, treo, xếp…: nhóm động từ \"sống còn\" cho Part 1 mô tả tranh.",
+ "words": [
+  {
+   "id": "act_pull",
+   "word": "pull",
+   "pos": "verb",
+   "ipa": "/pʊl/",
+   "level": "B1",
+   "meaning": "kéo",
+   "definition": "to move something towards you",
+   "collocations": [
+    "pull the door",
+    "pull a cart"
+   ],
+   "examples": [
+    {
+     "en": "A man is *pulling* a cart full of boxes.",
+     "vi": "Một người đàn ông đang kéo chiếc xe đầy hộp."
+    }
+   ]
+  },
+  {
+   "id": "act_push",
+   "word": "push",
+   "pos": "verb",
+   "ipa": "/pʊʃ/",
+   "level": "B1",
+   "meaning": "đẩy",
+   "definition": "to move something away from you",
+   "collocations": [
+    "push a button",
+    "push a trolley"
+   ],
+   "examples": [
+    {
+     "en": "She is *pushing* a shopping cart.",
+     "vi": "Cô ấy đang đẩy xe mua hàng."
+    }
+   ]
+  },
+  {
+   "id": "act_drag",
+   "word": "drag",
+   "pos": "verb",
+   "ipa": "/dræɡ/",
+   "level": "B2",
+   "meaning": "kéo lê; kéo thả",
+   "definition": "to pull something heavy along the ground; to move with a mouse",
+   "collocations": [
+    "drag a suitcase",
+    "drag and drop"
+   ],
+   "examples": [
+    {
+     "en": "He is *dragging* a heavy suitcase.",
+     "vi": "Anh ấy đang kéo lê chiếc vali nặng."
+    }
+   ]
+  },
+  {
+   "id": "act_lift",
+   "word": "lift",
+   "pos": "verb",
+   "ipa": "/lɪft/",
+   "level": "A2",
+   "meaning": "nâng, nhấc",
+   "definition": "to raise something",
+   "collocations": [
+    "lift a box",
+    "lift heavy objects"
+   ],
+   "examples": [
+    {
+     "en": "Two workers are *lifting* a table.",
+     "vi": "Hai công nhân đang nâng một chiếc bàn."
+    }
+   ]
+  },
+  {
+   "id": "act_carry",
+   "word": "carry",
+   "pos": "verb",
+   "ipa": "/ˈkæri/",
+   "level": "A1",
+   "meaning": "mang, xách",
+   "definition": "to hold and take something somewhere",
+   "collocations": [
+    "carry a bag",
+    "carry out"
+   ],
+   "examples": [
+    {
+     "en": "The woman is *carrying* a tray of drinks.",
+     "vi": "Người phụ nữ đang bưng khay đồ uống."
+    }
+   ],
+   "note": "carry out = thực hiện."
+  },
+  {
+   "id": "act_hang",
+   "word": "hang",
+   "pos": "verb",
+   "ipa": "/hæŋ/",
+   "level": "B1",
+   "meaning": "treo",
+   "definition": "to attach something at the top so it falls freely",
+   "collocations": [
+    "hang a picture",
+    "be hanging on the wall"
+   ],
+   "examples": [
+    {
+     "en": "Some pictures are *hanging* on the wall.",
+     "vi": "Vài bức tranh đang được treo trên tường."
+    }
+   ]
+  },
+  {
+   "id": "act_lay",
+   "word": "lay",
+   "pos": "verb",
+   "ipa": "/leɪ/",
+   "level": "B1",
+   "meaning": "đặt, để nằm",
+   "definition": "to put something down carefully",
+   "collocations": [
+    "lay the table",
+    "lay out"
+   ],
+   "examples": [
+    {
+     "en": "Tools have been *laid* out on the table.",
+     "vi": "Dụng cụ được bày ra trên bàn."
+    }
+   ],
+   "note": "lay – laid – laid (ngoại động từ); lie – lay – lain (nằm)."
+  },
+  {
+   "id": "act_lie",
+   "word": "lie",
+   "pos": "verb",
+   "ipa": "/laɪ/",
+   "level": "B1",
+   "meaning": "nằm; nói dối",
+   "definition": "to be in a flat position; to say something untrue",
+   "collocations": [
+    "lie down",
+    "lie on the grass"
+   ],
+   "examples": [
+    {
+     "en": "A man is *lying* on the grass.",
+     "vi": "Một người đàn ông đang nằm trên cỏ."
+    }
+   ]
+  },
+  {
+   "id": "act_lean",
+   "word": "lean",
+   "pos": "verb",
+   "ipa": "/liːn/",
+   "level": "B2",
+   "meaning": "dựa, tựa",
+   "definition": "to rest against something",
+   "collocations": [
+    "lean against",
+    "lean forward"
+   ],
+   "examples": [
+    {
+     "en": "A bicycle is *leaning* against the wall.",
+     "vi": "Một chiếc xe đạp đang dựa vào tường."
+    }
+   ]
+  },
+  {
+   "id": "act_place",
+   "word": "place",
+   "pos": "verb",
+   "ipa": "/pleɪs/",
+   "level": "B1",
+   "meaning": "đặt",
+   "definition": "to put something in a position",
+   "collocations": [
+    "place an order",
+    "be placed on"
+   ],
+   "examples": [
+    {
+     "en": "Flowers have been *placed* on each table.",
+     "vi": "Hoa đã được đặt trên mỗi bàn."
+    }
+   ],
+   "note": "place an order = đặt hàng."
+  },
+  {
+   "id": "act_pick",
+   "word": "pick",
+   "pos": "verb",
+   "ipa": "/pɪk/",
+   "level": "B2",
+   "meaning": "chọn; hái; nhặt",
+   "definition": "to choose; to take fruit from a plant",
+   "collocations": [
+    "pick up",
+    "pick out"
+   ],
+   "examples": [
+    {
+     "en": "She is *picking* up a box from the floor.",
+     "vi": "Cô ấy đang nhặt một chiếc hộp trên sàn."
+    }
+   ]
+  },
+  {
+   "id": "act_pour",
+   "word": "pour",
+   "pos": "verb",
+   "ipa": "/pɔːr/",
+   "level": "B1",
+   "meaning": "rót, đổ",
+   "definition": "to make liquid flow from a container",
+   "collocations": [
+    "pour coffee",
+    "pour into"
+   ],
+   "examples": [
+    {
+     "en": "A waiter is *pouring* water into a glass.",
+     "vi": "Người phục vụ đang rót nước vào ly."
+    }
+   ]
+  },
+  {
+   "id": "act_stack",
+   "word": "stack",
+   "pos": "verb",
+   "ipa": "/stæk/",
+   "level": "TOEIC",
+   "meaning": "xếp chồng",
+   "definition": "to put things in a pile",
+   "collocations": [
+    "stack chairs",
+    "be stacked"
+   ],
+   "examples": [
+    {
+     "en": "Chairs are *stacked* in the corner.",
+     "vi": "Ghế được xếp chồng ở góc phòng."
+    }
+   ]
+  },
+  {
+   "id": "act_arrange",
+   "word": "arrange",
+   "pos": "verb",
+   "ipa": "/əˈreɪndʒ/",
+   "level": "A2",
+   "meaning": "sắp xếp",
+   "definition": "to put things in order; to plan",
+   "collocations": [
+    "arrange flowers",
+    "arrange a meeting"
+   ],
+   "examples": [
+    {
+     "en": "Books are *arranged* on the shelves.",
+     "vi": "Sách được sắp xếp trên kệ."
+    }
+   ]
+  },
+  {
+   "id": "act_reach",
+   "word": "reach",
+   "pos": "verb",
+   "ipa": "/riːtʃ/",
+   "level": "B2",
+   "meaning": "với tới; đạt tới",
+   "definition": "to stretch your arm to touch; to arrive at",
+   "collocations": [
+    "reach for",
+    "reach a goal"
+   ],
+   "examples": [
+    {
+     "en": "She is *reaching* for a file on the top shelf.",
+     "vi": "Cô ấy đang với lấy tập hồ sơ trên kệ trên cùng."
+    }
+   ]
+  },
+  {
+   "id": "act_grab",
+   "word": "grab",
+   "pos": "verb",
+   "ipa": "/ɡræb/",
+   "level": "B2",
+   "meaning": "chộp lấy; tranh thủ",
+   "definition": "to take quickly",
+   "collocations": [
+    "grab a coffee",
+    "grab a seat"
+   ],
+   "examples": [
+    {
+     "en": "Let's *grab* a coffee before the meeting.",
+     "vi": "Mình tranh thủ uống cà phê trước giờ họp nhé."
+    }
+   ]
+  },
+  {
+   "id": "act_catch",
+   "word": "catch",
+   "pos": "verb",
+   "ipa": "/kætʃ/",
+   "level": "B2",
+   "meaning": "bắt; kịp",
+   "definition": "to take something moving; to get on a bus/train in time",
+   "collocations": [
+    "catch a ball",
+    "catch a train"
+   ],
+   "examples": [
+    {
+     "en": "I need to *catch* the 6 o'clock train.",
+     "vi": "Tôi cần bắt kịp chuyến tàu 6 giờ."
+    }
+   ]
+  },
+  {
+   "id": "act_chase",
+   "word": "chase",
+   "pos": "verb",
+   "ipa": "/tʃeɪs/",
+   "level": "B2",
+   "meaning": "đuổi theo",
+   "definition": "to run after someone",
+   "collocations": [
+    "chase after"
+   ],
+   "examples": [
+    {
+     "en": "The dog is *chasing* a ball.",
+     "vi": "Con chó đang đuổi theo quả bóng."
+    }
+   ]
+  },
+  {
+   "id": "act_roll",
+   "word": "roll",
+   "pos": "verb",
+   "ipa": "/roʊl/",
+   "level": "B1",
+   "meaning": "lăn; cuộn",
+   "definition": "to move by turning over; to make round",
+   "collocations": [
+    "roll up",
+    "roll out"
+   ],
+   "examples": [
+    {
+     "en": "The new service will be *rolled* out next month.",
+     "vi": "Dịch vụ mới sẽ được triển khai vào tháng tới."
+    }
+   ],
+   "note": "roll out = triển khai."
+  },
+  {
+   "id": "act_slide",
+   "word": "slide",
+   "pos": "verb",
+   "ipa": "/slaɪd/",
+   "level": "B2",
+   "meaning": "trượt",
+   "definition": "to move smoothly over a surface",
+   "collocations": [
+    "slide open",
+    "slide down"
+   ],
+   "examples": [
+    {
+     "en": "The doors *slide* open automatically.",
+     "vi": "Cửa tự động trượt mở."
+    }
+   ]
+  },
+  {
+   "id": "act_float",
+   "word": "float",
+   "pos": "verb",
+   "ipa": "/floʊt/",
+   "level": "B2",
+   "meaning": "nổi",
+   "definition": "to stay on the surface of water",
+   "collocations": [
+    "float on the water"
+   ],
+   "examples": [
+    {
+     "en": "Boats are *floating* in the harbour.",
+     "vi": "Thuyền đang nổi trong bến cảng."
+    }
+   ]
+  },
+  {
+   "id": "act_sink",
+   "word": "sink",
+   "pos": "verb",
+   "ipa": "/sɪŋk/",
+   "level": "B1",
+   "meaning": "chìm",
+   "definition": "to go down below the surface of water",
+   "collocations": [
+    "the ship sank"
+   ],
+   "examples": [
+    {
+     "en": "The boat *sank* in the storm.",
+     "vi": "Con thuyền bị chìm trong cơn bão."
+    }
+   ],
+   "note": "Danh từ sink = bồn rửa."
+  },
+  {
+   "id": "act_flow",
+   "word": "flow",
+   "pos": "verb",
+   "ipa": "/floʊ/",
+   "level": "B1",
+   "meaning": "chảy",
+   "definition": "to move smoothly, like a river",
+   "collocations": [
+    "flow into",
+    "traffic flows"
+   ],
+   "examples": [
+    {
+     "en": "Traffic is *flowing* smoothly this morning.",
+     "vi": "Sáng nay giao thông lưu thông thông suốt."
+    }
+   ]
+  },
+  {
+   "id": "act_melt",
+   "word": "melt",
+   "pos": "verb",
+   "ipa": "/melt/",
+   "level": "B2",
+   "meaning": "tan chảy",
+   "definition": "to change from solid to liquid",
+   "collocations": [
+    "melt in the sun"
+   ],
+   "examples": [
+    {
+     "en": "The ice cream *melted* in the heat.",
+     "vi": "Kem tan chảy vì nóng."
+    }
+   ]
+  },
+  {
+   "id": "act_freeze",
+   "word": "freeze",
+   "pos": "verb",
+   "ipa": "/friːz/",
+   "level": "B1",
+   "meaning": "đóng băng",
+   "definition": "to become ice; to stop moving",
+   "collocations": [
+    "freeze to death",
+    "prices frozen"
+   ],
+   "examples": [
+    {
+     "en": "The company has *frozen* hiring until next year.",
+     "vi": "Công ty ngừng tuyển dụng đến năm sau."
+    }
+   ]
+  },
+  {
+   "id": "act_frozen",
+   "word": "frozen",
+   "pos": "adjective",
+   "ipa": "/ˈfroʊzn/",
+   "level": "B1",
+   "meaning": "đông lạnh",
+   "definition": "made into ice; kept very cold",
+   "collocations": [
+    "frozen food",
+    "frozen pipes"
+   ],
+   "examples": [
+    {
+     "en": "Keep *frozen* food in the freezer.",
+     "vi": "Giữ thực phẩm đông lạnh trong ngăn đá."
+    }
+   ]
+  },
+  {
+   "id": "act_shake",
+   "word": "shake",
+   "pos": "verb",
+   "ipa": "/ʃeɪk/",
+   "level": "B1",
+   "meaning": "lắc; bắt (tay)",
+   "definition": "to move quickly up and down; to take someone's hand",
+   "collocations": [
+    "shake hands",
+    "shake well"
+   ],
+   "examples": [
+    {
+     "en": "The two men are *shaking* hands.",
+     "vi": "Hai người đàn ông đang bắt tay."
+    }
+   ],
+   "note": "shake – shook – shaken."
+  },
+  {
+   "id": "act_wave",
+   "word": "wave",
+   "pos": "verb",
+   "ipa": "/weɪv/",
+   "level": "B1",
+   "meaning": "vẫy tay",
+   "definition": "to move your hand from side to side",
+   "collocations": [
+    "wave goodbye",
+    "wave at"
+   ],
+   "examples": [
+    {
+     "en": "She *waved* at me from across the street.",
+     "vi": "Cô ấy vẫy tay với tôi từ bên kia đường."
+    }
+   ],
+   "note": "Danh từ wave = con sóng."
+  },
+  {
+   "id": "act_hug",
+   "word": "hug",
+   "pos": "verb",
+   "ipa": "/hʌɡ/",
+   "level": "B2",
+   "meaning": "ôm",
+   "definition": "to put your arms around someone",
+   "collocations": [
+    "hug each other"
+   ],
+   "examples": [
+    {
+     "en": "They *hugged* each other at the airport.",
+     "vi": "Họ ôm nhau ở sân bay."
+    }
+   ]
+  },
+  {
+   "id": "act_kiss",
+   "word": "kiss",
+   "pos": "verb",
+   "ipa": "/kɪs/",
+   "level": "B1",
+   "meaning": "hôn",
+   "definition": "to touch with the lips",
+   "collocations": [
+    "kiss goodbye"
+   ],
+   "examples": [
+    {
+     "en": "She *kissed* her son goodbye.",
+     "vi": "Cô ấy hôn tạm biệt con trai."
+    }
+   ]
+  },
+  {
+   "id": "act_touch",
+   "word": "touch",
+   "pos": "verb",
+   "ipa": "/tʌtʃ/",
+   "level": "B1",
+   "meaning": "chạm; liên lạc",
+   "definition": "to put your hand on something; to contact",
+   "collocations": [
+    "touch the screen",
+    "keep in touch"
+   ],
+   "examples": [
+    {
+     "en": "Let's keep in *touch*.",
+     "vi": "Giữ liên lạc nhé."
+    }
+   ]
+  },
+  {
+   "id": "act_rub",
+   "word": "rub",
+   "pos": "verb",
+   "ipa": "/rʌb/",
+   "level": "B2",
+   "meaning": "xoa, chà",
+   "definition": "to move your hand backwards and forwards on something",
+   "collocations": [
+    "rub your eyes",
+    "rub in"
+   ],
+   "examples": [
+    {
+     "en": "He *rubbed* his eyes and yawned.",
+     "vi": "Anh ấy dụi mắt và ngáp."
+    }
+   ]
+  },
+  {
+   "id": "act_scratch",
+   "word": "scratch",
+   "pos": "verb",
+   "ipa": "/skrætʃ/",
+   "level": "B2",
+   "meaning": "gãi; làm xước",
+   "definition": "to rub with nails; to damage a surface",
+   "collocations": [
+    "scratch your head",
+    "scratched screen"
+   ],
+   "examples": [
+    {
+     "en": "Be careful not to *scratch* the screen.",
+     "vi": "Cẩn thận kẻo làm xước màn hình."
+    }
+   ]
+  },
+  {
+   "id": "act_knock",
+   "word": "knock",
+   "pos": "verb",
+   "ipa": "/nɑːk/",
+   "level": "B1",
+   "meaning": "gõ; va",
+   "definition": "to hit a door to get attention; to hit by accident",
+   "collocations": [
+    "knock on the door",
+    "knock over"
+   ],
+   "examples": [
+    {
+     "en": "Please *knock* before entering.",
+     "vi": "Vui lòng gõ cửa trước khi vào."
+    }
+   ]
+  },
+  {
+   "id": "act_bite",
+   "word": "bite",
+   "pos": "verb",
+   "ipa": "/baɪt/",
+   "level": "B1",
+   "meaning": "cắn",
+   "definition": "to cut with your teeth",
+   "collocations": [
+    "bite into",
+    "be bitten by"
+   ],
+   "examples": [
+    {
+     "en": "I was *bitten* by mosquitoes all night.",
+     "vi": "Tôi bị muỗi cắn cả đêm."
+    }
+   ]
+  },
+  {
+   "id": "act_swallow",
+   "word": "swallow",
+   "pos": "verb",
+   "ipa": "/ˈswɑːloʊ/",
+   "level": "B2",
+   "meaning": "nuốt",
+   "definition": "to make food go down your throat",
+   "collocations": [
+    "swallow a pill"
+   ],
+   "examples": [
+    {
+     "en": "Take the pill with water; don't chew it, just *swallow* it.",
+     "vi": "Uống viên thuốc với nước, đừng nhai mà nuốt luôn."
+    }
+   ]
+  },
+  {
+   "id": "act_chop",
+   "word": "chop",
+   "pos": "verb",
+   "ipa": "/tʃɑːp/",
+   "level": "B2",
+   "meaning": "chặt, thái",
+   "definition": "to cut into pieces",
+   "collocations": [
+    "chop vegetables",
+    "chop wood"
+   ],
+   "examples": [
+    {
+     "en": "He is *chopping* vegetables in the kitchen.",
+     "vi": "Anh ấy đang thái rau trong bếp."
+    }
+   ]
+  },
+  {
+   "id": "act_slice",
+   "word": "slice",
+   "pos": "verb",
+   "ipa": "/slaɪs/",
+   "level": "B1",
+   "meaning": "cắt lát",
+   "definition": "to cut into thin pieces",
+   "collocations": [
+    "slice bread",
+    "sliced tomatoes"
+   ],
+   "examples": [
+    {
+     "en": "She is *slicing* bread for sandwiches.",
+     "vi": "Cô ấy đang cắt bánh mì để làm sandwich."
+    }
+   ]
+  },
+  {
+   "id": "act_dig",
+   "word": "dig",
+   "pos": "verb",
+   "ipa": "/dɪɡ/",
+   "level": "B2",
+   "meaning": "đào",
+   "definition": "to make a hole in the ground",
+   "collocations": [
+    "dig a hole",
+    "dig up"
+   ],
+   "examples": [
+    {
+     "en": "Workers are *digging* a hole in the road.",
+     "vi": "Công nhân đang đào một cái hố trên đường."
+    }
+   ]
+  },
+  {
+   "id": "act_bury",
+   "word": "bury",
+   "pos": "verb",
+   "ipa": "/ˈberi/",
+   "level": "B1",
+   "meaning": "chôn",
+   "definition": "to put something in the ground and cover it",
+   "collocations": [
+    "be buried under"
+   ],
+   "examples": [
+    {
+     "en": "The cables are *buried* under the road.",
+     "vi": "Dây cáp được chôn dưới đường."
+    }
+   ]
+  },
+  {
+   "id": "act_sweep",
+   "word": "sweep",
+   "pos": "verb",
+   "ipa": "/swiːp/",
+   "level": "B2",
+   "meaning": "quét",
+   "definition": "to clean with a brush",
+   "collocations": [
+    "sweep the floor"
+   ],
+   "examples": [
+    {
+     "en": "A worker is *sweeping* the floor.",
+     "vi": "Một công nhân đang quét sàn."
+    }
+   ]
+  },
+  {
+   "id": "act_wipe",
+   "word": "wipe",
+   "pos": "verb",
+   "ipa": "/waɪp/",
+   "level": "C1",
+   "meaning": "lau",
+   "definition": "to clean by rubbing with a cloth",
+   "collocations": [
+    "wipe the table",
+    "wipe off"
+   ],
+   "examples": [
+    {
+     "en": "The waiter is *wiping* the table.",
+     "vi": "Người phục vụ đang lau bàn."
+    }
+   ]
+  },
+  {
+   "id": "act_tear",
+   "word": "tear",
+   "pos": "verb",
+   "ipa": "/ter/",
+   "level": "B2",
+   "meaning": "xé",
+   "definition": "to pull something apart",
+   "collocations": [
+    "tear up",
+    "torn paper"
+   ],
+   "examples": [
+    {
+     "en": "Please don't *tear* the forms.",
+     "vi": "Vui lòng không xé các mẫu đơn."
+    }
+   ],
+   "note": "tear /ter/ = xé; tear /tɪr/ = nước mắt."
+  },
+  {
+   "id": "act_split",
+   "word": "split",
+   "pos": "verb",
+   "ipa": "/splɪt/",
+   "level": "B2",
+   "meaning": "chia, tách",
+   "definition": "to divide into parts",
+   "collocations": [
+    "split the bill",
+    "split into groups"
+   ],
+   "examples": [
+    {
+     "en": "Let's *split* the bill.",
+     "vi": "Chúng ta chia hóa đơn nhé."
+    }
+   ]
+  },
+  {
+   "id": "act_stick",
+   "word": "stick",
+   "pos": "verb",
+   "ipa": "/stɪk/",
+   "level": "B1",
+   "meaning": "dán; mắc kẹt; bám",
+   "definition": "to attach with glue; to become fixed",
+   "collocations": [
+    "stick to the plan",
+    "get stuck"
+   ],
+   "examples": [
+    {
+     "en": "Let's *stick* to the plan.",
+     "vi": "Hãy bám theo kế hoạch."
+    }
+   ]
+  },
+  {
+   "id": "act_sticky",
+   "word": "sticky",
+   "pos": "adjective",
+   "ipa": "/ˈstɪki/",
+   "level": "B2",
+   "meaning": "dính",
+   "definition": "covered with something that sticks",
+   "collocations": [
+    "sticky note",
+    "sticky hands"
+   ],
+   "examples": [
+    {
+     "en": "She left a *sticky* note on my screen.",
+     "vi": "Cô ấy dán một tờ giấy nhớ lên màn hình của tôi."
+    }
+   ]
+  },
+  {
+   "id": "act_stare",
+   "word": "stare",
+   "pos": "verb",
+   "ipa": "/ster/",
+   "level": "B2",
+   "meaning": "nhìn chằm chằm",
+   "definition": "to look at for a long time",
+   "collocations": [
+    "stare at",
+    "stare out of the window"
+   ],
+   "examples": [
+    {
+     "en": "He *stared* at the screen for hours.",
+     "vi": "Anh ấy nhìn chằm chằm vào màn hình hàng giờ."
+    }
+   ]
+  },
+  {
+   "id": "act_whisper",
+   "word": "whisper",
+   "pos": "verb",
+   "ipa": "/ˈwɪspər/",
+   "level": "B2",
+   "meaning": "thì thầm",
+   "definition": "to speak very quietly",
+   "collocations": [
+    "whisper to someone"
+   ],
+   "examples": [
+    {
+     "en": "She *whispered* something to her colleague.",
+     "vi": "Cô ấy thì thầm điều gì đó với đồng nghiệp."
+    }
+   ]
+  },
+  {
+   "id": "act_scream",
+   "word": "scream",
+   "pos": "verb",
+   "ipa": "/skriːm/",
+   "level": "B2",
+   "meaning": "hét lên",
+   "definition": "to cry out loudly",
+   "collocations": [
+    "scream for help"
+   ],
+   "examples": [
+    {
+     "en": "The children *screamed* with excitement.",
+     "vi": "Bọn trẻ hét lên vì phấn khích."
+    }
+   ]
+  },
+  {
+   "id": "act_cry",
+   "word": "cry",
+   "pos": "verb",
+   "ipa": "/kraɪ/",
+   "level": "B2",
+   "meaning": "khóc; kêu to",
+   "definition": "to produce tears; to shout",
+   "collocations": [
+    "cry for help",
+    "burst into tears"
+   ],
+   "examples": [
+    {
+     "en": "The baby started to *cry*.",
+     "vi": "Em bé bắt đầu khóc."
+    }
+   ]
+  },
+  {
+   "id": "act_wander",
+   "word": "wander",
+   "pos": "verb",
+   "ipa": "/ˈwɑːndər/",
+   "level": "B2",
+   "meaning": "đi lang thang",
+   "definition": "to walk without a purpose",
+   "collocations": [
+    "wander around",
+    "wander off"
+   ],
+   "examples": [
+    {
+     "en": "We *wandered* around the old town.",
+     "vi": "Chúng tôi đi dạo quanh phố cổ."
+    }
+   ]
+  },
+  {
+   "id": "act_mount",
+   "word": "mount",
+   "pos": "verb",
+   "ipa": "/maʊnt/",
+   "level": "B2",
+   "meaning": "gắn; leo lên; tăng dần",
+   "definition": "to fix in position; to increase gradually",
+   "collocations": [
+    "wall-mounted",
+    "mount a bike"
+   ],
+   "examples": [
+    {
+     "en": "A TV is *mounted* on the wall.",
+     "vi": "Một chiếc TV được gắn trên tường."
+    }
+   ]
+  },
+  {
+   "id": "act_pose",
+   "word": "pose",
+   "pos": "verb",
+   "ipa": "/poʊz/",
+   "level": "B2",
+   "meaning": "tạo dáng; đặt ra",
+   "definition": "to sit or stand for a photo; to create a problem",
+   "collocations": [
+    "pose for a photo",
+    "pose a risk"
+   ],
+   "examples": [
+    {
+     "en": "The team *posed* for a photo.",
+     "vi": "Cả đội tạo dáng chụp ảnh."
+    }
+   ],
+   "note": "pose a threat/risk = gây ra mối đe dọa/rủi ro."
+  },
+  {
+   "id": "act_shine",
+   "word": "shine",
+   "pos": "verb",
+   "ipa": "/ʃaɪn/",
+   "level": "B1",
+   "meaning": "chiếu sáng; tỏa sáng",
+   "definition": "to give out light",
+   "collocations": [
+    "the sun is shining"
+   ],
+   "examples": [
+    {
+     "en": "The sun is *shining* brightly today.",
+     "vi": "Hôm nay nắng chói chang."
+    }
+   ]
+  },
+  {
+   "id": "act_spread",
+   "word": "spread",
+   "pos": "verb",
+   "ipa": "/spred/",
+   "level": "B1",
+   "meaning": "lan rộng; trải ra",
+   "definition": "to cover a larger area; to open out",
+   "collocations": [
+    "spread quickly",
+    "spread out"
+   ],
+   "examples": [
+    {
+     "en": "News of the sale *spread* quickly.",
+     "vi": "Tin về đợt giảm giá lan nhanh."
+    }
+   ]
+  },
+  {
+   "id": "act_trap",
+   "word": "trap",
+   "pos": "verb",
+   "ipa": "/træp/",
+   "level": "B2",
+   "meaning": "mắc kẹt; bẫy",
+   "definition": "to keep someone in a place they cannot leave",
+   "collocations": [
+    "be trapped in"
+   ],
+   "examples": [
+    {
+     "en": "Two people were *trapped* in the lift.",
+     "vi": "Hai người bị kẹt trong thang máy."
+    }
+   ]
+  },
+  {
+   "id": "act_gaze",
+   "word": "gaze",
+   "pos": "verb",
+   "ipa": "/ɡeɪz/",
+   "level": "C1",
+   "meaning": "nhìn chăm chú",
+   "definition": "to look for a long time",
+   "collocations": [
+    "gaze at",
+    "gaze out"
+   ],
+   "examples": [
+    {
+     "en": "She is *gazing* out of the window.",
+     "vi": "Cô ấy đang nhìn ra ngoài cửa sổ."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

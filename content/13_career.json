@@ -1,0 +1,953 @@
+{
+ "id": "career",
+ "order": 13,
+ "icon": "👔",
+ "level": "B2",
+ "title": "Jobs & Careers",
+ "title_vi": "Việc làm & Sự nghiệp",
+ "description": "Tuyển dụng, ứng tuyển, thăng tiến, nghỉ việc, nghỉ hưu: từ vựng cho Part 7 (tin tuyển dụng, email nhân sự).",
+ "words": [
+  {
+   "id": "car_employment",
+   "word": "employment",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪmənt/",
+   "level": "B1",
+   "meaning": "việc làm; sự tuyển dụng",
+   "definition": "having a paid job; the act of employing people",
+   "collocations": [
+    "full-time employment",
+    "employment agency",
+    "terms of employment"
+   ],
+   "examples": [
+    {
+     "en": "She found *employment* at a local bank.",
+     "vi": "Cô ấy tìm được việc làm ở một ngân hàng địa phương."
+    }
+   ]
+  },
+  {
+   "id": "car_unemployed",
+   "word": "unemployed",
+   "pos": "adjective",
+   "ipa": "/ˌʌnɪmˈplɔɪd/",
+   "level": "B1",
+   "meaning": "thất nghiệp",
+   "definition": "without a job",
+   "collocations": [
+    "unemployed workers",
+    "be unemployed for"
+   ],
+   "examples": [
+    {
+     "en": "He was *unemployed* for six months.",
+     "vi": "Anh ấy thất nghiệp sáu tháng."
+    }
+   ]
+  },
+  {
+   "id": "car_unemployment",
+   "word": "unemployment",
+   "pos": "noun",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "level": "B1",
+   "meaning": "tình trạng thất nghiệp",
+   "definition": "the situation of people not having jobs",
+   "collocations": [
+    "high unemployment",
+    "unemployment rate"
+   ],
+   "examples": [
+    {
+     "en": "*Unemployment* has fallen to 3%.",
+     "vi": "Tỷ lệ thất nghiệp đã giảm xuống 3%."
+    }
+   ]
+  },
+  {
+   "id": "car_applicant",
+   "word": "applicant",
+   "pos": "noun",
+   "ipa": "/ˈæplɪkənt/",
+   "level": "B2",
+   "meaning": "người nộp đơn, ứng viên",
+   "definition": "a person who applies for a job",
+   "collocations": [
+    "job applicant",
+    "successful applicants"
+   ],
+   "examples": [
+    {
+     "en": "Successful *applicants* will be contacted by e-mail.",
+     "vi": "Ứng viên trúng tuyển sẽ được liên hệ qua e-mail."
+    }
+   ]
+  },
+  {
+   "id": "car_application",
+   "word": "application",
+   "pos": "noun",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "level": "B1",
+   "meaning": "đơn xin; ứng dụng",
+   "definition": "a formal request for a job; a computer program",
+   "collocations": [
+    "job application",
+    "application form",
+    "submit an application"
+   ],
+   "examples": [
+    {
+     "en": "Please send your *application* by May 31.",
+     "vi": "Vui lòng gửi đơn ứng tuyển trước ngày 31/5."
+    }
+   ]
+  },
+  {
+   "id": "car_recruit",
+   "word": "recruit",
+   "pos": "verb",
+   "ipa": "/rɪˈkruːt/",
+   "level": "B2",
+   "meaning": "tuyển dụng",
+   "definition": "to find new people to join a company",
+   "collocations": [
+    "recruit staff",
+    "recruit new members"
+   ],
+   "examples": [
+    {
+     "en": "We need to *recruit* two more engineers.",
+     "vi": "Chúng tôi cần tuyển thêm hai kỹ sư."
+    }
+   ]
+  },
+  {
+   "id": "car_recruitment",
+   "word": "recruitment",
+   "pos": "noun",
+   "ipa": "/rɪˈkruːtmənt/",
+   "level": "B2",
+   "meaning": "sự tuyển dụng",
+   "definition": "the process of finding new staff",
+   "collocations": [
+    "recruitment agency",
+    "recruitment process"
+   ],
+   "examples": [
+    {
+     "en": "The *recruitment* process takes about a month.",
+     "vi": "Quy trình tuyển dụng mất khoảng một tháng."
+    }
+   ]
+  },
+  {
+   "id": "car_qualification",
+   "word": "qualification",
+   "pos": "noun",
+   "ipa": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+   "level": "B1",
+   "meaning": "bằng cấp, trình độ",
+   "definition": "an exam passed or skill that makes you suitable for a job",
+   "collocations": [
+    "academic qualifications",
+    "professional qualification"
+   ],
+   "examples": [
+    {
+     "en": "What *qualifications* do I need for this job?",
+     "vi": "Tôi cần bằng cấp gì cho công việc này?"
+    }
+   ]
+  },
+  {
+   "id": "car_qualified",
+   "word": "qualified",
+   "pos": "adjective",
+   "ipa": "/ˈkwɑːlɪfaɪd/",
+   "level": "B1",
+   "meaning": "đủ trình độ",
+   "definition": "having the right skills or qualifications",
+   "collocations": [
+    "highly qualified",
+    "qualified for the job"
+   ],
+   "examples": [
+    {
+     "en": "She is well *qualified* for the position.",
+     "vi": "Cô ấy hoàn toàn đủ trình độ cho vị trí này."
+    }
+   ]
+  },
+  {
+   "id": "car_qualify",
+   "word": "qualify",
+   "pos": "verb",
+   "ipa": "/ˈkwɑːlɪfaɪ/",
+   "level": "B1",
+   "meaning": "đủ điều kiện; đạt chuẩn",
+   "definition": "to have the right to do or get something",
+   "collocations": [
+    "qualify for a discount",
+    "qualify as a doctor"
+   ],
+   "examples": [
+    {
+     "en": "Members *qualify* for a 10% discount.",
+     "vi": "Hội viên được giảm giá 10%."
+    }
+   ]
+  },
+  {
+   "id": "car_experienced",
+   "word": "experienced",
+   "pos": "adjective",
+   "ipa": "/ɪkˈspɪriənst/",
+   "level": "B1",
+   "meaning": "có kinh nghiệm",
+   "definition": "having skills from doing something for a long time",
+   "collocations": [
+    "highly experienced",
+    "an experienced teacher"
+   ],
+   "examples": [
+    {
+     "en": "We are looking for an *experienced* sales manager.",
+     "vi": "Chúng tôi đang tìm một quản lý bán hàng có kinh nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "car_skilled",
+   "word": "skilled",
+   "pos": "adjective",
+   "ipa": "/skɪld/",
+   "level": "B2",
+   "meaning": "lành nghề",
+   "definition": "having the ability to do something well",
+   "collocations": [
+    "skilled workers",
+    "highly skilled"
+   ],
+   "examples": [
+    {
+     "en": "There is a shortage of *skilled* workers.",
+     "vi": "Đang thiếu lao động lành nghề."
+    }
+   ]
+  },
+  {
+   "id": "car_expertise",
+   "word": "expertise",
+   "pos": "noun",
+   "ipa": "/ˌekspɜːrˈtiːz/",
+   "level": "B2",
+   "meaning": "chuyên môn",
+   "definition": "expert knowledge or skill",
+   "collocations": [
+    "technical expertise",
+    "expertise in"
+   ],
+   "examples": [
+    {
+     "en": "We need someone with *expertise* in data analysis.",
+     "vi": "Chúng tôi cần người có chuyên môn về phân tích dữ liệu."
+    }
+   ]
+  },
+  {
+   "id": "car_profession",
+   "word": "profession",
+   "pos": "noun",
+   "ipa": "/prəˈfeʃn/",
+   "level": "B1",
+   "meaning": "nghề nghiệp (cần đào tạo)",
+   "definition": "a type of job that needs special training",
+   "collocations": [
+    "the medical profession",
+    "by profession"
+   ],
+   "examples": [
+    {
+     "en": "She is a lawyer by *profession*.",
+     "vi": "Cô ấy làm luật sư theo nghề."
+    }
+   ]
+  },
+  {
+   "id": "car_professional",
+   "word": "professional",
+   "pos": "adjective",
+   "ipa": "/prəˈfeʃənl/",
+   "level": "B2",
+   "meaning": "chuyên nghiệp",
+   "definition": "connected with a job; showing high standards",
+   "collocations": [
+    "professional experience",
+    "professional advice",
+    "very professional"
+   ],
+   "examples": [
+    {
+     "en": "The staff were friendly and *professional*.",
+     "vi": "Nhân viên thân thiện và chuyên nghiệp."
+    }
+   ]
+  },
+  {
+   "id": "car_occupation",
+   "word": "occupation",
+   "pos": "noun",
+   "ipa": "/ˌɑːkjuˈpeɪʃn/",
+   "level": "B2",
+   "meaning": "nghề nghiệp",
+   "definition": "a job or profession",
+   "collocations": [
+    "Please state your occupation"
+   ],
+   "examples": [
+    {
+     "en": "Please write your name and *occupation* on the form.",
+     "vi": "Vui lòng ghi tên và nghề nghiệp vào mẫu đơn."
+    }
+   ],
+   "note": "Từ hay gặp trên các mẫu đơn."
+  },
+  {
+   "id": "car_full_time",
+   "word": "full-time",
+   "pos": "adjective",
+   "ipa": "/ˌfʊl ˈtaɪm/",
+   "level": "B2",
+   "meaning": "toàn thời gian",
+   "definition": "working all the normal hours of a week",
+   "collocations": [
+    "full-time job",
+    "full-time staff"
+   ],
+   "examples": [
+    {
+     "en": "This is a *full-time* position with benefits.",
+     "vi": "Đây là vị trí toàn thời gian có phúc lợi."
+    }
+   ]
+  },
+  {
+   "id": "car_part_time",
+   "word": "part-time",
+   "pos": "adjective",
+   "ipa": "/ˌpɑːrt ˈtaɪm/",
+   "level": "B2",
+   "meaning": "bán thời gian",
+   "definition": "working only part of the day or week",
+   "collocations": [
+    "part-time job",
+    "work part-time"
+   ],
+   "examples": [
+    {
+     "en": "Many students have *part-time* jobs.",
+     "vi": "Nhiều sinh viên làm việc bán thời gian."
+    }
+   ]
+  },
+  {
+   "id": "car_junior",
+   "word": "junior",
+   "pos": "adjective",
+   "ipa": "/ˈdʒuːniər/",
+   "level": "B2",
+   "meaning": "cấp dưới, mới vào nghề",
+   "definition": "having a low position in a company",
+   "collocations": [
+    "junior staff",
+    "junior designer"
+   ],
+   "examples": [
+    {
+     "en": "She started as a *junior* designer.",
+     "vi": "Cô ấy khởi đầu là một nhà thiết kế cấp dưới."
+    }
+   ]
+  },
+  {
+   "id": "car_senior",
+   "word": "senior",
+   "pos": "adjective",
+   "ipa": "/ˈsiːniər/",
+   "level": "B2",
+   "meaning": "cấp cao, thâm niên",
+   "definition": "having a high position in a company",
+   "collocations": [
+    "senior manager",
+    "senior staff",
+    "senior position"
+   ],
+   "examples": [
+    {
+     "en": "He was promoted to *senior* manager.",
+     "vi": "Anh ấy được thăng chức quản lý cấp cao."
+    }
+   ]
+  },
+  {
+   "id": "car_promote",
+   "word": "promote",
+   "pos": "verb",
+   "ipa": "/prəˈmoʊt/",
+   "level": "B1",
+   "meaning": "thăng chức; quảng bá",
+   "definition": "to move someone to a higher position; to advertise",
+   "collocations": [
+    "be promoted to",
+    "promote a product"
+   ],
+   "examples": [
+    {
+     "en": "She was *promoted* to team leader.",
+     "vi": "Cô ấy được thăng chức trưởng nhóm."
+    }
+   ],
+   "note": "Hai nghĩa đều rất hay gặp TOEIC."
+  },
+  {
+   "id": "car_resign",
+   "word": "resign",
+   "pos": "verb",
+   "ipa": "/rɪˈzaɪn/",
+   "level": "B2",
+   "meaning": "từ chức, nghỉ việc",
+   "definition": "to officially leave your job",
+   "collocations": [
+    "resign from",
+    "resign as manager"
+   ],
+   "examples": [
+    {
+     "en": "He *resigned* from the company last month.",
+     "vi": "Anh ấy nghỉ việc ở công ty tháng trước."
+    }
+   ],
+   "note": "Danh từ: resignation (letter of resignation)."
+  },
+  {
+   "id": "car_retire",
+   "word": "retire",
+   "pos": "verb",
+   "ipa": "/rɪˈtaɪər/",
+   "level": "B1",
+   "meaning": "nghỉ hưu",
+   "definition": "to stop working because of age",
+   "collocations": [
+    "retire at 60",
+    "retire from"
+   ],
+   "examples": [
+    {
+     "en": "My father *retired* at the age of 62.",
+     "vi": "Bố tôi nghỉ hưu năm 62 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "car_retired",
+   "word": "retired",
+   "pos": "adjective",
+   "ipa": "/rɪˈtaɪərd/",
+   "level": "B1",
+   "meaning": "đã nghỉ hưu",
+   "definition": "having stopped working because of age",
+   "collocations": [
+    "a retired teacher"
+   ],
+   "examples": [
+    {
+     "en": "She is a *retired* nurse.",
+     "vi": "Bà ấy là y tá đã nghỉ hưu."
+    }
+   ]
+  },
+  {
+   "id": "car_retirement",
+   "word": "retirement",
+   "pos": "noun",
+   "ipa": "/rɪˈtaɪərmənt/",
+   "level": "B2",
+   "meaning": "sự nghỉ hưu",
+   "definition": "the time when you stop working",
+   "collocations": [
+    "retirement party",
+    "early retirement",
+    "retirement plan"
+   ],
+   "examples": [
+    {
+     "en": "We held a *retirement* party for Mr. Lee.",
+     "vi": "Chúng tôi tổ chức tiệc chia tay về hưu cho ông Lee."
+    }
+   ]
+  },
+  {
+   "id": "car_assign",
+   "word": "assign",
+   "pos": "verb",
+   "ipa": "/əˈsaɪn/",
+   "level": "B2",
+   "meaning": "giao (việc), phân công",
+   "definition": "to give someone a job or task",
+   "collocations": [
+    "assign a task",
+    "be assigned to"
+   ],
+   "examples": [
+    {
+     "en": "Each new employee is *assigned* a mentor.",
+     "vi": "Mỗi nhân viên mới được phân công một người hướng dẫn."
+    }
+   ]
+  },
+  {
+   "id": "car_duty",
+   "word": "duty",
+   "pos": "noun",
+   "ipa": "/ˈduːti/",
+   "level": "B1",
+   "meaning": "nhiệm vụ; bổn phận",
+   "definition": "something you must do as part of your job",
+   "collocations": [
+    "on duty",
+    "off duty",
+    "job duties"
+   ],
+   "examples": [
+    {
+     "en": "Her *duties* include answering customer e-mails.",
+     "vi": "Nhiệm vụ của cô ấy gồm trả lời e-mail khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "car_responsibility",
+   "word": "responsibility",
+   "pos": "noun",
+   "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+   "level": "B1",
+   "meaning": "trách nhiệm",
+   "definition": "a duty to deal with something",
+   "collocations": [
+    "take responsibility",
+    "main responsibilities"
+   ],
+   "examples": [
+    {
+     "en": "Training new staff is my *responsibility*.",
+     "vi": "Đào tạo nhân viên mới là trách nhiệm của tôi."
+    }
+   ]
+  },
+  {
+   "id": "car_staff",
+   "word": "staff",
+   "pos": "noun",
+   "ipa": "/stæf/",
+   "level": "B1",
+   "meaning": "nhân viên (tập thể)",
+   "definition": "all the workers in an organization",
+   "collocations": [
+    "staff member",
+    "staff meeting",
+    "hire staff"
+   ],
+   "examples": [
+    {
+     "en": "All *staff* must attend the safety meeting.",
+     "vi": "Toàn bộ nhân viên phải dự buổi họp an toàn."
+    }
+   ],
+   "note": "staff là danh từ tập hợp, không thêm s: \"two staff members\"."
+  },
+  {
+   "id": "car_workplace",
+   "word": "workplace",
+   "pos": "noun",
+   "ipa": "/ˈwɜːrkpleɪs/",
+   "level": "B2",
+   "meaning": "nơi làm việc",
+   "definition": "the place where people work",
+   "collocations": [
+    "in the workplace",
+    "workplace safety"
+   ],
+   "examples": [
+    {
+     "en": "We want a safe and friendly *workplace*.",
+     "vi": "Chúng tôi muốn một nơi làm việc an toàn và thân thiện."
+    }
+   ]
+  },
+  {
+   "id": "car_leadership",
+   "word": "leadership",
+   "pos": "noun",
+   "ipa": "/ˈliːdərʃɪp/",
+   "level": "B2",
+   "meaning": "khả năng lãnh đạo; sự lãnh đạo",
+   "definition": "the ability to lead; the state of being a leader",
+   "collocations": [
+    "leadership skills",
+    "under the leadership of"
+   ],
+   "examples": [
+    {
+     "en": "The job requires strong *leadership* skills.",
+     "vi": "Công việc đòi hỏi kỹ năng lãnh đạo tốt."
+    }
+   ]
+  },
+  {
+   "id": "car_achievement",
+   "word": "achievement",
+   "pos": "noun",
+   "ipa": "/əˈtʃiːvmənt/",
+   "level": "B1",
+   "meaning": "thành tích",
+   "definition": "something done successfully with effort",
+   "collocations": [
+    "a great achievement",
+    "sense of achievement"
+   ],
+   "examples": [
+    {
+     "en": "Winning the award was a great *achievement*.",
+     "vi": "Giành giải thưởng là một thành tích lớn."
+    }
+   ]
+  },
+  {
+   "id": "car_accomplish",
+   "word": "accomplish",
+   "pos": "verb",
+   "ipa": "/əˈkɑːmplɪʃ/",
+   "level": "B2",
+   "meaning": "hoàn thành, đạt được",
+   "definition": "to succeed in doing something",
+   "collocations": [
+    "accomplish a task",
+    "accomplish a goal"
+   ],
+   "examples": [
+    {
+     "en": "We *accomplished* everything we planned this quarter.",
+     "vi": "Chúng tôi đã hoàn thành mọi kế hoạch trong quý này."
+    }
+   ]
+  },
+  {
+   "id": "car_ambition",
+   "word": "ambition",
+   "pos": "noun",
+   "ipa": "/æmˈbɪʃn/",
+   "level": "B1",
+   "meaning": "hoài bão",
+   "definition": "a strong wish to achieve something",
+   "collocations": [
+    "have an ambition",
+    "career ambitions"
+   ],
+   "examples": [
+    {
+     "en": "Her *ambition* is to run her own company.",
+     "vi": "Hoài bão của cô ấy là điều hành công ty riêng."
+    }
+   ]
+  },
+  {
+   "id": "car_ambitious",
+   "word": "ambitious",
+   "pos": "adjective",
+   "ipa": "/æmˈbɪʃəs/",
+   "level": "B1",
+   "meaning": "tham vọng",
+   "definition": "wanting very much to succeed",
+   "collocations": [
+    "an ambitious plan",
+    "ambitious young people"
+   ],
+   "examples": [
+    {
+     "en": "The company has *ambitious* plans for growth.",
+     "vi": "Công ty có kế hoạch tăng trưởng đầy tham vọng."
+    }
+   ]
+  },
+  {
+   "id": "car_motivate",
+   "word": "motivate",
+   "pos": "verb",
+   "ipa": "/ˈmoʊtɪveɪt/",
+   "level": "B2",
+   "meaning": "tạo động lực",
+   "definition": "to make someone want to do something",
+   "collocations": [
+    "motivate staff",
+    "highly motivated"
+   ],
+   "examples": [
+    {
+     "en": "Good managers know how to *motivate* their teams.",
+     "vi": "Quản lý giỏi biết cách tạo động lực cho đội."
+    }
+   ]
+  },
+  {
+   "id": "car_motivation",
+   "word": "motivation",
+   "pos": "noun",
+   "ipa": "/ˌmoʊtɪˈveɪʃn/",
+   "level": "B2",
+   "meaning": "động lực",
+   "definition": "the reason or enthusiasm for doing something",
+   "collocations": [
+    "lack of motivation",
+    "motivation to learn"
+   ],
+   "examples": [
+    {
+     "en": "Clear goals increase staff *motivation*.",
+     "vi": "Mục tiêu rõ ràng làm tăng động lực của nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "car_incentive",
+   "word": "incentive",
+   "pos": "noun",
+   "ipa": "/ɪnˈsentɪv/",
+   "level": "B2",
+   "meaning": "sự khuyến khích, ưu đãi",
+   "definition": "something that encourages you to do something",
+   "collocations": [
+    "financial incentive",
+    "offer incentives"
+   ],
+   "examples": [
+    {
+     "en": "The bonus is an *incentive* to work harder.",
+     "vi": "Tiền thưởng là sự khuyến khích để làm việc chăm hơn."
+    }
+   ]
+  },
+  {
+   "id": "car_reward",
+   "word": "reward",
+   "pos": "noun",
+   "ipa": "/rɪˈwɔːrd/",
+   "level": "B2",
+   "meaning": "phần thưởng",
+   "definition": "something given for good work or behaviour",
+   "collocations": [
+    "as a reward for",
+    "reward scheme"
+   ],
+   "examples": [
+    {
+     "en": "The trip was a *reward* for reaching our sales target.",
+     "vi": "Chuyến đi là phần thưởng vì đạt chỉ tiêu bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "car_placement",
+   "word": "placement",
+   "pos": "noun",
+   "ipa": "/ˈpleɪsmənt/",
+   "level": "B2",
+   "meaning": "kỳ thực tập; sự sắp xếp chỗ làm",
+   "definition": "a job, often part of a course, giving work experience",
+   "collocations": [
+    "work placement",
+    "job placement"
+   ],
+   "examples": [
+    {
+     "en": "Students do a six-month *placement* in a company.",
+     "vi": "Sinh viên đi thực tập sáu tháng tại công ty."
+    }
+   ]
+  },
+  {
+   "id": "car_seminar",
+   "word": "seminar",
+   "pos": "noun",
+   "ipa": "/ˈsemɪnɑːr/",
+   "level": "B2",
+   "meaning": "hội thảo chuyên đề",
+   "definition": "a meeting for discussion or training",
+   "collocations": [
+    "attend a seminar",
+    "a training seminar"
+   ],
+   "examples": [
+    {
+     "en": "All managers will attend a *seminar* on leadership.",
+     "vi": "Tất cả quản lý sẽ tham dự hội thảo về lãnh đạo."
+    }
+   ]
+  },
+  {
+   "id": "car_workshop",
+   "word": "workshop",
+   "pos": "noun",
+   "ipa": "/ˈwɜːrkʃɑːp/",
+   "level": "B2",
+   "meaning": "buổi tập huấn, hội thảo thực hành",
+   "definition": "a meeting where people learn by doing",
+   "collocations": [
+    "hold a workshop",
+    "writing workshop"
+   ],
+   "examples": [
+    {
+     "en": "The *workshop* will cover basic presentation skills.",
+     "vi": "Buổi tập huấn sẽ bao gồm kỹ năng thuyết trình cơ bản."
+    }
+   ]
+  },
+  {
+   "id": "car_session",
+   "word": "session",
+   "pos": "noun",
+   "ipa": "/ˈseʃn/",
+   "level": "B2",
+   "meaning": "buổi, phiên",
+   "definition": "a period of time for a particular activity",
+   "collocations": [
+    "training session",
+    "question-and-answer session"
+   ],
+   "examples": [
+    {
+     "en": "The training *session* starts at 9 a.m.",
+     "vi": "Buổi đào tạo bắt đầu lúc 9 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "car_certificate",
+   "word": "certificate",
+   "pos": "noun",
+   "ipa": "/sərˈtɪfɪkət/",
+   "level": "B2",
+   "meaning": "chứng chỉ, giấy chứng nhận",
+   "definition": "an official document showing you have done something",
+   "collocations": [
+    "receive a certificate",
+    "certificate of completion"
+   ],
+   "examples": [
+    {
+     "en": "Participants will receive a *certificate* at the end of the course.",
+     "vi": "Học viên sẽ nhận chứng chỉ khi kết thúc khóa học."
+    }
+   ]
+  },
+  {
+   "id": "car_evaluate",
+   "word": "evaluate",
+   "pos": "verb",
+   "ipa": "/ɪˈvæljueɪt/",
+   "level": "B2",
+   "meaning": "đánh giá",
+   "definition": "to judge how good or useful something is",
+   "collocations": [
+    "evaluate performance",
+    "evaluate results"
+   ],
+   "examples": [
+    {
+     "en": "Managers *evaluate* each employee's performance twice a year.",
+     "vi": "Quản lý đánh giá hiệu suất của từng nhân viên hai lần một năm."
+    }
+   ]
+  },
+  {
+   "id": "car_evaluation",
+   "word": "evaluation",
+   "pos": "noun",
+   "ipa": "/ɪˌvæljuˈeɪʃn/",
+   "level": "B2",
+   "meaning": "sự đánh giá",
+   "definition": "the act of judging the value of something",
+   "collocations": [
+    "performance evaluation",
+    "course evaluation"
+   ],
+   "examples": [
+    {
+     "en": "Please complete the course *evaluation* form.",
+     "vi": "Vui lòng điền phiếu đánh giá khóa học."
+    }
+   ]
+  },
+  {
+   "id": "car_performance",
+   "word": "performance",
+   "pos": "noun",
+   "ipa": "/pərˈfɔːrməns/",
+   "level": "B1",
+   "meaning": "hiệu suất; buổi biểu diễn",
+   "definition": "how well someone does a job; a show",
+   "collocations": [
+    "job performance",
+    "performance review",
+    "live performance"
+   ],
+   "examples": [
+    {
+     "en": "Your bonus depends on your *performance*.",
+     "vi": "Tiền thưởng phụ thuộc vào hiệu suất làm việc của bạn."
+    }
+   ]
+  },
+  {
+   "id": "car_mentor",
+   "word": "mentor",
+   "pos": "noun",
+   "ipa": "/ˈmentɔːr/",
+   "level": "C1",
+   "meaning": "người hướng dẫn, cố vấn",
+   "definition": "an experienced person who advises someone less experienced",
+   "collocations": [
+    "act as a mentor",
+    "a mentor program"
+   ],
+   "examples": [
+    {
+     "en": "My *mentor* helped me a lot in my first year.",
+     "vi": "Người hướng dẫn đã giúp tôi rất nhiều trong năm đầu."
+    }
+   ]
+  },
+  {
+   "id": "car_network",
+   "word": "network",
+   "pos": "noun",
+   "ipa": "/ˈnetwɜːrk/",
+   "level": "A2",
+   "meaning": "mạng lưới quan hệ",
+   "definition": "a group of people who help each other in work",
+   "collocations": [
+    "professional network",
+    "build a network"
+   ],
+   "examples": [
+    {
+     "en": "Conferences help you build your professional *network*.",
+     "vi": "Hội nghị giúp bạn xây dựng mạng lưới quan hệ nghề nghiệp."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

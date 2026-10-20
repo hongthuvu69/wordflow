@@ -1,0 +1,1196 @@
+{
+ "id": "numbers",
+ "order": 36,
+ "icon": "📊",
+ "level": "B2",
+ "title": "Numbers, Amounts & Trends",
+ "title_vi": "Số lượng, Mức độ & Xu hướng",
+ "description": "Tăng – giảm, ước tính, tỷ lệ, quy mô: ngôn ngữ mô tả biểu đồ, cực kỳ quan trọng cho Part 7 và IELTS Writing Task 1.",
+ "words": [
+  {
+   "id": "num_amount",
+   "word": "amount",
+   "pos": "noun",
+   "ipa": "/əˈmaʊnt/",
+   "level": "B2",
+   "meaning": "lượng, số tiền",
+   "definition": "a quantity of something",
+   "collocations": [
+    "a large amount of",
+    "the total amount"
+   ],
+   "examples": [
+    {
+     "en": "A large *amount* of money was spent on advertising.",
+     "vi": "Một số tiền lớn đã được chi cho quảng cáo."
+    }
+   ],
+   "note": "amount of + danh từ không đếm được; number of + danh từ đếm được."
+  },
+  {
+   "id": "num_average",
+   "word": "average",
+   "pos": "adjective",
+   "ipa": "/ˈævərɪdʒ/",
+   "level": "B1",
+   "meaning": "trung bình",
+   "definition": "typical; calculated by adding and dividing",
+   "collocations": [
+    "on average",
+    "average salary",
+    "above average"
+   ],
+   "examples": [
+    {
+     "en": "The *average* customer spends $40 per visit.",
+     "vi": "Khách hàng trung bình chi 40 đô mỗi lần ghé."
+    }
+   ]
+  },
+  {
+   "id": "num_total",
+   "word": "total",
+   "pos": "noun",
+   "ipa": "/ˈtoʊtl/",
+   "level": "B1",
+   "meaning": "tổng số",
+   "definition": "the whole amount",
+   "collocations": [
+    "in total",
+    "a total of"
+   ],
+   "examples": [
+    {
+     "en": "We received a *total* of 200 applications.",
+     "vi": "Chúng tôi nhận tổng cộng 200 hồ sơ."
+    }
+   ]
+  },
+  {
+   "id": "num_totally",
+   "word": "totally",
+   "pos": "adverb",
+   "ipa": "/ˈtoʊtəli/",
+   "level": "B1",
+   "meaning": "hoàn toàn",
+   "definition": "completely",
+   "collocations": [
+    "totally different",
+    "totally agree"
+   ],
+   "examples": [
+    {
+     "en": "The new design is *totally* different.",
+     "vi": "Thiết kế mới hoàn toàn khác."
+    }
+   ]
+  },
+  {
+   "id": "num_sum",
+   "word": "sum",
+   "pos": "noun",
+   "ipa": "/sʌm/",
+   "level": "B2",
+   "meaning": "khoản tiền; tổng",
+   "definition": "an amount of money; the total",
+   "collocations": [
+    "a large sum",
+    "sum up"
+   ],
+   "examples": [
+    {
+     "en": "They paid a large *sum* for the land.",
+     "vi": "Họ trả một khoản tiền lớn cho mảnh đất."
+    }
+   ],
+   "note": "sum up = tóm lại."
+  },
+  {
+   "id": "num_estimate",
+   "word": "estimate",
+   "pos": "verb",
+   "ipa": "/ˈestɪmeɪt/",
+   "level": "B2",
+   "meaning": "ước tính",
+   "definition": "to guess the size or cost of something",
+   "collocations": [
+    "estimated cost",
+    "it is estimated that"
+   ],
+   "examples": [
+    {
+     "en": "The repairs are *estimated* to cost $5,000.",
+     "vi": "Chi phí sửa chữa ước tính 5.000 đô."
+    }
+   ],
+   "note": "Danh từ estimate /ˈestɪmət/ = bản ước tính, báo giá."
+  },
+  {
+   "id": "num_approximately",
+   "word": "approximately",
+   "pos": "adverb",
+   "ipa": "/əˈprɑːksɪmətli/",
+   "level": "B1",
+   "meaning": "xấp xỉ",
+   "definition": "close to an exact number",
+   "collocations": [
+    "approximately 50 people"
+   ],
+   "examples": [
+    {
+     "en": "The flight takes *approximately* two hours.",
+     "vi": "Chuyến bay mất xấp xỉ hai tiếng."
+    }
+   ]
+  },
+  {
+   "id": "num_roughly",
+   "word": "roughly",
+   "pos": "adverb",
+   "ipa": "/ˈrʌfli/",
+   "level": "B2",
+   "meaning": "khoảng, đại khái",
+   "definition": "approximately",
+   "collocations": [
+    "roughly 30%",
+    "roughly speaking"
+   ],
+   "examples": [
+    {
+     "en": "*Roughly* half of our staff work from home.",
+     "vi": "Khoảng một nửa nhân viên của chúng tôi làm việc tại nhà."
+    }
+   ]
+  },
+  {
+   "id": "num_dozen",
+   "word": "dozen",
+   "pos": "noun",
+   "ipa": "/ˈdʌzn/",
+   "level": "B2",
+   "meaning": "tá (12); hàng chục",
+   "definition": "twelve; many",
+   "collocations": [
+    "a dozen eggs",
+    "dozens of"
+   ],
+   "examples": [
+    {
+     "en": "*Dozens* of people were waiting outside.",
+     "vi": "Hàng chục người đang chờ bên ngoài."
+    }
+   ]
+  },
+  {
+   "id": "num_double",
+   "word": "double",
+   "pos": "verb",
+   "ipa": "/ˈdʌbl/",
+   "level": "B1",
+   "meaning": "tăng gấp đôi",
+   "definition": "to become twice as big",
+   "collocations": [
+    "double in size",
+    "double the price"
+   ],
+   "examples": [
+    {
+     "en": "Our profits have *doubled* since last year.",
+     "vi": "Lợi nhuận của chúng tôi đã tăng gấp đôi so với năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "num_multiply",
+   "word": "multiply",
+   "pos": "verb",
+   "ipa": "/ˈmʌltɪplaɪ/",
+   "level": "B2",
+   "meaning": "nhân lên; tăng nhiều",
+   "definition": "to add a number to itself several times; to increase a lot",
+   "collocations": [
+    "multiply by"
+   ],
+   "examples": [
+    {
+     "en": "The number of users has *multiplied* in two years.",
+     "vi": "Số người dùng tăng gấp nhiều lần trong hai năm."
+    }
+   ]
+  },
+  {
+   "id": "num_fraction",
+   "word": "fraction",
+   "pos": "noun",
+   "ipa": "/ˈfrækʃn/",
+   "level": "B2",
+   "meaning": "phần nhỏ; phân số",
+   "definition": "a small part of something",
+   "collocations": [
+    "a fraction of the cost"
+   ],
+   "examples": [
+    {
+     "en": "You can buy it online for a *fraction* of the price.",
+     "vi": "Bạn có thể mua trên mạng với giá rẻ hơn nhiều."
+    }
+   ]
+  },
+  {
+   "id": "num_proportion",
+   "word": "proportion",
+   "pos": "noun",
+   "ipa": "/prəˈpɔːrʃn/",
+   "level": "B2",
+   "meaning": "tỷ lệ, phần",
+   "definition": "a part of a whole; the relationship between amounts",
+   "collocations": [
+    "a large proportion of",
+    "in proportion to"
+   ],
+   "examples": [
+    {
+     "en": "A high *proportion* of our customers are students.",
+     "vi": "Một tỷ lệ cao khách hàng của chúng tôi là sinh viên."
+    }
+   ]
+  },
+  {
+   "id": "num_share",
+   "word": "share",
+   "pos": "noun",
+   "ipa": "/ˈʃer/",
+   "level": "B1",
+   "meaning": "thị phần; cổ phần",
+   "definition": "a part of something owned or shared",
+   "collocations": [
+    "market share",
+    "share price"
+   ],
+   "examples": [
+    {
+     "en": "The company has a 30% market *share*.",
+     "vi": "Công ty chiếm 30% thị phần."
+    }
+   ],
+   "note": "Động từ share = chia sẻ."
+  },
+  {
+   "id": "num_range",
+   "word": "range",
+   "pos": "noun",
+   "ipa": "/reɪndʒ/",
+   "level": "B1",
+   "meaning": "phạm vi; dòng sản phẩm",
+   "definition": "a set of different things of the same type; the limits",
+   "collocations": [
+    "a wide range of",
+    "price range",
+    "product range"
+   ],
+   "examples": [
+    {
+     "en": "We offer a wide *range* of services.",
+     "vi": "Chúng tôi cung cấp nhiều loại dịch vụ."
+    }
+   ]
+  },
+  {
+   "id": "num_scale",
+   "word": "scale",
+   "pos": "noun",
+   "ipa": "/skeɪl/",
+   "level": "B2",
+   "meaning": "quy mô; thang đo",
+   "definition": "the size or level of something; a set of levels",
+   "collocations": [
+    "on a large scale",
+    "on a scale of 1 to 10"
+   ],
+   "examples": [
+    {
+     "en": "On a *scale* of 1 to 10, how satisfied are you?",
+     "vi": "Trên thang điểm 1 đến 10, bạn hài lòng đến mức nào?"
+    }
+   ]
+  },
+  {
+   "id": "num_level",
+   "word": "level",
+   "pos": "noun",
+   "ipa": "/ˈlevl/",
+   "level": "B1",
+   "meaning": "mức độ; tầng",
+   "definition": "the amount or degree of something; a floor",
+   "collocations": [
+    "high level of",
+    "sea level",
+    "level 3"
+   ],
+   "examples": [
+    {
+     "en": "The car park is on *level* B2.",
+     "vi": "Bãi đỗ xe ở tầng B2."
+    }
+   ]
+  },
+  {
+   "id": "num_rank",
+   "word": "rank",
+   "pos": "verb",
+   "ipa": "/ræŋk/",
+   "level": "B2",
+   "meaning": "xếp hạng",
+   "definition": "to give a position in a list",
+   "collocations": [
+    "be ranked",
+    "rank first"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is *ranked* first in the city.",
+     "vi": "Khách sạn được xếp hạng nhất thành phố."
+    }
+   ]
+  },
+  {
+   "id": "num_margin",
+   "word": "margin",
+   "pos": "noun",
+   "ipa": "/ˈmɑːrdʒɪn/",
+   "level": "B2",
+   "meaning": "lề; biên độ, chênh lệch",
+   "definition": "the space at the edge of a page; the difference between amounts",
+   "collocations": [
+    "profit margin",
+    "by a wide margin"
+   ],
+   "examples": [
+    {
+     "en": "We won the contract by a small *margin*.",
+     "vi": "Chúng tôi giành hợp đồng với cách biệt nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "num_volume",
+   "word": "volume",
+   "pos": "noun",
+   "ipa": "/ˈvɑːljuːm/",
+   "level": "B2",
+   "meaning": "khối lượng; âm lượng; tập",
+   "definition": "amount; loudness; a book",
+   "collocations": [
+    "sales volume",
+    "turn the volume down"
+   ],
+   "examples": [
+    {
+     "en": "The *volume* of online orders has risen sharply.",
+     "vi": "Khối lượng đơn hàng trực tuyến tăng mạnh."
+    }
+   ]
+  },
+  {
+   "id": "num_length",
+   "word": "length",
+   "pos": "noun",
+   "ipa": "/leŋθ/",
+   "level": "B1",
+   "meaning": "chiều dài; độ dài",
+   "definition": "how long something is",
+   "collocations": [
+    "the length of",
+    "at length"
+   ],
+   "examples": [
+    {
+     "en": "The *length* of the course is six weeks.",
+     "vi": "Khóa học kéo dài sáu tuần."
+    }
+   ]
+  },
+  {
+   "id": "num_depth",
+   "word": "depth",
+   "pos": "noun",
+   "ipa": "/depθ/",
+   "level": "B2",
+   "meaning": "độ sâu; chiều sâu",
+   "definition": "how deep something is; detail",
+   "collocations": [
+    "in depth",
+    "the depth of"
+   ],
+   "examples": [
+    {
+     "en": "We discussed the plan in *depth*.",
+     "vi": "Chúng tôi đã thảo luận kế hoạch rất chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "num_inch",
+   "word": "inch",
+   "pos": "noun",
+   "ipa": "/ɪntʃ/",
+   "level": "B2",
+   "meaning": "inch (2,54 cm)",
+   "definition": "a unit of length",
+   "collocations": [
+    "a 15-inch screen"
+   ],
+   "examples": [
+    {
+     "en": "The laptop has a 14-*inch* screen.",
+     "vi": "Máy tính xách tay có màn hình 14 inch."
+    }
+   ]
+  },
+  {
+   "id": "num_litre",
+   "word": "litre",
+   "pos": "noun",
+   "ipa": "/ˈliːtər/",
+   "level": "B2",
+   "meaning": "lít",
+   "definition": "a unit for measuring liquid",
+   "collocations": [
+    "a litre of water"
+   ],
+   "examples": [
+    {
+     "en": "Drink at least two *litres* of water a day.",
+     "vi": "Uống ít nhất hai lít nước mỗi ngày."
+    }
+   ],
+   "note": "Anh-Mỹ: liter."
+  },
+  {
+   "id": "num_tonne",
+   "word": "tonne",
+   "pos": "noun",
+   "ipa": "/tʌn/",
+   "level": "B2",
+   "meaning": "tấn (1.000 kg)",
+   "definition": "a unit of weight equal to 1,000 kg",
+   "collocations": [
+    "10 tonnes of rice"
+   ],
+   "examples": [
+    {
+     "en": "The ship can carry 5,000 *tonnes* of cargo.",
+     "vi": "Con tàu chở được 5.000 tấn hàng."
+    }
+   ]
+  },
+  {
+   "id": "num_ton",
+   "word": "ton",
+   "pos": "noun",
+   "ipa": "/tʌn/",
+   "level": "B2",
+   "meaning": "tấn; rất nhiều (văn nói)",
+   "definition": "a unit of weight; a lot",
+   "collocations": [
+    "tons of"
+   ],
+   "examples": [
+    {
+     "en": "I have *tons* of work to do.",
+     "vi": "Tôi có cả đống việc phải làm."
+    }
+   ]
+  },
+  {
+   "id": "num_increase",
+   "word": "increase",
+   "pos": "noun",
+   "ipa": "/ˈɪŋkriːs/",
+   "level": "A2",
+   "meaning": "sự gia tăng",
+   "definition": "a rise in amount",
+   "collocations": [
+    "an increase in",
+    "a 10% increase"
+   ],
+   "examples": [
+    {
+     "en": "There was a sharp *increase* in sales.",
+     "vi": "Doanh số tăng mạnh."
+    }
+   ]
+  },
+  {
+   "id": "num_decrease",
+   "word": "decrease",
+   "pos": "verb",
+   "ipa": "/dɪˈkriːs/",
+   "level": "B2",
+   "meaning": "giảm",
+   "definition": "to become smaller",
+   "collocations": [
+    "decrease by 10%",
+    "decrease sharply"
+   ],
+   "examples": [
+    {
+     "en": "The number of complaints has *decreased*.",
+     "vi": "Số lượng khiếu nại đã giảm."
+    }
+   ]
+  },
+  {
+   "id": "num_decline",
+   "word": "decline",
+   "pos": "verb",
+   "ipa": "/dɪˈklaɪn/",
+   "level": "B2",
+   "meaning": "suy giảm; từ chối",
+   "definition": "to become less; to refuse politely",
+   "collocations": [
+    "sales declined",
+    "decline an invitation"
+   ],
+   "examples": [
+    {
+     "en": "Sadly, I must *decline* your invitation.",
+     "vi": "Rất tiếc, tôi phải từ chối lời mời của bạn."
+    }
+   ],
+   "note": "Hai nghĩa đều hay gặp TOEIC."
+  },
+  {
+   "id": "num_drop",
+   "word": "drop",
+   "pos": "noun",
+   "ipa": "/drɑːp/",
+   "level": "B1",
+   "meaning": "sự giảm; giọt",
+   "definition": "a fall in amount; a small amount of liquid",
+   "collocations": [
+    "a drop in prices",
+    "a sharp drop"
+   ],
+   "examples": [
+    {
+     "en": "There has been a *drop* in visitor numbers.",
+     "vi": "Lượng khách tham quan đã giảm."
+    }
+   ]
+  },
+  {
+   "id": "num_rise",
+   "word": "rise",
+   "pos": "verb",
+   "ipa": "/raɪz/",
+   "level": "B1",
+   "meaning": "tăng lên",
+   "definition": "to increase",
+   "collocations": [
+    "prices rose",
+    "rise sharply"
+   ],
+   "examples": [
+    {
+     "en": "Prices *rose* by 5% last year.",
+     "vi": "Giá đã tăng 5% năm ngoái."
+    }
+   ],
+   "note": "rise (nội động từ) – raise (ngoại động từ: raise prices)."
+  },
+  {
+   "id": "num_growth",
+   "word": "growth",
+   "pos": "noun",
+   "ipa": "/ɡroʊθ/",
+   "level": "B1",
+   "meaning": "sự tăng trưởng",
+   "definition": "an increase in size or amount",
+   "collocations": [
+    "economic growth",
+    "rapid growth"
+   ],
+   "examples": [
+    {
+     "en": "The company expects strong *growth* next year.",
+     "vi": "Công ty kỳ vọng tăng trưởng mạnh năm tới."
+    }
+   ]
+  },
+  {
+   "id": "num_gain",
+   "word": "gain",
+   "pos": "verb",
+   "ipa": "/ɡeɪn/",
+   "level": "B2",
+   "meaning": "đạt được; tăng",
+   "definition": "to get something useful; to increase",
+   "collocations": [
+    "gain experience",
+    "gain weight"
+   ],
+   "examples": [
+    {
+     "en": "You will *gain* valuable experience in this job.",
+     "vi": "Bạn sẽ có được kinh nghiệm quý báu trong công việc này."
+    }
+   ]
+  },
+  {
+   "id": "num_reduction",
+   "word": "reduction",
+   "pos": "noun",
+   "ipa": "/rɪˈdʌkʃn/",
+   "level": "B2",
+   "meaning": "sự cắt giảm",
+   "definition": "making something smaller",
+   "collocations": [
+    "price reduction",
+    "a reduction in costs"
+   ],
+   "examples": [
+    {
+     "en": "We offer a 20% *reduction* for group bookings.",
+     "vi": "Chúng tôi giảm 20% cho đặt chỗ theo nhóm."
+    }
+   ]
+  },
+  {
+   "id": "num_rapid",
+   "word": "rapid",
+   "pos": "adjective",
+   "ipa": "/ˈræpɪd/",
+   "level": "B2",
+   "meaning": "nhanh chóng",
+   "definition": "happening very quickly",
+   "collocations": [
+    "rapid growth",
+    "rapid change"
+   ],
+   "examples": [
+    {
+     "en": "The city has seen *rapid* growth.",
+     "vi": "Thành phố đã phát triển nhanh chóng."
+    }
+   ]
+  },
+  {
+   "id": "num_rapidly",
+   "word": "rapidly",
+   "pos": "adverb",
+   "ipa": "/ˈræpɪdli/",
+   "level": "B2",
+   "meaning": "một cách nhanh chóng",
+   "definition": "very quickly",
+   "collocations": [
+    "grow rapidly",
+    "rapidly changing"
+   ],
+   "examples": [
+    {
+     "en": "Online sales are growing *rapidly*.",
+     "vi": "Doanh số trực tuyến đang tăng nhanh."
+    }
+   ]
+  },
+  {
+   "id": "num_gradually",
+   "word": "gradually",
+   "pos": "adverb",
+   "ipa": "/ˈɡrædʒuəli/",
+   "level": "B2",
+   "meaning": "dần dần",
+   "definition": "slowly over time",
+   "collocations": [
+    "gradually improve",
+    "gradually increase"
+   ],
+   "examples": [
+    {
+     "en": "Your English will *gradually* improve.",
+     "vi": "Tiếng Anh của bạn sẽ tiến bộ dần dần."
+    }
+   ]
+  },
+  {
+   "id": "num_sharply",
+   "word": "sharply",
+   "pos": "adverb",
+   "ipa": "/ˈʃɑːrpli/",
+   "level": "TOEIC",
+   "meaning": "mạnh, đột ngột",
+   "definition": "suddenly and by a large amount",
+   "collocations": [
+    "rise sharply",
+    "fall sharply"
+   ],
+   "examples": [
+    {
+     "en": "Fuel prices rose *sharply* in March.",
+     "vi": "Giá nhiên liệu tăng mạnh vào tháng Ba."
+    }
+   ]
+  },
+  {
+   "id": "num_significant",
+   "word": "significant",
+   "pos": "adjective",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "level": "B2",
+   "meaning": "đáng kể, quan trọng",
+   "definition": "large or important enough to be noticed",
+   "collocations": [
+    "a significant increase",
+    "significant changes"
+   ],
+   "examples": [
+    {
+     "en": "There has been a *significant* increase in costs.",
+     "vi": "Chi phí đã tăng đáng kể."
+    }
+   ]
+  },
+  {
+   "id": "num_significantly",
+   "word": "significantly",
+   "pos": "adverb",
+   "ipa": "/sɪɡˈnɪfɪkəntli/",
+   "level": "B2",
+   "meaning": "một cách đáng kể",
+   "definition": "by a large amount",
+   "collocations": [
+    "significantly higher",
+    "improve significantly"
+   ],
+   "examples": [
+    {
+     "en": "Sales were *significantly* higher than last year.",
+     "vi": "Doanh số cao hơn đáng kể so với năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "num_considerable",
+   "word": "considerable",
+   "pos": "adjective",
+   "ipa": "/kənˈsɪdərəbl/",
+   "level": "B2",
+   "meaning": "đáng kể",
+   "definition": "large in size or importance",
+   "collocations": [
+    "a considerable amount",
+    "considerable time"
+   ],
+   "examples": [
+    {
+     "en": "The project took a *considerable* amount of time.",
+     "vi": "Dự án tốn khá nhiều thời gian."
+    }
+   ]
+  },
+  {
+   "id": "num_considerably",
+   "word": "considerably",
+   "pos": "adverb",
+   "ipa": "/kənˈsɪdərəbli/",
+   "level": "B2",
+   "meaning": "đáng kể",
+   "definition": "much; a lot",
+   "collocations": [
+    "considerably cheaper",
+    "vary considerably"
+   ],
+   "examples": [
+    {
+     "en": "Prices vary *considerably* from shop to shop.",
+     "vi": "Giá cả chênh lệch đáng kể giữa các cửa hàng."
+    }
+   ]
+  },
+  {
+   "id": "num_slight",
+   "word": "slight",
+   "pos": "adjective",
+   "ipa": "/slaɪt/",
+   "level": "B2",
+   "meaning": "nhẹ, nhỏ",
+   "definition": "small in size or degree",
+   "collocations": [
+    "a slight increase",
+    "a slight delay"
+   ],
+   "examples": [
+    {
+     "en": "There may be a *slight* delay.",
+     "vi": "Có thể sẽ có chút chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "num_slightly",
+   "word": "slightly",
+   "pos": "adverb",
+   "ipa": "/ˈslaɪtli/",
+   "level": "B1",
+   "meaning": "hơi, một chút",
+   "definition": "a little",
+   "collocations": [
+    "slightly higher",
+    "slightly different"
+   ],
+   "examples": [
+    {
+     "en": "The price is *slightly* higher than last year.",
+     "vi": "Giá hơi cao hơn năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "num_massive",
+   "word": "massive",
+   "pos": "adjective",
+   "ipa": "/ˈmæsɪv/",
+   "level": "B2",
+   "meaning": "to lớn",
+   "definition": "very large",
+   "collocations": [
+    "a massive increase",
+    "massive success"
+   ],
+   "examples": [
+    {
+     "en": "The sale was a *massive* success.",
+     "vi": "Đợt giảm giá thành công vang dội."
+    }
+   ]
+  },
+  {
+   "id": "num_vast",
+   "word": "vast",
+   "pos": "adjective",
+   "ipa": "/væst/",
+   "level": "B2",
+   "meaning": "rộng lớn, khổng lồ",
+   "definition": "extremely large",
+   "collocations": [
+    "a vast majority",
+    "vast amount"
+   ],
+   "examples": [
+    {
+     "en": "The *vast* majority of customers are happy.",
+     "vi": "Phần lớn khách hàng đều hài lòng."
+    }
+   ]
+  },
+  {
+   "id": "num_numerous",
+   "word": "numerous",
+   "pos": "adjective",
+   "ipa": "/ˈnuːmərəs/",
+   "level": "B2",
+   "meaning": "rất nhiều",
+   "definition": "many",
+   "collocations": [
+    "on numerous occasions",
+    "numerous times"
+   ],
+   "examples": [
+    {
+     "en": "I have called the office on *numerous* occasions.",
+     "vi": "Tôi đã gọi cho văn phòng rất nhiều lần."
+    }
+   ]
+  },
+  {
+   "id": "num_multiple",
+   "word": "multiple",
+   "pos": "adjective",
+   "ipa": "/ˈmʌltɪpl/",
+   "level": "B2",
+   "meaning": "nhiều",
+   "definition": "many; more than one",
+   "collocations": [
+    "multiple choice",
+    "multiple locations"
+   ],
+   "examples": [
+    {
+     "en": "The company has *multiple* locations in Asia.",
+     "vi": "Công ty có nhiều chi nhánh ở châu Á."
+    }
+   ]
+  },
+  {
+   "id": "num_plenty",
+   "word": "plenty",
+   "pos": "pronoun",
+   "ipa": "/ˈplenti/",
+   "level": "B1",
+   "meaning": "nhiều, dư dả",
+   "definition": "a large amount; enough",
+   "collocations": [
+    "plenty of time",
+    "plenty of room"
+   ],
+   "examples": [
+    {
+     "en": "Don't worry, we have *plenty* of time.",
+     "vi": "Đừng lo, chúng ta còn nhiều thời gian."
+    }
+   ]
+  },
+  {
+   "id": "num_sufficient",
+   "word": "sufficient",
+   "pos": "adjective",
+   "ipa": "/səˈfɪʃnt/",
+   "level": "B2",
+   "meaning": "đủ",
+   "definition": "enough",
+   "collocations": [
+    "sufficient time",
+    "sufficient funds"
+   ],
+   "examples": [
+    {
+     "en": "Make sure there are *sufficient* funds in your account.",
+     "vi": "Hãy đảm bảo tài khoản có đủ tiền."
+    }
+   ]
+  },
+  {
+   "id": "num_adequate",
+   "word": "adequate",
+   "pos": "adjective",
+   "ipa": "/ˈædɪkwət/",
+   "level": "B2",
+   "meaning": "đầy đủ, thỏa đáng",
+   "definition": "enough or good enough",
+   "collocations": [
+    "adequate training",
+    "adequate space"
+   ],
+   "examples": [
+    {
+     "en": "Staff must receive *adequate* training.",
+     "vi": "Nhân viên phải được đào tạo đầy đủ."
+    }
+   ]
+  },
+  {
+   "id": "num_excessive",
+   "word": "excessive",
+   "pos": "adjective",
+   "ipa": "/ɪkˈsesɪv/",
+   "level": "B2",
+   "meaning": "quá mức",
+   "definition": "more than necessary",
+   "collocations": [
+    "excessive noise",
+    "excessive use"
+   ],
+   "examples": [
+    {
+     "en": "*Excessive* use of phones can harm your sleep.",
+     "vi": "Dùng điện thoại quá mức có thể ảnh hưởng đến giấc ngủ."
+    }
+   ]
+  },
+  {
+   "id": "num_exceed",
+   "word": "exceed",
+   "pos": "verb",
+   "ipa": "/ɪkˈsiːd/",
+   "level": "B2",
+   "meaning": "vượt quá",
+   "definition": "to be greater than a number or limit",
+   "collocations": [
+    "exceed expectations",
+    "exceed the limit"
+   ],
+   "examples": [
+    {
+     "en": "Sales *exceeded* our expectations.",
+     "vi": "Doanh số vượt kỳ vọng của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "num_shortage",
+   "word": "shortage",
+   "pos": "noun",
+   "ipa": "/ˈʃɔːrtɪdʒ/",
+   "level": "B2",
+   "meaning": "sự thiếu hụt",
+   "definition": "a situation where there is not enough",
+   "collocations": [
+    "staff shortage",
+    "water shortage"
+   ],
+   "examples": [
+    {
+     "en": "There is a *shortage* of qualified nurses.",
+     "vi": "Đang thiếu y tá có chuyên môn."
+    }
+   ]
+  },
+  {
+   "id": "num_lack",
+   "word": "lack",
+   "pos": "noun",
+   "ipa": "/læk/",
+   "level": "B1",
+   "meaning": "sự thiếu",
+   "definition": "the state of not having enough",
+   "collocations": [
+    "lack of time",
+    "for lack of"
+   ],
+   "examples": [
+    {
+     "en": "The project failed because of a *lack* of funding.",
+     "vi": "Dự án thất bại vì thiếu kinh phí."
+    }
+   ]
+  },
+  {
+   "id": "num_limit",
+   "word": "limit",
+   "pos": "noun",
+   "ipa": "/ˈlɪmɪt/",
+   "level": "B1",
+   "meaning": "giới hạn",
+   "definition": "the greatest amount allowed",
+   "collocations": [
+    "speed limit",
+    "time limit",
+    "within limits"
+   ],
+   "examples": [
+    {
+     "en": "There is a *limit* of two bags per passenger.",
+     "vi": "Mỗi hành khách được mang tối đa hai túi."
+    }
+   ]
+  },
+  {
+   "id": "num_limited",
+   "word": "limited",
+   "pos": "adjective",
+   "ipa": "/ˈlɪmɪtɪd/",
+   "level": "B2",
+   "meaning": "có hạn",
+   "definition": "small in amount",
+   "collocations": [
+    "limited time",
+    "limited space",
+    "for a limited time"
+   ],
+   "examples": [
+    {
+     "en": "Seats are *limited*, so book early.",
+     "vi": "Số chỗ có hạn nên hãy đặt sớm."
+    }
+   ],
+   "note": "for a limited time only = chỉ trong thời gian có hạn."
+  },
+  {
+   "id": "num_limitation",
+   "word": "limitation",
+   "pos": "noun",
+   "ipa": "/ˌlɪmɪˈteɪʃn/",
+   "level": "B2",
+   "meaning": "hạn chế",
+   "definition": "a rule or fact that limits something",
+   "collocations": [
+    "time limitations",
+    "have limitations"
+   ],
+   "examples": [
+    {
+     "en": "The software has some *limitations*.",
+     "vi": "Phần mềm có một số hạn chế."
+    }
+   ]
+  },
+  {
+   "id": "num_extent",
+   "word": "extent",
+   "pos": "noun",
+   "ipa": "/ɪkˈstent/",
+   "level": "B2",
+   "meaning": "mức độ, phạm vi",
+   "definition": "how large or important something is",
+   "collocations": [
+    "to some extent",
+    "the extent of"
+   ],
+   "examples": [
+    {
+     "en": "I agree with you to some *extent*.",
+     "vi": "Tôi đồng ý với bạn ở một mức độ nào đó."
+    }
+   ]
+  },
+  {
+   "id": "num_extensive",
+   "word": "extensive",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstensɪv/",
+   "level": "B2",
+   "meaning": "rộng rãi, sâu rộng",
+   "definition": "large in size or amount",
+   "collocations": [
+    "extensive experience",
+    "extensive research"
+   ],
+   "examples": [
+    {
+     "en": "She has *extensive* experience in sales.",
+     "vi": "Cô ấy có kinh nghiệm sâu rộng về bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "num_widely",
+   "word": "widely",
+   "pos": "adverb",
+   "ipa": "/ˈwaɪdli/",
+   "level": "B2",
+   "meaning": "rộng rãi",
+   "definition": "by many people; in many places",
+   "collocations": [
+    "widely used",
+    "widely available"
+   ],
+   "examples": [
+    {
+     "en": "English is *widely* used in business.",
+     "vi": "Tiếng Anh được dùng rộng rãi trong kinh doanh."
+    }
+   ]
+  },
+  {
+   "id": "num_widespread",
+   "word": "widespread",
+   "pos": "adjective",
+   "ipa": "/ˈwaɪdspred/",
+   "level": "B2",
+   "meaning": "lan rộng, phổ biến",
+   "definition": "existing in many places",
+   "collocations": [
+    "widespread use",
+    "widespread damage"
+   ],
+   "examples": [
+    {
+     "en": "The storm caused *widespread* damage.",
+     "vi": "Cơn bão gây thiệt hại trên diện rộng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,60 @@
+#id: familiar1
+#prefix: fa1
+#order: 49
+#icon: 🔄
+#title: Familiar Words, New Meanings (1)
+#title_vi: Từ quen – nghĩa mới (1)
+#desc: Những từ bạn tưởng đã biết nhưng ở trình độ B1–B2 lại mang nghĩa khác: face a problem, head a team, point out…
+face | verb | /feɪs/ | đối mặt | to have to deal with a problem | face a problem; face challenges; be faced with | Many small businesses *face* rising costs. | Nhiều doanh nghiệp nhỏ đang đối mặt với chi phí tăng.
+head | verb | /hed/ | dẫn đầu; đi về hướng | to lead; to move towards | head a team; head for; be headed by | She *heads* the marketing department. | Cô ấy đứng đầu phòng marketing. | head office = trụ sở chính.
+hand | verb | /hænd/ | đưa, trao | to give with your hand | hand in; hand out; hand over | Please *hand* in your reports by Friday. | Vui lòng nộp báo cáo trước thứ Sáu.
+point | verb | /pɔɪnt/ | chỉ ra | to show with your finger; to show a fact | point out; point to | She *pointed* out a mistake in the report. | Cô ấy chỉ ra một lỗi trong báo cáo.
+pointed | adjective | /ˈpɔɪntɪd/ | nhọn; thẳng thừng | having a sharp end; direct and critical | a pointed question | He asked a few *pointed* questions about costs. | Anh ấy đặt vài câu hỏi thẳng thắn về chi phí.
+back | verb | /bæk/ | ủng hộ; lùi (xe) | to support; to move backwards | back a plan; back up | The board *backed* the new plan. | Hội đồng ủng hộ kế hoạch mới. | back up a file = sao lưu.
+backwards | adverb | /ˈbækwərdz/ | về phía sau | towards the back | step backwards; backwards and forwards | He took a step *backwards*. | Anh ấy lùi lại một bước.
+forward | adverb | /ˈfɔːrwərd/ | về phía trước | towards the front or the future | look forward to; move forward; forward an e-mail | I look *forward* to hearing from you. | Tôi mong nhận được hồi âm của bạn. | Động từ forward = chuyển tiếp (forward the e-mail).
+upwards | adverb | /ˈʌpwərdz/ | hướng lên | towards a higher place or level | move upwards; upwards of | Prices have moved *upwards* this year. | Giá đã đi lên trong năm nay.
+downwards | adverb | /ˈdaʊnwərdz/ | hướng xuống | towards a lower place or level | face downwards; revised downwards | The sales forecast was revised *downwards*. | Dự báo doanh số bị điều chỉnh giảm.
+ahead | adverb | /əˈhed/ | phía trước; trước | in front; in the future; earlier | go ahead; ahead of schedule; plan ahead | Go *ahead* and start without me. | Cứ bắt đầu trước đi, không cần chờ tôi.
+further | adverb | /ˈfɜːrðər/ | thêm nữa; xa hơn | more; to a greater degree | further information; until further notice | The office is closed until *further* notice. | Văn phòng đóng cửa cho đến khi có thông báo mới.
+far | adverb | /fɑːr/ | rất nhiều; xa | much; a long distance | far better; so far; as far as | So *far*, we have received 50 applications. | Đến nay, chúng tôi đã nhận 50 hồ sơ.
+elsewhere | adverb | /ˌelsˈwer/ | ở nơi khác | in another place | look elsewhere | If the price is too high, customers will shop *elsewhere*. | Nếu giá quá cao, khách hàng sẽ mua ở nơi khác.
+hold | verb | /hoʊld/ | tổ chức; chứa; giữ máy | to organize an event; to contain; to wait on the phone | hold a meeting; hold on; hold 100 people | The meeting will be *held* in Room 3. | Cuộc họp sẽ được tổ chức tại phòng 3. | "Please hold" = vui lòng giữ máy.
+house | verb | /haʊz/ | chứa, làm nơi đặt | to provide space for | be housed in | The museum is *housed* in an old bank. | Bảo tàng được đặt trong một tòa nhà ngân hàng cũ. | Động từ phát âm /haʊz/.
+store | verb | /stɔːr/ | lưu trữ | to keep for future use | store data; store in a cool place | *Store* in a cool, dry place. | Bảo quản nơi khô mát.
+stand | verb | /stænd/ | chịu đựng; ứng cử | to accept something unpleasant; to be a candidate | can't stand; stand for | I can't *stand* waiting in long queues. | Tôi không chịu nổi việc xếp hàng dài. | stand for = viết tắt của.
+step | noun | /step/ | bước, biện pháp | an action in a process | take steps; step by step; the next step | The next *step* is to sign the contract. | Bước tiếp theo là ký hợp đồng.
+move | noun | /muːv/ | bước đi, động thái | an action to achieve something | a smart move; make a move | Opening a store online was a smart *move*. | Mở cửa hàng trực tuyến là một bước đi khôn ngoan.
+moving | adjective | /ˈmuːvɪŋ/ | cảm động; đang di chuyển | causing strong emotion; changing place | a moving speech; moving company | It was a very *moving* speech. | Đó là một bài phát biểu rất cảm động.
+lead | noun | /liːd/ | vị trí dẫn đầu; đầu mối | the first position; information that may help | take the lead; sales leads | She took the *lead* on the project. | Cô ấy đảm nhận vai trò dẫn dắt dự án.
+leading | adjective | /ˈliːdɪŋ/ | hàng đầu | most important or successful | a leading company; leading role | We are a *leading* supplier of office furniture. | Chúng tôi là nhà cung cấp nội thất văn phòng hàng đầu.
+leave | noun | /liːv/ | kỳ nghỉ phép | time allowed away from work | annual leave; sick leave; on leave | She is on maternity *leave* until June. | Cô ấy nghỉ thai sản đến tháng Sáu.
+line | noun | /laɪn/ | dòng sản phẩm; hàng; đường dây | a type of product; a row; a phone connection | product line; stand in line; hold the line | The company launched a new *line* of skin care products. | Công ty ra mắt dòng sản phẩm chăm sóc da mới.
+live | adjective | /laɪv/ | trực tiếp | happening now, not recorded | live music; live broadcast | The restaurant has *live* music on Fridays. | Nhà hàng có nhạc sống vào thứ Sáu. | Phát âm /laɪv/ khi là tính từ.
+living | noun | /ˈlɪvɪŋ/ | sinh kế, cách kiếm sống | money to buy what you need | earn a living; cost of living | What do you do for a *living*? | Bạn làm nghề gì?
+low | adjective | /loʊ/ | thấp; sắp hết | small in amount; nearly used up | low prices; running low on | We're running *low* on paper. | Chúng ta sắp hết giấy.
+high | adjective | /haɪ/ | cao (mức độ) | large in amount or level | high quality; high demand | There is *high* demand for skilled workers. | Nhu cầu lao động lành nghề đang cao.
+loss | noun | /lɔːs/ | sự thua lỗ; mất mát | money lost by a business; losing something | make a loss; weight loss | The company made a *loss* last year. | Công ty bị lỗ năm ngoái.
+minor | adjective | /ˈmaɪnər/ | nhỏ, không quan trọng | small; not serious | minor changes; minor injury | We made a few *minor* changes to the design. | Chúng tôi đã thay đổi nhỏ trong thiết kế.
+extra | adjective | /ˈekstrə/ | thêm, phụ | more than usual | extra charge; extra time | There is an *extra* charge for late check-out. | Trả phòng muộn sẽ bị tính thêm phí.
+free | adjective | /friː/ | miễn phí; rảnh; không có | costing nothing; not busy; without | free of charge; sugar-free; feel free | Please feel *free* to ask questions. | Cứ thoải mái đặt câu hỏi nhé.
+empty | adjective | /ˈempti/ | trống | with nothing inside | empty seats; empty the bin | The office is almost *empty* on Fridays. | Văn phòng gần như trống vào thứ Sáu.
+fixed | adjective | /fɪkst/ | cố định | not changing | fixed price; fixed hours | The course has a *fixed* fee of $200. | Khóa học có học phí cố định 200 đô.
+due | adjective | /duː/ | đến hạn; do | expected to happen; owed; because of | due date; due to; be due on | The report is *due* on Friday. | Báo cáo đến hạn vào thứ Sáu. | due to + N = do, vì.
+date | verb | /deɪt/ | ghi ngày; có từ | to write a date on; to have existed since | dated May 5; date back to | Thank you for your letter *dated* May 5. | Cảm ơn thư ông/bà đề ngày 5/5.
+time | verb | /taɪm/ | chọn thời điểm; bấm giờ | to plan when something happens; to measure how long | well timed; time yourself | *Time* yourself when you practise Part 7. | Hãy bấm giờ khi luyện Part 7.
+note | verb | /noʊt/ | lưu ý | to notice; to mention | please note that; note down | Please *note* that the office will be closed on Monday. | Xin lưu ý văn phòng sẽ đóng cửa vào thứ Hai.
+object | verb | /əbˈdʒekt/ | phản đối | to say you disagree | object to | Several residents *objected* to the new building. | Một số cư dân phản đối tòa nhà mới. | Danh từ object /ˈɑːbdʒekt/ = đồ vật; mục tiêu.
+subject | adjective | /ˈsʌbdʒekt/ | (subject to) tùy thuộc vào | likely to be affected by | subject to change; subject to approval | Prices are *subject* to change without notice. | Giá có thể thay đổi mà không báo trước. | Cụm cực kỳ hay gặp trong TOEIC.
+term | noun | /tɜːrm/ | thuật ngữ; kỳ hạn | a word for something; a period of time | technical term; in the long term | In the long *term*, the system will save money. | Về lâu dài, hệ thống sẽ tiết kiệm tiền.
+terms | noun | /tɜːrmz/ | điều khoản | conditions of an agreement | terms and conditions; in terms of | Please read the *terms* and conditions carefully. | Vui lòng đọc kỹ các điều khoản và điều kiện. | in terms of = xét về mặt.
+suit | verb | /suːt/ | phù hợp với | to be convenient or right for | suit your needs; suit you | We offer plans to *suit* every budget. | Chúng tôi có các gói phù hợp mọi ngân sách.
+treat | verb | /triːt/ | đối xử; chiêu đãi | to behave towards; to pay for someone | treat someone fairly; treat yourself | Let me *treat* you to lunch. | Để tôi mời bạn bữa trưa.
+cover | verb | /ˈkʌvər/ | chi trả; bao gồm; đưa tin; làm thay | to pay for; to include; to report; to do someone's work | cover the cost; cover a topic; cover for | Can you *cover* for me on Friday? | Thứ Sáu bạn làm thay tôi được không?
+covered | adjective | /ˈkʌvərd/ | được bảo hiểm; có mái che | protected by insurance; having a roof | covered parking; covered by insurance | The damage is *covered* by insurance. | Thiệt hại được bảo hiểm chi trả.
+cut | noun | /kʌt/ | sự cắt giảm | a reduction | budget cuts; price cut; job cuts | The company announced *cuts* to its budget. | Công ty công bố cắt giảm ngân sách.
+count | verb | /kaʊnt/ | có giá trị, được tính; đếm | to be important or valid; to say numbers | every minute counts; count as | Every point *counts* in the TOEIC test. | Mỗi điểm đều quan trọng trong bài thi TOEIC.
+set | verb | /set/ | thiết lập, đặt ra | to fix a time, rule or goal | set a goal; set up; set a deadline | Let's *set* a date for the next meeting. | Hãy chọn ngày cho cuộc họp tới. | set up = thành lập; cài đặt.
+spot | verb | /spɑːt/ | phát hiện, nhận ra | to see or notice | spot a mistake; spot the difference | Can you *spot* the mistake in this sentence? | Bạn có tìm ra lỗi trong câu này không? | Danh từ spot = chỗ, địa điểm.
+strike | noun | /straɪk/ | cuộc đình công | a time when workers refuse to work | go on strike; train strike | Train services were cancelled due to a *strike*. | Các chuyến tàu bị hủy do đình công.
+pause | verb | /pɔːz/ | tạm dừng | to stop for a short time | pause the video; pause for a moment | *Pause* the audio and repeat the sentence. | Dừng âm thanh và nhắc lại câu.

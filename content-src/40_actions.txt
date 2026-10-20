@@ -1,0 +1,64 @@
+#id: actions
+#prefix: act
+#order: 40
+#icon: 🤸
+#title: Physical Actions
+#title_vi: Động tác & Hành động
+#desc: Kéo, đẩy, rót, cúi, treo, xếp…: nhóm động từ "sống còn" cho Part 1 mô tả tranh.
+pull | verb | /pʊl/ | kéo | to move something towards you | pull the door; pull a cart | A man is *pulling* a cart full of boxes. | Một người đàn ông đang kéo chiếc xe đầy hộp.
+push | verb | /pʊʃ/ | đẩy | to move something away from you | push a button; push a trolley | She is *pushing* a shopping cart. | Cô ấy đang đẩy xe mua hàng.
+drag | verb | /dræɡ/ | kéo lê; kéo thả | to pull something heavy along the ground; to move with a mouse | drag a suitcase; drag and drop | He is *dragging* a heavy suitcase. | Anh ấy đang kéo lê chiếc vali nặng.
+lift | verb | /lɪft/ | nâng, nhấc | to raise something | lift a box; lift heavy objects | Two workers are *lifting* a table. | Hai công nhân đang nâng một chiếc bàn.
+carry | verb | /ˈkæri/ | mang, xách | to hold and take something somewhere | carry a bag; carry out | The woman is *carrying* a tray of drinks. | Người phụ nữ đang bưng khay đồ uống. | carry out = thực hiện.
+hang | verb | /hæŋ/ | treo | to attach something at the top so it falls freely | hang a picture; be hanging on the wall | Some pictures are *hanging* on the wall. | Vài bức tranh đang được treo trên tường.
+lay | verb | /leɪ/ | đặt, để nằm | to put something down carefully | lay the table; lay out | Tools have been *laid* out on the table. | Dụng cụ được bày ra trên bàn. | lay – laid – laid (ngoại động từ); lie – lay – lain (nằm).
+lie | verb | /laɪ/ | nằm; nói dối | to be in a flat position; to say something untrue | lie down; lie on the grass | A man is *lying* on the grass. | Một người đàn ông đang nằm trên cỏ.
+lean | verb | /liːn/ | dựa, tựa | to rest against something | lean against; lean forward | A bicycle is *leaning* against the wall. | Một chiếc xe đạp đang dựa vào tường.
+place | verb | /pleɪs/ | đặt | to put something in a position | place an order; be placed on | Flowers have been *placed* on each table. | Hoa đã được đặt trên mỗi bàn. | place an order = đặt hàng.
+pick | verb | /pɪk/ | chọn; hái; nhặt | to choose; to take fruit from a plant | pick up; pick out | She is *picking* up a box from the floor. | Cô ấy đang nhặt một chiếc hộp trên sàn.
+pour | verb | /pɔːr/ | rót, đổ | to make liquid flow from a container | pour coffee; pour into | A waiter is *pouring* water into a glass. | Người phục vụ đang rót nước vào ly.
+stack | verb | /stæk/ | xếp chồng | to put things in a pile | stack chairs; be stacked | Chairs are *stacked* in the corner. | Ghế được xếp chồng ở góc phòng.
+arrange | verb | /əˈreɪndʒ/ | sắp xếp | to put things in order; to plan | arrange flowers; arrange a meeting | Books are *arranged* on the shelves. | Sách được sắp xếp trên kệ.
+reach | verb | /riːtʃ/ | với tới; đạt tới | to stretch your arm to touch; to arrive at | reach for; reach a goal | She is *reaching* for a file on the top shelf. | Cô ấy đang với lấy tập hồ sơ trên kệ trên cùng.
+grab | verb | /ɡræb/ | chộp lấy; tranh thủ | to take quickly | grab a coffee; grab a seat | Let's *grab* a coffee before the meeting. | Mình tranh thủ uống cà phê trước giờ họp nhé.
+catch | verb | /kætʃ/ | bắt; kịp | to take something moving; to get on a bus/train in time | catch a ball; catch a train | I need to *catch* the 6 o'clock train. | Tôi cần bắt kịp chuyến tàu 6 giờ.
+chase | verb | /tʃeɪs/ | đuổi theo | to run after someone | chase after | The dog is *chasing* a ball. | Con chó đang đuổi theo quả bóng.
+roll | verb | /roʊl/ | lăn; cuộn | to move by turning over; to make round | roll up; roll out | The new service will be *rolled* out next month. | Dịch vụ mới sẽ được triển khai vào tháng tới. | roll out = triển khai.
+slide | verb | /slaɪd/ | trượt | to move smoothly over a surface | slide open; slide down | The doors *slide* open automatically. | Cửa tự động trượt mở.
+float | verb | /floʊt/ | nổi | to stay on the surface of water | float on the water | Boats are *floating* in the harbour. | Thuyền đang nổi trong bến cảng.
+sink | verb | /sɪŋk/ | chìm | to go down below the surface of water | the ship sank | The boat *sank* in the storm. | Con thuyền bị chìm trong cơn bão. | Danh từ sink = bồn rửa.
+flow | verb | /floʊ/ | chảy | to move smoothly, like a river | flow into; traffic flows | Traffic is *flowing* smoothly this morning. | Sáng nay giao thông lưu thông thông suốt.
+melt | verb | /melt/ | tan chảy | to change from solid to liquid | melt in the sun | The ice cream *melted* in the heat. | Kem tan chảy vì nóng.
+freeze | verb | /friːz/ | đóng băng | to become ice; to stop moving | freeze to death; prices frozen | The company has *frozen* hiring until next year. | Công ty ngừng tuyển dụng đến năm sau.
+frozen | adjective | /ˈfroʊzn/ | đông lạnh | made into ice; kept very cold | frozen food; frozen pipes | Keep *frozen* food in the freezer. | Giữ thực phẩm đông lạnh trong ngăn đá.
+shake | verb | /ʃeɪk/ | lắc; bắt (tay) | to move quickly up and down; to take someone's hand | shake hands; shake well | The two men are *shaking* hands. | Hai người đàn ông đang bắt tay. | shake – shook – shaken.
+wave | verb | /weɪv/ | vẫy tay | to move your hand from side to side | wave goodbye; wave at | She *waved* at me from across the street. | Cô ấy vẫy tay với tôi từ bên kia đường. | Danh từ wave = con sóng.
+hug | verb | /hʌɡ/ | ôm | to put your arms around someone | hug each other | They *hugged* each other at the airport. | Họ ôm nhau ở sân bay.
+kiss | verb | /kɪs/ | hôn | to touch with the lips | kiss goodbye | She *kissed* her son goodbye. | Cô ấy hôn tạm biệt con trai.
+touch | verb | /tʌtʃ/ | chạm; liên lạc | to put your hand on something; to contact | touch the screen; keep in touch | Let's keep in *touch*. | Giữ liên lạc nhé.
+rub | verb | /rʌb/ | xoa, chà | to move your hand backwards and forwards on something | rub your eyes; rub in | He *rubbed* his eyes and yawned. | Anh ấy dụi mắt và ngáp.
+scratch | verb | /skrætʃ/ | gãi; làm xước | to rub with nails; to damage a surface | scratch your head; scratched screen | Be careful not to *scratch* the screen. | Cẩn thận kẻo làm xước màn hình.
+knock | verb | /nɑːk/ | gõ; va | to hit a door to get attention; to hit by accident | knock on the door; knock over | Please *knock* before entering. | Vui lòng gõ cửa trước khi vào.
+bite | verb | /baɪt/ | cắn | to cut with your teeth | bite into; be bitten by | I was *bitten* by mosquitoes all night. | Tôi bị muỗi cắn cả đêm.
+swallow | verb | /ˈswɑːloʊ/ | nuốt | to make food go down your throat | swallow a pill | Take the pill with water; don't chew it, just *swallow* it. | Uống viên thuốc với nước, đừng nhai mà nuốt luôn.
+chop | verb | /tʃɑːp/ | chặt, thái | to cut into pieces | chop vegetables; chop wood | He is *chopping* vegetables in the kitchen. | Anh ấy đang thái rau trong bếp.
+slice | verb | /slaɪs/ | cắt lát | to cut into thin pieces | slice bread; sliced tomatoes | She is *slicing* bread for sandwiches. | Cô ấy đang cắt bánh mì để làm sandwich.
+dig | verb | /dɪɡ/ | đào | to make a hole in the ground | dig a hole; dig up | Workers are *digging* a hole in the road. | Công nhân đang đào một cái hố trên đường.
+bury | verb | /ˈberi/ | chôn | to put something in the ground and cover it | be buried under | The cables are *buried* under the road. | Dây cáp được chôn dưới đường.
+sweep | verb | /swiːp/ | quét | to clean with a brush | sweep the floor | A worker is *sweeping* the floor. | Một công nhân đang quét sàn.
+wipe | verb | /waɪp/ | lau | to clean by rubbing with a cloth | wipe the table; wipe off | The waiter is *wiping* the table. | Người phục vụ đang lau bàn.
+tear | verb | /ter/ | xé | to pull something apart | tear up; torn paper | Please don't *tear* the forms. | Vui lòng không xé các mẫu đơn. | tear /ter/ = xé; tear /tɪr/ = nước mắt.
+split | verb | /splɪt/ | chia, tách | to divide into parts | split the bill; split into groups | Let's *split* the bill. | Chúng ta chia hóa đơn nhé.
+stick | verb | /stɪk/ | dán; mắc kẹt; bám | to attach with glue; to become fixed | stick to the plan; get stuck | Let's *stick* to the plan. | Hãy bám theo kế hoạch.
+sticky | adjective | /ˈstɪki/ | dính | covered with something that sticks | sticky note; sticky hands | She left a *sticky* note on my screen. | Cô ấy dán một tờ giấy nhớ lên màn hình của tôi.
+stare | verb | /ster/ | nhìn chằm chằm | to look at for a long time | stare at; stare out of the window | He *stared* at the screen for hours. | Anh ấy nhìn chằm chằm vào màn hình hàng giờ.
+whisper | verb | /ˈwɪspər/ | thì thầm | to speak very quietly | whisper to someone | She *whispered* something to her colleague. | Cô ấy thì thầm điều gì đó với đồng nghiệp.
+scream | verb | /skriːm/ | hét lên | to cry out loudly | scream for help | The children *screamed* with excitement. | Bọn trẻ hét lên vì phấn khích.
+cry | verb | /kraɪ/ | khóc; kêu to | to produce tears; to shout | cry for help; burst into tears | The baby started to *cry*. | Em bé bắt đầu khóc.
+wander | verb | /ˈwɑːndər/ | đi lang thang | to walk without a purpose | wander around; wander off | We *wandered* around the old town. | Chúng tôi đi dạo quanh phố cổ.
+mount | verb | /maʊnt/ | gắn; leo lên; tăng dần | to fix in position; to increase gradually | wall-mounted; mount a bike | A TV is *mounted* on the wall. | Một chiếc TV được gắn trên tường.
+pose | verb | /poʊz/ | tạo dáng; đặt ra | to sit or stand for a photo; to create a problem | pose for a photo; pose a risk | The team *posed* for a photo. | Cả đội tạo dáng chụp ảnh. | pose a threat/risk = gây ra mối đe dọa/rủi ro.
+shine | verb | /ʃaɪn/ | chiếu sáng; tỏa sáng | to give out light | the sun is shining | The sun is *shining* brightly today. | Hôm nay nắng chói chang.
+spread | verb | /spred/ | lan rộng; trải ra | to cover a larger area; to open out | spread quickly; spread out | News of the sale *spread* quickly. | Tin về đợt giảm giá lan nhanh.
+trap | verb | /træp/ | mắc kẹt; bẫy | to keep someone in a place they cannot leave | be trapped in | Two people were *trapped* in the lift. | Hai người bị kẹt trong thang máy.
+gaze | verb | /ɡeɪz/ | nhìn chăm chú | to look for a long time | gaze at; gaze out | She is *gazing* out of the window. | Cô ấy đang nhìn ra ngoài cửa sổ.

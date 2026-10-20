@@ -1,0 +1,1198 @@
+{
+ "id": "adverbs",
+ "order": 45,
+ "icon": "🎯",
+ "level": "B2",
+ "title": "Useful Adverbs & Adjectives",
+ "title_vi": "Trạng từ & tính từ thông dụng",
+ "description": "Mainly, largely, highly, directly…: trạng từ hay xuất hiện ở đáp án Part 5 (chọn từ loại -ly) và giúp diễn đạt tự nhiên.",
+ "words": [
+  {
+   "id": "adv_mainly",
+   "word": "mainly",
+   "pos": "adverb",
+   "ipa": "/ˈmeɪnli/",
+   "level": "B1",
+   "meaning": "chủ yếu",
+   "definition": "mostly",
+   "collocations": [
+    "mainly because",
+    "mainly used for"
+   ],
+   "examples": [
+    {
+     "en": "Our customers are *mainly* small businesses.",
+     "vi": "Khách hàng của chúng tôi chủ yếu là doanh nghiệp nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "adv_largely",
+   "word": "largely",
+   "pos": "adverb",
+   "ipa": "/ˈlɑːrdʒli/",
+   "level": "B2",
+   "meaning": "phần lớn",
+   "definition": "mostly",
+   "collocations": [
+    "largely due to"
+   ],
+   "examples": [
+    {
+     "en": "The success was *largely* due to good planning.",
+     "vi": "Thành công phần lớn nhờ lên kế hoạch tốt."
+    }
+   ]
+  },
+  {
+   "id": "adv_primarily",
+   "word": "primarily",
+   "pos": "adverb",
+   "ipa": "/praɪˈmerəli/",
+   "level": "B2",
+   "meaning": "chủ yếu",
+   "definition": "mainly",
+   "collocations": [
+    "primarily responsible"
+   ],
+   "examples": [
+    {
+     "en": "The course is *primarily* for new managers.",
+     "vi": "Khóa học chủ yếu dành cho quản lý mới."
+    }
+   ]
+  },
+  {
+   "id": "adv_generally",
+   "word": "generally",
+   "pos": "adverb",
+   "ipa": "/ˈdʒenrəli/",
+   "level": "B1",
+   "meaning": "nói chung; thường",
+   "definition": "usually; by most people",
+   "collocations": [
+    "generally speaking",
+    "generally accepted"
+   ],
+   "examples": [
+    {
+     "en": "We *generally* reply within one day.",
+     "vi": "Chúng tôi thường trả lời trong vòng một ngày."
+    }
+   ]
+  },
+  {
+   "id": "adv_greatly",
+   "word": "greatly",
+   "pos": "adverb",
+   "ipa": "/ˈɡreɪtli/",
+   "level": "B2",
+   "meaning": "rất nhiều",
+   "definition": "very much",
+   "collocations": [
+    "greatly appreciated",
+    "greatly improve"
+   ],
+   "examples": [
+    {
+     "en": "Your help is *greatly* appreciated.",
+     "vi": "Rất cảm kích sự giúp đỡ của bạn."
+    }
+   ]
+  },
+  {
+   "id": "adv_highly",
+   "word": "highly",
+   "pos": "adverb",
+   "ipa": "/ˈhaɪli/",
+   "level": "B1",
+   "meaning": "rất, hết sức",
+   "definition": "very; at a high level",
+   "collocations": [
+    "highly recommended",
+    "highly skilled"
+   ],
+   "examples": [
+    {
+     "en": "This restaurant is *highly* recommended.",
+     "vi": "Nhà hàng này rất được khuyên dùng."
+    }
+   ]
+  },
+  {
+   "id": "adv_heavily",
+   "word": "heavily",
+   "pos": "adverb",
+   "ipa": "/ˈhevɪli/",
+   "level": "B1",
+   "meaning": "nặng nề, nhiều",
+   "definition": "to a great degree",
+   "collocations": [
+    "rain heavily",
+    "heavily invested"
+   ],
+   "examples": [
+    {
+     "en": "It rained *heavily* all night.",
+     "vi": "Trời mưa to suốt đêm."
+    }
+   ]
+  },
+  {
+   "id": "adv_incredibly",
+   "word": "incredibly",
+   "pos": "adverb",
+   "ipa": "/ɪnˈkredəbli/",
+   "level": "B1",
+   "meaning": "cực kỳ",
+   "definition": "extremely",
+   "collocations": [
+    "incredibly busy",
+    "incredibly useful"
+   ],
+   "examples": [
+    {
+     "en": "This week has been *incredibly* busy.",
+     "vi": "Tuần này bận kinh khủng."
+    }
+   ]
+  },
+  {
+   "id": "adv_increasingly",
+   "word": "increasingly",
+   "pos": "adverb",
+   "ipa": "/ɪnˈkriːsɪŋli/",
+   "level": "B2",
+   "meaning": "ngày càng",
+   "definition": "more and more",
+   "collocations": [
+    "increasingly popular",
+    "increasingly difficult"
+   ],
+   "examples": [
+    {
+     "en": "Online meetings are *increasingly* common.",
+     "vi": "Họp trực tuyến ngày càng phổ biến."
+    }
+   ]
+  },
+  {
+   "id": "adv_particularly",
+   "word": "particularly",
+   "pos": "adverb",
+   "ipa": "/pərˈtɪkjələrli/",
+   "level": "B1",
+   "meaning": "đặc biệt",
+   "definition": "especially",
+   "collocations": [
+    "particularly important",
+    "not particularly"
+   ],
+   "examples": [
+    {
+     "en": "I *particularly* enjoyed the last presentation.",
+     "vi": "Tôi đặc biệt thích bài thuyết trình cuối."
+    }
+   ]
+  },
+  {
+   "id": "adv_partly",
+   "word": "partly",
+   "pos": "adverb",
+   "ipa": "/ˈpɑːrtli/",
+   "level": "B2",
+   "meaning": "một phần",
+   "definition": "not completely",
+   "collocations": [
+    "partly because",
+    "partly cloudy"
+   ],
+   "examples": [
+    {
+     "en": "The delay was *partly* caused by the weather.",
+     "vi": "Sự chậm trễ một phần do thời tiết."
+    }
+   ]
+  },
+  {
+   "id": "adv_personally",
+   "word": "personally",
+   "pos": "adverb",
+   "ipa": "/ˈpɜːrsənəli/",
+   "level": "B1",
+   "meaning": "cá nhân; trực tiếp",
+   "definition": "in my opinion; by yourself",
+   "collocations": [
+    "personally, I think",
+    "deliver personally"
+   ],
+   "examples": [
+    {
+     "en": "*Personally*, I prefer the first option.",
+     "vi": "Cá nhân tôi thích phương án đầu hơn."
+    }
+   ]
+  },
+  {
+   "id": "adv_seriously",
+   "word": "seriously",
+   "pos": "adverb",
+   "ipa": "/ˈsɪriəsli/",
+   "level": "B1",
+   "meaning": "nghiêm túc; nghiêm trọng",
+   "definition": "in a serious way; badly",
+   "collocations": [
+    "take seriously",
+    "seriously injured"
+   ],
+   "examples": [
+    {
+     "en": "We take customer complaints very *seriously*.",
+     "vi": "Chúng tôi rất nghiêm túc với các khiếu nại của khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "adv_specifically",
+   "word": "specifically",
+   "pos": "adverb",
+   "ipa": "/spəˈsɪfɪkli/",
+   "level": "B1",
+   "meaning": "cụ thể là; dành riêng",
+   "definition": "in a detailed way; for a particular purpose",
+   "collocations": [
+    "specifically designed for"
+   ],
+   "examples": [
+    {
+     "en": "The app was *specifically* designed for students.",
+     "vi": "Ứng dụng được thiết kế dành riêng cho sinh viên."
+    }
+   ]
+  },
+  {
+   "id": "adv_successfully",
+   "word": "successfully",
+   "pos": "adverb",
+   "ipa": "/səkˈsesfəli/",
+   "level": "B1",
+   "meaning": "thành công",
+   "definition": "in a successful way",
+   "collocations": [
+    "successfully completed"
+   ],
+   "examples": [
+    {
+     "en": "You have *successfully* registered for the course.",
+     "vi": "Bạn đã đăng ký khóa học thành công."
+    }
+   ]
+  },
+  {
+   "id": "adv_terribly",
+   "word": "terribly",
+   "pos": "adverb",
+   "ipa": "/ˈterəbli/",
+   "level": "B2",
+   "meaning": "rất; tệ hại",
+   "definition": "very; very badly",
+   "collocations": [
+    "terribly sorry",
+    "go terribly wrong"
+   ],
+   "examples": [
+    {
+     "en": "I'm *terribly* sorry for the mistake.",
+     "vi": "Tôi vô cùng xin lỗi vì sai sót."
+    }
+   ]
+  },
+  {
+   "id": "adv_commonly",
+   "word": "commonly",
+   "pos": "adverb",
+   "ipa": "/ˈkɑːmənli/",
+   "level": "B2",
+   "meaning": "thường, phổ biến",
+   "definition": "usually; by many people",
+   "collocations": [
+    "commonly used",
+    "commonly known as"
+   ],
+   "examples": [
+    {
+     "en": "This is one of the most *commonly* asked questions.",
+     "vi": "Đây là một trong những câu hỏi thường gặp nhất."
+    }
+   ]
+  },
+  {
+   "id": "adv_closely",
+   "word": "closely",
+   "pos": "adverb",
+   "ipa": "/ˈkloʊsli/",
+   "level": "B2",
+   "meaning": "chặt chẽ, sát sao",
+   "definition": "carefully; in a close way",
+   "collocations": [
+    "work closely with",
+    "closely related"
+   ],
+   "examples": [
+    {
+     "en": "We work *closely* with our suppliers.",
+     "vi": "Chúng tôi phối hợp chặt chẽ với nhà cung cấp."
+    }
+   ]
+  },
+  {
+   "id": "adv_directly",
+   "word": "directly",
+   "pos": "adverb",
+   "ipa": "/dəˈrektli/",
+   "level": "B1",
+   "meaning": "trực tiếp",
+   "definition": "without anyone or anything in between",
+   "collocations": [
+    "contact directly",
+    "directly opposite"
+   ],
+   "examples": [
+    {
+     "en": "Please contact the hotel *directly*.",
+     "vi": "Vui lòng liên hệ trực tiếp với khách sạn."
+    }
+   ]
+  },
+  {
+   "id": "adv_direct",
+   "word": "direct",
+   "pos": "adjective",
+   "ipa": "/dəˈrekt/",
+   "level": "B1",
+   "meaning": "trực tiếp; thẳng",
+   "definition": "going straight; without others in between",
+   "collocations": [
+    "direct flight",
+    "direct contact"
+   ],
+   "examples": [
+    {
+     "en": "Is there a *direct* flight to Tokyo?",
+     "vi": "Có chuyến bay thẳng đến Tokyo không?"
+    }
+   ]
+  },
+  {
+   "id": "adv_indirect",
+   "word": "indirect",
+   "pos": "adjective",
+   "ipa": "/ˌɪndəˈrekt/",
+   "level": "B1",
+   "meaning": "gián tiếp",
+   "definition": "not direct",
+   "collocations": [
+    "indirect costs",
+    "an indirect answer"
+   ],
+   "examples": [
+    {
+     "en": "*Indirect* answers are very common in TOEIC Part 2.",
+     "vi": "Câu trả lời gián tiếp rất phổ biến trong TOEIC Part 2."
+    }
+   ]
+  },
+  {
+   "id": "adv_firmly",
+   "word": "firmly",
+   "pos": "adverb",
+   "ipa": "/ˈfɜːrmli/",
+   "level": "B2",
+   "meaning": "chắc chắn, kiên quyết",
+   "definition": "in a strong and fixed way",
+   "collocations": [
+    "firmly believe",
+    "hold firmly"
+   ],
+   "examples": [
+    {
+     "en": "I *firmly* believe this is the right decision.",
+     "vi": "Tôi tin chắc đây là quyết định đúng."
+    }
+   ]
+  },
+  {
+   "id": "adv_fully",
+   "word": "fully",
+   "pos": "adverb",
+   "ipa": "/ˈfʊli/",
+   "level": "B2",
+   "meaning": "đầy đủ, hoàn toàn",
+   "definition": "completely",
+   "collocations": [
+    "fully booked",
+    "fully furnished"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is *fully* booked this weekend.",
+     "vi": "Khách sạn đã kín phòng cuối tuần này."
+    }
+   ]
+  },
+  {
+   "id": "adv_openly",
+   "word": "openly",
+   "pos": "adverb",
+   "ipa": "/ˈoʊpənli/",
+   "level": "B2",
+   "meaning": "công khai, cởi mở",
+   "definition": "honestly and without hiding anything",
+   "collocations": [
+    "speak openly"
+   ],
+   "examples": [
+    {
+     "en": "Staff can speak *openly* about their concerns.",
+     "vi": "Nhân viên có thể nói thẳng những lo ngại của mình."
+    }
+   ]
+  },
+  {
+   "id": "adv_naturally",
+   "word": "naturally",
+   "pos": "adverb",
+   "ipa": "/ˈnætʃrəli/",
+   "level": "B1",
+   "meaning": "một cách tự nhiên; dĩ nhiên",
+   "definition": "in a natural way; of course",
+   "collocations": [
+    "speak naturally",
+    "naturally, …"
+   ],
+   "examples": [
+    {
+     "en": "*Naturally*, we'll pay for your travel costs.",
+     "vi": "Dĩ nhiên chúng tôi sẽ trả chi phí đi lại cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "adv_strongly",
+   "word": "strongly",
+   "pos": "adverb",
+   "ipa": "/ˈstrɔːŋli/",
+   "level": "B1",
+   "meaning": "mạnh mẽ",
+   "definition": "very much; in a strong way",
+   "collocations": [
+    "strongly recommend",
+    "strongly disagree"
+   ],
+   "examples": [
+    {
+     "en": "We *strongly* recommend booking in advance.",
+     "vi": "Chúng tôi đặc biệt khuyên nên đặt trước."
+    }
+   ]
+  },
+  {
+   "id": "adv_possibly",
+   "word": "possibly",
+   "pos": "adverb",
+   "ipa": "/ˈpɑːsəbli/",
+   "level": "B1",
+   "meaning": "có lẽ; có thể",
+   "definition": "perhaps; used to be polite",
+   "collocations": [
+    "could you possibly"
+   ],
+   "examples": [
+    {
+     "en": "Could you *possibly* send it today?",
+     "vi": "Bạn có thể gửi trong hôm nay được không?"
+    }
+   ]
+  },
+  {
+   "id": "adv_potentially",
+   "word": "potentially",
+   "pos": "adverb",
+   "ipa": "/pəˈtenʃəli/",
+   "level": "B2",
+   "meaning": "có khả năng",
+   "definition": "possibly",
+   "collocations": [
+    "potentially dangerous",
+    "potentially useful"
+   ],
+   "examples": [
+    {
+     "en": "This could be a *potentially* huge market.",
+     "vi": "Đây có thể là một thị trường tiềm năng rất lớn."
+    }
+   ]
+  },
+  {
+   "id": "adv_relatively",
+   "word": "relatively",
+   "pos": "adverb",
+   "ipa": "/ˈrelətɪvli/",
+   "level": "B2",
+   "meaning": "tương đối",
+   "definition": "quite, compared with others",
+   "collocations": [
+    "relatively cheap",
+    "relatively easy"
+   ],
+   "examples": [
+    {
+     "en": "The software is *relatively* easy to use.",
+     "vi": "Phần mềm tương đối dễ dùng."
+    }
+   ]
+  },
+  {
+   "id": "adv_typically",
+   "word": "typically",
+   "pos": "adverb",
+   "ipa": "/ˈtɪpɪkli/",
+   "level": "B1",
+   "meaning": "thông thường",
+   "definition": "usually",
+   "collocations": [
+    "typically take",
+    "typically cost"
+   ],
+   "examples": [
+    {
+     "en": "Delivery *typically* takes three to five days.",
+     "vi": "Giao hàng thường mất từ ba đến năm ngày."
+    }
+   ]
+  },
+  {
+   "id": "adv_likewise",
+   "word": "likewise",
+   "pos": "adverb",
+   "ipa": "/ˈlaɪkwaɪz/",
+   "level": "B2",
+   "meaning": "tương tự; tôi cũng vậy",
+   "definition": "in the same way",
+   "collocations": [
+    "do likewise"
+   ],
+   "examples": [
+    {
+     "en": "\"Nice to meet you.\" \"*Likewise*.\"",
+     "vi": "\"Rất vui được gặp anh.\" \"Tôi cũng vậy.\""
+    }
+   ]
+  },
+  {
+   "id": "adv_entire",
+   "word": "entire",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtaɪər/",
+   "level": "B2",
+   "meaning": "toàn bộ",
+   "definition": "whole",
+   "collocations": [
+    "the entire team",
+    "the entire day"
+   ],
+   "examples": [
+    {
+     "en": "The *entire* team worked on the project.",
+     "vi": "Toàn bộ đội đã làm dự án."
+    }
+   ]
+  },
+  {
+   "id": "adv_entirely",
+   "word": "entirely",
+   "pos": "adverb",
+   "ipa": "/ɪnˈtaɪərli/",
+   "level": "B2",
+   "meaning": "hoàn toàn",
+   "definition": "completely",
+   "collocations": [
+    "entirely different",
+    "not entirely"
+   ],
+   "examples": [
+    {
+     "en": "I'm not *entirely* sure.",
+     "vi": "Tôi không hoàn toàn chắc chắn."
+    }
+   ]
+  },
+  {
+   "id": "adv_various",
+   "word": "various",
+   "pos": "adjective",
+   "ipa": "/ˈveriəs/",
+   "level": "B1",
+   "meaning": "khác nhau, nhiều",
+   "definition": "several different",
+   "collocations": [
+    "various reasons",
+    "in various ways"
+   ],
+   "examples": [
+    {
+     "en": "The shirt comes in *various* colours.",
+     "vi": "Áo có nhiều màu khác nhau."
+    }
+   ]
+  },
+  {
+   "id": "adv_random",
+   "word": "random",
+   "pos": "adjective",
+   "ipa": "/ˈrændəm/",
+   "level": "B2",
+   "meaning": "ngẫu nhiên",
+   "definition": "without a pattern",
+   "collocations": [
+    "random check",
+    "at random"
+   ],
+   "examples": [
+    {
+     "en": "Winners will be chosen at *random*.",
+     "vi": "Người thắng sẽ được chọn ngẫu nhiên."
+    }
+   ]
+  },
+  {
+   "id": "adv_unlikely",
+   "word": "unlikely",
+   "pos": "adjective",
+   "ipa": "/ʌnˈlaɪkli/",
+   "level": "B1",
+   "meaning": "khó có thể",
+   "definition": "not likely",
+   "collocations": [
+    "it's unlikely that",
+    "unlikely to"
+   ],
+   "examples": [
+    {
+     "en": "It's *unlikely* that prices will fall.",
+     "vi": "Khó có khả năng giá sẽ giảm."
+    }
+   ]
+  },
+  {
+   "id": "adv_unknown",
+   "word": "unknown",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈnoʊn/",
+   "level": "B2",
+   "meaning": "không rõ, vô danh",
+   "definition": "not known",
+   "collocations": [
+    "for unknown reasons",
+    "an unknown artist"
+   ],
+   "examples": [
+    {
+     "en": "The cause of the fire is still *unknown*.",
+     "vi": "Nguyên nhân vụ cháy vẫn chưa rõ."
+    }
+   ]
+  },
+  {
+   "id": "adv_universal",
+   "word": "universal",
+   "pos": "adjective",
+   "ipa": "/ˌjuːnɪˈvɜːrsl/",
+   "level": "B2",
+   "meaning": "phổ quát, chung",
+   "definition": "for everyone or everywhere",
+   "collocations": [
+    "universal design",
+    "universal charger"
+   ],
+   "examples": [
+    {
+     "en": "This adapter is *universal*; it works in any country.",
+     "vi": "Bộ chuyển đổi này dùng chung, dùng được ở mọi nước."
+    }
+   ]
+  },
+  {
+   "id": "adv_visible",
+   "word": "visible",
+   "pos": "adjective",
+   "ipa": "/ˈvɪzəbl/",
+   "level": "B2",
+   "meaning": "có thể nhìn thấy",
+   "definition": "able to be seen",
+   "collocations": [
+    "clearly visible",
+    "highly visible"
+   ],
+   "examples": [
+    {
+     "en": "The sign should be *visible* from the road.",
+     "vi": "Biển hiệu cần nhìn thấy được từ ngoài đường."
+    }
+   ]
+  },
+  {
+   "id": "adv_visual",
+   "word": "visual",
+   "pos": "adjective",
+   "ipa": "/ˈvɪʒuəl/",
+   "level": "B2",
+   "meaning": "thuộc thị giác",
+   "definition": "connected with seeing",
+   "collocations": [
+    "visual aids",
+    "visual design"
+   ],
+   "examples": [
+    {
+     "en": "Use *visual* aids like charts in your presentation.",
+     "vi": "Hãy dùng phương tiện trực quan như biểu đồ trong bài thuyết trình."
+    }
+   ]
+  },
+  {
+   "id": "adv_internal",
+   "word": "internal",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtɜːrnl/",
+   "level": "B2",
+   "meaning": "nội bộ; bên trong",
+   "definition": "inside an organization",
+   "collocations": [
+    "internal memo",
+    "internal training"
+   ],
+   "examples": [
+    {
+     "en": "This is an *internal* memo for staff only.",
+     "vi": "Đây là thông báo nội bộ chỉ dành cho nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "adv_external",
+   "word": "external",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstɜːrnl/",
+   "level": "B2",
+   "meaning": "bên ngoài",
+   "definition": "from outside",
+   "collocations": [
+    "external auditor",
+    "external factors"
+   ],
+   "examples": [
+    {
+     "en": "An *external* company will check our accounts.",
+     "vi": "Một công ty bên ngoài sẽ kiểm tra sổ sách của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "adv_domestic",
+   "word": "domestic",
+   "pos": "adjective",
+   "ipa": "/dəˈmestɪk/",
+   "level": "B2",
+   "meaning": "nội địa; trong nhà",
+   "definition": "inside one country; connected with the home",
+   "collocations": [
+    "domestic flights",
+    "domestic market"
+   ],
+   "examples": [
+    {
+     "en": "*Domestic* flights leave from Terminal 1.",
+     "vi": "Các chuyến bay nội địa khởi hành từ nhà ga 1."
+    }
+   ]
+  },
+  {
+   "id": "adv_nearby",
+   "word": "nearby",
+   "pos": "adjective",
+   "ipa": "/ˌnɪrˈbaɪ/",
+   "level": "B2",
+   "meaning": "gần đó",
+   "definition": "not far away",
+   "collocations": [
+    "a nearby hotel",
+    "nearby restaurants"
+   ],
+   "examples": [
+    {
+     "en": "We had lunch at a *nearby* café.",
+     "vi": "Chúng tôi ăn trưa ở quán cà phê gần đó."
+    }
+   ]
+  },
+  {
+   "id": "adv_distant",
+   "word": "distant",
+   "pos": "adjective",
+   "ipa": "/ˈdɪstənt/",
+   "level": "B2",
+   "meaning": "xa xôi",
+   "definition": "far away",
+   "collocations": [
+    "distant future",
+    "distant relative"
+   ],
+   "examples": [
+    {
+     "en": "In the not-too-*distant* future, cars will drive themselves.",
+     "vi": "Trong tương lai không xa, ô tô sẽ tự lái."
+    }
+   ]
+  },
+  {
+   "id": "adv_hidden",
+   "word": "hidden",
+   "pos": "adjective",
+   "ipa": "/ˈhɪdn/",
+   "level": "B2",
+   "meaning": "ẩn, giấu",
+   "definition": "not easy to see",
+   "collocations": [
+    "hidden costs",
+    "hidden charges"
+   ],
+   "examples": [
+    {
+     "en": "There are no *hidden* charges.",
+     "vi": "Không có phí ẩn nào."
+    }
+   ]
+  },
+  {
+   "id": "adv_private",
+   "word": "private",
+   "pos": "adjective",
+   "ipa": "/ˈpraɪvət/",
+   "level": "B1",
+   "meaning": "riêng tư; tư nhân",
+   "definition": "for one person or group; not owned by the government",
+   "collocations": [
+    "private room",
+    "private company"
+   ],
+   "examples": [
+    {
+     "en": "Can we talk somewhere *private*?",
+     "vi": "Chúng ta nói chuyện ở chỗ riêng được không?"
+    }
+   ]
+  },
+  {
+   "id": "adv_native",
+   "word": "native",
+   "pos": "adjective",
+   "ipa": "/ˈneɪtɪv/",
+   "level": "B1",
+   "meaning": "bản xứ",
+   "definition": "born in a particular place",
+   "collocations": [
+    "native language",
+    "native to"
+   ],
+   "examples": [
+    {
+     "en": "Her *native* language is Korean.",
+     "vi": "Tiếng mẹ đẻ của cô ấy là tiếng Hàn."
+    }
+   ]
+  },
+  {
+   "id": "adv_equivalent",
+   "word": "equivalent",
+   "pos": "adjective",
+   "ipa": "/ɪˈkwɪvələnt/",
+   "level": "B2",
+   "meaning": "tương đương",
+   "definition": "equal in value or meaning",
+   "collocations": [
+    "equivalent to",
+    "or equivalent"
+   ],
+   "examples": [
+    {
+     "en": "A bachelor's degree or *equivalent* is required.",
+     "vi": "Yêu cầu bằng cử nhân hoặc tương đương."
+    }
+   ]
+  },
+  {
+   "id": "adv_fortunate",
+   "word": "fortunate",
+   "pos": "adjective",
+   "ipa": "/ˈfɔːrtʃənət/",
+   "level": "B2",
+   "meaning": "may mắn",
+   "definition": "lucky",
+   "collocations": [
+    "fortunate enough to"
+   ],
+   "examples": [
+    {
+     "en": "We were *fortunate* to find a hotel at such short notice.",
+     "vi": "Chúng tôi may mắn tìm được khách sạn dù gấp như vậy."
+    }
+   ]
+  },
+  {
+   "id": "adv_unfortunate",
+   "word": "unfortunate",
+   "pos": "adjective",
+   "ipa": "/ʌnˈfɔːrtʃənət/",
+   "level": "B2",
+   "meaning": "đáng tiếc, không may",
+   "definition": "unlucky; regrettable",
+   "collocations": [
+    "an unfortunate mistake"
+   ],
+   "examples": [
+    {
+     "en": "It's *unfortunate* that the event was cancelled.",
+     "vi": "Thật đáng tiếc sự kiện bị hủy."
+    }
+   ]
+  },
+  {
+   "id": "adv_painful",
+   "word": "painful",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪnfl/",
+   "level": "B1",
+   "meaning": "đau đớn",
+   "definition": "causing pain",
+   "collocations": [
+    "a painful injury",
+    "painful decision"
+   ],
+   "examples": [
+    {
+     "en": "Closing the shop was a *painful* decision.",
+     "vi": "Đóng cửa hàng là một quyết định đau lòng."
+    }
+   ]
+  },
+  {
+   "id": "adv_uncomfortable",
+   "word": "uncomfortable",
+   "pos": "adjective",
+   "ipa": "/ʌnˈkʌmftəbl/",
+   "level": "B1",
+   "meaning": "không thoải mái",
+   "definition": "not comfortable",
+   "collocations": [
+    "uncomfortable chairs",
+    "feel uncomfortable"
+   ],
+   "examples": [
+    {
+     "en": "The chairs in the waiting room are *uncomfortable*.",
+     "vi": "Ghế trong phòng chờ không thoải mái."
+    }
+   ]
+  },
+  {
+   "id": "adv_unfair",
+   "word": "unfair",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈfer/",
+   "level": "B1",
+   "meaning": "không công bằng",
+   "definition": "not fair",
+   "collocations": [
+    "unfair treatment",
+    "it's unfair that"
+   ],
+   "examples": [
+    {
+     "en": "It's *unfair* to blame her for the delay.",
+     "vi": "Đổ lỗi cho cô ấy về sự chậm trễ là không công bằng."
+    }
+   ]
+  },
+  {
+   "id": "adv_desperate",
+   "word": "desperate",
+   "pos": "adjective",
+   "ipa": "/ˈdespərət/",
+   "level": "B2",
+   "meaning": "tuyệt vọng; rất cần",
+   "definition": "without hope; needing something very much",
+   "collocations": [
+    "desperate for",
+    "a desperate situation"
+   ],
+   "examples": [
+    {
+     "en": "We are *desperate* for more staff.",
+     "vi": "Chúng tôi đang rất cần thêm nhân sự."
+    }
+   ]
+  },
+  {
+   "id": "adv_desperately",
+   "word": "desperately",
+   "pos": "adverb",
+   "ipa": "/ˈdespərətli/",
+   "level": "B2",
+   "meaning": "hết sức, tuyệt vọng",
+   "definition": "very much",
+   "collocations": [
+    "desperately need"
+   ],
+   "examples": [
+    {
+     "en": "The hospital *desperately* needs more nurses.",
+     "vi": "Bệnh viện đang rất cần thêm y tá."
+    }
+   ]
+  },
+  {
+   "id": "adv_progressive",
+   "word": "progressive",
+   "pos": "adjective",
+   "ipa": "/prəˈɡresɪv/",
+   "level": "B2",
+   "meaning": "tiến bộ; tăng dần",
+   "definition": "supporting new ideas; happening gradually",
+   "collocations": [
+    "progressive company",
+    "progressive increase"
+   ],
+   "examples": [
+    {
+     "en": "The company has a *progressive* approach to working hours.",
+     "vi": "Công ty có cách tiếp cận tiến bộ về giờ làm."
+    }
+   ]
+  },
+  {
+   "id": "adv_conservative",
+   "word": "conservative",
+   "pos": "adjective",
+   "ipa": "/kənˈsɜːrvətɪv/",
+   "level": "B2",
+   "meaning": "bảo thủ; thận trọng",
+   "definition": "not liking change; low (estimate)",
+   "collocations": [
+    "a conservative estimate"
+   ],
+   "examples": [
+    {
+     "en": "At a *conservative* estimate, the project will cost $1 million.",
+     "vi": "Ước tính thận trọng, dự án sẽ tốn 1 triệu đô."
+    }
+   ]
+  },
+  {
+   "id": "adv_absolute",
+   "word": "absolute",
+   "pos": "adjective",
+   "ipa": "/ˈæbsəluːt/",
+   "level": "B2",
+   "meaning": "tuyệt đối",
+   "definition": "complete; total",
+   "collocations": [
+    "absolute minimum",
+    "absolute beginner"
+   ],
+   "examples": [
+    {
+     "en": "This course is for *absolute* beginners.",
+     "vi": "Khóa học dành cho người mới hoàn toàn."
+    }
+   ]
+  },
+  {
+   "id": "adv_absolutely",
+   "word": "absolutely",
+   "pos": "adverb",
+   "ipa": "/ˈæbsəluːtli/",
+   "level": "B1",
+   "meaning": "hoàn toàn; chắc chắn rồi",
+   "definition": "completely; yes, certainly",
+   "collocations": [
+    "absolutely right",
+    "absolutely not"
+   ],
+   "examples": [
+    {
+     "en": "\"Can I bring a friend?\" \"*Absolutely*!\"",
+     "vi": "\"Tôi dẫn bạn theo được không?\" \"Tất nhiên rồi!\""
+    }
+   ]
+  },
+  {
+   "id": "adv_abstract",
+   "word": "abstract",
+   "pos": "adjective",
+   "ipa": "/ˈæbstrækt/",
+   "level": "B2",
+   "meaning": "trừu tượng",
+   "definition": "based on ideas, not real things",
+   "collocations": [
+    "abstract art",
+    "abstract idea"
+   ],
+   "examples": [
+    {
+     "en": "The museum has a room of *abstract* art.",
+     "vi": "Bảo tàng có một phòng tranh trừu tượng."
+    }
+   ]
+  },
+  {
+   "id": "adv_actual",
+   "word": "actual",
+   "pos": "adjective",
+   "ipa": "/ˈæktʃuəl/",
+   "level": "B2",
+   "meaning": "thực tế",
+   "definition": "real",
+   "collocations": [
+    "actual cost",
+    "in actual fact"
+   ],
+   "examples": [
+    {
+     "en": "The *actual* cost was higher than the estimate.",
+     "vi": "Chi phí thực tế cao hơn dự toán."
+    }
+   ]
+  },
+  {
+   "id": "adv_incorrect",
+   "word": "incorrect",
+   "pos": "adjective",
+   "ipa": "/ˌɪnkəˈrekt/",
+   "level": "B2",
+   "meaning": "không chính xác",
+   "definition": "wrong",
+   "collocations": [
+    "incorrect information",
+    "incorrect address"
+   ],
+   "examples": [
+    {
+     "en": "The invoice shows an *incorrect* amount.",
+     "vi": "Hóa đơn ghi sai số tiền."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

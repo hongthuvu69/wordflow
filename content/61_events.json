@@ -1,0 +1,763 @@
+{
+ "id": "toeic_events",
+ "order": 61,
+ "icon": "🎤",
+ "level": "TOEIC",
+ "title": "TOEIC: Conferences & Events",
+ "title_vi": "TOEIC: Hội nghị & Sự kiện",
+ "description": "Đăng ký tham dự, diễn giả, gian hàng, lịch trình, buổi ra mắt: chủ đề quảng cáo sự kiện và email mời trong Part 7.",
+ "words": [
+  {
+   "id": "tev_conference",
+   "word": "conference",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnfərəns/",
+   "level": "A2",
+   "meaning": "hội nghị",
+   "definition": "a large formal meeting",
+   "collocations": [
+    "attend a conference",
+    "annual conference"
+   ],
+   "examples": [
+    {
+     "en": "The *conference* will be held in Singapore this year.",
+     "vi": "Hội nghị năm nay sẽ tổ chức tại Singapore."
+    }
+   ]
+  },
+  {
+   "id": "tev_attendee",
+   "word": "attendee",
+   "pos": "noun",
+   "ipa": "/əˌtenˈdiː/",
+   "level": "TOEIC",
+   "meaning": "người tham dự",
+   "definition": "a person who attends an event",
+   "collocations": [
+    "conference attendees"
+   ],
+   "examples": [
+    {
+     "en": "All *attendees* will receive a name badge.",
+     "vi": "Mọi người tham dự sẽ nhận thẻ tên."
+    }
+   ]
+  },
+  {
+   "id": "tev_keynote_speaker",
+   "word": "keynote speaker",
+   "pos": "noun",
+   "ipa": "/ˈkiːnoʊt ˌspiːkər/",
+   "level": "TOEIC",
+   "meaning": "diễn giả chính",
+   "definition": "the main speaker at a conference",
+   "collocations": [
+    "the keynote speaker"
+   ],
+   "examples": [
+    {
+     "en": "This year's *keynote speaker* is a famous economist.",
+     "vi": "Diễn giả chính năm nay là một nhà kinh tế nổi tiếng."
+    }
+   ]
+  },
+  {
+   "id": "tev_keynote",
+   "word": "keynote",
+   "pos": "adjective",
+   "ipa": "/ˈkiːnoʊt/",
+   "level": "TOEIC",
+   "meaning": "chủ đạo, chính",
+   "definition": "most important",
+   "collocations": [
+    "keynote address",
+    "keynote speech"
+   ],
+   "examples": [
+    {
+     "en": "The CEO will give the *keynote* address.",
+     "vi": "Giám đốc sẽ có bài phát biểu chính."
+    }
+   ]
+  },
+  {
+   "id": "tev_speaker",
+   "word": "speaker",
+   "pos": "noun",
+   "ipa": "/ˈspiːkər/",
+   "level": "A2",
+   "meaning": "diễn giả; loa",
+   "definition": "a person who gives a talk; a device for sound",
+   "collocations": [
+    "guest speaker",
+    "Bluetooth speaker"
+   ],
+   "examples": [
+    {
+     "en": "Our guest *speaker* is an expert in marketing.",
+     "vi": "Diễn giả khách mời của chúng tôi là chuyên gia marketing."
+    }
+   ]
+  },
+  {
+   "id": "tev_presenter",
+   "word": "presenter",
+   "pos": "noun",
+   "ipa": "/prɪˈzentər/",
+   "level": "TOEIC",
+   "meaning": "người trình bày",
+   "definition": "a person who gives a presentation",
+   "collocations": [
+    "the next presenter"
+   ],
+   "examples": [
+    {
+     "en": "Each *presenter* has 20 minutes.",
+     "vi": "Mỗi người trình bày có 20 phút."
+    }
+   ]
+  },
+  {
+   "id": "tev_moderator",
+   "word": "moderator",
+   "pos": "noun",
+   "ipa": "/ˈmɑːdəreɪtər/",
+   "level": "TOEIC",
+   "meaning": "người điều phối thảo luận",
+   "definition": "a person who leads a discussion",
+   "collocations": [
+    "panel moderator"
+   ],
+   "examples": [
+    {
+     "en": "The *moderator* will take questions from the audience.",
+     "vi": "Người điều phối sẽ nhận câu hỏi từ khán giả."
+    }
+   ]
+  },
+  {
+   "id": "tev_panel_discussion",
+   "word": "panel discussion",
+   "pos": "noun",
+   "ipa": "/ˈpænl dɪˌskʌʃn/",
+   "level": "TOEIC",
+   "meaning": "buổi tọa đàm",
+   "definition": "a discussion by a group of experts",
+   "collocations": [
+    "join a panel discussion"
+   ],
+   "examples": [
+    {
+     "en": "The *panel discussion* starts at 2 p.m.",
+     "vi": "Buổi tọa đàm bắt đầu lúc 2 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tev_breakout_session",
+   "word": "breakout session",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkaʊt ˌseʃn/",
+   "level": "TOEIC",
+   "meaning": "phiên thảo luận nhóm nhỏ",
+   "definition": "a smaller meeting during a conference",
+   "collocations": [
+    "attend a breakout session"
+   ],
+   "examples": [
+    {
+     "en": "After lunch, there will be three *breakout sessions*.",
+     "vi": "Sau bữa trưa sẽ có ba phiên thảo luận nhóm."
+    }
+   ]
+  },
+  {
+   "id": "tev_booth",
+   "word": "booth",
+   "pos": "noun",
+   "ipa": "/buːθ/",
+   "level": "TOEIC",
+   "meaning": "gian hàng; buồng",
+   "definition": "a small area at a trade show; a small enclosed space",
+   "collocations": [
+    "exhibition booth",
+    "ticket booth"
+   ],
+   "examples": [
+    {
+     "en": "Visit our *booth* at the trade fair.",
+     "vi": "Hãy ghé gian hàng của chúng tôi tại hội chợ."
+    }
+   ]
+  },
+  {
+   "id": "tev_exhibitor",
+   "word": "exhibitor",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzɪbɪtər/",
+   "level": "TOEIC",
+   "meaning": "đơn vị trưng bày",
+   "definition": "a company that shows products at an exhibition",
+   "collocations": [
+    "exhibitor list"
+   ],
+   "examples": [
+    {
+     "en": "Over 300 *exhibitors* will attend the fair.",
+     "vi": "Hơn 300 đơn vị sẽ trưng bày tại hội chợ."
+    }
+   ]
+  },
+  {
+   "id": "tev_trade_show",
+   "word": "trade show",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ʃoʊ/",
+   "level": "TOEIC",
+   "meaning": "triển lãm thương mại",
+   "definition": "an event where companies show products",
+   "collocations": [
+    "attend a trade show"
+   ],
+   "examples": [
+    {
+     "en": "We met many new clients at the *trade show*.",
+     "vi": "Chúng tôi gặp nhiều khách hàng mới tại triển lãm thương mại."
+    }
+   ]
+  },
+  {
+   "id": "tev_trade_fair",
+   "word": "trade fair",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd fer/",
+   "level": "TOEIC",
+   "meaning": "hội chợ thương mại",
+   "definition": "a large exhibition of products",
+   "collocations": [
+    "international trade fair"
+   ],
+   "examples": [
+    {
+     "en": "The *trade fair* runs from May 3 to 6.",
+     "vi": "Hội chợ thương mại diễn ra từ 3 đến 6 tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "tev_expo",
+   "word": "expo",
+   "pos": "noun",
+   "ipa": "/ˈekspoʊ/",
+   "level": "TOEIC",
+   "meaning": "hội chợ triển lãm",
+   "definition": "a large public exhibition",
+   "collocations": [
+    "technology expo"
+   ],
+   "examples": [
+    {
+     "en": "The tech *expo* attracts thousands of visitors.",
+     "vi": "Hội chợ công nghệ thu hút hàng nghìn khách."
+    }
+   ]
+  },
+  {
+   "id": "tev_rsvp",
+   "word": "RSVP",
+   "pos": "verb",
+   "ipa": "/ˌɑːr es viː ˈpiː/",
+   "level": "TOEIC",
+   "meaning": "phản hồi lời mời",
+   "definition": "to reply to an invitation",
+   "collocations": [
+    "please RSVP by Friday"
+   ],
+   "examples": [
+    {
+     "en": "Please *RSVP* by June 1.",
+     "vi": "Vui lòng phản hồi lời mời trước 1/6."
+    }
+   ]
+  },
+  {
+   "id": "tev_invitation",
+   "word": "invitation",
+   "pos": "noun",
+   "ipa": "/ˌɪnvɪˈteɪʃn/",
+   "level": "A2",
+   "meaning": "lời mời; thiệp mời",
+   "definition": "a request to come to an event",
+   "collocations": [
+    "send invitations",
+    "accept an invitation"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for the *invitation*.",
+     "vi": "Cảm ơn lời mời của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tev_invite",
+   "word": "invite",
+   "pos": "verb",
+   "ipa": "/ɪnˈvaɪt/",
+   "level": "A2",
+   "meaning": "mời",
+   "definition": "to ask someone to come",
+   "collocations": [
+    "invite someone to",
+    "by invitation only"
+   ],
+   "examples": [
+    {
+     "en": "You are *invited* to our annual dinner.",
+     "vi": "Bạn được mời dự tiệc thường niên của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tev_guest_list",
+   "word": "guest list",
+   "pos": "noun",
+   "ipa": "/ˈɡest lɪst/",
+   "level": "TOEIC",
+   "meaning": "danh sách khách mời",
+   "definition": "a list of invited people",
+   "collocations": [
+    "on the guest list"
+   ],
+   "examples": [
+    {
+     "en": "Is my name on the *guest list*?",
+     "vi": "Tên tôi có trong danh sách khách mời không?"
+    }
+   ]
+  },
+  {
+   "id": "tev_schedule_of_events",
+   "word": "schedule of events",
+   "pos": "noun",
+   "ipa": "/ˌskedʒuːl əv ɪˈvents/",
+   "level": "TOEIC",
+   "meaning": "lịch trình sự kiện",
+   "definition": "a list of activities and times",
+   "collocations": [
+    "see the schedule of events"
+   ],
+   "examples": [
+    {
+     "en": "The *schedule of events* is on our website.",
+     "vi": "Lịch trình sự kiện có trên website của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tev_registration_desk",
+   "word": "registration desk",
+   "pos": "noun",
+   "ipa": "/ˌredʒɪˈstreɪʃn desk/",
+   "level": "TOEIC",
+   "meaning": "quầy đăng ký",
+   "definition": "a table where attendees sign in",
+   "collocations": [
+    "at the registration desk"
+   ],
+   "examples": [
+    {
+     "en": "Pick up your badge at the *registration desk*.",
+     "vi": "Nhận thẻ tại quầy đăng ký."
+    }
+   ]
+  },
+  {
+   "id": "tev_early_bird",
+   "word": "early-bird",
+   "pos": "adjective",
+   "ipa": "/ˈɜːrli bɜːrd/",
+   "level": "TOEIC",
+   "meaning": "ưu đãi đăng ký sớm",
+   "definition": "for people who book early",
+   "collocations": [
+    "early-bird discount",
+    "early-bird rate"
+   ],
+   "examples": [
+    {
+     "en": "Register by May 1 for the *early-bird* rate.",
+     "vi": "Đăng ký trước 1/5 để được giá ưu đãi sớm."
+    }
+   ]
+  },
+  {
+   "id": "tev_admission",
+   "word": "admission",
+   "pos": "noun",
+   "ipa": "/ədˈmɪʃn/",
+   "level": "C1",
+   "meaning": "sự vào cửa; phí vào cửa",
+   "definition": "permission to enter; the cost of entering",
+   "collocations": [
+    "free admission",
+    "admission fee"
+   ],
+   "examples": [
+    {
+     "en": "*Admission* is free for members.",
+     "vi": "Hội viên được vào cửa miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tev_ticket_holder",
+   "word": "ticket holder",
+   "pos": "noun",
+   "ipa": "/ˈtɪkɪt ˌhoʊldər/",
+   "level": "TOEIC",
+   "meaning": "người có vé",
+   "definition": "a person who has a ticket",
+   "collocations": [
+    "ticket holders only"
+   ],
+   "examples": [
+    {
+     "en": "Entry is for *ticket holders* only.",
+     "vi": "Chỉ người có vé mới được vào."
+    }
+   ]
+  },
+  {
+   "id": "tev_venue_capacity",
+   "word": "venue capacity",
+   "pos": "noun",
+   "ipa": "/ˈvenjuː kəˈpæsəti/",
+   "level": "TOEIC",
+   "meaning": "sức chứa của địa điểm",
+   "definition": "how many people a place can hold",
+   "collocations": [
+    "check the venue capacity"
+   ],
+   "examples": [
+    {
+     "en": "The *venue capacity* is 800 people.",
+     "vi": "Sức chứa của địa điểm là 800 người."
+    }
+   ]
+  },
+  {
+   "id": "tev_organize",
+   "word": "organize",
+   "pos": "verb",
+   "ipa": "/ˈɔːrɡənaɪz/",
+   "level": "A2",
+   "meaning": "tổ chức",
+   "definition": "to plan and arrange",
+   "collocations": [
+    "organize an event"
+   ],
+   "examples": [
+    {
+     "en": "Who is *organizing* the year-end party?",
+     "vi": "Ai tổ chức tiệc cuối năm?"
+    }
+   ]
+  },
+  {
+   "id": "tev_launch_event",
+   "word": "launch event",
+   "pos": "noun",
+   "ipa": "/ˈlɔːntʃ ɪˌvent/",
+   "level": "TOEIC",
+   "meaning": "sự kiện ra mắt",
+   "definition": "an event to introduce a new product",
+   "collocations": [
+    "product launch event"
+   ],
+   "examples": [
+    {
+     "en": "Journalists were invited to the *launch event*.",
+     "vi": "Các nhà báo được mời dự sự kiện ra mắt."
+    }
+   ]
+  },
+  {
+   "id": "tev_gala",
+   "word": "gala",
+   "pos": "noun",
+   "ipa": "/ˈɡeɪlə/",
+   "level": "TOEIC",
+   "meaning": "buổi dạ tiệc",
+   "definition": "a special public celebration",
+   "collocations": [
+    "charity gala",
+    "gala dinner"
+   ],
+   "examples": [
+    {
+     "en": "The charity *gala* raised $1 million.",
+     "vi": "Dạ tiệc từ thiện quyên góp được 1 triệu đô."
+    }
+   ]
+  },
+  {
+   "id": "tev_networking",
+   "word": "networking",
+   "pos": "noun",
+   "ipa": "/ˈnetwɜːrkɪŋ/",
+   "level": "TOEIC",
+   "meaning": "giao lưu, kết nối công việc",
+   "definition": "meeting people to make business contacts",
+   "collocations": [
+    "networking event",
+    "networking opportunity"
+   ],
+   "examples": [
+    {
+     "en": "The event is a great *networking* opportunity.",
+     "vi": "Sự kiện là cơ hội kết nối tuyệt vời."
+    }
+   ]
+  },
+  {
+   "id": "tev_name_tag",
+   "word": "name tag",
+   "pos": "noun",
+   "ipa": "/ˈneɪm tæɡ/",
+   "level": "TOEIC",
+   "meaning": "bảng tên",
+   "definition": "a label with your name",
+   "collocations": [
+    "wear a name tag"
+   ],
+   "examples": [
+    {
+     "en": "Please wear your *name tag* during the conference.",
+     "vi": "Vui lòng đeo bảng tên suốt hội nghị."
+    }
+   ]
+  },
+  {
+   "id": "tev_podium",
+   "word": "podium",
+   "pos": "noun",
+   "ipa": "/ˈpoʊdiəm/",
+   "level": "TOEIC",
+   "meaning": "bục phát biểu",
+   "definition": "a raised platform for a speaker",
+   "collocations": [
+    "at the podium",
+    "step up to the podium"
+   ],
+   "examples": [
+    {
+     "en": "The speaker is standing at the *podium*.",
+     "vi": "Diễn giả đang đứng ở bục phát biểu."
+    }
+   ]
+  },
+  {
+   "id": "tev_microphone",
+   "word": "microphone",
+   "pos": "noun",
+   "ipa": "/ˈmaɪkrəfoʊn/",
+   "level": "TOEIC",
+   "meaning": "micro",
+   "definition": "a device for making your voice louder",
+   "collocations": [
+    "speak into the microphone"
+   ],
+   "examples": [
+    {
+     "en": "Please speak into the *microphone*.",
+     "vi": "Vui lòng nói vào micro."
+    }
+   ]
+  },
+  {
+   "id": "tev_audio_equipment",
+   "word": "audio equipment",
+   "pos": "noun",
+   "ipa": "/ˈɔːdioʊ ɪˌkwɪpmənt/",
+   "level": "TOEIC",
+   "meaning": "thiết bị âm thanh",
+   "definition": "speakers, microphones etc.",
+   "collocations": [
+    "set up the audio equipment"
+   ],
+   "examples": [
+    {
+     "en": "The technician is testing the *audio equipment*.",
+     "vi": "Kỹ thuật viên đang kiểm tra thiết bị âm thanh."
+    }
+   ]
+  },
+  {
+   "id": "tev_q_a_session",
+   "word": "Q&A session",
+   "pos": "noun",
+   "ipa": "/ˌkjuː ən ˈeɪ ˌseʃn/",
+   "level": "TOEIC",
+   "meaning": "phần hỏi đáp",
+   "definition": "a time for questions and answers",
+   "collocations": [
+    "there will be a Q&A session"
+   ],
+   "examples": [
+    {
+     "en": "There will be a *Q&A session* after the talk.",
+     "vi": "Sẽ có phần hỏi đáp sau bài nói."
+    }
+   ]
+  },
+  {
+   "id": "tev_proceedings",
+   "word": "proceedings",
+   "pos": "noun",
+   "ipa": "/prəˈsiːdɪŋz/",
+   "level": "TOEIC",
+   "meaning": "kỷ yếu; diễn biến",
+   "definition": "a written record of a conference; events",
+   "collocations": [
+    "conference proceedings"
+   ],
+   "examples": [
+    {
+     "en": "The *proceedings* will be published online.",
+     "vi": "Kỷ yếu hội nghị sẽ được đăng trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "tev_awards_ceremony",
+   "word": "awards ceremony",
+   "pos": "noun",
+   "ipa": "/əˈwɔːrdz ˌserəmoʊni/",
+   "level": "TOEIC",
+   "meaning": "lễ trao giải",
+   "definition": "an event where prizes are given",
+   "collocations": [
+    "attend the awards ceremony"
+   ],
+   "examples": [
+    {
+     "en": "The *awards ceremony* starts at 8 p.m.",
+     "vi": "Lễ trao giải bắt đầu lúc 8 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "tev_fundraiser",
+   "word": "fundraiser",
+   "pos": "noun",
+   "ipa": "/ˈfʌndreɪzər/",
+   "level": "TOEIC",
+   "meaning": "sự kiện gây quỹ",
+   "definition": "an event to collect money for a cause",
+   "collocations": [
+    "hold a fundraiser"
+   ],
+   "examples": [
+    {
+     "en": "The school is holding a *fundraiser* for new computers.",
+     "vi": "Trường tổ chức sự kiện gây quỹ mua máy tính mới."
+    }
+   ]
+  },
+  {
+   "id": "tev_last_minute",
+   "word": "last-minute",
+   "pos": "adjective",
+   "ipa": "/ˌlæst ˈmɪnɪt/",
+   "level": "TOEIC",
+   "meaning": "vào phút chót",
+   "definition": "happening at the latest possible time",
+   "collocations": [
+    "last-minute change",
+    "last-minute booking"
+   ],
+   "examples": [
+    {
+     "en": "There has been a *last-minute* change to the program.",
+     "vi": "Chương trình có thay đổi vào phút chót."
+    }
+   ]
+  },
+  {
+   "id": "tev_call_off",
+   "word": "call off",
+   "pos": "verb",
+   "ipa": "/ˌkɔːl ˈɔːf/",
+   "level": "TOEIC",
+   "meaning": "hủy bỏ",
+   "definition": "to cancel",
+   "collocations": [
+    "call off a meeting"
+   ],
+   "examples": [
+    {
+     "en": "The picnic was *called off* because of the storm.",
+     "vi": "Buổi dã ngoại bị hủy vì bão."
+    }
+   ]
+  },
+  {
+   "id": "tev_turnout",
+   "word": "turnout",
+   "pos": "noun",
+   "ipa": "/ˈtɜːrnaʊt/",
+   "level": "C1",
+   "meaning": "số người tham dự",
+   "definition": "the number of people who attend an event",
+   "collocations": [
+    "a good turnout",
+    "high turnout"
+   ],
+   "examples": [
+    {
+     "en": "There was a great *turnout* for the seminar.",
+     "vi": "Hội thảo có rất đông người tham dự."
+    }
+   ]
+  },
+  {
+   "id": "tev_sold_out",
+   "word": "sold-out",
+   "pos": "adjective",
+   "ipa": "/ˌsoʊld ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "cháy vé",
+   "definition": "with all tickets sold",
+   "collocations": [
+    "a sold-out show"
+   ],
+   "examples": [
+    {
+     "en": "The band played to a *sold-out* crowd.",
+     "vi": "Ban nhạc biểu diễn trước khán phòng cháy vé."
+    }
+   ]
+  },
+  {
+   "id": "tev_press_release",
+   "word": "press release",
+   "pos": "noun",
+   "ipa": "/ˈpres rɪˌliːs/",
+   "level": "TOEIC",
+   "meaning": "thông cáo báo chí",
+   "definition": "an official statement given to journalists",
+   "collocations": [
+    "issue a press release"
+   ],
+   "examples": [
+    {
+     "en": "The company issued a *press release* about the merger.",
+     "vi": "Công ty phát thông cáo báo chí về vụ sáp nhập."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

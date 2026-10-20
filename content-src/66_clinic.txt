@@ -1,0 +1,46 @@
+#id: toeic_clinic
+#prefix: tcl
+#order: 66
+#icon: 🩺
+#title: TOEIC: Clinics & Appointments
+#title_vi: TOEIC: Phòng khám & Lịch hẹn
+#desc: Đặt – dời lịch khám, bảo hiểm y tế, đơn thuốc, khám sức khỏe định kỳ: tình huống gọi điện điển hình trong Part 3.
+medical checkup | noun | /ˌmedɪkl ˈtʃekʌp/ | khám sức khỏe tổng quát | a general examination by a doctor | annual medical checkup | All staff must have an annual *medical checkup*. | Toàn bộ nhân viên phải khám sức khỏe hằng năm.
+physician | noun | /fɪˈzɪʃn/ | bác sĩ (nội khoa) | a medical doctor | family physician; consult a physician | Consult your *physician* before starting the program. | Hỏi ý kiến bác sĩ trước khi bắt đầu chương trình.
+dentist | noun | /ˈdentɪst/ | nha sĩ | a doctor who treats teeth | see the dentist; dentist appointment | I have a *dentist* appointment at 3 p.m. | Tôi có hẹn nha sĩ lúc 3 giờ chiều.
+dental | adjective | /ˈdentl/ | thuộc răng | connected with teeth | dental clinic; dental care | The insurance covers *dental* care. | Bảo hiểm chi trả chăm sóc răng miệng.
+pharmacist | noun | /ˈfɑːrməsɪst/ | dược sĩ | a person who prepares and sells medicine | ask the pharmacist | The *pharmacist* explained how to take the medicine. | Dược sĩ giải thích cách dùng thuốc.
+prescription refill | noun | /prɪˈskrɪpʃn ˌriːfɪl/ | lấy thêm thuốc theo đơn | getting more of a prescribed medicine | request a prescription refill | You can request a *prescription refill* online. | Bạn có thể yêu cầu cấp thêm thuốc theo đơn trên mạng.
+patient | noun | /ˈpeɪʃnt/ | bệnh nhân | a person receiving medical care | new patients; patient records | New *patients* should arrive 15 minutes early. | Bệnh nhân mới nên đến sớm 15 phút.
+medical records | noun | /ˌmedɪkl ˈrekərdz/ | hồ sơ bệnh án | documents about a person's health | update medical records | Please bring your *medical records* to the appointment. | Vui lòng mang hồ sơ bệnh án khi đến khám.
+insurance card | noun | /ɪnˈʃʊrəns kɑːrd/ | thẻ bảo hiểm | a card showing you have insurance | show your insurance card | Please show your *insurance card* at the front desk. | Vui lòng xuất trình thẻ bảo hiểm tại quầy lễ tân.
+waiting room | noun | /ˈweɪtɪŋ ruːm/ | phòng chờ | a room where people wait | in the waiting room | Please take a seat in the *waiting room*. | Vui lòng ngồi chờ ở phòng chờ.
+reschedule an appointment | verb | /ˌriːˈskedʒuːl ən əˈpɔɪntmənt/ | dời lịch hẹn | to change the time of an appointment | call to reschedule an appointment | I need to *reschedule an appointment* for next week. | Tôi cần dời lịch hẹn sang tuần sau.
+available slot | noun | /əˌveɪləbl ˈslɑːt/ | khung giờ trống | a free time for an appointment | the next available slot | The next *available slot* is Tuesday at 10. | Khung giờ trống tiếp theo là 10 giờ thứ Ba.
+slot | noun | /slɑːt/ | khung giờ; khe | a time available for something; a narrow opening | time slot; coin slot | All the morning *slots* are booked. | Các khung giờ buổi sáng đã kín.
+follow-up appointment | noun | /ˈfɑːloʊ ʌp əˌpɔɪntmənt/ | lịch tái khám | a second visit after treatment | schedule a follow-up appointment | Please book a *follow-up appointment* in two weeks. | Vui lòng đặt lịch tái khám sau hai tuần.
+referral | noun | /rɪˈfɜːrəl/ | giấy giới thiệu (chuyển khám) | sending someone to a specialist | get a referral | You need a *referral* to see a specialist. | Bạn cần giấy giới thiệu để khám chuyên khoa.
+treatment plan | noun | /ˈtriːtmənt plæn/ | phác đồ điều trị | a plan for medical care | follow the treatment plan | The doctor explained the *treatment plan*. | Bác sĩ giải thích phác đồ điều trị.
+side effect | noun | /ˈsaɪd ɪˌfekt/ | tác dụng phụ | an unwanted effect of a medicine | possible side effects | Drowsiness is a common *side effect*. | Buồn ngủ là tác dụng phụ thường gặp.
+over-the-counter | adjective | /ˌoʊvər ðə ˈkaʊntər/ | không cần kê đơn | able to be bought without a prescription | over-the-counter medicine | You can buy this medicine *over-the-counter*. | Bạn có thể mua thuốc này không cần đơn.
+allergy | noun | /ˈælərdʒi/ | dị ứng | a bad reaction of the body to something | food allergy; have an allergy | Do you have any *allergies*? | Bạn có bị dị ứng gì không?
+blood pressure | noun | /ˈblʌd ˌpreʃər/ | huyết áp | the force of blood in the body | high blood pressure; check blood pressure | The nurse will check your *blood pressure*. | Y tá sẽ đo huyết áp cho bạn.
+X-ray | noun | /ˈeks reɪ/ | chụp X-quang | a photo of the inside of the body | have an X-ray | The doctor sent me for an *X-ray*. | Bác sĩ cho tôi đi chụp X-quang.
+lab test | noun | /ˈlæb test/ | xét nghiệm | a medical test done in a laboratory | lab test results | Your *lab test* results will be ready tomorrow. | Kết quả xét nghiệm sẽ có vào ngày mai.
+outpatient | noun | /ˈaʊtpeɪʃnt/ | bệnh nhân ngoại trú | a patient who does not stay overnight | outpatient clinic | The *outpatient* clinic is on the first floor. | Phòng khám ngoại trú ở tầng một.
+admitted | adjective | /ədˈmɪtɪd/ | nhập viện | taken into hospital | be admitted to hospital | He was *admitted* to hospital last night. | Anh ấy nhập viện tối qua.
+discharge | verb | /dɪsˈtʃɑːrdʒ/ | cho xuất viện | to allow a patient to leave hospital | be discharged from hospital | She was *discharged* after two days. | Cô ấy được xuất viện sau hai ngày.
+recover | verb | /rɪˈkʌvər/ | hồi phục; lấy lại | to get better; to get back | recover from; recover costs | We hope to *recover* the costs within a year. | Chúng tôi hy vọng thu hồi chi phí trong một năm.
+wellness | noun | /ˈwelnəs/ | sức khỏe tổng thể | being healthy | wellness program; wellness centre | The company runs a *wellness* program for staff. | Công ty có chương trình chăm sóc sức khỏe cho nhân viên.
+nutritionist | noun | /nuˈtrɪʃənɪst/ | chuyên gia dinh dưỡng | an expert on food and health | consult a nutritionist | A *nutritionist* will give a talk on healthy eating. | Một chuyên gia dinh dưỡng sẽ nói chuyện về ăn uống lành mạnh.
+physical therapy | noun | /ˌfɪzɪkl ˈθerəpi/ | vật lý trị liệu | treatment using exercise and massage | attend physical therapy | He needs *physical therapy* for his knee. | Anh ấy cần vật lý trị liệu cho đầu gối.
+first-aid kit | noun | /ˌfɜːrst ˈeɪd kɪt/ | bộ sơ cứu | a box of things for treating small injuries | check the first-aid kit | The *first-aid kit* is in the kitchen. | Bộ sơ cứu ở trong bếp.
+co-pay | noun | /ˈkoʊ peɪ/ | khoản đồng chi trả | the part of a medical bill you pay yourself | a $20 co-pay | Your *co-pay* for this visit is $15. | Phần đồng chi trả cho lần khám này là 15 đô.
+health insurance | noun | /ˈhelθ ɪnˌʃʊrəns/ | bảo hiểm y tế | insurance that pays medical costs | provide health insurance | Full-time employees receive *health insurance*. | Nhân viên toàn thời gian được bảo hiểm y tế.
+emergency room | noun | /ɪˈmɜːrdʒənsi ruːm/ | phòng cấp cứu | the hospital department for urgent cases | go to the emergency room | He was taken to the *emergency room*. | Anh ấy được đưa vào phòng cấp cứu.
+vaccinated | adjective | /ˈvæksɪneɪtɪd/ | đã tiêm chủng | having had a vaccine | fully vaccinated | Visitors must be fully *vaccinated*. | Khách đến thăm phải tiêm chủng đầy đủ.
+hygienic | adjective | /haɪˈdʒenɪk/ | hợp vệ sinh | clean and safe | hygienic conditions | The kitchen must be kept *hygienic*. | Nhà bếp phải luôn hợp vệ sinh.
+sanitizer | noun | /ˈsænɪtaɪzər/ | dung dịch sát khuẩn | a liquid that kills germs | hand sanitizer | Please use the hand *sanitizer* at the entrance. | Vui lòng dùng nước rửa tay sát khuẩn ở lối vào.
+contagious | adjective | /kənˈteɪdʒəs/ | dễ lây | able to spread from person to person | a contagious disease | If you're *contagious*, please stay home. | Nếu bạn có thể lây bệnh, hãy ở nhà.
+symptom check | noun | /ˈsɪmptəm tʃek/ | kiểm tra triệu chứng | checking for signs of illness | daily symptom check | Complete the daily *symptom check* before coming in. | Hoàn thành kiểm tra triệu chứng hằng ngày trước khi đến.
+dosage | noun | /ˈdoʊsɪdʒ/ | liều dùng | the amount of medicine to take | recommended dosage | Do not exceed the recommended *dosage*. | Không dùng quá liều khuyến nghị.

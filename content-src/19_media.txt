@@ -1,0 +1,54 @@
+#id: media
+#prefix: med
+#order: 19
+#icon: 📰
+#title: News & Media
+#title_vi: Tin tức & Truyền thông
+#desc: Báo chí, truyền hình, xuất bản, phát ngôn: giúp đọc tin tức và hiểu các bài nói Part 4 (radio, bản tin).
+broadcast | verb | /ˈbrɔːdkæst/ | phát sóng | to send out a programme on TV or radio | broadcast live; be broadcast on | The match will be *broadcast* live on Channel 5. | Trận đấu sẽ được phát trực tiếp trên kênh 5.
+broadcaster | noun | /ˈbrɔːdkæstər/ | đài truyền hình; phát thanh viên | a company or person that broadcasts | a national broadcaster; public broadcaster | The national *broadcaster* covered the event. | Đài truyền hình quốc gia đưa tin về sự kiện.
+channel | noun | /ˈtʃænl/ | kênh | a TV station; a way of communicating | change the channel; news channel; sales channel | Which *channel* is the news on? | Thời sự phát trên kênh nào?
+coverage | noun | /ˈkʌvərɪdʒ/ | việc đưa tin; phạm vi bảo hiểm/phủ sóng | the reporting of news; the amount protected by insurance | media coverage; live coverage; insurance coverage | The event received wide media *coverage*. | Sự kiện được truyền thông đưa tin rộng rãi.
+documentary | noun | /ˌdɑːkjuˈmentri/ | phim tài liệu | a film or programme giving facts about something | watch a documentary; a documentary about | I watched a *documentary* about climate change. | Tôi xem một bộ phim tài liệu về biến đổi khí hậu.
+edition | noun | /ɪˈdɪʃn/ | ấn bản, số (báo) | one version or copy of a book or newspaper | the latest edition; online edition; special edition | The article appeared in today's *edition*. | Bài báo xuất hiện trong số báo hôm nay.
+editor | noun | /ˈedɪtər/ | biên tập viên | a person who prepares texts for publishing | newspaper editor; chief editor | The *editor* asked me to shorten the article. | Biên tập viên yêu cầu tôi rút ngắn bài viết.
+edit | verb | /ˈedɪt/ | biên tập, chỉnh sửa | to prepare text or video by correcting and changing it | edit a document; edit a video | Can you *edit* this report before I send it? | Bạn có thể chỉnh sửa báo cáo này trước khi tôi gửi không?
+editorial | noun | /ˌedɪˈtɔːriəl/ | bài xã luận | a newspaper article giving the editor's opinion | write an editorial | The *editorial* criticized the new tax. | Bài xã luận chỉ trích loại thuế mới.
+episode | noun | /ˈepɪsoʊd/ | tập (phim); sự việc | one part of a TV series; an event | the first episode; the latest episode | I've watched three *episodes* of the series. | Tôi đã xem ba tập của bộ phim.
+headline | noun | /ˈhedlaɪn/ | tiêu đề tin | the title of a newspaper story | make headlines; front-page headline | The story made *headlines* around the world. | Câu chuyện lên trang nhất khắp thế giới.
+journal | noun | /ˈdʒɜːrnl/ | tạp chí chuyên ngành; nhật ký | a serious magazine; a written record | medical journal; keep a journal | The study was published in a medical *journal*. | Nghiên cứu được đăng trên một tạp chí y khoa.
+journalism | noun | /ˈdʒɜːrnəlɪzəm/ | nghề báo | the work of writing news | study journalism; online journalism | She has a degree in *journalism*. | Cô ấy có bằng báo chí.
+press | noun | /pres/ | báo chí | newspapers and journalists | press release; press conference; the press | The company issued a *press* release this morning. | Công ty phát thông cáo báo chí sáng nay. | press conference = họp báo.
+publication | noun | /ˌpʌblɪˈkeɪʃn/ | ấn phẩm; sự xuất bản | a book or magazine; the act of publishing | date of publication; a monthly publication | The report is ready for *publication*. | Bản báo cáo đã sẵn sàng để xuất bản.
+publishing | noun | /ˈpʌblɪʃɪŋ/ | ngành xuất bản | the business of producing books and magazines | publishing company; work in publishing | He works for a *publishing* company. | Anh ấy làm cho một công ty xuất bản.
+reporting | noun | /rɪˈpɔːrtɪŋ/ | việc đưa tin | the presenting of news | news reporting; accurate reporting | The newspaper is known for honest *reporting*. | Tờ báo nổi tiếng nhờ đưa tin trung thực.
+viewer | noun | /ˈvjuːər/ | khán giả truyền hình | a person who watches TV | millions of viewers; TV viewers | The show attracts five million *viewers* a week. | Chương trình thu hút năm triệu người xem mỗi tuần.
+spokesperson | noun | /ˈspoʊkspɜːrsn/ | người phát ngôn | a person who speaks for an organization | a company spokesperson | A *spokesperson* said the factory would reopen soon. | Người phát ngôn cho biết nhà máy sẽ sớm mở cửa lại.
+spokesman | noun | /ˈspoʊksmən/ | người phát ngôn (nam) | a man who speaks for an organization | a government spokesman | A police *spokesman* confirmed the news. | Người phát ngôn cảnh sát xác nhận tin tức.
+spokeswoman | noun | /ˈspoʊkswʊmən/ | người phát ngôn (nữ) | a woman who speaks for an organization | the airline's spokeswoman | The airline's *spokeswoman* apologized for the delays. | Nữ phát ngôn viên hãng bay xin lỗi về sự chậm trễ.
+quote | verb | /kwoʊt/ | trích dẫn; báo giá | to repeat someone's words; to give a price | quote someone; quote a price | The article *quoted* the CEO several times. | Bài báo trích lời giám đốc nhiều lần. | Danh từ quote = bảng báo giá (get a quote).
+quotation | noun | /kwoʊˈteɪʃn/ | câu trích dẫn; bảng báo giá | words repeated from someone; a written price | a famous quotation; ask for a quotation | Please send us a *quotation* for 500 chairs. | Vui lòng gửi chúng tôi báo giá cho 500 chiếc ghế.
+cite | verb | /saɪt/ | trích dẫn, viện dẫn | to mention something as an example or proof | cite a source; cite an example | The report *cites* several recent studies. | Báo cáo viện dẫn một số nghiên cứu gần đây.
+caption | noun | /ˈkæpʃn/ | chú thích ảnh | words printed under a picture | photo caption; write a caption | Read the *caption* under each photo. | Đọc phần chú thích dưới mỗi bức ảnh.
+scandal | noun | /ˈskændl/ | vụ bê bối | an event that shocks people because it is wrong | a political scandal; cause a scandal | The minister resigned after the *scandal*. | Bộ trưởng từ chức sau vụ bê bối.
+controversy | noun | /ˈkɑːntrəvɜːrsi/ | cuộc tranh cãi | public disagreement about something | cause controversy; political controversy | The new law caused a lot of *controversy*. | Luật mới gây nhiều tranh cãi.
+controversial | adjective | /ˌkɑːntrəˈvɜːrʃl/ | gây tranh cãi | causing public disagreement | a controversial decision; highly controversial | It was a *controversial* decision. | Đó là một quyết định gây tranh cãi.
+interview | verb | /ˈɪntərvjuː/ | phỏng vấn | to ask someone questions for news or a job | be interviewed; interview candidates | The reporter *interviewed* several local residents. | Phóng viên phỏng vấn một số người dân địa phương.
+anonymous | adjective | /əˈnɑːnɪməs/ | ẩn danh | with a name that is not known | an anonymous source; remain anonymous | The survey is completely *anonymous*. | Cuộc khảo sát hoàn toàn ẩn danh.
+source | noun | /sɔːrs/ | nguồn | a place or person that provides something | a reliable source; source of income | According to *sources*, the deal will be signed soon. | Theo các nguồn tin, thỏa thuận sẽ sớm được ký.
+rumour | noun | /ˈruːmər/ | tin đồn | a story that may not be true | spread a rumour; there are rumours that | There are *rumours* that the company will be sold. | Có tin đồn rằng công ty sẽ bị bán. | Anh-Mỹ: rumor.
+reveal | verb | /rɪˈviːl/ | tiết lộ | to make something known | reveal a secret; reveal that | The survey *revealed* that most staff want flexible hours. | Khảo sát tiết lộ rằng hầu hết nhân viên muốn giờ làm linh hoạt.
+expose | verb | /ɪkˈspoʊz/ | phơi bày; để tiếp xúc | to show the truth about something bad; to put in contact with something harmful | expose a scandal; be exposed to | The journalist *exposed* the fraud. | Nhà báo đã phơi bày vụ lừa đảo.
+exposure | noun | /ɪkˈspoʊʒər/ | sự xuất hiện trước công chúng; sự tiếp xúc | public attention; being in contact with something | media exposure; exposure to the sun | The event gave the brand great *exposure*. | Sự kiện giúp thương hiệu xuất hiện rộng rãi trước công chúng.
+info | noun | /ˈɪnfoʊ/ | thông tin (văn nói) | information | more info; contact info | For more *info*, visit our website. | Để biết thêm thông tin, hãy truy cập website.
+blog | noun | /blɑːɡ/ | blog, nhật ký mạng | a website where someone writes regularly | write a blog; blog post | She writes a *blog* about travel. | Cô ấy viết blog về du lịch.
+follower | noun | /ˈfɑːloʊər/ | người theo dõi | a person who follows someone on social media; a supporter | have a million followers | The brand has two million *followers* online. | Thương hiệu có hai triệu người theo dõi trên mạng.
+influence | noun | /ˈɪnfluəns/ | sự ảnh hưởng | the power to affect someone or something | have an influence on; under the influence of | Social media has a big *influence* on young people. | Mạng xã hội có ảnh hưởng lớn đến giới trẻ.
+viral | adjective | /ˈvaɪrəl/ | lan truyền mạnh trên mạng | spreading quickly on the internet | go viral; a viral video | The video went *viral* overnight. | Video lan truyền chóng mặt chỉ sau một đêm.
+subscribe | verb | /səbˈskraɪb/ | đăng ký (theo dõi, nhận) | to pay to receive something regularly | subscribe to a magazine; subscribe to a channel | *Subscribe* to our newsletter for weekly updates. | Đăng ký bản tin của chúng tôi để nhận cập nhật hàng tuần.
+newsletter | noun | /ˈnuːzletər/ | bản tin | a regular report sent to members | monthly newsletter; company newsletter | The company *newsletter* comes out every month. | Bản tin công ty ra hàng tháng.
+column | noun | /ˈkɑːləm/ | chuyên mục; cột | a regular article in a newspaper; a vertical row | write a column; advice column | She writes a weekly *column* on business. | Cô ấy viết chuyên mục kinh doanh hằng tuần.
+current | adjective | /ˈkɜːrənt/ | hiện tại | happening now | current events; current situation; current address | We discuss *current* events in class. | Chúng tôi thảo luận thời sự trong lớp.
+currently | adverb | /ˈkɜːrəntli/ | hiện nay | at the present time | is currently unavailable; currently working | The manager is *currently* on holiday. | Quản lý hiện đang đi nghỉ.
+latest | adjective | /ˈleɪtɪst/ | mới nhất | the most recent | the latest news; latest version | Have you heard the *latest* news? | Bạn đã nghe tin mới nhất chưa?
+update | noun | /ˈʌpdeɪt/ | bản cập nhật, tin cập nhật | the most recent information | give an update; news update; weekly update | Can you give us an *update* on the project? | Bạn có thể cập nhật tình hình dự án không?

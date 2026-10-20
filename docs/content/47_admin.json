@@ -1,0 +1,1078 @@
+{
+ "id": "admin",
+ "order": 47,
+ "icon": "🗂️",
+ "level": "B2",
+ "title": "Office Admin & Events",
+ "title_vi": "Hành chính văn phòng & Sự kiện",
+ "description": "Giấy tờ, chữ ký, hồ sơ, địa điểm tổ chức, ban tổ chức: từ vựng email nội bộ và thông báo sự kiện.",
+ "words": [
+  {
+   "id": "adm_document",
+   "word": "document",
+   "pos": "noun",
+   "ipa": "/ˈdɑːkjumənt/",
+   "level": "B2",
+   "meaning": "tài liệu, giấy tờ",
+   "definition": "an official paper or file",
+   "collocations": [
+    "sign a document",
+    "legal documents"
+   ],
+   "examples": [
+    {
+     "en": "Please bring all the necessary *documents*.",
+     "vi": "Vui lòng mang theo mọi giấy tờ cần thiết."
+    }
+   ]
+  },
+  {
+   "id": "adm_draft",
+   "word": "draft",
+   "pos": "noun",
+   "ipa": "/dræft/",
+   "level": "B2",
+   "meaning": "bản nháp",
+   "definition": "an early version of a document",
+   "collocations": [
+    "first draft",
+    "rough draft"
+   ],
+   "examples": [
+    {
+     "en": "I've attached the first *draft* of the report.",
+     "vi": "Tôi đã đính kèm bản nháp đầu tiên của báo cáo."
+    }
+   ]
+  },
+  {
+   "id": "adm_file",
+   "word": "file",
+   "pos": "noun",
+   "ipa": "/faɪl/",
+   "level": "B1",
+   "meaning": "hồ sơ; tệp",
+   "definition": "a folder of documents; computer data",
+   "collocations": [
+    "on file",
+    "attach a file"
+   ],
+   "examples": [
+    {
+     "en": "We will keep your CV on *file*.",
+     "vi": "Chúng tôi sẽ lưu CV của bạn trong hồ sơ."
+    }
+   ]
+  },
+  {
+   "id": "adm_detail",
+   "word": "detail",
+   "pos": "noun",
+   "ipa": "/ˈdiːteɪl/",
+   "level": "B2",
+   "meaning": "chi tiết",
+   "definition": "a small fact",
+   "collocations": [
+    "for more details",
+    "contact details"
+   ],
+   "examples": [
+    {
+     "en": "Please check your contact *details*.",
+     "vi": "Vui lòng kiểm tra thông tin liên lạc của bạn."
+    }
+   ]
+  },
+  {
+   "id": "adm_detailed",
+   "word": "detailed",
+   "pos": "adjective",
+   "ipa": "/ˈdiːteɪld/",
+   "level": "B2",
+   "meaning": "chi tiết",
+   "definition": "giving many details",
+   "collocations": [
+    "a detailed report",
+    "detailed information"
+   ],
+   "examples": [
+    {
+     "en": "Please send me a *detailed* plan.",
+     "vi": "Vui lòng gửi tôi một kế hoạch chi tiết."
+    }
+   ]
+  },
+  {
+   "id": "adm_signature",
+   "word": "signature",
+   "pos": "noun",
+   "ipa": "/ˈsɪɡnətʃər/",
+   "level": "B2",
+   "meaning": "chữ ký",
+   "definition": "your name written in your own way",
+   "collocations": [
+    "require a signature",
+    "e-mail signature"
+   ],
+   "examples": [
+    {
+     "en": "The form needs your *signature* at the bottom.",
+     "vi": "Mẫu đơn cần chữ ký của bạn ở cuối trang."
+    }
+   ]
+  },
+  {
+   "id": "adm_id",
+   "word": "ID",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈdiː/",
+   "level": "B2",
+   "meaning": "giấy tờ tùy thân",
+   "definition": "identification",
+   "collocations": [
+    "photo ID",
+    "ID card"
+   ],
+   "examples": [
+    {
+     "en": "Please show your *ID* at reception.",
+     "vi": "Vui lòng xuất trình giấy tờ tùy thân ở lễ tân."
+    }
+   ]
+  },
+  {
+   "id": "adm_identity",
+   "word": "identity",
+   "pos": "noun",
+   "ipa": "/aɪˈdentəti/",
+   "level": "B1",
+   "meaning": "danh tính; bản sắc",
+   "definition": "who someone is",
+   "collocations": [
+    "proof of identity",
+    "brand identity"
+   ],
+   "examples": [
+    {
+     "en": "You need proof of *identity* to open an account.",
+     "vi": "Bạn cần giấy tờ chứng minh danh tính để mở tài khoản."
+    }
+   ]
+  },
+  {
+   "id": "adm_queue",
+   "word": "queue",
+   "pos": "noun",
+   "ipa": "/kjuː/",
+   "level": "B1",
+   "meaning": "hàng (người xếp)",
+   "definition": "a line of people waiting",
+   "collocations": [
+    "in a queue",
+    "join the queue"
+   ],
+   "examples": [
+    {
+     "en": "There was a long *queue* at the bank.",
+     "vi": "Có một hàng dài ở ngân hàng."
+    }
+   ],
+   "note": "Anh-Mỹ: line."
+  },
+  {
+   "id": "adm_clerk",
+   "word": "clerk",
+   "pos": "noun",
+   "ipa": "/klɜːrk/",
+   "level": "B2",
+   "meaning": "thư ký, nhân viên văn phòng/quầy",
+   "definition": "a person who keeps records or serves customers",
+   "collocations": [
+    "bank clerk",
+    "hotel clerk"
+   ],
+   "examples": [
+    {
+     "en": "The hotel *clerk* gave us our keys.",
+     "vi": "Nhân viên lễ tân khách sạn đưa chìa khóa cho chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "adm_panel",
+   "word": "panel",
+   "pos": "noun",
+   "ipa": "/ˈpænl/",
+   "level": "B2",
+   "meaning": "ban (hội thẩm, chuyên gia); tấm",
+   "definition": "a group of experts; a flat piece",
+   "collocations": [
+    "panel discussion",
+    "solar panel"
+   ],
+   "examples": [
+    {
+     "en": "A *panel* of experts will answer questions.",
+     "vi": "Một ban chuyên gia sẽ trả lời câu hỏi."
+    }
+   ]
+  },
+  {
+   "id": "adm_forum",
+   "word": "forum",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrəm/",
+   "level": "B2",
+   "meaning": "diễn đàn",
+   "definition": "a place or meeting for discussion",
+   "collocations": [
+    "online forum",
+    "business forum"
+   ],
+   "examples": [
+    {
+     "en": "The company hosts a monthly staff *forum*.",
+     "vi": "Công ty tổ chức diễn đàn nhân viên hằng tháng."
+    }
+   ]
+  },
+  {
+   "id": "adm_venue",
+   "word": "venue",
+   "pos": "noun",
+   "ipa": "/ˈvenjuː/",
+   "level": "B2",
+   "meaning": "địa điểm tổ chức",
+   "definition": "the place where an event happens",
+   "collocations": [
+    "conference venue",
+    "change of venue"
+   ],
+   "examples": [
+    {
+     "en": "The *venue* for the conference has changed.",
+     "vi": "Địa điểm hội nghị đã thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "adm_convention",
+   "word": "convention",
+   "pos": "noun",
+   "ipa": "/kənˈvenʃn/",
+   "level": "B2",
+   "meaning": "hội nghị lớn; quy ước",
+   "definition": "a large meeting; an accepted way of behaving",
+   "collocations": [
+    "convention centre",
+    "social convention"
+   ],
+   "examples": [
+    {
+     "en": "The *convention* centre can hold 5,000 people.",
+     "vi": "Trung tâm hội nghị chứa được 5.000 người."
+    }
+   ]
+  },
+  {
+   "id": "adm_organizer",
+   "word": "organizer",
+   "pos": "noun",
+   "ipa": "/ˈɔːrɡənaɪzər/",
+   "level": "B1",
+   "meaning": "ban tổ chức, người tổ chức",
+   "definition": "a person who arranges an event",
+   "collocations": [
+    "event organizer"
+   ],
+   "examples": [
+    {
+     "en": "The *organizers* expect 300 guests.",
+     "vi": "Ban tổ chức dự kiến 300 khách."
+    }
+   ]
+  },
+  {
+   "id": "adm_organized",
+   "word": "organized",
+   "pos": "adjective",
+   "ipa": "/ˈɔːrɡənaɪzd/",
+   "level": "B1",
+   "meaning": "ngăn nắp, có tổ chức",
+   "definition": "well planned; able to plan well",
+   "collocations": [
+    "well organized",
+    "get organized"
+   ],
+   "examples": [
+    {
+     "en": "She is very *organized* and never misses a deadline.",
+     "vi": "Cô ấy rất ngăn nắp và không bao giờ trễ hạn."
+    }
+   ]
+  },
+  {
+   "id": "adm_planning",
+   "word": "planning",
+   "pos": "noun",
+   "ipa": "/ˈplænɪŋ/",
+   "level": "B1",
+   "meaning": "việc lập kế hoạch",
+   "definition": "the process of making plans",
+   "collocations": [
+    "event planning",
+    "careful planning"
+   ],
+   "examples": [
+    {
+     "en": "The event needs careful *planning*.",
+     "vi": "Sự kiện cần được lên kế hoạch cẩn thận."
+    }
+   ]
+  },
+  {
+   "id": "adm_preparation",
+   "word": "preparation",
+   "pos": "noun",
+   "ipa": "/ˌprepəˈreɪʃn/",
+   "level": "B2",
+   "meaning": "sự chuẩn bị",
+   "definition": "the act of getting ready",
+   "collocations": [
+    "in preparation for",
+    "preparation time"
+   ],
+   "examples": [
+    {
+     "en": "Good *preparation* is the key to a good presentation.",
+     "vi": "Chuẩn bị tốt là chìa khóa của bài thuyết trình hay."
+    }
+   ]
+  },
+  {
+   "id": "adm_prepared",
+   "word": "prepared",
+   "pos": "adjective",
+   "ipa": "/prɪˈperd/",
+   "level": "B1",
+   "meaning": "sẵn sàng",
+   "definition": "ready; willing",
+   "collocations": [
+    "be prepared for",
+    "prepared to"
+   ],
+   "examples": [
+    {
+     "en": "Be *prepared* to answer questions after your talk.",
+     "vi": "Hãy sẵn sàng trả lời câu hỏi sau phần trình bày."
+    }
+   ]
+  },
+  {
+   "id": "adm_version",
+   "word": "version",
+   "pos": "noun",
+   "ipa": "/ˈvɜːrʒn/",
+   "level": "B1",
+   "meaning": "phiên bản",
+   "definition": "a form of something slightly different",
+   "collocations": [
+    "the latest version",
+    "updated version"
+   ],
+   "examples": [
+    {
+     "en": "Please use the latest *version* of the form.",
+     "vi": "Vui lòng dùng phiên bản mới nhất của mẫu đơn."
+    }
+   ]
+  },
+  {
+   "id": "adm_print",
+   "word": "print",
+   "pos": "verb",
+   "ipa": "/prɪnt/",
+   "level": "B2",
+   "meaning": "in",
+   "definition": "to produce text on paper",
+   "collocations": [
+    "print a document",
+    "print out"
+   ],
+   "examples": [
+    {
+     "en": "Could you *print* ten copies of the agenda?",
+     "vi": "Bạn in giúp mười bản chương trình họp được không?"
+    }
+   ]
+  },
+  {
+   "id": "adm_printing",
+   "word": "printing",
+   "pos": "noun",
+   "ipa": "/ˈprɪntɪŋ/",
+   "level": "B1",
+   "meaning": "việc in ấn",
+   "definition": "the process of producing printed material",
+   "collocations": [
+    "printing costs",
+    "colour printing"
+   ],
+   "examples": [
+    {
+     "en": "*Printing* costs have been cut by half.",
+     "vi": "Chi phí in ấn đã giảm một nửa."
+    }
+   ]
+  },
+  {
+   "id": "adm_ink",
+   "word": "ink",
+   "pos": "noun",
+   "ipa": "/ɪŋk/",
+   "level": "B2",
+   "meaning": "mực",
+   "definition": "coloured liquid for writing and printing",
+   "collocations": [
+    "ink cartridge",
+    "in black ink"
+   ],
+   "examples": [
+    {
+     "en": "The printer is out of *ink*.",
+     "vi": "Máy in hết mực."
+    }
+   ]
+  },
+  {
+   "id": "adm_marker",
+   "word": "marker",
+   "pos": "noun",
+   "ipa": "/ˈmɑːrkər/",
+   "level": "B2",
+   "meaning": "bút dạ; mốc đánh dấu",
+   "definition": "a pen with a thick tip; a sign",
+   "collocations": [
+    "whiteboard marker"
+   ],
+   "examples": [
+    {
+     "en": "Can you pass me a whiteboard *marker*?",
+     "vi": "Bạn đưa tôi cây bút viết bảng được không?"
+    }
+   ]
+  },
+  {
+   "id": "adm_clip",
+   "word": "clip",
+   "pos": "noun",
+   "ipa": "/klɪp/",
+   "level": "B2",
+   "meaning": "cái kẹp; đoạn phim ngắn",
+   "definition": "a small object for holding things; a short video",
+   "collocations": [
+    "paper clip",
+    "video clip"
+   ],
+   "examples": [
+    {
+     "en": "Hold the pages together with a paper *clip*.",
+     "vi": "Kẹp các trang lại bằng kẹp giấy."
+    }
+   ]
+  },
+  {
+   "id": "adm_tag",
+   "word": "tag",
+   "pos": "noun",
+   "ipa": "/tæɡ/",
+   "level": "B2",
+   "meaning": "thẻ, nhãn",
+   "definition": "a small label",
+   "collocations": [
+    "name tag",
+    "price tag"
+   ],
+   "examples": [
+    {
+     "en": "Please wear your name *tag* at all times.",
+     "vi": "Vui lòng đeo thẻ tên mọi lúc."
+    }
+   ]
+  },
+  {
+   "id": "adm_badge",
+   "word": "badge",
+   "pos": "noun",
+   "ipa": "/bædʒ/",
+   "level": "B2",
+   "meaning": "thẻ đeo, huy hiệu",
+   "definition": "a small piece of metal or plastic showing your name or job",
+   "collocations": [
+    "name badge",
+    "security badge"
+   ],
+   "examples": [
+    {
+     "en": "Visitors must wear a *badge*.",
+     "vi": "Khách đến thăm phải đeo thẻ."
+    }
+   ]
+  },
+  {
+   "id": "adm_entrance",
+   "word": "entrance",
+   "pos": "noun",
+   "ipa": "/ˈentrəns/",
+   "level": "B1",
+   "meaning": "lối vào",
+   "definition": "a door or gate to enter",
+   "collocations": [
+    "main entrance",
+    "side entrance",
+    "entrance fee"
+   ],
+   "examples": [
+    {
+     "en": "Please use the side *entrance* during repairs.",
+     "vi": "Vui lòng dùng lối vào bên hông trong thời gian sửa chữa."
+    }
+   ]
+  },
+  {
+   "id": "adm_entry",
+   "word": "entry",
+   "pos": "noun",
+   "ipa": "/ˈentri/",
+   "level": "B1",
+   "meaning": "sự vào; bài dự thi; mục ghi",
+   "definition": "the act of entering; something entered in a competition or list",
+   "collocations": [
+    "no entry",
+    "free entry",
+    "competition entry"
+   ],
+   "examples": [
+    {
+     "en": "*Entry* to the exhibition is free.",
+     "vi": "Vào cửa triển lãm miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "adm_location",
+   "word": "location",
+   "pos": "noun",
+   "ipa": "/loʊˈkeɪʃn/",
+   "level": "B1",
+   "meaning": "vị trí, địa điểm",
+   "definition": "a place",
+   "collocations": [
+    "a convenient location",
+    "new location"
+   ],
+   "examples": [
+    {
+     "en": "The store has moved to a new *location*.",
+     "vi": "Cửa hàng đã chuyển đến địa điểm mới."
+    }
+   ]
+  },
+  {
+   "id": "adm_status",
+   "word": "status",
+   "pos": "noun",
+   "ipa": "/ˈsteɪtəs/",
+   "level": "B2",
+   "meaning": "tình trạng; địa vị",
+   "definition": "the situation at a time; social position",
+   "collocations": [
+    "order status",
+    "check the status"
+   ],
+   "examples": [
+    {
+     "en": "You can check the *status* of your order online.",
+     "vi": "Bạn có thể kiểm tra tình trạng đơn hàng trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "adm_mission",
+   "word": "mission",
+   "pos": "noun",
+   "ipa": "/ˈmɪʃn/",
+   "level": "B2",
+   "meaning": "sứ mệnh; nhiệm vụ",
+   "definition": "an important purpose; a task",
+   "collocations": [
+    "mission statement",
+    "on a mission"
+   ],
+   "examples": [
+    {
+     "en": "Our *mission* is to make learning easy for everyone.",
+     "vi": "Sứ mệnh của chúng tôi là giúp mọi người học dễ dàng."
+    }
+   ]
+  },
+  {
+   "id": "adm_scheme",
+   "word": "scheme",
+   "pos": "noun",
+   "ipa": "/skiːm/",
+   "level": "B2",
+   "meaning": "kế hoạch, chương trình",
+   "definition": "an official plan",
+   "collocations": [
+    "pension scheme",
+    "a training scheme"
+   ],
+   "examples": [
+    {
+     "en": "The company has a new bonus *scheme*.",
+     "vi": "Công ty có chương trình thưởng mới."
+    }
+   ]
+  },
+  {
+   "id": "adm_model",
+   "word": "model",
+   "pos": "noun",
+   "ipa": "/ˈmɑːdl/",
+   "level": "B2",
+   "meaning": "mẫu (sản phẩm); hình mẫu",
+   "definition": "a particular type of product; an example to copy",
+   "collocations": [
+    "the latest model",
+    "business model"
+   ],
+   "examples": [
+    {
+     "en": "This *model* comes in three colours.",
+     "vi": "Mẫu này có ba màu."
+    }
+   ]
+  },
+  {
+   "id": "adm_mode",
+   "word": "mode",
+   "pos": "noun",
+   "ipa": "/moʊd/",
+   "level": "B2",
+   "meaning": "chế độ; phương thức",
+   "definition": "a way of operating",
+   "collocations": [
+    "airplane mode",
+    "mode of transport"
+   ],
+   "examples": [
+    {
+     "en": "Please switch your phone to silent *mode*.",
+     "vi": "Vui lòng chuyển điện thoại sang chế độ im lặng."
+    }
+   ]
+  },
+  {
+   "id": "adm_type",
+   "word": "type",
+   "pos": "verb",
+   "ipa": "/taɪp/",
+   "level": "B1",
+   "meaning": "đánh máy",
+   "definition": "to write using a keyboard",
+   "collocations": [
+    "type a letter",
+    "type in"
+   ],
+   "examples": [
+    {
+     "en": "Please *type* your name in the box.",
+     "vi": "Vui lòng gõ tên của bạn vào ô."
+    }
+   ]
+  },
+  {
+   "id": "adm_sort",
+   "word": "sort",
+   "pos": "verb",
+   "ipa": "/sɔːrt/",
+   "level": "B1",
+   "meaning": "phân loại",
+   "definition": "to put into groups",
+   "collocations": [
+    "sort out",
+    "sort by date"
+   ],
+   "examples": [
+    {
+     "en": "Please *sort* the files by date.",
+     "vi": "Vui lòng sắp xếp các tệp theo ngày."
+    }
+   ],
+   "note": "sort out = giải quyết."
+  },
+  {
+   "id": "adm_setting",
+   "word": "setting",
+   "pos": "noun",
+   "ipa": "/ˈsetɪŋ/",
+   "level": "B1",
+   "meaning": "cài đặt; bối cảnh",
+   "definition": "a position on a control; the place where something happens",
+   "collocations": [
+    "change the settings",
+    "a beautiful setting"
+   ],
+   "examples": [
+    {
+     "en": "You can change the *settings* in the menu.",
+     "vi": "Bạn có thể đổi cài đặt trong menu."
+    }
+   ]
+  },
+  {
+   "id": "adm_position",
+   "word": "position",
+   "pos": "noun",
+   "ipa": "/pəˈzɪʃn/",
+   "level": "B2",
+   "meaning": "vị trí (công việc, nơi chốn)",
+   "definition": "a job; a place",
+   "collocations": [
+    "apply for a position",
+    "in position"
+   ],
+   "examples": [
+    {
+     "en": "We have a *position* available in our sales team.",
+     "vi": "Chúng tôi có một vị trí trống trong đội kinh doanh."
+    }
+   ]
+  },
+  {
+   "id": "adm_specialist",
+   "word": "specialist",
+   "pos": "noun",
+   "ipa": "/ˈspeʃəlɪst/",
+   "level": "B2",
+   "meaning": "chuyên gia",
+   "definition": "a person with expert knowledge",
+   "collocations": [
+    "IT specialist",
+    "see a specialist"
+   ],
+   "examples": [
+    {
+     "en": "Our IT *specialist* will fix the problem.",
+     "vi": "Chuyên viên IT của chúng tôi sẽ khắc phục sự cố."
+    }
+   ]
+  },
+  {
+   "id": "adm_seeker",
+   "word": "seeker",
+   "pos": "noun",
+   "ipa": "/ˈsiːkər/",
+   "level": "B2",
+   "meaning": "người tìm kiếm",
+   "definition": "a person looking for something",
+   "collocations": [
+    "job seekers"
+   ],
+   "examples": [
+    {
+     "en": "The website helps job *seekers* find work.",
+     "vi": "Website giúp người tìm việc tìm được việc làm."
+    }
+   ]
+  },
+  {
+   "id": "adm_supporter",
+   "word": "supporter",
+   "pos": "noun",
+   "ipa": "/səˈpɔːrtər/",
+   "level": "B1",
+   "meaning": "người ủng hộ",
+   "definition": "a person who supports",
+   "collocations": [
+    "a strong supporter",
+    "football supporters"
+   ],
+   "examples": [
+    {
+     "en": "She is a strong *supporter* of the plan.",
+     "vi": "Cô ấy là người ủng hộ mạnh mẽ kế hoạch."
+    }
+   ]
+  },
+  {
+   "id": "adm_photographer",
+   "word": "photographer",
+   "pos": "noun",
+   "ipa": "/fəˈtɑːɡrəfər/",
+   "level": "B1",
+   "meaning": "nhiếp ảnh gia",
+   "definition": "a person who takes photos",
+   "collocations": [
+    "professional photographer"
+   ],
+   "examples": [
+    {
+     "en": "We hired a *photographer* for the event.",
+     "vi": "Chúng tôi thuê một nhiếp ảnh gia cho sự kiện."
+    }
+   ]
+  },
+  {
+   "id": "adm_photography",
+   "word": "photography",
+   "pos": "noun",
+   "ipa": "/fəˈtɑːɡrəfi/",
+   "level": "B1",
+   "meaning": "nhiếp ảnh",
+   "definition": "the art of taking photos",
+   "collocations": [
+    "no photography",
+    "wedding photography"
+   ],
+   "examples": [
+    {
+     "en": "*Photography* is not allowed during the show.",
+     "vi": "Không được chụp ảnh trong buổi diễn."
+    }
+   ]
+  },
+  {
+   "id": "adm_picture",
+   "word": "picture",
+   "pos": "verb",
+   "ipa": "/ˈpɪktʃər/",
+   "level": "B2",
+   "meaning": "hình dung",
+   "definition": "to imagine",
+   "collocations": [
+    "picture yourself"
+   ],
+   "examples": [
+    {
+     "en": "*Picture* yourself relaxing on a beautiful beach.",
+     "vi": "Hãy hình dung bạn đang thư giãn trên bãi biển đẹp."
+    }
+   ]
+  },
+  {
+   "id": "adm_collection",
+   "word": "collection",
+   "pos": "noun",
+   "ipa": "/kəˈlekʃn/",
+   "level": "B1",
+   "meaning": "bộ sưu tập; sự thu gom",
+   "definition": "a group of objects; the act of collecting",
+   "collocations": [
+    "art collection",
+    "rubbish collection"
+   ],
+   "examples": [
+    {
+     "en": "The museum has a large *collection* of old coins.",
+     "vi": "Bảo tàng có bộ sưu tập tiền xu cổ lớn."
+    }
+   ]
+  },
+  {
+   "id": "adm_collector",
+   "word": "collector",
+   "pos": "noun",
+   "ipa": "/kəˈlektər/",
+   "level": "B2",
+   "meaning": "nhà sưu tầm; người thu",
+   "definition": "a person who collects things",
+   "collocations": [
+    "art collector",
+    "tax collector"
+   ],
+   "examples": [
+    {
+     "en": "He is a keen stamp *collector*.",
+     "vi": "Ông ấy là người sưu tầm tem nhiệt tình."
+    }
+   ]
+  },
+  {
+   "id": "adm_screening",
+   "word": "screening",
+   "pos": "noun",
+   "ipa": "/ˈskriːnɪŋ/",
+   "level": "B2",
+   "meaning": "buổi chiếu; sự sàng lọc",
+   "definition": "the showing of a film; testing for something",
+   "collocations": [
+    "film screening",
+    "health screening"
+   ],
+   "examples": [
+    {
+     "en": "There will be a free *screening* of the film on Friday.",
+     "vi": "Sẽ có buổi chiếu phim miễn phí vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "adm_administration",
+   "word": "administration",
+   "pos": "noun",
+   "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+   "level": "B2",
+   "meaning": "sự quản trị, hành chính",
+   "definition": "the work of managing an organization",
+   "collocations": [
+    "business administration",
+    "admin staff"
+   ],
+   "examples": [
+    {
+     "en": "She works in hospital *administration*.",
+     "vi": "Cô ấy làm công tác hành chính tại bệnh viện."
+    }
+   ]
+  },
+  {
+   "id": "adm_accountant",
+   "word": "accountant",
+   "pos": "noun",
+   "ipa": "/əˈkaʊntənt/",
+   "level": "B2",
+   "meaning": "kế toán viên",
+   "definition": "a person who keeps financial records",
+   "collocations": [
+    "chartered accountant",
+    "hire an accountant"
+   ],
+   "examples": [
+    {
+     "en": "Our *accountant* will check the figures.",
+     "vi": "Kế toán của chúng tôi sẽ kiểm tra số liệu."
+    }
+   ]
+  },
+  {
+   "id": "adm_development",
+   "word": "development",
+   "pos": "noun",
+   "ipa": "/dɪˈveləpmənt/",
+   "level": "B1",
+   "meaning": "sự phát triển; diễn biến mới",
+   "definition": "growth; a new event",
+   "collocations": [
+    "product development",
+    "latest developments"
+   ],
+   "examples": [
+    {
+     "en": "We'll keep you informed of any new *developments*.",
+     "vi": "Chúng tôi sẽ thông báo cho bạn mọi diễn biến mới."
+    }
+   ]
+  },
+  {
+   "id": "adm_centre",
+   "word": "centre",
+   "pos": "noun",
+   "ipa": "/ˈsentər/",
+   "level": "B1",
+   "meaning": "trung tâm",
+   "definition": "the middle; a building for an activity",
+   "collocations": [
+    "city centre",
+    "shopping centre",
+    "call centre"
+   ],
+   "examples": [
+    {
+     "en": "The hotel is in the city *centre*.",
+     "vi": "Khách sạn ở trung tâm thành phố."
+    }
+   ],
+   "note": "Anh-Mỹ: center."
+  },
+  {
+   "id": "adm_central",
+   "word": "central",
+   "pos": "adjective",
+   "ipa": "/ˈsentrəl/",
+   "level": "B1",
+   "meaning": "trung tâm, chính",
+   "definition": "in the middle; main",
+   "collocations": [
+    "central location",
+    "central office"
+   ],
+   "examples": [
+    {
+     "en": "All reports go to the *central* office.",
+     "vi": "Mọi báo cáo đều gửi về văn phòng trung tâm."
+    }
+   ]
+  },
+  {
+   "id": "adm_counter",
+   "word": "counter",
+   "pos": "noun",
+   "ipa": "/ˈkaʊntər/",
+   "level": "B2",
+   "meaning": "quầy",
+   "definition": "a long flat surface in a shop or bank",
+   "collocations": [
+    "check-in counter",
+    "over the counter"
+   ],
+   "examples": [
+    {
+     "en": "Please pay at the *counter*.",
+     "vi": "Vui lòng thanh toán tại quầy."
+    }
+   ]
+  },
+  {
+   "id": "adm_shift",
+   "word": "shift",
+   "pos": "noun",
+   "ipa": "/ʃɪft/",
+   "level": "B1",
+   "meaning": "ca làm việc; sự thay đổi",
+   "definition": "a period of work; a change",
+   "collocations": [
+    "night shift",
+    "work shifts",
+    "a shift in"
+   ],
+   "examples": [
+    {
+     "en": "She works the night *shift* at the hospital.",
+     "vi": "Cô ấy làm ca đêm ở bệnh viện."
+    }
+   ]
+  },
+  {
+   "id": "adm_opening",
+   "word": "opening",
+   "pos": "noun",
+   "ipa": "/ˈoʊpnɪŋ/",
+   "level": "B2",
+   "meaning": "lễ khai trương; vị trí trống",
+   "definition": "the start of something; a job available",
+   "collocations": [
+    "grand opening",
+    "job openings"
+   ],
+   "examples": [
+    {
+     "en": "We have several job *openings* in marketing.",
+     "vi": "Chúng tôi có vài vị trí trống ở bộ phận marketing."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,54 @@
+#id: study
+#prefix: stu
+#order: 30
+#icon: 🎓
+#title: Education & Learning
+#title_vi: Giáo dục & Học thuật
+#desc: Trường lớp, bằng cấp, nghiên cứu học thuật, kỹ năng học: bổ sung cho chủ đề Học tập B1.
+academic | adjective | /ˌækəˈdemɪk/ | thuộc học thuật | connected with education and study | academic year; academic performance | The *academic* year starts in September. | Năm học bắt đầu vào tháng Chín.
+campus | noun | /ˈkæmpəs/ | khuôn viên trường | the buildings and land of a university | on campus; campus life | Students can live on *campus* in their first year. | Sinh viên năm nhất có thể ở trong khuôn viên trường.
+curriculum | noun | /kəˈrɪkjələm/ | chương trình giảng dạy | the subjects taught in a school | school curriculum; on the curriculum | Coding is now part of the school *curriculum*. | Lập trình giờ là một phần của chương trình học.
+pupil | noun | /ˈpjuːpl/ | học sinh | a child at school | primary school pupils | The school has 500 *pupils*. | Trường có 500 học sinh.
+scholar | noun | /ˈskɑːlər/ | học giả | a person who studies a subject in detail | a leading scholar | He is a respected *scholar* of Asian history. | Ông ấy là học giả về lịch sử châu Á được kính trọng.
+thesis | noun | /ˈθiːsɪs/ | luận văn, luận án | a long piece of writing for a university degree | write a thesis; master's thesis | She is writing her master's *thesis* on marketing. | Cô ấy đang viết luận văn thạc sĩ về marketing.
+textbook | noun | /ˈtekstbʊk/ | sách giáo khoa | a book used for studying a subject | a history textbook | Please bring your *textbook* to every class. | Vui lòng mang sách giáo khoa đến mọi buổi học.
+notebook | noun | /ˈnoʊtbʊk/ | sổ tay; máy tính xách tay | a small book for writing notes; a small laptop | write in a notebook | I always carry a *notebook* to meetings. | Tôi luôn mang sổ tay đi họp.
+grade | noun | /ɡreɪd/ | điểm số; lớp; cấp | a mark for school work; a level | get good grades; in grade 5 | She got the highest *grade* in the class. | Cô ấy đạt điểm cao nhất lớp.
+educate | verb | /ˈedʒukeɪt/ | giáo dục | to teach someone | educate children; educate the public | The campaign aims to *educate* people about recycling. | Chiến dịch nhằm giáo dục người dân về tái chế.
+educated | adjective | /ˈedʒukeɪtɪd/ | có học thức | having a good education | well-educated; highly educated | Our staff are highly *educated*. | Nhân viên của chúng tôi có trình độ học vấn cao.
+educational | adjective | /ˌedʒuˈkeɪʃənl/ | mang tính giáo dục | connected with or providing education | educational games; educational trip | The museum is fun and *educational*. | Bảo tàng vừa vui vừa bổ ích.
+elementary | adjective | /ˌelɪˈmentri/ | sơ cấp, cơ bản | basic; at the first level | elementary school; elementary level | She speaks *elementary* French. | Cô ấy nói tiếng Pháp trình độ sơ cấp.
+secondary | adjective | /ˈsekənderi/ | trung học; thứ yếu | for students aged 11–18; less important | secondary school; of secondary importance | Price is of *secondary* importance to quality. | Giá cả là thứ yếu so với chất lượng.
+primary | adjective | /ˈpraɪmeri/ | chính; tiểu học | main; for young children | primary school; primary reason | The *primary* goal is to increase sales. | Mục tiêu chính là tăng doanh số.
+compulsory | adjective | /kəmˈpʌlsəri/ | bắt buộc | required by a rule | compulsory training; compulsory subject | Safety training is *compulsory* for all new staff. | Đào tạo an toàn là bắt buộc với mọi nhân viên mới.
+institute | noun | /ˈɪnstɪtuːt/ | viện | an organization for research or education | research institute; institute of technology | She works at a research *institute*. | Cô ấy làm việc tại một viện nghiên cứu.
+institution | noun | /ˌɪnstɪˈtuːʃn/ | tổ chức, cơ quan | a large important organization | financial institution; educational institution | Banks are financial *institutions*. | Ngân hàng là các tổ chức tài chính.
+intellectual | adjective | /ˌɪntəˈlektʃuəl/ | thuộc trí tuệ | connected with the mind and thinking | intellectual property; intellectual ability | The company protects its *intellectual* property. | Công ty bảo vệ tài sản trí tuệ của mình.
+intelligence | noun | /ɪnˈtelɪdʒəns/ | trí thông minh | the ability to learn and understand | artificial intelligence; high intelligence | Emotional *intelligence* is important for managers. | Trí tuệ cảm xúc quan trọng với người quản lý.
+concentration | noun | /ˌkɑːnsnˈtreɪʃn/ | sự tập trung | the ability to give all your attention | lose concentration; require concentration | The noise affects my *concentration*. | Tiếng ồn ảnh hưởng đến sự tập trung của tôi.
+discipline | noun | /ˈdɪsəplɪn/ | kỷ luật; môn học | training to obey rules; a subject of study | self-discipline; academic discipline | Learning a language takes *discipline*. | Học ngoại ngữ cần có kỷ luật.
+translate | verb | /trænzˈleɪt/ | dịch | to change words into another language | translate into; translate from | Can you *translate* this e-mail into English? | Bạn dịch e-mail này sang tiếng Anh được không?
+translation | noun | /trænzˈleɪʃn/ | bản dịch | words changed into another language | a translation of; translation service | The *translation* was not very accurate. | Bản dịch không chính xác lắm.
+accent | noun | /ˈæksent/ | giọng (vùng miền) | a way of pronouncing words | a strong accent; British accent | TOEIC uses American, British, Australian and Canadian *accents*. | TOEIC dùng giọng Mỹ, Anh, Úc và Canada.
+spoken | adjective | /ˈspoʊkən/ | (thuộc) nói | expressed in speech | spoken English; spoken language | Her *spoken* English has improved a lot. | Tiếng Anh nói của cô ấy đã tiến bộ nhiều.
+written | adjective | /ˈrɪtn/ | (bằng) viết | expressed in writing | written test; written permission | You need *written* permission from your manager. | Bạn cần giấy phép bằng văn bản từ quản lý.
+sentence | noun | /ˈsentəns/ | câu; bản án | a group of words with a meaning; a punishment | complete the sentence; a prison sentence | Choose the best word to complete the *sentence*. | Chọn từ phù hợp nhất để hoàn thành câu.
+clause | noun | /klɔːz/ | mệnh đề; điều khoản | part of a sentence; a section of a contract | relative clause; a clause in the contract | This *clause* allows either side to cancel the contract. | Điều khoản này cho phép bên nào cũng có thể hủy hợp đồng. | relative clause = mệnh đề quan hệ.
+passage | noun | /ˈpæsɪdʒ/ | đoạn văn; lối đi | a short part of a text; a narrow way | read the passage; a narrow passage | Read the *passage* and answer the questions. | Đọc đoạn văn và trả lời câu hỏi.
+quotation mark | noun | /kwoʊˈteɪʃn mɑːrk/ | dấu ngoặc kép | the marks " " around words | in quotation marks | Put the title in *quotation marks*. | Đặt tên sách trong dấu ngoặc kép.
+definition | noun | /ˌdefɪˈnɪʃn/ | định nghĩa | an explanation of the meaning of a word | dictionary definition; by definition | Look up the *definition* in a dictionary. | Tra định nghĩa trong từ điển.
+define | verb | /dɪˈfaɪn/ | định nghĩa; xác định | to explain the meaning; to describe clearly | define clearly; define the role | Please *define* the role of each team member. | Vui lòng xác định rõ vai trò của từng thành viên.
+illustrate | verb | /ˈɪləstreɪt/ | minh họa | to explain with examples or pictures | illustrate a point; illustrated book | The chart *illustrates* the growth in sales. | Biểu đồ minh họa sự tăng trưởng doanh số.
+illustration | noun | /ˌɪləˈstreɪʃn/ | hình minh họa; ví dụ | a picture in a book; an example | for illustration; book illustrations | The book has beautiful *illustrations*. | Cuốn sách có hình minh họa đẹp.
+diagram | noun | /ˈdaɪəɡræm/ | sơ đồ | a simple drawing that explains something | draw a diagram; see the diagram | The *diagram* shows how the machine works. | Sơ đồ cho thấy máy hoạt động thế nào.
+chart | noun | /tʃɑːrt/ | biểu đồ | a picture showing information | pie chart; bar chart; flow chart | Look at the *chart* on page 4. | Xem biểu đồ ở trang 4.
+graph | noun | /ɡræf/ | đồ thị | a drawing showing how numbers change | line graph; the graph shows | The *graph* shows sales from January to June. | Đồ thị thể hiện doanh số từ tháng Một đến tháng Sáu.
+statistic | noun | /stəˈtɪstɪk/ | số liệu thống kê | a number that shows a fact | official statistics; according to statistics | *Statistics* show that most customers shop online. | Thống kê cho thấy phần lớn khách hàng mua sắm trực tuyến.
+reference | noun | /ˈrefrəns/ | sự tham khảo; thư giới thiệu | a mention of something; a letter about someone's skills | for reference; reference letter; with reference to | Please provide two *references* from previous employers. | Vui lòng cung cấp hai thư giới thiệu từ nơi làm cũ.
+revision | noun | /rɪˈvɪʒn/ | sự ôn tập | studying again before an exam | do revision; revision notes | I need to do some *revision* for my exam. | Tôi cần ôn bài cho kỳ thi.
+learner | noun | /ˈlɜːrnər/ | người học | a person who is learning | language learners; a fast learner | She's a fast *learner*. | Cô ấy học rất nhanh.
+lecture | noun | /ˈlektʃər/ | bài giảng | a talk to students on a subject | give a lecture; attend a lecture | The *lecture* starts at 9 a.m. | Bài giảng bắt đầu lúc 9 giờ sáng.
+tutor | noun | /ˈtuːtər/ | gia sư | a private teacher | private tutor; English tutor | I have an English *tutor* twice a week. | Tôi học gia sư tiếng Anh hai buổi một tuần.
+enrol | verb | /ɪnˈroʊl/ | đăng ký học | to officially join a course | enrol in a course; enrol on | I *enrolled* in an evening business English course. | Tôi đăng ký khóa tiếng Anh thương mại buổi tối. | Anh-Mỹ: enroll.
+attendance | noun | /əˈtendəns/ | sự tham dự, chuyên cần | being present at an event or class | attendance record; good attendance | *Attendance* at the training session is required. | Việc tham dự buổi đào tạo là bắt buộc.
+deadline | noun | /ˈdedlaɪn/ | hạn chót | a time by which something must be done | meet a deadline; miss a deadline | The *deadline* for applications is Friday. | Hạn chót nộp hồ sơ là thứ Sáu.

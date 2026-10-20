@@ -1,0 +1,877 @@
+{
+ "id": "toeic_property",
+ "order": 62,
+ "icon": "🏗️",
+ "level": "TOEIC",
+ "title": "TOEIC: Real Estate & Construction",
+ "title_vi": "TOEIC: Bất động sản & Xây dựng",
+ "description": "Thuê văn phòng, hợp đồng thuê, chủ nhà, nhà thầu, cải tạo: chủ đề hay gặp trong quảng cáo và hội thoại Part 3.",
+ "words": [
+  {
+   "id": "tpr_tenant",
+   "word": "tenant",
+   "pos": "noun",
+   "ipa": "/ˈtenənt/",
+   "level": "C1",
+   "meaning": "người thuê nhà",
+   "definition": "a person who pays rent to live or work in a place",
+   "collocations": [
+    "new tenants",
+    "tenants' rights"
+   ],
+   "examples": [
+    {
+     "en": "The new *tenants* will move in next month.",
+     "vi": "Người thuê mới sẽ chuyển vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "tpr_landlord",
+   "word": "landlord",
+   "pos": "noun",
+   "ipa": "/ˈlændlɔːrd/",
+   "level": "C1",
+   "meaning": "chủ nhà (cho thuê)",
+   "definition": "a person who rents a property to others",
+   "collocations": [
+    "contact the landlord"
+   ],
+   "examples": [
+    {
+     "en": "The *landlord* agreed to fix the heating.",
+     "vi": "Chủ nhà đồng ý sửa hệ thống sưởi."
+    }
+   ]
+  },
+  {
+   "id": "tpr_lease",
+   "word": "lease",
+   "pos": "noun",
+   "ipa": "/liːs/",
+   "level": "TOEIC",
+   "meaning": "hợp đồng thuê",
+   "definition": "a legal agreement to rent property",
+   "collocations": [
+    "sign a lease",
+    "a two-year lease"
+   ],
+   "examples": [
+    {
+     "en": "We signed a three-year *lease* on the office.",
+     "vi": "Chúng tôi ký hợp đồng thuê văn phòng ba năm."
+    }
+   ]
+  },
+  {
+   "id": "tpr_leasing",
+   "word": "leasing",
+   "pos": "noun",
+   "ipa": "/ˈliːsɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc cho thuê",
+   "definition": "renting property or equipment",
+   "collocations": [
+    "leasing office",
+    "car leasing"
+   ],
+   "examples": [
+    {
+     "en": "Contact the *leasing* office for available units.",
+     "vi": "Liên hệ văn phòng cho thuê để biết các căn còn trống."
+    }
+   ]
+  },
+  {
+   "id": "tpr_real_estate_agent",
+   "word": "real estate agent",
+   "pos": "noun",
+   "ipa": "/ˈriːəl ɪˌsteɪt ˌeɪdʒənt/",
+   "level": "TOEIC",
+   "meaning": "môi giới bất động sản",
+   "definition": "a person who helps people buy or rent property",
+   "collocations": [
+    "contact a real estate agent"
+   ],
+   "examples": [
+    {
+     "en": "The *real estate agent* showed us three apartments.",
+     "vi": "Môi giới bất động sản dẫn chúng tôi xem ba căn hộ."
+    }
+   ]
+  },
+  {
+   "id": "tpr_apartment",
+   "word": "apartment",
+   "pos": "noun",
+   "ipa": "/əˈpɑːrtmənt/",
+   "level": "A1",
+   "meaning": "căn hộ",
+   "definition": "a set of rooms for living in a building",
+   "collocations": [
+    "rent an apartment",
+    "apartment building"
+   ],
+   "examples": [
+    {
+     "en": "The *apartment* has two bedrooms and a balcony.",
+     "vi": "Căn hộ có hai phòng ngủ và một ban công."
+    }
+   ]
+  },
+  {
+   "id": "tpr_unit",
+   "word": "unit",
+   "pos": "noun",
+   "ipa": "/ˈjuːnɪt/",
+   "level": "A2",
+   "meaning": "căn (hộ, văn phòng); đơn vị",
+   "definition": "a single apartment or office; one item",
+   "collocations": [
+    "rental units",
+    "a two-bedroom unit"
+   ],
+   "examples": [
+    {
+     "en": "All *units* come with parking spaces.",
+     "vi": "Tất cả các căn đều có chỗ đỗ xe."
+    }
+   ]
+  },
+  {
+   "id": "tpr_furnished",
+   "word": "furnished",
+   "pos": "adjective",
+   "ipa": "/ˈfɜːrnɪʃt/",
+   "level": "TOEIC",
+   "meaning": "có sẵn nội thất",
+   "definition": "with furniture",
+   "collocations": [
+    "fully furnished",
+    "unfurnished"
+   ],
+   "examples": [
+    {
+     "en": "The apartment is fully *furnished*.",
+     "vi": "Căn hộ có đầy đủ nội thất."
+    }
+   ]
+  },
+  {
+   "id": "tpr_utilities",
+   "word": "utilities",
+   "pos": "noun",
+   "ipa": "/juːˈtɪlətiz/",
+   "level": "TOEIC",
+   "meaning": "các tiện ích (điện, nước, gas)",
+   "definition": "services such as electricity and water",
+   "collocations": [
+    "utilities included",
+    "pay the utilities"
+   ],
+   "examples": [
+    {
+     "en": "Rent includes *utilities*.",
+     "vi": "Tiền thuê đã bao gồm điện nước."
+    }
+   ]
+  },
+  {
+   "id": "tpr_square_meter",
+   "word": "square meter",
+   "pos": "noun",
+   "ipa": "/ˌskwer ˈmiːtər/",
+   "level": "TOEIC",
+   "meaning": "mét vuông",
+   "definition": "a unit for measuring area",
+   "collocations": [
+    "50 square meters"
+   ],
+   "examples": [
+    {
+     "en": "The office is 120 *square meters*.",
+     "vi": "Văn phòng rộng 120 mét vuông."
+    }
+   ]
+  },
+  {
+   "id": "tpr_floor_plan",
+   "word": "floor plan",
+   "pos": "noun",
+   "ipa": "/ˈflɔːr plæn/",
+   "level": "TOEIC",
+   "meaning": "sơ đồ mặt bằng",
+   "definition": "a drawing showing the layout of rooms",
+   "collocations": [
+    "see the floor plan"
+   ],
+   "examples": [
+    {
+     "en": "Please look at the *floor plan* for the new office.",
+     "vi": "Vui lòng xem sơ đồ mặt bằng văn phòng mới."
+    }
+   ]
+  },
+  {
+   "id": "tpr_layout",
+   "word": "layout",
+   "pos": "noun",
+   "ipa": "/ˈleɪaʊt/",
+   "level": "C1",
+   "meaning": "bố cục, cách bố trí",
+   "definition": "the way things are arranged",
+   "collocations": [
+    "office layout",
+    "page layout"
+   ],
+   "examples": [
+    {
+     "en": "We changed the *layout* of the office.",
+     "vi": "Chúng tôi đã thay đổi cách bố trí văn phòng."
+    }
+   ]
+  },
+  {
+   "id": "tpr_spacious",
+   "word": "spacious",
+   "pos": "adjective",
+   "ipa": "/ˈspeɪʃəs/",
+   "level": "TOEIC",
+   "meaning": "rộng rãi",
+   "definition": "having a lot of space",
+   "collocations": [
+    "a spacious room"
+   ],
+   "examples": [
+    {
+     "en": "The new office is bright and *spacious*.",
+     "vi": "Văn phòng mới sáng sủa và rộng rãi."
+    }
+   ]
+  },
+  {
+   "id": "tpr_residential",
+   "word": "residential",
+   "pos": "adjective",
+   "ipa": "/ˌrezɪˈdenʃl/",
+   "level": "C1",
+   "meaning": "thuộc khu dân cư",
+   "definition": "for people to live in",
+   "collocations": [
+    "residential area"
+   ],
+   "examples": [
+    {
+     "en": "The factory is far from *residential* areas.",
+     "vi": "Nhà máy nằm xa khu dân cư."
+    }
+   ]
+  },
+  {
+   "id": "tpr_commercial_property",
+   "word": "commercial property",
+   "pos": "noun",
+   "ipa": "/kəˌmɜːrʃl ˈprɑːpərti/",
+   "level": "TOEIC",
+   "meaning": "bất động sản thương mại",
+   "definition": "buildings used for business",
+   "collocations": [
+    "invest in commercial property"
+   ],
+   "examples": [
+    {
+     "en": "They invest mainly in *commercial property*.",
+     "vi": "Họ chủ yếu đầu tư vào bất động sản thương mại."
+    }
+   ]
+  },
+  {
+   "id": "tpr_property_manager",
+   "word": "property manager",
+   "pos": "noun",
+   "ipa": "/ˈprɑːpərti ˌmænɪdʒər/",
+   "level": "TOEIC",
+   "meaning": "quản lý tòa nhà",
+   "definition": "a person who manages a building for its owner",
+   "collocations": [
+    "contact the property manager"
+   ],
+   "examples": [
+    {
+     "en": "Report repairs to the *property manager*.",
+     "vi": "Báo việc sửa chữa cho quản lý tòa nhà."
+    }
+   ]
+  },
+  {
+   "id": "tpr_move_in",
+   "word": "move in",
+   "pos": "verb",
+   "ipa": "/ˌmuːv ˈɪn/",
+   "level": "TOEIC",
+   "meaning": "dọn vào",
+   "definition": "to start living or working in a new place",
+   "collocations": [
+    "move in next week"
+   ],
+   "examples": [
+    {
+     "en": "When can we *move in*?",
+     "vi": "Khi nào chúng tôi có thể dọn vào?"
+    }
+   ]
+  },
+  {
+   "id": "tpr_move_out",
+   "word": "move out",
+   "pos": "verb",
+   "ipa": "/ˌmuːv ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "dọn đi",
+   "definition": "to leave a home or office",
+   "collocations": [
+    "move out by Friday"
+   ],
+   "examples": [
+    {
+     "en": "Tenants must *move out* by the end of the month.",
+     "vi": "Người thuê phải dọn đi trước cuối tháng."
+    }
+   ]
+  },
+  {
+   "id": "tpr_security_deposit",
+   "word": "security deposit",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊrəti dɪˌpɑːzɪt/",
+   "level": "TOEIC",
+   "meaning": "tiền đặt cọc thuê nhà",
+   "definition": "money paid in case of damage",
+   "collocations": [
+    "return the security deposit"
+   ],
+   "examples": [
+    {
+     "en": "The *security deposit* is two months' rent.",
+     "vi": "Tiền cọc bằng hai tháng tiền thuê."
+    }
+   ]
+  },
+  {
+   "id": "tpr_contractor",
+   "word": "contractor",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntræktər/",
+   "level": "C1",
+   "meaning": "nhà thầu",
+   "definition": "a company or person who does building work",
+   "collocations": [
+    "building contractor",
+    "hire a contractor"
+   ],
+   "examples": [
+    {
+     "en": "We hired a *contractor* to repair the roof.",
+     "vi": "Chúng tôi thuê nhà thầu sửa mái."
+    }
+   ]
+  },
+  {
+   "id": "tpr_subcontractor",
+   "word": "subcontractor",
+   "pos": "noun",
+   "ipa": "/ˌsʌbˈkɑːntræktər/",
+   "level": "TOEIC",
+   "meaning": "nhà thầu phụ",
+   "definition": "a company hired by a contractor",
+   "collocations": [
+    "use subcontractors"
+   ],
+   "examples": [
+    {
+     "en": "The electrical work was done by a *subcontractor*.",
+     "vi": "Phần điện do nhà thầu phụ thực hiện."
+    }
+   ]
+  },
+  {
+   "id": "tpr_blueprint",
+   "word": "blueprint",
+   "pos": "noun",
+   "ipa": "/ˈbluːprɪnt/",
+   "level": "TOEIC",
+   "meaning": "bản thiết kế",
+   "definition": "a detailed plan for a building",
+   "collocations": [
+    "building blueprints"
+   ],
+   "examples": [
+    {
+     "en": "The architect showed us the *blueprints*.",
+     "vi": "Kiến trúc sư cho chúng tôi xem bản thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "tpr_architect",
+   "word": "architect",
+   "pos": "noun",
+   "ipa": "/ˈɑːrkɪtekt/",
+   "level": "A2",
+   "meaning": "kiến trúc sư",
+   "definition": "a person who designs buildings",
+   "collocations": [
+    "a famous architect"
+   ],
+   "examples": [
+    {
+     "en": "The building was designed by a local *architect*.",
+     "vi": "Tòa nhà do một kiến trúc sư địa phương thiết kế."
+    }
+   ]
+  },
+  {
+   "id": "tpr_architecture",
+   "word": "architecture",
+   "pos": "noun",
+   "ipa": "/ˈɑːrkɪtektʃər/",
+   "level": "A2",
+   "meaning": "kiến trúc",
+   "definition": "the design of buildings",
+   "collocations": [
+    "modern architecture"
+   ],
+   "examples": [
+    {
+     "en": "The city is famous for its French *architecture*.",
+     "vi": "Thành phố nổi tiếng với kiến trúc Pháp."
+    }
+   ]
+  },
+  {
+   "id": "tpr_building_permit",
+   "word": "building permit",
+   "pos": "noun",
+   "ipa": "/ˈbɪldɪŋ ˌpɜːrmɪt/",
+   "level": "TOEIC",
+   "meaning": "giấy phép xây dựng",
+   "definition": "official permission to build",
+   "collocations": [
+    "apply for a building permit"
+   ],
+   "examples": [
+    {
+     "en": "We are waiting for the *building permit*.",
+     "vi": "Chúng tôi đang chờ giấy phép xây dựng."
+    }
+   ]
+  },
+  {
+   "id": "tpr_construction_site",
+   "word": "construction site",
+   "pos": "noun",
+   "ipa": "/kənˈstrʌkʃn saɪt/",
+   "level": "TOEIC",
+   "meaning": "công trường",
+   "definition": "a place where a building is being built",
+   "collocations": [
+    "on the construction site"
+   ],
+   "examples": [
+    {
+     "en": "Hard hats must be worn on the *construction site*.",
+     "vi": "Phải đội mũ bảo hộ tại công trường."
+    }
+   ]
+  },
+  {
+   "id": "tpr_scaffolding",
+   "word": "scaffolding",
+   "pos": "noun",
+   "ipa": "/ˈskæfəldɪŋ/",
+   "level": "TOEIC",
+   "meaning": "giàn giáo",
+   "definition": "a structure of poles for workers to stand on",
+   "collocations": [
+    "put up scaffolding"
+   ],
+   "examples": [
+    {
+     "en": "Workers are standing on *scaffolding*.",
+     "vi": "Công nhân đang đứng trên giàn giáo."
+    }
+   ],
+   "note": "Part 1 hay gặp."
+  },
+  {
+   "id": "tpr_crane",
+   "word": "crane",
+   "pos": "noun",
+   "ipa": "/kreɪn/",
+   "level": "TOEIC",
+   "meaning": "cần cẩu",
+   "definition": "a tall machine for lifting heavy things",
+   "collocations": [
+    "construction crane"
+   ],
+   "examples": [
+    {
+     "en": "A *crane* is lifting steel beams.",
+     "vi": "Một chiếc cần cẩu đang nâng dầm thép."
+    }
+   ]
+  },
+  {
+   "id": "tpr_beam",
+   "word": "beam",
+   "pos": "noun",
+   "ipa": "/biːm/",
+   "level": "C1",
+   "meaning": "dầm (nhà); tia sáng",
+   "definition": "a long piece of wood or metal in a building; a line of light",
+   "collocations": [
+    "steel beams",
+    "a beam of light"
+   ],
+   "examples": [
+    {
+     "en": "The roof is supported by wooden *beams*.",
+     "vi": "Mái nhà được đỡ bởi các dầm gỗ."
+    }
+   ]
+  },
+  {
+   "id": "tpr_pillar",
+   "word": "pillar",
+   "pos": "noun",
+   "ipa": "/ˈpɪlər/",
+   "level": "TOEIC",
+   "meaning": "cột trụ",
+   "definition": "a tall solid column",
+   "collocations": [
+    "stone pillar"
+   ],
+   "examples": [
+    {
+     "en": "The lobby has four marble *pillars*.",
+     "vi": "Sảnh có bốn cột đá cẩm thạch."
+    }
+   ]
+  },
+  {
+   "id": "tpr_tile",
+   "word": "tile",
+   "pos": "noun",
+   "ipa": "/taɪl/",
+   "level": "TOEIC",
+   "meaning": "gạch lát, ngói",
+   "definition": "a flat square piece for covering floors or roofs",
+   "collocations": [
+    "floor tiles",
+    "roof tiles"
+   ],
+   "examples": [
+    {
+     "en": "Workers are laying *tiles* in the bathroom.",
+     "vi": "Công nhân đang lát gạch phòng tắm."
+    }
+   ]
+  },
+  {
+   "id": "tpr_plumber",
+   "word": "plumber",
+   "pos": "noun",
+   "ipa": "/ˈplʌmər/",
+   "level": "TOEIC",
+   "meaning": "thợ sửa ống nước",
+   "definition": "a person who repairs water pipes",
+   "collocations": [
+    "call a plumber"
+   ],
+   "examples": [
+    {
+     "en": "We need a *plumber* to fix the leak.",
+     "vi": "Chúng tôi cần thợ ống nước để sửa chỗ rò."
+    }
+   ],
+   "note": "Chữ b câm."
+  },
+  {
+   "id": "tpr_plumbing",
+   "word": "plumbing",
+   "pos": "noun",
+   "ipa": "/ˈplʌmɪŋ/",
+   "level": "TOEIC",
+   "meaning": "hệ thống ống nước",
+   "definition": "the water pipes in a building",
+   "collocations": [
+    "plumbing problems"
+   ],
+   "examples": [
+    {
+     "en": "The building's *plumbing* is very old.",
+     "vi": "Hệ thống ống nước của tòa nhà rất cũ."
+    }
+   ]
+  },
+  {
+   "id": "tpr_electrician",
+   "word": "electrician",
+   "pos": "noun",
+   "ipa": "/ɪˌlekˈtrɪʃn/",
+   "level": "TOEIC",
+   "meaning": "thợ điện",
+   "definition": "a person who installs and repairs electrical systems",
+   "collocations": [
+    "hire an electrician"
+   ],
+   "examples": [
+    {
+     "en": "An *electrician* will check the wiring.",
+     "vi": "Thợ điện sẽ kiểm tra hệ thống dây điện."
+    }
+   ]
+  },
+  {
+   "id": "tpr_wiring",
+   "word": "wiring",
+   "pos": "noun",
+   "ipa": "/ˈwaɪərɪŋ/",
+   "level": "TOEIC",
+   "meaning": "hệ thống dây điện",
+   "definition": "the electrical wires in a building",
+   "collocations": [
+    "faulty wiring"
+   ],
+   "examples": [
+    {
+     "en": "The fire was caused by faulty *wiring*.",
+     "vi": "Vụ cháy do dây điện bị lỗi."
+    }
+   ]
+  },
+  {
+   "id": "tpr_paint",
+   "word": "paint",
+   "pos": "verb",
+   "ipa": "/peɪnt/",
+   "level": "A1",
+   "meaning": "sơn",
+   "definition": "to cover a surface with paint",
+   "collocations": [
+    "paint the walls",
+    "freshly painted"
+   ],
+   "examples": [
+    {
+     "en": "The office walls are being *painted*.",
+     "vi": "Tường văn phòng đang được sơn."
+    }
+   ]
+  },
+  {
+   "id": "tpr_remodel",
+   "word": "remodel",
+   "pos": "verb",
+   "ipa": "/ˌriːˈmɑːdl/",
+   "level": "TOEIC",
+   "meaning": "tu sửa, cải tạo lại",
+   "definition": "to change the structure of a building",
+   "collocations": [
+    "remodel the kitchen"
+   ],
+   "examples": [
+    {
+     "en": "We plan to *remodel* the lobby next year.",
+     "vi": "Chúng tôi dự định cải tạo sảnh năm sau."
+    }
+   ]
+  },
+  {
+   "id": "tpr_expansion_project",
+   "word": "expansion project",
+   "pos": "noun",
+   "ipa": "/ɪkˈspænʃn ˌprɑːdʒekt/",
+   "level": "TOEIC",
+   "meaning": "dự án mở rộng",
+   "definition": "a plan to make a building or business bigger",
+   "collocations": [
+    "the airport expansion project"
+   ],
+   "examples": [
+    {
+     "en": "The *expansion project* will add 200 rooms.",
+     "vi": "Dự án mở rộng sẽ thêm 200 phòng."
+    }
+   ]
+  },
+  {
+   "id": "tpr_groundbreaking",
+   "word": "groundbreaking",
+   "pos": "adjective",
+   "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+   "level": "TOEIC",
+   "meaning": "động thổ; mang tính đột phá",
+   "definition": "the start of building work; very new and important",
+   "collocations": [
+    "groundbreaking ceremony",
+    "groundbreaking research"
+   ],
+   "examples": [
+    {
+     "en": "The *groundbreaking* ceremony is on Monday.",
+     "vi": "Lễ động thổ diễn ra vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "tpr_on_site",
+   "word": "on-site",
+   "pos": "adjective",
+   "ipa": "/ˌɑːn ˈsaɪt/",
+   "level": "TOEIC",
+   "meaning": "tại chỗ",
+   "definition": "at the place where work happens",
+   "collocations": [
+    "on-site parking",
+    "on-site training"
+   ],
+   "examples": [
+    {
+     "en": "The building has *on-site* parking.",
+     "vi": "Tòa nhà có chỗ đỗ xe tại chỗ."
+    }
+   ]
+  },
+  {
+   "id": "tpr_parking_lot",
+   "word": "parking lot",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrkɪŋ lɑːt/",
+   "level": "TOEIC",
+   "meaning": "bãi đỗ xe",
+   "definition": "an outdoor area for parking cars",
+   "collocations": [
+    "in the parking lot"
+   ],
+   "examples": [
+    {
+     "en": "The *parking lot* is behind the building.",
+     "vi": "Bãi đỗ xe ở phía sau tòa nhà."
+    }
+   ]
+  },
+  {
+   "id": "tpr_parking_garage",
+   "word": "parking garage",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrkɪŋ ɡəˌrɑːʒ/",
+   "level": "TOEIC",
+   "meaning": "nhà để xe nhiều tầng",
+   "definition": "a building for parking cars",
+   "collocations": [
+    "underground parking garage"
+   ],
+   "examples": [
+    {
+     "en": "The *parking garage* will be closed for repairs.",
+     "vi": "Nhà để xe sẽ đóng cửa để sửa chữa."
+    }
+   ]
+  },
+  {
+   "id": "tpr_elevator",
+   "word": "elevator",
+   "pos": "noun",
+   "ipa": "/ˈelɪveɪtər/",
+   "level": "TOEIC",
+   "meaning": "thang máy",
+   "definition": "a machine that carries people between floors",
+   "collocations": [
+    "take the elevator",
+    "elevator is out of service"
+   ],
+   "examples": [
+    {
+     "en": "Please use the stairs; the *elevator* is out of service.",
+     "vi": "Vui lòng đi cầu thang bộ, thang máy đang ngừng hoạt động."
+    }
+   ],
+   "note": "Anh-Anh: lift."
+  },
+  {
+   "id": "tpr_stairway",
+   "word": "stairway",
+   "pos": "noun",
+   "ipa": "/ˈsterweɪ/",
+   "level": "TOEIC",
+   "meaning": "cầu thang",
+   "definition": "a set of stairs",
+   "collocations": [
+    "emergency stairway"
+   ],
+   "examples": [
+    {
+     "en": "Use the *stairway* in case of fire.",
+     "vi": "Dùng cầu thang bộ khi có hỏa hoạn."
+    }
+   ]
+  },
+  {
+   "id": "tpr_balcony",
+   "word": "balcony",
+   "pos": "noun",
+   "ipa": "/ˈbælkəni/",
+   "level": "TOEIC",
+   "meaning": "ban công",
+   "definition": "a platform on the outside of a building",
+   "collocations": [
+    "a room with a balcony"
+   ],
+   "examples": [
+    {
+     "en": "Every room has a private *balcony*.",
+     "vi": "Mỗi phòng đều có ban công riêng."
+    }
+   ]
+  },
+  {
+   "id": "tpr_property_value",
+   "word": "property value",
+   "pos": "noun",
+   "ipa": "/ˈprɑːpərti ˌvæljuː/",
+   "level": "TOEIC",
+   "meaning": "giá trị bất động sản",
+   "definition": "how much a property is worth",
+   "collocations": [
+    "increase property values"
+   ],
+   "examples": [
+    {
+     "en": "The new metro line raised *property values*.",
+     "vi": "Tuyến metro mới làm tăng giá trị bất động sản."
+    }
+   ]
+  },
+  {
+   "id": "tpr_listing",
+   "word": "listing",
+   "pos": "noun",
+   "ipa": "/ˈlɪstɪŋ/",
+   "level": "C1",
+   "meaning": "tin rao (bất động sản, việc làm)",
+   "definition": "an advertisement for a property or job",
+   "collocations": [
+    "property listings",
+    "job listing"
+   ],
+   "examples": [
+    {
+     "en": "I saw the *listing* for this apartment online.",
+     "vi": "Tôi thấy tin rao căn hộ này trên mạng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

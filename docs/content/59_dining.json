@@ -1,0 +1,805 @@
+{
+ "id": "toeic_dining",
+ "order": 59,
+ "icon": "🍽️",
+ "level": "TOEIC",
+ "title": "TOEIC: Restaurants & Catering",
+ "title_vi": "TOEIC: Nhà hàng & Dịch vụ ăn uống",
+ "description": "Đặt bàn, gọi món, tiệc công ty, dịch vụ tiệc: chủ đề rất hay gặp trong Part 1 (bàn ăn), Part 3 và quảng cáo nhà hàng.",
+ "words": [
+  {
+   "id": "tdi_catering",
+   "word": "catering",
+   "pos": "noun",
+   "ipa": "/ˈkeɪtərɪŋ/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ cung cấp đồ ăn (tiệc)",
+   "definition": "providing food and drinks for events",
+   "collocations": [
+    "catering company",
+    "catering service"
+   ],
+   "examples": [
+    {
+     "en": "We hired a *catering* company for the party.",
+     "vi": "Chúng tôi thuê công ty cung cấp đồ ăn cho bữa tiệc."
+    }
+   ]
+  },
+  {
+   "id": "tdi_cater",
+   "word": "cater",
+   "pos": "verb",
+   "ipa": "/ˈkeɪtər/",
+   "level": "C1",
+   "meaning": "cung cấp đồ ăn; phục vụ (nhu cầu)",
+   "definition": "to provide food; to provide what is needed",
+   "collocations": [
+    "cater for",
+    "cater to"
+   ],
+   "examples": [
+    {
+     "en": "We can *cater* for groups of up to 200 people.",
+     "vi": "Chúng tôi có thể phục vụ đoàn tới 200 người."
+    }
+   ]
+  },
+  {
+   "id": "tdi_caterer",
+   "word": "caterer",
+   "pos": "noun",
+   "ipa": "/ˈkeɪtərər/",
+   "level": "TOEIC",
+   "meaning": "đơn vị cung cấp tiệc",
+   "definition": "a person or company providing food for events",
+   "collocations": [
+    "hire a caterer"
+   ],
+   "examples": [
+    {
+     "en": "The *caterer* will arrive at 5 p.m. to set up.",
+     "vi": "Đơn vị cung cấp tiệc sẽ đến lúc 5 giờ chiều để chuẩn bị."
+    }
+   ]
+  },
+  {
+   "id": "tdi_banquet",
+   "word": "banquet",
+   "pos": "noun",
+   "ipa": "/ˈbæŋkwɪt/",
+   "level": "TOEIC",
+   "meaning": "tiệc lớn, yến tiệc",
+   "definition": "a large formal meal",
+   "collocations": [
+    "annual banquet",
+    "banquet hall"
+   ],
+   "examples": [
+    {
+     "en": "The annual awards *banquet* is in December.",
+     "vi": "Tiệc trao giải thường niên diễn ra vào tháng Mười Hai."
+    }
+   ]
+  },
+  {
+   "id": "tdi_buffet",
+   "word": "buffet",
+   "pos": "noun",
+   "ipa": "/bəˈfeɪ/",
+   "level": "TOEIC",
+   "meaning": "tiệc tự chọn",
+   "definition": "a meal where guests serve themselves",
+   "collocations": [
+    "breakfast buffet",
+    "buffet lunch"
+   ],
+   "examples": [
+    {
+     "en": "A *buffet* lunch will be served at noon.",
+     "vi": "Bữa trưa tự chọn sẽ được phục vụ vào buổi trưa."
+    }
+   ]
+  },
+  {
+   "id": "tdi_chef",
+   "word": "chef",
+   "pos": "noun",
+   "ipa": "/ʃef/",
+   "level": "A2",
+   "meaning": "đầu bếp",
+   "definition": "a professional cook",
+   "collocations": [
+    "head chef",
+    "executive chef"
+   ],
+   "examples": [
+    {
+     "en": "Our head *chef* trained in Paris.",
+     "vi": "Bếp trưởng của chúng tôi được đào tạo tại Paris."
+    }
+   ]
+  },
+  {
+   "id": "tdi_cuisine",
+   "word": "cuisine",
+   "pos": "noun",
+   "ipa": "/kwɪˈziːn/",
+   "level": "TOEIC",
+   "meaning": "ẩm thực",
+   "definition": "a style of cooking",
+   "collocations": [
+    "Vietnamese cuisine",
+    "local cuisine"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant serves traditional Italian *cuisine*.",
+     "vi": "Nhà hàng phục vụ ẩm thực Ý truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "tdi_beverage",
+   "word": "beverage",
+   "pos": "noun",
+   "ipa": "/ˈbevərɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "đồ uống",
+   "definition": "a drink",
+   "collocations": [
+    "hot beverages",
+    "food and beverage"
+   ],
+   "examples": [
+    {
+     "en": "Food and *beverages* are not allowed in the lab.",
+     "vi": "Không được mang đồ ăn uống vào phòng thí nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "tdi_refreshments",
+   "word": "refreshments",
+   "pos": "noun",
+   "ipa": "/rɪˈfreʃmənts/",
+   "level": "TOEIC",
+   "meaning": "đồ ăn nhẹ và nước uống",
+   "definition": "light food and drinks",
+   "collocations": [
+    "light refreshments will be served"
+   ],
+   "examples": [
+    {
+     "en": "Light *refreshments* will be served after the talk.",
+     "vi": "Đồ ăn nhẹ sẽ được phục vụ sau bài nói chuyện."
+    }
+   ]
+  },
+  {
+   "id": "tdi_entr_e",
+   "word": "entrée",
+   "pos": "noun",
+   "ipa": "/ˈɑːntreɪ/",
+   "level": "TOEIC",
+   "meaning": "món chính (Anh-Mỹ)",
+   "definition": "the main dish of a meal",
+   "collocations": [
+    "choose an entrée"
+   ],
+   "examples": [
+    {
+     "en": "Each guest can choose one *entrée*.",
+     "vi": "Mỗi khách có thể chọn một món chính."
+    }
+   ]
+  },
+  {
+   "id": "tdi_side_dish",
+   "word": "side dish",
+   "pos": "noun",
+   "ipa": "/ˈsaɪd dɪʃ/",
+   "level": "TOEIC",
+   "meaning": "món ăn kèm",
+   "definition": "food served with the main dish",
+   "collocations": [
+    "a side dish of salad"
+   ],
+   "examples": [
+    {
+     "en": "The steak comes with two *side dishes*.",
+     "vi": "Bít tết kèm hai món phụ."
+    }
+   ]
+  },
+  {
+   "id": "tdi_specialty",
+   "word": "specialty",
+   "pos": "noun",
+   "ipa": "/ˈspeʃəlti/",
+   "level": "TOEIC",
+   "meaning": "món đặc sản; chuyên môn",
+   "definition": "a dish a place is known for",
+   "collocations": [
+    "house specialty",
+    "local specialty"
+   ],
+   "examples": [
+    {
+     "en": "The *specialty* of the house is grilled seafood.",
+     "vi": "Món đặc trưng của nhà hàng là hải sản nướng."
+    }
+   ]
+  },
+  {
+   "id": "tdi_special",
+   "word": "special",
+   "pos": "noun",
+   "ipa": "/ˈspeʃl/",
+   "level": "A1",
+   "meaning": "món đặc biệt (trong ngày)",
+   "definition": "a dish offered for a short time",
+   "collocations": [
+    "today's special",
+    "lunch specials"
+   ],
+   "examples": [
+    {
+     "en": "What's today's *special*?",
+     "vi": "Món đặc biệt hôm nay là gì?"
+    }
+   ]
+  },
+  {
+   "id": "tdi_set_menu",
+   "word": "set menu",
+   "pos": "noun",
+   "ipa": "/ˌset ˈmenjuː/",
+   "level": "TOEIC",
+   "meaning": "thực đơn cố định",
+   "definition": "a fixed meal at a fixed price",
+   "collocations": [
+    "a three-course set menu"
+   ],
+   "examples": [
+    {
+     "en": "The *set menu* costs $25 per person.",
+     "vi": "Thực đơn cố định giá 25 đô mỗi người."
+    }
+   ]
+  },
+  {
+   "id": "tdi_book_a_table",
+   "word": "book a table",
+   "pos": "verb",
+   "ipa": "/ˌbʊk ə ˈteɪbl/",
+   "level": "TOEIC",
+   "meaning": "đặt bàn",
+   "definition": "to reserve a table at a restaurant",
+   "collocations": [
+    "book a table for four"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to *book a table* for six at 7 p.m.",
+     "vi": "Tôi muốn đặt bàn sáu người lúc 7 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "tdi_party_of",
+   "word": "party of",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrti əv/",
+   "level": "TOEIC",
+   "meaning": "nhóm (bao nhiêu người)",
+   "definition": "a group of people",
+   "collocations": [
+    "a party of eight"
+   ],
+   "examples": [
+    {
+     "en": "We have a reservation for a *party of* ten.",
+     "vi": "Chúng tôi đặt chỗ cho nhóm mười người."
+    }
+   ]
+  },
+  {
+   "id": "tdi_dietary",
+   "word": "dietary",
+   "pos": "adjective",
+   "ipa": "/ˈdaɪəteri/",
+   "level": "TOEIC",
+   "meaning": "thuộc chế độ ăn",
+   "definition": "connected with the food you eat",
+   "collocations": [
+    "dietary requirements",
+    "dietary restrictions"
+   ],
+   "examples": [
+    {
+     "en": "Please tell us about any *dietary* requirements.",
+     "vi": "Vui lòng cho chúng tôi biết các yêu cầu về chế độ ăn."
+    }
+   ]
+  },
+  {
+   "id": "tdi_gluten_free",
+   "word": "gluten-free",
+   "pos": "adjective",
+   "ipa": "/ˌɡluːtn ˈfriː/",
+   "level": "TOEIC",
+   "meaning": "không chứa gluten",
+   "definition": "without gluten",
+   "collocations": [
+    "gluten-free options"
+   ],
+   "examples": [
+    {
+     "en": "The menu includes *gluten-free* options.",
+     "vi": "Thực đơn có các lựa chọn không gluten."
+    }
+   ]
+  },
+  {
+   "id": "tdi_vegan",
+   "word": "vegan",
+   "pos": "adjective",
+   "ipa": "/ˈviːɡən/",
+   "level": "C1",
+   "meaning": "thuần chay",
+   "definition": "without any animal products",
+   "collocations": [
+    "vegan dishes",
+    "vegan menu"
+   ],
+   "examples": [
+    {
+     "en": "Do you have any *vegan* dishes?",
+     "vi": "Nhà hàng có món thuần chay không?"
+    }
+   ]
+  },
+  {
+   "id": "tdi_serve",
+   "word": "serve",
+   "pos": "verb",
+   "ipa": "/sɜːrv/",
+   "level": "A2",
+   "meaning": "phục vụ; dọn món",
+   "definition": "to give food or drinks; to help customers",
+   "collocations": [
+    "breakfast is served",
+    "serve customers"
+   ],
+   "examples": [
+    {
+     "en": "Breakfast is *served* from 6 to 10 a.m.",
+     "vi": "Bữa sáng được phục vụ từ 6 đến 10 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tdi_server",
+   "word": "server",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrvər/",
+   "level": "TOEIC",
+   "meaning": "người phục vụ; máy chủ",
+   "definition": "a waiter or waitress; a central computer",
+   "collocations": [
+    "ask your server"
+   ],
+   "examples": [
+    {
+     "en": "Please ask your *server* about today's desserts.",
+     "vi": "Vui lòng hỏi người phục vụ về món tráng miệng hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "tdi_host_stand",
+   "word": "host stand",
+   "pos": "noun",
+   "ipa": "/ˈhoʊst stænd/",
+   "level": "TOEIC",
+   "meaning": "quầy đón khách (nhà hàng)",
+   "definition": "the place where a restaurant greets guests",
+   "collocations": [
+    "wait at the host stand"
+   ],
+   "examples": [
+    {
+     "en": "Please wait at the *host stand* to be seated.",
+     "vi": "Vui lòng chờ ở quầy đón khách để được xếp chỗ."
+    }
+   ]
+  },
+  {
+   "id": "tdi_seating",
+   "word": "seating",
+   "pos": "noun",
+   "ipa": "/ˈsiːtɪŋ/",
+   "level": "TOEIC",
+   "meaning": "chỗ ngồi",
+   "definition": "the seats in a place",
+   "collocations": [
+    "outdoor seating",
+    "seating plan"
+   ],
+   "examples": [
+    {
+     "en": "The café has outdoor *seating*.",
+     "vi": "Quán cà phê có chỗ ngồi ngoài trời."
+    }
+   ]
+  },
+  {
+   "id": "tdi_patio",
+   "word": "patio",
+   "pos": "noun",
+   "ipa": "/ˈpætioʊ/",
+   "level": "TOEIC",
+   "meaning": "hiên, sân ngoài",
+   "definition": "an outdoor area next to a building",
+   "collocations": [
+    "on the patio"
+   ],
+   "examples": [
+    {
+     "en": "We had lunch on the *patio*.",
+     "vi": "Chúng tôi ăn trưa ngoài hiên."
+    }
+   ]
+  },
+  {
+   "id": "tdi_tablecloth",
+   "word": "tablecloth",
+   "pos": "noun",
+   "ipa": "/ˈteɪblklɔːθ/",
+   "level": "TOEIC",
+   "meaning": "khăn trải bàn",
+   "definition": "a cloth covering a table",
+   "collocations": [
+    "a white tablecloth"
+   ],
+   "examples": [
+    {
+     "en": "The tables are covered with white *tablecloths*.",
+     "vi": "Các bàn được trải khăn trắng."
+    }
+   ]
+  },
+  {
+   "id": "tdi_napkin",
+   "word": "napkin",
+   "pos": "noun",
+   "ipa": "/ˈnæpkɪn/",
+   "level": "TOEIC",
+   "meaning": "khăn ăn",
+   "definition": "a piece of cloth or paper used while eating",
+   "collocations": [
+    "paper napkins"
+   ],
+   "examples": [
+    {
+     "en": "A waiter is folding *napkins*.",
+     "vi": "Một người phục vụ đang gấp khăn ăn."
+    }
+   ]
+  },
+  {
+   "id": "tdi_utensils",
+   "word": "utensils",
+   "pos": "noun",
+   "ipa": "/juːˈtenslz/",
+   "level": "TOEIC",
+   "meaning": "dụng cụ ăn uống/nấu ăn",
+   "definition": "knives, forks, spoons and kitchen tools",
+   "collocations": [
+    "kitchen utensils"
+   ],
+   "examples": [
+    {
+     "en": "Plastic *utensils* are available at the counter.",
+     "vi": "Dụng cụ ăn bằng nhựa có ở quầy."
+    }
+   ]
+  },
+  {
+   "id": "tdi_tray",
+   "word": "tray",
+   "pos": "noun",
+   "ipa": "/treɪ/",
+   "level": "TOEIC",
+   "meaning": "khay",
+   "definition": "a flat object for carrying food or drinks",
+   "collocations": [
+    "carry a tray"
+   ],
+   "examples": [
+    {
+     "en": "The waiter is carrying a *tray* of glasses.",
+     "vi": "Người phục vụ đang bưng khay ly."
+    }
+   ]
+  },
+  {
+   "id": "tdi_dine",
+   "word": "dine",
+   "pos": "verb",
+   "ipa": "/daɪn/",
+   "level": "TOEIC",
+   "meaning": "dùng bữa",
+   "definition": "to eat a meal, especially dinner",
+   "collocations": [
+    "dine out",
+    "dine in"
+   ],
+   "examples": [
+    {
+     "en": "Would you like to *dine* in or take away?",
+     "vi": "Bạn muốn dùng tại chỗ hay mang đi?"
+    }
+   ]
+  },
+  {
+   "id": "tdi_diner",
+   "word": "diner",
+   "pos": "noun",
+   "ipa": "/ˈdaɪnər/",
+   "level": "TOEIC",
+   "meaning": "thực khách; quán ăn bình dân",
+   "definition": "a person eating in a restaurant; a small cheap restaurant",
+   "collocations": [
+    "diners enjoyed"
+   ],
+   "examples": [
+    {
+     "en": "*Diners* can enjoy live music on Fridays.",
+     "vi": "Thực khách có thể thưởng thức nhạc sống vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tdi_cafe",
+   "word": "cafe",
+   "pos": "noun",
+   "ipa": "/kæˈfeɪ/",
+   "level": "A1",
+   "meaning": "quán cà phê",
+   "definition": "a small restaurant serving drinks and light meals",
+   "collocations": [
+    "a street cafe"
+   ],
+   "examples": [
+    {
+     "en": "Let's meet at the *cafe* near the office.",
+     "vi": "Gặp nhau ở quán cà phê gần văn phòng nhé."
+    }
+   ]
+  },
+  {
+   "id": "tdi_takeaway",
+   "word": "takeaway",
+   "pos": "noun",
+   "ipa": "/ˈteɪkəweɪ/",
+   "level": "TOEIC",
+   "meaning": "đồ ăn mang đi",
+   "definition": "food you buy to eat elsewhere",
+   "collocations": [
+    "order a takeaway"
+   ],
+   "examples": [
+    {
+     "en": "We ordered a *takeaway* for lunch.",
+     "vi": "Chúng tôi gọi đồ ăn mang đi cho bữa trưa."
+    }
+   ]
+  },
+  {
+   "id": "tdi_pick_up",
+   "word": "pick up",
+   "pos": "verb",
+   "ipa": "/ˌpɪk ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "lấy, đón",
+   "definition": "to collect",
+   "collocations": [
+    "pick up an order",
+    "pick someone up"
+   ],
+   "examples": [
+    {
+     "en": "You can *pick up* your order at the counter.",
+     "vi": "Bạn có thể lấy đơn tại quầy."
+    }
+   ]
+  },
+  {
+   "id": "tdi_portion_size",
+   "word": "portion size",
+   "pos": "noun",
+   "ipa": "/ˈpɔːrʃn saɪz/",
+   "level": "TOEIC",
+   "meaning": "khẩu phần",
+   "definition": "how much food is served",
+   "collocations": [
+    "large portion sizes"
+   ],
+   "examples": [
+    {
+     "en": "The *portion sizes* here are very generous.",
+     "vi": "Khẩu phần ở đây rất nhiều."
+    }
+   ]
+  },
+  {
+   "id": "tdi_grill",
+   "word": "grill",
+   "pos": "verb",
+   "ipa": "/ɡrɪl/",
+   "level": "TOEIC",
+   "meaning": "nướng (vỉ)",
+   "definition": "to cook over strong heat",
+   "collocations": [
+    "grilled fish",
+    "grill meat"
+   ],
+   "examples": [
+    {
+     "en": "The fish is *grilled* with lemon and herbs.",
+     "vi": "Cá được nướng với chanh và thảo mộc."
+    }
+   ]
+  },
+  {
+   "id": "tdi_roast",
+   "word": "roast",
+   "pos": "verb",
+   "ipa": "/roʊst/",
+   "level": "TOEIC",
+   "meaning": "quay, nướng (lò)",
+   "definition": "to cook in an oven",
+   "collocations": [
+    "roast chicken",
+    "roasted vegetables"
+   ],
+   "examples": [
+    {
+     "en": "We serve *roast* chicken on Sundays.",
+     "vi": "Chúng tôi phục vụ gà quay vào Chủ nhật."
+    }
+   ]
+  },
+  {
+   "id": "tdi_seasonal",
+   "word": "seasonal",
+   "pos": "adjective",
+   "ipa": "/ˈsiːzənl/",
+   "level": "C1",
+   "meaning": "theo mùa",
+   "definition": "available at a particular time of year",
+   "collocations": [
+    "seasonal fruit",
+    "seasonal menu"
+   ],
+   "examples": [
+    {
+     "en": "The menu changes with *seasonal* ingredients.",
+     "vi": "Thực đơn thay đổi theo nguyên liệu theo mùa."
+    }
+   ]
+  },
+  {
+   "id": "tdi_locally_sourced",
+   "word": "locally sourced",
+   "pos": "adjective",
+   "ipa": "/ˌloʊkəli ˈsɔːrst/",
+   "level": "TOEIC",
+   "meaning": "có nguồn gốc địa phương",
+   "definition": "produced nearby",
+   "collocations": [
+    "locally sourced ingredients"
+   ],
+   "examples": [
+    {
+     "en": "We use *locally sourced* vegetables.",
+     "vi": "Chúng tôi dùng rau củ có nguồn gốc địa phương."
+    }
+   ]
+  },
+  {
+   "id": "tdi_gratuity",
+   "word": "gratuity",
+   "pos": "noun",
+   "ipa": "/ɡrəˈtuːəti/",
+   "level": "TOEIC",
+   "meaning": "tiền boa (trang trọng)",
+   "definition": "money given for service",
+   "collocations": [
+    "gratuity included"
+   ],
+   "examples": [
+    {
+     "en": "A 10% *gratuity* is included for large groups.",
+     "vi": "Nhóm đông người được tính kèm 10% tiền phục vụ."
+    }
+   ]
+  },
+  {
+   "id": "tdi_split_the_bill",
+   "word": "split the bill",
+   "pos": "verb",
+   "ipa": "/ˌsplɪt ðə ˈbɪl/",
+   "level": "TOEIC",
+   "meaning": "chia hóa đơn",
+   "definition": "to divide the cost of a meal",
+   "collocations": [
+    "split the bill three ways"
+   ],
+   "examples": [
+    {
+     "en": "Shall we *split the bill*?",
+     "vi": "Chúng ta chia hóa đơn nhé?"
+    }
+   ]
+  },
+  {
+   "id": "tdi_food_court",
+   "word": "food court",
+   "pos": "noun",
+   "ipa": "/ˈfuːd kɔːrt/",
+   "level": "TOEIC",
+   "meaning": "khu ẩm thực",
+   "definition": "an area with many food stalls",
+   "collocations": [
+    "at the food court"
+   ],
+   "examples": [
+    {
+     "en": "There's a *food court* on the top floor of the mall.",
+     "vi": "Có khu ẩm thực trên tầng cao nhất của trung tâm thương mại."
+    }
+   ]
+  },
+  {
+   "id": "tdi_hygiene",
+   "word": "hygiene",
+   "pos": "noun",
+   "ipa": "/ˈhaɪdʒiːn/",
+   "level": "TOEIC",
+   "meaning": "vệ sinh",
+   "definition": "keeping things clean to stay healthy",
+   "collocations": [
+    "food hygiene",
+    "personal hygiene"
+   ],
+   "examples": [
+    {
+     "en": "Kitchen staff must follow strict *hygiene* rules.",
+     "vi": "Nhân viên bếp phải tuân thủ quy tắc vệ sinh nghiêm ngặt."
+    }
+   ]
+  },
+  {
+   "id": "tdi_banquet_manager",
+   "word": "banquet manager",
+   "pos": "noun",
+   "ipa": "/ˈbæŋkwɪt ˌmænɪdʒər/",
+   "level": "TOEIC",
+   "meaning": "quản lý tiệc",
+   "definition": "a person who manages large events in a hotel",
+   "collocations": [
+    "contact the banquet manager"
+   ],
+   "examples": [
+    {
+     "en": "The *banquet manager* will help you plan the menu.",
+     "vi": "Quản lý tiệc sẽ giúp bạn lên thực đơn."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

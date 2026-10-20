@@ -1,0 +1,973 @@
+{
+  "id": "mini-02",
+  "title": "Mini Test 02",
+  "kind": "mini",
+  "duration": 25,
+  "source": "WordFlow – đề tự soạn theo format TOEIC",
+  "parts": [
+    {
+      "part": 2,
+      "directions": "You will hear a question or statement and three responses spoken in English. They will not be printed in your test book. Select the best response to the question or statement.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "Who's in charge of ordering new uniforms?"
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "A. In the storage room."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "B. Ms. Rivera handles that."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "C. They're a little too large."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-1",
+              "n": 1,
+              "type": "p2-wh",
+              "options": [
+                "In the storage room.",
+                "Ms. Rivera handles that.",
+                "They're a little too large."
+              ],
+              "answer": 1,
+              "explain": "Who → cần một người. (A) trả lời Where, (C) liên tưởng uniforms → size.",
+              "vocab": [
+                [
+                  "be in charge of",
+                  "phụ trách"
+                ],
+                [
+                  "handle",
+                  "xử lý, lo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Why was the client meeting moved to Thursday?"
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "A. Yes, I moved it myself."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "B. At two o'clock."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "C. The client's flight was delayed."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-2",
+              "n": 2,
+              "type": "p2-wh",
+              "options": [
+                "Yes, I moved it myself.",
+                "At two o'clock.",
+                "The client's flight was delayed."
+              ],
+              "answer": 2,
+              "explain": "Why → cần lý do. (A) có Yes và lặp moved, (B) trả lời When."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Didn't you order more paper last week?"
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "A. It hasn't been delivered yet."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "B. A weekly newspaper."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "C. In alphabetical order."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-3",
+              "n": 3,
+              "type": "p2-indirect",
+              "options": [
+                "It hasn't been delivered yet.",
+                "A weekly newspaper.",
+                "In alphabetical order."
+              ],
+              "answer": 0,
+              "explain": "Câu hỏi phủ định Didn't you…? trả lời như câu thường. (A) ngầm hiểu: có đặt rồi nhưng chưa giao. (B) liên tưởng paper → newspaper, (C) lặp từ order với nghĩa khác (thứ tự)."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "Why don't we take a short break before the next session?"
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "A. Because the printer is broken."
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "B. Sure, let's meet back here in ten minutes."
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "C. It was a very long session."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-4",
+              "n": 4,
+              "type": "p2-request",
+              "options": [
+                "Because the printer is broken.",
+                "Sure, let's meet back here in ten minutes.",
+                "It was a very long session."
+              ],
+              "answer": 1,
+              "explain": "Why don't we…? là lời ĐỀ NGHỊ, không phải câu hỏi lý do → đáp án đồng ý. (A) bẫy trả lời Because.",
+              "vocab": [
+                [
+                  "Why don't we…?",
+                  "Sao chúng ta không… (đề nghị)"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Should I send the invoice by e-mail or by regular mail?"
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "A. Yes, I sent it."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "B. A regular customer."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "C. E-mail would be faster."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-5",
+              "n": 5,
+              "type": "p2-choice",
+              "options": [
+                "Yes, I sent it.",
+                "A regular customer.",
+                "E-mail would be faster."
+              ],
+              "answer": 2,
+              "explain": "Câu hỏi lựa chọn → chọn một phương án (e-mail). (B) lặp từ regular."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "The quarterly report is due tomorrow morning."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "A. I'll finish it tonight, then."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "B. It reports the news."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "C. Every three months."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-6",
+              "n": 6,
+              "type": "p2-statement",
+              "options": [
+                "I'll finish it tonight, then.",
+                "It reports the news.",
+                "Every three months."
+              ],
+              "answer": 0,
+              "explain": "Câu trần thuật nhắc hạn chót → phản ứng hợp lý: sẽ làm xong tối nay. (C) liên tưởng quarterly → three months."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "directions": "You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "Hi, I'm calling about the apartment you advertised on Elm Street. Is it still available?"
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Yes, it is. It's a two-bedroom unit on the fifth floor, and the rent includes utilities."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "That sounds great. I start a new job downtown next month, so the location would be perfect. Is there parking?"
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "There's a garage under the building, but spaces cost an extra fifty dollars a month. Would you like to come and see the apartment on Saturday morning?"
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-7",
+              "n": 7,
+              "type": "p34-topic",
+              "prompt": "What is the man calling about?",
+              "options": [
+                "A job opening",
+                "A parking ticket",
+                "A building repair",
+                "An apartment for rent"
+              ],
+              "answer": 3,
+              "explain": "\"I'm calling about the apartment you advertised\" → an apartment for rent.",
+              "evidence": "calling about the apartment you advertised"
+            },
+            {
+              "id": "m02-8",
+              "n": 8,
+              "type": "p34-detail",
+              "prompt": "What will the man do next month?",
+              "options": [
+                "Sell his car",
+                "Move abroad",
+                "Start a new job",
+                "Open a business"
+              ],
+              "answer": 2,
+              "explain": "\"I start a new job downtown next month\".",
+              "evidence": "I start a new job downtown next month"
+            },
+            {
+              "id": "m02-9",
+              "n": 9,
+              "type": "p34-detail",
+              "prompt": "According to the woman, what requires an additional payment?",
+              "options": [
+                "A parking space",
+                "Electricity",
+                "Internet access",
+                "Cleaning service"
+              ],
+              "answer": 0,
+              "explain": "\"spaces cost an extra fifty dollars a month\" → additional payment = extra. (B) bẫy: tiền điện nước (utilities) đã bao gồm trong giá thuê.",
+              "evidence": "spaces cost an extra fifty dollars a month",
+              "vocab": [
+                [
+                  "utilities",
+                  "điện, nước, gas"
+                ],
+                [
+                  "unit",
+                  "căn hộ"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "Kevin, have you finished the slides for tomorrow's sales presentation?"
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Almost. I'm just waiting for the updated sales figures from the accounting department."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "Hmm, Linda in accounting is out sick today."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Oh, I didn't know that. I'll check if someone else on her team can send me the numbers. If not, I'll use last month's data and add a note."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-10",
+              "n": 10,
+              "type": "p34-topic",
+              "prompt": "What are the speakers mainly discussing?",
+              "options": [
+                "A product launch",
+                "A presentation",
+                "A new employee",
+                "A budget meeting"
+              ],
+              "answer": 1,
+              "explain": "Cả đoạn xoay quanh slides cho buổi thuyết trình bán hàng ngày mai.",
+              "evidence": "slides for tomorrow's sales presentation"
+            },
+            {
+              "id": "m02-11",
+              "n": 11,
+              "type": "p34-implied",
+              "prompt": "Why does the woman say, \"Linda in accounting is out sick today\"?",
+              "options": [
+                "To suggest a delay",
+                "To explain why she is busy",
+                "To recommend a doctor",
+                "To ask for a schedule change"
+              ],
+              "answer": 0,
+              "explain": "Kevin đang chờ số liệu từ phòng kế toán; Linda nghỉ ốm → số liệu có thể bị chậm. Câu nói ngụ ý sẽ có trì hoãn.",
+              "evidence": "Linda in accounting is out sick today"
+            },
+            {
+              "id": "m02-12",
+              "n": 12,
+              "type": "p34-next",
+              "prompt": "What will the man most likely do next?",
+              "options": [
+                "Cancel the presentation",
+                "Visit Linda",
+                "Contact another colleague",
+                "Rewrite the report"
+              ],
+              "answer": 2,
+              "explain": "\"I'll check if someone else on her team can send me the numbers\" → contact another colleague (paraphrase).",
+              "evidence": "check if someone else on her team can send me the numbers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "directions": "You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "Attention, shoppers. Our store will be closing in thirty minutes. Please bring your final purchases to the registers at the front of the store. Also, don't forget that our annual summer sale begins tomorrow. All outdoor furniture will be forty percent off, and members of our rewards program will receive an additional ten percent discount. Thank you for shopping at Greenway Home."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-13",
+              "n": 13,
+              "type": "p34-speaker",
+              "prompt": "Where is the announcement being made?",
+              "options": [
+                "At a bank",
+                "At a furniture store",
+                "At a supermarket",
+                "At an airport"
+              ],
+              "answer": 1,
+              "explain": "\"shoppers\", \"outdoor furniture\", \"Greenway Home\" → cửa hàng nội thất/đồ gia dụng.",
+              "evidence": "All outdoor furniture"
+            },
+            {
+              "id": "m02-14",
+              "n": 14,
+              "type": "p34-detail",
+              "prompt": "What will begin tomorrow?",
+              "options": [
+                "A renovation",
+                "A training program",
+                "A store opening",
+                "A sale"
+              ],
+              "answer": 3,
+              "explain": "\"our annual summer sale begins tomorrow\".",
+              "evidence": "our annual summer sale begins tomorrow"
+            },
+            {
+              "id": "m02-15",
+              "n": 15,
+              "type": "p34-detail",
+              "prompt": "Who will receive an extra discount?",
+              "options": [
+                "Store employees",
+                "First-time customers",
+                "Rewards program members",
+                "Customers paying in cash"
+              ],
+              "answer": 2,
+              "explain": "\"members of our rewards program will receive an additional ten percent discount\" (additional = extra).",
+              "evidence": "members of our rewards program will receive an additional ten percent discount",
+              "vocab": [
+                [
+                  "register",
+                  "quầy thu ngân"
+                ],
+                [
+                  "rewards program",
+                  "chương trình tích điểm"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "directions": "A word or phrase is missing in each of the sentences below. Four answer choices are given below each sentence. Select the best answer to complete the sentence.",
+      "groups": [
+        {
+          "questions": [
+            {
+              "id": "m02-16",
+              "n": 16,
+              "type": "p5-wordform",
+              "prompt": "Mr. Chen gave a very ------- presentation on the company's expansion plans.",
+              "options": [
+                "inform",
+                "information",
+                "informatively",
+                "informative"
+              ],
+              "answer": 3,
+              "explain": "Sau very và trước danh từ presentation → tính từ informative (nhiều thông tin)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-17",
+              "n": 17,
+              "type": "p5-preposition",
+              "prompt": "The new branch will open ------- March 1 in the downtown area.",
+              "options": [
+                "on",
+                "in",
+                "at",
+                "by"
+              ],
+              "answer": 0,
+              "explain": "on + ngày cụ thể (on March 1). in + tháng/năm, at + giờ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-18",
+              "n": 18,
+              "type": "p5-tense",
+              "prompt": "Ms. Lopez ------- for the company since it was founded in 2010.",
+              "options": [
+                "works",
+                "has worked",
+                "worked",
+                "will work"
+              ],
+              "answer": 1,
+              "explain": "since + mốc quá khứ → hiện tại hoàn thành has worked."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-19",
+              "n": 19,
+              "type": "p5-conjunction",
+              "prompt": "Please contact the front desk ------- you need extra towels.",
+              "options": [
+                "so",
+                "if",
+                "but",
+                "or"
+              ],
+              "answer": 1,
+              "explain": "Nghĩa điều kiện: liên hệ lễ tân NẾU cần thêm khăn → if."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-20",
+              "n": 20,
+              "type": "p5-pronoun",
+              "prompt": "The managers decided to organize the training session -------.",
+              "options": [
+                "themselves",
+                "they",
+                "them",
+                "their"
+              ],
+              "answer": 0,
+              "explain": "Tự mình làm (không thuê ngoài) → đại từ phản thân themselves."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-21",
+              "n": 21,
+              "type": "p5-vocab",
+              "prompt": "All employees must ------- the safety training before using the new equipment.",
+              "options": [
+                "compete",
+                "compare",
+                "complete",
+                "compose"
+              ],
+              "answer": 2,
+              "explain": "complete the training = hoàn thành khóa đào tạo. Các từ còn lại có hình thức gần giống nhưng sai nghĩa."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-22",
+              "n": 22,
+              "type": "p5-passive",
+              "prompt": "The conference room ------- for the board meeting on Friday afternoon.",
+              "options": [
+                "has reserved",
+                "reserves",
+                "reserving",
+                "is reserved"
+              ],
+              "answer": 3,
+              "explain": "Phòng họp ĐƯỢC đặt → bị động is reserved."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-23",
+              "n": 23,
+              "type": "p5-relative",
+              "prompt": "The candidate ------- résumé impressed us most will be invited for a second interview.",
+              "options": [
+                "who",
+                "whom",
+                "whose",
+                "which"
+              ],
+              "answer": 2,
+              "explain": "Chỗ trống đứng trước danh từ résumé, chỉ sở hữu của candidate → whose."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-24",
+              "n": 24,
+              "type": "p5-wordform",
+              "prompt": "Customer ------- with our delivery service has increased since we hired more drivers.",
+              "options": [
+                "satisfy",
+                "satisfied",
+                "satisfying",
+                "satisfaction"
+              ],
+              "answer": 3,
+              "explain": "Cụm danh từ customer satisfaction làm chủ ngữ của has increased → danh từ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-25",
+              "n": 25,
+              "type": "p5-comparison",
+              "prompt": "This year's sales conference was the ------- attended in the company's history.",
+              "options": [
+                "well",
+                "best",
+                "better",
+                "good"
+              ],
+              "answer": 1,
+              "explain": "the + so sánh nhất: the best attended = được tham dự đông nhất."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-26",
+              "n": 26,
+              "type": "p5-vocab",
+              "prompt": "Please keep your receipt as ------- of purchase.",
+              "options": [
+                "proof",
+                "prove",
+                "proven",
+                "proving"
+              ],
+              "answer": 0,
+              "explain": "proof of purchase = bằng chứng mua hàng (danh từ, cụm cố định)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-27",
+              "n": 27,
+              "type": "p5-conjunction",
+              "prompt": "------- the bad weather, the outdoor festival was not canceled.",
+              "options": [
+                "Although",
+                "Because",
+                "Despite",
+                "Unless"
+              ],
+              "answer": 2,
+              "explain": "Sau chỗ trống là cụm danh từ (the bad weather), nghĩa tương phản → Despite. Although cần mệnh đề."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-28",
+              "n": 28,
+              "type": "p5-preposition",
+              "prompt": "The shipment is expected to arrive ------- the next two days.",
+              "options": [
+                "within",
+                "among",
+                "between",
+                "along"
+              ],
+              "answer": 0,
+              "explain": "within + khoảng thời gian = trong vòng."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-29",
+              "n": 29,
+              "type": "p5-vocab",
+              "prompt": "The hotel offers a ------- breakfast to all guests.",
+              "options": [
+                "complementary",
+                "competitive",
+                "comparative",
+                "complimentary"
+              ],
+              "answer": 3,
+              "explain": "complimentary = miễn phí (tặng). complementary = bổ sung cho nhau — cặp từ hay bị nhầm."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-30",
+              "n": 30,
+              "type": "p5-wordform",
+              "prompt": "The new software allows staff to work more ------- than before.",
+              "options": [
+                "efficient",
+                "efficiently",
+                "efficiency",
+                "efficiencies"
+              ],
+              "answer": 1,
+              "explain": "Bổ nghĩa cho động từ work, đi với more … than → trạng từ efficiently."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m02-31",
+              "n": 31,
+              "type": "p5-tense",
+              "prompt": "By the end of next month, the construction team ------- the new parking garage.",
+              "options": [
+                "completes",
+                "completed",
+                "will have completed",
+                "has completed"
+              ],
+              "answer": 2,
+              "explain": "By + mốc tương lai → tương lai hoàn thành will have completed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "directions": "Read the text that follows. A word, phrase, or sentence is missing in parts of the text. Select the best answer to complete the text.",
+      "groups": [
+        {
+          "passages": [
+            {
+              "kind": "email",
+              "head": "To: All Employees\nFrom: Human Resources\nSubject: Updated vacation policy\nDate: October 2",
+              "text": "Dear Employees,\n\nStarting November 1, all vacation requests must be {{32}} through the new online system. Paper forms will no longer be accepted. {{33}} \n\nPlease note that requests should be made at least two weeks in advance. Managers will respond {{34}} five business days. If you have any questions about the new system, please contact the HR department at extension 210.\n\nThank you for your {{35}}.\n\nHuman Resources"
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-32",
+              "n": 32,
+              "type": "p5-passive",
+              "options": [
+                "submit",
+                "submitting",
+                "submits",
+                "submitted"
+              ],
+              "answer": 3,
+              "explain": "must be + V3 (bị động): yêu cầu nghỉ phép PHẢI ĐƯỢC nộp → submitted."
+            },
+            {
+              "id": "m02-33",
+              "n": 33,
+              "type": "p6-sentence",
+              "options": [
+                "Instructions for using the system are attached to this e-mail.",
+                "The company was founded more than thirty years ago.",
+                "Paper is one of our largest office expenses.",
+                "Many employees prefer to travel in the summer."
+              ],
+              "answer": 0,
+              "explain": "Câu trước nói về hệ thống mới và bỏ mẫu giấy → câu tiếp hợp lý: hướng dẫn dùng hệ thống được đính kèm. Câu (C) nhắc paper nhưng lạc ý."
+            },
+            {
+              "id": "m02-34",
+              "n": 34,
+              "type": "p5-preposition",
+              "options": [
+                "during",
+                "within",
+                "since",
+                "until"
+              ],
+              "answer": 1,
+              "explain": "within five business days = trong vòng năm ngày làm việc."
+            },
+            {
+              "id": "m02-35",
+              "n": 35,
+              "type": "p5-vocab",
+              "options": [
+                "cooperation",
+                "operation",
+                "corporation",
+                "competition"
+              ],
+              "answer": 0,
+              "explain": "Câu kết thư quen thuộc: Thank you for your cooperation = Cảm ơn sự hợp tác của bạn.",
+              "vocab": [
+                [
+                  "in advance",
+                  "trước"
+                ],
+                [
+                  "extension",
+                  "số máy lẻ"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "directions": "In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question.",
+      "groups": [
+        {
+          "passages": [
+            {
+              "kind": "notice",
+              "title": "Riverside Public Library – Notice to Visitors",
+              "text": "The Riverside Public Library will be closed from July 8 to July 19 while new heating and cooling systems are installed. During this time, book returns can be made at the drop box next to the main entrance. Due dates for all borrowed items will be extended until July 22, so no late fees will be charged.\n\nThe library's online services, including e-books and audiobooks, will remain available throughout the closure. Visitors who need to use a computer may visit the Eastside Community Center, which has agreed to provide free computer access during the library's normal hours.\n\nWe apologize for any inconvenience and look forward to welcoming you back."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-36",
+              "n": 36,
+              "type": "p7-main",
+              "prompt": "Why will the library be closed?",
+              "options": [
+                "To renovate the reading room",
+                "To reorganize the book collection",
+                "To celebrate a holiday",
+                "To install new equipment"
+              ],
+              "answer": 3,
+              "explain": "\"while new heating and cooling systems are installed\" → install new equipment (paraphrase).",
+              "evidence": "while new heating and cooling systems are installed"
+            },
+            {
+              "id": "m02-37",
+              "n": 37,
+              "type": "p7-detail",
+              "prompt": "What is indicated about borrowed items?",
+              "options": [
+                "They must be returned before July 8.",
+                "They can only be returned at the Eastside Community Center.",
+                "They can be returned without a late fee until July 22.",
+                "They will be sent to visitors by mail."
+              ],
+              "answer": 2,
+              "explain": "\"Due dates … will be extended until July 22, so no late fees will be charged\".",
+              "evidence": "Due dates for all borrowed items will be extended until July 22, so no late fees will be charged"
+            },
+            {
+              "id": "m02-38",
+              "n": 38,
+              "type": "p7-inference",
+              "prompt": "What is suggested about the Eastside Community Center?",
+              "options": [
+                "It is closed in July.",
+                "It will offer a service usually available at the library.",
+                "It sells e-books.",
+                "It is next to the library's main entrance."
+              ],
+              "answer": 1,
+              "explain": "Trung tâm cho dùng máy tính miễn phí trong giờ mở cửa của thư viện → cung cấp dịch vụ vốn có ở thư viện.",
+              "evidence": "has agreed to provide free computer access",
+              "vocab": [
+                [
+                  "drop box",
+                  "thùng trả sách"
+                ],
+                [
+                  "closure",
+                  "thời gian đóng cửa"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "passages": [
+            {
+              "kind": "chat",
+              "text": "Paula Kim [2:05 P.M.]: Hi Marcus, the projector in Room B isn't turning on.\nMarcus Lee [2:06 P.M.]: Did you check the power switch on the wall? It's sometimes turned off by the cleaning staff.\nPaula Kim [2:08 P.M.]: That was it! Thanks.\nMarcus Lee [2:08 P.M.]: No problem. Let me know if you need anything else before your clients arrive."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m02-39",
+              "n": 39,
+              "type": "p7-inference",
+              "prompt": "Who most likely is Mr. Lee?",
+              "options": [
+                "A cleaning staff member",
+                "A client",
+                "A hotel receptionist",
+                "A technical support worker"
+              ],
+              "answer": 3,
+              "explain": "Paula hỏi về sự cố máy chiếu và Marcus hướng dẫn cách khắc phục → nhiều khả năng là nhân viên hỗ trợ kỹ thuật."
+            },
+            {
+              "id": "m02-40",
+              "n": 40,
+              "type": "p7-intent",
+              "prompt": "At 2:08 P.M., what does Ms. Kim mean when she writes, \"That was it\"?",
+              "options": [
+                "She has found the cause of the problem.",
+                "She has finished her meeting.",
+                "She needs a different room.",
+                "She wants to cancel her request."
+              ],
+              "answer": 0,
+              "explain": "Công tắc bị tắt chính là nguyên nhân; \"That was it\" = đúng là do vậy → đã tìm ra nguyên nhân.",
+              "evidence": "That was it!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

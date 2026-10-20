@@ -7,7 +7,8 @@ Item {
     id: page
 
     property string topicId: ""
-    readonly property var topics: ContentStore.topics
+    // Chỉ các chủ đề có mẫu câu (các chủ đề từ vựng mở rộng không có phần này).
+    readonly property var topics: ContentStore.topics.filter(t => ContentStore.phrases(t.id).length > 0)
     readonly property bool pushed: StackView.view ? StackView.view.depth > 1 : false
 
     Component.onCompleted: if (!topicId && topics.length > 0) topicId = topics[0].id

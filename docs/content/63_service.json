@@ -1,0 +1,669 @@
+{
+ "id": "toeic_service",
+ "order": 63,
+ "icon": "☎️",
+ "level": "TOEIC",
+ "title": "TOEIC: Customer Service & Phone Calls",
+ "title_vi": "TOEIC: Chăm sóc khách hàng & Điện thoại",
+ "description": "Tổng đài, để lại lời nhắn, xử lý khiếu nại, xin lỗi, hỗ trợ: cụm từ dùng liên tục trong Part 2–4.",
+ "words": [
+  {
+   "id": "tsv_customer_service",
+   "word": "customer service",
+   "pos": "noun",
+   "ipa": "/ˌkʌstəmər ˈsɜːrvɪs/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ khách hàng",
+   "definition": "the help a company gives its customers",
+   "collocations": [
+    "customer service representative"
+   ],
+   "examples": [
+    {
+     "en": "Please contact *customer service* for help with your order.",
+     "vi": "Vui lòng liên hệ chăm sóc khách hàng để được hỗ trợ đơn hàng."
+    }
+   ]
+  },
+  {
+   "id": "tsv_hotline",
+   "word": "hotline",
+   "pos": "noun",
+   "ipa": "/ˈhɑːtlaɪn/",
+   "level": "TOEIC",
+   "meaning": "đường dây nóng",
+   "definition": "a phone number for quick help",
+   "collocations": [
+    "customer hotline",
+    "call the hotline"
+   ],
+   "examples": [
+    {
+     "en": "Call our 24-hour *hotline* for support.",
+     "vi": "Gọi đường dây nóng 24/24 để được hỗ trợ."
+    }
+   ]
+  },
+  {
+   "id": "tsv_toll_free",
+   "word": "toll-free",
+   "pos": "adjective",
+   "ipa": "/ˌtoʊl ˈfriː/",
+   "level": "TOEIC",
+   "meaning": "miễn phí cuộc gọi",
+   "definition": "free to call",
+   "collocations": [
+    "toll-free number"
+   ],
+   "examples": [
+    {
+     "en": "Call our *toll-free* number: 1800 1234.",
+     "vi": "Gọi số miễn phí của chúng tôi: 1800 1234."
+    }
+   ]
+  },
+  {
+   "id": "tsv_call_center",
+   "word": "call center",
+   "pos": "noun",
+   "ipa": "/ˈkɔːl ˌsentər/",
+   "level": "TOEIC",
+   "meaning": "tổng đài",
+   "definition": "an office where staff answer phone calls",
+   "collocations": [
+    "work in a call center"
+   ],
+   "examples": [
+    {
+     "en": "The *call center* is open from 8 a.m. to 8 p.m.",
+     "vi": "Tổng đài mở cửa từ 8 giờ sáng đến 8 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "tsv_put_through",
+   "word": "put through",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˈθruː/",
+   "level": "TOEIC",
+   "meaning": "nối máy",
+   "definition": "to connect a phone call",
+   "collocations": [
+    "put someone through to"
+   ],
+   "examples": [
+    {
+     "en": "The receptionist *put through* my call to the sales team.",
+     "vi": "Lễ tân đã nối máy tôi tới phòng kinh doanh."
+    }
+   ],
+   "note": "\"I'll put you through\" = Tôi sẽ nối máy cho bạn."
+  },
+  {
+   "id": "tsv_leave_a_message",
+   "word": "leave a message",
+   "pos": "verb",
+   "ipa": "/ˌliːv ə ˈmesɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "để lại lời nhắn",
+   "definition": "to record a message for someone",
+   "collocations": [
+    "leave a message after the tone"
+   ],
+   "examples": [
+    {
+     "en": "Would you like to *leave a message*?",
+     "vi": "Bạn có muốn để lại lời nhắn không?"
+    }
+   ]
+  },
+  {
+   "id": "tsv_take_a_message",
+   "word": "take a message",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˈmesɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "ghi lại lời nhắn",
+   "definition": "to write down a message for someone",
+   "collocations": [
+    "can I take a message?"
+   ],
+   "examples": [
+    {
+     "en": "She's in a meeting. Can I *take a message*?",
+     "vi": "Cô ấy đang họp. Tôi ghi lại lời nhắn nhé?"
+    }
+   ]
+  },
+  {
+   "id": "tsv_voicemail",
+   "word": "voicemail",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪsmeɪl/",
+   "level": "TOEIC",
+   "meaning": "hộp thư thoại",
+   "definition": "a system for recording phone messages",
+   "collocations": [
+    "leave a voicemail",
+    "check voicemail"
+   ],
+   "examples": [
+    {
+     "en": "I left a *voicemail* but nobody called back.",
+     "vi": "Tôi đã để lại lời nhắn thoại nhưng không ai gọi lại."
+    }
+   ]
+  },
+  {
+   "id": "tsv_call_back",
+   "word": "call back",
+   "pos": "verb",
+   "ipa": "/ˌkɔːl ˈbæk/",
+   "level": "TOEIC",
+   "meaning": "gọi lại",
+   "definition": "to phone someone again",
+   "collocations": [
+    "call back later",
+    "call you back"
+   ],
+   "examples": [
+    {
+     "en": "Please *call back* after 2 p.m.",
+     "vi": "Vui lòng gọi lại sau 2 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tsv_get_back_to",
+   "word": "get back to",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈbæk tə/",
+   "level": "TOEIC",
+   "meaning": "phản hồi lại",
+   "definition": "to reply to someone later",
+   "collocations": [
+    "get back to you"
+   ],
+   "examples": [
+    {
+     "en": "I'll *get back to* you by tomorrow.",
+     "vi": "Tôi sẽ phản hồi bạn trước ngày mai."
+    }
+   ]
+  },
+  {
+   "id": "tsv_follow_up",
+   "word": "follow up",
+   "pos": "verb",
+   "ipa": "/ˌfɑːloʊ ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "theo dõi, liên hệ tiếp",
+   "definition": "to contact someone again about something",
+   "collocations": [
+    "follow up on",
+    "follow-up call"
+   ],
+   "examples": [
+    {
+     "en": "I'm calling to *follow up* on my order.",
+     "vi": "Tôi gọi để hỏi tiếp về đơn hàng của mình."
+    }
+   ]
+  },
+  {
+   "id": "tsv_inconvenience",
+   "word": "inconvenience",
+   "pos": "noun",
+   "ipa": "/ˌɪnkənˈviːniəns/",
+   "level": "TOEIC",
+   "meaning": "sự bất tiện",
+   "definition": "trouble or difficulty",
+   "collocations": [
+    "apologize for the inconvenience"
+   ],
+   "examples": [
+    {
+     "en": "We apologize for any *inconvenience*.",
+     "vi": "Chúng tôi xin lỗi vì mọi bất tiện."
+    }
+   ]
+  },
+  {
+   "id": "tsv_resolve_an_issue",
+   "word": "resolve an issue",
+   "pos": "verb",
+   "ipa": "/rɪˌzɑːlv ən ˈɪʃuː/",
+   "level": "TOEIC",
+   "meaning": "giải quyết vấn đề",
+   "definition": "to find a solution",
+   "collocations": [
+    "resolve the issue quickly"
+   ],
+   "examples": [
+    {
+     "en": "Our team will *resolve the issue* within 24 hours.",
+     "vi": "Đội ngũ của chúng tôi sẽ giải quyết vấn đề trong 24 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tsv_troubleshoot",
+   "word": "troubleshoot",
+   "pos": "verb",
+   "ipa": "/ˈtrʌblʃuːt/",
+   "level": "TOEIC",
+   "meaning": "khắc phục sự cố",
+   "definition": "to find and fix problems",
+   "collocations": [
+    "troubleshoot a problem"
+   ],
+   "examples": [
+    {
+     "en": "The technician *troubleshot* the printer.",
+     "vi": "Kỹ thuật viên đã khắc phục sự cố máy in."
+    }
+   ]
+  },
+  {
+   "id": "tsv_courteous",
+   "word": "courteous",
+   "pos": "adjective",
+   "ipa": "/ˈkɜːrtiəs/",
+   "level": "TOEIC",
+   "meaning": "lịch sự, nhã nhặn",
+   "definition": "polite and respectful",
+   "collocations": [
+    "courteous staff"
+   ],
+   "examples": [
+    {
+     "en": "The staff were *courteous* and helpful.",
+     "vi": "Nhân viên lịch sự và nhiệt tình."
+    }
+   ]
+  },
+  {
+   "id": "tsv_attentive",
+   "word": "attentive",
+   "pos": "adjective",
+   "ipa": "/əˈtentɪv/",
+   "level": "TOEIC",
+   "meaning": "chu đáo",
+   "definition": "paying careful attention",
+   "collocations": [
+    "attentive service"
+   ],
+   "examples": [
+    {
+     "en": "The waiters were very *attentive*.",
+     "vi": "Những người phục vụ rất chu đáo."
+    }
+   ]
+  },
+  {
+   "id": "tsv_responsive",
+   "word": "responsive",
+   "pos": "adjective",
+   "ipa": "/rɪˈspɑːnsɪv/",
+   "level": "TOEIC",
+   "meaning": "phản hồi nhanh",
+   "definition": "reacting quickly",
+   "collocations": [
+    "responsive to customer needs"
+   ],
+   "examples": [
+    {
+     "en": "The support team is very *responsive*.",
+     "vi": "Đội hỗ trợ phản hồi rất nhanh."
+    }
+   ]
+  },
+  {
+   "id": "tsv_prompt_service",
+   "word": "prompt service",
+   "pos": "noun",
+   "ipa": "/ˌprɑːmpt ˈsɜːrvɪs/",
+   "level": "TOEIC",
+   "meaning": "dịch vụ nhanh chóng",
+   "definition": "quick service",
+   "collocations": [
+    "thank you for the prompt service"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for the *prompt service*.",
+     "vi": "Cảm ơn dịch vụ nhanh chóng."
+    }
+   ]
+  },
+  {
+   "id": "tsv_satisfaction_survey",
+   "word": "satisfaction survey",
+   "pos": "noun",
+   "ipa": "/ˌsætɪsˈfækʃn ˌsɜːrveɪ/",
+   "level": "TOEIC",
+   "meaning": "khảo sát mức độ hài lòng",
+   "definition": "questions about how happy customers are",
+   "collocations": [
+    "complete a satisfaction survey"
+   ],
+   "examples": [
+    {
+     "en": "Please take a moment to complete our *satisfaction survey*.",
+     "vi": "Vui lòng dành chút thời gian làm khảo sát mức độ hài lòng."
+    }
+   ]
+  },
+  {
+   "id": "tsv_valued_customer",
+   "word": "valued customer",
+   "pos": "noun",
+   "ipa": "/ˌvæljuːd ˈkʌstəmər/",
+   "level": "TOEIC",
+   "meaning": "khách hàng quý giá",
+   "definition": "a customer the company cares about",
+   "collocations": [
+    "dear valued customer"
+   ],
+   "examples": [
+    {
+     "en": "As a *valued customer*, you will receive 10% off.",
+     "vi": "Là khách hàng thân thiết, bạn sẽ được giảm 10%."
+    }
+   ]
+  },
+  {
+   "id": "tsv_accommodate_a_request",
+   "word": "accommodate a request",
+   "pos": "verb",
+   "ipa": "/əˌkɑːmədeɪt ə rɪˈkwest/",
+   "level": "TOEIC",
+   "meaning": "đáp ứng yêu cầu",
+   "definition": "to do what someone asks",
+   "collocations": [
+    "we are happy to accommodate your request"
+   ],
+   "examples": [
+    {
+     "en": "We'll do our best to *accommodate* your request.",
+     "vi": "Chúng tôi sẽ cố gắng hết sức đáp ứng yêu cầu của bạn."
+    }
+   ],
+   "note": "Câu ví dụ trên dùng động từ accommodate."
+  },
+  {
+   "id": "tsv_escalate",
+   "word": "escalate",
+   "pos": "verb",
+   "ipa": "/ˈeskəleɪt/",
+   "level": "C1",
+   "meaning": "chuyển lên cấp cao hơn; leo thang",
+   "definition": "to pass a problem to someone more senior; to become worse",
+   "collocations": [
+    "escalate a complaint"
+   ],
+   "examples": [
+    {
+     "en": "If the problem continues, I'll *escalate* it to my manager.",
+     "vi": "Nếu sự cố tiếp diễn, tôi sẽ báo lên quản lý."
+    }
+   ]
+  },
+  {
+   "id": "tsv_compensate",
+   "word": "compensate",
+   "pos": "verb",
+   "ipa": "/ˈkɑːmpenseɪt/",
+   "level": "C1",
+   "meaning": "bồi thường",
+   "definition": "to pay someone for a loss or problem",
+   "collocations": [
+    "compensate for"
+   ],
+   "examples": [
+    {
+     "en": "We will *compensate* you for the damaged goods.",
+     "vi": "Chúng tôi sẽ bồi thường cho hàng bị hỏng."
+    }
+   ]
+  },
+  {
+   "id": "tsv_goodwill",
+   "word": "goodwill",
+   "pos": "noun",
+   "ipa": "/ˌɡʊdˈwɪl/",
+   "level": "TOEIC",
+   "meaning": "thiện chí",
+   "definition": "friendly feelings",
+   "collocations": [
+    "as a gesture of goodwill"
+   ],
+   "examples": [
+    {
+     "en": "As a gesture of *goodwill*, we are offering a free meal.",
+     "vi": "Để thể hiện thiện chí, chúng tôi tặng một bữa ăn miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tsv_reference_number",
+   "word": "reference number",
+   "pos": "noun",
+   "ipa": "/ˈrefrəns ˌnʌmbər/",
+   "level": "TOEIC",
+   "meaning": "mã tham chiếu",
+   "definition": "a number used to identify a case or order",
+   "collocations": [
+    "quote your reference number"
+   ],
+   "examples": [
+    {
+     "en": "Please have your *reference number* ready.",
+     "vi": "Vui lòng chuẩn bị sẵn mã tham chiếu."
+    }
+   ]
+  },
+  {
+   "id": "tsv_account_number",
+   "word": "account number",
+   "pos": "noun",
+   "ipa": "/əˈkaʊnt ˌnʌmbər/",
+   "level": "TOEIC",
+   "meaning": "số tài khoản",
+   "definition": "the number of your account",
+   "collocations": [
+    "enter your account number"
+   ],
+   "examples": [
+    {
+     "en": "Could I have your *account number*, please?",
+     "vi": "Cho tôi xin số tài khoản của bạn."
+    }
+   ]
+  },
+  {
+   "id": "tsv_verify",
+   "word": "verify",
+   "pos": "verb",
+   "ipa": "/ˈverɪfaɪ/",
+   "level": "C1",
+   "meaning": "xác minh",
+   "definition": "to check that something is true",
+   "collocations": [
+    "verify your identity",
+    "verify the details"
+   ],
+   "examples": [
+    {
+     "en": "We need to *verify* your identity first.",
+     "vi": "Chúng tôi cần xác minh danh tính của bạn trước."
+    }
+   ]
+  },
+  {
+   "id": "tsv_look_into",
+   "word": "look into",
+   "pos": "verb",
+   "ipa": "/ˌlʊk ˈɪntuː/",
+   "level": "TOEIC",
+   "meaning": "xem xét, điều tra",
+   "definition": "to examine a problem",
+   "collocations": [
+    "look into the matter"
+   ],
+   "examples": [
+    {
+     "en": "I'll *look into* it and call you back.",
+     "vi": "Tôi sẽ xem xét và gọi lại cho bạn."
+    }
+   ]
+  },
+  {
+   "id": "tsv_take_care_of",
+   "word": "take care of",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈker əv/",
+   "level": "TOEIC",
+   "meaning": "lo liệu, xử lý",
+   "definition": "to deal with",
+   "collocations": [
+    "I'll take care of it"
+   ],
+   "examples": [
+    {
+     "en": "Don't worry, I'll *take care of* it.",
+     "vi": "Đừng lo, tôi sẽ lo việc đó."
+    }
+   ]
+  },
+  {
+   "id": "tsv_sort_out",
+   "word": "sort out",
+   "pos": "verb",
+   "ipa": "/ˌsɔːrt ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "giải quyết",
+   "definition": "to deal with a problem",
+   "collocations": [
+    "sort out a problem"
+   ],
+   "examples": [
+    {
+     "en": "The IT team *sorted out* the problem quickly.",
+     "vi": "Đội IT đã giải quyết vấn đề nhanh chóng."
+    }
+   ]
+  },
+  {
+   "id": "tsv_in_person",
+   "word": "in person",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈpɜːrsn/",
+   "level": "TOEIC",
+   "meaning": "trực tiếp",
+   "definition": "physically present",
+   "collocations": [
+    "apply in person",
+    "meet in person"
+   ],
+   "examples": [
+    {
+     "en": "You must collect the package *in person*.",
+     "vi": "Bạn phải đến lấy gói hàng trực tiếp."
+    }
+   ]
+  },
+  {
+   "id": "tsv_walk_in",
+   "word": "walk-in",
+   "pos": "adjective",
+   "ipa": "/ˈwɔːk ɪn/",
+   "level": "TOEIC",
+   "meaning": "không cần hẹn trước",
+   "definition": "without an appointment",
+   "collocations": [
+    "walk-in customers",
+    "walk-ins welcome"
+   ],
+   "examples": [
+    {
+     "en": "*Walk-in* customers are welcome.",
+     "vi": "Chào đón khách không cần hẹn trước."
+    }
+   ]
+  },
+  {
+   "id": "tsv_faq",
+   "word": "FAQ",
+   "pos": "noun",
+   "ipa": "/ˌef eɪ ˈkjuː/",
+   "level": "TOEIC",
+   "meaning": "câu hỏi thường gặp",
+   "definition": "frequently asked questions",
+   "collocations": [
+    "check the FAQ"
+   ],
+   "examples": [
+    {
+     "en": "You may find the answer in our *FAQ* section.",
+     "vi": "Bạn có thể tìm câu trả lời ở mục câu hỏi thường gặp."
+    }
+   ]
+  },
+  {
+   "id": "tsv_live_chat",
+   "word": "live chat",
+   "pos": "noun",
+   "ipa": "/ˌlaɪv ˈtʃæt/",
+   "level": "TOEIC",
+   "meaning": "trò chuyện trực tuyến",
+   "definition": "an online chat with a real person",
+   "collocations": [
+    "use live chat"
+   ],
+   "examples": [
+    {
+     "en": "Click here to start a *live chat* with an agent.",
+     "vi": "Nhấp vào đây để trò chuyện trực tuyến với nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "tsv_helpdesk",
+   "word": "helpdesk",
+   "pos": "noun",
+   "ipa": "/ˈhelpdesk/",
+   "level": "TOEIC",
+   "meaning": "bộ phận hỗ trợ",
+   "definition": "a service that helps users with problems",
+   "collocations": [
+    "IT helpdesk"
+   ],
+   "examples": [
+    {
+     "en": "Contact the *helpdesk* if you can't log in.",
+     "vi": "Liên hệ bộ phận hỗ trợ nếu không đăng nhập được."
+    }
+   ]
+  },
+  {
+   "id": "tsv_ticket",
+   "word": "ticket",
+   "pos": "noun",
+   "ipa": "/ˈtɪkɪt/",
+   "level": "A1",
+   "meaning": "phiếu yêu cầu hỗ trợ",
+   "definition": "a record of a customer's problem",
+   "collocations": [
+    "open a support ticket"
+   ],
+   "examples": [
+    {
+     "en": "Please open a support *ticket* on our website.",
+     "vi": "Vui lòng tạo phiếu hỗ trợ trên website của chúng tôi."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

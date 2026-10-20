@@ -1,0 +1,54 @@
+#id: toeic_property
+#prefix: tpr
+#order: 62
+#icon: 🏗️
+#title: TOEIC: Real Estate & Construction
+#title_vi: TOEIC: Bất động sản & Xây dựng
+#desc: Thuê văn phòng, hợp đồng thuê, chủ nhà, nhà thầu, cải tạo: chủ đề hay gặp trong quảng cáo và hội thoại Part 3.
+tenant | noun | /ˈtenənt/ | người thuê nhà | a person who pays rent to live or work in a place | new tenants; tenants' rights | The new *tenants* will move in next month. | Người thuê mới sẽ chuyển vào tháng tới.
+landlord | noun | /ˈlændlɔːrd/ | chủ nhà (cho thuê) | a person who rents a property to others | contact the landlord | The *landlord* agreed to fix the heating. | Chủ nhà đồng ý sửa hệ thống sưởi.
+lease | noun | /liːs/ | hợp đồng thuê | a legal agreement to rent property | sign a lease; a two-year lease | We signed a three-year *lease* on the office. | Chúng tôi ký hợp đồng thuê văn phòng ba năm.
+leasing | noun | /ˈliːsɪŋ/ | việc cho thuê | renting property or equipment | leasing office; car leasing | Contact the *leasing* office for available units. | Liên hệ văn phòng cho thuê để biết các căn còn trống.
+real estate agent | noun | /ˈriːəl ɪˌsteɪt ˌeɪdʒənt/ | môi giới bất động sản | a person who helps people buy or rent property | contact a real estate agent | The *real estate agent* showed us three apartments. | Môi giới bất động sản dẫn chúng tôi xem ba căn hộ.
+apartment | noun | /əˈpɑːrtmənt/ | căn hộ | a set of rooms for living in a building | rent an apartment; apartment building | The *apartment* has two bedrooms and a balcony. | Căn hộ có hai phòng ngủ và một ban công.
+unit | noun | /ˈjuːnɪt/ | căn (hộ, văn phòng); đơn vị | a single apartment or office; one item | rental units; a two-bedroom unit | All *units* come with parking spaces. | Tất cả các căn đều có chỗ đỗ xe.
+furnished | adjective | /ˈfɜːrnɪʃt/ | có sẵn nội thất | with furniture | fully furnished; unfurnished | The apartment is fully *furnished*. | Căn hộ có đầy đủ nội thất.
+utilities | noun | /juːˈtɪlətiz/ | các tiện ích (điện, nước, gas) | services such as electricity and water | utilities included; pay the utilities | Rent includes *utilities*. | Tiền thuê đã bao gồm điện nước.
+square meter | noun | /ˌskwer ˈmiːtər/ | mét vuông | a unit for measuring area | 50 square meters | The office is 120 *square meters*. | Văn phòng rộng 120 mét vuông.
+floor plan | noun | /ˈflɔːr plæn/ | sơ đồ mặt bằng | a drawing showing the layout of rooms | see the floor plan | Please look at the *floor plan* for the new office. | Vui lòng xem sơ đồ mặt bằng văn phòng mới.
+layout | noun | /ˈleɪaʊt/ | bố cục, cách bố trí | the way things are arranged | office layout; page layout | We changed the *layout* of the office. | Chúng tôi đã thay đổi cách bố trí văn phòng.
+spacious | adjective | /ˈspeɪʃəs/ | rộng rãi | having a lot of space | a spacious room | The new office is bright and *spacious*. | Văn phòng mới sáng sủa và rộng rãi.
+residential | adjective | /ˌrezɪˈdenʃl/ | thuộc khu dân cư | for people to live in | residential area | The factory is far from *residential* areas. | Nhà máy nằm xa khu dân cư.
+commercial property | noun | /kəˌmɜːrʃl ˈprɑːpərti/ | bất động sản thương mại | buildings used for business | invest in commercial property | They invest mainly in *commercial property*. | Họ chủ yếu đầu tư vào bất động sản thương mại.
+property manager | noun | /ˈprɑːpərti ˌmænɪdʒər/ | quản lý tòa nhà | a person who manages a building for its owner | contact the property manager | Report repairs to the *property manager*. | Báo việc sửa chữa cho quản lý tòa nhà.
+move in | verb | /ˌmuːv ˈɪn/ | dọn vào | to start living or working in a new place | move in next week | When can we *move in*? | Khi nào chúng tôi có thể dọn vào?
+move out | verb | /ˌmuːv ˈaʊt/ | dọn đi | to leave a home or office | move out by Friday | Tenants must *move out* by the end of the month. | Người thuê phải dọn đi trước cuối tháng.
+security deposit | noun | /sɪˈkjʊrəti dɪˌpɑːzɪt/ | tiền đặt cọc thuê nhà | money paid in case of damage | return the security deposit | The *security deposit* is two months' rent. | Tiền cọc bằng hai tháng tiền thuê.
+contractor | noun | /ˈkɑːntræktər/ | nhà thầu | a company or person who does building work | building contractor; hire a contractor | We hired a *contractor* to repair the roof. | Chúng tôi thuê nhà thầu sửa mái.
+subcontractor | noun | /ˌsʌbˈkɑːntræktər/ | nhà thầu phụ | a company hired by a contractor | use subcontractors | The electrical work was done by a *subcontractor*. | Phần điện do nhà thầu phụ thực hiện.
+blueprint | noun | /ˈbluːprɪnt/ | bản thiết kế | a detailed plan for a building | building blueprints | The architect showed us the *blueprints*. | Kiến trúc sư cho chúng tôi xem bản thiết kế.
+architect | noun | /ˈɑːrkɪtekt/ | kiến trúc sư | a person who designs buildings | a famous architect | The building was designed by a local *architect*. | Tòa nhà do một kiến trúc sư địa phương thiết kế.
+architecture | noun | /ˈɑːrkɪtektʃər/ | kiến trúc | the design of buildings | modern architecture | The city is famous for its French *architecture*. | Thành phố nổi tiếng với kiến trúc Pháp.
+building permit | noun | /ˈbɪldɪŋ ˌpɜːrmɪt/ | giấy phép xây dựng | official permission to build | apply for a building permit | We are waiting for the *building permit*. | Chúng tôi đang chờ giấy phép xây dựng.
+construction site | noun | /kənˈstrʌkʃn saɪt/ | công trường | a place where a building is being built | on the construction site | Hard hats must be worn on the *construction site*. | Phải đội mũ bảo hộ tại công trường.
+scaffolding | noun | /ˈskæfəldɪŋ/ | giàn giáo | a structure of poles for workers to stand on | put up scaffolding | Workers are standing on *scaffolding*. | Công nhân đang đứng trên giàn giáo. | Part 1 hay gặp.
+crane | noun | /kreɪn/ | cần cẩu | a tall machine for lifting heavy things | construction crane | A *crane* is lifting steel beams. | Một chiếc cần cẩu đang nâng dầm thép.
+beam | noun | /biːm/ | dầm (nhà); tia sáng | a long piece of wood or metal in a building; a line of light | steel beams; a beam of light | The roof is supported by wooden *beams*. | Mái nhà được đỡ bởi các dầm gỗ.
+pillar | noun | /ˈpɪlər/ | cột trụ | a tall solid column | stone pillar | The lobby has four marble *pillars*. | Sảnh có bốn cột đá cẩm thạch.
+tile | noun | /taɪl/ | gạch lát, ngói | a flat square piece for covering floors or roofs | floor tiles; roof tiles | Workers are laying *tiles* in the bathroom. | Công nhân đang lát gạch phòng tắm.
+plumber | noun | /ˈplʌmər/ | thợ sửa ống nước | a person who repairs water pipes | call a plumber | We need a *plumber* to fix the leak. | Chúng tôi cần thợ ống nước để sửa chỗ rò. | Chữ b câm.
+plumbing | noun | /ˈplʌmɪŋ/ | hệ thống ống nước | the water pipes in a building | plumbing problems | The building's *plumbing* is very old. | Hệ thống ống nước của tòa nhà rất cũ.
+electrician | noun | /ɪˌlekˈtrɪʃn/ | thợ điện | a person who installs and repairs electrical systems | hire an electrician | An *electrician* will check the wiring. | Thợ điện sẽ kiểm tra hệ thống dây điện.
+wiring | noun | /ˈwaɪərɪŋ/ | hệ thống dây điện | the electrical wires in a building | faulty wiring | The fire was caused by faulty *wiring*. | Vụ cháy do dây điện bị lỗi.
+paint | verb | /peɪnt/ | sơn | to cover a surface with paint | paint the walls; freshly painted | The office walls are being *painted*. | Tường văn phòng đang được sơn.
+remodel | verb | /ˌriːˈmɑːdl/ | tu sửa, cải tạo lại | to change the structure of a building | remodel the kitchen | We plan to *remodel* the lobby next year. | Chúng tôi dự định cải tạo sảnh năm sau.
+expansion project | noun | /ɪkˈspænʃn ˌprɑːdʒekt/ | dự án mở rộng | a plan to make a building or business bigger | the airport expansion project | The *expansion project* will add 200 rooms. | Dự án mở rộng sẽ thêm 200 phòng.
+groundbreaking | adjective | /ˈɡraʊndbreɪkɪŋ/ | động thổ; mang tính đột phá | the start of building work; very new and important | groundbreaking ceremony; groundbreaking research | The *groundbreaking* ceremony is on Monday. | Lễ động thổ diễn ra vào thứ Hai.
+on-site | adjective | /ˌɑːn ˈsaɪt/ | tại chỗ | at the place where work happens | on-site parking; on-site training | The building has *on-site* parking. | Tòa nhà có chỗ đỗ xe tại chỗ.
+parking lot | noun | /ˈpɑːrkɪŋ lɑːt/ | bãi đỗ xe | an outdoor area for parking cars | in the parking lot | The *parking lot* is behind the building. | Bãi đỗ xe ở phía sau tòa nhà.
+parking garage | noun | /ˈpɑːrkɪŋ ɡəˌrɑːʒ/ | nhà để xe nhiều tầng | a building for parking cars | underground parking garage | The *parking garage* will be closed for repairs. | Nhà để xe sẽ đóng cửa để sửa chữa.
+elevator | noun | /ˈelɪveɪtər/ | thang máy | a machine that carries people between floors | take the elevator; elevator is out of service | Please use the stairs; the *elevator* is out of service. | Vui lòng đi cầu thang bộ, thang máy đang ngừng hoạt động. | Anh-Anh: lift.
+stairway | noun | /ˈsterweɪ/ | cầu thang | a set of stairs | emergency stairway | Use the *stairway* in case of fire. | Dùng cầu thang bộ khi có hỏa hoạn.
+balcony | noun | /ˈbælkəni/ | ban công | a platform on the outside of a building | a room with a balcony | Every room has a private *balcony*. | Mỗi phòng đều có ban công riêng.
+property value | noun | /ˈprɑːpərti ˌvæljuː/ | giá trị bất động sản | how much a property is worth | increase property values | The new metro line raised *property values*. | Tuyến metro mới làm tăng giá trị bất động sản.
+listing | noun | /ˈlɪstɪŋ/ | tin rao (bất động sản, việc làm) | an advertisement for a property or job | property listings; job listing | I saw the *listing* for this apartment online. | Tôi thấy tin rao căn hộ này trên mạng.

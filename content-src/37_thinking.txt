@@ -1,0 +1,68 @@
+#id: thinking
+#prefix: thk
+#order: 37
+#icon: 💭
+#title: Thinking & Opinions
+#title_vi: Tư duy & Quan điểm
+#desc: Giả định, kết luận, so sánh, dự đoán, nhận thức: từ vựng để trình bày ý kiến (IELTS Speaking/Writing) và đọc hiểu suy luận.
+assume | verb | /əˈsuːm/ | cho rằng, giả định | to think something is true without proof | assume that; I assume | I *assume* you've already read the report. | Tôi cho rằng bạn đã đọc báo cáo rồi.
+assumption | noun | /əˈsʌmpʃn/ | giả định | something you think is true without proof | make an assumption; based on the assumption | Don't make *assumptions* about what customers want. | Đừng tự giả định khách hàng muốn gì.
+concept | noun | /ˈkɑːnsept/ | khái niệm | an idea | a new concept; the concept of | The restaurant has a unique *concept*. | Nhà hàng có ý tưởng độc đáo.
+notion | noun | /ˈnoʊʃn/ | ý niệm, quan niệm | an idea or belief | the notion that; a vague notion | I reject the *notion* that older workers can't learn new skills. | Tôi bác bỏ quan niệm rằng người lớn tuổi không học được kỹ năng mới.
+consideration | noun | /kənˌsɪdəˈreɪʃn/ | sự cân nhắc | careful thought | take into consideration; under consideration | Your application is under *consideration*. | Đơn của bạn đang được xem xét.
+conclude | verb | /kənˈkluːd/ | kết luận; kết thúc | to decide something after thinking; to end | conclude that; to conclude | The report *concludes* that the plan is too expensive. | Báo cáo kết luận rằng kế hoạch quá tốn kém.
+conclusion | noun | /kənˈkluːʒn/ | kết luận | a decision reached by reasoning; the end | come to a conclusion; in conclusion | We came to the *conclusion* that we needed more staff. | Chúng tôi đi đến kết luận rằng cần thêm nhân sự.
+perceive | verb | /pərˈsiːv/ | nhận thức, cảm nhận | to notice or understand in a particular way | be perceived as | The brand is *perceived* as expensive. | Thương hiệu bị nhìn nhận là đắt đỏ.
+perception | noun | /pərˈsepʃn/ | nhận thức, cách nhìn | the way you understand something | public perception; change perceptions | Customer *perception* of the brand has improved. | Nhận thức của khách hàng về thương hiệu đã cải thiện.
+perspective | noun | /pərˈspektɪv/ | góc nhìn | a way of thinking about something | from my perspective; a different perspective | Try to see it from the customer's *perspective*. | Hãy thử nhìn từ góc độ của khách hàng.
+viewpoint | noun | /ˈvjuːpɔɪnt/ | quan điểm; điểm ngắm cảnh | an opinion; a place with a good view | from a business viewpoint | From an economic *viewpoint*, the plan makes sense. | Về mặt kinh tế, kế hoạch hợp lý.
+stance | noun | /stæns/ | lập trường | an opinion stated publicly | take a stance on; a firm stance | The company has taken a strong *stance* on waste. | Công ty có lập trường mạnh mẽ về rác thải.
+insight | noun | /ˈɪnsaɪt/ | sự hiểu biết sâu sắc | a clear understanding of something | gain insight; customer insights | The survey gave us useful *insights* into customer needs. | Khảo sát cho chúng tôi hiểu sâu về nhu cầu khách hàng.
+interpret | verb | /ɪnˈtɜːrprɪt/ | diễn giải; phiên dịch | to explain the meaning; to translate speech | interpret data; interpret for | How should we *interpret* these results? | Chúng ta nên hiểu các kết quả này thế nào?
+interpretation | noun | /ɪnˌtɜːrprəˈteɪʃn/ | sự diễn giải | an explanation of meaning | open to interpretation | The rules are open to *interpretation*. | Các quy định có thể hiểu theo nhiều cách.
+imply | verb | /ɪmˈplaɪ/ | ngụ ý | to suggest something without saying it directly | imply that | What does the man *imply* when he says this? | Người đàn ông ngụ ý gì khi nói câu này? | Dạng câu hỏi TOEIC Part 3/7 kinh điển.
+implication | noun | /ˌɪmplɪˈkeɪʃn/ | hệ quả; hàm ý | a possible effect; something suggested | implications for; the implication is | The new law has important *implications* for small businesses. | Luật mới có hệ quả quan trọng với doanh nghiệp nhỏ.
+infer | verb | /ɪnˈfɜːr/ | suy ra | to reach an opinion from information | infer from; it can be inferred that | What can be *inferred* about the company? | Có thể suy ra điều gì về công ty? | Câu hỏi suy luận Part 7.
+recall | verb | /rɪˈkɔːl/ | nhớ lại; thu hồi | to remember; to ask for a product to be returned | as I recall; recall a product | The company *recalled* 10,000 faulty phones. | Công ty thu hồi 10.000 điện thoại bị lỗi.
+reckon | verb | /ˈrekən/ | cho là, nghĩ (văn nói) | to think or believe | I reckon | I *reckon* we'll finish by Friday. | Tôi nghĩ chúng ta sẽ xong trước thứ Sáu.
+regard | verb | /rɪˈɡɑːrd/ | coi như | to think of someone or something in a particular way | regard as; highly regarded | She is *regarded* as an expert in her field. | Cô ấy được coi là chuyên gia trong lĩnh vực của mình. | with regard to / regarding = về việc.
+reflect | verb | /rɪˈflekt/ | phản ánh; suy ngẫm | to show; to think carefully | reflect on; reflect the price | The price *reflects* the high quality of the product. | Giá cả phản ánh chất lượng cao của sản phẩm.
+realistic | adjective | /ˌriːəˈlɪstɪk/ | thực tế | sensible and possible | a realistic goal; realistic expectations | Set *realistic* goals for each week. | Hãy đặt mục tiêu thực tế cho mỗi tuần.
+reality | noun | /riˈæləti/ | thực tế | the way things really are | in reality; become a reality | In *reality*, the project took twice as long. | Trên thực tế, dự án mất gấp đôi thời gian.
+imagination | noun | /ɪˌmædʒɪˈneɪʃn/ | trí tưởng tượng | the ability to form new ideas | use your imagination | The job requires *imagination* and creativity. | Công việc đòi hỏi trí tưởng tượng và sáng tạo.
+imaginary | adjective | /ɪˈmædʒɪneri/ | tưởng tượng, không có thật | existing only in the mind | an imaginary friend | The story takes place in an *imaginary* city. | Câu chuyện diễn ra ở một thành phố tưởng tượng.
+illusion | noun | /ɪˈluːʒn/ | ảo tưởng, ảo giác | a false idea or appearance | an optical illusion; under the illusion | Mirrors create the *illusion* of more space. | Gương tạo ảo giác không gian rộng hơn.
+logical | adjective | /ˈlɑːdʒɪkl/ | hợp lý, logic | sensible; following reason | a logical decision; logical order | Put the steps in a *logical* order. | Sắp xếp các bước theo thứ tự hợp lý.
+doubt | noun | /daʊt/ | sự nghi ngờ | a feeling of not being sure | no doubt; have doubts about; in doubt | There's no *doubt* that she's the best candidate. | Không nghi ngờ gì cô ấy là ứng viên tốt nhất. | Chữ b câm.
+certainty | noun | /ˈsɜːrtnti/ | sự chắc chắn | the state of being certain | with certainty | We can't say with *certainty* when it will arrive. | Chúng tôi không thể nói chắc khi nào hàng sẽ đến.
+uncertainty | noun | /ʌnˈsɜːrtnti/ | sự không chắc chắn | the state of not being sure | economic uncertainty | There is a lot of *uncertainty* about the economy. | Có nhiều bất ổn về nền kinh tế.
+definite | adjective | /ˈdefɪnət/ | rõ ràng, chắc chắn | sure; not likely to change | a definite answer; definite plans | We need a *definite* answer by Friday. | Chúng tôi cần câu trả lời dứt khoát trước thứ Sáu.
+probable | adjective | /ˈprɑːbəbl/ | có thể xảy ra | likely to happen | highly probable; the probable cause | The *probable* cause of the fire was a faulty wire. | Nguyên nhân có thể của vụ cháy là dây điện bị lỗi.
+probability | noun | /ˌprɑːbəˈbɪləti/ | khả năng xảy ra | how likely something is | high probability; in all probability | There is a high *probability* of rain tomorrow. | Khả năng cao ngày mai sẽ mưa.
+prediction | noun | /prɪˈdɪkʃn/ | sự dự đoán | a statement about what will happen | make a prediction; sales predictions | His *prediction* about the market was correct. | Dự đoán của anh ấy về thị trường đã đúng.
+predictable | adjective | /prɪˈdɪktəbl/ | có thể đoán trước | able to be predicted | a predictable result; predictable income | The film's ending was very *predictable*. | Kết thúc bộ phim rất dễ đoán.
+speculate | verb | /ˈspekjuleɪt/ | suy đoán | to guess without full information | speculate about | It's too early to *speculate* about the cause. | Còn quá sớm để suy đoán về nguyên nhân.
+speculation | noun | /ˌspekjuˈleɪʃn/ | sự suy đoán | guessing without knowing all the facts | media speculation | There is *speculation* that the CEO will resign. | Có suy đoán rằng giám đốc sẽ từ chức.
+expectation | noun | /ˌekspekˈteɪʃn/ | sự kỳ vọng | a belief that something will happen | meet expectations; exceed expectations | The results did not meet our *expectations*. | Kết quả không đạt kỳ vọng của chúng tôi.
+expected | adjective | /ɪkˈspektɪd/ | được dự kiến | thought likely to happen | expected date; as expected | The *expected* delivery date is May 10. | Ngày giao hàng dự kiến là 10/5.
+unexpected | adjective | /ˌʌnɪkˈspektɪd/ | bất ngờ | not expected | an unexpected visitor; unexpected delay | Due to *unexpected* demand, the item is sold out. | Do nhu cầu tăng đột biến, mặt hàng đã bán hết.
+intend | verb | /ɪnˈtend/ | dự định | to plan to do something | intend to; be intended for | We *intend* to open two new stores next year. | Chúng tôi dự định mở hai cửa hàng mới năm tới.
+intended | adjective | /ɪnˈtendɪd/ | dành cho; có chủ ý | planned or designed for | intended for beginners | This course is *intended* for beginners. | Khóa học này dành cho người mới bắt đầu.
+intention | noun | /ɪnˈtenʃn/ | ý định | a plan or purpose | have no intention of; good intentions | I have no *intention* of leaving the company. | Tôi không hề có ý định rời công ty.
+deliberate | adjective | /dɪˈlɪbərət/ | cố ý | done on purpose | a deliberate decision; deliberate attempt | It was a *deliberate* choice to keep prices low. | Đó là lựa chọn có chủ đích để giữ giá thấp.
+deliberately | adverb | /dɪˈlɪbərətli/ | cố tình | on purpose | deliberately ignore | He *deliberately* left the door open. | Anh ấy cố tình để cửa mở.
+aware | adjective | /əˈwer/ | nhận thức được | knowing about something | be aware of; aware that | Please be *aware* that the office closes early on Friday. | Xin lưu ý rằng văn phòng đóng cửa sớm vào thứ Sáu.
+awareness | noun | /əˈwernəs/ | sự nhận thức | knowledge or understanding of something | raise awareness; public awareness | The campaign aims to raise *awareness* of recycling. | Chiến dịch nhằm nâng cao nhận thức về tái chế.
+conscious | adjective | /ˈkɑːnʃəs/ | ý thức được; tỉnh táo | aware; awake | conscious of; health-conscious | Customers are becoming more health-*conscious*. | Khách hàng ngày càng quan tâm đến sức khỏe.
+unconscious | adjective | /ʌnˈkɑːnʃəs/ | bất tỉnh; vô thức | not awake; not aware | knocked unconscious | The driver was *unconscious* when the ambulance arrived. | Tài xế bất tỉnh khi xe cấp cứu đến.
+familiar | adjective | /fəˈmɪliər/ | quen thuộc | well known; knowing something well | familiar with; look familiar | Are you *familiar* with this software? | Bạn có quen dùng phần mềm này không?
+recognition | noun | /ˌrekəɡˈnɪʃn/ | sự công nhận; nhận ra | public praise; the act of recognizing | in recognition of; brand recognition | She received an award in *recognition* of her work. | Cô ấy nhận giải thưởng ghi nhận công sức của mình.
+distinguish | verb | /dɪˈstɪŋɡwɪʃ/ | phân biệt | to see the difference between things | distinguish between; distinguish from | It's hard to *distinguish* between the two products. | Khó phân biệt hai sản phẩm này.
+identical | adjective | /aɪˈdentɪkl/ | giống hệt | exactly the same | identical twins; identical to | The two offers are almost *identical*. | Hai lời đề nghị gần như giống hệt nhau.
+similarity | noun | /ˌsɪməˈlærəti/ | sự giống nhau | the state of being similar | similarities between | There are many *similarities* between the two plans. | Hai kế hoạch có nhiều điểm tương đồng.
+similarly | adverb | /ˈsɪmələrli/ | tương tự | in a similar way | Similarly, … | *Similarly*, our second store also increased sales. | Tương tự, cửa hàng thứ hai cũng tăng doanh số.
+comparison | noun | /kəmˈpærɪsn/ | sự so sánh | the act of comparing | in comparison with; make a comparison | In *comparison* with last year, costs are lower. | So với năm ngoái, chi phí thấp hơn.
+comparative | adjective | /kəmˈpærətɪv/ | tương đối; so sánh | measured by comparing | comparative study; comparative advantage | The study is a *comparative* analysis of two markets. | Nghiên cứu là phân tích so sánh hai thị trường.
+contrast | noun | /ˈkɑːntræst/ | sự tương phản | a clear difference | in contrast; by contrast | In *contrast* to last year, sales are up. | Trái với năm ngoái, doanh số đã tăng.
+differ | verb | /ˈdɪfər/ | khác nhau | to be different | differ from; opinions differ | Prices *differ* from store to store. | Giá cả khác nhau giữa các cửa hàng.
+distinct | adjective | /dɪˈstɪŋkt/ | khác biệt; rõ ràng | clearly different; easy to notice | distinct from; a distinct advantage | There is a *distinct* difference in quality. | Có sự khác biệt rõ rệt về chất lượng.

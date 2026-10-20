@@ -1,0 +1,940 @@
+{
+ "id": "politics",
+ "order": 26,
+ "icon": "🏛️",
+ "level": "B2",
+ "title": "Government & Politics",
+ "title_vi": "Chính phủ & Chính trị",
+ "description": "Bầu cử, chính sách, chính quyền địa phương, biểu tình: từ vựng đọc báo và bài đọc IELTS.",
+ "words": [
+  {
+   "id": "pol_government",
+   "word": "government",
+   "pos": "noun",
+   "ipa": "/ˈɡʌvərnmənt/",
+   "level": "A2",
+   "meaning": "chính phủ",
+   "definition": "the group of people who control a country",
+   "collocations": [
+    "local government",
+    "government policy"
+   ],
+   "examples": [
+    {
+     "en": "The *government* plans to cut taxes.",
+     "vi": "Chính phủ dự định giảm thuế."
+    }
+   ]
+  },
+  {
+   "id": "pol_govern",
+   "word": "govern",
+   "pos": "verb",
+   "ipa": "/ˈɡʌvərn/",
+   "level": "B2",
+   "meaning": "cai trị, điều hành",
+   "definition": "to officially control a country or organization",
+   "collocations": [
+    "govern a country",
+    "governing body"
+   ],
+   "examples": [
+    {
+     "en": "The country is *governed* by an elected parliament.",
+     "vi": "Đất nước được điều hành bởi quốc hội dân cử."
+    }
+   ]
+  },
+  {
+   "id": "pol_governor",
+   "word": "governor",
+   "pos": "noun",
+   "ipa": "/ˈɡʌvərnər/",
+   "level": "B2",
+   "meaning": "thống đốc",
+   "definition": "the person who leads a state or region",
+   "collocations": [
+    "state governor"
+   ],
+   "examples": [
+    {
+     "en": "The *governor* visited the flooded area.",
+     "vi": "Thống đốc đã đến thăm khu vực bị lũ."
+    }
+   ]
+  },
+  {
+   "id": "pol_authority",
+   "word": "authority",
+   "pos": "noun",
+   "ipa": "/əˈθɔːrəti/",
+   "level": "B1",
+   "meaning": "chính quyền; quyền hạn",
+   "definition": "an official organization; the power to give orders",
+   "collocations": [
+    "local authorities",
+    "have the authority to"
+   ],
+   "examples": [
+    {
+     "en": "Contact the local *authorities* for a permit.",
+     "vi": "Liên hệ chính quyền địa phương để xin giấy phép."
+    }
+   ]
+  },
+  {
+   "id": "pol_official",
+   "word": "official",
+   "pos": "noun",
+   "ipa": "/əˈfɪʃl/",
+   "level": "B1",
+   "meaning": "quan chức",
+   "definition": "a person with an important job in an organization",
+   "collocations": [
+    "government official",
+    "city officials"
+   ],
+   "examples": [
+    {
+     "en": "City *officials* will meet residents tomorrow.",
+     "vi": "Các quan chức thành phố sẽ gặp người dân ngày mai."
+    }
+   ],
+   "note": "Tính từ official = chính thức."
+  },
+  {
+   "id": "pol_minister",
+   "word": "minister",
+   "pos": "noun",
+   "ipa": "/ˈmɪnɪstər/",
+   "level": "B2",
+   "meaning": "bộ trưởng",
+   "definition": "a person in charge of a government department",
+   "collocations": [
+    "prime minister",
+    "finance minister"
+   ],
+   "examples": [
+    {
+     "en": "The *minister* announced a new education plan.",
+     "vi": "Bộ trưởng công bố kế hoạch giáo dục mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_parliament",
+   "word": "parliament",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrləmənt/",
+   "level": "B2",
+   "meaning": "quốc hội, nghị viện",
+   "definition": "the group of elected people who make laws",
+   "collocations": [
+    "member of parliament",
+    "pass a law"
+   ],
+   "examples": [
+    {
+     "en": "*Parliament* will vote on the new law next week.",
+     "vi": "Quốc hội sẽ biểu quyết luật mới tuần sau."
+    }
+   ]
+  },
+  {
+   "id": "pol_council",
+   "word": "council",
+   "pos": "noun",
+   "ipa": "/ˈkaʊnsl/",
+   "level": "B2",
+   "meaning": "hội đồng (địa phương)",
+   "definition": "a group of people elected to manage a town",
+   "collocations": [
+    "city council",
+    "council meeting"
+   ],
+   "examples": [
+    {
+     "en": "The city *council* approved the new park.",
+     "vi": "Hội đồng thành phố đã duyệt công viên mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_mayor",
+   "word": "mayor",
+   "pos": "noun",
+   "ipa": "/ˈmeɪər/",
+   "level": "B2",
+   "meaning": "thị trưởng",
+   "definition": "the leader of a city",
+   "collocations": [
+    "the mayor of",
+    "elect a mayor"
+   ],
+   "examples": [
+    {
+     "en": "The *mayor* opened the new bridge.",
+     "vi": "Thị trưởng khánh thành cây cầu mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_federal",
+   "word": "federal",
+   "pos": "adjective",
+   "ipa": "/ˈfedərəl/",
+   "level": "B2",
+   "meaning": "thuộc liên bang",
+   "definition": "connected with the central government of a federal country",
+   "collocations": [
+    "federal government",
+    "federal law"
+   ],
+   "examples": [
+    {
+     "en": "*Federal* law requires all workers to have a contract.",
+     "vi": "Luật liên bang yêu cầu mọi lao động phải có hợp đồng."
+    }
+   ]
+  },
+  {
+   "id": "pol_state",
+   "word": "state",
+   "pos": "noun",
+   "ipa": "/steɪt/",
+   "level": "B1",
+   "meaning": "nhà nước; bang; trạng thái",
+   "definition": "a country or its government; a part of a country; a condition",
+   "collocations": [
+    "state-owned",
+    "the state of the economy"
+   ],
+   "examples": [
+    {
+     "en": "The building is in a poor *state*.",
+     "vi": "Tòa nhà đang trong tình trạng tồi tệ."
+    }
+   ]
+  },
+  {
+   "id": "pol_nation",
+   "word": "nation",
+   "pos": "noun",
+   "ipa": "/ˈneɪʃn/",
+   "level": "B1",
+   "meaning": "quốc gia, dân tộc",
+   "definition": "a country and its people",
+   "collocations": [
+    "the whole nation",
+    "United Nations"
+   ],
+   "examples": [
+    {
+     "en": "The president spoke to the *nation* on TV.",
+     "vi": "Tổng thống phát biểu với toàn quốc trên truyền hình."
+    }
+   ]
+  },
+  {
+   "id": "pol_national",
+   "word": "national",
+   "pos": "adjective",
+   "ipa": "/ˈnæʃnəl/",
+   "level": "B2",
+   "meaning": "thuộc quốc gia",
+   "definition": "connected with a whole country",
+   "collocations": [
+    "national holiday",
+    "national park"
+   ],
+   "examples": [
+    {
+     "en": "Monday is a *national* holiday.",
+     "vi": "Thứ Hai là ngày lễ quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "pol_democracy",
+   "word": "democracy",
+   "pos": "noun",
+   "ipa": "/dɪˈmɑːkrəsi/",
+   "level": "B2",
+   "meaning": "nền dân chủ",
+   "definition": "a system where people choose the government by voting",
+   "collocations": [
+    "live in a democracy"
+   ],
+   "examples": [
+    {
+     "en": "Free elections are the basis of *democracy*.",
+     "vi": "Bầu cử tự do là nền tảng của dân chủ."
+    }
+   ]
+  },
+  {
+   "id": "pol_democratic",
+   "word": "democratic",
+   "pos": "adjective",
+   "ipa": "/ˌdeməˈkrætɪk/",
+   "level": "B2",
+   "meaning": "dân chủ",
+   "definition": "based on democracy; allowing everyone to have a say",
+   "collocations": [
+    "a democratic decision",
+    "democratic process"
+   ],
+   "examples": [
+    {
+     "en": "The team made the decision in a *democratic* way.",
+     "vi": "Nhóm đưa ra quyết định một cách dân chủ."
+    }
+   ]
+  },
+  {
+   "id": "pol_election",
+   "word": "election",
+   "pos": "noun",
+   "ipa": "/ɪˈlekʃn/",
+   "level": "B1",
+   "meaning": "cuộc bầu cử",
+   "definition": "the process of choosing people by voting",
+   "collocations": [
+    "win an election",
+    "general election"
+   ],
+   "examples": [
+    {
+     "en": "The *election* will be held in May.",
+     "vi": "Cuộc bầu cử sẽ diễn ra vào tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "pol_elect",
+   "word": "elect",
+   "pos": "verb",
+   "ipa": "/ɪˈlekt/",
+   "level": "B2",
+   "meaning": "bầu chọn",
+   "definition": "to choose someone by voting",
+   "collocations": [
+    "be elected",
+    "elect a leader"
+   ],
+   "examples": [
+    {
+     "en": "She was *elected* chairperson of the committee.",
+     "vi": "Bà ấy được bầu làm chủ tịch ủy ban."
+    }
+   ]
+  },
+  {
+   "id": "pol_vote",
+   "word": "vote",
+   "pos": "verb",
+   "ipa": "/voʊt/",
+   "level": "B1",
+   "meaning": "bỏ phiếu",
+   "definition": "to show your choice in an election",
+   "collocations": [
+    "vote for",
+    "vote against",
+    "vote on"
+   ],
+   "examples": [
+    {
+     "en": "Staff will *vote* on the new office design.",
+     "vi": "Nhân viên sẽ bỏ phiếu chọn thiết kế văn phòng mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_voting",
+   "word": "voting",
+   "pos": "noun",
+   "ipa": "/ˈvoʊtɪŋ/",
+   "level": "B2",
+   "meaning": "việc bỏ phiếu",
+   "definition": "the act of voting",
+   "collocations": [
+    "voting system",
+    "online voting"
+   ],
+   "examples": [
+    {
+     "en": "*Voting* closes at 5 p.m.",
+     "vi": "Bỏ phiếu kết thúc lúc 5 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "pol_candidate",
+   "word": "candidate",
+   "pos": "noun",
+   "ipa": "/ˈkændɪdət/",
+   "level": "B1",
+   "meaning": "ứng cử viên, ứng viên",
+   "definition": "a person who wants to be chosen for a job or position",
+   "collocations": [
+    "job candidate",
+    "a strong candidate"
+   ],
+   "examples": [
+    {
+     "en": "We interviewed five *candidates* for the position.",
+     "vi": "Chúng tôi phỏng vấn năm ứng viên cho vị trí này."
+    }
+   ]
+  },
+  {
+   "id": "pol_policy",
+   "word": "policy",
+   "pos": "noun",
+   "ipa": "/ˈpɑːləsi/",
+   "level": "B1",
+   "meaning": "chính sách",
+   "definition": "a plan of action agreed by a government or company",
+   "collocations": [
+    "company policy",
+    "return policy",
+    "government policy"
+   ],
+   "examples": [
+    {
+     "en": "Please read our return *policy* before buying.",
+     "vi": "Vui lòng đọc chính sách đổi trả trước khi mua."
+    }
+   ]
+  },
+  {
+   "id": "pol_political",
+   "word": "political",
+   "pos": "adjective",
+   "ipa": "/pəˈlɪtɪkl/",
+   "level": "B1",
+   "meaning": "thuộc chính trị",
+   "definition": "connected with politics",
+   "collocations": [
+    "political party",
+    "political situation"
+   ],
+   "examples": [
+    {
+     "en": "The country is going through a *political* crisis.",
+     "vi": "Đất nước đang trải qua khủng hoảng chính trị."
+    }
+   ]
+  },
+  {
+   "id": "pol_politician",
+   "word": "politician",
+   "pos": "noun",
+   "ipa": "/ˌpɑːləˈtɪʃn/",
+   "level": "B1",
+   "meaning": "chính trị gia",
+   "definition": "a person who works in politics",
+   "collocations": [
+    "a local politician"
+   ],
+   "examples": [
+    {
+     "en": "The *politician* promised to build more schools.",
+     "vi": "Chính trị gia hứa xây thêm trường học."
+    }
+   ]
+  },
+  {
+   "id": "pol_politics",
+   "word": "politics",
+   "pos": "noun",
+   "ipa": "/ˈpɑːlətɪks/",
+   "level": "B1",
+   "meaning": "chính trị",
+   "definition": "activities connected with governing a country",
+   "collocations": [
+    "interested in politics",
+    "office politics"
+   ],
+   "examples": [
+    {
+     "en": "I try to avoid office *politics*.",
+     "vi": "Tôi cố tránh chuyện đấu đá nội bộ ở công ty."
+    }
+   ]
+  },
+  {
+   "id": "pol_represent",
+   "word": "represent",
+   "pos": "verb",
+   "ipa": "/ˌreprɪˈzent/",
+   "level": "B1",
+   "meaning": "đại diện; tượng trưng",
+   "definition": "to act for someone; to be a symbol of",
+   "collocations": [
+    "represent the company",
+    "represent a change"
+   ],
+   "examples": [
+    {
+     "en": "She will *represent* our company at the conference.",
+     "vi": "Cô ấy sẽ đại diện công ty tại hội nghị."
+    }
+   ]
+  },
+  {
+   "id": "pol_representative",
+   "word": "representative",
+   "pos": "noun",
+   "ipa": "/ˌreprɪˈzentətɪv/",
+   "level": "B2",
+   "meaning": "người đại diện",
+   "definition": "a person who acts for others",
+   "collocations": [
+    "sales representative",
+    "customer service representative"
+   ],
+   "examples": [
+    {
+     "en": "A customer service *representative* will call you back.",
+     "vi": "Nhân viên chăm sóc khách hàng sẽ gọi lại cho bạn."
+    }
+   ],
+   "note": "Viết tắt: rep."
+  },
+  {
+   "id": "pol_majority",
+   "word": "majority",
+   "pos": "noun",
+   "ipa": "/məˈdʒɔːrəti/",
+   "level": "B2",
+   "meaning": "đa số",
+   "definition": "the larger part of a group",
+   "collocations": [
+    "the majority of",
+    "a large majority"
+   ],
+   "examples": [
+    {
+     "en": "The *majority* of staff prefer working from home.",
+     "vi": "Đa số nhân viên thích làm việc tại nhà."
+    }
+   ]
+  },
+  {
+   "id": "pol_minority",
+   "word": "minority",
+   "pos": "noun",
+   "ipa": "/maɪˈnɔːrəti/",
+   "level": "B2",
+   "meaning": "thiểu số",
+   "definition": "the smaller part of a group",
+   "collocations": [
+    "ethnic minority",
+    "in the minority"
+   ],
+   "examples": [
+    {
+     "en": "Only a *minority* of customers complained.",
+     "vi": "Chỉ một số ít khách hàng phàn nàn."
+    }
+   ]
+  },
+  {
+   "id": "pol_oppose",
+   "word": "oppose",
+   "pos": "verb",
+   "ipa": "/əˈpoʊz/",
+   "level": "B2",
+   "meaning": "phản đối",
+   "definition": "to disagree with a plan and try to stop it",
+   "collocations": [
+    "strongly oppose",
+    "oppose a plan"
+   ],
+   "examples": [
+    {
+     "en": "Local residents *oppose* the new airport.",
+     "vi": "Người dân địa phương phản đối sân bay mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_opposed",
+   "word": "opposed",
+   "pos": "adjective",
+   "ipa": "/əˈpoʊzd/",
+   "level": "B2",
+   "meaning": "phản đối",
+   "definition": "disagreeing strongly",
+   "collocations": [
+    "opposed to",
+    "as opposed to"
+   ],
+   "examples": [
+    {
+     "en": "Many people are *opposed* to the price increase.",
+     "vi": "Nhiều người phản đối việc tăng giá."
+    }
+   ],
+   "note": "as opposed to = trái ngược với."
+  },
+  {
+   "id": "pol_opposition",
+   "word": "opposition",
+   "pos": "noun",
+   "ipa": "/ˌɑːpəˈzɪʃn/",
+   "level": "B2",
+   "meaning": "sự phản đối; phe đối lập",
+   "definition": "strong disagreement; the political party not in power",
+   "collocations": [
+    "strong opposition",
+    "the opposition party"
+   ],
+   "examples": [
+    {
+     "en": "The plan faced strong *opposition*.",
+     "vi": "Kế hoạch gặp sự phản đối mạnh mẽ."
+    }
+   ]
+  },
+  {
+   "id": "pol_protest",
+   "word": "protest",
+   "pos": "noun",
+   "ipa": "/ˈproʊtest/",
+   "level": "B1",
+   "meaning": "cuộc biểu tình; sự phản đối",
+   "definition": "a public action to show disagreement",
+   "collocations": [
+    "hold a protest",
+    "in protest against"
+   ],
+   "examples": [
+    {
+     "en": "Workers held a *protest* outside the factory.",
+     "vi": "Công nhân biểu tình bên ngoài nhà máy."
+    }
+   ]
+  },
+  {
+   "id": "pol_protester",
+   "word": "protester",
+   "pos": "noun",
+   "ipa": "/prəˈtestər/",
+   "level": "B2",
+   "meaning": "người biểu tình",
+   "definition": "a person who takes part in a protest",
+   "collocations": [
+    "thousands of protesters"
+   ],
+   "examples": [
+    {
+     "en": "*Protesters* gathered in front of the city hall.",
+     "vi": "Người biểu tình tập trung trước tòa thị chính."
+    }
+   ]
+  },
+  {
+   "id": "pol_independence",
+   "word": "independence",
+   "pos": "noun",
+   "ipa": "/ˌɪndɪˈpendəns/",
+   "level": "B2",
+   "meaning": "sự độc lập",
+   "definition": "freedom from control by others",
+   "collocations": [
+    "Independence Day",
+    "financial independence"
+   ],
+   "examples": [
+    {
+     "en": "Many young people want financial *independence*.",
+     "vi": "Nhiều người trẻ muốn độc lập tài chính."
+    }
+   ]
+  },
+  {
+   "id": "pol_freedom",
+   "word": "freedom",
+   "pos": "noun",
+   "ipa": "/ˈfriːdəm/",
+   "level": "B2",
+   "meaning": "sự tự do",
+   "definition": "the right to do or say what you want",
+   "collocations": [
+    "freedom of speech",
+    "the freedom to"
+   ],
+   "examples": [
+    {
+     "en": "The job gives me the *freedom* to work from anywhere.",
+     "vi": "Công việc cho tôi tự do làm việc ở bất cứ đâu."
+    }
+   ]
+  },
+  {
+   "id": "pol_union",
+   "word": "union",
+   "pos": "noun",
+   "ipa": "/ˈjuːniən/",
+   "level": "B1",
+   "meaning": "công đoàn; liên minh",
+   "definition": "an organization of workers; a group of countries",
+   "collocations": [
+    "trade union",
+    "the European Union"
+   ],
+   "examples": [
+    {
+     "en": "The *union* is negotiating higher wages.",
+     "vi": "Công đoàn đang đàm phán tăng lương."
+    }
+   ]
+  },
+  {
+   "id": "pol_unite",
+   "word": "unite",
+   "pos": "verb",
+   "ipa": "/juˈnaɪt/",
+   "level": "B2",
+   "meaning": "đoàn kết, hợp nhất",
+   "definition": "to join together",
+   "collocations": [
+    "unite against",
+    "united team"
+   ],
+   "examples": [
+    {
+     "en": "The crisis *united* the whole team.",
+     "vi": "Cuộc khủng hoảng đã gắn kết cả đội."
+    }
+   ]
+  },
+  {
+   "id": "pol_unity",
+   "word": "unity",
+   "pos": "noun",
+   "ipa": "/ˈjuːnəti/",
+   "level": "B2",
+   "meaning": "sự thống nhất",
+   "definition": "the state of being joined together",
+   "collocations": [
+    "national unity",
+    "a sense of unity"
+   ],
+   "examples": [
+    {
+     "en": "Team-building events create a sense of *unity*.",
+     "vi": "Các hoạt động gắn kết đội tạo cảm giác thống nhất."
+    }
+   ]
+  },
+  {
+   "id": "pol_royal",
+   "word": "royal",
+   "pos": "adjective",
+   "ipa": "/ˈrɔɪəl/",
+   "level": "B1",
+   "meaning": "thuộc hoàng gia",
+   "definition": "connected with a king or queen",
+   "collocations": [
+    "royal family",
+    "royal palace"
+   ],
+   "examples": [
+    {
+     "en": "The *royal* palace is open to visitors.",
+     "vi": "Cung điện hoàng gia mở cửa cho du khách."
+    }
+   ]
+  },
+  {
+   "id": "pol_prince",
+   "word": "prince",
+   "pos": "noun",
+   "ipa": "/prɪns/",
+   "level": "B1",
+   "meaning": "hoàng tử",
+   "definition": "the son of a king or queen",
+   "collocations": [
+    "the crown prince"
+   ],
+   "examples": [
+    {
+     "en": "The *prince* opened the new hospital.",
+     "vi": "Hoàng tử khánh thành bệnh viện mới."
+    }
+   ]
+  },
+  {
+   "id": "pol_princess",
+   "word": "princess",
+   "pos": "noun",
+   "ipa": "/ˌprɪnˈses/",
+   "level": "B1",
+   "meaning": "công chúa",
+   "definition": "the daughter of a king or queen",
+   "collocations": [
+    "a fairy-tale princess"
+   ],
+   "examples": [
+    {
+     "en": "My daughter wants to be a *princess* for Halloween.",
+     "vi": "Con gái tôi muốn hóa trang thành công chúa dịp Halloween."
+    }
+   ]
+  },
+  {
+   "id": "pol_lord",
+   "word": "lord",
+   "pos": "noun",
+   "ipa": "/lɔːrd/",
+   "level": "B2",
+   "meaning": "lãnh chúa, ngài",
+   "definition": "a man of high rank",
+   "collocations": [
+    "lords and ladies"
+   ],
+   "examples": [
+    {
+     "en": "The castle once belonged to a local *lord*.",
+     "vi": "Lâu đài từng thuộc về một lãnh chúa địa phương."
+    }
+   ]
+  },
+  {
+   "id": "pol_regional",
+   "word": "regional",
+   "pos": "adjective",
+   "ipa": "/ˈriːdʒənl/",
+   "level": "B2",
+   "meaning": "thuộc khu vực",
+   "definition": "connected with a region",
+   "collocations": [
+    "regional manager",
+    "regional office"
+   ],
+   "examples": [
+    {
+     "en": "She was promoted to *regional* sales manager.",
+     "vi": "Cô ấy được thăng chức quản lý bán hàng khu vực."
+    }
+   ]
+  },
+  {
+   "id": "pol_county",
+   "word": "county",
+   "pos": "noun",
+   "ipa": "/ˈkaʊnti/",
+   "level": "B2",
+   "meaning": "hạt (đơn vị hành chính)",
+   "definition": "an area of a country with its own local government",
+   "collocations": [
+    "county council",
+    "Orange County"
+   ],
+   "examples": [
+    {
+     "en": "The festival is the biggest in the *county*.",
+     "vi": "Lễ hội là lớn nhất trong hạt."
+    }
+   ]
+  },
+  {
+   "id": "pol_territory",
+   "word": "territory",
+   "pos": "noun",
+   "ipa": "/ˈterətɔːri/",
+   "level": "B2",
+   "meaning": "lãnh thổ; địa bàn",
+   "definition": "land controlled by a country; an area of responsibility",
+   "collocations": [
+    "sales territory",
+    "enemy territory"
+   ],
+   "examples": [
+    {
+     "en": "Each sales rep covers a different *territory*.",
+     "vi": "Mỗi nhân viên bán hàng phụ trách một địa bàn khác nhau."
+    }
+   ]
+  },
+  {
+   "id": "pol_colony",
+   "word": "colony",
+   "pos": "noun",
+   "ipa": "/ˈkɑːləni/",
+   "level": "B2",
+   "meaning": "thuộc địa; bầy đàn",
+   "definition": "a country controlled by another; a group of animals",
+   "collocations": [
+    "a former colony",
+    "ant colony"
+   ],
+   "examples": [
+    {
+     "en": "Hong Kong was once a British *colony*.",
+     "vi": "Hồng Kông từng là thuộc địa của Anh."
+    }
+   ]
+  },
+  {
+   "id": "pol_empire",
+   "word": "empire",
+   "pos": "noun",
+   "ipa": "/ˈempaɪər/",
+   "level": "B2",
+   "meaning": "đế chế",
+   "definition": "a group of countries ruled by one person or government; a large business group",
+   "collocations": [
+    "the Roman Empire",
+    "business empire"
+   ],
+   "examples": [
+    {
+     "en": "He built a business *empire* from a single shop.",
+     "vi": "Ông ấy xây dựng đế chế kinh doanh từ một cửa hàng duy nhất."
+    }
+   ]
+  },
+  {
+   "id": "pol_military",
+   "word": "military",
+   "pos": "adjective",
+   "ipa": "/ˈmɪləteri/",
+   "level": "B2",
+   "meaning": "thuộc quân sự",
+   "definition": "connected with the army",
+   "collocations": [
+    "military service",
+    "military base"
+   ],
+   "examples": [
+    {
+     "en": "He did two years of *military* service.",
+     "vi": "Anh ấy đã làm nghĩa vụ quân sự hai năm."
+    }
+   ]
+  },
+  {
+   "id": "pol_federation",
+   "word": "federation",
+   "pos": "noun",
+   "ipa": "/ˌfedəˈreɪʃn/",
+   "level": "TOEIC",
+   "meaning": "liên đoàn",
+   "definition": "a group of organizations joined together",
+   "collocations": [
+    "sports federation"
+   ],
+   "examples": [
+    {
+     "en": "The national football *federation* chose a new coach.",
+     "vi": "Liên đoàn bóng đá quốc gia chọn huấn luyện viên mới."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,53 @@
+#id: transport
+#prefix: trn
+#order: 21
+#icon: ✈️
+#title: Transport & Trips
+#title_vi: Giao thông & Chuyến đi
+#desc: Sân bay, tàu thuyền, đường bộ, đặt chỗ, công tác nước ngoài: nhóm từ dày đặc trong thông báo Part 4.
+aircraft | noun | /ˈerkræft/ | máy bay (nói chung) | any vehicle that can fly | aircraft engine; passenger aircraft | The *aircraft* landed safely despite the storm. | Máy bay hạ cánh an toàn dù có bão. | Số nhiều vẫn là aircraft.
+cabin | noun | /ˈkæbɪn/ | khoang máy bay/tàu; nhà gỗ nhỏ | the area for passengers on a plane or ship; a small wooden house | cabin crew; cabin baggage; log cabin | Please place your bag in the overhead *cabin* lockers. | Vui lòng để túi vào hộc hành lý phía trên khoang.
+crew | noun | /kruː/ | phi hành đoàn, đội | all the people working on a ship or plane | cabin crew; film crew; crew members | The *crew* will serve drinks after take-off. | Tổ bay sẽ phục vụ đồ uống sau khi cất cánh.
+captain | noun | /ˈkæptɪn/ | cơ trưởng, thuyền trưởng | the person in charge of a plane or ship | the captain speaking | This is your *captain* speaking. | Đây là cơ trưởng xin thông báo.
+landing | noun | /ˈlændɪŋ/ | sự hạ cánh; chiếu nghỉ cầu thang | the act of bringing a plane down to the ground | a safe landing; emergency landing | The plane made an emergency *landing*. | Máy bay hạ cánh khẩn cấp.
+jet | noun | /dʒet/ | máy bay phản lực | a fast plane with jet engines | private jet; jet lag | I always suffer from *jet* lag after long flights. | Tôi luôn bị lệch múi giờ sau các chuyến bay dài.
+helicopter | noun | /ˈhelɪkɑːptər/ | trực thăng | an aircraft with blades on top | by helicopter; helicopter pad | The injured man was taken to hospital by *helicopter*. | Người bị thương được đưa tới bệnh viện bằng trực thăng.
+terminal | noun | /ˈtɜːrmɪnl/ | nhà ga (sân bay, bến) | a building where journeys start and end | Terminal 2; bus terminal; ferry terminal | International flights leave from *Terminal* 2. | Các chuyến bay quốc tế khởi hành từ nhà ga 2.
+depart | verb | /dɪˈpɑːrt/ | khởi hành | to leave a place | depart from; depart for; departing flights | The train *departs* from platform 4 at 10:15. | Tàu khởi hành từ sân ga số 4 lúc 10:15.
+fare | noun | /fer/ | giá vé (phương tiện) | the money you pay to travel | bus fare; train fare; air fare | Bus *fares* will increase next month. | Giá vé xe buýt sẽ tăng vào tháng tới.
+booking | noun | /ˈbʊkɪŋ/ | sự đặt chỗ | an arrangement to have a seat or room | make a booking; online booking; confirm a booking | Please confirm your *booking* within 24 hours. | Vui lòng xác nhận đặt chỗ trong vòng 24 giờ.
+seat | verb | /siːt/ | xếp chỗ ngồi; có sức chứa | to give someone a seat; to have enough seats for | please be seated; seats 200 people | The theatre *seats* 500 people. | Nhà hát có sức chứa 500 người. | "Please remain seated" = Vui lòng ngồi yên tại chỗ.
+cruise | noun | /kruːz/ | chuyến du ngoạn trên tàu | a holiday on a large ship | go on a cruise; cruise ship | They went on a *cruise* around the islands. | Họ đi du thuyền quanh các hòn đảo.
+ship | verb | /ʃɪp/ | vận chuyển, gửi hàng | to send goods, often by sea or post | ship an order; free shipping | Your order will be *shipped* within two days. | Đơn hàng của bạn sẽ được gửi trong hai ngày. | Nghĩa B2 rất hay gặp TOEIC: shipping = vận chuyển hàng.
+deck | noun | /dek/ | boong tàu | the floor of a ship | on deck; upper deck | Passengers can relax on the top *deck*. | Hành khách có thể thư giãn trên boong trên cùng.
+sail | verb | /seɪl/ | đi thuyền buồm, ra khơi | to travel on water in a boat | sail around; set sail | The ship *sails* at 6 a.m. | Tàu ra khơi lúc 6 giờ sáng.
+sailor | noun | /ˈseɪlər/ | thủy thủ | a person who works on a ship | an experienced sailor | My grandfather was a *sailor*. | Ông tôi là thủy thủ.
+port | noun | /pɔːrt/ | cảng | a town or area where ships stop | in port; port city; container port | Hai Phong is a major *port* in northern Vietnam. | Hải Phòng là cảng lớn ở miền Bắc Việt Nam.
+harbour | noun | /ˈhɑːrbər/ | bến cảng | an area of water where boats are kept safe | in the harbour; harbour view | The restaurant has a beautiful view of the *harbour*. | Nhà hàng có tầm nhìn đẹp ra bến cảng. | Anh-Mỹ: harbor.
+canal | noun | /kəˈnæl/ | kênh đào | a man-made waterway | the Suez Canal; canal boat | The city is famous for its *canals*. | Thành phố nổi tiếng với các kênh đào.
+highway | noun | /ˈhaɪweɪ/ | đường cao tốc, quốc lộ | a main road between cities | on the highway; highway exit | Traffic on the *highway* was heavy this morning. | Sáng nay đường cao tốc rất đông xe.
+lane | noun | /leɪn/ | làn đường; ngõ | a part of a road for one line of traffic; a narrow road | bus lane; fast lane; change lanes | The left *lane* is closed for repairs. | Làn bên trái bị đóng để sửa chữa.
+tunnel | noun | /ˈtʌnl/ | đường hầm | a passage under the ground | go through a tunnel; tunnel entrance | The train goes through a long *tunnel*. | Tàu chạy qua một đường hầm dài.
+rail | noun | /reɪl/ | đường sắt; tay vịn | the railway system; a bar to hold | by rail; rail network; hold the rail | Goods are transported by *rail*. | Hàng hóa được vận chuyển bằng đường sắt.
+transportation | noun | /ˌtrænspərˈteɪʃn/ | sự vận chuyển, phương tiện đi lại | a system for carrying people or goods | public transportation; transportation costs | *Transportation* from the airport is included. | Đã bao gồm phương tiện đưa đón từ sân bay.
+transport | noun | /ˈtrænspɔːrt/ | giao thông vận tải | vehicles for travelling; carrying goods | public transport; means of transport | The hotel is close to public *transport*. | Khách sạn gần phương tiện công cộng.
+vehicle | noun | /ˈviːəkl/ | phương tiện, xe cộ | a car, bus, truck etc. | electric vehicle; park your vehicle | Please do not leave your *vehicle* unattended. | Vui lòng không để xe không người trông coi.
+motor | noun | /ˈmoʊtər/ | động cơ | a device that makes a machine move | electric motor; motor vehicle | The fan has a quiet *motor*. | Quạt có động cơ chạy êm.
+brake | noun | /breɪk/ | phanh | a device to stop a vehicle | hit the brakes; brake pedal | The driver hit the *brakes* just in time. | Tài xế đạp phanh vừa kịp. | Đừng nhầm với break.
+tyre | noun | /ˈtaɪər/ | lốp xe | a rubber ring around a wheel | flat tyre; change a tyre | We had a flat *tyre* on the way to the airport. | Chúng tôi bị xịt lốp trên đường ra sân bay. | Anh-Mỹ: tire.
+fasten | verb | /ˈfæsn/ | thắt, cài chặt | to close or join something firmly | fasten your seat belt | Please *fasten* your seat belt. | Vui lòng thắt dây an toàn. | Chữ t câm.
+overseas | adverb | /ˌoʊvərˈsiːz/ | ở nước ngoài | in or to another country | work overseas; overseas customers | She has worked *overseas* for five years. | Cô ấy đã làm việc ở nước ngoài năm năm.
+visa | noun | /ˈviːzə/ | thị thực | an official document to enter a country | apply for a visa; work visa; tourist visa | You need a *visa* to visit that country. | Bạn cần thị thực để đến nước đó.
+expedition | noun | /ˌekspəˈdɪʃn/ | cuộc thám hiểm | an organized journey with a purpose | go on an expedition; mountain expedition | They joined an *expedition* to the Arctic. | Họ tham gia một chuyến thám hiểm Bắc Cực.
+exploration | noun | /ˌekspləˈreɪʃn/ | sự khám phá | the act of travelling to learn about a place | space exploration; exploration of | The museum shows the history of space *exploration*. | Bảo tàng giới thiệu lịch sử khám phá vũ trụ.
+tour | noun | /tʊr/ | chuyến tham quan | a journey visiting several places | guided tour; city tour; tour guide | We took a guided *tour* of the factory. | Chúng tôi tham quan nhà máy có hướng dẫn viên.
+resort | noun | /rɪˈzɔːrt/ | khu nghỉ dưỡng | a place where people go on holiday | beach resort; ski resort | They stayed at a beach *resort* in Phu Quoc. | Họ ở một khu nghỉ dưỡng biển tại Phú Quốc.
+accommodate | verb | /əˈkɑːmədeɪt/ | cung cấp chỗ ở; đáp ứng | to provide a room; to have space for; to help with a need | accommodate guests; accommodate requests | The hotel can *accommodate* up to 300 guests. | Khách sạn có thể phục vụ tối đa 300 khách.
+itinerary | noun | /aɪˈtɪnəreri/ | lịch trình chuyến đi | a plan of a journey | travel itinerary; detailed itinerary | Your *itinerary* has been sent to your e-mail. | Lịch trình của bạn đã được gửi vào e-mail.
+passenger | noun | /ˈpæsɪndʒər/ | hành khách | a person travelling in a vehicle | airline passengers; passenger seat | *Passengers* must show their boarding passes. | Hành khách phải xuất trình thẻ lên máy bay.
+platform | noun | /ˈplætfɔːrm/ | sân ga; nền tảng | the place where you get on a train; a computer system | platform 3; online platform | The train to Hue leaves from *platform* 2. | Tàu đi Huế khởi hành từ sân ga số 2.
+route | noun | /ruːt/ | tuyến đường | a way from one place to another | bus route; the fastest route | This is the fastest *route* to the airport. | Đây là đường nhanh nhất ra sân bay.
+traffic | noun | /ˈtræfɪk/ | giao thông | the vehicles on a road | heavy traffic; traffic jam; stuck in traffic | Sorry I'm late, I was stuck in *traffic*. | Xin lỗi tôi đến muộn, tôi bị kẹt xe.
+fuel | noun | /ˈfjuːəl/ | nhiên liệu | a substance burned to give power | fuel prices; fuel consumption; run out of fuel | Rising *fuel* prices have increased airfares. | Giá nhiên liệu tăng khiến giá vé máy bay tăng.
+board | verb | /bɔːrd/ | lên (tàu, xe, máy bay) | to get on a plane, train or ship | board the plane; now boarding | Passengers may now *board* the plane. | Hành khách có thể lên máy bay ngay bây giờ.
+excursion | noun | /ɪkˈskɜːrʒn/ | chuyến đi chơi ngắn | a short trip for pleasure | day excursion; go on an excursion | The price includes a half-day *excursion* to the islands. | Giá đã bao gồm chuyến tham quan nửa ngày ra đảo.

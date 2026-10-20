@@ -1,0 +1,850 @@
+{
+ "id": "toeic_purchasing",
+ "order": 55,
+ "icon": "🛒",
+ "level": "TOEIC",
+ "title": "TOEIC: Purchasing & Orders",
+ "title_vi": "TOEIC: Mua hàng & Đơn hàng",
+ "description": "Báo giá, đặt hàng số lượng lớn, phiếu giảm giá, đổi trả, bảo hành: các tình huống mua bán hay gặp trong Part 3 và Part 7.",
+ "words": [
+  {
+   "id": "tpu_purchasing",
+   "word": "purchasing",
+   "pos": "noun",
+   "ipa": "/ˈpɜːrtʃəsɪŋ/",
+   "level": "TOEIC",
+   "meaning": "việc thu mua",
+   "definition": "the buying of goods for a company",
+   "collocations": [
+    "purchasing department",
+    "purchasing manager"
+   ],
+   "examples": [
+    {
+     "en": "Send all orders to the *purchasing* department.",
+     "vi": "Gửi mọi đơn đặt hàng cho phòng thu mua."
+    }
+   ]
+  },
+  {
+   "id": "tpu_order_form",
+   "word": "order form",
+   "pos": "noun",
+   "ipa": "/ˈɔːrdər fɔːrm/",
+   "level": "TOEIC",
+   "meaning": "phiếu đặt hàng",
+   "definition": "a form used to order goods",
+   "collocations": [
+    "complete the order form"
+   ],
+   "examples": [
+    {
+     "en": "Please complete the attached *order form*.",
+     "vi": "Vui lòng điền phiếu đặt hàng đính kèm."
+    }
+   ]
+  },
+  {
+   "id": "tpu_purchase_order",
+   "word": "purchase order",
+   "pos": "noun",
+   "ipa": "/ˈpɜːrtʃəs ˌɔːrdər/",
+   "level": "TOEIC",
+   "meaning": "đơn mua hàng",
+   "definition": "an official document to buy goods",
+   "collocations": [
+    "issue a purchase order",
+    "PO number"
+   ],
+   "examples": [
+    {
+     "en": "Please include the *purchase order* number on the invoice.",
+     "vi": "Vui lòng ghi số đơn mua hàng trên hóa đơn."
+    }
+   ]
+  },
+  {
+   "id": "tpu_bulk",
+   "word": "bulk",
+   "pos": "noun",
+   "ipa": "/bʌlk/",
+   "level": "C1",
+   "meaning": "số lượng lớn",
+   "definition": "a large quantity",
+   "collocations": [
+    "buy in bulk",
+    "bulk order"
+   ],
+   "examples": [
+    {
+     "en": "We get a discount when we buy in *bulk*.",
+     "vi": "Chúng tôi được giảm giá khi mua số lượng lớn."
+    }
+   ]
+  },
+  {
+   "id": "tpu_wholesale",
+   "word": "wholesale",
+   "pos": "adjective",
+   "ipa": "/ˈhoʊlseɪl/",
+   "level": "TOEIC",
+   "meaning": "bán sỉ",
+   "definition": "selling goods in large amounts to shops",
+   "collocations": [
+    "wholesale price",
+    "wholesale market"
+   ],
+   "examples": [
+    {
+     "en": "We buy flowers at *wholesale* prices.",
+     "vi": "Chúng tôi mua hoa với giá sỉ."
+    }
+   ]
+  },
+  {
+   "id": "tpu_retailer",
+   "word": "retailer",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪlər/",
+   "level": "TOEIC",
+   "meaning": "nhà bán lẻ",
+   "definition": "a business that sells to the public",
+   "collocations": [
+    "online retailer",
+    "major retailers"
+   ],
+   "examples": [
+    {
+     "en": "The product is sold through major *retailers*.",
+     "vi": "Sản phẩm được bán qua các nhà bán lẻ lớn."
+    }
+   ]
+  },
+  {
+   "id": "tpu_vendor",
+   "word": "vendor",
+   "pos": "noun",
+   "ipa": "/ˈvendər/",
+   "level": "C1",
+   "meaning": "nhà cung cấp; người bán",
+   "definition": "a company or person that sells something",
+   "collocations": [
+    "street vendor",
+    "approved vendors"
+   ],
+   "examples": [
+    {
+     "en": "We only buy from approved *vendors*.",
+     "vi": "Chúng tôi chỉ mua từ các nhà cung cấp đã được duyệt."
+    }
+   ]
+  },
+  {
+   "id": "tpu_unit_price",
+   "word": "unit price",
+   "pos": "noun",
+   "ipa": "/ˈjuːnɪt praɪs/",
+   "level": "TOEIC",
+   "meaning": "đơn giá",
+   "definition": "the price of one item",
+   "collocations": [
+    "lower the unit price"
+   ],
+   "examples": [
+    {
+     "en": "The *unit price* drops for orders over 1,000.",
+     "vi": "Đơn giá giảm với đơn hàng trên 1.000 chiếc."
+    }
+   ]
+  },
+  {
+   "id": "tpu_in_stock",
+   "word": "in stock",
+   "pos": "adjective",
+   "ipa": "/ɪn ˈstɑːk/",
+   "level": "TOEIC",
+   "meaning": "còn hàng",
+   "definition": "available to buy",
+   "collocations": [
+    "in stock now",
+    "keep in stock"
+   ],
+   "examples": [
+    {
+     "en": "This model is currently *in stock*.",
+     "vi": "Mẫu này hiện còn hàng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_back_order",
+   "word": "back order",
+   "pos": "noun",
+   "ipa": "/ˈbæk ˌɔːrdər/",
+   "level": "TOEIC",
+   "meaning": "đơn hàng chờ (hết hàng tạm thời)",
+   "definition": "an order waiting because the item is out of stock",
+   "collocations": [
+    "on back order"
+   ],
+   "examples": [
+    {
+     "en": "The item is on *back order* until May.",
+     "vi": "Mặt hàng đang chờ hàng về đến tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "tpu_sold_out",
+   "word": "sold out",
+   "pos": "adjective",
+   "ipa": "/ˌsoʊld ˈaʊt/",
+   "level": "TOEIC",
+   "meaning": "bán hết",
+   "definition": "with no more available",
+   "collocations": [
+    "completely sold out"
+   ],
+   "examples": [
+    {
+     "en": "Tickets for the concert are *sold out*.",
+     "vi": "Vé buổi hòa nhạc đã bán hết."
+    }
+   ]
+  },
+  {
+   "id": "tpu_voucher",
+   "word": "voucher",
+   "pos": "noun",
+   "ipa": "/ˈvaʊtʃər/",
+   "level": "TOEIC",
+   "meaning": "phiếu mua hàng",
+   "definition": "a paper that can be used instead of money",
+   "collocations": [
+    "gift voucher",
+    "discount voucher"
+   ],
+   "examples": [
+    {
+     "en": "You can use this *voucher* at any of our stores.",
+     "vi": "Bạn có thể dùng phiếu này ở bất kỳ cửa hàng nào của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tpu_coupon",
+   "word": "coupon",
+   "pos": "noun",
+   "ipa": "/ˈkuːpɑːn/",
+   "level": "TOEIC",
+   "meaning": "phiếu giảm giá",
+   "definition": "a ticket that gives a discount",
+   "collocations": [
+    "discount coupon",
+    "use a coupon"
+   ],
+   "examples": [
+    {
+     "en": "Bring this *coupon* to get 20% off.",
+     "vi": "Mang phiếu này đến để được giảm 20%."
+    }
+   ]
+  },
+  {
+   "id": "tpu_promotional",
+   "word": "promotional",
+   "pos": "adjective",
+   "ipa": "/prəˈmoʊʃənl/",
+   "level": "TOEIC",
+   "meaning": "khuyến mãi, quảng bá",
+   "definition": "for advertising or special offers",
+   "collocations": [
+    "promotional code",
+    "promotional offer"
+   ],
+   "examples": [
+    {
+     "en": "Enter the *promotional* code at checkout.",
+     "vi": "Nhập mã khuyến mãi khi thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tpu_checkout",
+   "word": "checkout",
+   "pos": "noun",
+   "ipa": "/ˈtʃekaʊt/",
+   "level": "TOEIC",
+   "meaning": "quầy thanh toán; bước thanh toán",
+   "definition": "the place or step where you pay",
+   "collocations": [
+    "at the checkout",
+    "proceed to checkout"
+   ],
+   "examples": [
+    {
+     "en": "Discounts are applied at *checkout*.",
+     "vi": "Giảm giá được áp dụng khi thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tpu_cart",
+   "word": "cart",
+   "pos": "noun",
+   "ipa": "/kɑːrt/",
+   "level": "TOEIC",
+   "meaning": "xe đẩy; giỏ hàng (online)",
+   "definition": "a small vehicle for carrying things; an online shopping basket",
+   "collocations": [
+    "shopping cart",
+    "add to cart"
+   ],
+   "examples": [
+    {
+     "en": "Click \"Add to *cart*\" to buy the item.",
+     "vi": "Nhấp \"Thêm vào giỏ\" để mua sản phẩm."
+    }
+   ]
+  },
+  {
+   "id": "tpu_merchandise",
+   "word": "merchandise",
+   "pos": "noun",
+   "ipa": "/ˈmɜːrtʃəndaɪz/",
+   "level": "TOEIC",
+   "meaning": "hàng hóa",
+   "definition": "goods for sale",
+   "collocations": [
+    "display merchandise",
+    "official merchandise"
+   ],
+   "examples": [
+    {
+     "en": "All *merchandise* is 30% off this weekend.",
+     "vi": "Mọi mặt hàng giảm 30% cuối tuần này."
+    }
+   ]
+  },
+  {
+   "id": "tpu_item",
+   "word": "item",
+   "pos": "noun",
+   "ipa": "/ˈaɪtəm/",
+   "level": "A2",
+   "meaning": "món hàng; mục",
+   "definition": "a single thing in a list or group",
+   "collocations": [
+    "an item on the menu",
+    "return an item"
+   ],
+   "examples": [
+    {
+     "en": "Each *item* is checked before shipping.",
+     "vi": "Mỗi món hàng đều được kiểm tra trước khi gửi."
+    }
+   ]
+  },
+  {
+   "id": "tpu_replacement",
+   "word": "replacement",
+   "pos": "noun",
+   "ipa": "/rɪˈpleɪsmənt/",
+   "level": "C1",
+   "meaning": "sự thay thế; hàng thay thế",
+   "definition": "a new thing that replaces an old one",
+   "collocations": [
+    "send a replacement",
+    "replacement parts"
+   ],
+   "examples": [
+    {
+     "en": "We will send you a *replacement* free of charge.",
+     "vi": "Chúng tôi sẽ gửi bạn sản phẩm thay thế miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tpu_replace",
+   "word": "replace",
+   "pos": "verb",
+   "ipa": "/rɪˈpleɪs/",
+   "level": "A2",
+   "meaning": "thay thế",
+   "definition": "to put something new in place of something",
+   "collocations": [
+    "replace a part",
+    "be replaced by"
+   ],
+   "examples": [
+    {
+     "en": "The old system will be *replaced* next year.",
+     "vi": "Hệ thống cũ sẽ được thay thế vào năm tới."
+    }
+   ]
+  },
+  {
+   "id": "tpu_warranty",
+   "word": "warranty",
+   "pos": "noun",
+   "ipa": "/ˈwɔːrənti/",
+   "level": "TOEIC",
+   "meaning": "sự bảo hành",
+   "definition": "a written promise to repair a product",
+   "collocations": [
+    "under warranty",
+    "two-year warranty"
+   ],
+   "examples": [
+    {
+     "en": "The laptop is still under *warranty*.",
+     "vi": "Máy tính xách tay vẫn còn bảo hành."
+    }
+   ]
+  },
+  {
+   "id": "tpu_defective",
+   "word": "defective",
+   "pos": "adjective",
+   "ipa": "/dɪˈfektɪv/",
+   "level": "TOEIC",
+   "meaning": "bị lỗi",
+   "definition": "not working correctly",
+   "collocations": [
+    "defective products",
+    "return defective items"
+   ],
+   "examples": [
+    {
+     "en": "Please return any *defective* items within 30 days.",
+     "vi": "Vui lòng trả lại mọi sản phẩm lỗi trong vòng 30 ngày."
+    }
+   ]
+  },
+  {
+   "id": "tpu_faulty",
+   "word": "faulty",
+   "pos": "adjective",
+   "ipa": "/ˈfɔːlti/",
+   "level": "TOEIC",
+   "meaning": "bị hỏng, lỗi",
+   "definition": "not working properly",
+   "collocations": [
+    "a faulty product",
+    "faulty wiring"
+   ],
+   "examples": [
+    {
+     "en": "The *faulty* charger was replaced.",
+     "vi": "Bộ sạc lỗi đã được thay."
+    }
+   ]
+  },
+  {
+   "id": "tpu_return_policy",
+   "word": "return policy",
+   "pos": "noun",
+   "ipa": "/rɪˈtɜːrn ˌpɑːləsi/",
+   "level": "TOEIC",
+   "meaning": "chính sách đổi trả",
+   "definition": "the rules for bringing back goods",
+   "collocations": [
+    "a 30-day return policy"
+   ],
+   "examples": [
+    {
+     "en": "Our *return policy* allows returns within 14 days.",
+     "vi": "Chính sách đổi trả của chúng tôi cho phép trả hàng trong 14 ngày."
+    }
+   ]
+  },
+  {
+   "id": "tpu_exchange_policy",
+   "word": "exchange policy",
+   "pos": "noun",
+   "ipa": "/ɪksˈtʃeɪndʒ ˌpɑːləsi/",
+   "level": "TOEIC",
+   "meaning": "chính sách đổi hàng",
+   "definition": "the rules for exchanging goods",
+   "collocations": [
+    "a clear exchange policy"
+   ],
+   "examples": [
+    {
+     "en": "Please read our *exchange policy* before buying.",
+     "vi": "Vui lòng đọc chính sách đổi hàng trước khi mua."
+    }
+   ]
+  },
+  {
+   "id": "tpu_store_credit",
+   "word": "store credit",
+   "pos": "noun",
+   "ipa": "/ˌstɔːr ˈkredɪt/",
+   "level": "TOEIC",
+   "meaning": "tiền tích lũy mua hàng tại cửa hàng",
+   "definition": "money you can only spend in one store",
+   "collocations": [
+    "receive store credit"
+   ],
+   "examples": [
+    {
+     "en": "Without a receipt, you will receive *store credit*.",
+     "vi": "Nếu không có hóa đơn, bạn sẽ nhận tiền tích lũy tại cửa hàng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_complimentary",
+   "word": "complimentary",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːmplɪˈmentri/",
+   "level": "TOEIC",
+   "meaning": "miễn phí (tặng kèm)",
+   "definition": "given free",
+   "collocations": [
+    "complimentary breakfast",
+    "complimentary drinks"
+   ],
+   "examples": [
+    {
+     "en": "Guests receive a *complimentary* breakfast.",
+     "vi": "Khách được tặng bữa sáng miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tpu_free_of_charge",
+   "word": "free of charge",
+   "pos": "adverb",
+   "ipa": "/ˌfriː əv ˈtʃɑːrdʒ/",
+   "level": "TOEIC",
+   "meaning": "miễn phí",
+   "definition": "without payment",
+   "collocations": [
+    "delivered free of charge"
+   ],
+   "examples": [
+    {
+     "en": "Repairs are done *free of charge*.",
+     "vi": "Sửa chữa miễn phí."
+    }
+   ]
+  },
+  {
+   "id": "tpu_shipping",
+   "word": "shipping",
+   "pos": "noun",
+   "ipa": "/ˈʃɪpɪŋ/",
+   "level": "C1",
+   "meaning": "phí/việc vận chuyển",
+   "definition": "the sending of goods",
+   "collocations": [
+    "free shipping",
+    "shipping costs"
+   ],
+   "examples": [
+    {
+     "en": "We offer free *shipping* on all orders.",
+     "vi": "Chúng tôi miễn phí vận chuyển mọi đơn hàng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_place_an_order",
+   "word": "place an order",
+   "pos": "verb",
+   "ipa": "/ˌpleɪs ən ˈɔːrdər/",
+   "level": "TOEIC",
+   "meaning": "đặt hàng",
+   "definition": "to ask a company to supply goods",
+   "collocations": [
+    "place an order for"
+   ],
+   "examples": [
+    {
+     "en": "I'd like to *place an order* for 50 boxes of paper.",
+     "vi": "Tôi muốn đặt 50 thùng giấy."
+    }
+   ]
+  },
+  {
+   "id": "tpu_cancel_an_order",
+   "word": "cancel an order",
+   "pos": "verb",
+   "ipa": "/ˌkænsl ən ˈɔːrdər/",
+   "level": "TOEIC",
+   "meaning": "hủy đơn hàng",
+   "definition": "to stop an order",
+   "collocations": [
+    "cancel an order online"
+   ],
+   "examples": [
+    {
+     "en": "You can *cancel an order* within 24 hours.",
+     "vi": "Bạn có thể hủy đơn trong vòng 24 giờ."
+    }
+   ]
+  },
+  {
+   "id": "tpu_confirmation",
+   "word": "confirmation",
+   "pos": "noun",
+   "ipa": "/ˌkɑːnfərˈmeɪʃn/",
+   "level": "C1",
+   "meaning": "sự xác nhận",
+   "definition": "a statement that something is definite",
+   "collocations": [
+    "order confirmation",
+    "confirmation e-mail"
+   ],
+   "examples": [
+    {
+     "en": "You will receive a *confirmation* e-mail shortly.",
+     "vi": "Bạn sẽ sớm nhận được e-mail xác nhận."
+    }
+   ]
+  },
+  {
+   "id": "tpu_specification",
+   "word": "specification",
+   "pos": "noun",
+   "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+   "level": "C1",
+   "meaning": "thông số kỹ thuật",
+   "definition": "a detailed description of how something must be made",
+   "collocations": [
+    "technical specifications",
+    "meet specifications"
+   ],
+   "examples": [
+    {
+     "en": "The parts do not meet our *specifications*.",
+     "vi": "Linh kiện không đáp ứng thông số của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tpu_catalog",
+   "word": "catalog",
+   "pos": "noun",
+   "ipa": "/ˈkætəlɔːɡ/",
+   "level": "TOEIC",
+   "meaning": "danh mục sản phẩm",
+   "definition": "a list of products for sale",
+   "collocations": [
+    "product catalog",
+    "online catalog"
+   ],
+   "examples": [
+    {
+     "en": "Our new *catalog* is available online.",
+     "vi": "Danh mục sản phẩm mới có trên mạng."
+    }
+   ],
+   "note": "Anh-Anh: catalogue."
+  },
+  {
+   "id": "tpu_brochure",
+   "word": "brochure",
+   "pos": "noun",
+   "ipa": "/broʊˈʃʊr/",
+   "level": "TOEIC",
+   "meaning": "tờ quảng cáo, sách giới thiệu",
+   "definition": "a small book with information about products",
+   "collocations": [
+    "travel brochure",
+    "product brochure"
+   ],
+   "examples": [
+    {
+     "en": "Please take a *brochure* on your way out.",
+     "vi": "Vui lòng lấy một tờ giới thiệu khi ra về."
+    }
+   ]
+  },
+  {
+   "id": "tpu_flyer",
+   "word": "flyer",
+   "pos": "noun",
+   "ipa": "/ˈflaɪər/",
+   "level": "TOEIC",
+   "meaning": "tờ rơi",
+   "definition": "a sheet of paper advertising something",
+   "collocations": [
+    "hand out flyers"
+   ],
+   "examples": [
+    {
+     "en": "We handed out *flyers* at the station.",
+     "vi": "Chúng tôi phát tờ rơi ở nhà ga."
+    }
+   ]
+  },
+  {
+   "id": "tpu_price_list",
+   "word": "price list",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs lɪst/",
+   "level": "TOEIC",
+   "meaning": "bảng giá",
+   "definition": "a list of prices",
+   "collocations": [
+    "updated price list"
+   ],
+   "examples": [
+    {
+     "en": "Please find our updated *price list* attached.",
+     "vi": "Bảng giá cập nhật được đính kèm."
+    }
+   ]
+  },
+  {
+   "id": "tpu_reasonably_priced",
+   "word": "reasonably priced",
+   "pos": "adjective",
+   "ipa": "/ˌriːznəbli ˈpraɪst/",
+   "level": "TOEIC",
+   "meaning": "giá phải chăng",
+   "definition": "not too expensive",
+   "collocations": [
+    "reasonably priced meals"
+   ],
+   "examples": [
+    {
+     "en": "The hotel restaurant is *reasonably priced*.",
+     "vi": "Nhà hàng khách sạn có giá phải chăng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_affordability",
+   "word": "affordability",
+   "pos": "noun",
+   "ipa": "/əˌfɔːrdəˈbɪləti/",
+   "level": "TOEIC",
+   "meaning": "khả năng chi trả",
+   "definition": "how cheap something is for people",
+   "collocations": [
+    "housing affordability"
+   ],
+   "examples": [
+    {
+     "en": "Customers care most about *affordability*.",
+     "vi": "Khách hàng quan tâm nhất đến giá cả phải chăng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_negotiable",
+   "word": "negotiable",
+   "pos": "adjective",
+   "ipa": "/nɪˈɡoʊʃiəbl/",
+   "level": "TOEIC",
+   "meaning": "có thể thương lượng",
+   "definition": "able to be discussed and changed",
+   "collocations": [
+    "salary negotiable",
+    "price is negotiable"
+   ],
+   "examples": [
+    {
+     "en": "The price is *negotiable* for large orders.",
+     "vi": "Giá có thể thương lượng với đơn hàng lớn."
+    }
+   ]
+  },
+  {
+   "id": "tpu_procurement",
+   "word": "procurement",
+   "pos": "noun",
+   "ipa": "/prəˈkjʊrmənt/",
+   "level": "TOEIC",
+   "meaning": "việc mua sắm (vật tư)",
+   "definition": "the process of buying supplies",
+   "collocations": [
+    "procurement process"
+   ],
+   "examples": [
+    {
+     "en": "All *procurement* must follow company rules.",
+     "vi": "Mọi hoạt động mua sắm phải tuân thủ quy định công ty."
+    }
+   ]
+  },
+  {
+   "id": "tpu_stock_up",
+   "word": "stock up",
+   "pos": "verb",
+   "ipa": "/ˌstɑːk ˈʌp/",
+   "level": "TOEIC",
+   "meaning": "tích trữ, mua dự trữ",
+   "definition": "to buy a lot of something",
+   "collocations": [
+    "stock up on"
+   ],
+   "examples": [
+    {
+     "en": "We need to *stock up* on paper before the holidays.",
+     "vi": "Chúng ta cần mua dự trữ giấy trước kỳ nghỉ."
+    }
+   ]
+  },
+  {
+   "id": "tpu_restock",
+   "word": "restock",
+   "pos": "verb",
+   "ipa": "/ˌriːˈstɑːk/",
+   "level": "TOEIC",
+   "meaning": "bổ sung hàng",
+   "definition": "to fill again with goods",
+   "collocations": [
+    "restock the shelves"
+   ],
+   "examples": [
+    {
+     "en": "The shelves are *restocked* every morning.",
+     "vi": "Kệ hàng được bổ sung mỗi sáng."
+    }
+   ]
+  },
+  {
+   "id": "tpu_expire",
+   "word": "expire",
+   "pos": "verb",
+   "ipa": "/ɪkˈspaɪər/",
+   "level": "C1",
+   "meaning": "hết hạn",
+   "definition": "to come to the end of the time it can be used",
+   "collocations": [
+    "the offer expires",
+    "expired card"
+   ],
+   "examples": [
+    {
+     "en": "This coupon *expires* on May 31.",
+     "vi": "Phiếu giảm giá này hết hạn vào 31/5."
+    }
+   ]
+  },
+  {
+   "id": "tpu_expiration_date",
+   "word": "expiration date",
+   "pos": "noun",
+   "ipa": "/ˌekspəˈreɪʃn deɪt/",
+   "level": "TOEIC",
+   "meaning": "ngày hết hạn",
+   "definition": "the date after which something cannot be used",
+   "collocations": [
+    "check the expiration date"
+   ],
+   "examples": [
+    {
+     "en": "Check the *expiration date* before using the medicine.",
+     "vi": "Kiểm tra hạn sử dụng trước khi dùng thuốc."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,1430 @@
+{
+ "id": "abstract",
+ "order": 48,
+ "icon": "🌀",
+ "level": "B2",
+ "title": "Ideas & Situations",
+ "title_vi": "Khái niệm & Tình huống",
+ "description": "Issue, aspect, circumstance, pressure, confidence…: danh từ trừu tượng giúp đọc hiểu bài dài và nói về vấn đề.",
+ "words": [
+  {
+   "id": "abs_issue",
+   "word": "issue",
+   "pos": "noun",
+   "ipa": "/ˈɪʃuː/",
+   "level": "B1",
+   "meaning": "vấn đề; số (báo)",
+   "definition": "a problem or topic; one edition of a magazine",
+   "collocations": [
+    "raise an issue",
+    "the latest issue"
+   ],
+   "examples": [
+    {
+     "en": "We need to discuss a few *issues* before the launch.",
+     "vi": "Chúng ta cần bàn vài vấn đề trước buổi ra mắt."
+    }
+   ],
+   "note": "Động từ issue = phát hành, cấp (issue a ticket)."
+  },
+  {
+   "id": "abs_aspect",
+   "word": "aspect",
+   "pos": "noun",
+   "ipa": "/ˈæspekt/",
+   "level": "B2",
+   "meaning": "khía cạnh",
+   "definition": "one part or feature of something",
+   "collocations": [
+    "every aspect of",
+    "an important aspect"
+   ],
+   "examples": [
+    {
+     "en": "Price is only one *aspect* of the decision.",
+     "vi": "Giá chỉ là một khía cạnh của quyết định."
+    }
+   ]
+  },
+  {
+   "id": "abs_element",
+   "word": "element",
+   "pos": "noun",
+   "ipa": "/ˈelɪmənt/",
+   "level": "B1",
+   "meaning": "yếu tố",
+   "definition": "a part of something",
+   "collocations": [
+    "a key element",
+    "an element of risk"
+   ],
+   "examples": [
+    {
+     "en": "Trust is an important *element* of teamwork.",
+     "vi": "Sự tin tưởng là yếu tố quan trọng của làm việc nhóm."
+    }
+   ]
+  },
+  {
+   "id": "abs_instance",
+   "word": "instance",
+   "pos": "noun",
+   "ipa": "/ˈɪnstəns/",
+   "level": "B2",
+   "meaning": "trường hợp, ví dụ",
+   "definition": "an example",
+   "collocations": [
+    "for instance",
+    "in this instance"
+   ],
+   "examples": [
+    {
+     "en": "Some fruits, for *instance* bananas, are cheaper in summer.",
+     "vi": "Một số loại quả, chẳng hạn chuối, rẻ hơn vào mùa hè."
+    }
+   ]
+  },
+  {
+   "id": "abs_circumstance",
+   "word": "circumstance",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrkəmstæns/",
+   "level": "B2",
+   "meaning": "hoàn cảnh",
+   "definition": "a fact that affects a situation",
+   "collocations": [
+    "under no circumstances",
+    "due to circumstances"
+   ],
+   "examples": [
+    {
+     "en": "Under no *circumstances* should you share your password.",
+     "vi": "Trong bất kỳ hoàn cảnh nào cũng không được chia sẻ mật khẩu."
+    }
+   ]
+  },
+  {
+   "id": "abs_affair",
+   "word": "affair",
+   "pos": "noun",
+   "ipa": "/əˈfer/",
+   "level": "B2",
+   "meaning": "sự việc, công việc",
+   "definition": "an event or situation; matters",
+   "collocations": [
+    "current affairs",
+    "foreign affairs"
+   ],
+   "examples": [
+    {
+     "en": "She is interested in current *affairs*.",
+     "vi": "Cô ấy quan tâm đến thời sự."
+    }
+   ]
+  },
+  {
+   "id": "abs_existence",
+   "word": "existence",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzɪstəns/",
+   "level": "B2",
+   "meaning": "sự tồn tại",
+   "definition": "the state of existing",
+   "collocations": [
+    "in existence",
+    "come into existence"
+   ],
+   "examples": [
+    {
+     "en": "The company has been in *existence* for 50 years.",
+     "vi": "Công ty đã tồn tại 50 năm."
+    }
+   ]
+  },
+  {
+   "id": "abs_presence",
+   "word": "presence",
+   "pos": "noun",
+   "ipa": "/ˈprezns/",
+   "level": "B2",
+   "meaning": "sự hiện diện",
+   "definition": "being in a place",
+   "collocations": [
+    "online presence",
+    "in the presence of"
+   ],
+   "examples": [
+    {
+     "en": "The brand has a strong online *presence*.",
+     "vi": "Thương hiệu có sự hiện diện mạnh trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "abs_prospect",
+   "word": "prospect",
+   "pos": "noun",
+   "ipa": "/ˈprɑːspekt/",
+   "level": "B2",
+   "meaning": "triển vọng",
+   "definition": "the possibility of something happening",
+   "collocations": [
+    "job prospects",
+    "future prospects"
+   ],
+   "examples": [
+    {
+     "en": "The job offers good career *prospects*.",
+     "vi": "Công việc có triển vọng nghề nghiệp tốt."
+    }
+   ]
+  },
+  {
+   "id": "abs_reaction",
+   "word": "reaction",
+   "pos": "noun",
+   "ipa": "/riˈækʃn/",
+   "level": "B1",
+   "meaning": "phản ứng",
+   "definition": "what you do or feel because of something",
+   "collocations": [
+    "customer reaction",
+    "allergic reaction"
+   ],
+   "examples": [
+    {
+     "en": "The *reaction* to the new product has been positive.",
+     "vi": "Phản ứng với sản phẩm mới khá tích cực."
+    }
+   ]
+  },
+  {
+   "id": "abs_result",
+   "word": "result",
+   "pos": "noun",
+   "ipa": "/rɪˈzʌlt/",
+   "level": "B1",
+   "meaning": "kết quả",
+   "definition": "something caused by something else",
+   "collocations": [
+    "as a result",
+    "test results"
+   ],
+   "examples": [
+    {
+     "en": "As a *result* of the storm, flights were cancelled.",
+     "vi": "Do cơn bão, các chuyến bay bị hủy."
+    }
+   ]
+  },
+  {
+   "id": "abs_tendency",
+   "word": "tendency",
+   "pos": "noun",
+   "ipa": "/ˈtendənsi/",
+   "level": "B2",
+   "meaning": "xu hướng",
+   "definition": "a habit or likely way of behaving",
+   "collocations": [
+    "have a tendency to"
+   ],
+   "examples": [
+    {
+     "en": "He has a *tendency* to work late.",
+     "vi": "Anh ấy có xu hướng làm việc muộn."
+    }
+   ]
+  },
+  {
+   "id": "abs_tend",
+   "word": "tend",
+   "pos": "verb",
+   "ipa": "/tend/",
+   "level": "B1",
+   "meaning": "có xu hướng",
+   "definition": "to usually do something",
+   "collocations": [
+    "tend to"
+   ],
+   "examples": [
+    {
+     "en": "Prices *tend* to rise in December.",
+     "vi": "Giá thường tăng vào tháng Mười Hai."
+    }
+   ]
+  },
+  {
+   "id": "abs_trouble",
+   "word": "trouble",
+   "pos": "noun",
+   "ipa": "/ˈtrʌbl/",
+   "level": "B2",
+   "meaning": "rắc rối",
+   "definition": "problems or difficulties",
+   "collocations": [
+    "have trouble doing",
+    "in trouble"
+   ],
+   "examples": [
+    {
+     "en": "Are you having *trouble* logging in?",
+     "vi": "Bạn gặp khó khăn khi đăng nhập à?"
+    }
+   ]
+  },
+  {
+   "id": "abs_truth",
+   "word": "truth",
+   "pos": "noun",
+   "ipa": "/truːθ/",
+   "level": "B1",
+   "meaning": "sự thật",
+   "definition": "the true facts",
+   "collocations": [
+    "tell the truth",
+    "the truth is"
+   ],
+   "examples": [
+    {
+     "en": "To tell the *truth*, I'm not sure.",
+     "vi": "Nói thật thì tôi không chắc."
+    }
+   ]
+  },
+  {
+   "id": "abs_mystery",
+   "word": "mystery",
+   "pos": "noun",
+   "ipa": "/ˈmɪstri/",
+   "level": "B1",
+   "meaning": "điều bí ẩn",
+   "definition": "something not understood",
+   "collocations": [
+    "a mystery",
+    "it's a mystery"
+   ],
+   "examples": [
+    {
+     "en": "It's a *mystery* why sales dropped last month.",
+     "vi": "Thật khó hiểu vì sao doanh số tháng trước giảm."
+    }
+   ]
+  },
+  {
+   "id": "abs_clue",
+   "word": "clue",
+   "pos": "noun",
+   "ipa": "/kluː/",
+   "level": "B1",
+   "meaning": "manh mối",
+   "definition": "information that helps solve a problem",
+   "collocations": [
+    "a clue to",
+    "no clue"
+   ],
+   "examples": [
+    {
+     "en": "I have no *clue* where the file is.",
+     "vi": "Tôi chẳng biết tệp ở đâu cả."
+    }
+   ]
+  },
+  {
+   "id": "abs_coincidence",
+   "word": "coincidence",
+   "pos": "noun",
+   "ipa": "/koʊˈɪnsɪdəns/",
+   "level": "B2",
+   "meaning": "sự trùng hợp",
+   "definition": "two things happening by chance at the same time",
+   "collocations": [
+    "what a coincidence",
+    "by coincidence"
+   ],
+   "examples": [
+    {
+     "en": "What a *coincidence*! I'm staying at the same hotel.",
+     "vi": "Trùng hợp quá! Tôi cũng ở cùng khách sạn."
+    }
+   ]
+  },
+  {
+   "id": "abs_tragedy",
+   "word": "tragedy",
+   "pos": "noun",
+   "ipa": "/ˈtrædʒədi/",
+   "level": "B2",
+   "meaning": "bi kịch",
+   "definition": "a very sad event",
+   "collocations": [
+    "a terrible tragedy"
+   ],
+   "examples": [
+    {
+     "en": "The accident was a *tragedy* for the whole town.",
+     "vi": "Vụ tai nạn là bi kịch của cả thị trấn."
+    }
+   ]
+  },
+  {
+   "id": "abs_tragic",
+   "word": "tragic",
+   "pos": "adjective",
+   "ipa": "/ˈtrædʒɪk/",
+   "level": "B2",
+   "meaning": "bi thảm",
+   "definition": "very sad",
+   "collocations": [
+    "a tragic accident"
+   ],
+   "examples": [
+    {
+     "en": "The film has a *tragic* ending.",
+     "vi": "Bộ phim có kết thúc bi thảm."
+    }
+   ]
+  },
+  {
+   "id": "abs_comfort",
+   "word": "comfort",
+   "pos": "noun",
+   "ipa": "/ˈkʌmfərt/",
+   "level": "B2",
+   "meaning": "sự thoải mái; an ủi",
+   "definition": "a pleasant relaxed feeling; help when sad",
+   "collocations": [
+    "in comfort",
+    "comfort zone"
+   ],
+   "examples": [
+    {
+     "en": "Try to step out of your *comfort* zone.",
+     "vi": "Hãy thử bước ra khỏi vùng an toàn của bạn."
+    }
+   ]
+  },
+  {
+   "id": "abs_convenience",
+   "word": "convenience",
+   "pos": "noun",
+   "ipa": "/kənˈviːniəns/",
+   "level": "B2",
+   "meaning": "sự tiện lợi",
+   "definition": "being useful and easy",
+   "collocations": [
+    "at your convenience",
+    "convenience store"
+   ],
+   "examples": [
+    {
+     "en": "Please call me back at your earliest *convenience*.",
+     "vi": "Vui lòng gọi lại cho tôi sớm nhất có thể."
+    }
+   ],
+   "note": "Câu email trang trọng hay gặp."
+  },
+  {
+   "id": "abs_disadvantage",
+   "word": "disadvantage",
+   "pos": "noun",
+   "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+   "level": "B1",
+   "meaning": "bất lợi",
+   "definition": "something that makes things more difficult",
+   "collocations": [
+    "advantages and disadvantages",
+    "at a disadvantage"
+   ],
+   "examples": [
+    {
+     "en": "The main *disadvantage* is the high price.",
+     "vi": "Bất lợi chính là giá cao."
+    }
+   ]
+  },
+  {
+   "id": "abs_confidence",
+   "word": "confidence",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnfɪdəns/",
+   "level": "B2",
+   "meaning": "sự tự tin; sự tin tưởng",
+   "definition": "belief in yourself; trust",
+   "collocations": [
+    "gain confidence",
+    "in confidence"
+   ],
+   "examples": [
+    {
+     "en": "Speaking practice will help you gain *confidence*.",
+     "vi": "Luyện nói sẽ giúp bạn tự tin hơn."
+    }
+   ]
+  },
+  {
+   "id": "abs_concern",
+   "word": "concern",
+   "pos": "noun",
+   "ipa": "/kənˈsɜːrn/",
+   "level": "B2",
+   "meaning": "mối lo ngại; sự quan tâm",
+   "definition": "worry; something important to someone",
+   "collocations": [
+    "raise concerns",
+    "a cause for concern"
+   ],
+   "examples": [
+    {
+     "en": "If you have any *concerns*, please let me know.",
+     "vi": "Nếu bạn có lo ngại gì, hãy cho tôi biết."
+    }
+   ],
+   "note": "Động từ concern = liên quan (To whom it may concern)."
+  },
+  {
+   "id": "abs_concerned",
+   "word": "concerned",
+   "pos": "adjective",
+   "ipa": "/kənˈsɜːrnd/",
+   "level": "B2",
+   "meaning": "lo lắng; có liên quan",
+   "definition": "worried; involved",
+   "collocations": [
+    "concerned about",
+    "the people concerned"
+   ],
+   "examples": [
+    {
+     "en": "Customers are *concerned* about the price increase.",
+     "vi": "Khách hàng lo lắng về việc tăng giá."
+    }
+   ],
+   "note": "as far as I'm concerned = theo tôi."
+  },
+  {
+   "id": "abs_confuse",
+   "word": "confuse",
+   "pos": "verb",
+   "ipa": "/kənˈfjuːz/",
+   "level": "B1",
+   "meaning": "làm bối rối; nhầm lẫn",
+   "definition": "to make unclear; to mix up",
+   "collocations": [
+    "confuse A with B"
+   ],
+   "examples": [
+    {
+     "en": "People often *confuse* \"affect\" and \"effect\".",
+     "vi": "Mọi người hay nhầm \"affect\" với \"effect\"."
+    }
+   ]
+  },
+  {
+   "id": "abs_confused",
+   "word": "confused",
+   "pos": "adjective",
+   "ipa": "/kənˈfjuːzd/",
+   "level": "B1",
+   "meaning": "bối rối",
+   "definition": "not able to understand",
+   "collocations": [
+    "feel confused",
+    "confused about"
+   ],
+   "examples": [
+    {
+     "en": "I'm *confused* about the new rules.",
+     "vi": "Tôi bối rối về các quy định mới."
+    }
+   ]
+  },
+  {
+   "id": "abs_confusion",
+   "word": "confusion",
+   "pos": "noun",
+   "ipa": "/kənˈfjuːʒn/",
+   "level": "B2",
+   "meaning": "sự nhầm lẫn",
+   "definition": "a state of not understanding",
+   "collocations": [
+    "cause confusion",
+    "to avoid confusion"
+   ],
+   "examples": [
+    {
+     "en": "To avoid *confusion*, please label each box.",
+     "vi": "Để tránh nhầm lẫn, vui lòng dán nhãn từng hộp."
+    }
+   ]
+  },
+  {
+   "id": "abs_convinced",
+   "word": "convinced",
+   "pos": "adjective",
+   "ipa": "/kənˈvɪnst/",
+   "level": "B2",
+   "meaning": "tin chắc",
+   "definition": "completely sure",
+   "collocations": [
+    "convinced that"
+   ],
+   "examples": [
+    {
+     "en": "I'm *convinced* that this is the right choice.",
+     "vi": "Tôi tin chắc đây là lựa chọn đúng."
+    }
+   ]
+  },
+  {
+   "id": "abs_convincing",
+   "word": "convincing",
+   "pos": "adjective",
+   "ipa": "/kənˈvɪnsɪŋ/",
+   "level": "B2",
+   "meaning": "thuyết phục",
+   "definition": "making you believe something",
+   "collocations": [
+    "a convincing argument"
+   ],
+   "examples": [
+    {
+     "en": "She gave a *convincing* presentation.",
+     "vi": "Cô ấy có bài thuyết trình rất thuyết phục."
+    }
+   ]
+  },
+  {
+   "id": "abs_criticism",
+   "word": "criticism",
+   "pos": "noun",
+   "ipa": "/ˈkrɪtɪsɪzəm/",
+   "level": "B2",
+   "meaning": "sự chỉ trích; lời phê bình",
+   "definition": "negative comments",
+   "collocations": [
+    "face criticism",
+    "constructive criticism"
+   ],
+   "examples": [
+    {
+     "en": "We welcome constructive *criticism*.",
+     "vi": "Chúng tôi hoan nghênh những lời góp ý mang tính xây dựng."
+    }
+   ]
+  },
+  {
+   "id": "abs_criticize",
+   "word": "criticize",
+   "pos": "verb",
+   "ipa": "/ˈkrɪtɪsaɪz/",
+   "level": "B2",
+   "meaning": "chỉ trích",
+   "definition": "to say what is wrong",
+   "collocations": [
+    "criticize someone for"
+   ],
+   "examples": [
+    {
+     "en": "The company was *criticized* for its slow response.",
+     "vi": "Công ty bị chỉ trích vì phản ứng chậm."
+    }
+   ]
+  },
+  {
+   "id": "abs_critic",
+   "word": "critic",
+   "pos": "noun",
+   "ipa": "/ˈkrɪtɪk/",
+   "level": "B2",
+   "meaning": "nhà phê bình",
+   "definition": "a person who gives opinions on films, books etc.",
+   "collocations": [
+    "film critic",
+    "food critic"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant got good reviews from *critics*.",
+     "vi": "Nhà hàng được các nhà phê bình đánh giá tốt."
+    }
+   ]
+  },
+  {
+   "id": "abs_bias",
+   "word": "bias",
+   "pos": "noun",
+   "ipa": "/ˈbaɪəs/",
+   "level": "B2",
+   "meaning": "sự thiên vị, định kiến",
+   "definition": "unfair preference",
+   "collocations": [
+    "gender bias",
+    "without bias"
+   ],
+   "examples": [
+    {
+     "en": "The hiring process must be free from *bias*.",
+     "vi": "Quy trình tuyển dụng phải không thiên vị."
+    }
+   ]
+  },
+  {
+   "id": "abs_pressure",
+   "word": "pressure",
+   "pos": "noun",
+   "ipa": "/ˈpreʃər/",
+   "level": "B1",
+   "meaning": "áp lực",
+   "definition": "stress; force",
+   "collocations": [
+    "under pressure",
+    "work pressure",
+    "blood pressure"
+   ],
+   "examples": [
+    {
+     "en": "I work well under *pressure*.",
+     "vi": "Tôi làm việc tốt dưới áp lực."
+    }
+   ]
+  },
+  {
+   "id": "abs_power",
+   "word": "power",
+   "pos": "noun",
+   "ipa": "/ˈpaʊər/",
+   "level": "B2",
+   "meaning": "quyền lực; điện",
+   "definition": "control; energy",
+   "collocations": [
+    "power cut",
+    "power outage",
+    "in power"
+   ],
+   "examples": [
+    {
+     "en": "There was a *power* cut for two hours.",
+     "vi": "Đã mất điện hai tiếng."
+    }
+   ]
+  },
+  {
+   "id": "abs_powerful",
+   "word": "powerful",
+   "pos": "adjective",
+   "ipa": "/ˈpaʊərfl/",
+   "level": "B1",
+   "meaning": "mạnh mẽ, quyền lực",
+   "definition": "having great power",
+   "collocations": [
+    "a powerful computer",
+    "powerful people"
+   ],
+   "examples": [
+    {
+     "en": "This laptop is small but *powerful*.",
+     "vi": "Máy tính này nhỏ nhưng mạnh."
+    }
+   ]
+  },
+  {
+   "id": "abs_force",
+   "word": "force",
+   "pos": "noun",
+   "ipa": "/fɔːrs/",
+   "level": "B1",
+   "meaning": "sức mạnh; lực lượng",
+   "definition": "strength; a group of people",
+   "collocations": [
+    "sales force",
+    "workforce",
+    "come into force"
+   ],
+   "examples": [
+    {
+     "en": "The new law comes into *force* next month.",
+     "vi": "Luật mới có hiệu lực vào tháng tới."
+    }
+   ],
+   "note": "Động từ force = buộc phải."
+  },
+  {
+   "id": "abs_function",
+   "word": "function",
+   "pos": "noun",
+   "ipa": "/ˈfʌŋkʃn/",
+   "level": "B1",
+   "meaning": "chức năng; buổi tiệc chính thức",
+   "definition": "a purpose; a formal social event",
+   "collocations": [
+    "basic functions",
+    "a company function"
+   ],
+   "examples": [
+    {
+     "en": "The phone's main *function* is still making calls.",
+     "vi": "Chức năng chính của điện thoại vẫn là gọi điện."
+    }
+   ]
+  },
+  {
+   "id": "abs_formation",
+   "word": "formation",
+   "pos": "noun",
+   "ipa": "/fɔːrˈmeɪʃn/",
+   "level": "B2",
+   "meaning": "sự hình thành",
+   "definition": "the process of forming",
+   "collocations": [
+    "the formation of a new company"
+   ],
+   "examples": [
+    {
+     "en": "The *formation* of the new team took two months.",
+     "vi": "Việc thành lập đội mới mất hai tháng."
+    }
+   ]
+  },
+  {
+   "id": "abs_motion",
+   "word": "motion",
+   "pos": "noun",
+   "ipa": "/ˈmoʊʃn/",
+   "level": "B2",
+   "meaning": "chuyển động; đề xuất (cuộc họp)",
+   "definition": "movement; a formal proposal",
+   "collocations": [
+    "in slow motion",
+    "motion sensor"
+   ],
+   "examples": [
+    {
+     "en": "The doors open with a *motion* sensor.",
+     "vi": "Cửa mở nhờ cảm biến chuyển động."
+    }
+   ]
+  },
+  {
+   "id": "abs_revolution",
+   "word": "revolution",
+   "pos": "noun",
+   "ipa": "/ˌrevəˈluːʃn/",
+   "level": "B2",
+   "meaning": "cuộc cách mạng",
+   "definition": "a great change",
+   "collocations": [
+    "the digital revolution",
+    "industrial revolution"
+   ],
+   "examples": [
+    {
+     "en": "The internet started a *revolution* in shopping.",
+     "vi": "Internet đã khởi đầu cuộc cách mạng mua sắm."
+    }
+   ]
+  },
+  {
+   "id": "abs_self",
+   "word": "self",
+   "pos": "noun",
+   "ipa": "/self/",
+   "level": "B2",
+   "meaning": "bản thân",
+   "definition": "a person's own nature",
+   "collocations": [
+    "self-confidence",
+    "your true self"
+   ],
+   "examples": [
+    {
+     "en": "Online classes need *self*-discipline.",
+     "vi": "Học trực tuyến cần tính tự giác."
+    }
+   ]
+  },
+  {
+   "id": "abs_goodness",
+   "word": "goodness",
+   "pos": "noun",
+   "ipa": "/ˈɡʊdnəs/",
+   "level": "B2",
+   "meaning": "lòng tốt; trời ơi!",
+   "definition": "kindness; used to show surprise",
+   "collocations": [
+    "my goodness",
+    "thank goodness"
+   ],
+   "examples": [
+    {
+     "en": "Thank *goodness* you're here!",
+     "vi": "Ơn trời bạn đến rồi!"
+    }
+   ]
+  },
+  {
+   "id": "abs_hunger",
+   "word": "hunger",
+   "pos": "noun",
+   "ipa": "/ˈhʌŋɡər/",
+   "level": "B2",
+   "meaning": "cơn đói; sự khao khát",
+   "definition": "the feeling of needing food; a strong wish",
+   "collocations": [
+    "hunger for knowledge",
+    "die of hunger"
+   ],
+   "examples": [
+    {
+     "en": "She has a real *hunger* for learning.",
+     "vi": "Cô ấy thực sự khao khát học hỏi."
+    }
+   ]
+  },
+  {
+   "id": "abs_suffer",
+   "word": "suffer",
+   "pos": "verb",
+   "ipa": "/ˈsʌfər/",
+   "level": "B1",
+   "meaning": "chịu đựng; bị (ảnh hưởng xấu)",
+   "definition": "to experience something bad",
+   "collocations": [
+    "suffer from",
+    "suffer losses"
+   ],
+   "examples": [
+    {
+     "en": "Sales *suffered* because of the bad weather.",
+     "vi": "Doanh số bị ảnh hưởng vì thời tiết xấu."
+    }
+   ]
+  },
+  {
+   "id": "abs_suffering",
+   "word": "suffering",
+   "pos": "noun",
+   "ipa": "/ˈsʌfərɪŋ/",
+   "level": "B2",
+   "meaning": "sự đau khổ",
+   "definition": "pain or great unhappiness",
+   "collocations": [
+    "reduce suffering"
+   ],
+   "examples": [
+    {
+     "en": "The charity works to reduce *suffering* in poor areas.",
+     "vi": "Tổ chức từ thiện nỗ lực giảm khổ đau ở vùng nghèo."
+    }
+   ]
+  },
+  {
+   "id": "abs_struggle",
+   "word": "struggle",
+   "pos": "verb",
+   "ipa": "/ˈstrʌɡl/",
+   "level": "B2",
+   "meaning": "vật lộn, chật vật",
+   "definition": "to try very hard to do something difficult",
+   "collocations": [
+    "struggle with",
+    "struggle to"
+   ],
+   "examples": [
+    {
+     "en": "Many small shops are *struggling* to survive.",
+     "vi": "Nhiều cửa hàng nhỏ đang chật vật để tồn tại."
+    }
+   ]
+  },
+  {
+   "id": "abs_darkness",
+   "word": "darkness",
+   "pos": "noun",
+   "ipa": "/ˈdɑːrknəs/",
+   "level": "B2",
+   "meaning": "bóng tối",
+   "definition": "lack of light",
+   "collocations": [
+    "in darkness",
+    "total darkness"
+   ],
+   "examples": [
+    {
+     "en": "The building was in *darkness* during the power cut.",
+     "vi": "Tòa nhà chìm trong bóng tối khi mất điện."
+    }
+   ]
+  },
+  {
+   "id": "abs_silence",
+   "word": "silence",
+   "pos": "noun",
+   "ipa": "/ˈsaɪləns/",
+   "level": "B2",
+   "meaning": "sự im lặng",
+   "definition": "complete quiet",
+   "collocations": [
+    "in silence",
+    "a moment of silence"
+   ],
+   "examples": [
+    {
+     "en": "There was a long *silence* after the announcement.",
+     "vi": "Sau thông báo là một khoảng im lặng kéo dài."
+    }
+   ]
+  },
+  {
+   "id": "abs_silent",
+   "word": "silent",
+   "pos": "adjective",
+   "ipa": "/ˈsaɪlənt/",
+   "level": "B1",
+   "meaning": "im lặng",
+   "definition": "without sound",
+   "collocations": [
+    "silent mode",
+    "remain silent"
+   ],
+   "examples": [
+    {
+     "en": "Please keep your phone on *silent* during the meeting.",
+     "vi": "Vui lòng để điện thoại ở chế độ im lặng trong cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "abs_shade",
+   "word": "shade",
+   "pos": "noun",
+   "ipa": "/ʃeɪd/",
+   "level": "B2",
+   "meaning": "bóng râm; sắc độ",
+   "definition": "an area out of the sun; a type of colour",
+   "collocations": [
+    "in the shade",
+    "a shade of blue"
+   ],
+   "examples": [
+    {
+     "en": "Let's sit in the *shade*.",
+     "vi": "Chúng ta ngồi trong bóng râm nhé."
+    }
+   ]
+  },
+  {
+   "id": "abs_shadow",
+   "word": "shadow",
+   "pos": "noun",
+   "ipa": "/ˈʃædoʊ/",
+   "level": "B2",
+   "meaning": "cái bóng",
+   "definition": "a dark shape made when light is blocked",
+   "collocations": [
+    "cast a shadow",
+    "job shadowing"
+   ],
+   "examples": [
+    {
+     "en": "New staff spend a week *shadowing* senior colleagues.",
+     "vi": "Nhân viên mới dành một tuần đi theo học việc đồng nghiệp lâu năm."
+    }
+   ],
+   "note": "job shadowing = đi theo quan sát để học việc."
+  },
+  {
+   "id": "abs_attraction",
+   "word": "attraction",
+   "pos": "noun",
+   "ipa": "/əˈtrækʃn/",
+   "level": "B1",
+   "meaning": "điểm tham quan; sức hấp dẫn",
+   "definition": "a place people visit; the feeling of liking",
+   "collocations": [
+    "tourist attraction",
+    "main attraction"
+   ],
+   "examples": [
+    {
+     "en": "The old town is the city's main tourist *attraction*.",
+     "vi": "Phố cổ là điểm tham quan chính của thành phố."
+    }
+   ]
+  },
+  {
+   "id": "abs_atmosphere",
+   "word": "atmosphere",
+   "pos": "noun",
+   "ipa": "/ˈætməsfɪr/",
+   "level": "B1",
+   "meaning": "bầu không khí",
+   "definition": "the mood of a place; the air around the earth",
+   "collocations": [
+    "a friendly atmosphere",
+    "relaxed atmosphere"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has a friendly *atmosphere*.",
+     "vi": "Nhà hàng có bầu không khí thân thiện."
+    }
+   ]
+  },
+  {
+   "id": "abs_vision",
+   "word": "vision",
+   "pos": "noun",
+   "ipa": "/ˈvɪʒn/",
+   "level": "B2",
+   "meaning": "tầm nhìn; thị lực",
+   "definition": "an idea of the future; the ability to see",
+   "collocations": [
+    "a clear vision",
+    "company vision"
+   ],
+   "examples": [
+    {
+     "en": "The CEO shared her *vision* for the next ten years.",
+     "vi": "Giám đốc chia sẻ tầm nhìn cho mười năm tới."
+    }
+   ]
+  },
+  {
+   "id": "abs_metaphor",
+   "word": "metaphor",
+   "pos": "noun",
+   "ipa": "/ˈmetəfɔːr/",
+   "level": "B2",
+   "meaning": "phép ẩn dụ",
+   "definition": "a word used to describe something else in an imaginative way",
+   "collocations": [
+    "use a metaphor"
+   ],
+   "examples": [
+    {
+     "en": "\"Time is money\" is a common *metaphor*.",
+     "vi": "\"Thời gian là tiền bạc\" là một ẩn dụ phổ biến."
+    }
+   ]
+  },
+  {
+   "id": "abs_usage",
+   "word": "usage",
+   "pos": "noun",
+   "ipa": "/ˈjuːsɪdʒ/",
+   "level": "B2",
+   "meaning": "cách dùng; mức sử dụng",
+   "definition": "the way something is used; the amount used",
+   "collocations": [
+    "data usage",
+    "water usage"
+   ],
+   "examples": [
+    {
+     "en": "Check your monthly data *usage* in the app.",
+     "vi": "Kiểm tra lượng dữ liệu đã dùng hằng tháng trong ứng dụng."
+    }
+   ]
+  },
+  {
+   "id": "abs_means",
+   "word": "means",
+   "pos": "noun",
+   "ipa": "/miːnz/",
+   "level": "B2",
+   "meaning": "phương tiện, cách thức",
+   "definition": "a way of doing something",
+   "collocations": [
+    "means of transport",
+    "by means of",
+    "by all means"
+   ],
+   "examples": [
+    {
+     "en": "\"Can I borrow this?\" \"By all *means*.\"",
+     "vi": "\"Tôi mượn cái này được không?\" \"Cứ tự nhiên.\""
+    }
+   ]
+  },
+  {
+   "id": "abs_universe",
+   "word": "universe",
+   "pos": "noun",
+   "ipa": "/ˈjuːnɪvɜːrs/",
+   "level": "B2",
+   "meaning": "vũ trụ",
+   "definition": "everything that exists in space",
+   "collocations": [
+    "the universe"
+   ],
+   "examples": [
+    {
+     "en": "Scientists study how the *universe* began.",
+     "vi": "Các nhà khoa học nghiên cứu vũ trụ bắt đầu thế nào."
+    }
+   ]
+  },
+  {
+   "id": "abs_globe",
+   "word": "globe",
+   "pos": "noun",
+   "ipa": "/ɡloʊb/",
+   "level": "B2",
+   "meaning": "quả địa cầu; thế giới",
+   "definition": "a round model of the earth; the world",
+   "collocations": [
+    "around the globe"
+   ],
+   "examples": [
+    {
+     "en": "We have customers all around the *globe*.",
+     "vi": "Chúng tôi có khách hàng trên khắp thế giới."
+    }
+   ]
+  },
+  {
+   "id": "abs_global",
+   "word": "global",
+   "pos": "adjective",
+   "ipa": "/ˈɡloʊbl/",
+   "level": "B1",
+   "meaning": "toàn cầu",
+   "definition": "covering the whole world",
+   "collocations": [
+    "global market",
+    "global warming"
+   ],
+   "examples": [
+    {
+     "en": "The company is a *global* leader in software.",
+     "vi": "Công ty dẫn đầu toàn cầu về phần mềm."
+    }
+   ]
+  },
+  {
+   "id": "abs_globalization",
+   "word": "globalization",
+   "pos": "noun",
+   "ipa": "/ˌɡloʊbələˈzeɪʃn/",
+   "level": "B2",
+   "meaning": "toàn cầu hóa",
+   "definition": "the process of becoming connected worldwide",
+   "collocations": [
+    "the effects of globalization"
+   ],
+   "examples": [
+    {
+     "en": "*Globalization* has created new markets.",
+     "vi": "Toàn cầu hóa đã tạo ra thị trường mới."
+    }
+   ]
+  },
+  {
+   "id": "abs_worldwide",
+   "word": "worldwide",
+   "pos": "adverb",
+   "ipa": "/ˌwɜːrldˈwaɪd/",
+   "level": "B1",
+   "meaning": "khắp thế giới",
+   "definition": "everywhere in the world",
+   "collocations": [
+    "ship worldwide",
+    "worldwide sales"
+   ],
+   "examples": [
+    {
+     "en": "We ship *worldwide*.",
+     "vi": "Chúng tôi giao hàng toàn thế giới."
+    }
+   ]
+  },
+  {
+   "id": "abs_zone",
+   "word": "zone",
+   "pos": "noun",
+   "ipa": "/zoʊn/",
+   "level": "B2",
+   "meaning": "khu vực",
+   "definition": "an area with a special purpose",
+   "collocations": [
+    "time zone",
+    "no-parking zone"
+   ],
+   "examples": [
+    {
+     "en": "We work across three time *zones*.",
+     "vi": "Chúng tôi làm việc trên ba múi giờ."
+    }
+   ]
+  },
+  {
+   "id": "abs_path",
+   "word": "path",
+   "pos": "noun",
+   "ipa": "/pæθ/",
+   "level": "B1",
+   "meaning": "con đường mòn; hướng đi",
+   "definition": "a narrow way for walking; a direction",
+   "collocations": [
+    "career path",
+    "follow a path"
+   ],
+   "examples": [
+    {
+     "en": "She chose a different career *path*.",
+     "vi": "Cô ấy chọn một hướng nghề nghiệp khác."
+    }
+   ]
+  },
+  {
+   "id": "abs_alien",
+   "word": "alien",
+   "pos": "adjective",
+   "ipa": "/ˈeɪliən/",
+   "level": "B2",
+   "meaning": "xa lạ; người ngoài hành tinh",
+   "definition": "strange; from another place",
+   "collocations": [
+    "alien to"
+   ],
+   "examples": [
+    {
+     "en": "The idea of working from home was *alien* to my parents.",
+     "vi": "Ý tưởng làm việc tại nhà rất xa lạ với bố mẹ tôi."
+    }
+   ]
+  },
+  {
+   "id": "abs_monster",
+   "word": "monster",
+   "pos": "noun",
+   "ipa": "/ˈmɑːnstər/",
+   "level": "B2",
+   "meaning": "quái vật",
+   "definition": "a large frightening creature",
+   "collocations": [
+    "a sea monster"
+   ],
+   "examples": [
+    {
+     "en": "The children's film is about a friendly *monster*.",
+     "vi": "Bộ phim thiếu nhi kể về một con quái vật thân thiện."
+    }
+   ]
+  },
+  {
+   "id": "abs_master",
+   "word": "master",
+   "pos": "verb",
+   "ipa": "/ˈmæstər/",
+   "level": "B2",
+   "meaning": "thành thạo",
+   "definition": "to learn completely",
+   "collocations": [
+    "master a skill",
+    "master a language"
+   ],
+   "examples": [
+    {
+     "en": "It takes years to *master* a language.",
+     "vi": "Cần nhiều năm để thành thạo một ngôn ngữ."
+    }
+   ],
+   "note": "master's degree = bằng thạc sĩ."
+  },
+  {
+   "id": "abs_balance",
+   "word": "balance",
+   "pos": "noun",
+   "ipa": "/ˈbæləns/",
+   "level": "B1",
+   "meaning": "sự cân bằng; số dư",
+   "definition": "an equal state; money in an account",
+   "collocations": [
+    "work-life balance",
+    "account balance"
+   ],
+   "examples": [
+    {
+     "en": "Check your account *balance* online.",
+     "vi": "Kiểm tra số dư tài khoản trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "abs_balanced",
+   "word": "balanced",
+   "pos": "adjective",
+   "ipa": "/ˈbælənst/",
+   "level": "B2",
+   "meaning": "cân bằng",
+   "definition": "with parts in the right amounts",
+   "collocations": [
+    "a balanced diet"
+   ],
+   "examples": [
+    {
+     "en": "Eat a *balanced* diet.",
+     "vi": "Ăn uống cân bằng."
+    }
+   ]
+  },
+  {
+   "id": "abs_barrier",
+   "word": "barrier",
+   "pos": "noun",
+   "ipa": "/ˈbæriər/",
+   "level": "B2",
+   "meaning": "rào cản",
+   "definition": "something that stops progress",
+   "collocations": [
+    "language barrier",
+    "a barrier to"
+   ],
+   "examples": [
+    {
+     "en": "Language can be a *barrier* to working abroad.",
+     "vi": "Ngôn ngữ có thể là rào cản khi làm việc ở nước ngoài."
+    }
+   ]
+  },
+  {
+   "id": "abs_dependent",
+   "word": "dependent",
+   "pos": "adjective",
+   "ipa": "/dɪˈpendənt/",
+   "level": "B2",
+   "meaning": "phụ thuộc",
+   "definition": "needing someone or something",
+   "collocations": [
+    "dependent on"
+   ],
+   "examples": [
+    {
+     "en": "The price is *dependent* on the size of the order.",
+     "vi": "Giá phụ thuộc vào số lượng đặt hàng."
+    }
+   ]
+  },
+  {
+   "id": "abs_involved",
+   "word": "involved",
+   "pos": "adjective",
+   "ipa": "/ɪnˈvɑːlvd/",
+   "level": "B1",
+   "meaning": "tham gia, liên quan; phức tạp",
+   "definition": "taking part; complicated",
+   "collocations": [
+    "get involved in",
+    "the people involved"
+   ],
+   "examples": [
+    {
+     "en": "Everyone *involved* in the project should attend.",
+     "vi": "Mọi người tham gia dự án đều nên có mặt."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,848 @@
+{
+ "id": "toeic_sales",
+ "order": 68,
+ "icon": "📈",
+ "level": "TOEIC",
+ "title": "TOEIC: Sales & Business Strategy",
+ "title_vi": "TOEIC: Bán hàng & Chiến lược kinh doanh",
+ "description": "Doanh số, thị phần, khách hàng tiềm năng, chiến lược, mở rộng: từ vựng của báo cáo kinh doanh và bài nói Part 4.",
+ "words": [
+  {
+   "id": "tsa_sales_figures",
+   "word": "sales figures",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌfɪɡjərz/",
+   "level": "TOEIC",
+   "meaning": "số liệu bán hàng",
+   "definition": "numbers showing how much was sold",
+   "collocations": [
+    "quarterly sales figures"
+   ],
+   "examples": [
+    {
+     "en": "Our *sales figures* improved this month.",
+     "vi": "Số liệu bán hàng tháng này đã cải thiện."
+    }
+   ]
+  },
+  {
+   "id": "tsa_sales_representative",
+   "word": "sales representative",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌreprɪzentətɪv/",
+   "level": "TOEIC",
+   "meaning": "nhân viên kinh doanh",
+   "definition": "a person who sells a company's products",
+   "collocations": [
+    "contact a sales representative"
+   ],
+   "examples": [
+    {
+     "en": "A *sales representative* will contact you shortly.",
+     "vi": "Nhân viên kinh doanh sẽ sớm liên hệ bạn."
+    }
+   ]
+  },
+  {
+   "id": "tsa_sales_pitch",
+   "word": "sales pitch",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz pɪtʃ/",
+   "level": "TOEIC",
+   "meaning": "bài chào hàng",
+   "definition": "a talk to persuade someone to buy",
+   "collocations": [
+    "give a sales pitch"
+   ],
+   "examples": [
+    {
+     "en": "Keep your *sales pitch* short and clear.",
+     "vi": "Hãy giữ bài chào hàng ngắn gọn, rõ ràng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_prospective",
+   "word": "prospective",
+   "pos": "adjective",
+   "ipa": "/prəˈspektɪv/",
+   "level": "C1",
+   "meaning": "tiềm năng, tương lai",
+   "definition": "likely to become something",
+   "collocations": [
+    "prospective clients",
+    "prospective employees"
+   ],
+   "examples": [
+    {
+     "en": "We are meeting *prospective* clients next week.",
+     "vi": "Tuần tới chúng tôi gặp khách hàng tiềm năng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_lead_generation",
+   "word": "lead generation",
+   "pos": "noun",
+   "ipa": "/ˈliːd dʒenəˌreɪʃn/",
+   "level": "TOEIC",
+   "meaning": "tạo khách hàng tiềm năng",
+   "definition": "finding people who may buy",
+   "collocations": [
+    "improve lead generation"
+   ],
+   "examples": [
+    {
+     "en": "The website is our main source of *lead generation*.",
+     "vi": "Website là nguồn chính tạo khách hàng tiềm năng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_clientele",
+   "word": "clientele",
+   "pos": "noun",
+   "ipa": "/ˌklaɪənˈtel/",
+   "level": "TOEIC",
+   "meaning": "tập khách hàng",
+   "definition": "the customers of a business",
+   "collocations": [
+    "a loyal clientele",
+    "wealthy clientele"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has a loyal *clientele*.",
+     "vi": "Nhà hàng có lượng khách quen trung thành."
+    }
+   ]
+  },
+  {
+   "id": "tsa_customer_base",
+   "word": "customer base",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəmər beɪs/",
+   "level": "TOEIC",
+   "meaning": "tập khách hàng",
+   "definition": "all the customers of a business",
+   "collocations": [
+    "expand our customer base"
+   ],
+   "examples": [
+    {
+     "en": "We want to grow our *customer base* in Asia.",
+     "vi": "Chúng tôi muốn mở rộng tập khách hàng ở châu Á."
+    }
+   ]
+  },
+  {
+   "id": "tsa_market_share",
+   "word": "market share",
+   "pos": "noun",
+   "ipa": "/ˌmɑːrkɪt ˈʃer/",
+   "level": "TOEIC",
+   "meaning": "thị phần",
+   "definition": "the percentage of a market a company controls",
+   "collocations": [
+    "gain market share"
+   ],
+   "examples": [
+    {
+     "en": "The company increased its *market share* to 25%.",
+     "vi": "Công ty tăng thị phần lên 25%."
+    }
+   ]
+  },
+  {
+   "id": "tsa_market_research",
+   "word": "market research",
+   "pos": "noun",
+   "ipa": "/ˌmɑːrkɪt rɪˈsɜːrtʃ/",
+   "level": "TOEIC",
+   "meaning": "nghiên cứu thị trường",
+   "definition": "collecting information about customers",
+   "collocations": [
+    "conduct market research"
+   ],
+   "examples": [
+    {
+     "en": "*Market research* shows strong demand for the product.",
+     "vi": "Nghiên cứu thị trường cho thấy nhu cầu cao với sản phẩm."
+    }
+   ]
+  },
+  {
+   "id": "tsa_target_market",
+   "word": "target market",
+   "pos": "noun",
+   "ipa": "/ˌtɑːrɡɪt ˈmɑːrkɪt/",
+   "level": "TOEIC",
+   "meaning": "thị trường mục tiêu",
+   "definition": "the group of customers a company wants",
+   "collocations": [
+    "identify your target market"
+   ],
+   "examples": [
+    {
+     "en": "Our *target market* is young professionals.",
+     "vi": "Thị trường mục tiêu của chúng tôi là người trẻ đi làm."
+    }
+   ]
+  },
+  {
+   "id": "tsa_strategy",
+   "word": "strategy",
+   "pos": "noun",
+   "ipa": "/ˈstrætədʒi/",
+   "level": "A2",
+   "meaning": "chiến lược",
+   "definition": "a plan to achieve a goal",
+   "collocations": [
+    "marketing strategy",
+    "business strategy"
+   ],
+   "examples": [
+    {
+     "en": "We need a new *strategy* to attract young customers.",
+     "vi": "Chúng ta cần chiến lược mới để thu hút khách hàng trẻ."
+    }
+   ]
+  },
+  {
+   "id": "tsa_strategic",
+   "word": "strategic",
+   "pos": "adjective",
+   "ipa": "/strəˈtiːdʒɪk/",
+   "level": "C1",
+   "meaning": "mang tính chiến lược",
+   "definition": "part of a plan",
+   "collocations": [
+    "strategic partner",
+    "strategic decision"
+   ],
+   "examples": [
+    {
+     "en": "Moving to Singapore was a *strategic* decision.",
+     "vi": "Chuyển sang Singapore là một quyết định chiến lược."
+    }
+   ]
+  },
+  {
+   "id": "tsa_competitive_advantage",
+   "word": "competitive advantage",
+   "pos": "noun",
+   "ipa": "/kəmˌpetətɪv ədˈvæntɪdʒ/",
+   "level": "TOEIC",
+   "meaning": "lợi thế cạnh tranh",
+   "definition": "something that makes a company better than rivals",
+   "collocations": [
+    "gain a competitive advantage"
+   ],
+   "examples": [
+    {
+     "en": "Fast delivery gives us a *competitive advantage*.",
+     "vi": "Giao hàng nhanh mang lại lợi thế cạnh tranh cho chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tsa_market_leader",
+   "word": "market leader",
+   "pos": "noun",
+   "ipa": "/ˌmɑːrkɪt ˈliːdər/",
+   "level": "TOEIC",
+   "meaning": "công ty dẫn đầu thị trường",
+   "definition": "the company with the biggest share",
+   "collocations": [
+    "become the market leader"
+   ],
+   "examples": [
+    {
+     "en": "They are the *market leader* in home appliances.",
+     "vi": "Họ dẫn đầu thị trường đồ gia dụng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_brand_awareness",
+   "word": "brand awareness",
+   "pos": "noun",
+   "ipa": "/ˈbrænd əˌwernəs/",
+   "level": "TOEIC",
+   "meaning": "độ nhận diện thương hiệu",
+   "definition": "how well people know a brand",
+   "collocations": [
+    "increase brand awareness"
+   ],
+   "examples": [
+    {
+     "en": "The campaign aims to increase *brand awareness*.",
+     "vi": "Chiến dịch nhằm tăng độ nhận diện thương hiệu."
+    }
+   ]
+  },
+  {
+   "id": "tsa_branding",
+   "word": "branding",
+   "pos": "noun",
+   "ipa": "/ˈbrændɪŋ/",
+   "level": "TOEIC",
+   "meaning": "xây dựng thương hiệu",
+   "definition": "creating a brand image",
+   "collocations": [
+    "strong branding"
+   ],
+   "examples": [
+    {
+     "en": "Good *branding* helps customers remember you.",
+     "vi": "Xây dựng thương hiệu tốt giúp khách nhớ đến bạn."
+    }
+   ]
+  },
+  {
+   "id": "tsa_endorse",
+   "word": "endorse",
+   "pos": "verb",
+   "ipa": "/ɪnˈdɔːrs/",
+   "level": "C1",
+   "meaning": "ủng hộ; quảng cáo cho",
+   "definition": "to support publicly; to appear in ads for",
+   "collocations": [
+    "endorse a product"
+   ],
+   "examples": [
+    {
+     "en": "A famous athlete *endorses* the shoes.",
+     "vi": "Một vận động viên nổi tiếng làm đại diện quảng cáo cho đôi giày."
+    }
+   ]
+  },
+  {
+   "id": "tsa_testimonial",
+   "word": "testimonial",
+   "pos": "noun",
+   "ipa": "/ˌtestɪˈmoʊniəl/",
+   "level": "TOEIC",
+   "meaning": "lời chứng thực của khách hàng",
+   "definition": "a statement praising a product or person",
+   "collocations": [
+    "customer testimonials"
+   ],
+   "examples": [
+    {
+     "en": "Read *testimonials* from our happy customers.",
+     "vi": "Đọc nhận xét từ những khách hàng hài lòng của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tsa_upsell",
+   "word": "upsell",
+   "pos": "verb",
+   "ipa": "/ˈʌpsel/",
+   "level": "TOEIC",
+   "meaning": "bán thêm (sản phẩm đắt hơn)",
+   "definition": "to persuade a customer to buy something more expensive",
+   "collocations": [
+    "upsell customers"
+   ],
+   "examples": [
+    {
+     "en": "Staff are trained to *upsell* larger sizes.",
+     "vi": "Nhân viên được đào tạo để mời khách mua cỡ lớn hơn."
+    }
+   ]
+  },
+  {
+   "id": "tsa_revenue_stream",
+   "word": "revenue stream",
+   "pos": "noun",
+   "ipa": "/ˈrevənuː striːm/",
+   "level": "TOEIC",
+   "meaning": "nguồn doanh thu",
+   "definition": "a source of income",
+   "collocations": [
+    "a new revenue stream"
+   ],
+   "examples": [
+    {
+     "en": "Online classes are a new *revenue stream* for us.",
+     "vi": "Lớp học trực tuyến là nguồn doanh thu mới của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tsa_profit_margin",
+   "word": "profit margin",
+   "pos": "noun",
+   "ipa": "/ˈprɑːfɪt ˌmɑːrdʒɪn/",
+   "level": "TOEIC",
+   "meaning": "biên lợi nhuận",
+   "definition": "the difference between cost and selling price",
+   "collocations": [
+    "a high profit margin"
+   ],
+   "examples": [
+    {
+     "en": "Luxury goods have a high *profit margin*.",
+     "vi": "Hàng xa xỉ có biên lợi nhuận cao."
+    }
+   ]
+  },
+  {
+   "id": "tsa_growth_rate",
+   "word": "growth rate",
+   "pos": "noun",
+   "ipa": "/ˈɡroʊθ reɪt/",
+   "level": "TOEIC",
+   "meaning": "tốc độ tăng trưởng",
+   "definition": "how fast something grows",
+   "collocations": [
+    "annual growth rate"
+   ],
+   "examples": [
+    {
+     "en": "The *growth rate* slowed in the third quarter.",
+     "vi": "Tốc độ tăng trưởng chậm lại trong quý ba."
+    }
+   ]
+  },
+  {
+   "id": "tsa_quota",
+   "word": "quota",
+   "pos": "noun",
+   "ipa": "/ˈkwoʊtə/",
+   "level": "C1",
+   "meaning": "chỉ tiêu, hạn ngạch",
+   "definition": "a fixed amount that must be achieved",
+   "collocations": [
+    "sales quota",
+    "meet a quota"
+   ],
+   "examples": [
+    {
+     "en": "Each salesperson has a monthly *quota*.",
+     "vi": "Mỗi nhân viên bán hàng có chỉ tiêu hằng tháng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_benchmark",
+   "word": "benchmark",
+   "pos": "noun",
+   "ipa": "/ˈbentʃmɑːrk/",
+   "level": "C1",
+   "meaning": "tiêu chuẩn so sánh",
+   "definition": "a standard used for comparison",
+   "collocations": [
+    "set a benchmark",
+    "industry benchmark"
+   ],
+   "examples": [
+    {
+     "en": "Their service is the *benchmark* for the industry.",
+     "vi": "Dịch vụ của họ là chuẩn mực của ngành."
+    }
+   ]
+  },
+  {
+   "id": "tsa_outperform",
+   "word": "outperform",
+   "pos": "verb",
+   "ipa": "/ˌaʊtpərˈfɔːrm/",
+   "level": "TOEIC",
+   "meaning": "vượt trội hơn",
+   "definition": "to do better than",
+   "collocations": [
+    "outperform competitors"
+   ],
+   "examples": [
+    {
+     "en": "Our new store *outperformed* all others.",
+     "vi": "Cửa hàng mới của chúng tôi vượt trội hơn tất cả các cửa hàng khác."
+    }
+   ]
+  },
+  {
+   "id": "tsa_merchandising",
+   "word": "merchandising",
+   "pos": "noun",
+   "ipa": "/ˈmɜːrtʃəndaɪzɪŋ/",
+   "level": "TOEIC",
+   "meaning": "trưng bày hàng hóa",
+   "definition": "the way products are displayed and promoted",
+   "collocations": [
+    "visual merchandising"
+   ],
+   "examples": [
+    {
+     "en": "Good *merchandising* increases sales.",
+     "vi": "Trưng bày hàng tốt giúp tăng doanh số."
+    }
+   ]
+  },
+  {
+   "id": "tsa_point_of_sale",
+   "word": "point of sale",
+   "pos": "noun",
+   "ipa": "/ˌpɔɪnt əv ˈseɪl/",
+   "level": "TOEIC",
+   "meaning": "điểm bán hàng",
+   "definition": "the place where a sale happens",
+   "collocations": [
+    "point-of-sale system"
+   ],
+   "examples": [
+    {
+     "en": "We installed a new *point of sale* system.",
+     "vi": "Chúng tôi lắp hệ thống bán hàng mới."
+    }
+   ]
+  },
+  {
+   "id": "tsa_distribution_channel",
+   "word": "distribution channel",
+   "pos": "noun",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn ˌtʃænl/",
+   "level": "TOEIC",
+   "meaning": "kênh phân phối",
+   "definition": "the way products reach customers",
+   "collocations": [
+    "online distribution channels"
+   ],
+   "examples": [
+    {
+     "en": "The internet is our main *distribution channel*.",
+     "vi": "Internet là kênh phân phối chính của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tsa_franchise",
+   "word": "franchise",
+   "pos": "noun",
+   "ipa": "/ˈfræntʃaɪz/",
+   "level": "C1",
+   "meaning": "nhượng quyền thương mại",
+   "definition": "a right to sell a company's products under its name",
+   "collocations": [
+    "open a franchise",
+    "franchise owner"
+   ],
+   "examples": [
+    {
+     "en": "She owns three coffee shop *franchises*.",
+     "vi": "Cô ấy sở hữu ba cửa hàng cà phê nhượng quyền."
+    }
+   ]
+  },
+  {
+   "id": "tsa_startup",
+   "word": "startup",
+   "pos": "noun",
+   "ipa": "/ˈstɑːrtʌp/",
+   "level": "TOEIC",
+   "meaning": "công ty khởi nghiệp",
+   "definition": "a new small company",
+   "collocations": [
+    "tech startup"
+   ],
+   "examples": [
+    {
+     "en": "He works for a small tech *startup*.",
+     "vi": "Anh ấy làm cho một công ty khởi nghiệp công nghệ nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "tsa_stakeholder",
+   "word": "stakeholder",
+   "pos": "noun",
+   "ipa": "/ˈsteɪkhoʊldər/",
+   "level": "TOEIC",
+   "meaning": "bên liên quan",
+   "definition": "a person with an interest in a business",
+   "collocations": [
+    "key stakeholders"
+   ],
+   "examples": [
+    {
+     "en": "We met with all *stakeholders* to discuss the plan.",
+     "vi": "Chúng tôi họp với tất cả bên liên quan để bàn kế hoạch."
+    }
+   ]
+  },
+  {
+   "id": "tsa_feasibility",
+   "word": "feasibility",
+   "pos": "noun",
+   "ipa": "/ˌfiːzəˈbɪləti/",
+   "level": "TOEIC",
+   "meaning": "tính khả thi",
+   "definition": "how possible something is",
+   "collocations": [
+    "feasibility study"
+   ],
+   "examples": [
+    {
+     "en": "A *feasibility* study will be done first.",
+     "vi": "Sẽ làm nghiên cứu khả thi trước."
+    }
+   ]
+  },
+  {
+   "id": "tsa_feasible",
+   "word": "feasible",
+   "pos": "adjective",
+   "ipa": "/ˈfiːzəbl/",
+   "level": "TOEIC",
+   "meaning": "khả thi",
+   "definition": "possible to do",
+   "collocations": [
+    "a feasible plan"
+   ],
+   "examples": [
+    {
+     "en": "Is it *feasible* to finish by Friday?",
+     "vi": "Có khả thi để hoàn thành trước thứ Sáu không?"
+    }
+   ]
+  },
+  {
+   "id": "tsa_diversify",
+   "word": "diversify",
+   "pos": "verb",
+   "ipa": "/daɪˈvɜːrsɪfaɪ/",
+   "level": "TOEIC",
+   "meaning": "đa dạng hóa",
+   "definition": "to start doing different kinds of business",
+   "collocations": [
+    "diversify into"
+   ],
+   "examples": [
+    {
+     "en": "The company *diversified* into healthcare.",
+     "vi": "Công ty đa dạng hóa sang lĩnh vực y tế."
+    }
+   ]
+  },
+  {
+   "id": "tsa_streamline",
+   "word": "streamline",
+   "pos": "verb",
+   "ipa": "/ˈstriːmlaɪn/",
+   "level": "TOEIC",
+   "meaning": "tinh gọn",
+   "definition": "to make a process simpler and more efficient",
+   "collocations": [
+    "streamline the process"
+   ],
+   "examples": [
+    {
+     "en": "We *streamlined* the ordering process.",
+     "vi": "Chúng tôi đã tinh gọn quy trình đặt hàng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_restructure",
+   "word": "restructure",
+   "pos": "verb",
+   "ipa": "/ˌriːˈstrʌktʃər/",
+   "level": "TOEIC",
+   "meaning": "tái cơ cấu",
+   "definition": "to organize a company in a new way",
+   "collocations": [
+    "restructure the company"
+   ],
+   "examples": [
+    {
+     "en": "The company was *restructured* last year.",
+     "vi": "Công ty được tái cơ cấu năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "tsa_downsize",
+   "word": "downsize",
+   "pos": "verb",
+   "ipa": "/ˈdaʊnsaɪz/",
+   "level": "TOEIC",
+   "meaning": "cắt giảm quy mô",
+   "definition": "to reduce the number of employees",
+   "collocations": [
+    "downsize the workforce"
+   ],
+   "examples": [
+    {
+     "en": "The firm *downsized* from 500 to 300 staff.",
+     "vi": "Công ty cắt giảm từ 500 xuống 300 nhân viên."
+    }
+   ]
+  },
+  {
+   "id": "tsa_outlet",
+   "word": "outlet",
+   "pos": "noun",
+   "ipa": "/ˈaʊtlet/",
+   "level": "C1",
+   "meaning": "cửa hàng bán lẻ; ổ cắm",
+   "definition": "a shop selling a company's goods; an electrical socket",
+   "collocations": [
+    "retail outlet",
+    "power outlet"
+   ],
+   "examples": [
+    {
+     "en": "The brand has 50 *outlets* nationwide.",
+     "vi": "Thương hiệu có 50 cửa hàng trên toàn quốc."
+    }
+   ]
+  },
+  {
+   "id": "tsa_headcount",
+   "word": "headcount",
+   "pos": "noun",
+   "ipa": "/ˈhedkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "số lượng nhân sự",
+   "definition": "the number of people employed",
+   "collocations": [
+    "reduce headcount"
+   ],
+   "examples": [
+    {
+     "en": "Our *headcount* grew by 20% this year.",
+     "vi": "Số lượng nhân sự của chúng tôi tăng 20% năm nay."
+    }
+   ]
+  },
+  {
+   "id": "tsa_key_account",
+   "word": "key account",
+   "pos": "noun",
+   "ipa": "/ˌkiː əˈkaʊnt/",
+   "level": "TOEIC",
+   "meaning": "khách hàng quan trọng",
+   "definition": "an important client",
+   "collocations": [
+    "key account manager"
+   ],
+   "examples": [
+    {
+     "en": "She manages our *key accounts*.",
+     "vi": "Cô ấy quản lý các khách hàng quan trọng của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "tsa_close_a_deal",
+   "word": "close a deal",
+   "pos": "verb",
+   "ipa": "/ˌkloʊz ə ˈdiːl/",
+   "level": "TOEIC",
+   "meaning": "chốt thỏa thuận",
+   "definition": "to complete a business agreement",
+   "collocations": [
+    "close a deal with"
+   ],
+   "examples": [
+    {
+     "en": "We hope to *close a deal* by the end of the month.",
+     "vi": "Chúng tôi hy vọng chốt được thỏa thuận trước cuối tháng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_counteroffer",
+   "word": "counteroffer",
+   "pos": "noun",
+   "ipa": "/ˈkaʊntərɔːfər/",
+   "level": "TOEIC",
+   "meaning": "đề nghị ngược lại",
+   "definition": "an offer made in reply to another offer",
+   "collocations": [
+    "make a counteroffer"
+   ],
+   "examples": [
+    {
+     "en": "They rejected our price and made a *counteroffer*.",
+     "vi": "Họ từ chối giá của chúng tôi và đưa ra đề nghị khác."
+    }
+   ]
+  },
+  {
+   "id": "tsa_terms_of_payment",
+   "word": "terms of payment",
+   "pos": "noun",
+   "ipa": "/ˌtɜːrmz əv ˈpeɪmənt/",
+   "level": "TOEIC",
+   "meaning": "điều khoản thanh toán",
+   "definition": "how and when payment must be made",
+   "collocations": [
+    "agree on terms of payment"
+   ],
+   "examples": [
+    {
+     "en": "We need to agree on *terms of payment*.",
+     "vi": "Chúng ta cần thống nhất điều khoản thanh toán."
+    }
+   ]
+  },
+  {
+   "id": "tsa_win_win",
+   "word": "win-win",
+   "pos": "adjective",
+   "ipa": "/ˌwɪn ˈwɪn/",
+   "level": "TOEIC",
+   "meaning": "đôi bên cùng có lợi",
+   "definition": "good for everyone involved",
+   "collocations": [
+    "a win-win situation"
+   ],
+   "examples": [
+    {
+     "en": "The partnership is a *win-win* for both companies.",
+     "vi": "Sự hợp tác mang lại lợi ích cho cả hai công ty."
+    }
+   ]
+  },
+  {
+   "id": "tsa_bottom_line",
+   "word": "bottom line",
+   "pos": "noun",
+   "ipa": "/ˌbɑːtəm ˈlaɪn/",
+   "level": "TOEIC",
+   "meaning": "lợi nhuận cuối cùng; điều cốt yếu",
+   "definition": "the final profit; the most important fact",
+   "collocations": [
+    "affect the bottom line"
+   ],
+   "examples": [
+    {
+     "en": "Lower costs will improve our *bottom line*.",
+     "vi": "Chi phí thấp hơn sẽ cải thiện lợi nhuận cuối cùng."
+    }
+   ]
+  },
+  {
+   "id": "tsa_roi",
+   "word": "ROI",
+   "pos": "noun",
+   "ipa": "/ˌɑːr oʊ ˈaɪ/",
+   "level": "TOEIC",
+   "meaning": "lợi tức đầu tư",
+   "definition": "return on investment",
+   "collocations": [
+    "a high ROI"
+   ],
+   "examples": [
+    {
+     "en": "The campaign delivered a strong *ROI*.",
+     "vi": "Chiến dịch mang lại lợi tức đầu tư cao."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

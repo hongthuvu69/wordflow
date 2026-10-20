@@ -7,6 +7,7 @@ import * as T from "./toeic.js";
 const { PARTS, PART_SIZE, TYPES, REASONS, PHASES } = T;
 const LETTERS = ["A", "B", "C", "D"];
 const STUDY4_URL = "https://study4.com/tests/?term=toeic";
+const KIND_LABEL = { full: "Đề full", mini: "Mini test", pack: "Bộ luyện theo Part" };
 
 let rerender = () => {};
 let currentHash = "";
@@ -149,7 +150,7 @@ function viewTests() {
         const done = T.attempts.filter((a) => a.testId === t.id);
         const best = done.length ? Math.max(...done.map((a) => a.est?.total || 0)) : 0;
         return `<a class="card test-card" href="#/test/${t.id}">
-          <div class="row"><span class="chip ${t.kind === "full" ? "purple" : "info"}">${t.kind === "full" ? "Đề full" : "Mini test"}</span><span class="grow"></span>
+          <div class="row"><span class="chip ${t.kind === "full" ? "purple" : t.kind === "pack" ? "warn" : "info"}">${KIND_LABEL[t.kind] || "Mini test"}</span><span class="grow"></span>
           ${done.length ? `<span class="chip good">Đã làm ${done.length} lần${best ? ` · cao nhất ≈${best}` : ""}</span>` : ""}</div>
           <div class="test-title">${esc(t.title)}</div>
           <div class="muted small">${t.count} câu · ${t.duration} phút · Part ${t.parts.join(", ")}</div></a>`;
@@ -371,6 +372,11 @@ function passageHtml(p, evidence = []) {
         : `<div class="msg">${highlight(esc(line), evidence)}</div>`;
     });
     return `<div class="passage chat">${lines.join("")}</div>`;
+  }
+  if (p.kind === "table") {
+    // Mỗi dòng là một hàng, các cột cách nhau bởi từ 2 khoảng trắng trở lên.
+    const rows = p.text.split("\n").map((line) => `<tr>${line.trim().split(/\s{2,}/).map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`);
+    return `<div class="passage table">${p.title ? `<div class="p-title">${esc(p.title)}</div>` : ""}<table>${rows.join("")}</table></div>`;
   }
   let body = esc(p.text).replace(/\{\{(\d+)\}\}/g, '<span class="blank">($1) ________</span>');
   body = highlight(body, evidence);

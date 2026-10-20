@@ -1,0 +1,57 @@
+#id: medical
+#prefix: mdc
+#order: 22
+#icon: 🏥
+#title: Medicine & Healthcare
+#title_vi: Y tế & Chăm sóc sức khỏe
+#desc: Bệnh viện, điều trị, vắc-xin, dinh dưỡng, sức khỏe tinh thần: từ vựng cho thông báo y tế và bài đọc.
+healthcare | noun | /ˈhelθker/ | chăm sóc sức khỏe | the service of providing medical care | healthcare system; healthcare workers | The country spends a lot on *healthcare*. | Đất nước chi nhiều cho y tế.
+clinic | noun | /ˈklɪnɪk/ | phòng khám | a place where people get medical advice or treatment | dental clinic; health clinic | The *clinic* is open from 8 a.m. to 6 p.m. | Phòng khám mở cửa từ 8 giờ sáng đến 6 giờ chiều.
+ambulance | noun | /ˈæmbjələns/ | xe cứu thương | a vehicle that takes sick people to hospital | call an ambulance; ambulance driver | Someone call an *ambulance*! | Ai đó gọi xe cứu thương đi!
+surgeon | noun | /ˈsɜːrdʒən/ | bác sĩ phẫu thuật | a doctor who does operations | heart surgeon; a senior surgeon | The *surgeon* said the operation went well. | Bác sĩ phẫu thuật nói ca mổ diễn ra tốt.
+surgery | noun | /ˈsɜːrdʒəri/ | ca phẫu thuật | medical treatment by cutting the body | have surgery; heart surgery; undergo surgery | He needs *surgery* on his knee. | Anh ấy cần phẫu thuật đầu gối.
+therapy | noun | /ˈθerəpi/ | liệu pháp | treatment for an illness or mental problem | physical therapy; speech therapy | She is having *therapy* for her back injury. | Cô ấy đang điều trị bằng liệu pháp cho chấn thương lưng.
+therapist | noun | /ˈθerəpɪst/ | nhà trị liệu | a person trained to treat illness without drugs | physical therapist; see a therapist | My *therapist* gave me some exercises to do at home. | Nhà trị liệu cho tôi vài bài tập làm ở nhà.
+medication | noun | /ˌmedɪˈkeɪʃn/ | thuốc men | medicine used to treat an illness | take medication; on medication | Are you currently taking any *medication*? | Hiện bạn có đang dùng thuốc gì không?
+pill | noun | /pɪl/ | viên thuốc | a small round piece of medicine | take a pill; sleeping pills | Take one *pill* twice a day after meals. | Uống một viên hai lần mỗi ngày sau bữa ăn.
+pharmacy | noun | /ˈfɑːrməsi/ | hiệu thuốc | a shop that sells medicine | at the pharmacy; a 24-hour pharmacy | There's a *pharmacy* next to the hospital. | Có một hiệu thuốc cạnh bệnh viện.
+cure | noun | /kjʊr/ | phương thuốc chữa | a medicine or treatment that ends an illness | a cure for; find a cure | There is no *cure* for the common cold. | Không có thuốc chữa cảm lạnh thông thường. | Động từ: cure a disease.
+recovery | noun | /rɪˈkʌvəri/ | sự hồi phục | the process of getting better | make a full recovery; economic recovery | She made a quick *recovery* after the operation. | Cô ấy hồi phục nhanh sau ca mổ.
+infection | noun | /ɪnˈfekʃn/ | sự nhiễm trùng | an illness caused by bacteria or a virus | ear infection; risk of infection | Keep the cut clean to avoid *infection*. | Giữ vết cắt sạch sẽ để tránh nhiễm trùng.
+immune | adjective | /ɪˈmjuːn/ | miễn dịch | protected from a disease | immune system; immune to | Sleep helps keep your *immune* system strong. | Giấc ngủ giúp hệ miễn dịch khỏe mạnh.
+vaccine | noun | /vækˈsiːn/ | vắc-xin | a substance that protects you against a disease | flu vaccine; develop a vaccine | A new *vaccine* is being tested. | Một loại vắc-xin mới đang được thử nghiệm.
+vaccinate | verb | /ˈvæksɪneɪt/ | tiêm chủng | to give someone a vaccine | be vaccinated against | Children should be *vaccinated* against measles. | Trẻ em nên được tiêm phòng sởi.
+vaccination | noun | /ˌvæksɪˈneɪʃn/ | sự tiêm chủng | the act of giving a vaccine | vaccination programme; get a vaccination | You need a *vaccination* before travelling there. | Bạn cần tiêm chủng trước khi đến đó.
+pandemic | noun | /pænˈdemɪk/ | đại dịch | a disease that spreads over many countries | during the pandemic; a global pandemic | Many people worked from home during the *pandemic*. | Nhiều người làm việc tại nhà trong đại dịch.
+cancer | noun | /ˈkænsər/ | ung thư | a serious disease where cells grow abnormally | lung cancer; cancer treatment | Smoking increases the risk of *cancer*. | Hút thuốc làm tăng nguy cơ ung thư.
+diabetes | noun | /ˌdaɪəˈbiːtiːz/ | bệnh tiểu đường | a disease where the body cannot control sugar levels | have diabetes; type 2 diabetes | Eating too much sugar can lead to *diabetes*. | Ăn quá nhiều đường có thể dẫn đến tiểu đường.
+obesity | noun | /oʊˈbiːsəti/ | bệnh béo phì | the condition of being very fat | childhood obesity; rates of obesity | *Obesity* is a growing problem in many countries. | Béo phì là vấn đề ngày càng lớn ở nhiều nước.
+disorder | noun | /dɪsˈɔːrdər/ | rối loạn | an illness of the mind or body | sleep disorder; eating disorder | He suffers from a sleep *disorder*. | Anh ấy bị rối loạn giấc ngủ.
+disability | noun | /ˌdɪsəˈbɪləti/ | khuyết tật | a condition that limits physical or mental activity | people with disabilities; learning disability | The building is accessible to people with *disabilities*. | Tòa nhà có lối đi cho người khuyết tật.
+disabled | adjective | /dɪsˈeɪbld/ | khuyết tật | having a disability | disabled access; disabled parking | There are two *disabled* parking spaces near the entrance. | Có hai chỗ đỗ xe cho người khuyết tật gần lối vào.
+injure | verb | /ˈɪndʒər/ | làm bị thương | to hurt a person or animal | be injured in an accident; injure your back | Two workers were *injured* in the accident. | Hai công nhân bị thương trong vụ tai nạn.
+injured | adjective | /ˈɪndʒərd/ | bị thương | hurt | seriously injured; the injured | The *injured* driver was taken to hospital. | Tài xế bị thương được đưa đến bệnh viện.
+wound | noun | /wuːnd/ | vết thương | an injury where the skin is cut | a deep wound; clean the wound | The nurse cleaned the *wound* carefully. | Y tá làm sạch vết thương cẩn thận. | Phát âm /wuːnd/, khác wound /waʊnd/ (quá khứ của wind).
+nursing | noun | /ˈnɜːrsɪŋ/ | nghề điều dưỡng | the job of caring for sick people | nursing home; nursing staff | She is studying *nursing* at college. | Cô ấy đang học điều dưỡng ở trường cao đẳng.
+pregnant | adjective | /ˈpreɡnənt/ | có thai | having a baby growing inside the body | six months pregnant; pregnant women | This seat is for elderly, disabled or *pregnant* passengers. | Ghế này dành cho người già, người khuyết tật hoặc phụ nữ mang thai.
+nutrition | noun | /nuˈtrɪʃn/ | dinh dưỡng | the food needed for health | good nutrition; nutrition facts | Good *nutrition* is important for children. | Dinh dưỡng tốt rất quan trọng với trẻ em.
+protein | noun | /ˈproʊtiːn/ | chất đạm | a substance in meat, eggs, beans etc. | high in protein; protein source | Eggs are a good source of *protein*. | Trứng là nguồn đạm tốt.
+vitamin | noun | /ˈvaɪtəmɪn/ | vitamin | a natural substance in food needed for health | vitamin C; take vitamins | Oranges are full of *vitamin* C. | Cam rất giàu vitamin C.
+fitness | noun | /ˈfɪtnəs/ | sự khỏe mạnh, thể lực | the state of being physically strong and healthy | fitness centre; physical fitness | The hotel has a *fitness* centre on the top floor. | Khách sạn có phòng tập thể dục trên tầng thượng.
+well-being | noun | /ˌwel ˈbiːɪŋ/ | sức khỏe và hạnh phúc | the state of being healthy and happy | physical and mental well-being | The company cares about employee *well-being*. | Công ty quan tâm đến sức khỏe và hạnh phúc của nhân viên.
+mental | adjective | /ˈmentl/ | thuộc tinh thần | connected with the mind | mental illness; mental effort | Exercise is good for your *mental* well-being too. | Tập thể dục cũng tốt cho tinh thần.
+anxiety | noun | /æŋˈzaɪəti/ | sự lo âu | a feeling of worry or fear | suffer from anxiety; cause anxiety | Exams can cause *anxiety* for many students. | Thi cử có thể gây lo âu cho nhiều học sinh.
+depression | noun | /dɪˈpreʃn/ | bệnh trầm cảm; suy thoái | a medical condition of feeling very sad; a period of bad economy | suffer from depression; the Great Depression | She was treated for *depression*. | Cô ấy được điều trị chứng trầm cảm.
+addiction | noun | /əˈdɪkʃn/ | sự nghiện | the condition of being unable to stop using something | drug addiction; internet addiction | Phone *addiction* is common among teenagers. | Nghiện điện thoại phổ biến ở thanh thiếu niên.
+alcohol | noun | /ˈælkəhɔːl/ | rượu bia, cồn | drinks like beer and wine; a chemical | drink alcohol; alcohol-free | No *alcohol* is allowed on the premises. | Không được phép uống rượu bia trong khuôn viên.
+alcoholic | adjective | /ˌælkəˈhɔːlɪk/ | có cồn | containing alcohol | alcoholic drinks; non-alcoholic | We serve both *alcoholic* and non-alcoholic drinks. | Chúng tôi phục vụ cả đồ uống có cồn và không cồn.
+breathe | verb | /briːð/ | thở | to take air into and out of the lungs | breathe deeply; breathe in | *Breathe* in slowly and relax. | Hít vào thật chậm và thư giãn.
+breath | noun | /breθ/ | hơi thở | the air going into and out of the lungs | take a deep breath; out of breath | Take a deep *breath* before you speak. | Hít một hơi sâu trước khi nói.
+breathing | noun | /ˈbriːðɪŋ/ | sự hô hấp | the action of breathing | breathing problems; breathing exercises | Try these *breathing* exercises when you feel stressed. | Hãy thử các bài tập thở này khi bạn căng thẳng.
+hearing | noun | /ˈhɪrɪŋ/ | thính giác; phiên điều trần | the ability to hear; an official meeting to listen to evidence | hearing aid; hearing loss; a court hearing | My grandfather wears a *hearing* aid. | Ông tôi đeo máy trợ thính.
+sight | noun | /saɪt/ | thị lực; cảnh | the ability to see; something you see | lose your sight; at first sight; the sights | He lost his *sight* in an accident. | Ông ấy bị mù sau một tai nạn.
+blind | adjective | /blaɪnd/ | mù | not able to see | go blind; blind people | The app helps *blind* people read text. | Ứng dụng giúp người khiếm thị đọc văn bản.
+poison | noun | /ˈpɔɪzn/ | chất độc | a substance that can kill or harm | rat poison; deadly poison | Keep *poison* away from children. | Để chất độc xa tầm tay trẻ em.
+poisonous | adjective | /ˈpɔɪzənəs/ | có độc | containing poison | poisonous plants; poisonous snake | Some mushrooms are *poisonous*. | Một số loại nấm có độc.
+sore | adjective | /sɔːr/ | đau nhức | painful, often because of overuse or infection | sore muscles; sore eyes | My legs are *sore* after the run. | Chân tôi đau nhức sau buổi chạy.
+dose | noun | /doʊs/ | liều lượng | an amount of medicine taken at one time | a daily dose; take a dose | Do not take more than the recommended *dose*. | Không dùng quá liều khuyến cáo.

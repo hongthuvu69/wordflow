@@ -1,5 +1,9 @@
 {
   "tests": [
-    { "id": "mini-01", "file": "mini-01.json" }
+    { "id": "mini-01", "file": "mini-01.json" },
+    { "id": "mini-02", "file": "mini-02.json" },
+    { "id": "mini-03", "file": "mini-03.json" },
+    { "id": "mini-04", "file": "mini-04.json" },
+    { "id": "p5-pack-01", "file": "part5-pack-01.json" }
   ]
 }

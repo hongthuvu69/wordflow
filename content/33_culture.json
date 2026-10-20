@@ -1,0 +1,881 @@
+{
+ "id": "culture",
+ "order": 33,
+ "icon": "🏯",
+ "level": "B2",
+ "title": "History, Culture & Beliefs",
+ "title_vi": "Lịch sử, Văn hóa & Tín ngưỡng",
+ "description": "Di sản, lễ hội, tôn giáo, các thời kỳ lịch sử: hữu ích cho bài đọc về du lịch – bảo tàng và IELTS.",
+ "words": [
+  {
+   "id": "cul_history",
+   "word": "history",
+   "pos": "noun",
+   "ipa": "/ˈhɪstri/",
+   "level": "A1",
+   "meaning": "lịch sử",
+   "definition": "past events; the study of the past",
+   "collocations": [
+    "local history",
+    "in history"
+   ],
+   "examples": [
+    {
+     "en": "The museum tells the *history* of the city.",
+     "vi": "Bảo tàng kể lại lịch sử của thành phố."
+    }
+   ]
+  },
+  {
+   "id": "cul_historian",
+   "word": "historian",
+   "pos": "noun",
+   "ipa": "/hɪˈstɔːriən/",
+   "level": "B2",
+   "meaning": "nhà sử học",
+   "definition": "an expert in history",
+   "collocations": [
+    "a local historian"
+   ],
+   "examples": [
+    {
+     "en": "*Historians* believe the temple is 800 years old.",
+     "vi": "Các nhà sử học tin rằng ngôi đền đã 800 năm tuổi."
+    }
+   ]
+  },
+  {
+   "id": "cul_historic",
+   "word": "historic",
+   "pos": "adjective",
+   "ipa": "/hɪˈstɔːrɪk/",
+   "level": "B1",
+   "meaning": "có ý nghĩa lịch sử",
+   "definition": "famous or important in history",
+   "collocations": [
+    "historic building",
+    "a historic moment"
+   ],
+   "examples": [
+    {
+     "en": "Hoi An is a *historic* town.",
+     "vi": "Hội An là một đô thị cổ có giá trị lịch sử."
+    }
+   ]
+  },
+  {
+   "id": "cul_historical",
+   "word": "historical",
+   "pos": "adjective",
+   "ipa": "/hɪˈstɔːrɪkl/",
+   "level": "B1",
+   "meaning": "thuộc lịch sử",
+   "definition": "connected with the past",
+   "collocations": [
+    "historical events",
+    "historical records"
+   ],
+   "examples": [
+    {
+     "en": "The film is based on *historical* events.",
+     "vi": "Bộ phim dựa trên các sự kiện lịch sử."
+    }
+   ]
+  },
+  {
+   "id": "cul_ancestor",
+   "word": "ancestor",
+   "pos": "noun",
+   "ipa": "/ˈænsestər/",
+   "level": "B2",
+   "meaning": "tổ tiên",
+   "definition": "a family member who lived long ago",
+   "collocations": [
+    "worship ancestors",
+    "our ancestors"
+   ],
+   "examples": [
+    {
+     "en": "Many Vietnamese families honour their *ancestors* at Tet.",
+     "vi": "Nhiều gia đình Việt tưởng nhớ tổ tiên dịp Tết."
+    }
+   ]
+  },
+  {
+   "id": "cul_civilization",
+   "word": "civilization",
+   "pos": "noun",
+   "ipa": "/ˌsɪvələˈzeɪʃn/",
+   "level": "B2",
+   "meaning": "nền văn minh",
+   "definition": "a developed society and its culture",
+   "collocations": [
+    "ancient civilization",
+    "Western civilization"
+   ],
+   "examples": [
+    {
+     "en": "Egypt is one of the oldest *civilizations*.",
+     "vi": "Ai Cập là một trong những nền văn minh cổ nhất."
+    }
+   ]
+  },
+  {
+   "id": "cul_era",
+   "word": "era",
+   "pos": "noun",
+   "ipa": "/ˈɪrə/",
+   "level": "B2",
+   "meaning": "kỷ nguyên, thời đại",
+   "definition": "a period of history",
+   "collocations": [
+    "a new era",
+    "the digital era"
+   ],
+   "examples": [
+    {
+     "en": "We live in the digital *era*.",
+     "vi": "Chúng ta đang sống trong kỷ nguyên số."
+    }
+   ]
+  },
+  {
+   "id": "cul_decade",
+   "word": "decade",
+   "pos": "noun",
+   "ipa": "/ˈdekeɪd/",
+   "level": "B1",
+   "meaning": "thập kỷ",
+   "definition": "a period of ten years",
+   "collocations": [
+    "over the past decade",
+    "for decades"
+   ],
+   "examples": [
+    {
+     "en": "The company has grown a lot in the last *decade*.",
+     "vi": "Công ty đã phát triển mạnh trong thập kỷ qua."
+    }
+   ]
+  },
+  {
+   "id": "cul_ancient",
+   "word": "ancient",
+   "pos": "adjective",
+   "ipa": "/ˈeɪnʃənt/",
+   "level": "A2",
+   "meaning": "cổ đại, cổ xưa",
+   "definition": "very old; from long ago",
+   "collocations": [
+    "ancient history",
+    "ancient temple"
+   ],
+   "examples": [
+    {
+     "en": "We visited an *ancient* temple in Hue.",
+     "vi": "Chúng tôi thăm một ngôi đền cổ ở Huế."
+    }
+   ]
+  },
+  {
+   "id": "cul_monument",
+   "word": "monument",
+   "pos": "noun",
+   "ipa": "/ˈmɑːnjumənt/",
+   "level": "B2",
+   "meaning": "đài tưởng niệm, di tích",
+   "definition": "a building or statue built to remember a person or event",
+   "collocations": [
+    "historic monument",
+    "national monument"
+   ],
+   "examples": [
+    {
+     "en": "The *monument* was built in 1920.",
+     "vi": "Đài tưởng niệm được xây năm 1920."
+    }
+   ]
+  },
+  {
+   "id": "cul_statue",
+   "word": "statue",
+   "pos": "noun",
+   "ipa": "/ˈstætʃuː/",
+   "level": "B1",
+   "meaning": "bức tượng",
+   "definition": "a figure of a person made of stone or metal",
+   "collocations": [
+    "a bronze statue",
+    "the Statue of Liberty"
+   ],
+   "examples": [
+    {
+     "en": "There is a *statue* of the founder in the park.",
+     "vi": "Có bức tượng người sáng lập trong công viên."
+    }
+   ]
+  },
+  {
+   "id": "cul_temple",
+   "word": "temple",
+   "pos": "noun",
+   "ipa": "/ˈtempl/",
+   "level": "B2",
+   "meaning": "đền, chùa",
+   "definition": "a building for worship",
+   "collocations": [
+    "visit a temple",
+    "ancient temple"
+   ],
+   "examples": [
+    {
+     "en": "The *temple* is open to visitors every day.",
+     "vi": "Ngôi đền mở cửa cho du khách hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "cul_mosque",
+   "word": "mosque",
+   "pos": "noun",
+   "ipa": "/mɑːsk/",
+   "level": "B2",
+   "meaning": "nhà thờ Hồi giáo",
+   "definition": "a building where Muslims pray",
+   "collocations": [
+    "visit a mosque"
+   ],
+   "examples": [
+    {
+     "en": "Please remove your shoes before entering the *mosque*.",
+     "vi": "Vui lòng cởi giày trước khi vào nhà thờ Hồi giáo."
+    }
+   ]
+  },
+  {
+   "id": "cul_religion",
+   "word": "religion",
+   "pos": "noun",
+   "ipa": "/rɪˈlɪdʒən/",
+   "level": "B1",
+   "meaning": "tôn giáo",
+   "definition": "belief in a god or gods",
+   "collocations": [
+    "world religions",
+    "freedom of religion"
+   ],
+   "examples": [
+    {
+     "en": "Buddhism is a major *religion* in Asia.",
+     "vi": "Phật giáo là một tôn giáo lớn ở châu Á."
+    }
+   ]
+  },
+  {
+   "id": "cul_religious",
+   "word": "religious",
+   "pos": "adjective",
+   "ipa": "/rɪˈlɪdʒəs/",
+   "level": "B1",
+   "meaning": "thuộc tôn giáo; sùng đạo",
+   "definition": "connected with religion",
+   "collocations": [
+    "religious festival",
+    "religious beliefs"
+   ],
+   "examples": [
+    {
+     "en": "The festival has *religious* origins.",
+     "vi": "Lễ hội có nguồn gốc tôn giáo."
+    }
+   ]
+  },
+  {
+   "id": "cul_belief",
+   "word": "belief",
+   "pos": "noun",
+   "ipa": "/bɪˈliːf/",
+   "level": "B1",
+   "meaning": "niềm tin",
+   "definition": "a feeling that something is true",
+   "collocations": [
+    "religious beliefs",
+    "a strong belief"
+   ],
+   "examples": [
+    {
+     "en": "It is a common *belief* that breakfast is the most important meal.",
+     "vi": "Nhiều người tin rằng bữa sáng là bữa quan trọng nhất."
+    }
+   ]
+  },
+  {
+   "id": "cul_faith",
+   "word": "faith",
+   "pos": "noun",
+   "ipa": "/feɪθ/",
+   "level": "B2",
+   "meaning": "đức tin; sự tin tưởng",
+   "definition": "strong belief or trust",
+   "collocations": [
+    "have faith in",
+    "religious faith"
+   ],
+   "examples": [
+    {
+     "en": "I have *faith* in our team.",
+     "vi": "Tôi tin tưởng vào đội của chúng ta."
+    }
+   ]
+  },
+  {
+   "id": "cul_spirit",
+   "word": "spirit",
+   "pos": "noun",
+   "ipa": "/ˈspɪrɪt/",
+   "level": "B1",
+   "meaning": "tinh thần; linh hồn",
+   "definition": "attitude or mood; the soul",
+   "collocations": [
+    "team spirit",
+    "in good spirits"
+   ],
+   "examples": [
+    {
+     "en": "The event helped build team *spirit*.",
+     "vi": "Sự kiện giúp xây dựng tinh thần đồng đội."
+    }
+   ]
+  },
+  {
+   "id": "cul_spiritual",
+   "word": "spiritual",
+   "pos": "adjective",
+   "ipa": "/ˈspɪrɪtʃuəl/",
+   "level": "B2",
+   "meaning": "thuộc tâm linh",
+   "definition": "connected with the spirit or religion",
+   "collocations": [
+    "spiritual life",
+    "spiritual leader"
+   ],
+   "examples": [
+    {
+     "en": "Yoga has both physical and *spiritual* benefits.",
+     "vi": "Yoga có lợi ích cả về thể chất lẫn tinh thần."
+    }
+   ]
+  },
+  {
+   "id": "cul_soul",
+   "word": "soul",
+   "pos": "noun",
+   "ipa": "/soʊl/",
+   "level": "B2",
+   "meaning": "linh hồn, tâm hồn",
+   "definition": "the spiritual part of a person",
+   "collocations": [
+    "body and soul"
+   ],
+   "examples": [
+    {
+     "en": "She put her heart and *soul* into the project.",
+     "vi": "Cô ấy dồn hết tâm huyết vào dự án."
+    }
+   ]
+  },
+  {
+   "id": "cul_holy",
+   "word": "holy",
+   "pos": "adjective",
+   "ipa": "/ˈhoʊli/",
+   "level": "B2",
+   "meaning": "linh thiêng",
+   "definition": "connected with God or religion",
+   "collocations": [
+    "holy place",
+    "holy book"
+   ],
+   "examples": [
+    {
+     "en": "The mountain is a *holy* place for local people.",
+     "vi": "Ngọn núi là nơi linh thiêng với người dân địa phương."
+    }
+   ]
+  },
+  {
+   "id": "cul_priest",
+   "word": "priest",
+   "pos": "noun",
+   "ipa": "/priːst/",
+   "level": "B1",
+   "meaning": "linh mục, thầy tu",
+   "definition": "a person who performs religious ceremonies",
+   "collocations": [
+    "a Catholic priest"
+   ],
+   "examples": [
+    {
+     "en": "The *priest* led the ceremony.",
+     "vi": "Linh mục chủ trì buổi lễ."
+    }
+   ]
+  },
+  {
+   "id": "cul_pray",
+   "word": "pray",
+   "pos": "verb",
+   "ipa": "/preɪ/",
+   "level": "B1",
+   "meaning": "cầu nguyện",
+   "definition": "to speak to God",
+   "collocations": [
+    "pray for",
+    "pray at the temple"
+   ],
+   "examples": [
+    {
+     "en": "Many people *pray* for good luck at New Year.",
+     "vi": "Nhiều người cầu may đầu năm mới."
+    }
+   ]
+  },
+  {
+   "id": "cul_prayer",
+   "word": "prayer",
+   "pos": "noun",
+   "ipa": "/prer/",
+   "level": "B1",
+   "meaning": "lời cầu nguyện",
+   "definition": "words said to God",
+   "collocations": [
+    "say a prayer",
+    "prayer room"
+   ],
+   "examples": [
+    {
+     "en": "The airport has a *prayer* room.",
+     "vi": "Sân bay có phòng cầu nguyện."
+    }
+   ]
+  },
+  {
+   "id": "cul_heaven",
+   "word": "heaven",
+   "pos": "noun",
+   "ipa": "/ˈhevn/",
+   "level": "B2",
+   "meaning": "thiên đường",
+   "definition": "the place where God lives; a very pleasant place",
+   "collocations": [
+    "in heaven",
+    "a heaven for"
+   ],
+   "examples": [
+    {
+     "en": "This island is a *heaven* for divers.",
+     "vi": "Hòn đảo này là thiên đường cho người lặn biển."
+    }
+   ]
+  },
+  {
+   "id": "cul_hell",
+   "word": "hell",
+   "pos": "noun",
+   "ipa": "/hel/",
+   "level": "B2",
+   "meaning": "địa ngục",
+   "definition": "a place of suffering after death; a very bad situation",
+   "collocations": [
+    "a living hell"
+   ],
+   "examples": [
+    {
+     "en": "The traffic this morning was *hell*.",
+     "vi": "Giao thông sáng nay đúng là địa ngục."
+    }
+   ]
+  },
+  {
+   "id": "cul_ghost",
+   "word": "ghost",
+   "pos": "noun",
+   "ipa": "/ɡoʊst/",
+   "level": "B1",
+   "meaning": "con ma",
+   "definition": "the spirit of a dead person",
+   "collocations": [
+    "ghost story",
+    "believe in ghosts"
+   ],
+   "examples": [
+    {
+     "en": "Do you believe in *ghosts*?",
+     "vi": "Bạn có tin vào ma không?"
+    }
+   ]
+  },
+  {
+   "id": "cul_ceremony",
+   "word": "ceremony",
+   "pos": "noun",
+   "ipa": "/ˈserəmoʊni/",
+   "level": "B1",
+   "meaning": "buổi lễ",
+   "definition": "a formal public event",
+   "collocations": [
+    "opening ceremony",
+    "award ceremony",
+    "wedding ceremony"
+   ],
+   "examples": [
+    {
+     "en": "The award *ceremony* starts at 7 p.m.",
+     "vi": "Lễ trao giải bắt đầu lúc 7 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "cul_celebration",
+   "word": "celebration",
+   "pos": "noun",
+   "ipa": "/ˌselɪˈbreɪʃn/",
+   "level": "B1",
+   "meaning": "lễ kỷ niệm, sự ăn mừng",
+   "definition": "a special event to celebrate something",
+   "collocations": [
+    "a birthday celebration",
+    "in celebration of"
+   ],
+   "examples": [
+    {
+     "en": "We had a small *celebration* for her promotion.",
+     "vi": "Chúng tôi tổ chức ăn mừng nhỏ cho việc cô ấy được thăng chức."
+    }
+   ]
+  },
+  {
+   "id": "cul_anniversary",
+   "word": "anniversary",
+   "pos": "noun",
+   "ipa": "/ˌænɪˈvɜːrsəri/",
+   "level": "B2",
+   "meaning": "ngày kỷ niệm",
+   "definition": "the date when something happened in a past year",
+   "collocations": [
+    "wedding anniversary",
+    "10th anniversary"
+   ],
+   "examples": [
+    {
+     "en": "The company is celebrating its 20th *anniversary*.",
+     "vi": "Công ty đang kỷ niệm 20 năm thành lập."
+    }
+   ]
+  },
+  {
+   "id": "cul_festival",
+   "word": "festival",
+   "pos": "noun",
+   "ipa": "/ˈfestɪvl/",
+   "level": "A1",
+   "meaning": "lễ hội",
+   "definition": "an organized event with performances or celebrations",
+   "collocations": [
+    "music festival",
+    "Mid-Autumn Festival"
+   ],
+   "examples": [
+    {
+     "en": "The city holds a food *festival* every October.",
+     "vi": "Thành phố tổ chức lễ hội ẩm thực mỗi tháng Mười."
+    }
+   ]
+  },
+  {
+   "id": "cul_folk",
+   "word": "folk",
+   "pos": "adjective",
+   "ipa": "/foʊk/",
+   "level": "B1",
+   "meaning": "dân gian",
+   "definition": "traditional and typical of ordinary people",
+   "collocations": [
+    "folk music",
+    "folk song",
+    "folk dance"
+   ],
+   "examples": [
+    {
+     "en": "They performed traditional *folk* songs.",
+     "vi": "Họ biểu diễn những bài dân ca truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "cul_cultural",
+   "word": "cultural",
+   "pos": "adjective",
+   "ipa": "/ˈkʌltʃərəl/",
+   "level": "B1",
+   "meaning": "thuộc văn hóa",
+   "definition": "connected with culture",
+   "collocations": [
+    "cultural differences",
+    "cultural heritage"
+   ],
+   "examples": [
+    {
+     "en": "Working abroad helps you understand *cultural* differences.",
+     "vi": "Làm việc ở nước ngoài giúp bạn hiểu khác biệt văn hóa."
+    }
+   ]
+  },
+  {
+   "id": "cul_heritage",
+   "word": "heritage",
+   "pos": "noun",
+   "ipa": "/ˈherɪtɪdʒ/",
+   "level": "C1",
+   "meaning": "di sản",
+   "definition": "the history and traditions of a country",
+   "collocations": [
+    "cultural heritage",
+    "World Heritage Site"
+   ],
+   "examples": [
+    {
+     "en": "Ha Long Bay is a UNESCO World *Heritage* Site.",
+     "vi": "Vịnh Hạ Long là Di sản Thế giới của UNESCO."
+    }
+   ]
+  },
+  {
+   "id": "cul_tradition",
+   "word": "tradition",
+   "pos": "noun",
+   "ipa": "/trəˈdɪʃn/",
+   "level": "A2",
+   "meaning": "truyền thống",
+   "definition": "a custom passed down over time",
+   "collocations": [
+    "family tradition",
+    "by tradition"
+   ],
+   "examples": [
+    {
+     "en": "It's a *tradition* to give lucky money at Tet.",
+     "vi": "Lì xì dịp Tết là một truyền thống."
+    }
+   ]
+  },
+  {
+   "id": "cul_classic",
+   "word": "classic",
+   "pos": "adjective",
+   "ipa": "/ˈklæsɪk/",
+   "level": "B2",
+   "meaning": "kinh điển",
+   "definition": "of high quality and lasting value",
+   "collocations": [
+    "a classic film",
+    "classic design"
+   ],
+   "examples": [
+    {
+     "en": "It's a *classic* example of good customer service.",
+     "vi": "Đó là ví dụ kinh điển về dịch vụ khách hàng tốt."
+    }
+   ]
+  },
+  {
+   "id": "cul_origin",
+   "word": "origin",
+   "pos": "noun",
+   "ipa": "/ˈɔːrɪdʒɪn/",
+   "level": "B2",
+   "meaning": "nguồn gốc",
+   "definition": "the beginning or cause of something",
+   "collocations": [
+    "country of origin",
+    "the origin of"
+   ],
+   "examples": [
+    {
+     "en": "The label shows the country of *origin*.",
+     "vi": "Nhãn cho biết nước xuất xứ."
+    }
+   ]
+  },
+  {
+   "id": "cul_original",
+   "word": "original",
+   "pos": "adjective",
+   "ipa": "/əˈrɪdʒənl/",
+   "level": "B1",
+   "meaning": "gốc, ban đầu; độc đáo",
+   "definition": "first or earliest; new and creative",
+   "collocations": [
+    "the original plan",
+    "an original idea"
+   ],
+   "examples": [
+    {
+     "en": "Please keep the *original* receipt.",
+     "vi": "Vui lòng giữ hóa đơn gốc."
+    }
+   ]
+  },
+  {
+   "id": "cul_originally",
+   "word": "originally",
+   "pos": "adverb",
+   "ipa": "/əˈrɪdʒənəli/",
+   "level": "B1",
+   "meaning": "ban đầu",
+   "definition": "at first",
+   "collocations": [
+    "originally planned",
+    "originally from"
+   ],
+   "examples": [
+    {
+     "en": "The meeting was *originally* planned for Monday.",
+     "vi": "Cuộc họp ban đầu được lên lịch vào thứ Hai."
+    }
+   ]
+  },
+  {
+   "id": "cul_tribe",
+   "word": "tribe",
+   "pos": "noun",
+   "ipa": "/traɪb/",
+   "level": "B2",
+   "meaning": "bộ tộc",
+   "definition": "a group of families with the same culture",
+   "collocations": [
+    "an ancient tribe"
+   ],
+   "examples": [
+    {
+     "en": "The *tribe* has lived in the forest for centuries.",
+     "vi": "Bộ tộc đã sống trong rừng hàng thế kỷ."
+    }
+   ]
+  },
+  {
+   "id": "cul_royal_family",
+   "word": "royal family",
+   "pos": "noun",
+   "ipa": "/ˌrɔɪəl ˈfæməli/",
+   "level": "TOEIC",
+   "meaning": "hoàng gia",
+   "definition": "a king or queen and their family",
+   "collocations": [
+    "members of the royal family"
+   ],
+   "examples": [
+    {
+     "en": "The *royal family* attended the ceremony.",
+     "vi": "Hoàng gia đã dự buổi lễ."
+    }
+   ]
+  },
+  {
+   "id": "cul_treasure",
+   "word": "treasure",
+   "pos": "noun",
+   "ipa": "/ˈtreʒər/",
+   "level": "B2",
+   "meaning": "kho báu; báu vật",
+   "definition": "gold, jewels etc.; something very valuable",
+   "collocations": [
+    "buried treasure",
+    "national treasure"
+   ],
+   "examples": [
+    {
+     "en": "The museum's greatest *treasure* is a 1,000-year-old drum.",
+     "vi": "Báu vật lớn nhất của bảo tàng là một chiếc trống 1.000 năm tuổi."
+    }
+   ]
+  },
+  {
+   "id": "cul_philosophy",
+   "word": "philosophy",
+   "pos": "noun",
+   "ipa": "/fəˈlɑːsəfi/",
+   "level": "B2",
+   "meaning": "triết học; triết lý",
+   "definition": "the study of ideas about life; a set of beliefs",
+   "collocations": [
+    "company philosophy",
+    "study philosophy"
+   ],
+   "examples": [
+    {
+     "en": "Our *philosophy* is \"customers first\".",
+     "vi": "Triết lý của chúng tôi là \"khách hàng là trên hết\"."
+    }
+   ]
+  },
+  {
+   "id": "cul_moral",
+   "word": "moral",
+   "pos": "adjective",
+   "ipa": "/ˈmɔːrəl/",
+   "level": "B2",
+   "meaning": "thuộc đạo đức",
+   "definition": "connected with right and wrong",
+   "collocations": [
+    "moral values",
+    "moral duty"
+   ],
+   "examples": [
+    {
+     "en": "Companies have a *moral* duty to protect the environment.",
+     "vi": "Các công ty có trách nhiệm đạo đức bảo vệ môi trường."
+    }
+   ]
+  },
+  {
+   "id": "cul_ethic",
+   "word": "ethic",
+   "pos": "noun",
+   "ipa": "/ˈeθɪk/",
+   "level": "B2",
+   "meaning": "đạo đức (nghề nghiệp)",
+   "definition": "a set of moral principles",
+   "collocations": [
+    "work ethic",
+    "business ethics"
+   ],
+   "examples": [
+    {
+     "en": "She has a strong work *ethic*.",
+     "vi": "Cô ấy có tinh thần làm việc rất nghiêm túc."
+    }
+   ]
+  },
+  {
+   "id": "cul_ethical",
+   "word": "ethical",
+   "pos": "adjective",
+   "ipa": "/ˈeθɪkl/",
+   "level": "B2",
+   "meaning": "có đạo đức",
+   "definition": "morally right",
+   "collocations": [
+    "ethical business",
+    "ethical issues"
+   ],
+   "examples": [
+    {
+     "en": "We only buy from *ethical* suppliers.",
+     "vi": "Chúng tôi chỉ mua từ nhà cung cấp có đạo đức kinh doanh."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

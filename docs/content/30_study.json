@@ -1,0 +1,866 @@
+{
+ "id": "study",
+ "order": 30,
+ "icon": "🎓",
+ "level": "B1",
+ "title": "Education & Learning",
+ "title_vi": "Giáo dục & Học thuật",
+ "description": "Trường lớp, bằng cấp, nghiên cứu học thuật, kỹ năng học: bổ sung cho chủ đề Học tập B1.",
+ "words": [
+  {
+   "id": "stu_academic",
+   "word": "academic",
+   "pos": "adjective",
+   "ipa": "/ˌækəˈdemɪk/",
+   "level": "B1",
+   "meaning": "thuộc học thuật",
+   "definition": "connected with education and study",
+   "collocations": [
+    "academic year",
+    "academic performance"
+   ],
+   "examples": [
+    {
+     "en": "The *academic* year starts in September.",
+     "vi": "Năm học bắt đầu vào tháng Chín."
+    }
+   ]
+  },
+  {
+   "id": "stu_campus",
+   "word": "campus",
+   "pos": "noun",
+   "ipa": "/ˈkæmpəs/",
+   "level": "B1",
+   "meaning": "khuôn viên trường",
+   "definition": "the buildings and land of a university",
+   "collocations": [
+    "on campus",
+    "campus life"
+   ],
+   "examples": [
+    {
+     "en": "Students can live on *campus* in their first year.",
+     "vi": "Sinh viên năm nhất có thể ở trong khuôn viên trường."
+    }
+   ]
+  },
+  {
+   "id": "stu_curriculum",
+   "word": "curriculum",
+   "pos": "noun",
+   "ipa": "/kəˈrɪkjələm/",
+   "level": "B2",
+   "meaning": "chương trình giảng dạy",
+   "definition": "the subjects taught in a school",
+   "collocations": [
+    "school curriculum",
+    "on the curriculum"
+   ],
+   "examples": [
+    {
+     "en": "Coding is now part of the school *curriculum*.",
+     "vi": "Lập trình giờ là một phần của chương trình học."
+    }
+   ]
+  },
+  {
+   "id": "stu_pupil",
+   "word": "pupil",
+   "pos": "noun",
+   "ipa": "/ˈpjuːpl/",
+   "level": "B2",
+   "meaning": "học sinh",
+   "definition": "a child at school",
+   "collocations": [
+    "primary school pupils"
+   ],
+   "examples": [
+    {
+     "en": "The school has 500 *pupils*.",
+     "vi": "Trường có 500 học sinh."
+    }
+   ]
+  },
+  {
+   "id": "stu_scholar",
+   "word": "scholar",
+   "pos": "noun",
+   "ipa": "/ˈskɑːlər/",
+   "level": "B2",
+   "meaning": "học giả",
+   "definition": "a person who studies a subject in detail",
+   "collocations": [
+    "a leading scholar"
+   ],
+   "examples": [
+    {
+     "en": "He is a respected *scholar* of Asian history.",
+     "vi": "Ông ấy là học giả về lịch sử châu Á được kính trọng."
+    }
+   ]
+  },
+  {
+   "id": "stu_thesis",
+   "word": "thesis",
+   "pos": "noun",
+   "ipa": "/ˈθiːsɪs/",
+   "level": "B2",
+   "meaning": "luận văn, luận án",
+   "definition": "a long piece of writing for a university degree",
+   "collocations": [
+    "write a thesis",
+    "master's thesis"
+   ],
+   "examples": [
+    {
+     "en": "She is writing her master's *thesis* on marketing.",
+     "vi": "Cô ấy đang viết luận văn thạc sĩ về marketing."
+    }
+   ]
+  },
+  {
+   "id": "stu_textbook",
+   "word": "textbook",
+   "pos": "noun",
+   "ipa": "/ˈtekstbʊk/",
+   "level": "B2",
+   "meaning": "sách giáo khoa",
+   "definition": "a book used for studying a subject",
+   "collocations": [
+    "a history textbook"
+   ],
+   "examples": [
+    {
+     "en": "Please bring your *textbook* to every class.",
+     "vi": "Vui lòng mang sách giáo khoa đến mọi buổi học."
+    }
+   ]
+  },
+  {
+   "id": "stu_notebook",
+   "word": "notebook",
+   "pos": "noun",
+   "ipa": "/ˈnoʊtbʊk/",
+   "level": "B2",
+   "meaning": "sổ tay; máy tính xách tay",
+   "definition": "a small book for writing notes; a small laptop",
+   "collocations": [
+    "write in a notebook"
+   ],
+   "examples": [
+    {
+     "en": "I always carry a *notebook* to meetings.",
+     "vi": "Tôi luôn mang sổ tay đi họp."
+    }
+   ]
+  },
+  {
+   "id": "stu_grade",
+   "word": "grade",
+   "pos": "noun",
+   "ipa": "/ɡreɪd/",
+   "level": "B1",
+   "meaning": "điểm số; lớp; cấp",
+   "definition": "a mark for school work; a level",
+   "collocations": [
+    "get good grades",
+    "in grade 5"
+   ],
+   "examples": [
+    {
+     "en": "She got the highest *grade* in the class.",
+     "vi": "Cô ấy đạt điểm cao nhất lớp."
+    }
+   ]
+  },
+  {
+   "id": "stu_educate",
+   "word": "educate",
+   "pos": "verb",
+   "ipa": "/ˈedʒukeɪt/",
+   "level": "B1",
+   "meaning": "giáo dục",
+   "definition": "to teach someone",
+   "collocations": [
+    "educate children",
+    "educate the public"
+   ],
+   "examples": [
+    {
+     "en": "The campaign aims to *educate* people about recycling.",
+     "vi": "Chiến dịch nhằm giáo dục người dân về tái chế."
+    }
+   ]
+  },
+  {
+   "id": "stu_educated",
+   "word": "educated",
+   "pos": "adjective",
+   "ipa": "/ˈedʒukeɪtɪd/",
+   "level": "B1",
+   "meaning": "có học thức",
+   "definition": "having a good education",
+   "collocations": [
+    "well-educated",
+    "highly educated"
+   ],
+   "examples": [
+    {
+     "en": "Our staff are highly *educated*.",
+     "vi": "Nhân viên của chúng tôi có trình độ học vấn cao."
+    }
+   ]
+  },
+  {
+   "id": "stu_educational",
+   "word": "educational",
+   "pos": "adjective",
+   "ipa": "/ˌedʒuˈkeɪʃənl/",
+   "level": "B1",
+   "meaning": "mang tính giáo dục",
+   "definition": "connected with or providing education",
+   "collocations": [
+    "educational games",
+    "educational trip"
+   ],
+   "examples": [
+    {
+     "en": "The museum is fun and *educational*.",
+     "vi": "Bảo tàng vừa vui vừa bổ ích."
+    }
+   ]
+  },
+  {
+   "id": "stu_elementary",
+   "word": "elementary",
+   "pos": "adjective",
+   "ipa": "/ˌelɪˈmentri/",
+   "level": "B2",
+   "meaning": "sơ cấp, cơ bản",
+   "definition": "basic; at the first level",
+   "collocations": [
+    "elementary school",
+    "elementary level"
+   ],
+   "examples": [
+    {
+     "en": "She speaks *elementary* French.",
+     "vi": "Cô ấy nói tiếng Pháp trình độ sơ cấp."
+    }
+   ]
+  },
+  {
+   "id": "stu_secondary",
+   "word": "secondary",
+   "pos": "adjective",
+   "ipa": "/ˈsekənderi/",
+   "level": "B1",
+   "meaning": "trung học; thứ yếu",
+   "definition": "for students aged 11–18; less important",
+   "collocations": [
+    "secondary school",
+    "of secondary importance"
+   ],
+   "examples": [
+    {
+     "en": "Price is of *secondary* importance to quality.",
+     "vi": "Giá cả là thứ yếu so với chất lượng."
+    }
+   ]
+  },
+  {
+   "id": "stu_primary",
+   "word": "primary",
+   "pos": "adjective",
+   "ipa": "/ˈpraɪmeri/",
+   "level": "B1",
+   "meaning": "chính; tiểu học",
+   "definition": "main; for young children",
+   "collocations": [
+    "primary school",
+    "primary reason"
+   ],
+   "examples": [
+    {
+     "en": "The *primary* goal is to increase sales.",
+     "vi": "Mục tiêu chính là tăng doanh số."
+    }
+   ]
+  },
+  {
+   "id": "stu_compulsory",
+   "word": "compulsory",
+   "pos": "adjective",
+   "ipa": "/kəmˈpʌlsəri/",
+   "level": "B2",
+   "meaning": "bắt buộc",
+   "definition": "required by a rule",
+   "collocations": [
+    "compulsory training",
+    "compulsory subject"
+   ],
+   "examples": [
+    {
+     "en": "Safety training is *compulsory* for all new staff.",
+     "vi": "Đào tạo an toàn là bắt buộc với mọi nhân viên mới."
+    }
+   ]
+  },
+  {
+   "id": "stu_institute",
+   "word": "institute",
+   "pos": "noun",
+   "ipa": "/ˈɪnstɪtuːt/",
+   "level": "B2",
+   "meaning": "viện",
+   "definition": "an organization for research or education",
+   "collocations": [
+    "research institute",
+    "institute of technology"
+   ],
+   "examples": [
+    {
+     "en": "She works at a research *institute*.",
+     "vi": "Cô ấy làm việc tại một viện nghiên cứu."
+    }
+   ]
+  },
+  {
+   "id": "stu_institution",
+   "word": "institution",
+   "pos": "noun",
+   "ipa": "/ˌɪnstɪˈtuːʃn/",
+   "level": "B2",
+   "meaning": "tổ chức, cơ quan",
+   "definition": "a large important organization",
+   "collocations": [
+    "financial institution",
+    "educational institution"
+   ],
+   "examples": [
+    {
+     "en": "Banks are financial *institutions*.",
+     "vi": "Ngân hàng là các tổ chức tài chính."
+    }
+   ]
+  },
+  {
+   "id": "stu_intellectual",
+   "word": "intellectual",
+   "pos": "adjective",
+   "ipa": "/ˌɪntəˈlektʃuəl/",
+   "level": "B2",
+   "meaning": "thuộc trí tuệ",
+   "definition": "connected with the mind and thinking",
+   "collocations": [
+    "intellectual property",
+    "intellectual ability"
+   ],
+   "examples": [
+    {
+     "en": "The company protects its *intellectual* property.",
+     "vi": "Công ty bảo vệ tài sản trí tuệ của mình."
+    }
+   ]
+  },
+  {
+   "id": "stu_intelligence",
+   "word": "intelligence",
+   "pos": "noun",
+   "ipa": "/ɪnˈtelɪdʒəns/",
+   "level": "B1",
+   "meaning": "trí thông minh",
+   "definition": "the ability to learn and understand",
+   "collocations": [
+    "artificial intelligence",
+    "high intelligence"
+   ],
+   "examples": [
+    {
+     "en": "Emotional *intelligence* is important for managers.",
+     "vi": "Trí tuệ cảm xúc quan trọng với người quản lý."
+    }
+   ]
+  },
+  {
+   "id": "stu_concentration",
+   "word": "concentration",
+   "pos": "noun",
+   "ipa": "/ˌkɑːnsnˈtreɪʃn/",
+   "level": "B2",
+   "meaning": "sự tập trung",
+   "definition": "the ability to give all your attention",
+   "collocations": [
+    "lose concentration",
+    "require concentration"
+   ],
+   "examples": [
+    {
+     "en": "The noise affects my *concentration*.",
+     "vi": "Tiếng ồn ảnh hưởng đến sự tập trung của tôi."
+    }
+   ]
+  },
+  {
+   "id": "stu_discipline",
+   "word": "discipline",
+   "pos": "noun",
+   "ipa": "/ˈdɪsəplɪn/",
+   "level": "B2",
+   "meaning": "kỷ luật; môn học",
+   "definition": "training to obey rules; a subject of study",
+   "collocations": [
+    "self-discipline",
+    "academic discipline"
+   ],
+   "examples": [
+    {
+     "en": "Learning a language takes *discipline*.",
+     "vi": "Học ngoại ngữ cần có kỷ luật."
+    }
+   ]
+  },
+  {
+   "id": "stu_translate",
+   "word": "translate",
+   "pos": "verb",
+   "ipa": "/trænzˈleɪt/",
+   "level": "B1",
+   "meaning": "dịch",
+   "definition": "to change words into another language",
+   "collocations": [
+    "translate into",
+    "translate from"
+   ],
+   "examples": [
+    {
+     "en": "Can you *translate* this e-mail into English?",
+     "vi": "Bạn dịch e-mail này sang tiếng Anh được không?"
+    }
+   ]
+  },
+  {
+   "id": "stu_translation",
+   "word": "translation",
+   "pos": "noun",
+   "ipa": "/trænzˈleɪʃn/",
+   "level": "B1",
+   "meaning": "bản dịch",
+   "definition": "words changed into another language",
+   "collocations": [
+    "a translation of",
+    "translation service"
+   ],
+   "examples": [
+    {
+     "en": "The *translation* was not very accurate.",
+     "vi": "Bản dịch không chính xác lắm."
+    }
+   ]
+  },
+  {
+   "id": "stu_accent",
+   "word": "accent",
+   "pos": "noun",
+   "ipa": "/ˈæksent/",
+   "level": "B2",
+   "meaning": "giọng (vùng miền)",
+   "definition": "a way of pronouncing words",
+   "collocations": [
+    "a strong accent",
+    "British accent"
+   ],
+   "examples": [
+    {
+     "en": "TOEIC uses American, British, Australian and Canadian *accents*.",
+     "vi": "TOEIC dùng giọng Mỹ, Anh, Úc và Canada."
+    }
+   ]
+  },
+  {
+   "id": "stu_spoken",
+   "word": "spoken",
+   "pos": "adjective",
+   "ipa": "/ˈspoʊkən/",
+   "level": "B1",
+   "meaning": "(thuộc) nói",
+   "definition": "expressed in speech",
+   "collocations": [
+    "spoken English",
+    "spoken language"
+   ],
+   "examples": [
+    {
+     "en": "Her *spoken* English has improved a lot.",
+     "vi": "Tiếng Anh nói của cô ấy đã tiến bộ nhiều."
+    }
+   ]
+  },
+  {
+   "id": "stu_written",
+   "word": "written",
+   "pos": "adjective",
+   "ipa": "/ˈrɪtn/",
+   "level": "B1",
+   "meaning": "(bằng) viết",
+   "definition": "expressed in writing",
+   "collocations": [
+    "written test",
+    "written permission"
+   ],
+   "examples": [
+    {
+     "en": "You need *written* permission from your manager.",
+     "vi": "Bạn cần giấy phép bằng văn bản từ quản lý."
+    }
+   ]
+  },
+  {
+   "id": "stu_sentence",
+   "word": "sentence",
+   "pos": "noun",
+   "ipa": "/ˈsentəns/",
+   "level": "B2",
+   "meaning": "câu; bản án",
+   "definition": "a group of words with a meaning; a punishment",
+   "collocations": [
+    "complete the sentence",
+    "a prison sentence"
+   ],
+   "examples": [
+    {
+     "en": "Choose the best word to complete the *sentence*.",
+     "vi": "Chọn từ phù hợp nhất để hoàn thành câu."
+    }
+   ]
+  },
+  {
+   "id": "stu_clause",
+   "word": "clause",
+   "pos": "noun",
+   "ipa": "/klɔːz/",
+   "level": "B1",
+   "meaning": "mệnh đề; điều khoản",
+   "definition": "part of a sentence; a section of a contract",
+   "collocations": [
+    "relative clause",
+    "a clause in the contract"
+   ],
+   "examples": [
+    {
+     "en": "This *clause* allows either side to cancel the contract.",
+     "vi": "Điều khoản này cho phép bên nào cũng có thể hủy hợp đồng."
+    }
+   ],
+   "note": "relative clause = mệnh đề quan hệ."
+  },
+  {
+   "id": "stu_passage",
+   "word": "passage",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪdʒ/",
+   "level": "B2",
+   "meaning": "đoạn văn; lối đi",
+   "definition": "a short part of a text; a narrow way",
+   "collocations": [
+    "read the passage",
+    "a narrow passage"
+   ],
+   "examples": [
+    {
+     "en": "Read the *passage* and answer the questions.",
+     "vi": "Đọc đoạn văn và trả lời câu hỏi."
+    }
+   ]
+  },
+  {
+   "id": "stu_quotation_mark",
+   "word": "quotation mark",
+   "pos": "noun",
+   "ipa": "/kwoʊˈteɪʃn mɑːrk/",
+   "level": "TOEIC",
+   "meaning": "dấu ngoặc kép",
+   "definition": "the marks \" \" around words",
+   "collocations": [
+    "in quotation marks"
+   ],
+   "examples": [
+    {
+     "en": "Put the title in *quotation marks*.",
+     "vi": "Đặt tên sách trong dấu ngoặc kép."
+    }
+   ]
+  },
+  {
+   "id": "stu_definition",
+   "word": "definition",
+   "pos": "noun",
+   "ipa": "/ˌdefɪˈnɪʃn/",
+   "level": "B1",
+   "meaning": "định nghĩa",
+   "definition": "an explanation of the meaning of a word",
+   "collocations": [
+    "dictionary definition",
+    "by definition"
+   ],
+   "examples": [
+    {
+     "en": "Look up the *definition* in a dictionary.",
+     "vi": "Tra định nghĩa trong từ điển."
+    }
+   ]
+  },
+  {
+   "id": "stu_define",
+   "word": "define",
+   "pos": "verb",
+   "ipa": "/dɪˈfaɪn/",
+   "level": "B1",
+   "meaning": "định nghĩa; xác định",
+   "definition": "to explain the meaning; to describe clearly",
+   "collocations": [
+    "define clearly",
+    "define the role"
+   ],
+   "examples": [
+    {
+     "en": "Please *define* the role of each team member.",
+     "vi": "Vui lòng xác định rõ vai trò của từng thành viên."
+    }
+   ]
+  },
+  {
+   "id": "stu_illustrate",
+   "word": "illustrate",
+   "pos": "verb",
+   "ipa": "/ˈɪləstreɪt/",
+   "level": "B2",
+   "meaning": "minh họa",
+   "definition": "to explain with examples or pictures",
+   "collocations": [
+    "illustrate a point",
+    "illustrated book"
+   ],
+   "examples": [
+    {
+     "en": "The chart *illustrates* the growth in sales.",
+     "vi": "Biểu đồ minh họa sự tăng trưởng doanh số."
+    }
+   ]
+  },
+  {
+   "id": "stu_illustration",
+   "word": "illustration",
+   "pos": "noun",
+   "ipa": "/ˌɪləˈstreɪʃn/",
+   "level": "B2",
+   "meaning": "hình minh họa; ví dụ",
+   "definition": "a picture in a book; an example",
+   "collocations": [
+    "for illustration",
+    "book illustrations"
+   ],
+   "examples": [
+    {
+     "en": "The book has beautiful *illustrations*.",
+     "vi": "Cuốn sách có hình minh họa đẹp."
+    }
+   ]
+  },
+  {
+   "id": "stu_diagram",
+   "word": "diagram",
+   "pos": "noun",
+   "ipa": "/ˈdaɪəɡræm/",
+   "level": "B1",
+   "meaning": "sơ đồ",
+   "definition": "a simple drawing that explains something",
+   "collocations": [
+    "draw a diagram",
+    "see the diagram"
+   ],
+   "examples": [
+    {
+     "en": "The *diagram* shows how the machine works.",
+     "vi": "Sơ đồ cho thấy máy hoạt động thế nào."
+    }
+   ]
+  },
+  {
+   "id": "stu_chart",
+   "word": "chart",
+   "pos": "noun",
+   "ipa": "/tʃɑːrt/",
+   "level": "B2",
+   "meaning": "biểu đồ",
+   "definition": "a picture showing information",
+   "collocations": [
+    "pie chart",
+    "bar chart",
+    "flow chart"
+   ],
+   "examples": [
+    {
+     "en": "Look at the *chart* on page 4.",
+     "vi": "Xem biểu đồ ở trang 4."
+    }
+   ]
+  },
+  {
+   "id": "stu_graph",
+   "word": "graph",
+   "pos": "noun",
+   "ipa": "/ɡræf/",
+   "level": "TOEIC",
+   "meaning": "đồ thị",
+   "definition": "a drawing showing how numbers change",
+   "collocations": [
+    "line graph",
+    "the graph shows"
+   ],
+   "examples": [
+    {
+     "en": "The *graph* shows sales from January to June.",
+     "vi": "Đồ thị thể hiện doanh số từ tháng Một đến tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "stu_statistic",
+   "word": "statistic",
+   "pos": "noun",
+   "ipa": "/stəˈtɪstɪk/",
+   "level": "B1",
+   "meaning": "số liệu thống kê",
+   "definition": "a number that shows a fact",
+   "collocations": [
+    "official statistics",
+    "according to statistics"
+   ],
+   "examples": [
+    {
+     "en": "*Statistics* show that most customers shop online.",
+     "vi": "Thống kê cho thấy phần lớn khách hàng mua sắm trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "stu_reference",
+   "word": "reference",
+   "pos": "noun",
+   "ipa": "/ˈrefrəns/",
+   "level": "B1",
+   "meaning": "sự tham khảo; thư giới thiệu",
+   "definition": "a mention of something; a letter about someone's skills",
+   "collocations": [
+    "for reference",
+    "reference letter",
+    "with reference to"
+   ],
+   "examples": [
+    {
+     "en": "Please provide two *references* from previous employers.",
+     "vi": "Vui lòng cung cấp hai thư giới thiệu từ nơi làm cũ."
+    }
+   ]
+  },
+  {
+   "id": "stu_learner",
+   "word": "learner",
+   "pos": "noun",
+   "ipa": "/ˈlɜːrnər/",
+   "level": "TOEIC",
+   "meaning": "người học",
+   "definition": "a person who is learning",
+   "collocations": [
+    "language learners",
+    "a fast learner"
+   ],
+   "examples": [
+    {
+     "en": "She's a fast *learner*.",
+     "vi": "Cô ấy học rất nhanh."
+    }
+   ]
+  },
+  {
+   "id": "stu_lecture",
+   "word": "lecture",
+   "pos": "noun",
+   "ipa": "/ˈlektʃər/",
+   "level": "A2",
+   "meaning": "bài giảng",
+   "definition": "a talk to students on a subject",
+   "collocations": [
+    "give a lecture",
+    "attend a lecture"
+   ],
+   "examples": [
+    {
+     "en": "The *lecture* starts at 9 a.m.",
+     "vi": "Bài giảng bắt đầu lúc 9 giờ sáng."
+    }
+   ]
+  },
+  {
+   "id": "stu_tutor",
+   "word": "tutor",
+   "pos": "noun",
+   "ipa": "/ˈtuːtər/",
+   "level": "TOEIC",
+   "meaning": "gia sư",
+   "definition": "a private teacher",
+   "collocations": [
+    "private tutor",
+    "English tutor"
+   ],
+   "examples": [
+    {
+     "en": "I have an English *tutor* twice a week.",
+     "vi": "Tôi học gia sư tiếng Anh hai buổi một tuần."
+    }
+   ]
+  },
+  {
+   "id": "stu_enrol",
+   "word": "enrol",
+   "pos": "verb",
+   "ipa": "/ɪnˈroʊl/",
+   "level": "C1",
+   "meaning": "đăng ký học",
+   "definition": "to officially join a course",
+   "collocations": [
+    "enrol in a course",
+    "enrol on"
+   ],
+   "examples": [
+    {
+     "en": "I *enrolled* in an evening business English course.",
+     "vi": "Tôi đăng ký khóa tiếng Anh thương mại buổi tối."
+    }
+   ],
+   "note": "Anh-Mỹ: enroll."
+  },
+  {
+   "id": "stu_attendance",
+   "word": "attendance",
+   "pos": "noun",
+   "ipa": "/əˈtendəns/",
+   "level": "C1",
+   "meaning": "sự tham dự, chuyên cần",
+   "definition": "being present at an event or class",
+   "collocations": [
+    "attendance record",
+    "good attendance"
+   ],
+   "examples": [
+    {
+     "en": "*Attendance* at the training session is required.",
+     "vi": "Việc tham dự buổi đào tạo là bắt buộc."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,55 @@
+#id: toeic_hotel
+#prefix: tho
+#order: 58
+#icon: 🏨
+#title: TOEIC: Hotels & Hospitality
+#title_vi: TOEIC: Khách sạn & Lưu trú
+#desc: Đặt phòng, tiện nghi, nhận – trả phòng, dịch vụ phòng: tình huống quen thuộc trong Part 2–4 và email xác nhận đặt phòng.
+amenities | noun | /əˈmenətiz/ | tiện nghi | useful features of a place | hotel amenities; local amenities | Hotel *amenities* include a pool and a gym. | Tiện nghi khách sạn gồm hồ bơi và phòng tập.
+concierge | noun | /ˌkɑːnsiˈerʒ/ | nhân viên hỗ trợ khách (khách sạn) | a hotel employee who helps guests with tours, taxis etc. | ask the concierge | The *concierge* can book a taxi for you. | Nhân viên hỗ trợ khách có thể đặt taxi cho bạn.
+housekeeping | noun | /ˈhaʊskiːpɪŋ/ | bộ phận buồng phòng | the department that cleans hotel rooms | call housekeeping | Please call *housekeeping* for extra towels. | Vui lòng gọi bộ phận buồng phòng để lấy thêm khăn.
+room service | noun | /ˈruːm ˌsɜːrvɪs/ | dịch vụ phòng | food delivered to a hotel room | order room service | *Room service* is available 24 hours a day. | Dịch vụ phòng phục vụ 24/24.
+suite | noun | /swiːt/ | phòng hạng sang (nhiều phòng) | a set of rooms in a hotel | executive suite; honeymoon suite | We upgraded you to a *suite* at no extra cost. | Chúng tôi đã nâng hạng phòng của bạn lên suite miễn phí. | Phát âm như sweet.
+single room | noun | /ˌsɪŋɡl ˈruːm/ | phòng đơn | a room for one person | book a single room | A *single room* costs $80 a night. | Phòng đơn giá 80 đô một đêm.
+double room | noun | /ˌdʌbl ˈruːm/ | phòng đôi | a room with a bed for two people | a double room with a view | I'd like to book a *double room* for two nights. | Tôi muốn đặt phòng đôi hai đêm.
+front desk | noun | /ˌfrʌnt ˈdesk/ | quầy lễ tân | the reception desk in a hotel | at the front desk | Please leave your key at the *front desk*. | Vui lòng để chìa khóa ở quầy lễ tân.
+key card | noun | /ˈkiː kɑːrd/ | thẻ khóa phòng | a plastic card used to open a door | room key card | Your *key card* also works in the lift. | Thẻ phòng cũng dùng được cho thang máy.
+late checkout | noun | /ˌleɪt ˈtʃekaʊt/ | trả phòng muộn | leaving a hotel room later than usual | request a late checkout | Is a *late checkout* possible? | Có thể trả phòng muộn được không?
+wake-up call | noun | /ˈweɪk ʌp kɔːl/ | cuộc gọi báo thức | a phone call to wake a guest | request a wake-up call | I'd like a *wake-up call* at 6 a.m. | Tôi muốn được gọi báo thức lúc 6 giờ sáng.
+occupancy | noun | /ˈɑːkjəpənsi/ | công suất phòng; sự sử dụng | the number of rooms or seats used | occupancy rate; maximum occupancy | Hotel *occupancy* is high in summer. | Công suất phòng khách sạn cao vào mùa hè.
+vacant | adjective | /ˈveɪkənt/ | trống | not being used | vacant rooms; vacant position | There are no *vacant* rooms this weekend. | Cuối tuần này không còn phòng trống.
+fully booked | adjective | /ˌfʊli ˈbʊkt/ | kín chỗ | with no rooms or seats left | the hotel is fully booked | Sorry, we're *fully booked* for Saturday. | Xin lỗi, thứ Bảy chúng tôi đã kín chỗ.
+guest | noun | /ɡest/ | khách | a person staying at a hotel or invited to an event | hotel guests; guest list | All *guests* receive free breakfast. | Mọi khách đều được ăn sáng miễn phí.
+hospitality | noun | /ˌhɑːspɪˈtæləti/ | sự hiếu khách; ngành nhà hàng – khách sạn | friendly treatment of guests; the hotel and restaurant business | hospitality industry; thank you for your hospitality | She has worked in *hospitality* for ten years. | Cô ấy làm trong ngành nhà hàng – khách sạn mười năm.
+lodging | noun | /ˈlɑːdʒɪŋ/ | chỗ trọ | a place to stay | food and lodging | The price includes meals and *lodging*. | Giá đã bao gồm ăn và ở.
+inn | noun | /ɪn/ | quán trọ, nhà nghỉ | a small hotel, often in the countryside | a country inn | We stayed at a small *inn* in the mountains. | Chúng tôi ở một nhà nghỉ nhỏ trên núi.
+bed and breakfast | noun | /ˌbed ən ˈbrekfəst/ | nhà nghỉ có kèm bữa sáng | a small hotel that gives you a room and breakfast | stay at a bed and breakfast | They run a *bed and breakfast* by the sea. | Họ kinh doanh nhà nghỉ kèm bữa sáng bên biển.
+check-in | noun | /ˈtʃek ɪn/ | thủ tục nhận phòng | the act of arriving and registering at a hotel | check-in time; online check-in | *Check-in* time is 2 p.m. | Giờ nhận phòng là 2 giờ chiều.
+checkout time | noun | /ˈtʃekaʊt taɪm/ | giờ trả phòng | the time you must leave a hotel room | checkout time is noon | *Checkout time* is 12 noon. | Giờ trả phòng là 12 giờ trưa.
+porter | noun | /ˈpɔːrtər/ | nhân viên khuân hành lý | a person who carries luggage | hotel porter | The *porter* will take your bags to your room. | Nhân viên hành lý sẽ mang túi lên phòng cho bạn.
+bellhop | noun | /ˈbelhɑːp/ | nhân viên xách hành lý | a hotel worker who carries bags | tip the bellhop | The *bellhop* showed us to our room. | Nhân viên xách hành lý dẫn chúng tôi lên phòng.
+valet parking | noun | /ˈvæleɪ ˌpɑːrkɪŋ/ | dịch vụ đỗ xe hộ | a service where staff park your car | valet parking is available | *Valet parking* is available for $15 a day. | Có dịch vụ đỗ xe hộ với giá 15 đô một ngày.
+shuttle | noun | /ˈʃʌtl/ | xe đưa đón | a bus that goes regularly between two places | airport shuttle; shuttle bus | A free *shuttle* runs to the airport every hour. | Có xe đưa đón miễn phí ra sân bay mỗi giờ.
+toiletries | noun | /ˈtɔɪlətriz/ | đồ dùng vệ sinh cá nhân | soap, shampoo and similar things | free toiletries | Free *toiletries* are provided in every room. | Mỗi phòng đều có đồ vệ sinh cá nhân miễn phí.
+linen | noun | /ˈlɪnɪn/ | khăn trải giường, khăn vải | sheets, towels and tablecloths | bed linen; change the linen | The bed *linen* is changed daily. | Ga giường được thay hằng ngày.
+towel | noun | /ˈtaʊəl/ | khăn tắm | a cloth for drying yourself | bath towel; extra towels | Could I have some extra *towels*, please? | Cho tôi xin thêm vài cái khăn tắm được không?
+minibar | noun | /ˈmɪnibɑːr/ | tủ đồ uống mini | a small fridge with drinks in a hotel room | charges from the minibar | Items from the *minibar* will be added to your bill. | Đồ dùng từ tủ mini sẽ được tính vào hóa đơn.
+air conditioning | noun | /ˈer kənˌdɪʃənɪŋ/ | điều hòa không khí | a system that keeps air cool | turn on the air conditioning | The *air conditioning* in my room isn't working. | Điều hòa trong phòng tôi không chạy.
+view | noun | /vjuː/ | tầm nhìn | what you can see from a place | sea view; a room with a view | I'd like a room with an ocean *view*. | Tôi muốn phòng có tầm nhìn ra biển.
+upgrade | noun | /ˈʌpɡreɪd/ | sự nâng hạng | a better room or seat | room upgrade; free upgrade | We received a free room *upgrade*. | Chúng tôi được nâng hạng phòng miễn phí.
+rate per night | noun | /ˌreɪt pər ˈnaɪt/ | giá mỗi đêm | the price of one night's stay | the room rate per night | The *rate per night* includes breakfast. | Giá mỗi đêm đã bao gồm bữa sáng.
+peak season | noun | /ˈpiːk ˌsiːzn/ | mùa cao điểm | the busiest time of year | during peak season | Prices are higher during *peak season*. | Giá cao hơn vào mùa cao điểm.
+off-season | noun | /ˈɔːf ˌsiːzn/ | mùa thấp điểm | the time of year when fewer people travel | travel in the off-season | Hotels are cheaper in the *off-season*. | Khách sạn rẻ hơn vào mùa thấp điểm.
+deposit | verb | /dɪˈpɑːzɪt/ | gửi (đồ); đặt cọc | to put something somewhere safe; to pay first | deposit valuables in the safe | You can *deposit* valuables in the hotel safe. | Bạn có thể gửi đồ quý trong két khách sạn.
+safe | noun | /seɪf/ | két sắt | a strong box for keeping money and valuables | room safe; in the safe | Each room has a *safe*. | Mỗi phòng đều có két sắt.
+lost and found | noun | /ˌlɔːst ən ˈfaʊnd/ | nơi giữ đồ thất lạc | a place where lost items are kept | check the lost and found | Ask at the *lost and found* desk. | Hỏi ở quầy đồ thất lạc.
+noise complaint | noun | /ˈnɔɪz kəmˌpleɪnt/ | khiếu nại tiếng ồn | a complaint about noise | receive a noise complaint | The hotel received a *noise complaint* from room 305. | Khách sạn nhận khiếu nại tiếng ồn từ phòng 305.
+renovation | noun | /ˌrenəˈveɪʃn/ | sự cải tạo, nâng cấp | repairing and improving a building | under renovation; renovation work | The pool is closed for *renovation*. | Hồ bơi đóng cửa để cải tạo.
+renovate | verb | /ˈrenəveɪt/ | cải tạo, sửa sang | to repair and improve a building | newly renovated | All rooms were *renovated* last year. | Tất cả phòng được cải tạo năm ngoái.
+spa | noun | /spɑː/ | spa | a place for relaxing treatments like massage | hotel spa; spa treatment | Guests get 10% off at the *spa*. | Khách được giảm 10% tại spa.
+banquet hall | noun | /ˈbæŋkwɪt hɔːl/ | sảnh tiệc | a large room for formal dinners | book the banquet hall | The *banquet hall* seats 300 guests. | Sảnh tiệc chứa được 300 khách.
+ballroom | noun | /ˈbɔːlruːm/ | phòng khiêu vũ, phòng tiệc lớn | a large room for formal parties | grand ballroom | The awards dinner will be in the hotel *ballroom*. | Tiệc trao giải sẽ diễn ra ở phòng tiệc lớn của khách sạn.
+hostel | noun | /ˈhɑːstl/ | nhà trọ giá rẻ | a cheap place to stay, often with shared rooms | youth hostel | Students often stay in *hostels*. | Sinh viên thường ở nhà trọ giá rẻ.
+guesthouse | noun | /ˈɡesthaʊs/ | nhà khách | a small hotel | stay at a guesthouse | We stayed at a family-run *guesthouse*. | Chúng tôi ở một nhà khách do gia đình quản lý.
+loyalty program | noun | /ˈlɔɪəlti ˌproʊɡræm/ | chương trình khách hàng thân thiết | a scheme that rewards regular customers | join the loyalty program | Join our *loyalty program* to earn free nights. | Tham gia chương trình khách hàng thân thiết để nhận đêm miễn phí.
+feedback form | noun | /ˈfiːdbæk fɔːrm/ | phiếu góp ý | a form for comments | fill in a feedback form | Please leave a *feedback form* at reception. | Vui lòng để phiếu góp ý tại quầy lễ tân.

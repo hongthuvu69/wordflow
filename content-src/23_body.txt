@@ -1,0 +1,53 @@
+#id: body
+#prefix: bod
+#order: 23
+#icon: 🧍
+#title: Body & Appearance
+#title_vi: Cơ thể & Ngoại hình
+#desc: Bộ phận cơ thể, trang phục, vẻ ngoài: hữu ích cho Part 1 (mô tả người) và giao tiếp hằng ngày.
+chest | noun | /tʃest/ | ngực | the front part of the body between neck and stomach | chest pain; across the chest | He felt a pain in his *chest*. | Anh ấy thấy đau ở ngực.
+breast | noun | /brest/ | vú; ức (gà) | part of a woman's chest; meat from a bird's chest | chicken breast; breast cancer | I'll have the grilled chicken *breast*. | Tôi gọi món ức gà nướng.
+lung | noun | /lʌŋ/ | phổi | one of the two organs used for breathing | lung cancer; lung disease | Smoking damages your *lungs*. | Hút thuốc làm hại phổi.
+organ | noun | /ˈɔːrɡən/ | cơ quan (cơ thể); đàn organ | a part of the body with a special job | internal organs; organ donor | The heart is a vital *organ*. | Tim là một cơ quan sống còn.
+muscle | noun | /ˈmʌsl/ | cơ bắp | tissue in the body that produces movement | pull a muscle; build muscle | I pulled a *muscle* in my leg. | Tôi bị căng cơ ở chân. | Chữ c câm.
+nerve | noun | /nɜːrv/ | dây thần kinh; sự can đảm | a fibre that sends messages in the body; courage | nerve damage; lose your nerve; get on my nerves | The noise is getting on my *nerves*. | Tiếng ồn làm tôi phát bực.
+skull | noun | /skʌl/ | hộp sọ | the bones of the head | fractured skull | The helmet protects your *skull*. | Mũ bảo hiểm bảo vệ hộp sọ của bạn.
+throat | noun | /θroʊt/ | cổ họng | the passage at the back of the mouth | sore throat; clear your throat | He cleared his *throat* before speaking. | Anh ấy hắng giọng trước khi nói.
+tongue | noun | /tʌŋ/ | cái lưỡi; ngôn ngữ | the soft part in the mouth; a language | mother tongue; on the tip of my tongue | His name is on the tip of my *tongue*. | Tên anh ấy ở ngay đầu lưỡi tôi (sắp nhớ ra).
+lip | noun | /lɪp/ | môi | the edge of the mouth | upper lip; bite your lip | She bit her *lip* nervously. | Cô ấy cắn môi lo lắng.
+cheek | noun | /tʃiːk/ | má | the side of the face below the eye | kiss on the cheek; red cheeks | She kissed him on the *cheek*. | Cô ấy hôn lên má anh.
+elbow | noun | /ˈelboʊ/ | khuỷu tay | the joint in the middle of the arm | bend your elbow; elbow injury | Don't put your *elbows* on the table. | Đừng chống khuỷu tay lên bàn.
+wrist | noun | /rɪst/ | cổ tay | the joint between the hand and arm | wrist watch; sprain your wrist | She wears a watch on her left *wrist*. | Cô ấy đeo đồng hồ ở cổ tay trái.
+palm | noun | /pɑːm/ | lòng bàn tay; cây cọ | the inside of the hand; a tropical tree | palm tree; in the palm of your hand | *Palm* trees line the beach. | Hàng cây cọ chạy dọc bãi biển.
+thumb | noun | /θʌm/ | ngón tay cái | the short thick finger | thumbs up; rule of thumb | As a rule of *thumb*, arrive 15 minutes early. | Theo kinh nghiệm chung, hãy đến sớm 15 phút. | Chữ b câm.
+toe | noun | /toʊ/ | ngón chân | one of the five parts at the end of the foot | big toe; on your toes | I hurt my big *toe*. | Tôi bị đau ngón chân cái.
+heel | noun | /hiːl/ | gót chân; gót giày | the back part of the foot or shoe | high heels; heel pain | She can't walk far in high *heels*. | Cô ấy không đi xa được bằng giày cao gót.
+hip | noun | /hɪp/ | hông | the side of the body below the waist | hip injury; hands on hips | My grandmother had a *hip* operation. | Bà tôi đã mổ hông.
+tissue | noun | /ˈtɪʃuː/ | mô (cơ thể); khăn giấy | the cells forming an animal or plant; a soft paper | a box of tissues; body tissue | Could you pass me a *tissue*? | Bạn đưa tôi tờ khăn giấy được không?
+pale | adjective | /peɪl/ | nhợt nhạt; nhạt màu | having less colour than usual | look pale; pale blue | You look *pale*. Are you OK? | Trông bạn nhợt nhạt quá. Bạn ổn chứ?
+naked | adjective | /ˈneɪkɪd/ | trần truồng; trần trụi | not wearing clothes; not covered | with the naked eye | The planet can be seen with the *naked* eye. | Có thể nhìn thấy hành tinh này bằng mắt thường.
+bent | adjective | /bent/ | cong, cúi | not straight | bent over; a bent nail | The man was *bent* over his desk, reading. | Người đàn ông cúi xuống bàn đọc sách. | Part 1 hay gặp: bend over = cúi người.
+bend | verb | /bend/ | cúi, uốn cong | to move your body forward and down; to make something curved | bend down; bend over; bend your knees | The woman is *bending* down to pick up a box. | Người phụ nữ đang cúi xuống nhặt một chiếc hộp.
+tattoo | noun | /tæˈtuː/ | hình xăm | a picture drawn on skin with ink | have a tattoo; get a tattoo | He has a small *tattoo* on his arm. | Anh ấy có một hình xăm nhỏ trên cánh tay.
+make-up | noun | /ˈmeɪk ʌp/ | đồ trang điểm | creams and powders put on the face | wear make-up; put on make-up | She doesn't usually wear *make-up* to work. | Cô ấy thường không trang điểm khi đi làm.
+outfit | noun | /ˈaʊtfɪt/ | bộ trang phục | a set of clothes worn together | a new outfit; wear an outfit | She bought a new *outfit* for the interview. | Cô ấy mua một bộ đồ mới để đi phỏng vấn.
+dressed | adjective | /drest/ | mặc quần áo | wearing clothes | get dressed; well dressed; dressed in black | He was *dressed* in a dark suit. | Anh ấy mặc bộ vest tối màu.
+casual | adjective | /ˈkæʒuəl/ | thường ngày, giản dị | not formal | casual clothes; business casual; casual conversation | We can wear *casual* clothes on Fridays. | Thứ Sáu chúng tôi được mặc đồ thường ngày.
+fashionable | adjective | /ˈfæʃnəbl/ | hợp thời trang | popular at a particular time | fashionable clothes; a fashionable area | The shop sells *fashionable* clothes at low prices. | Cửa hàng bán quần áo hợp thời trang giá rẻ.
+elegant | adjective | /ˈelɪɡənt/ | thanh lịch | attractive and well designed | an elegant dress; elegant design | The hotel has an *elegant* restaurant. | Khách sạn có một nhà hàng thanh lịch.
+gorgeous | adjective | /ˈɡɔːrdʒəs/ | lộng lẫy, rất đẹp | very beautiful | a gorgeous view; look gorgeous | The view from the room is *gorgeous*. | Tầm nhìn từ phòng tuyệt đẹp.
+cute | adjective | /kjuːt/ | dễ thương | pretty and attractive | a cute baby; so cute | What a *cute* puppy! | Chú cún dễ thương quá!
+ugly | adjective | /ˈʌɡli/ | xấu xí | unpleasant to look at | an ugly building | They replaced the *ugly* old sign with a new one. | Họ thay tấm biển cũ xấu xí bằng biển mới.
+beauty | noun | /ˈbjuːti/ | vẻ đẹp; sắc đẹp | the quality of being beautiful | natural beauty; beauty salon | The area is famous for its natural *beauty*. | Khu vực nổi tiếng với vẻ đẹp tự nhiên.
+appearance | noun | /əˈpɪrəns/ | vẻ bề ngoài; sự xuất hiện | the way someone or something looks; the act of appearing | physical appearance; make an appearance | Staff should keep a neat *appearance*. | Nhân viên nên giữ vẻ ngoài gọn gàng.
+height | noun | /haɪt/ | chiều cao | how tall someone or something is | average height; adjust the height | The chair's *height* can be adjusted. | Có thể điều chỉnh độ cao của ghế.
+weigh | verb | /weɪ/ | cân nặng; cân nhắc | to have a certain weight; to measure weight | weigh 5 kilos; weigh the options | The package *weighs* about two kilos. | Gói hàng nặng khoảng hai ký.
+glove | noun | /ɡlʌv/ | găng tay | a covering for the hand | a pair of gloves; rubber gloves | Wear *gloves* when handling chemicals. | Đeo găng tay khi xử lý hóa chất.
+helmet | noun | /ˈhelmɪt/ | mũ bảo hiểm | a hard hat to protect the head | wear a helmet; safety helmet | Workers must wear *helmets* on site. | Công nhân phải đội mũ bảo hộ tại công trường.
+underwear | noun | /ˈʌndərwer/ | đồ lót | clothes worn under other clothes | clean underwear | Pack enough *underwear* for the trip. | Mang đủ đồ lót cho chuyến đi.
+fabric | noun | /ˈfæbrɪk/ | vải | cloth | cotton fabric; soft fabric | The sofa is covered in a soft *fabric*. | Ghế sofa được bọc bằng vải mềm.
+cotton | noun | /ˈkɑːtn/ | vải bông, cotton | a natural cloth made from a plant | 100% cotton; cotton shirt | This shirt is made of 100% *cotton*. | Chiếc áo này làm từ 100% cotton.
+silk | noun | /sɪlk/ | lụa | a fine soft cloth made by insects | silk scarf; pure silk | She bought a *silk* scarf as a souvenir. | Cô ấy mua một chiếc khăn lụa làm quà lưu niệm.
+wool | noun | /wʊl/ | len | soft hair from sheep made into cloth | wool sweater; made of wool | This *wool* sweater keeps me warm. | Chiếc áo len này giữ ấm cho tôi.
+leather | noun | /ˈleðər/ | da (thuộc) | animal skin used for shoes, bags etc. | leather jacket; leather shoes | He bought a brown *leather* bag. | Anh ấy mua một chiếc túi da màu nâu.
+fur | noun | /fɜːr/ | lông thú | the thick hair of some animals | fur coat; animal fur | The cat's *fur* is very soft. | Lông con mèo rất mềm.

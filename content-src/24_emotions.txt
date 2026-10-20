@@ -1,0 +1,80 @@
+#id: emotions
+#prefix: emo
+#order: 24
+#icon: 😊
+#title: Emotions & Reactions
+#title_vi: Cảm xúc & Phản ứng
+#desc: Diễn tả cảm xúc chính xác hơn "happy/sad": phân biệt -ed/-ing (shocked/shocking), hay gặp trong Speaking và Part 3.
+emotion | noun | /ɪˈmoʊʃn/ | cảm xúc | a strong feeling such as love, fear or anger | show emotion; mixed emotions | She found it hard to hide her *emotions*. | Cô ấy khó giấu được cảm xúc của mình.
+emotional | adjective | /ɪˈmoʊʃənl/ | xúc động; thuộc cảm xúc | showing strong feelings; connected with feelings | get emotional; emotional support | He got *emotional* during his farewell speech. | Anh ấy xúc động trong bài phát biểu chia tay.
+delighted | adjective | /dɪˈlaɪtɪd/ | rất vui mừng | very pleased | delighted to hear; delighted with | We are *delighted* to welcome you to our team. | Chúng tôi rất vui được chào đón bạn vào đội. | Câu mở đầu email trang trọng hay dùng.
+delight | noun | /dɪˈlaɪt/ | niềm vui sướng | great pleasure | to my delight; take delight in | To our *delight*, the project was approved. | Chúng tôi rất vui vì dự án đã được duyệt.
+glad | adjective | /ɡlæd/ | vui mừng | pleased and happy | glad to hear; I'm glad that | I'm *glad* you could come. | Tôi rất vui vì bạn đã đến được.
+joy | noun | /dʒɔɪ/ | niềm vui | great happiness | jump for joy; a joy to work with | It's a *joy* to work with such a friendly team. | Thật vui khi được làm việc với một đội thân thiện như vậy.
+happiness | noun | /ˈhæpinəs/ | hạnh phúc | the state of being happy | find happiness; health and happiness | Money doesn't always bring *happiness*. | Tiền không phải lúc nào cũng mang lại hạnh phúc.
+pleasure | noun | /ˈpleʒər/ | niềm vui, sự hân hạnh | a feeling of enjoyment | it's a pleasure; with pleasure; for pleasure | It was a *pleasure* meeting you. | Rất hân hạnh được gặp bạn.
+pleasant | adjective | /ˈpleznt/ | dễ chịu | enjoyable or attractive | a pleasant surprise; pleasant weather | We had a *pleasant* evening at the restaurant. | Chúng tôi đã có một buổi tối dễ chịu ở nhà hàng.
+unpleasant | adjective | /ʌnˈpleznt/ | khó chịu | not enjoyable | an unpleasant smell; unpleasant experience | There was an *unpleasant* smell in the kitchen. | Có mùi khó chịu trong bếp.
+cheerful | adjective | /ˈtʃɪrfl/ | vui vẻ | happy and positive | a cheerful smile; cheerful colours | The receptionist was very *cheerful*. | Lễ tân rất vui vẻ.
+cheer | verb | /tʃɪr/ | reo hò cổ vũ | to shout to show support or approval | cheer for; cheer loudly | The crowd *cheered* when the team scored. | Đám đông reo hò khi đội ghi bàn.
+optimistic | adjective | /ˌɑːptɪˈmɪstɪk/ | lạc quan | expecting good things to happen | optimistic about; remain optimistic | The manager is *optimistic* about next year's sales. | Quản lý lạc quan về doanh số năm sau.
+hopefully | adverb | /ˈhoʊpfəli/ | hy vọng là | used to say what you hope will happen | Hopefully, … | *Hopefully*, the package will arrive tomorrow. | Hy vọng gói hàng sẽ đến vào ngày mai.
+relieved | adjective | /rɪˈliːvd/ | nhẹ nhõm | feeling happy because a worry has gone | relieved to hear; feel relieved | I was *relieved* to hear that nobody was hurt. | Tôi nhẹ nhõm khi biết không ai bị thương.
+relief | noun | /rɪˈliːf/ | sự nhẹ nhõm; sự cứu trợ | the feeling when a worry ends; help for people in need | what a relief; pain relief; disaster relief | What a *relief*! I thought I'd lost my passport. | Nhẹ cả người! Tôi tưởng đã mất hộ chiếu.
+relieve | verb | /rɪˈliːv/ | làm giảm nhẹ | to make pain or worry less | relieve pain; relieve stress | This medicine will *relieve* the pain. | Thuốc này sẽ làm dịu cơn đau.
+relaxed | adjective | /rɪˈlækst/ | thoải mái, thư giãn | calm and not worried | feel relaxed; a relaxed atmosphere | The office has a *relaxed* atmosphere. | Văn phòng có bầu không khí thoải mái.
+relaxing | adjective | /rɪˈlæksɪŋ/ | giúp thư giãn | making you feel calm | a relaxing holiday; relaxing music | We had a *relaxing* weekend by the sea. | Chúng tôi có một cuối tuần thư giãn bên biển.
+calm | adjective | /kɑːm/ | bình tĩnh | not excited or worried | stay calm; keep calm | Please stay *calm* and walk to the nearest exit. | Vui lòng giữ bình tĩnh và đi tới lối ra gần nhất.
+amazed | adjective | /əˈmeɪzd/ | kinh ngạc | very surprised | amazed at; amazed to see | I was *amazed* at how fast she learned. | Tôi kinh ngạc vì cô ấy học nhanh thế.
+astonishing | adjective | /əˈstɑːnɪʃɪŋ/ | đáng kinh ngạc | very surprising | an astonishing success; astonishing results | The app had an *astonishing* one million downloads in a week. | Ứng dụng đạt một triệu lượt tải đáng kinh ngạc trong một tuần.
+shocked | adjective | /ʃɑːkt/ | bị sốc | very surprised and upset | shocked by; shocked to hear | We were *shocked* by the news. | Chúng tôi bị sốc trước tin tức.
+shocking | adjective | /ˈʃɑːkɪŋ/ | gây sốc | causing shock | shocking news; a shocking result | The *shocking* video spread quickly online. | Đoạn video gây sốc lan truyền nhanh trên mạng.
+shock | noun | /ʃɑːk/ | cú sốc | a strong feeling of surprise and upset | in shock; come as a shock | The news came as a *shock* to everyone. | Tin này là cú sốc với mọi người.
+impressed | adjective | /ɪmˈprest/ | ấn tượng | admiring someone or something | impressed by/with; deeply impressed | The client was *impressed* by our presentation. | Khách hàng ấn tượng với bài thuyết trình của chúng tôi.
+impressive | adjective | /ɪmˈpresɪv/ | gây ấn tượng | causing admiration | an impressive result; impressive growth | The company has shown *impressive* growth. | Công ty đã tăng trưởng đầy ấn tượng.
+admire | verb | /ədˈmaɪər/ | ngưỡng mộ | to respect and like someone | admire someone for; admire the view | I *admire* her for her hard work. | Tôi ngưỡng mộ cô ấy vì sự chăm chỉ.
+appreciate | verb | /əˈpriːʃieɪt/ | trân trọng, cảm kích | to be grateful for something | I'd appreciate it if; appreciate your help | We *appreciate* your patience. | Chúng tôi cảm kích sự kiên nhẫn của bạn. | "I would appreciate it if you could…" = câu nhờ vả lịch sự.
+enthusiasm | noun | /ɪnˈθuːziæzəm/ | sự nhiệt tình | a strong feeling of interest and excitement | show enthusiasm; with enthusiasm | She talked about the project with great *enthusiasm*. | Cô ấy nói về dự án với sự nhiệt tình lớn.
+enthusiastic | adjective | /ɪnˌθuːziˈæstɪk/ | nhiệt tình | showing great interest | enthusiastic about; an enthusiastic team | The staff were *enthusiastic* about the new plan. | Nhân viên rất nhiệt tình với kế hoạch mới.
+excitement | noun | /ɪkˈsaɪtmənt/ | sự phấn khích | a feeling of great happiness and energy | in excitement; full of excitement | There was a lot of *excitement* before the launch. | Có rất nhiều háo hức trước buổi ra mắt.
+keen | adjective | /kiːn/ | hăng hái, rất muốn | very interested; wanting to do something | keen on; keen to do | She is *keen* to learn new skills. | Cô ấy rất muốn học kỹ năng mới.
+fond | adjective | /fɑːnd/ | yêu thích, quý mến | liking someone or something | be fond of; fond memories | I have *fond* memories of my first job. | Tôi có những kỷ niệm đẹp về công việc đầu tiên.
+passion | noun | /ˈpæʃn/ | niềm đam mê | a very strong feeling of liking something | a passion for; follow your passion | He has a *passion* for photography. | Anh ấy có niềm đam mê nhiếp ảnh.
+passionate | adjective | /ˈpæʃənət/ | say mê | having very strong feelings about something | passionate about | We want people who are *passionate* about customer service. | Chúng tôi cần người đam mê dịch vụ khách hàng.
+desire | noun | /dɪˈzaɪər/ | mong muốn, khao khát | a strong wish | a desire to; a strong desire | She has a strong *desire* to work abroad. | Cô ấy rất mong muốn làm việc ở nước ngoài.
+anxious | adjective | /ˈæŋkʃəs/ | lo lắng; nóng lòng | worried; wanting something very much | anxious about; anxious to | Many people feel *anxious* before an interview. | Nhiều người thấy lo lắng trước buổi phỏng vấn.
+anger | noun | /ˈæŋɡər/ | sự tức giận | a strong feeling of being upset and wanting to hurt | in anger; express anger | Customers expressed *anger* over the price increase. | Khách hàng bày tỏ sự tức giận về việc tăng giá.
+furious | adjective | /ˈfjʊriəs/ | giận dữ | extremely angry | furious with; furious about | He was *furious* about the delay. | Anh ấy giận dữ vì sự chậm trễ.
+mad | adjective | /mæd/ | tức giận; điên rồ | angry; crazy | go mad; mad at | My boss will be *mad* if I'm late again. | Sếp sẽ nổi giận nếu tôi lại đến muộn.
+annoy | verb | /əˈnɔɪ/ | làm phiền, làm bực mình | to make someone a little angry | it annoys me when | It *annoys* me when people talk during films. | Tôi bực mình khi người khác nói chuyện trong lúc xem phim.
+annoying | adjective | /əˈnɔɪɪŋ/ | gây khó chịu | making you feel a little angry | an annoying noise; really annoying | The constant noise from the street is *annoying*. | Tiếng ồn liên tục từ ngoài đường thật khó chịu.
+bother | verb | /ˈbɑːðər/ | làm phiền; bận tâm | to annoy; to make the effort | sorry to bother you; don't bother | Sorry to *bother* you, but could you help me? | Xin lỗi làm phiền, bạn giúp tôi được không?
+hate | verb | /heɪt/ | ghét | to dislike very much | hate doing; I'd hate to | I *hate* waiting in long queues. | Tôi ghét phải xếp hàng dài.
+dislike | verb | /dɪsˈlaɪk/ | không thích | to not like | dislike doing | Many people *dislike* speaking in public. | Nhiều người không thích nói trước đám đông.
+fear | noun | /fɪr/ | nỗi sợ | an unpleasant feeling caused by danger | fear of; in fear | She has a *fear* of flying. | Cô ấy sợ đi máy bay.
+frighten | verb | /ˈfraɪtn/ | làm hoảng sợ | to make someone afraid | frighten someone | The loud noise *frightened* the children. | Tiếng động lớn làm bọn trẻ hoảng sợ.
+frightened | adjective | /ˈfraɪtnd/ | sợ hãi | afraid | frightened of; feel frightened | The puppy was *frightened* of the storm. | Chú chó con sợ cơn bão.
+frightening | adjective | /ˈfraɪtnɪŋ/ | đáng sợ | making you afraid | a frightening experience | Being stuck in the lift was a *frightening* experience. | Bị kẹt trong thang máy là một trải nghiệm đáng sợ.
+scare | verb | /sker/ | làm sợ | to frighten | scare someone; be scared of | Sorry, I didn't mean to *scare* you. | Xin lỗi, tôi không định làm bạn sợ.
+terrify | verb | /ˈterɪfaɪ/ | làm khiếp sợ | to frighten very much | be terrified of | I'm *terrified* of spiders. | Tôi cực kỳ sợ nhện.
+horrible | adjective | /ˈhɔːrəbl/ | kinh khủng | very bad or unpleasant | a horrible day; horrible weather | We had *horrible* weather on our holiday. | Thời tiết trong kỳ nghỉ của chúng tôi thật tệ.
+nightmare | noun | /ˈnaɪtmer/ | ác mộng | a frightening dream; a very bad experience | have a nightmare; a traffic nightmare | Getting to the airport was a *nightmare*. | Đi ra sân bay đúng là một cơn ác mộng.
+disappoint | verb | /ˌdɪsəˈpɔɪnt/ | làm thất vọng | to make someone sad because something is not as good as expected | not disappoint; disappoint customers | The film didn't *disappoint*. | Bộ phim không làm khán giả thất vọng.
+disappointing | adjective | /ˌdɪsəˈpɔɪntɪŋ/ | gây thất vọng | not as good as hoped | disappointing results; disappointing sales | Sales this quarter were *disappointing*. | Doanh số quý này đáng thất vọng.
+disappointment | noun | /ˌdɪsəˈpɔɪntmənt/ | sự thất vọng | sadness because something is not as good as hoped | to my disappointment; a big disappointment | The cancelled concert was a big *disappointment*. | Buổi hòa nhạc bị hủy là một nỗi thất vọng lớn.
+depressed | adjective | /dɪˈprest/ | chán nản, trầm cảm | very sad and without hope | feel depressed | He felt *depressed* after losing his job. | Anh ấy chán nản sau khi mất việc.
+depressing | adjective | /dɪˈpresɪŋ/ | gây chán nản | making you feel sad | depressing news; a depressing place | The rainy weather is so *depressing*. | Thời tiết mưa thật làm người ta chán nản.
+miserable | adjective | /ˈmɪzrəbl/ | khổ sở, tồi tệ | very unhappy; very bad | feel miserable; miserable weather | I felt *miserable* with a cold all week. | Tôi khổ sở vì cảm lạnh cả tuần.
+lonely | adjective | /ˈloʊnli/ | cô đơn | unhappy because you are alone | feel lonely; a lonely place | She felt *lonely* when she first moved to the city. | Cô ấy thấy cô đơn khi mới chuyển đến thành phố.
+ashamed | adjective | /əˈʃeɪmd/ | xấu hổ | feeling bad because you did something wrong | ashamed of; feel ashamed | He was *ashamed* of his behaviour. | Anh ấy xấu hổ vì hành vi của mình.
+shame | noun | /ʃeɪm/ | sự xấu hổ; điều đáng tiếc | a bad feeling about something wrong; a pity | what a shame; it's a shame that | What a *shame* you can't come to the party. | Tiếc quá bạn không đến bữa tiệc được.
+embarrassing | adjective | /ɪmˈbærəsɪŋ/ | gây ngượng | making you feel shy or ashamed | an embarrassing mistake; embarrassing moment | Calling my boss by the wrong name was so *embarrassing*. | Gọi nhầm tên sếp thật quá ngượng.
+regret | verb | /rɪˈɡret/ | hối tiếc | to feel sorry about something you did | regret doing; we regret to inform you | We *regret* to inform you that the event has been cancelled. | Chúng tôi rất tiếc phải thông báo sự kiện đã bị hủy. | Câu trang trọng hay gặp trong thư TOEIC.
+pity | noun | /ˈpɪti/ | điều đáng tiếc; lòng thương | a feeling of sadness for someone; a shame | what a pity; feel pity for | It's a *pity* the weather was so bad. | Thật đáng tiếc thời tiết lại tệ như vậy.
+sympathy | noun | /ˈsɪmpəθi/ | sự cảm thông | understanding of someone's problems | have sympathy for; express sympathy | We have every *sympathy* for the people affected. | Chúng tôi vô cùng cảm thông với những người bị ảnh hưởng.
+sympathetic | adjective | /ˌsɪmpəˈθetɪk/ | cảm thông | kind to someone who has problems | a sympathetic listener; sympathetic to | My manager was very *sympathetic* when I was ill. | Quản lý rất thông cảm khi tôi bị ốm.
+tension | noun | /ˈtenʃn/ | sự căng thẳng | a feeling of worry or nervousness | ease the tension; rising tension | There was a lot of *tension* in the meeting. | Cuộc họp rất căng thẳng.
+pride | noun | /praɪd/ | niềm tự hào | a feeling of pleasure about something you did | take pride in; with pride | We take *pride* in our customer service. | Chúng tôi tự hào về dịch vụ khách hàng của mình.
+sincere | adjective | /sɪnˈsɪr/ | chân thành | honest and true | sincere apologies; sincere thanks | Please accept our *sincere* apologies. | Xin vui lòng nhận lời xin lỗi chân thành của chúng tôi.
+wonder | verb | /ˈwʌndər/ | tự hỏi; băn khoăn | to want to know something | I wonder if; I was wondering whether | I was *wondering* if you could help me. | Không biết bạn có thể giúp tôi không. | Cách hỏi rất lịch sự.
+weird | adjective | /wɪrd/ | kỳ lạ | very strange | a weird noise; that's weird | My laptop is making a *weird* noise. | Máy tính của tôi đang phát ra tiếng lạ.

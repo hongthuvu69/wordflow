@@ -1,0 +1,62 @@
+#id: character
+#prefix: chr
+#order: 25
+#icon: 🧠
+#title: Character & Behaviour
+#title_vi: Tính cách & Hành vi
+#desc: Tính từ miêu tả con người, các động từ hành vi (blame, insist, pretend…): dùng nhiều trong Speaking và đánh giá nhân sự.
+attitude | noun | /ˈætɪtuːd/ | thái độ | the way you think and feel about something | positive attitude; attitude towards | She has a very positive *attitude* to work. | Cô ấy có thái độ rất tích cực với công việc.
+trait | noun | /treɪt/ | nét tính cách | a particular quality of a person | personality traits; a common trait | Honesty is one of his best *traits*. | Trung thực là một trong những nét tính cách tốt nhất của anh ấy.
+talent | noun | /ˈtælənt/ | tài năng | a natural ability to do something well | a talent for; young talent | She has a real *talent* for languages. | Cô ấy có năng khiếu thực sự về ngôn ngữ.
+talented | adjective | /ˈtæləntɪd/ | tài năng | having a natural ability | a talented designer; highly talented | We have a very *talented* team. | Chúng tôi có một đội rất tài năng.
+genius | noun | /ˈdʒiːniəs/ | thiên tài | a very intelligent or talented person | a computer genius; a stroke of genius | He's a *genius* with computers. | Anh ấy là thiên tài máy tính.
+wise | adjective | /waɪz/ | khôn ngoan | able to make good decisions | a wise decision; it would be wise to | It would be *wise* to book early. | Đặt sớm sẽ là khôn ngoan.
+wisdom | noun | /ˈwɪzdəm/ | sự thông thái | the ability to make good decisions from experience | words of wisdom | My grandmother's *wisdom* helped me a lot. | Sự thông thái của bà đã giúp tôi rất nhiều.
+sensible | adjective | /ˈsensəbl/ | biết lẽ phải, hợp lý | able to make good practical decisions | a sensible decision; sensible shoes | That sounds like a *sensible* plan. | Đó nghe như một kế hoạch hợp lý. | Khác sensitive (nhạy cảm).
+sensitive | adjective | /ˈsensətɪv/ | nhạy cảm | easily upset; reacting quickly to something | sensitive information; sensitive skin | Please don't share *sensitive* information by e-mail. | Vui lòng không chia sẻ thông tin nhạy cảm qua e-mail.
+smart | adjective | /smɑːrt/ | thông minh; lịch sự (trang phục) | intelligent; clean and neat | a smart idea; smart casual | The dress code is *smart* casual. | Quy định trang phục là lịch sự thoải mái. | Câu khác: That is a smart idea = Ý hay đấy.
+brave | adjective | /breɪv/ | dũng cảm | not afraid of danger | a brave decision; be brave | It was *brave* of her to speak up in the meeting. | Cô ấy thật can đảm khi lên tiếng trong cuộc họp.
+courage | noun | /ˈkɜːrɪdʒ/ | lòng can đảm | the ability to do something dangerous or difficult | have the courage to; show courage | It takes *courage* to start your own business. | Cần có can đảm để khởi nghiệp.
+determined | adjective | /dɪˈtɜːrmɪnd/ | quyết tâm | having made a firm decision | determined to succeed | She is *determined* to pass the TOEIC exam this year. | Cô ấy quyết tâm thi đỗ TOEIC năm nay.
+determination | noun | /dɪˌtɜːrmɪˈneɪʃn/ | sự quyết tâm | the quality of continuing to try | with determination; show determination | His *determination* helped him succeed. | Sự quyết tâm đã giúp anh ấy thành công.
+aggressive | adjective | /əˈɡresɪv/ | hung hăng; quyết liệt | angry and violent; very forceful | aggressive behaviour; an aggressive marketing campaign | The company has an *aggressive* growth strategy. | Công ty có chiến lược tăng trưởng quyết liệt.
+gentle | adjective | /ˈdʒentl/ | hiền dịu, nhẹ nhàng | kind and calm | a gentle voice; gentle exercise | Yoga is a *gentle* form of exercise. | Yoga là hình thức tập luyện nhẹ nhàng.
+modest | adjective | /ˈmɑːdɪst/ | khiêm tốn; vừa phải | not talking about your achievements; not large | a modest increase; modest about | Prices rose by a *modest* 2%. | Giá tăng nhẹ 2%.
+decent | adjective | /ˈdiːsnt/ | tử tế; khá tốt | good or acceptable; honest | a decent salary; decent people | It's a *decent* job with a good salary. | Đó là một công việc ổn với mức lương khá.
+genuine | adjective | /ˈdʒenjuɪn/ | thật, chân thật | real; sincere | genuine leather; genuine interest | He showed *genuine* interest in our work. | Anh ấy thật sự quan tâm đến công việc của chúng tôi.
+genuinely | adverb | /ˈdʒenjuɪnli/ | thật lòng | really; sincerely | genuinely interested; genuinely sorry | I'm *genuinely* sorry for the mistake. | Tôi thật lòng xin lỗi vì sai sót.
+honesty | noun | /ˈɑːnəsti/ | sự trung thực | the quality of being honest | honesty and trust | We value *honesty* above everything. | Chúng tôi coi trọng sự trung thực hơn hết.
+dishonest | adjective | /dɪsˈɑːnɪst/ | không trung thực | not honest | dishonest behaviour | It would be *dishonest* to hide the problem from customers. | Giấu vấn đề với khách hàng là không trung thực.
+innocent | adjective | /ˈɪnəsnt/ | vô tội; ngây thơ | not guilty; not knowing about bad things | innocent people; an innocent question | The court found him *innocent*. | Tòa tuyên anh ta vô tội.
+careless | adjective | /ˈkerləs/ | bất cẩn | not paying enough attention | a careless mistake; careless driving | The report was full of *careless* mistakes. | Bản báo cáo đầy lỗi bất cẩn.
+impatient | adjective | /ɪmˈpeɪʃnt/ | thiếu kiên nhẫn | not able to wait calmly | get impatient; impatient with | Customers get *impatient* if they wait too long. | Khách hàng mất kiên nhẫn nếu phải chờ quá lâu.
+patience | noun | /ˈpeɪʃns/ | sự kiên nhẫn | the ability to wait calmly | lose patience; thank you for your patience | Thank you for your *patience* during the repairs. | Cảm ơn sự kiên nhẫn của quý khách trong thời gian sửa chữa.
+lively | adjective | /ˈlaɪvli/ | sôi nổi, sinh động | full of energy | a lively discussion; lively atmosphere | We had a *lively* discussion about the new logo. | Chúng tôi có cuộc thảo luận sôi nổi về logo mới.
+tough | adjective | /tʌf/ | khó khăn; cứng rắn | difficult; strong | a tough decision; tough competition | It was a *tough* decision to close the shop. | Đóng cửa hàng là một quyết định khó khăn.
+cruel | adjective | /ˈkruːəl/ | độc ác | causing pain to others on purpose | cruel to animals | It's *cruel* to keep animals in small cages. | Nhốt động vật trong lồng nhỏ là độc ác.
+evil | adjective | /ˈiːvl/ | xấu xa, độc ác | very bad and cruel | an evil character | The *evil* king is defeated at the end of the story. | Vị vua độc ác bị đánh bại ở cuối truyện.
+nasty | adjective | /ˈnæsti/ | khó chịu, xấu tính | very unpleasant or unkind | a nasty cold; a nasty comment | I've got a *nasty* cold. | Tôi bị cảm nặng khó chịu.
+silly | adjective | /ˈsɪli/ | ngớ ngẩn | not sensible; foolish | a silly mistake; don't be silly | It was a *silly* mistake. | Đó là một lỗi ngớ ngẩn.
+fool | noun | /fuːl/ | kẻ ngốc | a stupid person | make a fool of yourself | I felt like a *fool* when I forgot my speech. | Tôi thấy mình như kẻ ngốc khi quên bài phát biểu.
+odd | adjective | /ɑːd/ | kỳ quặc; lẻ | strange; not even (1, 3, 5) | odd numbers; it's odd that | It's *odd* that he hasn't replied yet. | Lạ là anh ấy vẫn chưa trả lời. | odd jobs = việc vặt.
+neat | adjective | /niːt/ | gọn gàng | tidy and organized | neat and tidy; neat handwriting | Please keep your desk *neat*. | Vui lòng giữ bàn làm việc gọn gàng.
+mysterious | adjective | /mɪˈstɪriəs/ | bí ẩn | strange and not known | a mysterious man; mysterious circumstances | A *mysterious* package arrived at the office. | Một gói hàng bí ẩn được gửi đến văn phòng.
+sophisticated | adjective | /səˈfɪstɪkeɪtɪd/ | tinh tế; tinh vi | knowing about culture and style; complex | a sophisticated system; sophisticated taste | The bank uses a *sophisticated* security system. | Ngân hàng dùng hệ thống bảo mật tinh vi.
+behaviour | noun | /bɪˈheɪvjər/ | hành vi, cách cư xử | the way someone acts | good behaviour; customer behaviour | We study customer *behaviour* to improve sales. | Chúng tôi nghiên cứu hành vi khách hàng để tăng doanh số. | Anh-Mỹ: behavior.
+blame | verb | /bleɪm/ | đổ lỗi | to say someone is responsible for something bad | blame someone for; be to blame | Don't *blame* yourself for the mistake. | Đừng tự trách mình vì lỗi đó.
+admit | verb | /ədˈmɪt/ | thừa nhận; cho vào | to agree that something is true; to allow to enter | admit a mistake; admit doing | He *admitted* making a mistake in the report. | Anh ấy thừa nhận đã mắc lỗi trong báo cáo. | admit + V-ing.
+deny | verb | /dɪˈnaɪ/ | phủ nhận; từ chối | to say something is not true; to refuse | deny the rumour; deny access | The company *denied* the rumours. | Công ty phủ nhận các tin đồn.
+insist | verb | /ɪnˈsɪst/ | khăng khăng, nhất quyết | to say firmly that something must happen | insist on; insist that | She *insisted* on paying for dinner. | Cô ấy nhất quyết trả tiền bữa tối.
+pretend | verb | /prɪˈtend/ | giả vờ | to act as if something is true when it is not | pretend to; pretend that | He *pretended* not to hear me. | Anh ấy giả vờ không nghe thấy tôi.
+hesitate | verb | /ˈhezɪteɪt/ | do dự | to pause before doing something | don't hesitate to | Please don't *hesitate* to contact me if you have questions. | Nếu có câu hỏi, đừng ngần ngại liên hệ tôi. | Câu kết email kinh điển.
+ignore | verb | /ɪɡˈnɔːr/ | phớt lờ | to pay no attention to | ignore advice; ignore a warning | He *ignored* the warning signs. | Anh ấy phớt lờ các biển cảnh báo.
+rely | verb | /rɪˈlaɪ/ | dựa vào, tin cậy | to depend on someone or something | rely on | You can *rely* on her to finish on time. | Bạn có thể tin cô ấy sẽ xong đúng hạn.
+deserve | verb | /dɪˈzɜːrv/ | xứng đáng | to earn something because of your actions | deserve a break; well deserved | You *deserve* a break after all your hard work. | Bạn xứng đáng được nghỉ ngơi sau bao vất vả.
+dare | verb | /der/ | dám | to be brave enough to do something | dare to; how dare you | Nobody *dared* to ask the boss. | Không ai dám hỏi sếp.
+cheat | verb | /tʃiːt/ | gian lận, lừa | to act dishonestly to win or gain something | cheat in an exam; cheat customers | Students who *cheat* will fail the course. | Sinh viên gian lận sẽ trượt môn.
+tease | verb | /tiːz/ | trêu chọc | to laugh at someone in a friendly or unkind way | tease someone about | My colleagues *tease* me about my coffee habit. | Đồng nghiệp trêu tôi về thói nghiện cà phê.
+swear | verb | /swer/ | thề; chửi thề | to make a serious promise; to use rude words | swear to; swear at | I *swear* I didn't touch your computer. | Tôi thề là không đụng vào máy tính của bạn.
+beg | verb | /beɡ/ | van xin | to ask for something in a very strong way | beg for; I beg your pardon | The children *begged* to stay at the park longer. | Bọn trẻ nài nỉ được ở lại công viên lâu hơn. | "I beg your pardon?" = Xin lỗi, bạn nói lại được không?
+respect | noun | /rɪˈspekt/ | sự tôn trọng | a feeling of admiration; polite behaviour | show respect; with respect; in respect of | Treat every customer with *respect*. | Hãy đối xử với mọi khách hàng bằng sự tôn trọng.
+honour | noun | /ˈɑːnər/ | vinh dự; danh dự | something that makes you proud; respect | it's an honour; in honour of | It's an *honour* to receive this award. | Thật vinh dự được nhận giải thưởng này. | Anh-Mỹ: honor. Chữ h câm.
+praise | verb | /preɪz/ | khen ngợi | to say that someone has done well | praise someone for; highly praised | The manager *praised* the team for their hard work. | Quản lý khen ngợi đội vì sự chăm chỉ.

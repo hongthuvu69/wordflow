@@ -1,0 +1,1128 @@
+{
+ "id": "verbs_work",
+ "order": 42,
+ "icon": "⚙️",
+ "level": "B2",
+ "title": "Key Verbs at Work (1)",
+ "title_vi": "Động từ công việc thiết yếu (1)",
+ "description": "Phê duyệt, nộp, duy trì, phân phối, chuyển giao…: động từ \"xương sống\" của email và văn bản công sở.",
+ "words": [
+  {
+   "id": "vbw_approve",
+   "word": "approve",
+   "pos": "verb",
+   "ipa": "/əˈpruːv/",
+   "level": "B2",
+   "meaning": "phê duyệt; tán thành",
+   "definition": "to officially agree to a plan; to think something is good",
+   "collocations": [
+    "approve a request",
+    "approve of"
+   ],
+   "examples": [
+    {
+     "en": "The manager *approved* my holiday request.",
+     "vi": "Quản lý đã duyệt đơn xin nghỉ của tôi."
+    }
+   ]
+  },
+  {
+   "id": "vbw_approval",
+   "word": "approval",
+   "pos": "noun",
+   "ipa": "/əˈpruːvl/",
+   "level": "B2",
+   "meaning": "sự phê duyệt",
+   "definition": "official agreement",
+   "collocations": [
+    "get approval",
+    "subject to approval"
+   ],
+   "examples": [
+    {
+     "en": "All expenses need the manager's *approval*.",
+     "vi": "Mọi khoản chi đều cần quản lý phê duyệt."
+    }
+   ]
+  },
+  {
+   "id": "vbw_submit",
+   "word": "submit",
+   "pos": "verb",
+   "ipa": "/səbˈmɪt/",
+   "level": "B2",
+   "meaning": "nộp, đệ trình",
+   "definition": "to give a document for consideration",
+   "collocations": [
+    "submit a report",
+    "submit an application"
+   ],
+   "examples": [
+    {
+     "en": "Please *submit* your timesheet by Friday.",
+     "vi": "Vui lòng nộp bảng chấm công trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "vbw_maintain",
+   "word": "maintain",
+   "pos": "verb",
+   "ipa": "/meɪnˈteɪn/",
+   "level": "B2",
+   "meaning": "duy trì; bảo trì",
+   "definition": "to keep something at the same level; to keep in good condition",
+   "collocations": [
+    "maintain quality",
+    "maintain equipment"
+   ],
+   "examples": [
+    {
+     "en": "We must *maintain* high standards of service.",
+     "vi": "Chúng ta phải duy trì tiêu chuẩn dịch vụ cao."
+    }
+   ],
+   "note": "Danh từ: maintenance = bảo trì."
+  },
+  {
+   "id": "vbw_obtain",
+   "word": "obtain",
+   "pos": "verb",
+   "ipa": "/əbˈteɪn/",
+   "level": "B2",
+   "meaning": "có được, giành được",
+   "definition": "to get something, especially with effort",
+   "collocations": [
+    "obtain permission",
+    "obtain information"
+   ],
+   "examples": [
+    {
+     "en": "You must *obtain* a permit before building.",
+     "vi": "Bạn phải xin được giấy phép trước khi xây."
+    }
+   ]
+  },
+  {
+   "id": "vbw_acquire",
+   "word": "acquire",
+   "pos": "verb",
+   "ipa": "/əˈkwaɪər/",
+   "level": "B2",
+   "meaning": "thu được; mua lại",
+   "definition": "to get or buy something; to learn a skill",
+   "collocations": [
+    "acquire a company",
+    "acquire skills"
+   ],
+   "examples": [
+    {
+     "en": "The firm *acquired* a smaller competitor last year.",
+     "vi": "Công ty đã mua lại một đối thủ nhỏ hơn năm ngoái."
+    }
+   ]
+  },
+  {
+   "id": "vbw_adopt",
+   "word": "adopt",
+   "pos": "verb",
+   "ipa": "/əˈdɑːpt/",
+   "level": "B2",
+   "meaning": "áp dụng; nhận nuôi",
+   "definition": "to start using a method; to take a child into your family",
+   "collocations": [
+    "adopt a policy",
+    "adopt a new system"
+   ],
+   "examples": [
+    {
+     "en": "The company *adopted* a new hiring policy.",
+     "vi": "Công ty áp dụng chính sách tuyển dụng mới."
+    }
+   ]
+  },
+  {
+   "id": "vbw_assist",
+   "word": "assist",
+   "pos": "verb",
+   "ipa": "/əˈsɪst/",
+   "level": "B1",
+   "meaning": "hỗ trợ",
+   "definition": "to help",
+   "collocations": [
+    "assist with",
+    "assist customers"
+   ],
+   "examples": [
+    {
+     "en": "Our staff will *assist* you with your luggage.",
+     "vi": "Nhân viên chúng tôi sẽ hỗ trợ bạn với hành lý."
+    }
+   ]
+  },
+  {
+   "id": "vbw_assistance",
+   "word": "assistance",
+   "pos": "noun",
+   "ipa": "/əˈsɪstəns/",
+   "level": "B2",
+   "meaning": "sự hỗ trợ",
+   "definition": "help",
+   "collocations": [
+    "need assistance",
+    "financial assistance"
+   ],
+   "examples": [
+    {
+     "en": "If you need *assistance*, please press the call button.",
+     "vi": "Nếu cần hỗ trợ, vui lòng bấm nút gọi."
+    }
+   ]
+  },
+  {
+   "id": "vbw_attempt",
+   "word": "attempt",
+   "pos": "noun",
+   "ipa": "/əˈtempt/",
+   "level": "B2",
+   "meaning": "sự cố gắng, nỗ lực",
+   "definition": "an act of trying to do something",
+   "collocations": [
+    "in an attempt to",
+    "first attempt"
+   ],
+   "examples": [
+    {
+     "en": "She passed the exam on her first *attempt*.",
+     "vi": "Cô ấy thi đỗ ngay lần đầu."
+    }
+   ]
+  },
+  {
+   "id": "vbw_award",
+   "word": "award",
+   "pos": "noun",
+   "ipa": "/əˈwɔːrd/",
+   "level": "B1",
+   "meaning": "giải thưởng",
+   "definition": "a prize",
+   "collocations": [
+    "win an award",
+    "award ceremony"
+   ],
+   "examples": [
+    {
+     "en": "The hotel won an *award* for its service.",
+     "vi": "Khách sạn giành giải thưởng về dịch vụ."
+    }
+   ]
+  },
+  {
+   "id": "vbw_claim",
+   "word": "claim",
+   "pos": "verb",
+   "ipa": "/kleɪm/",
+   "level": "B1",
+   "meaning": "khẳng định; yêu cầu (bồi thường)",
+   "definition": "to say something is true; to ask for money you have a right to",
+   "collocations": [
+    "claim that",
+    "claim expenses"
+   ],
+   "examples": [
+    {
+     "en": "You can *claim* travel expenses at the end of the month.",
+     "vi": "Bạn có thể đề nghị thanh toán chi phí đi lại vào cuối tháng."
+    }
+   ],
+   "note": "baggage claim = khu nhận hành lý."
+  },
+  {
+   "id": "vbw_combine",
+   "word": "combine",
+   "pos": "verb",
+   "ipa": "/kəmˈbaɪn/",
+   "level": "B1",
+   "meaning": "kết hợp",
+   "definition": "to join together",
+   "collocations": [
+    "combine with",
+    "combined effort"
+   ],
+   "examples": [
+    {
+     "en": "The course *combines* theory with practice.",
+     "vi": "Khóa học kết hợp lý thuyết với thực hành."
+    }
+   ]
+  },
+  {
+   "id": "vbw_combination",
+   "word": "combination",
+   "pos": "noun",
+   "ipa": "/ˌkɑːmbɪˈneɪʃn/",
+   "level": "B2",
+   "meaning": "sự kết hợp",
+   "definition": "two or more things joined together",
+   "collocations": [
+    "a combination of"
+   ],
+   "examples": [
+    {
+     "en": "Success comes from a *combination* of hard work and luck.",
+     "vi": "Thành công đến từ sự kết hợp giữa chăm chỉ và may mắn."
+    }
+   ]
+  },
+  {
+   "id": "vbw_commit",
+   "word": "commit",
+   "pos": "verb",
+   "ipa": "/kəˈmɪt/",
+   "level": "B1",
+   "meaning": "cam kết; phạm (tội)",
+   "definition": "to promise to do something; to do something wrong",
+   "collocations": [
+    "commit to",
+    "commit a crime"
+   ],
+   "examples": [
+    {
+     "en": "We are *committed* to reducing waste.",
+     "vi": "Chúng tôi cam kết giảm rác thải."
+    }
+   ]
+  },
+  {
+   "id": "vbw_commitment",
+   "word": "commitment",
+   "pos": "noun",
+   "ipa": "/kəˈmɪtmənt/",
+   "level": "B2",
+   "meaning": "sự cam kết",
+   "definition": "a promise; dedication",
+   "collocations": [
+    "a commitment to quality",
+    "make a commitment"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *commitment* to the team.",
+     "vi": "Cảm ơn sự cống hiến của bạn cho đội."
+    }
+   ]
+  },
+  {
+   "id": "vbw_completion",
+   "word": "completion",
+   "pos": "noun",
+   "ipa": "/kəmˈpliːʃn/",
+   "level": "B2",
+   "meaning": "sự hoàn thành",
+   "definition": "the act of finishing",
+   "collocations": [
+    "on completion",
+    "completion date"
+   ],
+   "examples": [
+    {
+     "en": "The *completion* date for the project is June 30.",
+     "vi": "Ngày hoàn thành dự án là 30/6."
+    }
+   ]
+  },
+  {
+   "id": "vbw_consist",
+   "word": "consist",
+   "pos": "verb",
+   "ipa": "/kənˈsɪst/",
+   "level": "B1",
+   "meaning": "gồm có",
+   "definition": "to be made of",
+   "collocations": [
+    "consist of"
+   ],
+   "examples": [
+    {
+     "en": "The team *consists* of five engineers.",
+     "vi": "Đội gồm năm kỹ sư."
+    }
+   ]
+  },
+  {
+   "id": "vbw_comprise",
+   "word": "comprise",
+   "pos": "verb",
+   "ipa": "/kəmˈpraɪz/",
+   "level": "B2",
+   "meaning": "bao gồm",
+   "definition": "to have as parts",
+   "collocations": [
+    "be comprised of"
+   ],
+   "examples": [
+    {
+     "en": "The committee *comprises* six members.",
+     "vi": "Ủy ban gồm sáu thành viên."
+    }
+   ]
+  },
+  {
+   "id": "vbw_construct",
+   "word": "construct",
+   "pos": "verb",
+   "ipa": "/kənˈstrʌkt/",
+   "level": "B2",
+   "meaning": "xây dựng",
+   "definition": "to build",
+   "collocations": [
+    "construct a building",
+    "well constructed"
+   ],
+   "examples": [
+    {
+     "en": "The bridge was *constructed* in 1995.",
+     "vi": "Cây cầu được xây năm 1995."
+    }
+   ]
+  },
+  {
+   "id": "vbw_construction",
+   "word": "construction",
+   "pos": "noun",
+   "ipa": "/kənˈstrʌkʃn/",
+   "level": "B2",
+   "meaning": "sự xây dựng; công trình",
+   "definition": "the process of building",
+   "collocations": [
+    "under construction",
+    "construction site"
+   ],
+   "examples": [
+    {
+     "en": "The new wing is still under *construction*.",
+     "vi": "Khu nhà mới vẫn đang được xây dựng."
+    }
+   ]
+  },
+  {
+   "id": "vbw_contribute",
+   "word": "contribute",
+   "pos": "verb",
+   "ipa": "/kənˈtrɪbjuːt/",
+   "level": "B2",
+   "meaning": "đóng góp",
+   "definition": "to give money, help or ideas",
+   "collocations": [
+    "contribute to",
+    "contribute ideas"
+   ],
+   "examples": [
+    {
+     "en": "Everyone *contributed* ideas for the new product.",
+     "vi": "Mọi người đều đóng góp ý tưởng cho sản phẩm mới."
+    }
+   ]
+  },
+  {
+   "id": "vbw_contribution",
+   "word": "contribution",
+   "pos": "noun",
+   "ipa": "/ˌkɑːntrɪˈbjuːʃn/",
+   "level": "B2",
+   "meaning": "sự đóng góp",
+   "definition": "something given to help",
+   "collocations": [
+    "make a contribution",
+    "valuable contribution"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *contribution* to the project.",
+     "vi": "Cảm ơn sự đóng góp của bạn cho dự án."
+    }
+   ]
+  },
+  {
+   "id": "vbw_declare",
+   "word": "declare",
+   "pos": "verb",
+   "ipa": "/dɪˈkler/",
+   "level": "B2",
+   "meaning": "tuyên bố; khai báo",
+   "definition": "to state officially; to tell customs about goods",
+   "collocations": [
+    "declare goods",
+    "declare a winner"
+   ],
+   "examples": [
+    {
+     "en": "Do you have anything to *declare*?",
+     "vi": "Bạn có gì cần khai báo hải quan không?"
+    }
+   ]
+  },
+  {
+   "id": "vbw_demonstrate",
+   "word": "demonstrate",
+   "pos": "verb",
+   "ipa": "/ˈdemənstreɪt/",
+   "level": "B2",
+   "meaning": "trình diễn, chứng minh",
+   "definition": "to show how something works; to prove",
+   "collocations": [
+    "demonstrate a product",
+    "demonstrate that"
+   ],
+   "examples": [
+    {
+     "en": "The salesperson *demonstrated* how the machine works.",
+     "vi": "Nhân viên bán hàng trình diễn cách máy hoạt động."
+    }
+   ]
+  },
+  {
+   "id": "vbw_demonstration",
+   "word": "demonstration",
+   "pos": "noun",
+   "ipa": "/ˌdemənˈstreɪʃn/",
+   "level": "B2",
+   "meaning": "buổi trình diễn; cuộc biểu tình",
+   "definition": "showing how something works; a protest",
+   "collocations": [
+    "product demonstration",
+    "give a demonstration"
+   ],
+   "examples": [
+    {
+     "en": "There will be a product *demonstration* at 2 p.m.",
+     "vi": "Sẽ có buổi trình diễn sản phẩm lúc 2 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "vbw_derive",
+   "word": "derive",
+   "pos": "verb",
+   "ipa": "/dɪˈraɪv/",
+   "level": "B2",
+   "meaning": "bắt nguồn; thu được",
+   "definition": "to come from; to get something from",
+   "collocations": [
+    "be derived from",
+    "derive pleasure"
+   ],
+   "examples": [
+    {
+     "en": "The word is *derived* from Latin.",
+     "vi": "Từ này có nguồn gốc từ tiếng Latin."
+    }
+   ]
+  },
+  {
+   "id": "vbw_detect",
+   "word": "detect",
+   "pos": "verb",
+   "ipa": "/dɪˈtekt/",
+   "level": "B2",
+   "meaning": "phát hiện",
+   "definition": "to notice or discover something",
+   "collocations": [
+    "detect a problem",
+    "detect smoke"
+   ],
+   "examples": [
+    {
+     "en": "The system can *detect* errors automatically.",
+     "vi": "Hệ thống có thể tự động phát hiện lỗi."
+    }
+   ]
+  },
+  {
+   "id": "vbw_determine",
+   "word": "determine",
+   "pos": "verb",
+   "ipa": "/dɪˈtɜːrmɪn/",
+   "level": "B1",
+   "meaning": "xác định; quyết định",
+   "definition": "to find out; to decide",
+   "collocations": [
+    "determine the cause",
+    "be determined by"
+   ],
+   "examples": [
+    {
+     "en": "Engineers are trying to *determine* the cause of the fault.",
+     "vi": "Kỹ sư đang cố xác định nguyên nhân sự cố."
+    }
+   ]
+  },
+  {
+   "id": "vbw_devote",
+   "word": "devote",
+   "pos": "verb",
+   "ipa": "/dɪˈvoʊt/",
+   "level": "B2",
+   "meaning": "cống hiến, dành",
+   "definition": "to give time or energy to something",
+   "collocations": [
+    "devote time to",
+    "be devoted to"
+   ],
+   "examples": [
+    {
+     "en": "She *devotes* her weekends to studying English.",
+     "vi": "Cô ấy dành cuối tuần để học tiếng Anh."
+    }
+   ]
+  },
+  {
+   "id": "vbw_dismiss",
+   "word": "dismiss",
+   "pos": "verb",
+   "ipa": "/dɪsˈmɪs/",
+   "level": "B2",
+   "meaning": "sa thải; bác bỏ",
+   "definition": "to remove from a job; to refuse to consider",
+   "collocations": [
+    "dismiss an idea",
+    "be dismissed"
+   ],
+   "examples": [
+    {
+     "en": "He was *dismissed* for being late too often.",
+     "vi": "Anh ta bị sa thải vì đi muộn quá nhiều lần."
+    }
+   ]
+  },
+  {
+   "id": "vbw_distribute",
+   "word": "distribute",
+   "pos": "verb",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "level": "B2",
+   "meaning": "phân phát, phân phối",
+   "definition": "to give out or supply to many people",
+   "collocations": [
+    "distribute leaflets",
+    "distribute products"
+   ],
+   "examples": [
+    {
+     "en": "Please *distribute* the handouts to everyone.",
+     "vi": "Vui lòng phát tài liệu cho mọi người."
+    }
+   ]
+  },
+  {
+   "id": "vbw_distribution",
+   "word": "distribution",
+   "pos": "noun",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+   "level": "B2",
+   "meaning": "sự phân phối",
+   "definition": "the process of supplying goods",
+   "collocations": [
+    "distribution centre",
+    "distribution network"
+   ],
+   "examples": [
+    {
+     "en": "The new *distribution* centre will open in May.",
+     "vi": "Trung tâm phân phối mới sẽ mở vào tháng Năm."
+    }
+   ]
+  },
+  {
+   "id": "vbw_divide",
+   "word": "divide",
+   "pos": "verb",
+   "ipa": "/dɪˈvaɪd/",
+   "level": "B1",
+   "meaning": "chia",
+   "definition": "to separate into parts",
+   "collocations": [
+    "divide into",
+    "divide equally"
+   ],
+   "examples": [
+    {
+     "en": "The class was *divided* into four groups.",
+     "vi": "Lớp được chia thành bốn nhóm."
+    }
+   ]
+  },
+  {
+   "id": "vbw_division",
+   "word": "division",
+   "pos": "noun",
+   "ipa": "/dɪˈvɪʒn/",
+   "level": "B2",
+   "meaning": "bộ phận; sự phân chia",
+   "definition": "a department in a company; the act of dividing",
+   "collocations": [
+    "sales division",
+    "division of labour"
+   ],
+   "examples": [
+    {
+     "en": "She manages the European *division*.",
+     "vi": "Cô ấy quản lý bộ phận châu Âu."
+    }
+   ]
+  },
+  {
+   "id": "vbw_dominate",
+   "word": "dominate",
+   "pos": "verb",
+   "ipa": "/ˈdɑːmɪneɪt/",
+   "level": "B2",
+   "meaning": "chi phối, chiếm ưu thế",
+   "definition": "to control or be the most important",
+   "collocations": [
+    "dominate the market"
+   ],
+   "examples": [
+    {
+     "en": "Two companies *dominate* the market.",
+     "vi": "Hai công ty chiếm lĩnh thị trường."
+    }
+   ]
+  },
+  {
+   "id": "vbw_dominant",
+   "word": "dominant",
+   "pos": "adjective",
+   "ipa": "/ˈdɑːmɪnənt/",
+   "level": "B2",
+   "meaning": "chiếm ưu thế",
+   "definition": "more powerful than others",
+   "collocations": [
+    "dominant position",
+    "dominant player"
+   ],
+   "examples": [
+    {
+     "en": "The company has a *dominant* position in the industry.",
+     "vi": "Công ty có vị thế chi phối trong ngành."
+    }
+   ]
+  },
+  {
+   "id": "vbw_emerge",
+   "word": "emerge",
+   "pos": "verb",
+   "ipa": "/ɪˈmɜːrdʒ/",
+   "level": "B2",
+   "meaning": "nổi lên, xuất hiện",
+   "definition": "to appear; to become known",
+   "collocations": [
+    "emerge from",
+    "it emerged that"
+   ],
+   "examples": [
+    {
+     "en": "New problems *emerged* during testing.",
+     "vi": "Các vấn đề mới xuất hiện trong quá trình thử nghiệm."
+    }
+   ]
+  },
+  {
+   "id": "vbw_emphasize",
+   "word": "emphasize",
+   "pos": "verb",
+   "ipa": "/ˈemfəsaɪz/",
+   "level": "B2",
+   "meaning": "nhấn mạnh",
+   "definition": "to show that something is important",
+   "collocations": [
+    "emphasize the importance of"
+   ],
+   "examples": [
+    {
+     "en": "The manager *emphasized* the need for safety.",
+     "vi": "Quản lý nhấn mạnh sự cần thiết của an toàn."
+    }
+   ]
+  },
+  {
+   "id": "vbw_emphasis",
+   "word": "emphasis",
+   "pos": "noun",
+   "ipa": "/ˈemfəsɪs/",
+   "level": "B2",
+   "meaning": "sự nhấn mạnh",
+   "definition": "special importance",
+   "collocations": [
+    "put emphasis on",
+    "with emphasis on"
+   ],
+   "examples": [
+    {
+     "en": "The course puts great *emphasis* on speaking.",
+     "vi": "Khóa học đặc biệt chú trọng kỹ năng nói."
+    }
+   ]
+  },
+  {
+   "id": "vbw_encourage",
+   "word": "encourage",
+   "pos": "verb",
+   "ipa": "/ɪnˈkɜːrɪdʒ/",
+   "level": "B1",
+   "meaning": "khuyến khích",
+   "definition": "to give support or confidence",
+   "collocations": [
+    "encourage someone to",
+    "be encouraged"
+   ],
+   "examples": [
+    {
+     "en": "Employees are *encouraged* to share ideas.",
+     "vi": "Nhân viên được khuyến khích chia sẻ ý tưởng."
+    }
+   ]
+  },
+  {
+   "id": "vbw_discourage",
+   "word": "discourage",
+   "pos": "verb",
+   "ipa": "/dɪsˈkɜːrɪdʒ/",
+   "level": "B2",
+   "meaning": "ngăn cản, làm nản lòng",
+   "definition": "to make someone less likely to do something",
+   "collocations": [
+    "discourage someone from"
+   ],
+   "examples": [
+    {
+     "en": "High prices *discourage* people from buying.",
+     "vi": "Giá cao khiến người ta ngại mua."
+    }
+   ]
+  },
+  {
+   "id": "vbw_engage",
+   "word": "engage",
+   "pos": "verb",
+   "ipa": "/ɪnˈɡeɪdʒ/",
+   "level": "B2",
+   "meaning": "thu hút; tham gia",
+   "definition": "to attract interest; to take part",
+   "collocations": [
+    "engage customers",
+    "engage in"
+   ],
+   "examples": [
+    {
+     "en": "The app helps us *engage* with young customers.",
+     "vi": "Ứng dụng giúp chúng tôi tương tác với khách hàng trẻ."
+    }
+   ]
+  },
+  {
+   "id": "vbw_engaged",
+   "word": "engaged",
+   "pos": "adjective",
+   "ipa": "/ɪnˈɡeɪdʒd/",
+   "level": "B1",
+   "meaning": "đã đính hôn; bận",
+   "definition": "having agreed to marry; busy",
+   "collocations": [
+    "get engaged",
+    "the line is engaged"
+   ],
+   "examples": [
+    {
+     "en": "They got *engaged* last month.",
+     "vi": "Họ đính hôn tháng trước."
+    }
+   ]
+  },
+  {
+   "id": "vbw_exclude",
+   "word": "exclude",
+   "pos": "verb",
+   "ipa": "/ɪkˈskluːd/",
+   "level": "B2",
+   "meaning": "loại trừ, không bao gồm",
+   "definition": "to not include",
+   "collocations": [
+    "excluding tax",
+    "exclude from"
+   ],
+   "examples": [
+    {
+     "en": "The price *excludes* tax.",
+     "vi": "Giá chưa bao gồm thuế."
+    }
+   ]
+  },
+  {
+   "id": "vbw_extend",
+   "word": "extend",
+   "pos": "verb",
+   "ipa": "/ɪkˈstend/",
+   "level": "B2",
+   "meaning": "gia hạn; mở rộng",
+   "definition": "to make longer or larger",
+   "collocations": [
+    "extend a deadline",
+    "extend a contract"
+   ],
+   "examples": [
+    {
+     "en": "Can we *extend* the deadline by a week?",
+     "vi": "Chúng ta có thể gia hạn thêm một tuần không?"
+    }
+   ],
+   "note": "extend an invitation = gửi lời mời."
+  },
+  {
+   "id": "vbw_extension",
+   "word": "extension",
+   "pos": "noun",
+   "ipa": "/ɪkˈstenʃn/",
+   "level": "B2",
+   "meaning": "sự gia hạn; số máy lẻ",
+   "definition": "extra time; a phone line inside an office",
+   "collocations": [
+    "ask for an extension",
+    "extension 204"
+   ],
+   "examples": [
+    {
+     "en": "Please call me on *extension* 204.",
+     "vi": "Vui lòng gọi tôi số máy lẻ 204."
+    }
+   ]
+  },
+  {
+   "id": "vbw_fulfil",
+   "word": "fulfil",
+   "pos": "verb",
+   "ipa": "/fʊlˈfɪl/",
+   "level": "B2",
+   "meaning": "hoàn thành, đáp ứng",
+   "definition": "to do what is needed or promised",
+   "collocations": [
+    "fulfil an order",
+    "fulfil requirements"
+   ],
+   "examples": [
+    {
+     "en": "We were unable to *fulfil* your order.",
+     "vi": "Chúng tôi không thể hoàn tất đơn hàng của bạn."
+    }
+   ],
+   "note": "Anh-Mỹ: fulfill."
+  },
+  {
+   "id": "vbw_generate",
+   "word": "generate",
+   "pos": "verb",
+   "ipa": "/ˈdʒenəreɪt/",
+   "level": "B2",
+   "meaning": "tạo ra",
+   "definition": "to produce",
+   "collocations": [
+    "generate revenue",
+    "generate interest"
+   ],
+   "examples": [
+    {
+     "en": "The campaign *generated* a lot of interest.",
+     "vi": "Chiến dịch tạo ra nhiều sự quan tâm."
+    }
+   ]
+  },
+  {
+   "id": "vbw_highlight",
+   "word": "highlight",
+   "pos": "verb",
+   "ipa": "/ˈhaɪlaɪt/",
+   "level": "B1",
+   "meaning": "làm nổi bật",
+   "definition": "to emphasize; to mark text with colour",
+   "collocations": [
+    "highlight the main points"
+   ],
+   "examples": [
+    {
+     "en": "The report *highlights* three key problems.",
+     "vi": "Báo cáo nêu bật ba vấn đề chính."
+    }
+   ],
+   "note": "Danh từ: the highlight of the trip = điểm nhấn chuyến đi."
+  },
+  {
+   "id": "vbw_impose",
+   "word": "impose",
+   "pos": "verb",
+   "ipa": "/ɪmˈpoʊz/",
+   "level": "B2",
+   "meaning": "áp đặt, ban hành",
+   "definition": "to introduce a rule or tax",
+   "collocations": [
+    "impose a fine",
+    "impose restrictions"
+   ],
+   "examples": [
+    {
+     "en": "The city *imposed* a fine for littering.",
+     "vi": "Thành phố áp dụng mức phạt cho hành vi xả rác."
+    }
+   ]
+  },
+  {
+   "id": "vbw_incorporate",
+   "word": "incorporate",
+   "pos": "verb",
+   "ipa": "/ɪnˈkɔːrpəreɪt/",
+   "level": "B2",
+   "meaning": "kết hợp, đưa vào",
+   "definition": "to include as part of something",
+   "collocations": [
+    "incorporate feedback",
+    "incorporate into"
+   ],
+   "examples": [
+    {
+     "en": "We *incorporated* your suggestions into the final design.",
+     "vi": "Chúng tôi đã đưa các góp ý của bạn vào thiết kế cuối cùng."
+    }
+   ]
+  },
+  {
+   "id": "vbw_indicate",
+   "word": "indicate",
+   "pos": "verb",
+   "ipa": "/ˈɪndɪkeɪt/",
+   "level": "B1",
+   "meaning": "cho thấy, chỉ ra",
+   "definition": "to show or suggest",
+   "collocations": [
+    "indicate that",
+    "as indicated"
+   ],
+   "examples": [
+    {
+     "en": "The results *indicate* that customers want faster delivery.",
+     "vi": "Kết quả cho thấy khách hàng muốn giao hàng nhanh hơn."
+    }
+   ]
+  },
+  {
+   "id": "vbw_indication",
+   "word": "indication",
+   "pos": "noun",
+   "ipa": "/ˌɪndɪˈkeɪʃn/",
+   "level": "B2",
+   "meaning": "dấu hiệu",
+   "definition": "a sign",
+   "collocations": [
+    "an indication of",
+    "give an indication"
+   ],
+   "examples": [
+    {
+     "en": "There is no *indication* that prices will fall.",
+     "vi": "Không có dấu hiệu nào cho thấy giá sẽ giảm."
+    }
+   ]
+  },
+  {
+   "id": "vbw_inspire",
+   "word": "inspire",
+   "pos": "verb",
+   "ipa": "/ɪnˈspaɪər/",
+   "level": "B2",
+   "meaning": "truyền cảm hứng",
+   "definition": "to give someone the desire to do something",
+   "collocations": [
+    "inspire someone to",
+    "be inspired by"
+   ],
+   "examples": [
+    {
+     "en": "Her speech *inspired* many young people.",
+     "vi": "Bài phát biểu của cô ấy truyền cảm hứng cho nhiều người trẻ."
+    }
+   ]
+  },
+  {
+   "id": "vbw_integrate",
+   "word": "integrate",
+   "pos": "verb",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "level": "B2",
+   "meaning": "tích hợp, hòa nhập",
+   "definition": "to combine into one",
+   "collocations": [
+    "integrate with",
+    "integrate into"
+   ],
+   "examples": [
+    {
+     "en": "The new app *integrates* with your calendar.",
+     "vi": "Ứng dụng mới tích hợp với lịch của bạn."
+    }
+   ]
+  },
+  {
+   "id": "vbw_participate",
+   "word": "participate",
+   "pos": "verb",
+   "ipa": "/pɑːrˈtɪsɪpeɪt/",
+   "level": "B1",
+   "meaning": "tham gia",
+   "definition": "to take part",
+   "collocations": [
+    "participate in"
+   ],
+   "examples": [
+    {
+     "en": "All staff are invited to *participate* in the survey.",
+     "vi": "Toàn thể nhân viên được mời tham gia khảo sát."
+    }
+   ]
+  },
+  {
+   "id": "vbw_participant",
+   "word": "participant",
+   "pos": "noun",
+   "ipa": "/pɑːrˈtɪsɪpənt/",
+   "level": "B2",
+   "meaning": "người tham gia",
+   "definition": "a person who takes part",
+   "collocations": [
+    "workshop participants"
+   ],
+   "examples": [
+    {
+     "en": "Each *participant* will receive a certificate.",
+     "vi": "Mỗi người tham gia sẽ nhận một chứng chỉ."
+    }
+   ]
+  },
+  {
+   "id": "vbw_participation",
+   "word": "participation",
+   "pos": "noun",
+   "ipa": "/pɑːrˌtɪsɪˈpeɪʃn/",
+   "level": "B2",
+   "meaning": "sự tham gia",
+   "definition": "the act of taking part",
+   "collocations": [
+    "thank you for your participation"
+   ],
+   "examples": [
+    {
+     "en": "Thank you for your *participation* in the event.",
+     "vi": "Cảm ơn bạn đã tham gia sự kiện."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

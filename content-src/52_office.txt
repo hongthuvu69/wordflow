@@ -1,0 +1,57 @@
+#id: toeic_office
+#prefix: tof
+#order: 52
+#icon: 🖇️
+#title: TOEIC: Office Life
+#title_vi: TOEIC: Đời sống văn phòng
+#desc: Đồ dùng, thiết bị, nội quy và sinh hoạt hằng ngày nơi công sở: từ vựng xuất hiện liên tục ở Part 1, 3 và 7.
+supervisor | noun | /ˈsuːpərvaɪzər/ | người giám sát, cấp trên trực tiếp | a person in charge of a group of workers | report to your supervisor; shift supervisor | Please ask your *supervisor* to sign the form. | Vui lòng nhờ người giám sát ký vào mẫu đơn.
+supervise | verb | /ˈsuːpərvaɪz/ | giám sát | to be in charge of people or work | supervise staff; closely supervised | She *supervises* a team of ten people. | Cô ấy giám sát một đội mười người.
+memo | noun | /ˈmemoʊ/ | bản ghi nhớ, thông báo nội bộ | a short official note sent within a company | send a memo; internal memo | The *memo* explains the new parking rules. | Bản thông báo nội bộ giải thích quy định đỗ xe mới.
+photocopier | noun | /ˈfoʊtoʊkɑːpiər/ | máy photocopy | a machine that makes copies of documents | use the photocopier; the photocopier is jammed | The *photocopier* on the second floor is out of order. | Máy photocopy ở tầng hai đang hỏng.
+photocopy | verb | /ˈfoʊtoʊkɑːpi/ | photo, sao chụp | to make a copy with a machine | photocopy a document | Could you *photocopy* these pages for me? | Bạn photo giúp tôi mấy trang này được không?
+copy | noun | /ˈkɑːpi/ | bản sao | one example of a document | make copies; a copy of the report | Please make ten *copies* of the agenda. | Vui lòng photo mười bản chương trình họp.
+stapler | noun | /ˈsteɪplər/ | cái dập ghim | a tool for joining papers with small metal pieces | a stapler and staples | Could you pass me the *stapler*? | Bạn đưa tôi cái dập ghim được không?
+folder | noun | /ˈfoʊldər/ | bìa hồ sơ; thư mục | a cover for papers; a place for files on a computer | a blue folder; shared folder | Save the file in the shared *folder*. | Lưu tệp vào thư mục chung.
+binder | noun | /ˈbaɪndər/ | bìa còng, kẹp hồ sơ | a cover with rings for holding papers | a three-ring binder | All the training materials are in this *binder*. | Toàn bộ tài liệu đào tạo nằm trong bìa còng này.
+cabinet | noun | /ˈkæbɪnət/ | tủ (hồ sơ) | a piece of furniture with shelves or drawers | filing cabinet; kitchen cabinet | The contracts are kept in a locked filing *cabinet*. | Hợp đồng được cất trong tủ hồ sơ có khóa.
+drawer | noun | /drɔːr/ | ngăn kéo | a box in a desk that slides in and out | top drawer; open a drawer | The spare keys are in the top *drawer*. | Chìa khóa dự phòng ở ngăn kéo trên cùng.
+cubicle | noun | /ˈkjuːbɪkl/ | ô làm việc (có vách ngăn) | a small work area divided by low walls | work in a cubicle | Her *cubicle* is next to the window. | Ô làm việc của cô ấy cạnh cửa sổ.
+workstation | noun | /ˈwɜːrksteɪʃn/ | bàn làm việc (kèm máy tính) | a desk and computer for one person | set up a workstation | Each new employee will get their own *workstation*. | Mỗi nhân viên mới sẽ có bàn làm việc riêng.
+reception | noun | /rɪˈsepʃn/ | quầy lễ tân; tiệc chiêu đãi | the desk where visitors go first; a formal party | at reception; wedding reception | Please wait at *reception*. | Vui lòng chờ ở quầy lễ tân.
+receptionist | noun | /rɪˈsepʃənɪst/ | nhân viên lễ tân | a person who greets visitors and answers the phone | hotel receptionist | The *receptionist* will give you a visitor pass. | Lễ tân sẽ đưa bạn thẻ khách.
+lobby | noun | /ˈlɑːbi/ | sảnh | the entrance hall of a building | hotel lobby; in the lobby | Let's meet in the *lobby* at 8. | Gặp nhau ở sảnh lúc 8 giờ nhé.
+conference room | noun | /ˈkɑːnfərəns ruːm/ | phòng họp | a room for meetings | book the conference room | The *conference room* is booked all afternoon. | Phòng họp đã được đặt cả buổi chiều.
+whiteboard | noun | /ˈwaɪtbɔːrd/ | bảng trắng | a white board you write on with markers | write on the whiteboard | She wrote the agenda on the *whiteboard*. | Cô ấy viết chương trình họp lên bảng trắng.
+projector | noun | /prəˈdʒektər/ | máy chiếu | a machine that shows images on a screen | set up the projector | The *projector* isn't connecting to my laptop. | Máy chiếu không kết nối được với máy tính của tôi.
+stationery | noun | /ˈsteɪʃəneri/ | văn phòng phẩm | paper, pens and other office items | order stationery; stationery cupboard | Pens and paper are in the *stationery* cupboard. | Bút và giấy ở trong tủ văn phòng phẩm. | Khác stationary (đứng yên).
+cartridge | noun | /ˈkɑːrtrɪdʒ/ | hộp mực | a container of ink for a printer | ink cartridge; replace the cartridge | The printer needs a new *cartridge*. | Máy in cần hộp mực mới.
+jam | noun | /dʒæm/ | sự kẹt (giấy); tắc đường | a situation where something is stuck | paper jam; traffic jam | There's a paper *jam* in the printer. | Máy in bị kẹt giấy.
+out of order | adjective | /ˌaʊt əv ˈɔːrdər/ | hỏng, không hoạt động | not working | the lift is out of order | The vending machine is *out of order*. | Máy bán hàng tự động đang hỏng.
+vending machine | noun | /ˈvendɪŋ məʃiːn/ | máy bán hàng tự động | a machine that sells drinks or snacks | buy from a vending machine | There's a *vending machine* on every floor. | Mỗi tầng đều có máy bán hàng tự động.
+break room | noun | /ˈbreɪk ruːm/ | phòng nghỉ (nhân viên) | a room where workers rest and eat | in the break room | There's free coffee in the *break room*. | Có cà phê miễn phí trong phòng nghỉ.
+cafeteria | noun | /ˌkæfəˈtɪriə/ | căng tin | a restaurant where you serve yourself | staff cafeteria | Lunch is served in the *cafeteria* from 12 to 2. | Bữa trưa được phục vụ ở căng tin từ 12 đến 2 giờ.
+premises | noun | /ˈpremɪsɪz/ | khuôn viên, cơ sở | the buildings and land of a business | on the premises; off the premises | Smoking is not allowed on the *premises*. | Không được hút thuốc trong khuôn viên.
+facility manager | noun | /fəˈsɪləti ˈmænɪdʒər/ | quản lý cơ sở vật chất | a person in charge of buildings and equipment | contact the facility manager | Report broken lights to the *facility manager*. | Báo đèn hỏng cho quản lý cơ sở vật chất.
+maintenance | noun | /ˈmeɪntənəns/ | sự bảo trì | work to keep something in good condition | routine maintenance; maintenance staff | The lift is closed for *maintenance*. | Thang máy đóng cửa để bảo trì.
+janitor | noun | /ˈdʒænɪtər/ | nhân viên vệ sinh, tạp vụ | a person who cleans and looks after a building | call the janitor | The *janitor* cleans the offices every evening. | Nhân viên tạp vụ dọn văn phòng mỗi tối.
+dress code | noun | /ˈdres koʊd/ | quy định trang phục | rules about what clothes to wear | follow the dress code; business casual dress code | The *dress code* is business casual. | Quy định trang phục là lịch sự thoải mái.
+timesheet | noun | /ˈtaɪmʃiːt/ | bảng chấm công | a record of hours worked | fill in a timesheet; submit timesheets | Submit your *timesheet* every Friday. | Nộp bảng chấm công mỗi thứ Sáu.
+clock in | verb | /ˌklɑːk ˈɪn/ | chấm công vào | to record the time you start work | clock in; clock out | Staff must *clock in* before 8:30. | Nhân viên phải chấm công vào trước 8:30.
+work from home | verb | /ˌwɜːrk frəm ˈhoʊm/ | làm việc tại nhà | to do your job at home | work from home on Fridays | Many employees *work from home* twice a week. | Nhiều nhân viên làm việc tại nhà hai ngày một tuần.
+flexible hours | noun | /ˌfleksəbl ˈaʊərz/ | giờ làm linh hoạt | working times you can choose | offer flexible hours | The company offers *flexible hours*. | Công ty có giờ làm linh hoạt.
+paperwork | noun | /ˈpeɪpərwɜːrk/ | giấy tờ, thủ tục giấy tờ | documents and forms you must deal with | do the paperwork; reduce paperwork | I spent the whole morning doing *paperwork*. | Tôi mất cả buổi sáng làm giấy tờ.
+form | noun | /fɔːrm/ | mẫu đơn | a document with spaces to fill in | fill out a form; application form | Please fill out this *form*. | Vui lòng điền vào mẫu đơn này.
+fill out | verb | /ˌfɪl ˈaʊt/ | điền (mẫu đơn) | to complete a form | fill out a form; fill in | Please *fill out* the registration form. | Vui lòng điền mẫu đăng ký.
+sign up | verb | /ˌsaɪn ˈʌp/ | đăng ký | to agree to join something | sign up for a course | Over 50 people *signed up* for the workshop. | Hơn 50 người đã đăng ký buổi tập huấn.
+in charge of | preposition | /ɪn ˈtʃɑːrdʒ əv/ | phụ trách | responsible for | be in charge of | Who is *in charge of* the project? | Ai phụ trách dự án?
+oversee | verb | /ˌoʊvərˈsiː/ | giám sát, trông coi | to watch and control work | oversee a project; oversee operations | She will *oversee* the opening of the new branch. | Cô ấy sẽ giám sát việc khai trương chi nhánh mới.
+coordinate | verb | /koʊˈɔːrdɪneɪt/ | điều phối | to organize people or activities to work together | coordinate with; coordinate an event | He *coordinates* all the company's events. | Anh ấy điều phối mọi sự kiện của công ty.
+coordinator | noun | /koʊˈɔːrdɪneɪtər/ | điều phối viên | a person who organizes people or activities | event coordinator; project coordinator | Contact the event *coordinator* for details. | Liên hệ điều phối viên sự kiện để biết chi tiết.
+assistant | noun | /əˈsɪstənt/ | trợ lý | a person who helps someone in their job | administrative assistant; personal assistant | My *assistant* will send you the details. | Trợ lý của tôi sẽ gửi bạn thông tin chi tiết.
+intern | noun | /ˈɪntɜːrn/ | thực tập sinh | a student working to get experience | summer intern; hire interns | We are hiring two *interns* for the summer. | Chúng tôi tuyển hai thực tập sinh cho mùa hè.
+internship | noun | /ˈɪntɜːrnʃɪp/ | kỳ thực tập | a period of work to get experience | do an internship; paid internship | She did an *internship* at a bank. | Cô ấy thực tập tại một ngân hàng.
+personnel | noun | /ˌpɜːrsəˈnel/ | nhân sự | the people who work for an organization | personnel department; authorized personnel | Authorized *personnel* only. | Chỉ dành cho nhân viên được phép.
+department | noun | /dɪˈpɑːrtmənt/ | phòng, ban | a section of an organization | sales department; head of department | She was moved to the accounting *department*. | Cô ấy được chuyển sang phòng kế toán.
+on leave | adjective | /ɑːn ˈliːv/ | đang nghỉ phép | away from work with permission | be on leave; on sick leave | Mr. Kim is *on leave* until Monday. | Ông Kim nghỉ phép đến thứ Hai.
+fill in for | verb | /ˌfɪl ˈɪn fɔːr/ | làm thay | to do someone's job while they are away | fill in for a colleague | Can you *fill in for* me at the meeting? | Bạn dự họp thay tôi được không?

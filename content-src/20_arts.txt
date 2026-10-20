@@ -1,0 +1,64 @@
+#id: arts
+#prefix: art
+#order: 20
+#icon: 🎭
+#title: Arts & Entertainment
+#title_vi: Nghệ thuật & Giải trí
+#desc: Âm nhạc, phim ảnh, văn học, biểu diễn, lễ hội: chủ đề hay gặp trong quảng cáo sự kiện và hội thoại.
+album | noun | /ˈælbəm/ | album nhạc/ảnh | a collection of songs or photos | release an album; photo album | The band will release a new *album* in June. | Ban nhạc sẽ phát hành album mới vào tháng Sáu.
+artistic | adjective | /ɑːrˈtɪstɪk/ | thuộc nghệ thuật, có khiếu nghệ thuật | connected with art; good at art | artistic talent; artistic director | She has always been very *artistic*. | Cô ấy luôn có khiếu nghệ thuật.
+artwork | noun | /ˈɑːrtwɜːrk/ | tác phẩm nghệ thuật | paintings, drawings or other art | original artwork; display artwork | The hotel lobby displays *artwork* by local artists. | Sảnh khách sạn trưng bày tác phẩm của nghệ sĩ địa phương.
+ballet | noun | /bæˈleɪ/ | múa ba lê | a type of dance telling a story with music | ballet dancer; go to the ballet | We have tickets for the *ballet* on Saturday. | Chúng tôi có vé xem ba lê vào thứ Bảy. | Chữ t câm.
+choir | noun | /ˈkwaɪər/ | dàn hợp xướng | a group of people who sing together | sing in a choir; church choir | She sings in the company *choir*. | Cô ấy hát trong dàn hợp xướng của công ty. | Phát âm: KWAI-er.
+orchestra | noun | /ˈɔːrkɪstrə/ | dàn nhạc giao hưởng | a large group of musicians | symphony orchestra; play in an orchestra | The city *orchestra* performs every Friday. | Dàn nhạc thành phố biểu diễn mỗi thứ Sáu.
+opera | noun | /ˈɑːprə/ | nhạc kịch opera | a drama where words are sung | opera house; opera singer | They went to the *opera* last night. | Tối qua họ đi xem opera.
+musical | adjective | /ˈmjuːzɪkl/ | thuộc âm nhạc | connected with music; good at music | musical instrument; musical talent | Can you play a *musical* instrument? | Bạn có chơi được nhạc cụ nào không? | Danh từ a musical = vở nhạc kịch.
+compose | verb | /kəmˈpoʊz/ | sáng tác; cấu thành | to write music; to form something | compose music; be composed of | He *composed* the music for the film. | Anh ấy sáng tác nhạc cho bộ phim.
+composer | noun | /kəmˈpoʊzər/ | nhà soạn nhạc | a person who writes music | a famous composer; film composer | Mozart is my favourite *composer*. | Mozart là nhà soạn nhạc tôi yêu thích.
+rhythm | noun | /ˈrɪðəm/ | nhịp điệu | a regular pattern of sounds or movements | a strong rhythm; rhythm and blues | Clap your hands to the *rhythm*. | Vỗ tay theo nhịp điệu.
+tune | noun | /tuːn/ | giai điệu | a series of musical notes | a catchy tune; in tune; out of tune | I can't get that *tune* out of my head. | Tôi không dứt được giai điệu đó ra khỏi đầu.
+lyric | noun | /ˈlɪrɪk/ | lời bài hát | the words of a song | song lyrics; write lyrics | I don't understand the *lyrics* of this song. | Tôi không hiểu lời bài hát này. | Thường dùng số nhiều: lyrics.
+drum | noun | /drʌm/ | cái trống | a musical instrument you hit with sticks | play the drums; bass drum | My brother plays the *drums* in a band. | Anh trai tôi chơi trống trong một ban nhạc.
+comedian | noun | /kəˈmiːdiən/ | diễn viên hài | a person who tells jokes to make people laugh | stand-up comedian; a famous comedian | The *comedian* had the whole audience laughing. | Diễn viên hài khiến cả khán phòng cười.
+comic | adjective | /ˈkɑːmɪk/ | hài hước | funny | comic book; comic actor | It's a *comic* story about a lost dog. | Đó là câu chuyện hài về một chú chó lạc.
+humour | noun | /ˈhjuːmər/ | sự hài hước | the quality of being funny | sense of humour; dry humour | My boss has a great sense of *humour*. | Sếp tôi rất có khiếu hài hước. | Anh-Mỹ: humor.
+humorous | adjective | /ˈhjuːmərəs/ | hài hước, dí dỏm | funny | a humorous speech; humorous story | He gave a short, *humorous* speech at the party. | Anh ấy có bài phát biểu ngắn, dí dỏm tại bữa tiệc.
+hilarious | adjective | /hɪˈleriəs/ | cực kỳ buồn cười | extremely funny | absolutely hilarious; a hilarious film | The film was absolutely *hilarious*. | Bộ phim buồn cười kinh khủng. | Không dùng "very hilarious".
+amusing | adjective | /əˈmjuːzɪŋ/ | thú vị, gây cười | funny and enjoyable | an amusing story; find something amusing | He told us an *amusing* story about his trip. | Anh ấy kể chúng tôi một chuyện thú vị về chuyến đi.
+entertain | verb | /ˌentərˈteɪn/ | giải trí; tiếp đãi | to interest and amuse people; to have guests | entertain guests; entertain children | A magician *entertained* the children at the party. | Một ảo thuật gia giúp vui cho bọn trẻ tại bữa tiệc.
+entertaining | adjective | /ˌentərˈteɪnɪŋ/ | mang tính giải trí, thú vị | interesting and enjoyable | highly entertaining; an entertaining evening | The show was very *entertaining*. | Buổi diễn rất thú vị.
+entertainment | noun | /ˌentərˈteɪnmənt/ | sự giải trí | films, music, shows that people enjoy | live entertainment; entertainment industry | The hotel offers live *entertainment* every evening. | Khách sạn có chương trình biểu diễn trực tiếp mỗi tối.
+genre | noun | /ˈʒɑːnrə/ | thể loại | a type of art, music or writing | film genre; music genre; favourite genre | Horror is my least favourite film *genre*. | Kinh dị là thể loại phim tôi ít thích nhất.
+horror | noun | /ˈhɔːrər/ | sự kinh hoàng; kinh dị | great fear; a type of film or story | horror film; in horror | I don't like watching *horror* films alone. | Tôi không thích xem phim kinh dị một mình.
+fantasy | noun | /ˈfæntəsi/ | sự tưởng tượng; thể loại kỳ ảo | something you imagine; stories with magic | fantasy novel; a fantasy world | She loves *fantasy* novels with dragons and magic. | Cô ấy thích tiểu thuyết kỳ ảo có rồng và phép thuật.
+romance | noun | /ˈroʊmæns/ | chuyện tình; sự lãng mạn | a love story; a love relationship | a holiday romance; romance novel | It's a *romance* set in 1920s Paris. | Đó là chuyện tình lấy bối cảnh Paris những năm 1920.
+romantic | adjective | /roʊˈmæntɪk/ | lãng mạn | connected with love | a romantic dinner; romantic comedy | They had a *romantic* dinner by the sea. | Họ dùng bữa tối lãng mạn bên bờ biển.
+villain | noun | /ˈvɪlən/ | nhân vật phản diện | the bad character in a story | play the villain | The actor is famous for playing *villains*. | Nam diễn viên nổi tiếng với các vai phản diện.
+script | noun | /skrɪpt/ | kịch bản | the written text of a film or play | film script; write a script; follow the script | Call centre staff must follow a *script*. | Nhân viên tổng đài phải nói theo kịch bản.
+plot | noun | /plɑːt/ | cốt truyện; mảnh đất | the story of a book or film; a small piece of land | the main plot; a complicated plot | The *plot* was hard to follow. | Cốt truyện khó theo dõi.
+narrative | noun | /ˈnærətɪv/ | lời kể, câu chuyện | a story or description of events | a personal narrative; narrative structure | The book is a *narrative* of his life in Africa. | Cuốn sách là lời kể về cuộc đời ông ở châu Phi.
+tale | noun | /teɪl/ | câu chuyện (kể) | a story, often imaginary | fairy tale; folk tale | My grandmother told us old folk *tales*. | Bà kể cho chúng tôi những câu chuyện dân gian xưa.
+legend | noun | /ˈledʒənd/ | truyền thuyết; huyền thoại | an old famous story; a very famous person | according to legend; a football legend | According to *legend*, the lake was made by a giant. | Theo truyền thuyết, hồ được tạo ra bởi một người khổng lồ.
+myth | noun | /mɪθ/ | thần thoại; quan niệm sai | an ancient story; a false belief | Greek myths; it's a myth that | It's a *myth* that you need eight glasses of water a day. | Việc phải uống tám cốc nước mỗi ngày là quan niệm sai.
+literature | noun | /ˈlɪtrətʃər/ | văn học | written works considered as art | English literature; classic literature | She studied English *literature*. | Cô ấy học văn học Anh.
+literary | adjective | /ˈlɪtəreri/ | thuộc văn học | connected with literature | literary prize; literary work | The novel won a major *literary* prize. | Cuốn tiểu thuyết đoạt một giải văn học lớn.
+novelist | noun | /ˈnɑːvəlɪst/ | tiểu thuyết gia | a person who writes novels | a famous novelist | She is one of Japan's best-known *novelists*. | Bà là một trong những tiểu thuyết gia nổi tiếng nhất Nhật Bản.
+poem | noun | /ˈpoʊəm/ | bài thơ | a piece of writing with lines that often rhyme | write a poem; a love poem | He wrote a *poem* for his wife. | Anh ấy viết một bài thơ cho vợ.
+poet | noun | /ˈpoʊət/ | nhà thơ | a person who writes poems | a famous poet | Nguyen Du is a famous Vietnamese *poet*. | Nguyễn Du là nhà thơ nổi tiếng của Việt Nam.
+poetry | noun | /ˈpoʊətri/ | thơ ca | poems in general | read poetry; a book of poetry | She enjoys reading *poetry*. | Cô ấy thích đọc thơ.
+chapter | noun | /ˈtʃæptər/ | chương | one of the parts of a book | the first chapter; chapter 3 | Please read *chapter* 3 before the next class. | Vui lòng đọc chương 3 trước buổi học sau.
+title | noun | /ˈtaɪtl/ | tiêu đề; chức danh | the name of a book or film; a word showing rank | job title; the title of the book | What is your job *title*? | Chức danh công việc của bạn là gì?
+theme | noun | /θiːm/ | chủ đề | the main subject or idea | the main theme; theme park; theme of the conference | The *theme* of this year's conference is innovation. | Chủ đề hội nghị năm nay là đổi mới.
+portrait | noun | /ˈpɔːrtrət/ | bức chân dung | a painting or photo of a person | paint a portrait; self-portrait | A *portrait* of the founder hangs in the lobby. | Bức chân dung người sáng lập treo ở sảnh.
+craft | noun | /kræft/ | nghề thủ công | an activity using skill to make things by hand | arts and crafts; craft fair; traditional crafts | The village is famous for its traditional *crafts*. | Ngôi làng nổi tiếng với nghề thủ công truyền thống.
+creativity | noun | /ˌkriːeɪˈtɪvəti/ | sự sáng tạo | the ability to create new ideas | encourage creativity; show creativity | The job requires *creativity* and patience. | Công việc đòi hỏi sự sáng tạo và kiên nhẫn.
+creation | noun | /kriˈeɪʃn/ | sự tạo ra; tác phẩm | the act of making something; something made | job creation; the creation of | The project will lead to the *creation* of 500 jobs. | Dự án sẽ tạo ra 500 việc làm.
+costume | noun | /ˈkɑːstuːm/ | trang phục (biểu diễn, lễ hội) | clothes worn to look like someone else | in costume; traditional costume; costume party | The dancers wore traditional *costumes*. | Các vũ công mặc trang phục truyền thống.
+studio | noun | /ˈstuːdioʊ/ | phòng thu; xưởng | a room where music or films are made; an artist's workroom | recording studio; film studio | The band is recording in the *studio*. | Ban nhạc đang thu âm trong phòng thu.
+stage | noun | /steɪdʒ/ | sân khấu; giai đoạn | the area where actors perform; a period of development | on stage; at this stage | At this *stage*, we can't say when it will finish. | Ở giai đoạn này, chúng tôi chưa thể nói khi nào sẽ xong.
+audience | noun | /ˈɔːdiəns/ | khán giả | the people watching or listening to a performance | a large audience; target audience | The *audience* clapped for five minutes. | Khán giả vỗ tay suốt năm phút.
+fame | noun | /feɪm/ | danh tiếng | being known by many people | rise to fame; fame and fortune | She rose to *fame* after her first film. | Cô ấy nổi tiếng sau bộ phim đầu tiên.
+celebrity | noun | /səˈlebrəti/ | người nổi tiếng | a famous person | a TV celebrity; celebrity guests | Several *celebrities* attended the opening. | Một số người nổi tiếng dự lễ khai trương.
+firework | noun | /ˈfaɪərwɜːrk/ | pháo hoa | a device that explodes with coloured lights | fireworks display; set off fireworks | We watched the New Year *fireworks* from the roof. | Chúng tôi xem pháo hoa năm mới từ sân thượng.
+parade | noun | /pəˈreɪd/ | cuộc diễu hành | a public celebration where people walk through the streets | a street parade; hold a parade | The city holds a *parade* every National Day. | Thành phố tổ chức diễu hành mỗi dịp Quốc khánh.
+magic | noun | /ˈmædʒɪk/ | ảo thuật; phép thuật | tricks that seem impossible; special power | magic tricks; like magic | The children loved the *magic* show. | Bọn trẻ thích màn ảo thuật.

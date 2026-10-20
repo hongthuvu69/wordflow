@@ -1,0 +1,931 @@
+{
+  "id": "mini-04",
+  "title": "Mini Test 04",
+  "kind": "mini",
+  "duration": 25,
+  "source": "WordFlow – đề tự soạn theo format TOEIC",
+  "parts": [
+    {
+      "part": 2,
+      "directions": "You will hear a question or statement and three responses spoken in English. They will not be printed in your test book. Select the best response to the question or statement.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "When does the new cafeteria open?"
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "A. Next to the lobby."
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "B. The door is open."
+            },
+            {
+              "sp": "W",
+              "accent": "us",
+              "text": "C. Sometime next month, I think."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-1",
+              "n": 1,
+              "type": "p2-wh",
+              "options": [
+                "Next to the lobby.",
+                "The door is open.",
+                "Sometime next month, I think."
+              ],
+              "answer": 2,
+              "explain": "When → thời gian. (A) Where, (B) lặp từ open."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "Can I park in front of the building?"
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "A. Only for fifteen minutes."
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "B. A beautiful park."
+            },
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "C. It's in the front pocket."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-2",
+              "n": 2,
+              "type": "p2-yesno",
+              "options": [
+                "Only for fifteen minutes.",
+                "A beautiful park.",
+                "It's in the front pocket."
+              ],
+              "answer": 0,
+              "explain": "Câu hỏi xin phép → được, nhưng chỉ 15 phút. (B) park (công viên) đồng âm khác nghĩa, (C) lặp front."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "Who's going to pick up the clients from the airport?"
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "A. Flight 302 from Seoul."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "B. They're taking a taxi."
+            },
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "C. I picked the blue one."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-3",
+              "n": 3,
+              "type": "p2-indirect",
+              "options": [
+                "Flight 302 from Seoul.",
+                "They're taking a taxi.",
+                "I picked the blue one."
+              ],
+              "answer": 1,
+              "explain": "Không ai đón cả — khách tự đi taxi. Trả lời gián tiếp cho câu Who. (A) liên tưởng airport, (C) lặp picked."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "I can't find the contract you sent me."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "A. It's a two-year contract."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "B. I'll send it again right now."
+            },
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "C. She found a new job."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-4",
+              "n": 4,
+              "type": "p2-statement",
+              "options": [
+                "It's a two-year contract.",
+                "I'll send it again right now.",
+                "She found a new job."
+              ],
+              "answer": 1,
+              "explain": "Vấn đề: không tìm thấy hợp đồng → giải pháp: gửi lại. (A) lặp contract, (C) lặp found."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "au",
+              "text": "Which supplier offered the lowest price?"
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "A. It's a little too low."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "B. On the price list."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "C. Hartley Industries did."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-5",
+              "n": 5,
+              "type": "p2-wh",
+              "options": [
+                "It's a little too low.",
+                "On the price list.",
+                "Hartley Industries did."
+              ],
+              "answer": 2,
+              "explain": "Which supplier → tên nhà cung cấp. (A) lặp low, (B) lặp price."
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "uk",
+              "text": "Let's review the budget before the meeting."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "A. Good idea. I'll bring the spreadsheet."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "B. The reviews were positive."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "C. It was a long meeting."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-6",
+              "n": 6,
+              "type": "p2-request",
+              "options": [
+                "Good idea. I'll bring the spreadsheet.",
+                "The reviews were positive.",
+                "It was a long meeting."
+              ],
+              "answer": 0,
+              "explain": "Let's… = đề nghị → đồng ý và hành động. (B) review danh từ khác nghĩa, (C) lặp meeting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "directions": "You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "Tom, the printing company just called. They said the brochures for the trade show won't be ready until Friday."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "Friday? But the trade show starts on Thursday morning. We need them before we set up our booth."
+            },
+            {
+              "sp": "W",
+              "accent": "ca",
+              "text": "I know. They said one of their machines broke down. I asked if they could print at least part of the order by Wednesday, and they're checking now."
+            },
+            {
+              "sp": "M",
+              "accent": "us",
+              "text": "OK. In the meantime, I'll print a few hundred copies here in the office, just in case."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-7",
+              "n": 7,
+              "type": "p34-topic",
+              "prompt": "What problem are the speakers discussing?",
+              "options": [
+                "A booth is too small.",
+                "Some printed materials will be late.",
+                "A trade show has been canceled.",
+                "A machine needs to be ordered."
+              ],
+              "answer": 1,
+              "explain": "Brochures sẽ không kịp trước triển lãm → printed materials will be late.",
+              "evidence": "won't be ready until Friday"
+            },
+            {
+              "id": "m04-8",
+              "n": 8,
+              "type": "p34-detail",
+              "prompt": "What caused the problem?",
+              "options": [
+                "A shipping error",
+                "A design change",
+                "A staff shortage",
+                "Broken equipment"
+              ],
+              "answer": 3,
+              "explain": "\"one of their machines broke down\" → broken equipment.",
+              "evidence": "one of their machines broke down"
+            },
+            {
+              "id": "m04-9",
+              "n": 9,
+              "type": "p34-next",
+              "prompt": "What does the man say he will do?",
+              "options": [
+                "Call the printing company",
+                "Change the trade show date",
+                "Make some copies himself",
+                "Design a new brochure"
+              ],
+              "answer": 2,
+              "explain": "\"I'll print a few hundred copies here in the office\" → make some copies himself.",
+              "evidence": "I'll print a few hundred copies here in the office",
+              "vocab": [
+                [
+                  "break down",
+                  "hỏng (máy)"
+                ],
+                [
+                  "just in case",
+                  "để phòng trường hợp"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Welcome to Lindon Bank. How can I help you today?"
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Hi. I'm moving to Canada for work next month, and I'd like to know if I can keep my account open while I'm abroad."
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Yes, you can. You'll be able to manage everything through our online banking service. But you should update your address and phone number before you leave."
+            },
+            {
+              "sp": "W",
+              "accent": "au",
+              "text": "Can I do that here now?"
+            },
+            {
+              "sp": "M",
+              "accent": "uk",
+              "text": "Sure. I'll just need to see a photo ID."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-10",
+              "n": 10,
+              "type": "p34-detail",
+              "prompt": "Why is the woman moving?",
+              "options": [
+                "For her job",
+                "To study",
+                "To be near her family",
+                "For a cheaper home"
+              ],
+              "answer": 0,
+              "explain": "\"I'm moving to Canada for work\".",
+              "evidence": "I'm moving to Canada for work"
+            },
+            {
+              "id": "m04-11",
+              "n": 11,
+              "type": "p34-detail",
+              "prompt": "What does the man recommend?",
+              "options": [
+                "Closing the account",
+                "Opening a new account in Canada",
+                "Ordering a new card",
+                "Updating contact details"
+              ],
+              "answer": 3,
+              "explain": "\"you should update your address and phone number\" → contact details.",
+              "evidence": "you should update your address and phone number"
+            },
+            {
+              "id": "m04-12",
+              "n": 12,
+              "type": "p34-next",
+              "prompt": "What will the woman most likely do next?",
+              "options": [
+                "Fill out a survey",
+                "Visit another branch",
+                "Show identification",
+                "Download an app"
+              ],
+              "answer": 2,
+              "explain": "\"I'll just need to see a photo ID\" → cô ấy sẽ xuất trình giấy tờ tùy thân.",
+              "evidence": "I'll just need to see a photo ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "directions": "You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk.",
+      "groups": [
+        {
+          "script": [
+            {
+              "sp": "M",
+              "accent": "ca",
+              "text": "Good morning, and thank you all for coming to today's staff meeting. As you know, we've been receiving a lot of customer complaints about long waiting times on our phone line. Starting next Monday, we'll be introducing a new online chat service, so customers can get help without calling. To prepare, everyone in the customer service team will attend a two-hour training session this Thursday. Please check your e-mail for the exact time of your session."
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-13",
+              "n": 13,
+              "type": "p34-topic",
+              "prompt": "What problem does the speaker mention?",
+              "options": [
+                "Low sales",
+                "Long waiting times",
+                "Broken phones",
+                "A shortage of staff"
+              ],
+              "answer": 1,
+              "explain": "\"complaints about long waiting times on our phone line\".",
+              "evidence": "long waiting times on our phone line"
+            },
+            {
+              "id": "m04-14",
+              "n": 14,
+              "type": "p34-detail",
+              "prompt": "What will the company introduce next week?",
+              "options": [
+                "An online chat service",
+                "A new phone system",
+                "A customer survey",
+                "Longer opening hours"
+              ],
+              "answer": 0,
+              "explain": "\"we'll be introducing a new online chat service\".",
+              "evidence": "a new online chat service"
+            },
+            {
+              "id": "m04-15",
+              "n": 15,
+              "type": "p34-detail",
+              "prompt": "Why should the listeners check their e-mail?",
+              "options": [
+                "To read customer comments",
+                "To download software",
+                "To confirm their schedules for Monday",
+                "To find a training time"
+              ],
+              "answer": 3,
+              "explain": "\"Please check your e-mail for the exact time of your session\".",
+              "evidence": "check your e-mail for the exact time of your session"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "directions": "A word or phrase is missing in each of the sentences below. Four answer choices are given below each sentence. Select the best answer to complete the sentence.",
+      "groups": [
+        {
+          "questions": [
+            {
+              "id": "m04-16",
+              "n": 16,
+              "type": "p5-wordform",
+              "prompt": "The hotel staff responded ------- to our request for an extra bed.",
+              "options": [
+                "quick",
+                "quickly",
+                "quicker",
+                "quickness"
+              ],
+              "answer": 1,
+              "explain": "Bổ nghĩa cho động từ responded → trạng từ quickly."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-17",
+              "n": 17,
+              "type": "p5-preposition",
+              "prompt": "The museum is open daily from 9 a.m. ------- 6 p.m.",
+              "options": [
+                "at",
+                "by",
+                "to",
+                "for"
+              ],
+              "answer": 2,
+              "explain": "from … to … = từ … đến …"
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-18",
+              "n": 18,
+              "type": "p5-vocab",
+              "prompt": "Due to high -------, we have extended the sale for another week.",
+              "options": [
+                "demand",
+                "demanding",
+                "demanded",
+                "demands"
+              ],
+              "answer": 0,
+              "explain": "Due to + danh từ; high demand = nhu cầu cao (danh từ không đếm được, dùng số ít)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-19",
+              "n": 19,
+              "type": "p5-tense",
+              "prompt": "When Mr. Patel arrived at the airport, his flight ------- already.",
+              "options": [
+                "had left",
+                "leaves",
+                "has left",
+                "was leaving"
+              ],
+              "answer": 0,
+              "explain": "Hành động xảy ra trước một hành động quá khứ khác (arrived) → quá khứ hoàn thành had left."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-20",
+              "n": 20,
+              "type": "p5-conjunction",
+              "prompt": "Ms. Garcia was promoted to manager ------- she had worked at the company for only two years.",
+              "options": [
+                "in spite of",
+                "so that",
+                "even though",
+                "as a result"
+              ],
+              "answer": 2,
+              "explain": "Phía sau là mệnh đề, nghĩa tương phản → even though. in spite of + danh từ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-21",
+              "n": 21,
+              "type": "p5-vocab",
+              "prompt": "The manager asked staff to ------- their ideas for improving customer service.",
+              "options": [
+                "spread",
+                "share",
+                "split",
+                "divide"
+              ],
+              "answer": 1,
+              "explain": "share ideas = chia sẻ ý tưởng (collocation)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-22",
+              "n": 22,
+              "type": "p5-passive",
+              "prompt": "The winners of the design contest ------- next Friday.",
+              "options": [
+                "announce",
+                "will announce",
+                "are announcing",
+                "will be announced"
+              ],
+              "answer": 3,
+              "explain": "Người thắng ĐƯỢC công bố + tương lai → will be announced."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-23",
+              "n": 23,
+              "type": "p5-pronoun",
+              "prompt": "Mr. and Mrs. Hill thanked the hotel staff for ------- excellent service.",
+              "options": [
+                "they",
+                "their",
+                "them",
+                "theirs"
+              ],
+              "answer": 1,
+              "explain": "Trước cụm danh từ excellent service → tính từ sở hữu their."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-24",
+              "n": 24,
+              "type": "p5-wordform",
+              "prompt": "Please read the instructions ------- before installing the software.",
+              "options": [
+                "careful",
+                "care",
+                "cared",
+                "carefully"
+              ],
+              "answer": 3,
+              "explain": "Bổ nghĩa cho động từ read → trạng từ carefully."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-25",
+              "n": 25,
+              "type": "p5-relative",
+              "prompt": "The restaurant ------- we had lunch yesterday is famous for its seafood.",
+              "options": [
+                "where",
+                "which",
+                "when",
+                "who"
+              ],
+              "answer": 0,
+              "explain": "Thay cho nơi chốn, sau chỗ trống là mệnh đề đầy đủ (we had lunch) → where."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-26",
+              "n": 26,
+              "type": "p5-vocab",
+              "prompt": "Employees are ------- to attend at least one training course each year.",
+              "options": [
+                "requested",
+                "requiring",
+                "required",
+                "requirement"
+              ],
+              "answer": 2,
+              "explain": "be required to + V = bắt buộc phải. Cấu trúc rất hay gặp trong TOEIC."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-27",
+              "n": 27,
+              "type": "p5-comparison",
+              "prompt": "Of all the candidates, Ms. Brown has the ------- experience in international sales.",
+              "options": [
+                "much",
+                "most",
+                "more",
+                "many"
+              ],
+              "answer": 1,
+              "explain": "Of all … → so sánh nhất: the most experience."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-28",
+              "n": 28,
+              "type": "p5-preposition",
+              "prompt": "All questions ------- the new policy should be sent to Human Resources.",
+              "options": [
+                "regarded",
+                "regard",
+                "regarding",
+                "regards"
+              ],
+              "answer": 2,
+              "explain": "regarding = về việc (giới từ). Cực kỳ phổ biến trong email."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-29",
+              "n": 29,
+              "type": "p5-vocab",
+              "prompt": "Our technicians are ------- 24 hours a day to help with any problems.",
+              "options": [
+                "available",
+                "valuable",
+                "suitable",
+                "capable"
+              ],
+              "answer": 0,
+              "explain": "available = sẵn sàng, có mặt để phục vụ."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-30",
+              "n": 30,
+              "type": "p5-conjunction",
+              "prompt": "------- you have finished the online course, you will receive a certificate.",
+              "options": [
+                "Since",
+                "Unless",
+                "Whether",
+                "Once"
+              ],
+              "answer": 3,
+              "explain": "Once = một khi (hoàn thành khóa học → nhận chứng chỉ)."
+            }
+          ]
+        },
+        {
+          "questions": [
+            {
+              "id": "m04-31",
+              "n": 31,
+              "type": "p5-wordform",
+              "prompt": "The company's ------- to quality has helped it win many awards.",
+              "options": [
+                "commit",
+                "committed",
+                "commitment",
+                "committing"
+              ],
+              "answer": 2,
+              "explain": "Sau sở hữu cách The company's cần danh từ → commitment (to quality)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "directions": "Read the text that follows. A word, phrase, or sentence is missing in parts of the text. Select the best answer to complete the text.",
+      "groups": [
+        {
+          "passages": [
+            {
+              "kind": "letter",
+              "head": "Dear Ms. Nguyen,",
+              "text": "Thank you for your interest in the position of Marketing Assistant at Crestwood Media. We were very impressed with your application, and we would like to invite you for an interview on {{32}} 14 at 10:00 a.m.\n\nThe interview will last about one hour and will be {{33}} by our marketing director, Mr. Alan Brooks. {{34}}\n\nPlease reply to this letter by June 10 to confirm your attendance. If the date is not convenient, we will be happy to {{35}} another time.\n\nSincerely,\nKaren White\nHuman Resources Manager"
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-32",
+              "n": 32,
+              "type": "p5-vocab",
+              "options": [
+                "June",
+                "Monday",
+                "morning",
+                "summer"
+              ],
+              "answer": 0,
+              "explain": "\"on ___ 14\" cần tên tháng: June 14. Đọc tiếp câu sau (reply by June 10) để xác nhận."
+            },
+            {
+              "id": "m04-33",
+              "n": 33,
+              "type": "p5-passive",
+              "options": [
+                "conducting",
+                "conducted",
+                "conduct",
+                "conducts"
+              ],
+              "answer": 1,
+              "explain": "will be + V3: buổi phỏng vấn sẽ ĐƯỢC thực hiện bởi … → conducted."
+            },
+            {
+              "id": "m04-34",
+              "n": 34,
+              "type": "p6-sentence",
+              "options": [
+                "Our company was founded in 1985.",
+                "Mr. Brooks enjoys playing tennis.",
+                "The position has already been filled.",
+                "Please bring a copy of your portfolio with you."
+              ],
+              "answer": 3,
+              "explain": "Ngữ cảnh: chuẩn bị cho buổi phỏng vấn → yêu cầu mang hồ sơ năng lực là hợp lý. (C) mâu thuẫn với lời mời phỏng vấn."
+            },
+            {
+              "id": "m04-35",
+              "n": 35,
+              "type": "p5-vocab",
+              "options": [
+                "remain",
+                "attend",
+                "require",
+                "arrange"
+              ],
+              "answer": 3,
+              "explain": "arrange another time = sắp xếp một thời gian khác.",
+              "vocab": [
+                [
+                  "confirm your attendance",
+                  "xác nhận tham dự"
+                ],
+                [
+                  "conduct an interview",
+                  "thực hiện buổi phỏng vấn"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "directions": "In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question.",
+      "groups": [
+        {
+          "passages": [
+            {
+              "kind": "article",
+              "title": "Local Bakery Expands Online",
+              "text": "SPRINGFIELD — Rosa's Bakery, a family-owned business that has served Springfield for over 30 years, announced this week that it will begin selling its products online. Customers will be able to order cakes, bread, and cookies through the bakery's new website and pick them up at the store or have them delivered within the city.\n\n\"Many of our customers are busy professionals who don't have time to visit during our opening hours,\" said owner Rosa Delgado. \"Online ordering makes it easier for them.\"\n\nThe bakery also plans to hire four additional staff members to handle the expected increase in orders. — [1] — The website will officially launch on May 1. — [2] — To celebrate, all online orders placed during the first week will receive a free box of cookies. — [3] —"
+            }
+          ],
+          "questions": [
+            {
+              "id": "m04-36",
+              "n": 36,
+              "type": "p7-main",
+              "prompt": "What is the article mainly about?",
+              "options": [
+                "A bakery's new owner",
+                "A bakery's online service",
+                "A cooking competition",
+                "A new shopping center"
+              ],
+              "answer": 1,
+              "explain": "Đoạn đầu: tiệm bánh bắt đầu bán hàng online → bài báo về dịch vụ trực tuyến.",
+              "evidence": "it will begin selling its products online"
+            },
+            {
+              "id": "m04-37",
+              "n": 37,
+              "type": "p7-detail",
+              "prompt": "According to Ms. Delgado, why did the bakery make the change?",
+              "options": [
+                "To help customers who are busy",
+                "To reduce costs",
+                "To compete with a new bakery",
+                "To sell products in other cities"
+              ],
+              "answer": 0,
+              "explain": "\"Many of our customers are busy professionals … Online ordering makes it easier for them\".",
+              "evidence": "busy professionals who don't have time to visit"
+            },
+            {
+              "id": "m04-38",
+              "n": 38,
+              "type": "p7-not",
+              "prompt": "What is NOT mentioned about the bakery?",
+              "options": [
+                "It has been open for more than 30 years.",
+                "It will hire more employees.",
+                "It will open a second location.",
+                "It will offer a free gift."
+              ],
+              "answer": 2,
+              "explain": "(A) over 30 years ✓, (B) hire four additional staff ✓, (D) free box of cookies ✓. Chi nhánh thứ hai không được nhắc → (C)."
+            },
+            {
+              "id": "m04-39",
+              "n": 39,
+              "type": "p7-insert",
+              "prompt": "In which of the positions marked [1], [2], and [3] does the following sentence best belong? \"Job applications can be submitted at the store.\"",
+              "options": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "After the first paragraph"
+              ],
+              "answer": 0,
+              "explain": "Câu chèn nói về nộp đơn xin việc → đặt ngay sau câu \"plans to hire four additional staff members\", tức vị trí [1]."
+            },
+            {
+              "id": "m04-40",
+              "n": 40,
+              "type": "p7-vocab",
+              "prompt": "In paragraph 3, the word \"handle\" is closest in meaning to",
+              "options": [
+                "touch",
+                "carry",
+                "control",
+                "deal with"
+              ],
+              "answer": 3,
+              "explain": "handle the increase in orders = xử lý lượng đơn tăng → deal with. (A) touch là nghĩa đen 'cầm nắm' — bẫy.",
+              "evidence": "to handle the expected increase in orders"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

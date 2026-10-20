@@ -1,0 +1,1160 @@
+{
+ "id": "thinking",
+ "order": 37,
+ "icon": "💭",
+ "level": "B2",
+ "title": "Thinking & Opinions",
+ "title_vi": "Tư duy & Quan điểm",
+ "description": "Giả định, kết luận, so sánh, dự đoán, nhận thức: từ vựng để trình bày ý kiến (IELTS Speaking/Writing) và đọc hiểu suy luận.",
+ "words": [
+  {
+   "id": "thk_assume",
+   "word": "assume",
+   "pos": "verb",
+   "ipa": "/əˈsuːm/",
+   "level": "B2",
+   "meaning": "cho rằng, giả định",
+   "definition": "to think something is true without proof",
+   "collocations": [
+    "assume that",
+    "I assume"
+   ],
+   "examples": [
+    {
+     "en": "I *assume* you've already read the report.",
+     "vi": "Tôi cho rằng bạn đã đọc báo cáo rồi."
+    }
+   ]
+  },
+  {
+   "id": "thk_assumption",
+   "word": "assumption",
+   "pos": "noun",
+   "ipa": "/əˈsʌmpʃn/",
+   "level": "B2",
+   "meaning": "giả định",
+   "definition": "something you think is true without proof",
+   "collocations": [
+    "make an assumption",
+    "based on the assumption"
+   ],
+   "examples": [
+    {
+     "en": "Don't make *assumptions* about what customers want.",
+     "vi": "Đừng tự giả định khách hàng muốn gì."
+    }
+   ]
+  },
+  {
+   "id": "thk_concept",
+   "word": "concept",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnsept/",
+   "level": "B2",
+   "meaning": "khái niệm",
+   "definition": "an idea",
+   "collocations": [
+    "a new concept",
+    "the concept of"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant has a unique *concept*.",
+     "vi": "Nhà hàng có ý tưởng độc đáo."
+    }
+   ]
+  },
+  {
+   "id": "thk_notion",
+   "word": "notion",
+   "pos": "noun",
+   "ipa": "/ˈnoʊʃn/",
+   "level": "B2",
+   "meaning": "ý niệm, quan niệm",
+   "definition": "an idea or belief",
+   "collocations": [
+    "the notion that",
+    "a vague notion"
+   ],
+   "examples": [
+    {
+     "en": "I reject the *notion* that older workers can't learn new skills.",
+     "vi": "Tôi bác bỏ quan niệm rằng người lớn tuổi không học được kỹ năng mới."
+    }
+   ]
+  },
+  {
+   "id": "thk_consideration",
+   "word": "consideration",
+   "pos": "noun",
+   "ipa": "/kənˌsɪdəˈreɪʃn/",
+   "level": "B2",
+   "meaning": "sự cân nhắc",
+   "definition": "careful thought",
+   "collocations": [
+    "take into consideration",
+    "under consideration"
+   ],
+   "examples": [
+    {
+     "en": "Your application is under *consideration*.",
+     "vi": "Đơn của bạn đang được xem xét."
+    }
+   ]
+  },
+  {
+   "id": "thk_conclude",
+   "word": "conclude",
+   "pos": "verb",
+   "ipa": "/kənˈkluːd/",
+   "level": "B1",
+   "meaning": "kết luận; kết thúc",
+   "definition": "to decide something after thinking; to end",
+   "collocations": [
+    "conclude that",
+    "to conclude"
+   ],
+   "examples": [
+    {
+     "en": "The report *concludes* that the plan is too expensive.",
+     "vi": "Báo cáo kết luận rằng kế hoạch quá tốn kém."
+    }
+   ]
+  },
+  {
+   "id": "thk_conclusion",
+   "word": "conclusion",
+   "pos": "noun",
+   "ipa": "/kənˈkluːʒn/",
+   "level": "B1",
+   "meaning": "kết luận",
+   "definition": "a decision reached by reasoning; the end",
+   "collocations": [
+    "come to a conclusion",
+    "in conclusion"
+   ],
+   "examples": [
+    {
+     "en": "We came to the *conclusion* that we needed more staff.",
+     "vi": "Chúng tôi đi đến kết luận rằng cần thêm nhân sự."
+    }
+   ]
+  },
+  {
+   "id": "thk_perceive",
+   "word": "perceive",
+   "pos": "verb",
+   "ipa": "/pərˈsiːv/",
+   "level": "B2",
+   "meaning": "nhận thức, cảm nhận",
+   "definition": "to notice or understand in a particular way",
+   "collocations": [
+    "be perceived as"
+   ],
+   "examples": [
+    {
+     "en": "The brand is *perceived* as expensive.",
+     "vi": "Thương hiệu bị nhìn nhận là đắt đỏ."
+    }
+   ]
+  },
+  {
+   "id": "thk_perception",
+   "word": "perception",
+   "pos": "noun",
+   "ipa": "/pərˈsepʃn/",
+   "level": "B2",
+   "meaning": "nhận thức, cách nhìn",
+   "definition": "the way you understand something",
+   "collocations": [
+    "public perception",
+    "change perceptions"
+   ],
+   "examples": [
+    {
+     "en": "Customer *perception* of the brand has improved.",
+     "vi": "Nhận thức của khách hàng về thương hiệu đã cải thiện."
+    }
+   ]
+  },
+  {
+   "id": "thk_perspective",
+   "word": "perspective",
+   "pos": "noun",
+   "ipa": "/pərˈspektɪv/",
+   "level": "B2",
+   "meaning": "góc nhìn",
+   "definition": "a way of thinking about something",
+   "collocations": [
+    "from my perspective",
+    "a different perspective"
+   ],
+   "examples": [
+    {
+     "en": "Try to see it from the customer's *perspective*.",
+     "vi": "Hãy thử nhìn từ góc độ của khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "thk_viewpoint",
+   "word": "viewpoint",
+   "pos": "noun",
+   "ipa": "/ˈvjuːpɔɪnt/",
+   "level": "B2",
+   "meaning": "quan điểm; điểm ngắm cảnh",
+   "definition": "an opinion; a place with a good view",
+   "collocations": [
+    "from a business viewpoint"
+   ],
+   "examples": [
+    {
+     "en": "From an economic *viewpoint*, the plan makes sense.",
+     "vi": "Về mặt kinh tế, kế hoạch hợp lý."
+    }
+   ]
+  },
+  {
+   "id": "thk_stance",
+   "word": "stance",
+   "pos": "noun",
+   "ipa": "/stæns/",
+   "level": "B2",
+   "meaning": "lập trường",
+   "definition": "an opinion stated publicly",
+   "collocations": [
+    "take a stance on",
+    "a firm stance"
+   ],
+   "examples": [
+    {
+     "en": "The company has taken a strong *stance* on waste.",
+     "vi": "Công ty có lập trường mạnh mẽ về rác thải."
+    }
+   ]
+  },
+  {
+   "id": "thk_insight",
+   "word": "insight",
+   "pos": "noun",
+   "ipa": "/ˈɪnsaɪt/",
+   "level": "B2",
+   "meaning": "sự hiểu biết sâu sắc",
+   "definition": "a clear understanding of something",
+   "collocations": [
+    "gain insight",
+    "customer insights"
+   ],
+   "examples": [
+    {
+     "en": "The survey gave us useful *insights* into customer needs.",
+     "vi": "Khảo sát cho chúng tôi hiểu sâu về nhu cầu khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "thk_interpret",
+   "word": "interpret",
+   "pos": "verb",
+   "ipa": "/ɪnˈtɜːrprɪt/",
+   "level": "B2",
+   "meaning": "diễn giải; phiên dịch",
+   "definition": "to explain the meaning; to translate speech",
+   "collocations": [
+    "interpret data",
+    "interpret for"
+   ],
+   "examples": [
+    {
+     "en": "How should we *interpret* these results?",
+     "vi": "Chúng ta nên hiểu các kết quả này thế nào?"
+    }
+   ]
+  },
+  {
+   "id": "thk_interpretation",
+   "word": "interpretation",
+   "pos": "noun",
+   "ipa": "/ɪnˌtɜːrprəˈteɪʃn/",
+   "level": "B2",
+   "meaning": "sự diễn giải",
+   "definition": "an explanation of meaning",
+   "collocations": [
+    "open to interpretation"
+   ],
+   "examples": [
+    {
+     "en": "The rules are open to *interpretation*.",
+     "vi": "Các quy định có thể hiểu theo nhiều cách."
+    }
+   ]
+  },
+  {
+   "id": "thk_imply",
+   "word": "imply",
+   "pos": "verb",
+   "ipa": "/ɪmˈplaɪ/",
+   "level": "B2",
+   "meaning": "ngụ ý",
+   "definition": "to suggest something without saying it directly",
+   "collocations": [
+    "imply that"
+   ],
+   "examples": [
+    {
+     "en": "What does the man *imply* when he says this?",
+     "vi": "Người đàn ông ngụ ý gì khi nói câu này?"
+    }
+   ],
+   "note": "Dạng câu hỏi TOEIC Part 3/7 kinh điển."
+  },
+  {
+   "id": "thk_implication",
+   "word": "implication",
+   "pos": "noun",
+   "ipa": "/ˌɪmplɪˈkeɪʃn/",
+   "level": "B2",
+   "meaning": "hệ quả; hàm ý",
+   "definition": "a possible effect; something suggested",
+   "collocations": [
+    "implications for",
+    "the implication is"
+   ],
+   "examples": [
+    {
+     "en": "The new law has important *implications* for small businesses.",
+     "vi": "Luật mới có hệ quả quan trọng với doanh nghiệp nhỏ."
+    }
+   ]
+  },
+  {
+   "id": "thk_infer",
+   "word": "infer",
+   "pos": "verb",
+   "ipa": "/ɪnˈfɜːr/",
+   "level": "B2",
+   "meaning": "suy ra",
+   "definition": "to reach an opinion from information",
+   "collocations": [
+    "infer from",
+    "it can be inferred that"
+   ],
+   "examples": [
+    {
+     "en": "What can be *inferred* about the company?",
+     "vi": "Có thể suy ra điều gì về công ty?"
+    }
+   ],
+   "note": "Câu hỏi suy luận Part 7."
+  },
+  {
+   "id": "thk_recall",
+   "word": "recall",
+   "pos": "verb",
+   "ipa": "/rɪˈkɔːl/",
+   "level": "B2",
+   "meaning": "nhớ lại; thu hồi",
+   "definition": "to remember; to ask for a product to be returned",
+   "collocations": [
+    "as I recall",
+    "recall a product"
+   ],
+   "examples": [
+    {
+     "en": "The company *recalled* 10,000 faulty phones.",
+     "vi": "Công ty thu hồi 10.000 điện thoại bị lỗi."
+    }
+   ]
+  },
+  {
+   "id": "thk_reckon",
+   "word": "reckon",
+   "pos": "verb",
+   "ipa": "/ˈrekən/",
+   "level": "B2",
+   "meaning": "cho là, nghĩ (văn nói)",
+   "definition": "to think or believe",
+   "collocations": [
+    "I reckon"
+   ],
+   "examples": [
+    {
+     "en": "I *reckon* we'll finish by Friday.",
+     "vi": "Tôi nghĩ chúng ta sẽ xong trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "thk_regard",
+   "word": "regard",
+   "pos": "verb",
+   "ipa": "/rɪˈɡɑːrd/",
+   "level": "B2",
+   "meaning": "coi như",
+   "definition": "to think of someone or something in a particular way",
+   "collocations": [
+    "regard as",
+    "highly regarded"
+   ],
+   "examples": [
+    {
+     "en": "She is *regarded* as an expert in her field.",
+     "vi": "Cô ấy được coi là chuyên gia trong lĩnh vực của mình."
+    }
+   ],
+   "note": "with regard to / regarding = về việc."
+  },
+  {
+   "id": "thk_reflect",
+   "word": "reflect",
+   "pos": "verb",
+   "ipa": "/rɪˈflekt/",
+   "level": "B1",
+   "meaning": "phản ánh; suy ngẫm",
+   "definition": "to show; to think carefully",
+   "collocations": [
+    "reflect on",
+    "reflect the price"
+   ],
+   "examples": [
+    {
+     "en": "The price *reflects* the high quality of the product.",
+     "vi": "Giá cả phản ánh chất lượng cao của sản phẩm."
+    }
+   ]
+  },
+  {
+   "id": "thk_realistic",
+   "word": "realistic",
+   "pos": "adjective",
+   "ipa": "/ˌriːəˈlɪstɪk/",
+   "level": "B2",
+   "meaning": "thực tế",
+   "definition": "sensible and possible",
+   "collocations": [
+    "a realistic goal",
+    "realistic expectations"
+   ],
+   "examples": [
+    {
+     "en": "Set *realistic* goals for each week.",
+     "vi": "Hãy đặt mục tiêu thực tế cho mỗi tuần."
+    }
+   ]
+  },
+  {
+   "id": "thk_reality",
+   "word": "reality",
+   "pos": "noun",
+   "ipa": "/riˈæləti/",
+   "level": "B1",
+   "meaning": "thực tế",
+   "definition": "the way things really are",
+   "collocations": [
+    "in reality",
+    "become a reality"
+   ],
+   "examples": [
+    {
+     "en": "In *reality*, the project took twice as long.",
+     "vi": "Trên thực tế, dự án mất gấp đôi thời gian."
+    }
+   ]
+  },
+  {
+   "id": "thk_imagination",
+   "word": "imagination",
+   "pos": "noun",
+   "ipa": "/ɪˌmædʒɪˈneɪʃn/",
+   "level": "B2",
+   "meaning": "trí tưởng tượng",
+   "definition": "the ability to form new ideas",
+   "collocations": [
+    "use your imagination"
+   ],
+   "examples": [
+    {
+     "en": "The job requires *imagination* and creativity.",
+     "vi": "Công việc đòi hỏi trí tưởng tượng và sáng tạo."
+    }
+   ]
+  },
+  {
+   "id": "thk_imaginary",
+   "word": "imaginary",
+   "pos": "adjective",
+   "ipa": "/ɪˈmædʒɪneri/",
+   "level": "B1",
+   "meaning": "tưởng tượng, không có thật",
+   "definition": "existing only in the mind",
+   "collocations": [
+    "an imaginary friend"
+   ],
+   "examples": [
+    {
+     "en": "The story takes place in an *imaginary* city.",
+     "vi": "Câu chuyện diễn ra ở một thành phố tưởng tượng."
+    }
+   ]
+  },
+  {
+   "id": "thk_illusion",
+   "word": "illusion",
+   "pos": "noun",
+   "ipa": "/ɪˈluːʒn/",
+   "level": "B2",
+   "meaning": "ảo tưởng, ảo giác",
+   "definition": "a false idea or appearance",
+   "collocations": [
+    "an optical illusion",
+    "under the illusion"
+   ],
+   "examples": [
+    {
+     "en": "Mirrors create the *illusion* of more space.",
+     "vi": "Gương tạo ảo giác không gian rộng hơn."
+    }
+   ]
+  },
+  {
+   "id": "thk_logical",
+   "word": "logical",
+   "pos": "adjective",
+   "ipa": "/ˈlɑːdʒɪkl/",
+   "level": "B2",
+   "meaning": "hợp lý, logic",
+   "definition": "sensible; following reason",
+   "collocations": [
+    "a logical decision",
+    "logical order"
+   ],
+   "examples": [
+    {
+     "en": "Put the steps in a *logical* order.",
+     "vi": "Sắp xếp các bước theo thứ tự hợp lý."
+    }
+   ]
+  },
+  {
+   "id": "thk_doubt",
+   "word": "doubt",
+   "pos": "noun",
+   "ipa": "/daʊt/",
+   "level": "B1",
+   "meaning": "sự nghi ngờ",
+   "definition": "a feeling of not being sure",
+   "collocations": [
+    "no doubt",
+    "have doubts about",
+    "in doubt"
+   ],
+   "examples": [
+    {
+     "en": "There's no *doubt* that she's the best candidate.",
+     "vi": "Không nghi ngờ gì cô ấy là ứng viên tốt nhất."
+    }
+   ],
+   "note": "Chữ b câm."
+  },
+  {
+   "id": "thk_certainty",
+   "word": "certainty",
+   "pos": "noun",
+   "ipa": "/ˈsɜːrtnti/",
+   "level": "B2",
+   "meaning": "sự chắc chắn",
+   "definition": "the state of being certain",
+   "collocations": [
+    "with certainty"
+   ],
+   "examples": [
+    {
+     "en": "We can't say with *certainty* when it will arrive.",
+     "vi": "Chúng tôi không thể nói chắc khi nào hàng sẽ đến."
+    }
+   ]
+  },
+  {
+   "id": "thk_uncertainty",
+   "word": "uncertainty",
+   "pos": "noun",
+   "ipa": "/ʌnˈsɜːrtnti/",
+   "level": "B2",
+   "meaning": "sự không chắc chắn",
+   "definition": "the state of not being sure",
+   "collocations": [
+    "economic uncertainty"
+   ],
+   "examples": [
+    {
+     "en": "There is a lot of *uncertainty* about the economy.",
+     "vi": "Có nhiều bất ổn về nền kinh tế."
+    }
+   ]
+  },
+  {
+   "id": "thk_definite",
+   "word": "definite",
+   "pos": "adjective",
+   "ipa": "/ˈdefɪnət/",
+   "level": "B1",
+   "meaning": "rõ ràng, chắc chắn",
+   "definition": "sure; not likely to change",
+   "collocations": [
+    "a definite answer",
+    "definite plans"
+   ],
+   "examples": [
+    {
+     "en": "We need a *definite* answer by Friday.",
+     "vi": "Chúng tôi cần câu trả lời dứt khoát trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "thk_probable",
+   "word": "probable",
+   "pos": "adjective",
+   "ipa": "/ˈprɑːbəbl/",
+   "level": "B2",
+   "meaning": "có thể xảy ra",
+   "definition": "likely to happen",
+   "collocations": [
+    "highly probable",
+    "the probable cause"
+   ],
+   "examples": [
+    {
+     "en": "The *probable* cause of the fire was a faulty wire.",
+     "vi": "Nguyên nhân có thể của vụ cháy là dây điện bị lỗi."
+    }
+   ]
+  },
+  {
+   "id": "thk_probability",
+   "word": "probability",
+   "pos": "noun",
+   "ipa": "/ˌprɑːbəˈbɪləti/",
+   "level": "B2",
+   "meaning": "khả năng xảy ra",
+   "definition": "how likely something is",
+   "collocations": [
+    "high probability",
+    "in all probability"
+   ],
+   "examples": [
+    {
+     "en": "There is a high *probability* of rain tomorrow.",
+     "vi": "Khả năng cao ngày mai sẽ mưa."
+    }
+   ]
+  },
+  {
+   "id": "thk_prediction",
+   "word": "prediction",
+   "pos": "noun",
+   "ipa": "/prɪˈdɪkʃn/",
+   "level": "B1",
+   "meaning": "sự dự đoán",
+   "definition": "a statement about what will happen",
+   "collocations": [
+    "make a prediction",
+    "sales predictions"
+   ],
+   "examples": [
+    {
+     "en": "His *prediction* about the market was correct.",
+     "vi": "Dự đoán của anh ấy về thị trường đã đúng."
+    }
+   ]
+  },
+  {
+   "id": "thk_predictable",
+   "word": "predictable",
+   "pos": "adjective",
+   "ipa": "/prɪˈdɪktəbl/",
+   "level": "B2",
+   "meaning": "có thể đoán trước",
+   "definition": "able to be predicted",
+   "collocations": [
+    "a predictable result",
+    "predictable income"
+   ],
+   "examples": [
+    {
+     "en": "The film's ending was very *predictable*.",
+     "vi": "Kết thúc bộ phim rất dễ đoán."
+    }
+   ]
+  },
+  {
+   "id": "thk_speculate",
+   "word": "speculate",
+   "pos": "verb",
+   "ipa": "/ˈspekjuleɪt/",
+   "level": "B2",
+   "meaning": "suy đoán",
+   "definition": "to guess without full information",
+   "collocations": [
+    "speculate about"
+   ],
+   "examples": [
+    {
+     "en": "It's too early to *speculate* about the cause.",
+     "vi": "Còn quá sớm để suy đoán về nguyên nhân."
+    }
+   ]
+  },
+  {
+   "id": "thk_speculation",
+   "word": "speculation",
+   "pos": "noun",
+   "ipa": "/ˌspekjuˈleɪʃn/",
+   "level": "B2",
+   "meaning": "sự suy đoán",
+   "definition": "guessing without knowing all the facts",
+   "collocations": [
+    "media speculation"
+   ],
+   "examples": [
+    {
+     "en": "There is *speculation* that the CEO will resign.",
+     "vi": "Có suy đoán rằng giám đốc sẽ từ chức."
+    }
+   ]
+  },
+  {
+   "id": "thk_expectation",
+   "word": "expectation",
+   "pos": "noun",
+   "ipa": "/ˌekspekˈteɪʃn/",
+   "level": "B2",
+   "meaning": "sự kỳ vọng",
+   "definition": "a belief that something will happen",
+   "collocations": [
+    "meet expectations",
+    "exceed expectations"
+   ],
+   "examples": [
+    {
+     "en": "The results did not meet our *expectations*.",
+     "vi": "Kết quả không đạt kỳ vọng của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "thk_expected",
+   "word": "expected",
+   "pos": "adjective",
+   "ipa": "/ɪkˈspektɪd/",
+   "level": "B1",
+   "meaning": "được dự kiến",
+   "definition": "thought likely to happen",
+   "collocations": [
+    "expected date",
+    "as expected"
+   ],
+   "examples": [
+    {
+     "en": "The *expected* delivery date is May 10.",
+     "vi": "Ngày giao hàng dự kiến là 10/5."
+    }
+   ]
+  },
+  {
+   "id": "thk_unexpected",
+   "word": "unexpected",
+   "pos": "adjective",
+   "ipa": "/ˌʌnɪkˈspektɪd/",
+   "level": "B2",
+   "meaning": "bất ngờ",
+   "definition": "not expected",
+   "collocations": [
+    "an unexpected visitor",
+    "unexpected delay"
+   ],
+   "examples": [
+    {
+     "en": "Due to *unexpected* demand, the item is sold out.",
+     "vi": "Do nhu cầu tăng đột biến, mặt hàng đã bán hết."
+    }
+   ]
+  },
+  {
+   "id": "thk_intend",
+   "word": "intend",
+   "pos": "verb",
+   "ipa": "/ɪnˈtend/",
+   "level": "B1",
+   "meaning": "dự định",
+   "definition": "to plan to do something",
+   "collocations": [
+    "intend to",
+    "be intended for"
+   ],
+   "examples": [
+    {
+     "en": "We *intend* to open two new stores next year.",
+     "vi": "Chúng tôi dự định mở hai cửa hàng mới năm tới."
+    }
+   ]
+  },
+  {
+   "id": "thk_intended",
+   "word": "intended",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtendɪd/",
+   "level": "B2",
+   "meaning": "dành cho; có chủ ý",
+   "definition": "planned or designed for",
+   "collocations": [
+    "intended for beginners"
+   ],
+   "examples": [
+    {
+     "en": "This course is *intended* for beginners.",
+     "vi": "Khóa học này dành cho người mới bắt đầu."
+    }
+   ]
+  },
+  {
+   "id": "thk_intention",
+   "word": "intention",
+   "pos": "noun",
+   "ipa": "/ɪnˈtenʃn/",
+   "level": "B1",
+   "meaning": "ý định",
+   "definition": "a plan or purpose",
+   "collocations": [
+    "have no intention of",
+    "good intentions"
+   ],
+   "examples": [
+    {
+     "en": "I have no *intention* of leaving the company.",
+     "vi": "Tôi không hề có ý định rời công ty."
+    }
+   ]
+  },
+  {
+   "id": "thk_deliberate",
+   "word": "deliberate",
+   "pos": "adjective",
+   "ipa": "/dɪˈlɪbərət/",
+   "level": "B2",
+   "meaning": "cố ý",
+   "definition": "done on purpose",
+   "collocations": [
+    "a deliberate decision",
+    "deliberate attempt"
+   ],
+   "examples": [
+    {
+     "en": "It was a *deliberate* choice to keep prices low.",
+     "vi": "Đó là lựa chọn có chủ đích để giữ giá thấp."
+    }
+   ]
+  },
+  {
+   "id": "thk_deliberately",
+   "word": "deliberately",
+   "pos": "adverb",
+   "ipa": "/dɪˈlɪbərətli/",
+   "level": "B2",
+   "meaning": "cố tình",
+   "definition": "on purpose",
+   "collocations": [
+    "deliberately ignore"
+   ],
+   "examples": [
+    {
+     "en": "He *deliberately* left the door open.",
+     "vi": "Anh ấy cố tình để cửa mở."
+    }
+   ]
+  },
+  {
+   "id": "thk_aware",
+   "word": "aware",
+   "pos": "adjective",
+   "ipa": "/əˈwer/",
+   "level": "B1",
+   "meaning": "nhận thức được",
+   "definition": "knowing about something",
+   "collocations": [
+    "be aware of",
+    "aware that"
+   ],
+   "examples": [
+    {
+     "en": "Please be *aware* that the office closes early on Friday.",
+     "vi": "Xin lưu ý rằng văn phòng đóng cửa sớm vào thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "thk_awareness",
+   "word": "awareness",
+   "pos": "noun",
+   "ipa": "/əˈwernəs/",
+   "level": "B2",
+   "meaning": "sự nhận thức",
+   "definition": "knowledge or understanding of something",
+   "collocations": [
+    "raise awareness",
+    "public awareness"
+   ],
+   "examples": [
+    {
+     "en": "The campaign aims to raise *awareness* of recycling.",
+     "vi": "Chiến dịch nhằm nâng cao nhận thức về tái chế."
+    }
+   ]
+  },
+  {
+   "id": "thk_conscious",
+   "word": "conscious",
+   "pos": "adjective",
+   "ipa": "/ˈkɑːnʃəs/",
+   "level": "B2",
+   "meaning": "ý thức được; tỉnh táo",
+   "definition": "aware; awake",
+   "collocations": [
+    "conscious of",
+    "health-conscious"
+   ],
+   "examples": [
+    {
+     "en": "Customers are becoming more health-*conscious*.",
+     "vi": "Khách hàng ngày càng quan tâm đến sức khỏe."
+    }
+   ]
+  },
+  {
+   "id": "thk_unconscious",
+   "word": "unconscious",
+   "pos": "adjective",
+   "ipa": "/ʌnˈkɑːnʃəs/",
+   "level": "B2",
+   "meaning": "bất tỉnh; vô thức",
+   "definition": "not awake; not aware",
+   "collocations": [
+    "knocked unconscious"
+   ],
+   "examples": [
+    {
+     "en": "The driver was *unconscious* when the ambulance arrived.",
+     "vi": "Tài xế bất tỉnh khi xe cấp cứu đến."
+    }
+   ]
+  },
+  {
+   "id": "thk_familiar",
+   "word": "familiar",
+   "pos": "adjective",
+   "ipa": "/fəˈmɪliər/",
+   "level": "B1",
+   "meaning": "quen thuộc",
+   "definition": "well known; knowing something well",
+   "collocations": [
+    "familiar with",
+    "look familiar"
+   ],
+   "examples": [
+    {
+     "en": "Are you *familiar* with this software?",
+     "vi": "Bạn có quen dùng phần mềm này không?"
+    }
+   ]
+  },
+  {
+   "id": "thk_recognition",
+   "word": "recognition",
+   "pos": "noun",
+   "ipa": "/ˌrekəɡˈnɪʃn/",
+   "level": "B2",
+   "meaning": "sự công nhận; nhận ra",
+   "definition": "public praise; the act of recognizing",
+   "collocations": [
+    "in recognition of",
+    "brand recognition"
+   ],
+   "examples": [
+    {
+     "en": "She received an award in *recognition* of her work.",
+     "vi": "Cô ấy nhận giải thưởng ghi nhận công sức của mình."
+    }
+   ]
+  },
+  {
+   "id": "thk_distinguish",
+   "word": "distinguish",
+   "pos": "verb",
+   "ipa": "/dɪˈstɪŋɡwɪʃ/",
+   "level": "B2",
+   "meaning": "phân biệt",
+   "definition": "to see the difference between things",
+   "collocations": [
+    "distinguish between",
+    "distinguish from"
+   ],
+   "examples": [
+    {
+     "en": "It's hard to *distinguish* between the two products.",
+     "vi": "Khó phân biệt hai sản phẩm này."
+    }
+   ]
+  },
+  {
+   "id": "thk_identical",
+   "word": "identical",
+   "pos": "adjective",
+   "ipa": "/aɪˈdentɪkl/",
+   "level": "B2",
+   "meaning": "giống hệt",
+   "definition": "exactly the same",
+   "collocations": [
+    "identical twins",
+    "identical to"
+   ],
+   "examples": [
+    {
+     "en": "The two offers are almost *identical*.",
+     "vi": "Hai lời đề nghị gần như giống hệt nhau."
+    }
+   ]
+  },
+  {
+   "id": "thk_similarity",
+   "word": "similarity",
+   "pos": "noun",
+   "ipa": "/ˌsɪməˈlærəti/",
+   "level": "B1",
+   "meaning": "sự giống nhau",
+   "definition": "the state of being similar",
+   "collocations": [
+    "similarities between"
+   ],
+   "examples": [
+    {
+     "en": "There are many *similarities* between the two plans.",
+     "vi": "Hai kế hoạch có nhiều điểm tương đồng."
+    }
+   ]
+  },
+  {
+   "id": "thk_similarly",
+   "word": "similarly",
+   "pos": "adverb",
+   "ipa": "/ˈsɪmələrli/",
+   "level": "B1",
+   "meaning": "tương tự",
+   "definition": "in a similar way",
+   "collocations": [
+    "Similarly, …"
+   ],
+   "examples": [
+    {
+     "en": "*Similarly*, our second store also increased sales.",
+     "vi": "Tương tự, cửa hàng thứ hai cũng tăng doanh số."
+    }
+   ]
+  },
+  {
+   "id": "thk_comparison",
+   "word": "comparison",
+   "pos": "noun",
+   "ipa": "/kəmˈpærɪsn/",
+   "level": "B1",
+   "meaning": "sự so sánh",
+   "definition": "the act of comparing",
+   "collocations": [
+    "in comparison with",
+    "make a comparison"
+   ],
+   "examples": [
+    {
+     "en": "In *comparison* with last year, costs are lower.",
+     "vi": "So với năm ngoái, chi phí thấp hơn."
+    }
+   ]
+  },
+  {
+   "id": "thk_comparative",
+   "word": "comparative",
+   "pos": "adjective",
+   "ipa": "/kəmˈpærətɪv/",
+   "level": "B2",
+   "meaning": "tương đối; so sánh",
+   "definition": "measured by comparing",
+   "collocations": [
+    "comparative study",
+    "comparative advantage"
+   ],
+   "examples": [
+    {
+     "en": "The study is a *comparative* analysis of two markets.",
+     "vi": "Nghiên cứu là phân tích so sánh hai thị trường."
+    }
+   ]
+  },
+  {
+   "id": "thk_contrast",
+   "word": "contrast",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntræst/",
+   "level": "B1",
+   "meaning": "sự tương phản",
+   "definition": "a clear difference",
+   "collocations": [
+    "in contrast",
+    "by contrast"
+   ],
+   "examples": [
+    {
+     "en": "In *contrast* to last year, sales are up.",
+     "vi": "Trái với năm ngoái, doanh số đã tăng."
+    }
+   ]
+  },
+  {
+   "id": "thk_differ",
+   "word": "differ",
+   "pos": "verb",
+   "ipa": "/ˈdɪfər/",
+   "level": "B2",
+   "meaning": "khác nhau",
+   "definition": "to be different",
+   "collocations": [
+    "differ from",
+    "opinions differ"
+   ],
+   "examples": [
+    {
+     "en": "Prices *differ* from store to store.",
+     "vi": "Giá cả khác nhau giữa các cửa hàng."
+    }
+   ]
+  },
+  {
+   "id": "thk_distinct",
+   "word": "distinct",
+   "pos": "adjective",
+   "ipa": "/dɪˈstɪŋkt/",
+   "level": "B2",
+   "meaning": "khác biệt; rõ ràng",
+   "definition": "clearly different; easy to notice",
+   "collocations": [
+    "distinct from",
+    "a distinct advantage"
+   ],
+   "examples": [
+    {
+     "en": "There is a *distinct* difference in quality.",
+     "vi": "Có sự khác biệt rõ rệt về chất lượng."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

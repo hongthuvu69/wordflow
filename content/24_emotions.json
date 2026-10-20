@@ -1,0 +1,1397 @@
+{
+ "id": "emotions",
+ "order": 24,
+ "icon": "😊",
+ "level": "B2",
+ "title": "Emotions & Reactions",
+ "title_vi": "Cảm xúc & Phản ứng",
+ "description": "Diễn tả cảm xúc chính xác hơn \"happy/sad\": phân biệt -ed/-ing (shocked/shocking), hay gặp trong Speaking và Part 3.",
+ "words": [
+  {
+   "id": "emo_emotion",
+   "word": "emotion",
+   "pos": "noun",
+   "ipa": "/ɪˈmoʊʃn/",
+   "level": "B1",
+   "meaning": "cảm xúc",
+   "definition": "a strong feeling such as love, fear or anger",
+   "collocations": [
+    "show emotion",
+    "mixed emotions"
+   ],
+   "examples": [
+    {
+     "en": "She found it hard to hide her *emotions*.",
+     "vi": "Cô ấy khó giấu được cảm xúc của mình."
+    }
+   ]
+  },
+  {
+   "id": "emo_emotional",
+   "word": "emotional",
+   "pos": "adjective",
+   "ipa": "/ɪˈmoʊʃənl/",
+   "level": "B2",
+   "meaning": "xúc động; thuộc cảm xúc",
+   "definition": "showing strong feelings; connected with feelings",
+   "collocations": [
+    "get emotional",
+    "emotional support"
+   ],
+   "examples": [
+    {
+     "en": "He got *emotional* during his farewell speech.",
+     "vi": "Anh ấy xúc động trong bài phát biểu chia tay."
+    }
+   ]
+  },
+  {
+   "id": "emo_delighted",
+   "word": "delighted",
+   "pos": "adjective",
+   "ipa": "/dɪˈlaɪtɪd/",
+   "level": "B2",
+   "meaning": "rất vui mừng",
+   "definition": "very pleased",
+   "collocations": [
+    "delighted to hear",
+    "delighted with"
+   ],
+   "examples": [
+    {
+     "en": "We are *delighted* to welcome you to our team.",
+     "vi": "Chúng tôi rất vui được chào đón bạn vào đội."
+    }
+   ],
+   "note": "Câu mở đầu email trang trọng hay dùng."
+  },
+  {
+   "id": "emo_delight",
+   "word": "delight",
+   "pos": "noun",
+   "ipa": "/dɪˈlaɪt/",
+   "level": "B2",
+   "meaning": "niềm vui sướng",
+   "definition": "great pleasure",
+   "collocations": [
+    "to my delight",
+    "take delight in"
+   ],
+   "examples": [
+    {
+     "en": "To our *delight*, the project was approved.",
+     "vi": "Chúng tôi rất vui vì dự án đã được duyệt."
+    }
+   ]
+  },
+  {
+   "id": "emo_glad",
+   "word": "glad",
+   "pos": "adjective",
+   "ipa": "/ɡlæd/",
+   "level": "B1",
+   "meaning": "vui mừng",
+   "definition": "pleased and happy",
+   "collocations": [
+    "glad to hear",
+    "I'm glad that"
+   ],
+   "examples": [
+    {
+     "en": "I'm *glad* you could come.",
+     "vi": "Tôi rất vui vì bạn đã đến được."
+    }
+   ]
+  },
+  {
+   "id": "emo_joy",
+   "word": "joy",
+   "pos": "noun",
+   "ipa": "/dʒɔɪ/",
+   "level": "B2",
+   "meaning": "niềm vui",
+   "definition": "great happiness",
+   "collocations": [
+    "jump for joy",
+    "a joy to work with"
+   ],
+   "examples": [
+    {
+     "en": "It's a *joy* to work with such a friendly team.",
+     "vi": "Thật vui khi được làm việc với một đội thân thiện như vậy."
+    }
+   ]
+  },
+  {
+   "id": "emo_happiness",
+   "word": "happiness",
+   "pos": "noun",
+   "ipa": "/ˈhæpinəs/",
+   "level": "B1",
+   "meaning": "hạnh phúc",
+   "definition": "the state of being happy",
+   "collocations": [
+    "find happiness",
+    "health and happiness"
+   ],
+   "examples": [
+    {
+     "en": "Money doesn't always bring *happiness*.",
+     "vi": "Tiền không phải lúc nào cũng mang lại hạnh phúc."
+    }
+   ]
+  },
+  {
+   "id": "emo_pleasure",
+   "word": "pleasure",
+   "pos": "noun",
+   "ipa": "/ˈpleʒər/",
+   "level": "B1",
+   "meaning": "niềm vui, sự hân hạnh",
+   "definition": "a feeling of enjoyment",
+   "collocations": [
+    "it's a pleasure",
+    "with pleasure",
+    "for pleasure"
+   ],
+   "examples": [
+    {
+     "en": "It was a *pleasure* meeting you.",
+     "vi": "Rất hân hạnh được gặp bạn."
+    }
+   ]
+  },
+  {
+   "id": "emo_pleasant",
+   "word": "pleasant",
+   "pos": "adjective",
+   "ipa": "/ˈpleznt/",
+   "level": "B1",
+   "meaning": "dễ chịu",
+   "definition": "enjoyable or attractive",
+   "collocations": [
+    "a pleasant surprise",
+    "pleasant weather"
+   ],
+   "examples": [
+    {
+     "en": "We had a *pleasant* evening at the restaurant.",
+     "vi": "Chúng tôi đã có một buổi tối dễ chịu ở nhà hàng."
+    }
+   ]
+  },
+  {
+   "id": "emo_unpleasant",
+   "word": "unpleasant",
+   "pos": "adjective",
+   "ipa": "/ʌnˈpleznt/",
+   "level": "B1",
+   "meaning": "khó chịu",
+   "definition": "not enjoyable",
+   "collocations": [
+    "an unpleasant smell",
+    "unpleasant experience"
+   ],
+   "examples": [
+    {
+     "en": "There was an *unpleasant* smell in the kitchen.",
+     "vi": "Có mùi khó chịu trong bếp."
+    }
+   ]
+  },
+  {
+   "id": "emo_cheerful",
+   "word": "cheerful",
+   "pos": "adjective",
+   "ipa": "/ˈtʃɪrfl/",
+   "level": "B1",
+   "meaning": "vui vẻ",
+   "definition": "happy and positive",
+   "collocations": [
+    "a cheerful smile",
+    "cheerful colours"
+   ],
+   "examples": [
+    {
+     "en": "The receptionist was very *cheerful*.",
+     "vi": "Lễ tân rất vui vẻ."
+    }
+   ]
+  },
+  {
+   "id": "emo_cheer",
+   "word": "cheer",
+   "pos": "verb",
+   "ipa": "/tʃɪr/",
+   "level": "B2",
+   "meaning": "reo hò cổ vũ",
+   "definition": "to shout to show support or approval",
+   "collocations": [
+    "cheer for",
+    "cheer loudly"
+   ],
+   "examples": [
+    {
+     "en": "The crowd *cheered* when the team scored.",
+     "vi": "Đám đông reo hò khi đội ghi bàn."
+    }
+   ]
+  },
+  {
+   "id": "emo_optimistic",
+   "word": "optimistic",
+   "pos": "adjective",
+   "ipa": "/ˌɑːptɪˈmɪstɪk/",
+   "level": "B2",
+   "meaning": "lạc quan",
+   "definition": "expecting good things to happen",
+   "collocations": [
+    "optimistic about",
+    "remain optimistic"
+   ],
+   "examples": [
+    {
+     "en": "The manager is *optimistic* about next year's sales.",
+     "vi": "Quản lý lạc quan về doanh số năm sau."
+    }
+   ]
+  },
+  {
+   "id": "emo_hopefully",
+   "word": "hopefully",
+   "pos": "adverb",
+   "ipa": "/ˈhoʊpfəli/",
+   "level": "B2",
+   "meaning": "hy vọng là",
+   "definition": "used to say what you hope will happen",
+   "collocations": [
+    "Hopefully, …"
+   ],
+   "examples": [
+    {
+     "en": "*Hopefully*, the package will arrive tomorrow.",
+     "vi": "Hy vọng gói hàng sẽ đến vào ngày mai."
+    }
+   ]
+  },
+  {
+   "id": "emo_relieved",
+   "word": "relieved",
+   "pos": "adjective",
+   "ipa": "/rɪˈliːvd/",
+   "level": "B2",
+   "meaning": "nhẹ nhõm",
+   "definition": "feeling happy because a worry has gone",
+   "collocations": [
+    "relieved to hear",
+    "feel relieved"
+   ],
+   "examples": [
+    {
+     "en": "I was *relieved* to hear that nobody was hurt.",
+     "vi": "Tôi nhẹ nhõm khi biết không ai bị thương."
+    }
+   ]
+  },
+  {
+   "id": "emo_relief",
+   "word": "relief",
+   "pos": "noun",
+   "ipa": "/rɪˈliːf/",
+   "level": "B2",
+   "meaning": "sự nhẹ nhõm; sự cứu trợ",
+   "definition": "the feeling when a worry ends; help for people in need",
+   "collocations": [
+    "what a relief",
+    "pain relief",
+    "disaster relief"
+   ],
+   "examples": [
+    {
+     "en": "What a *relief*! I thought I'd lost my passport.",
+     "vi": "Nhẹ cả người! Tôi tưởng đã mất hộ chiếu."
+    }
+   ]
+  },
+  {
+   "id": "emo_relieve",
+   "word": "relieve",
+   "pos": "verb",
+   "ipa": "/rɪˈliːv/",
+   "level": "B2",
+   "meaning": "làm giảm nhẹ",
+   "definition": "to make pain or worry less",
+   "collocations": [
+    "relieve pain",
+    "relieve stress"
+   ],
+   "examples": [
+    {
+     "en": "This medicine will *relieve* the pain.",
+     "vi": "Thuốc này sẽ làm dịu cơn đau."
+    }
+   ]
+  },
+  {
+   "id": "emo_relaxed",
+   "word": "relaxed",
+   "pos": "adjective",
+   "ipa": "/rɪˈlækst/",
+   "level": "B1",
+   "meaning": "thoải mái, thư giãn",
+   "definition": "calm and not worried",
+   "collocations": [
+    "feel relaxed",
+    "a relaxed atmosphere"
+   ],
+   "examples": [
+    {
+     "en": "The office has a *relaxed* atmosphere.",
+     "vi": "Văn phòng có bầu không khí thoải mái."
+    }
+   ]
+  },
+  {
+   "id": "emo_relaxing",
+   "word": "relaxing",
+   "pos": "adjective",
+   "ipa": "/rɪˈlæksɪŋ/",
+   "level": "B1",
+   "meaning": "giúp thư giãn",
+   "definition": "making you feel calm",
+   "collocations": [
+    "a relaxing holiday",
+    "relaxing music"
+   ],
+   "examples": [
+    {
+     "en": "We had a *relaxing* weekend by the sea.",
+     "vi": "Chúng tôi có một cuối tuần thư giãn bên biển."
+    }
+   ]
+  },
+  {
+   "id": "emo_calm",
+   "word": "calm",
+   "pos": "adjective",
+   "ipa": "/kɑːm/",
+   "level": "B1",
+   "meaning": "bình tĩnh",
+   "definition": "not excited or worried",
+   "collocations": [
+    "stay calm",
+    "keep calm"
+   ],
+   "examples": [
+    {
+     "en": "Please stay *calm* and walk to the nearest exit.",
+     "vi": "Vui lòng giữ bình tĩnh và đi tới lối ra gần nhất."
+    }
+   ]
+  },
+  {
+   "id": "emo_amazed",
+   "word": "amazed",
+   "pos": "adjective",
+   "ipa": "/əˈmeɪzd/",
+   "level": "B1",
+   "meaning": "kinh ngạc",
+   "definition": "very surprised",
+   "collocations": [
+    "amazed at",
+    "amazed to see"
+   ],
+   "examples": [
+    {
+     "en": "I was *amazed* at how fast she learned.",
+     "vi": "Tôi kinh ngạc vì cô ấy học nhanh thế."
+    }
+   ]
+  },
+  {
+   "id": "emo_astonishing",
+   "word": "astonishing",
+   "pos": "adjective",
+   "ipa": "/əˈstɑːnɪʃɪŋ/",
+   "level": "B2",
+   "meaning": "đáng kinh ngạc",
+   "definition": "very surprising",
+   "collocations": [
+    "an astonishing success",
+    "astonishing results"
+   ],
+   "examples": [
+    {
+     "en": "The app had an *astonishing* one million downloads in a week.",
+     "vi": "Ứng dụng đạt một triệu lượt tải đáng kinh ngạc trong một tuần."
+    }
+   ]
+  },
+  {
+   "id": "emo_shocked",
+   "word": "shocked",
+   "pos": "adjective",
+   "ipa": "/ʃɑːkt/",
+   "level": "B2",
+   "meaning": "bị sốc",
+   "definition": "very surprised and upset",
+   "collocations": [
+    "shocked by",
+    "shocked to hear"
+   ],
+   "examples": [
+    {
+     "en": "We were *shocked* by the news.",
+     "vi": "Chúng tôi bị sốc trước tin tức."
+    }
+   ]
+  },
+  {
+   "id": "emo_shocking",
+   "word": "shocking",
+   "pos": "adjective",
+   "ipa": "/ˈʃɑːkɪŋ/",
+   "level": "B2",
+   "meaning": "gây sốc",
+   "definition": "causing shock",
+   "collocations": [
+    "shocking news",
+    "a shocking result"
+   ],
+   "examples": [
+    {
+     "en": "The *shocking* video spread quickly online.",
+     "vi": "Đoạn video gây sốc lan truyền nhanh trên mạng."
+    }
+   ]
+  },
+  {
+   "id": "emo_shock",
+   "word": "shock",
+   "pos": "noun",
+   "ipa": "/ʃɑːk/",
+   "level": "B2",
+   "meaning": "cú sốc",
+   "definition": "a strong feeling of surprise and upset",
+   "collocations": [
+    "in shock",
+    "come as a shock"
+   ],
+   "examples": [
+    {
+     "en": "The news came as a *shock* to everyone.",
+     "vi": "Tin này là cú sốc với mọi người."
+    }
+   ]
+  },
+  {
+   "id": "emo_impressed",
+   "word": "impressed",
+   "pos": "adjective",
+   "ipa": "/ɪmˈprest/",
+   "level": "B2",
+   "meaning": "ấn tượng",
+   "definition": "admiring someone or something",
+   "collocations": [
+    "impressed by/with",
+    "deeply impressed"
+   ],
+   "examples": [
+    {
+     "en": "The client was *impressed* by our presentation.",
+     "vi": "Khách hàng ấn tượng với bài thuyết trình của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "emo_impressive",
+   "word": "impressive",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpresɪv/",
+   "level": "B1",
+   "meaning": "gây ấn tượng",
+   "definition": "causing admiration",
+   "collocations": [
+    "an impressive result",
+    "impressive growth"
+   ],
+   "examples": [
+    {
+     "en": "The company has shown *impressive* growth.",
+     "vi": "Công ty đã tăng trưởng đầy ấn tượng."
+    }
+   ]
+  },
+  {
+   "id": "emo_admire",
+   "word": "admire",
+   "pos": "verb",
+   "ipa": "/ədˈmaɪər/",
+   "level": "B1",
+   "meaning": "ngưỡng mộ",
+   "definition": "to respect and like someone",
+   "collocations": [
+    "admire someone for",
+    "admire the view"
+   ],
+   "examples": [
+    {
+     "en": "I *admire* her for her hard work.",
+     "vi": "Tôi ngưỡng mộ cô ấy vì sự chăm chỉ."
+    }
+   ]
+  },
+  {
+   "id": "emo_appreciate",
+   "word": "appreciate",
+   "pos": "verb",
+   "ipa": "/əˈpriːʃieɪt/",
+   "level": "B1",
+   "meaning": "trân trọng, cảm kích",
+   "definition": "to be grateful for something",
+   "collocations": [
+    "I'd appreciate it if",
+    "appreciate your help"
+   ],
+   "examples": [
+    {
+     "en": "We *appreciate* your patience.",
+     "vi": "Chúng tôi cảm kích sự kiên nhẫn của bạn."
+    }
+   ],
+   "note": "\"I would appreciate it if you could…\" = câu nhờ vả lịch sự."
+  },
+  {
+   "id": "emo_enthusiasm",
+   "word": "enthusiasm",
+   "pos": "noun",
+   "ipa": "/ɪnˈθuːziæzəm/",
+   "level": "B2",
+   "meaning": "sự nhiệt tình",
+   "definition": "a strong feeling of interest and excitement",
+   "collocations": [
+    "show enthusiasm",
+    "with enthusiasm"
+   ],
+   "examples": [
+    {
+     "en": "She talked about the project with great *enthusiasm*.",
+     "vi": "Cô ấy nói về dự án với sự nhiệt tình lớn."
+    }
+   ]
+  },
+  {
+   "id": "emo_enthusiastic",
+   "word": "enthusiastic",
+   "pos": "adjective",
+   "ipa": "/ɪnˌθuːziˈæstɪk/",
+   "level": "B2",
+   "meaning": "nhiệt tình",
+   "definition": "showing great interest",
+   "collocations": [
+    "enthusiastic about",
+    "an enthusiastic team"
+   ],
+   "examples": [
+    {
+     "en": "The staff were *enthusiastic* about the new plan.",
+     "vi": "Nhân viên rất nhiệt tình với kế hoạch mới."
+    }
+   ]
+  },
+  {
+   "id": "emo_excitement",
+   "word": "excitement",
+   "pos": "noun",
+   "ipa": "/ɪkˈsaɪtmənt/",
+   "level": "B1",
+   "meaning": "sự phấn khích",
+   "definition": "a feeling of great happiness and energy",
+   "collocations": [
+    "in excitement",
+    "full of excitement"
+   ],
+   "examples": [
+    {
+     "en": "There was a lot of *excitement* before the launch.",
+     "vi": "Có rất nhiều háo hức trước buổi ra mắt."
+    }
+   ]
+  },
+  {
+   "id": "emo_keen",
+   "word": "keen",
+   "pos": "adjective",
+   "ipa": "/kiːn/",
+   "level": "B1",
+   "meaning": "hăng hái, rất muốn",
+   "definition": "very interested; wanting to do something",
+   "collocations": [
+    "keen on",
+    "keen to do"
+   ],
+   "examples": [
+    {
+     "en": "She is *keen* to learn new skills.",
+     "vi": "Cô ấy rất muốn học kỹ năng mới."
+    }
+   ]
+  },
+  {
+   "id": "emo_fond",
+   "word": "fond",
+   "pos": "adjective",
+   "ipa": "/fɑːnd/",
+   "level": "B2",
+   "meaning": "yêu thích, quý mến",
+   "definition": "liking someone or something",
+   "collocations": [
+    "be fond of",
+    "fond memories"
+   ],
+   "examples": [
+    {
+     "en": "I have *fond* memories of my first job.",
+     "vi": "Tôi có những kỷ niệm đẹp về công việc đầu tiên."
+    }
+   ]
+  },
+  {
+   "id": "emo_passion",
+   "word": "passion",
+   "pos": "noun",
+   "ipa": "/ˈpæʃn/",
+   "level": "B1",
+   "meaning": "niềm đam mê",
+   "definition": "a very strong feeling of liking something",
+   "collocations": [
+    "a passion for",
+    "follow your passion"
+   ],
+   "examples": [
+    {
+     "en": "He has a *passion* for photography.",
+     "vi": "Anh ấy có niềm đam mê nhiếp ảnh."
+    }
+   ]
+  },
+  {
+   "id": "emo_passionate",
+   "word": "passionate",
+   "pos": "adjective",
+   "ipa": "/ˈpæʃənət/",
+   "level": "B2",
+   "meaning": "say mê",
+   "definition": "having very strong feelings about something",
+   "collocations": [
+    "passionate about"
+   ],
+   "examples": [
+    {
+     "en": "We want people who are *passionate* about customer service.",
+     "vi": "Chúng tôi cần người đam mê dịch vụ khách hàng."
+    }
+   ]
+  },
+  {
+   "id": "emo_desire",
+   "word": "desire",
+   "pos": "noun",
+   "ipa": "/dɪˈzaɪər/",
+   "level": "B2",
+   "meaning": "mong muốn, khao khát",
+   "definition": "a strong wish",
+   "collocations": [
+    "a desire to",
+    "a strong desire"
+   ],
+   "examples": [
+    {
+     "en": "She has a strong *desire* to work abroad.",
+     "vi": "Cô ấy rất mong muốn làm việc ở nước ngoài."
+    }
+   ]
+  },
+  {
+   "id": "emo_anxious",
+   "word": "anxious",
+   "pos": "adjective",
+   "ipa": "/ˈæŋkʃəs/",
+   "level": "B2",
+   "meaning": "lo lắng; nóng lòng",
+   "definition": "worried; wanting something very much",
+   "collocations": [
+    "anxious about",
+    "anxious to"
+   ],
+   "examples": [
+    {
+     "en": "Many people feel *anxious* before an interview.",
+     "vi": "Nhiều người thấy lo lắng trước buổi phỏng vấn."
+    }
+   ]
+  },
+  {
+   "id": "emo_anger",
+   "word": "anger",
+   "pos": "noun",
+   "ipa": "/ˈæŋɡər/",
+   "level": "B2",
+   "meaning": "sự tức giận",
+   "definition": "a strong feeling of being upset and wanting to hurt",
+   "collocations": [
+    "in anger",
+    "express anger"
+   ],
+   "examples": [
+    {
+     "en": "Customers expressed *anger* over the price increase.",
+     "vi": "Khách hàng bày tỏ sự tức giận về việc tăng giá."
+    }
+   ]
+  },
+  {
+   "id": "emo_furious",
+   "word": "furious",
+   "pos": "adjective",
+   "ipa": "/ˈfjʊriəs/",
+   "level": "B2",
+   "meaning": "giận dữ",
+   "definition": "extremely angry",
+   "collocations": [
+    "furious with",
+    "furious about"
+   ],
+   "examples": [
+    {
+     "en": "He was *furious* about the delay.",
+     "vi": "Anh ấy giận dữ vì sự chậm trễ."
+    }
+   ]
+  },
+  {
+   "id": "emo_mad",
+   "word": "mad",
+   "pos": "adjective",
+   "ipa": "/mæd/",
+   "level": "B1",
+   "meaning": "tức giận; điên rồ",
+   "definition": "angry; crazy",
+   "collocations": [
+    "go mad",
+    "mad at"
+   ],
+   "examples": [
+    {
+     "en": "My boss will be *mad* if I'm late again.",
+     "vi": "Sếp sẽ nổi giận nếu tôi lại đến muộn."
+    }
+   ]
+  },
+  {
+   "id": "emo_annoy",
+   "word": "annoy",
+   "pos": "verb",
+   "ipa": "/əˈnɔɪ/",
+   "level": "B1",
+   "meaning": "làm phiền, làm bực mình",
+   "definition": "to make someone a little angry",
+   "collocations": [
+    "it annoys me when"
+   ],
+   "examples": [
+    {
+     "en": "It *annoys* me when people talk during films.",
+     "vi": "Tôi bực mình khi người khác nói chuyện trong lúc xem phim."
+    }
+   ]
+  },
+  {
+   "id": "emo_annoying",
+   "word": "annoying",
+   "pos": "adjective",
+   "ipa": "/əˈnɔɪɪŋ/",
+   "level": "B1",
+   "meaning": "gây khó chịu",
+   "definition": "making you feel a little angry",
+   "collocations": [
+    "an annoying noise",
+    "really annoying"
+   ],
+   "examples": [
+    {
+     "en": "The constant noise from the street is *annoying*.",
+     "vi": "Tiếng ồn liên tục từ ngoài đường thật khó chịu."
+    }
+   ]
+  },
+  {
+   "id": "emo_bother",
+   "word": "bother",
+   "pos": "verb",
+   "ipa": "/ˈbɑːðər/",
+   "level": "B1",
+   "meaning": "làm phiền; bận tâm",
+   "definition": "to annoy; to make the effort",
+   "collocations": [
+    "sorry to bother you",
+    "don't bother"
+   ],
+   "examples": [
+    {
+     "en": "Sorry to *bother* you, but could you help me?",
+     "vi": "Xin lỗi làm phiền, bạn giúp tôi được không?"
+    }
+   ]
+  },
+  {
+   "id": "emo_hate",
+   "word": "hate",
+   "pos": "verb",
+   "ipa": "/heɪt/",
+   "level": "B1",
+   "meaning": "ghét",
+   "definition": "to dislike very much",
+   "collocations": [
+    "hate doing",
+    "I'd hate to"
+   ],
+   "examples": [
+    {
+     "en": "I *hate* waiting in long queues.",
+     "vi": "Tôi ghét phải xếp hàng dài."
+    }
+   ]
+  },
+  {
+   "id": "emo_dislike",
+   "word": "dislike",
+   "pos": "verb",
+   "ipa": "/dɪsˈlaɪk/",
+   "level": "B1",
+   "meaning": "không thích",
+   "definition": "to not like",
+   "collocations": [
+    "dislike doing"
+   ],
+   "examples": [
+    {
+     "en": "Many people *dislike* speaking in public.",
+     "vi": "Nhiều người không thích nói trước đám đông."
+    }
+   ]
+  },
+  {
+   "id": "emo_fear",
+   "word": "fear",
+   "pos": "noun",
+   "ipa": "/fɪr/",
+   "level": "B1",
+   "meaning": "nỗi sợ",
+   "definition": "an unpleasant feeling caused by danger",
+   "collocations": [
+    "fear of",
+    "in fear"
+   ],
+   "examples": [
+    {
+     "en": "She has a *fear* of flying.",
+     "vi": "Cô ấy sợ đi máy bay."
+    }
+   ]
+  },
+  {
+   "id": "emo_frighten",
+   "word": "frighten",
+   "pos": "verb",
+   "ipa": "/ˈfraɪtn/",
+   "level": "B1",
+   "meaning": "làm hoảng sợ",
+   "definition": "to make someone afraid",
+   "collocations": [
+    "frighten someone"
+   ],
+   "examples": [
+    {
+     "en": "The loud noise *frightened* the children.",
+     "vi": "Tiếng động lớn làm bọn trẻ hoảng sợ."
+    }
+   ]
+  },
+  {
+   "id": "emo_frightened",
+   "word": "frightened",
+   "pos": "adjective",
+   "ipa": "/ˈfraɪtnd/",
+   "level": "B1",
+   "meaning": "sợ hãi",
+   "definition": "afraid",
+   "collocations": [
+    "frightened of",
+    "feel frightened"
+   ],
+   "examples": [
+    {
+     "en": "The puppy was *frightened* of the storm.",
+     "vi": "Chú chó con sợ cơn bão."
+    }
+   ]
+  },
+  {
+   "id": "emo_frightening",
+   "word": "frightening",
+   "pos": "adjective",
+   "ipa": "/ˈfraɪtnɪŋ/",
+   "level": "B1",
+   "meaning": "đáng sợ",
+   "definition": "making you afraid",
+   "collocations": [
+    "a frightening experience"
+   ],
+   "examples": [
+    {
+     "en": "Being stuck in the lift was a *frightening* experience.",
+     "vi": "Bị kẹt trong thang máy là một trải nghiệm đáng sợ."
+    }
+   ]
+  },
+  {
+   "id": "emo_scare",
+   "word": "scare",
+   "pos": "verb",
+   "ipa": "/sker/",
+   "level": "B2",
+   "meaning": "làm sợ",
+   "definition": "to frighten",
+   "collocations": [
+    "scare someone",
+    "be scared of"
+   ],
+   "examples": [
+    {
+     "en": "Sorry, I didn't mean to *scare* you.",
+     "vi": "Xin lỗi, tôi không định làm bạn sợ."
+    }
+   ]
+  },
+  {
+   "id": "emo_terrify",
+   "word": "terrify",
+   "pos": "verb",
+   "ipa": "/ˈterɪfaɪ/",
+   "level": "B2",
+   "meaning": "làm khiếp sợ",
+   "definition": "to frighten very much",
+   "collocations": [
+    "be terrified of"
+   ],
+   "examples": [
+    {
+     "en": "I'm *terrified* of spiders.",
+     "vi": "Tôi cực kỳ sợ nhện."
+    }
+   ]
+  },
+  {
+   "id": "emo_horrible",
+   "word": "horrible",
+   "pos": "adjective",
+   "ipa": "/ˈhɔːrəbl/",
+   "level": "B1",
+   "meaning": "kinh khủng",
+   "definition": "very bad or unpleasant",
+   "collocations": [
+    "a horrible day",
+    "horrible weather"
+   ],
+   "examples": [
+    {
+     "en": "We had *horrible* weather on our holiday.",
+     "vi": "Thời tiết trong kỳ nghỉ của chúng tôi thật tệ."
+    }
+   ]
+  },
+  {
+   "id": "emo_nightmare",
+   "word": "nightmare",
+   "pos": "noun",
+   "ipa": "/ˈnaɪtmer/",
+   "level": "B2",
+   "meaning": "ác mộng",
+   "definition": "a frightening dream; a very bad experience",
+   "collocations": [
+    "have a nightmare",
+    "a traffic nightmare"
+   ],
+   "examples": [
+    {
+     "en": "Getting to the airport was a *nightmare*.",
+     "vi": "Đi ra sân bay đúng là một cơn ác mộng."
+    }
+   ]
+  },
+  {
+   "id": "emo_disappoint",
+   "word": "disappoint",
+   "pos": "verb",
+   "ipa": "/ˌdɪsəˈpɔɪnt/",
+   "level": "B2",
+   "meaning": "làm thất vọng",
+   "definition": "to make someone sad because something is not as good as expected",
+   "collocations": [
+    "not disappoint",
+    "disappoint customers"
+   ],
+   "examples": [
+    {
+     "en": "The film didn't *disappoint*.",
+     "vi": "Bộ phim không làm khán giả thất vọng."
+    }
+   ]
+  },
+  {
+   "id": "emo_disappointing",
+   "word": "disappointing",
+   "pos": "adjective",
+   "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+   "level": "B1",
+   "meaning": "gây thất vọng",
+   "definition": "not as good as hoped",
+   "collocations": [
+    "disappointing results",
+    "disappointing sales"
+   ],
+   "examples": [
+    {
+     "en": "Sales this quarter were *disappointing*.",
+     "vi": "Doanh số quý này đáng thất vọng."
+    }
+   ]
+  },
+  {
+   "id": "emo_disappointment",
+   "word": "disappointment",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+   "level": "B2",
+   "meaning": "sự thất vọng",
+   "definition": "sadness because something is not as good as hoped",
+   "collocations": [
+    "to my disappointment",
+    "a big disappointment"
+   ],
+   "examples": [
+    {
+     "en": "The cancelled concert was a big *disappointment*.",
+     "vi": "Buổi hòa nhạc bị hủy là một nỗi thất vọng lớn."
+    }
+   ]
+  },
+  {
+   "id": "emo_depressed",
+   "word": "depressed",
+   "pos": "adjective",
+   "ipa": "/dɪˈprest/",
+   "level": "B2",
+   "meaning": "chán nản, trầm cảm",
+   "definition": "very sad and without hope",
+   "collocations": [
+    "feel depressed"
+   ],
+   "examples": [
+    {
+     "en": "He felt *depressed* after losing his job.",
+     "vi": "Anh ấy chán nản sau khi mất việc."
+    }
+   ]
+  },
+  {
+   "id": "emo_depressing",
+   "word": "depressing",
+   "pos": "adjective",
+   "ipa": "/dɪˈpresɪŋ/",
+   "level": "B2",
+   "meaning": "gây chán nản",
+   "definition": "making you feel sad",
+   "collocations": [
+    "depressing news",
+    "a depressing place"
+   ],
+   "examples": [
+    {
+     "en": "The rainy weather is so *depressing*.",
+     "vi": "Thời tiết mưa thật làm người ta chán nản."
+    }
+   ]
+  },
+  {
+   "id": "emo_miserable",
+   "word": "miserable",
+   "pos": "adjective",
+   "ipa": "/ˈmɪzrəbl/",
+   "level": "B2",
+   "meaning": "khổ sở, tồi tệ",
+   "definition": "very unhappy; very bad",
+   "collocations": [
+    "feel miserable",
+    "miserable weather"
+   ],
+   "examples": [
+    {
+     "en": "I felt *miserable* with a cold all week.",
+     "vi": "Tôi khổ sở vì cảm lạnh cả tuần."
+    }
+   ]
+  },
+  {
+   "id": "emo_lonely",
+   "word": "lonely",
+   "pos": "adjective",
+   "ipa": "/ˈloʊnli/",
+   "level": "B1",
+   "meaning": "cô đơn",
+   "definition": "unhappy because you are alone",
+   "collocations": [
+    "feel lonely",
+    "a lonely place"
+   ],
+   "examples": [
+    {
+     "en": "She felt *lonely* when she first moved to the city.",
+     "vi": "Cô ấy thấy cô đơn khi mới chuyển đến thành phố."
+    }
+   ]
+  },
+  {
+   "id": "emo_ashamed",
+   "word": "ashamed",
+   "pos": "adjective",
+   "ipa": "/əˈʃeɪmd/",
+   "level": "B2",
+   "meaning": "xấu hổ",
+   "definition": "feeling bad because you did something wrong",
+   "collocations": [
+    "ashamed of",
+    "feel ashamed"
+   ],
+   "examples": [
+    {
+     "en": "He was *ashamed* of his behaviour.",
+     "vi": "Anh ấy xấu hổ vì hành vi của mình."
+    }
+   ]
+  },
+  {
+   "id": "emo_shame",
+   "word": "shame",
+   "pos": "noun",
+   "ipa": "/ʃeɪm/",
+   "level": "B2",
+   "meaning": "sự xấu hổ; điều đáng tiếc",
+   "definition": "a bad feeling about something wrong; a pity",
+   "collocations": [
+    "what a shame",
+    "it's a shame that"
+   ],
+   "examples": [
+    {
+     "en": "What a *shame* you can't come to the party.",
+     "vi": "Tiếc quá bạn không đến bữa tiệc được."
+    }
+   ]
+  },
+  {
+   "id": "emo_embarrassing",
+   "word": "embarrassing",
+   "pos": "adjective",
+   "ipa": "/ɪmˈbærəsɪŋ/",
+   "level": "B1",
+   "meaning": "gây ngượng",
+   "definition": "making you feel shy or ashamed",
+   "collocations": [
+    "an embarrassing mistake",
+    "embarrassing moment"
+   ],
+   "examples": [
+    {
+     "en": "Calling my boss by the wrong name was so *embarrassing*.",
+     "vi": "Gọi nhầm tên sếp thật quá ngượng."
+    }
+   ]
+  },
+  {
+   "id": "emo_regret",
+   "word": "regret",
+   "pos": "verb",
+   "ipa": "/rɪˈɡret/",
+   "level": "B2",
+   "meaning": "hối tiếc",
+   "definition": "to feel sorry about something you did",
+   "collocations": [
+    "regret doing",
+    "we regret to inform you"
+   ],
+   "examples": [
+    {
+     "en": "We *regret* to inform you that the event has been cancelled.",
+     "vi": "Chúng tôi rất tiếc phải thông báo sự kiện đã bị hủy."
+    }
+   ],
+   "note": "Câu trang trọng hay gặp trong thư TOEIC."
+  },
+  {
+   "id": "emo_pity",
+   "word": "pity",
+   "pos": "noun",
+   "ipa": "/ˈpɪti/",
+   "level": "B2",
+   "meaning": "điều đáng tiếc; lòng thương",
+   "definition": "a feeling of sadness for someone; a shame",
+   "collocations": [
+    "what a pity",
+    "feel pity for"
+   ],
+   "examples": [
+    {
+     "en": "It's a *pity* the weather was so bad.",
+     "vi": "Thật đáng tiếc thời tiết lại tệ như vậy."
+    }
+   ]
+  },
+  {
+   "id": "emo_sympathy",
+   "word": "sympathy",
+   "pos": "noun",
+   "ipa": "/ˈsɪmpəθi/",
+   "level": "B2",
+   "meaning": "sự cảm thông",
+   "definition": "understanding of someone's problems",
+   "collocations": [
+    "have sympathy for",
+    "express sympathy"
+   ],
+   "examples": [
+    {
+     "en": "We have every *sympathy* for the people affected.",
+     "vi": "Chúng tôi vô cùng cảm thông với những người bị ảnh hưởng."
+    }
+   ]
+  },
+  {
+   "id": "emo_sympathetic",
+   "word": "sympathetic",
+   "pos": "adjective",
+   "ipa": "/ˌsɪmpəˈθetɪk/",
+   "level": "B2",
+   "meaning": "cảm thông",
+   "definition": "kind to someone who has problems",
+   "collocations": [
+    "a sympathetic listener",
+    "sympathetic to"
+   ],
+   "examples": [
+    {
+     "en": "My manager was very *sympathetic* when I was ill.",
+     "vi": "Quản lý rất thông cảm khi tôi bị ốm."
+    }
+   ]
+  },
+  {
+   "id": "emo_tension",
+   "word": "tension",
+   "pos": "noun",
+   "ipa": "/ˈtenʃn/",
+   "level": "B2",
+   "meaning": "sự căng thẳng",
+   "definition": "a feeling of worry or nervousness",
+   "collocations": [
+    "ease the tension",
+    "rising tension"
+   ],
+   "examples": [
+    {
+     "en": "There was a lot of *tension* in the meeting.",
+     "vi": "Cuộc họp rất căng thẳng."
+    }
+   ]
+  },
+  {
+   "id": "emo_pride",
+   "word": "pride",
+   "pos": "noun",
+   "ipa": "/praɪd/",
+   "level": "B2",
+   "meaning": "niềm tự hào",
+   "definition": "a feeling of pleasure about something you did",
+   "collocations": [
+    "take pride in",
+    "with pride"
+   ],
+   "examples": [
+    {
+     "en": "We take *pride* in our customer service.",
+     "vi": "Chúng tôi tự hào về dịch vụ khách hàng của mình."
+    }
+   ]
+  },
+  {
+   "id": "emo_sincere",
+   "word": "sincere",
+   "pos": "adjective",
+   "ipa": "/sɪnˈsɪr/",
+   "level": "B2",
+   "meaning": "chân thành",
+   "definition": "honest and true",
+   "collocations": [
+    "sincere apologies",
+    "sincere thanks"
+   ],
+   "examples": [
+    {
+     "en": "Please accept our *sincere* apologies.",
+     "vi": "Xin vui lòng nhận lời xin lỗi chân thành của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "emo_wonder",
+   "word": "wonder",
+   "pos": "verb",
+   "ipa": "/ˈwʌndər/",
+   "level": "B1",
+   "meaning": "tự hỏi; băn khoăn",
+   "definition": "to want to know something",
+   "collocations": [
+    "I wonder if",
+    "I was wondering whether"
+   ],
+   "examples": [
+    {
+     "en": "I was *wondering* if you could help me.",
+     "vi": "Không biết bạn có thể giúp tôi không."
+    }
+   ],
+   "note": "Cách hỏi rất lịch sự."
+  },
+  {
+   "id": "emo_weird",
+   "word": "weird",
+   "pos": "adjective",
+   "ipa": "/wɪrd/",
+   "level": "B2",
+   "meaning": "kỳ lạ",
+   "definition": "very strange",
+   "collocations": [
+    "a weird noise",
+    "that's weird"
+   ],
+   "examples": [
+    {
+     "en": "My laptop is making a *weird* noise.",
+     "vi": "Máy tính của tôi đang phát ra tiếng lạ."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

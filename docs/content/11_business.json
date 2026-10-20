@@ -1,0 +1,1112 @@
+{
+ "id": "business",
+ "order": 11,
+ "icon": "🏢",
+ "level": "B2",
+ "title": "Business & Companies",
+ "title_vi": "Doanh nghiệp & Công ty",
+ "description": "Công ty, chi nhánh, ngành nghề, sản xuất, đầu tư: nhóm từ xuất hiện dày đặc trong TOEIC Part 5–7.",
+ "words": [
+  {
+   "id": "biz_agency",
+   "word": "agency",
+   "pos": "noun",
+   "ipa": "/ˈeɪdʒənsi/",
+   "level": "B2",
+   "meaning": "công ty dịch vụ, đại lý; cơ quan",
+   "definition": "a business that provides a particular service",
+   "collocations": [
+    "travel agency",
+    "advertising agency",
+    "employment agency"
+   ],
+   "examples": [
+    {
+     "en": "We hired an advertising *agency* to design the new campaign.",
+     "vi": "Chúng tôi thuê một công ty quảng cáo để thiết kế chiến dịch mới."
+    }
+   ],
+   "note": "TOEIC hay gặp: recruitment agency, government agency."
+  },
+  {
+   "id": "biz_agent",
+   "word": "agent",
+   "pos": "noun",
+   "ipa": "/ˈeɪdʒənt/",
+   "level": "B1",
+   "meaning": "người đại diện, đại lý",
+   "definition": "a person who acts for another person or company",
+   "collocations": [
+    "sales agent",
+    "travel agent",
+    "real estate agent"
+   ],
+   "examples": [
+    {
+     "en": "Our *agent* in Singapore handles all orders from Asia.",
+     "vi": "Đại lý của chúng tôi ở Singapore xử lý mọi đơn hàng từ châu Á."
+    }
+   ]
+  },
+  {
+   "id": "biz_asset",
+   "word": "asset",
+   "pos": "noun",
+   "ipa": "/ˈæset/",
+   "level": "B2",
+   "meaning": "tài sản; người/vật có giá trị",
+   "definition": "something valuable that a company or person owns",
+   "collocations": [
+    "company assets",
+    "a valuable asset",
+    "fixed assets"
+   ],
+   "examples": [
+    {
+     "en": "Experienced staff are the company's greatest *asset*.",
+     "vi": "Nhân viên giàu kinh nghiệm là tài sản lớn nhất của công ty."
+    }
+   ],
+   "note": "Câu khen hay dùng: \"She is a real asset to the team.\""
+  },
+  {
+   "id": "biz_branch",
+   "word": "branch",
+   "pos": "noun",
+   "ipa": "/bræntʃ/",
+   "level": "B1",
+   "meaning": "chi nhánh",
+   "definition": "a local office or shop of a large company",
+   "collocations": [
+    "branch office",
+    "branch manager",
+    "open a new branch"
+   ],
+   "examples": [
+    {
+     "en": "The bank is opening a new *branch* downtown next month.",
+     "vi": "Ngân hàng sẽ mở một chi nhánh mới ở trung tâm vào tháng tới."
+    }
+   ]
+  },
+  {
+   "id": "biz_corporate",
+   "word": "corporate",
+   "pos": "adjective",
+   "ipa": "/ˈkɔːrpərət/",
+   "level": "B2",
+   "meaning": "thuộc công ty, doanh nghiệp",
+   "definition": "connected with a large company",
+   "collocations": [
+    "corporate client",
+    "corporate event",
+    "corporate headquarters"
+   ],
+   "examples": [
+    {
+     "en": "The hotel offers special rates for *corporate* clients.",
+     "vi": "Khách sạn có giá ưu đãi cho khách hàng doanh nghiệp."
+    }
+   ]
+  },
+  {
+   "id": "biz_corporation",
+   "word": "corporation",
+   "pos": "noun",
+   "ipa": "/ˌkɔːrpəˈreɪʃn/",
+   "level": "B2",
+   "meaning": "tập đoàn, công ty lớn",
+   "definition": "a large business company",
+   "collocations": [
+    "a multinational corporation",
+    "a large corporation"
+   ],
+   "examples": [
+    {
+     "en": "She works for a large technology *corporation*.",
+     "vi": "Cô ấy làm việc cho một tập đoàn công nghệ lớn."
+    }
+   ]
+  },
+  {
+   "id": "biz_firm",
+   "word": "firm",
+   "pos": "noun",
+   "ipa": "/fɜːrm/",
+   "level": "B2",
+   "meaning": "công ty, hãng",
+   "definition": "a business or company",
+   "collocations": [
+    "law firm",
+    "accounting firm",
+    "a small firm"
+   ],
+   "examples": [
+    {
+     "en": "He joined a law *firm* after graduating.",
+     "vi": "Anh ấy vào làm ở một công ty luật sau khi tốt nghiệp."
+    }
+   ],
+   "note": "Tính từ firm = chắc chắn (a firm decision)."
+  },
+  {
+   "id": "biz_headquarters",
+   "word": "headquarters",
+   "pos": "noun",
+   "ipa": "/ˈhedkwɔːrtərz/",
+   "level": "B2",
+   "meaning": "trụ sở chính",
+   "definition": "the main office of a company",
+   "collocations": [
+    "company headquarters",
+    "be based at headquarters"
+   ],
+   "examples": [
+    {
+     "en": "The company's *headquarters* is in Tokyo.",
+     "vi": "Trụ sở chính của công ty đặt tại Tokyo."
+    }
+   ],
+   "note": "Viết tắt: HQ. Dùng được với động từ số ít hoặc số nhiều."
+  },
+  {
+   "id": "biz_sector",
+   "word": "sector",
+   "pos": "noun",
+   "ipa": "/ˈsektər/",
+   "level": "B2",
+   "meaning": "ngành, khu vực kinh tế",
+   "definition": "a particular area of business or economic activity",
+   "collocations": [
+    "the private sector",
+    "the public sector",
+    "the service sector"
+   ],
+   "examples": [
+    {
+     "en": "Jobs in the service *sector* are growing quickly.",
+     "vi": "Việc làm trong ngành dịch vụ đang tăng nhanh."
+    }
+   ]
+  },
+  {
+   "id": "biz_industrial",
+   "word": "industrial",
+   "pos": "adjective",
+   "ipa": "/ɪnˈdʌstriəl/",
+   "level": "B2",
+   "meaning": "thuộc công nghiệp",
+   "definition": "connected with industry and factories",
+   "collocations": [
+    "industrial area",
+    "industrial production",
+    "industrial equipment"
+   ],
+   "examples": [
+    {
+     "en": "The factory is located in an *industrial* zone outside the city.",
+     "vi": "Nhà máy nằm trong khu công nghiệp ngoại thành."
+    }
+   ]
+  },
+  {
+   "id": "biz_entrepreneur",
+   "word": "entrepreneur",
+   "pos": "noun",
+   "ipa": "/ˌɑːntrəprəˈnɜːr/",
+   "level": "B2",
+   "meaning": "doanh nhân khởi nghiệp",
+   "definition": "a person who starts a business, often taking financial risks",
+   "collocations": [
+    "a young entrepreneur",
+    "a successful entrepreneur"
+   ],
+   "examples": [
+    {
+     "en": "The *entrepreneur* started her first company at 25.",
+     "vi": "Nữ doanh nhân thành lập công ty đầu tiên năm 25 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "biz_found",
+   "word": "found",
+   "pos": "verb",
+   "ipa": "/faʊnd/",
+   "level": "B2",
+   "meaning": "thành lập",
+   "definition": "to start an organization or company",
+   "collocations": [
+    "found a company",
+    "be founded in"
+   ],
+   "examples": [
+    {
+     "en": "The company was *founded* in 1998 by two engineers.",
+     "vi": "Công ty được thành lập năm 1998 bởi hai kỹ sư."
+    }
+   ],
+   "note": "Đừng nhầm với found (quá khứ của find). found – founded – founded."
+  },
+  {
+   "id": "biz_founder",
+   "word": "founder",
+   "pos": "noun",
+   "ipa": "/ˈfaʊndər/",
+   "level": "B2",
+   "meaning": "người sáng lập",
+   "definition": "a person who starts an organization",
+   "collocations": [
+    "the founder of the company",
+    "co-founder"
+   ],
+   "examples": [
+    {
+     "en": "The *founder* still visits the factory every week.",
+     "vi": "Người sáng lập vẫn đến thăm nhà máy mỗi tuần."
+    }
+   ]
+  },
+  {
+   "id": "biz_establish",
+   "word": "establish",
+   "pos": "verb",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "level": "B2",
+   "meaning": "thành lập; thiết lập",
+   "definition": "to start or create something that will last",
+   "collocations": [
+    "establish a business",
+    "establish a relationship",
+    "well-established"
+   ],
+   "examples": [
+    {
+     "en": "The firm *established* an office in Hanoi in 2015.",
+     "vi": "Công ty thành lập văn phòng ở Hà Nội năm 2015."
+    }
+   ]
+  },
+  {
+   "id": "biz_expand",
+   "word": "expand",
+   "pos": "verb",
+   "ipa": "/ɪkˈspænd/",
+   "level": "B1",
+   "meaning": "mở rộng",
+   "definition": "to become or make something bigger",
+   "collocations": [
+    "expand the business",
+    "expand into new markets"
+   ],
+   "examples": [
+    {
+     "en": "We plan to *expand* into the Southeast Asian market.",
+     "vi": "Chúng tôi dự định mở rộng sang thị trường Đông Nam Á."
+    }
+   ]
+  },
+  {
+   "id": "biz_expansion",
+   "word": "expansion",
+   "pos": "noun",
+   "ipa": "/ɪkˈspænʃn/",
+   "level": "B2",
+   "meaning": "sự mở rộng",
+   "definition": "the process of becoming bigger",
+   "collocations": [
+    "rapid expansion",
+    "business expansion",
+    "expansion plans"
+   ],
+   "examples": [
+    {
+     "en": "The board approved the *expansion* of the warehouse.",
+     "vi": "Hội đồng quản trị đã duyệt việc mở rộng nhà kho."
+    }
+   ]
+  },
+  {
+   "id": "biz_partnership",
+   "word": "partnership",
+   "pos": "noun",
+   "ipa": "/ˈpɑːrtnərʃɪp/",
+   "level": "B2",
+   "meaning": "sự hợp tác; công ty hợp danh",
+   "definition": "a relationship between companies working together",
+   "collocations": [
+    "form a partnership",
+    "in partnership with",
+    "business partnership"
+   ],
+   "examples": [
+    {
+     "en": "The two firms announced a *partnership* to develop electric cars.",
+     "vi": "Hai công ty công bố hợp tác phát triển xe điện."
+    }
+   ]
+  },
+  {
+   "id": "biz_ownership",
+   "word": "ownership",
+   "pos": "noun",
+   "ipa": "/ˈoʊnərʃɪp/",
+   "level": "B2",
+   "meaning": "quyền sở hữu",
+   "definition": "the fact of owning something",
+   "collocations": [
+    "under new ownership",
+    "home ownership"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant is now under new *ownership*.",
+     "vi": "Nhà hàng giờ đã thuộc chủ sở hữu mới."
+    }
+   ],
+   "note": "Biển hiệu hay gặp: \"Under new ownership\"."
+  },
+  {
+   "id": "biz_executive",
+   "word": "executive",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzekjətɪv/",
+   "level": "B2",
+   "meaning": "giám đốc điều hành, lãnh đạo",
+   "definition": "a person with an important job as a manager",
+   "collocations": [
+    "chief executive",
+    "senior executive",
+    "sales executive"
+   ],
+   "examples": [
+    {
+     "en": "A senior *executive* will visit our branch next week.",
+     "vi": "Một lãnh đạo cấp cao sẽ đến thăm chi nhánh tuần sau."
+    }
+   ],
+   "note": "CEO = chief executive officer."
+  },
+  {
+   "id": "biz_chief",
+   "word": "chief",
+   "pos": "adjective",
+   "ipa": "/tʃiːf/",
+   "level": "B2",
+   "meaning": "chính, đứng đầu",
+   "definition": "most important; highest in rank",
+   "collocations": [
+    "chief executive",
+    "chief financial officer",
+    "the chief reason"
+   ],
+   "examples": [
+    {
+     "en": "The *chief* financial officer presented the annual results.",
+     "vi": "Giám đốc tài chính trình bày kết quả cả năm."
+    }
+   ]
+  },
+  {
+   "id": "biz_board",
+   "word": "board",
+   "pos": "noun",
+   "ipa": "/bɔːrd/",
+   "level": "B1",
+   "meaning": "hội đồng quản trị, ban",
+   "definition": "a group of people who control a company",
+   "collocations": [
+    "board of directors",
+    "board meeting",
+    "on the board"
+   ],
+   "examples": [
+    {
+     "en": "The *board* of directors meets every quarter.",
+     "vi": "Hội đồng quản trị họp mỗi quý."
+    }
+   ]
+  },
+  {
+   "id": "biz_committee",
+   "word": "committee",
+   "pos": "noun",
+   "ipa": "/kəˈmɪti/",
+   "level": "B2",
+   "meaning": "ủy ban, ban",
+   "definition": "a group of people chosen to make decisions about something",
+   "collocations": [
+    "a planning committee",
+    "sit on a committee"
+   ],
+   "examples": [
+    {
+     "en": "The safety *committee* will review the new rules.",
+     "vi": "Ban an toàn sẽ xem xét các quy định mới."
+    }
+   ]
+  },
+  {
+   "id": "biz_operate",
+   "word": "operate",
+   "pos": "verb",
+   "ipa": "/ˈɑːpəreɪt/",
+   "level": "B2",
+   "meaning": "vận hành; hoạt động (kinh doanh)",
+   "definition": "to work or make a machine or business work",
+   "collocations": [
+    "operate a machine",
+    "operate in 20 countries"
+   ],
+   "examples": [
+    {
+     "en": "The company *operates* in more than 20 countries.",
+     "vi": "Công ty hoạt động tại hơn 20 quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "biz_operation",
+   "word": "operation",
+   "pos": "noun",
+   "ipa": "/ˌɑːpəˈreɪʃn/",
+   "level": "B1",
+   "meaning": "hoạt động; sự vận hành",
+   "definition": "an organized activity or business",
+   "collocations": [
+    "daily operations",
+    "in operation",
+    "business operations"
+   ],
+   "examples": [
+    {
+     "en": "The new factory will be in *operation* by June.",
+     "vi": "Nhà máy mới sẽ đi vào hoạt động trước tháng Sáu."
+    }
+   ]
+  },
+  {
+   "id": "biz_operator",
+   "word": "operator",
+   "pos": "noun",
+   "ipa": "/ˈɑːpəreɪtər/",
+   "level": "B2",
+   "meaning": "người vận hành; nhà khai thác",
+   "definition": "a person or company that runs a machine or business",
+   "collocations": [
+    "machine operator",
+    "tour operator",
+    "telephone operator"
+   ],
+   "examples": [
+    {
+     "en": "Only trained *operators* may use this equipment.",
+     "vi": "Chỉ người vận hành đã qua đào tạo mới được dùng thiết bị này."
+    }
+   ]
+  },
+  {
+   "id": "biz_manufacture",
+   "word": "manufacture",
+   "pos": "verb",
+   "ipa": "/ˌmænjuˈfæktʃər/",
+   "level": "B2",
+   "meaning": "sản xuất (quy mô lớn)",
+   "definition": "to make goods in large quantities using machines",
+   "collocations": [
+    "manufacture goods",
+    "manufactured in China"
+   ],
+   "examples": [
+    {
+     "en": "The company *manufactures* parts for cars.",
+     "vi": "Công ty sản xuất linh kiện ô tô."
+    }
+   ]
+  },
+  {
+   "id": "biz_manufacturing",
+   "word": "manufacturing",
+   "pos": "noun",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ/",
+   "level": "B2",
+   "meaning": "ngành sản xuất",
+   "definition": "the business of producing goods in large numbers",
+   "collocations": [
+    "manufacturing industry",
+    "manufacturing plant",
+    "manufacturing costs"
+   ],
+   "examples": [
+    {
+     "en": "*Manufacturing* costs have risen this year.",
+     "vi": "Chi phí sản xuất đã tăng trong năm nay."
+    }
+   ]
+  },
+  {
+   "id": "biz_producer",
+   "word": "producer",
+   "pos": "noun",
+   "ipa": "/prəˈduːsər/",
+   "level": "B1",
+   "meaning": "nhà sản xuất",
+   "definition": "a person or company that grows or makes goods",
+   "collocations": [
+    "a major producer",
+    "coffee producer",
+    "film producer"
+   ],
+   "examples": [
+    {
+     "en": "Vietnam is a major *producer* of coffee.",
+     "vi": "Việt Nam là nhà sản xuất cà phê lớn."
+    }
+   ]
+  },
+  {
+   "id": "biz_production",
+   "word": "production",
+   "pos": "noun",
+   "ipa": "/prəˈdʌkʃn/",
+   "level": "B1",
+   "meaning": "sự sản xuất; sản lượng",
+   "definition": "the process of making goods; the amount produced",
+   "collocations": [
+    "production line",
+    "increase production",
+    "mass production"
+   ],
+   "examples": [
+    {
+     "en": "*Production* will increase by 15% next year.",
+     "vi": "Sản lượng sẽ tăng 15% vào năm tới."
+    }
+   ]
+  },
+  {
+   "id": "biz_output",
+   "word": "output",
+   "pos": "noun",
+   "ipa": "/ˈaʊtpʊt/",
+   "level": "B2",
+   "meaning": "sản lượng, đầu ra",
+   "definition": "the amount that a person, machine or company produces",
+   "collocations": [
+    "increase output",
+    "daily output",
+    "industrial output"
+   ],
+   "examples": [
+    {
+     "en": "The new machines doubled our *output*.",
+     "vi": "Máy móc mới giúp tăng gấp đôi sản lượng."
+    }
+   ]
+  },
+  {
+   "id": "biz_workforce",
+   "word": "workforce",
+   "pos": "noun",
+   "ipa": "/ˈwɜːrkfɔːrs/",
+   "level": "B2",
+   "meaning": "lực lượng lao động",
+   "definition": "all the people who work for a company",
+   "collocations": [
+    "a skilled workforce",
+    "reduce the workforce"
+   ],
+   "examples": [
+    {
+     "en": "The company plans to train its entire *workforce*.",
+     "vi": "Công ty dự định đào tạo toàn bộ lực lượng lao động."
+    }
+   ]
+  },
+  {
+   "id": "biz_investment",
+   "word": "investment",
+   "pos": "noun",
+   "ipa": "/ɪnˈvestmənt/",
+   "level": "B2",
+   "meaning": "sự đầu tư; khoản đầu tư",
+   "definition": "putting money into something to make a profit",
+   "collocations": [
+    "a good investment",
+    "foreign investment",
+    "make an investment"
+   ],
+   "examples": [
+    {
+     "en": "The new software was a good *investment*.",
+     "vi": "Phần mềm mới là một khoản đầu tư đáng giá."
+    }
+   ]
+  },
+  {
+   "id": "biz_invest",
+   "word": "invest",
+   "pos": "verb",
+   "ipa": "/ɪnˈvest/",
+   "level": "B1",
+   "meaning": "đầu tư",
+   "definition": "to put money or time into something to get a benefit",
+   "collocations": [
+    "invest in",
+    "invest money",
+    "invest time"
+   ],
+   "examples": [
+    {
+     "en": "The company *invested* heavily in staff training.",
+     "vi": "Công ty đầu tư mạnh vào đào tạo nhân viên."
+    }
+   ],
+   "note": "Luôn đi với giới từ in."
+  },
+  {
+   "id": "biz_investor",
+   "word": "investor",
+   "pos": "noun",
+   "ipa": "/ɪnˈvestər/",
+   "level": "B2",
+   "meaning": "nhà đầu tư",
+   "definition": "a person or company that invests money",
+   "collocations": [
+    "foreign investors",
+    "attract investors"
+   ],
+   "examples": [
+    {
+     "en": "The project attracted several foreign *investors*.",
+     "vi": "Dự án thu hút nhiều nhà đầu tư nước ngoài."
+    }
+   ]
+  },
+  {
+   "id": "biz_profit",
+   "word": "profit",
+   "pos": "noun",
+   "ipa": "/ˈprɑːfɪt/",
+   "level": "B1",
+   "meaning": "lợi nhuận",
+   "definition": "money you make after paying costs",
+   "collocations": [
+    "make a profit",
+    "net profit",
+    "profit margin"
+   ],
+   "examples": [
+    {
+     "en": "The store made a small *profit* in its first year.",
+     "vi": "Cửa hàng có lãi nhỏ trong năm đầu."
+    }
+   ],
+   "note": "Ngược nghĩa: loss."
+  },
+  {
+   "id": "biz_revenue",
+   "word": "revenue",
+   "pos": "noun",
+   "ipa": "/ˈrevənuː/",
+   "level": "B2",
+   "meaning": "doanh thu",
+   "definition": "money a company receives from its business",
+   "collocations": [
+    "annual revenue",
+    "generate revenue",
+    "revenue growth"
+   ],
+   "examples": [
+    {
+     "en": "Online sales now account for half of our *revenue*.",
+     "vi": "Doanh số online giờ chiếm một nửa doanh thu."
+    }
+   ]
+  },
+  {
+   "id": "biz_trade",
+   "word": "trade",
+   "pos": "noun",
+   "ipa": "/treɪd/",
+   "level": "B1",
+   "meaning": "thương mại; ngành nghề",
+   "definition": "the buying and selling of goods",
+   "collocations": [
+    "international trade",
+    "trade fair",
+    "trade agreement"
+   ],
+   "examples": [
+    {
+     "en": "The two countries signed a *trade* agreement.",
+     "vi": "Hai nước ký một hiệp định thương mại."
+    }
+   ],
+   "note": "trade fair / trade show = hội chợ thương mại (rất hay gặp TOEIC)."
+  },
+  {
+   "id": "biz_trading",
+   "word": "trading",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdɪŋ/",
+   "level": "B2",
+   "meaning": "việc buôn bán, giao dịch",
+   "definition": "the activity of buying and selling",
+   "collocations": [
+    "trading hours",
+    "online trading",
+    "trading partner"
+   ],
+   "examples": [
+    {
+     "en": "Japan is one of our main *trading* partners.",
+     "vi": "Nhật Bản là một trong những đối tác thương mại chính của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "biz_retail",
+   "word": "retail",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪl/",
+   "level": "B2",
+   "meaning": "bán lẻ",
+   "definition": "the selling of goods to the public in shops",
+   "collocations": [
+    "retail store",
+    "retail price",
+    "retail sales"
+   ],
+   "examples": [
+    {
+     "en": "She has ten years of experience in *retail*.",
+     "vi": "Cô ấy có 10 năm kinh nghiệm trong ngành bán lẻ."
+    }
+   ],
+   "note": "Ngược với wholesale (bán sỉ)."
+  },
+  {
+   "id": "biz_goods",
+   "word": "goods",
+   "pos": "noun",
+   "ipa": "/ɡʊdz/",
+   "level": "B1",
+   "meaning": "hàng hóa",
+   "definition": "things that are made to be sold",
+   "collocations": [
+    "consumer goods",
+    "damaged goods",
+    "deliver goods"
+   ],
+   "examples": [
+    {
+     "en": "The *goods* will be delivered within three days.",
+     "vi": "Hàng sẽ được giao trong vòng ba ngày."
+    }
+   ],
+   "note": "Luôn ở dạng số nhiều."
+  },
+  {
+   "id": "biz_supply",
+   "word": "supply",
+   "pos": "noun",
+   "ipa": "/səˈplaɪ/",
+   "level": "B1",
+   "meaning": "nguồn cung; đồ dùng",
+   "definition": "an amount of something that is available to use",
+   "collocations": [
+    "office supplies",
+    "supply chain",
+    "in short supply"
+   ],
+   "examples": [
+    {
+     "en": "Please order more office *supplies* before Friday.",
+     "vi": "Vui lòng đặt thêm văn phòng phẩm trước thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "biz_stock",
+   "word": "stock",
+   "pos": "noun",
+   "ipa": "/stɑːk/",
+   "level": "B2",
+   "meaning": "hàng tồn kho; cổ phiếu",
+   "definition": "goods available for sale in a shop; shares in a company",
+   "collocations": [
+    "in stock",
+    "out of stock",
+    "stock market"
+   ],
+   "examples": [
+    {
+     "en": "This model is currently out of *stock*.",
+     "vi": "Mẫu này hiện đang hết hàng."
+    }
+   ]
+  },
+  {
+   "id": "biz_dealer",
+   "word": "dealer",
+   "pos": "noun",
+   "ipa": "/ˈdiːlər/",
+   "level": "B2",
+   "meaning": "đại lý, người buôn bán",
+   "definition": "a person or company that buys and sells a product",
+   "collocations": [
+    "car dealer",
+    "authorized dealer"
+   ],
+   "examples": [
+    {
+     "en": "Repairs must be done by an authorized *dealer*.",
+     "vi": "Việc sửa chữa phải do đại lý được ủy quyền thực hiện."
+    }
+   ]
+  },
+  {
+   "id": "biz_rival",
+   "word": "rival",
+   "pos": "noun",
+   "ipa": "/ˈraɪvl/",
+   "level": "B2",
+   "meaning": "đối thủ",
+   "definition": "a person or company competing with another",
+   "collocations": [
+    "a business rival",
+    "main rival"
+   ],
+   "examples": [
+    {
+     "en": "The company lost customers to its main *rival*.",
+     "vi": "Công ty mất khách hàng vào tay đối thủ chính."
+    }
+   ]
+  },
+  {
+   "id": "biz_competitor",
+   "word": "competitor",
+   "pos": "noun",
+   "ipa": "/kəmˈpetɪtər/",
+   "level": "B1",
+   "meaning": "đối thủ cạnh tranh",
+   "definition": "a company that competes with another",
+   "collocations": [
+    "main competitor",
+    "ahead of competitors"
+   ],
+   "examples": [
+    {
+     "en": "Our prices are lower than our *competitors'*.",
+     "vi": "Giá của chúng tôi thấp hơn đối thủ."
+    }
+   ]
+  },
+  {
+   "id": "biz_competitive",
+   "word": "competitive",
+   "pos": "adjective",
+   "ipa": "/kəmˈpetətɪv/",
+   "level": "B1",
+   "meaning": "có tính cạnh tranh",
+   "definition": "trying to be better than others; cheap compared with others",
+   "collocations": [
+    "competitive prices",
+    "competitive salary",
+    "highly competitive"
+   ],
+   "examples": [
+    {
+     "en": "We offer a *competitive* salary and good benefits.",
+     "vi": "Chúng tôi trả lương cạnh tranh và phúc lợi tốt."
+    }
+   ],
+   "note": "Rất hay gặp trong tin tuyển dụng."
+  },
+  {
+   "id": "biz_commercial",
+   "word": "commercial",
+   "pos": "adjective",
+   "ipa": "/kəˈmɜːrʃl/",
+   "level": "B1",
+   "meaning": "thuộc thương mại",
+   "definition": "connected with buying and selling",
+   "collocations": [
+    "commercial building",
+    "commercial success",
+    "commercial use"
+   ],
+   "examples": [
+    {
+     "en": "The building will be used for *commercial* purposes.",
+     "vi": "Tòa nhà sẽ được dùng cho mục đích thương mại."
+    }
+   ],
+   "note": "Danh từ commercial = quảng cáo trên TV."
+  },
+  {
+   "id": "biz_commission",
+   "word": "commission",
+   "pos": "noun",
+   "ipa": "/kəˈmɪʃn/",
+   "level": "B2",
+   "meaning": "tiền hoa hồng; ủy ban",
+   "definition": "money paid to someone for each sale they make",
+   "collocations": [
+    "earn commission",
+    "on commission",
+    "sales commission"
+   ],
+   "examples": [
+    {
+     "en": "Sales staff earn a 5% *commission* on each sale.",
+     "vi": "Nhân viên bán hàng nhận 5% hoa hồng mỗi lần bán."
+    }
+   ]
+  },
+  {
+   "id": "biz_deal",
+   "word": "deal",
+   "pos": "noun",
+   "ipa": "/diːl/",
+   "level": "B1",
+   "meaning": "thỏa thuận, giao dịch",
+   "definition": "a business agreement",
+   "collocations": [
+    "make a deal",
+    "close a deal",
+    "a good deal"
+   ],
+   "examples": [
+    {
+     "en": "We finally closed the *deal* with the Korean supplier.",
+     "vi": "Cuối cùng chúng tôi đã chốt thỏa thuận với nhà cung cấp Hàn Quốc."
+    }
+   ],
+   "note": "a great deal of = rất nhiều."
+  },
+  {
+   "id": "biz_agreement",
+   "word": "agreement",
+   "pos": "noun",
+   "ipa": "/əˈɡriːmənt/",
+   "level": "B1",
+   "meaning": "thỏa thuận, hợp đồng",
+   "definition": "an arrangement between people or companies",
+   "collocations": [
+    "sign an agreement",
+    "reach an agreement",
+    "licence agreement"
+   ],
+   "examples": [
+    {
+     "en": "Both sides signed the *agreement* yesterday.",
+     "vi": "Hai bên đã ký thỏa thuận hôm qua."
+    }
+   ]
+  },
+  {
+   "id": "biz_contract",
+   "word": "contract",
+   "pos": "noun",
+   "ipa": "/ˈkɑːntrækt/",
+   "level": "B2",
+   "meaning": "hợp đồng",
+   "definition": "a written legal agreement",
+   "collocations": [
+    "sign a contract",
+    "renew a contract",
+    "under contract"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *contract* carefully before signing.",
+     "vi": "Vui lòng đọc kỹ hợp đồng trước khi ký."
+    }
+   ]
+  },
+  {
+   "id": "biz_bid",
+   "word": "bid",
+   "pos": "noun",
+   "ipa": "/bɪd/",
+   "level": "B2",
+   "meaning": "sự trả giá; hồ sơ dự thầu",
+   "definition": "an offer to do work or pay a price",
+   "collocations": [
+    "submit a bid",
+    "win a bid",
+    "a bid for"
+   ],
+   "examples": [
+    {
+     "en": "Three companies submitted *bids* for the project.",
+     "vi": "Ba công ty đã nộp hồ sơ dự thầu cho dự án."
+    }
+   ]
+  },
+  {
+   "id": "biz_auction",
+   "word": "auction",
+   "pos": "noun",
+   "ipa": "/ˈɔːkʃn/",
+   "level": "B2",
+   "meaning": "cuộc đấu giá",
+   "definition": "a public sale where things go to the person who offers most",
+   "collocations": [
+    "at auction",
+    "online auction",
+    "auction house"
+   ],
+   "examples": [
+    {
+     "en": "The painting was sold at *auction* for $2 million.",
+     "vi": "Bức tranh được bán đấu giá với giá 2 triệu đô."
+    }
+   ]
+  },
+  {
+   "id": "biz_consultant",
+   "word": "consultant",
+   "pos": "noun",
+   "ipa": "/kənˈsʌltənt/",
+   "level": "B2",
+   "meaning": "chuyên viên tư vấn",
+   "definition": "a person who gives expert advice",
+   "collocations": [
+    "management consultant",
+    "IT consultant",
+    "hire a consultant"
+   ],
+   "examples": [
+    {
+     "en": "We hired a *consultant* to improve our sales process.",
+     "vi": "Chúng tôi thuê một chuyên gia tư vấn để cải thiện quy trình bán hàng."
+    }
+   ]
+  },
+  {
+   "id": "biz_management",
+   "word": "management",
+   "pos": "noun",
+   "ipa": "/ˈmænɪdʒmənt/",
+   "level": "B1",
+   "meaning": "sự quản lý; ban quản lý",
+   "definition": "the control of a business; the people who run it",
+   "collocations": [
+    "senior management",
+    "project management",
+    "management team"
+   ],
+   "examples": [
+    {
+     "en": "*Management* has decided to close the office on Fridays.",
+     "vi": "Ban quản lý đã quyết định đóng cửa văn phòng vào các ngày thứ Sáu."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

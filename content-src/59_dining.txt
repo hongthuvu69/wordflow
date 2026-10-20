@@ -1,0 +1,53 @@
+#id: toeic_dining
+#prefix: tdi
+#order: 59
+#icon: 🍽️
+#title: TOEIC: Restaurants & Catering
+#title_vi: TOEIC: Nhà hàng & Dịch vụ ăn uống
+#desc: Đặt bàn, gọi món, tiệc công ty, dịch vụ tiệc: chủ đề rất hay gặp trong Part 1 (bàn ăn), Part 3 và quảng cáo nhà hàng.
+catering | noun | /ˈkeɪtərɪŋ/ | dịch vụ cung cấp đồ ăn (tiệc) | providing food and drinks for events | catering company; catering service | We hired a *catering* company for the party. | Chúng tôi thuê công ty cung cấp đồ ăn cho bữa tiệc.
+cater | verb | /ˈkeɪtər/ | cung cấp đồ ăn; phục vụ (nhu cầu) | to provide food; to provide what is needed | cater for; cater to | We can *cater* for groups of up to 200 people. | Chúng tôi có thể phục vụ đoàn tới 200 người.
+caterer | noun | /ˈkeɪtərər/ | đơn vị cung cấp tiệc | a person or company providing food for events | hire a caterer | The *caterer* will arrive at 5 p.m. to set up. | Đơn vị cung cấp tiệc sẽ đến lúc 5 giờ chiều để chuẩn bị.
+banquet | noun | /ˈbæŋkwɪt/ | tiệc lớn, yến tiệc | a large formal meal | annual banquet; banquet hall | The annual awards *banquet* is in December. | Tiệc trao giải thường niên diễn ra vào tháng Mười Hai.
+buffet | noun | /bəˈfeɪ/ | tiệc tự chọn | a meal where guests serve themselves | breakfast buffet; buffet lunch | A *buffet* lunch will be served at noon. | Bữa trưa tự chọn sẽ được phục vụ vào buổi trưa.
+chef | noun | /ʃef/ | đầu bếp | a professional cook | head chef; executive chef | Our head *chef* trained in Paris. | Bếp trưởng của chúng tôi được đào tạo tại Paris.
+cuisine | noun | /kwɪˈziːn/ | ẩm thực | a style of cooking | Vietnamese cuisine; local cuisine | The restaurant serves traditional Italian *cuisine*. | Nhà hàng phục vụ ẩm thực Ý truyền thống.
+beverage | noun | /ˈbevərɪdʒ/ | đồ uống | a drink | hot beverages; food and beverage | Food and *beverages* are not allowed in the lab. | Không được mang đồ ăn uống vào phòng thí nghiệm.
+refreshments | noun | /rɪˈfreʃmənts/ | đồ ăn nhẹ và nước uống | light food and drinks | light refreshments will be served | Light *refreshments* will be served after the talk. | Đồ ăn nhẹ sẽ được phục vụ sau bài nói chuyện.
+course | noun | /kɔːrs/ | món (trong bữa ăn) | one part of a meal | main course; three-course meal | The main *course* is grilled fish. | Món chính là cá nướng.
+entrée | noun | /ˈɑːntreɪ/ | món chính (Anh-Mỹ) | the main dish of a meal | choose an entrée | Each guest can choose one *entrée*. | Mỗi khách có thể chọn một món chính.
+side dish | noun | /ˈsaɪd dɪʃ/ | món ăn kèm | food served with the main dish | a side dish of salad | The steak comes with two *side dishes*. | Bít tết kèm hai món phụ.
+specialty | noun | /ˈspeʃəlti/ | món đặc sản; chuyên môn | a dish a place is known for | house specialty; local specialty | The *specialty* of the house is grilled seafood. | Món đặc trưng của nhà hàng là hải sản nướng.
+special | noun | /ˈspeʃl/ | món đặc biệt (trong ngày) | a dish offered for a short time | today's special; lunch specials | What's today's *special*? | Món đặc biệt hôm nay là gì?
+set menu | noun | /ˌset ˈmenjuː/ | thực đơn cố định | a fixed meal at a fixed price | a three-course set menu | The *set menu* costs $25 per person. | Thực đơn cố định giá 25 đô mỗi người.
+book a table | verb | /ˌbʊk ə ˈteɪbl/ | đặt bàn | to reserve a table at a restaurant | book a table for four | I'd like to *book a table* for six at 7 p.m. | Tôi muốn đặt bàn sáu người lúc 7 giờ tối.
+party of | noun | /ˈpɑːrti əv/ | nhóm (bao nhiêu người) | a group of people | a party of eight | We have a reservation for a *party of* ten. | Chúng tôi đặt chỗ cho nhóm mười người.
+dietary | adjective | /ˈdaɪəteri/ | thuộc chế độ ăn | connected with the food you eat | dietary requirements; dietary restrictions | Please tell us about any *dietary* requirements. | Vui lòng cho chúng tôi biết các yêu cầu về chế độ ăn.
+gluten-free | adjective | /ˌɡluːtn ˈfriː/ | không chứa gluten | without gluten | gluten-free options | The menu includes *gluten-free* options. | Thực đơn có các lựa chọn không gluten.
+vegan | adjective | /ˈviːɡən/ | thuần chay | without any animal products | vegan dishes; vegan menu | Do you have any *vegan* dishes? | Nhà hàng có món thuần chay không?
+serve | verb | /sɜːrv/ | phục vụ; dọn món | to give food or drinks; to help customers | breakfast is served; serve customers | Breakfast is *served* from 6 to 10 a.m. | Bữa sáng được phục vụ từ 6 đến 10 giờ.
+server | noun | /ˈsɜːrvər/ | người phục vụ; máy chủ | a waiter or waitress; a central computer | ask your server | Please ask your *server* about today's desserts. | Vui lòng hỏi người phục vụ về món tráng miệng hôm nay.
+host stand | noun | /ˈhoʊst stænd/ | quầy đón khách (nhà hàng) | the place where a restaurant greets guests | wait at the host stand | Please wait at the *host stand* to be seated. | Vui lòng chờ ở quầy đón khách để được xếp chỗ.
+seating | noun | /ˈsiːtɪŋ/ | chỗ ngồi | the seats in a place | outdoor seating; seating plan | The café has outdoor *seating*. | Quán cà phê có chỗ ngồi ngoài trời.
+patio | noun | /ˈpætioʊ/ | hiên, sân ngoài | an outdoor area next to a building | on the patio | We had lunch on the *patio*. | Chúng tôi ăn trưa ngoài hiên.
+tablecloth | noun | /ˈteɪblklɔːθ/ | khăn trải bàn | a cloth covering a table | a white tablecloth | The tables are covered with white *tablecloths*. | Các bàn được trải khăn trắng.
+napkin | noun | /ˈnæpkɪn/ | khăn ăn | a piece of cloth or paper used while eating | paper napkins | A waiter is folding *napkins*. | Một người phục vụ đang gấp khăn ăn.
+utensils | noun | /juːˈtenslz/ | dụng cụ ăn uống/nấu ăn | knives, forks, spoons and kitchen tools | kitchen utensils | Plastic *utensils* are available at the counter. | Dụng cụ ăn bằng nhựa có ở quầy.
+tray | noun | /treɪ/ | khay | a flat object for carrying food or drinks | carry a tray | The waiter is carrying a *tray* of glasses. | Người phục vụ đang bưng khay ly.
+dine | verb | /daɪn/ | dùng bữa | to eat a meal, especially dinner | dine out; dine in | Would you like to *dine* in or take away? | Bạn muốn dùng tại chỗ hay mang đi?
+diner | noun | /ˈdaɪnər/ | thực khách; quán ăn bình dân | a person eating in a restaurant; a small cheap restaurant | diners enjoyed | *Diners* can enjoy live music on Fridays. | Thực khách có thể thưởng thức nhạc sống vào thứ Sáu.
+cafe | noun | /kæˈfeɪ/ | quán cà phê | a small restaurant serving drinks and light meals | a street cafe | Let's meet at the *cafe* near the office. | Gặp nhau ở quán cà phê gần văn phòng nhé.
+takeaway | noun | /ˈteɪkəweɪ/ | đồ ăn mang đi | food you buy to eat elsewhere | order a takeaway | We ordered a *takeaway* for lunch. | Chúng tôi gọi đồ ăn mang đi cho bữa trưa.
+pick up | verb | /ˌpɪk ˈʌp/ | lấy, đón | to collect | pick up an order; pick someone up | You can *pick up* your order at the counter. | Bạn có thể lấy đơn tại quầy.
+portion size | noun | /ˈpɔːrʃn saɪz/ | khẩu phần | how much food is served | large portion sizes | The *portion sizes* here are very generous. | Khẩu phần ở đây rất nhiều.
+grill | verb | /ɡrɪl/ | nướng (vỉ) | to cook over strong heat | grilled fish; grill meat | The fish is *grilled* with lemon and herbs. | Cá được nướng với chanh và thảo mộc.
+roast | verb | /roʊst/ | quay, nướng (lò) | to cook in an oven | roast chicken; roasted vegetables | We serve *roast* chicken on Sundays. | Chúng tôi phục vụ gà quay vào Chủ nhật.
+steam | verb | /stiːm/ | hấp | to cook with steam | steamed rice; steamed fish | *Steamed* fish is a healthy choice. | Cá hấp là lựa chọn tốt cho sức khỏe.
+seasonal | adjective | /ˈsiːzənl/ | theo mùa | available at a particular time of year | seasonal fruit; seasonal menu | The menu changes with *seasonal* ingredients. | Thực đơn thay đổi theo nguyên liệu theo mùa.
+locally sourced | adjective | /ˌloʊkəli ˈsɔːrst/ | có nguồn gốc địa phương | produced nearby | locally sourced ingredients | We use *locally sourced* vegetables. | Chúng tôi dùng rau củ có nguồn gốc địa phương.
+gratuity | noun | /ɡrəˈtuːəti/ | tiền boa (trang trọng) | money given for service | gratuity included | A 10% *gratuity* is included for large groups. | Nhóm đông người được tính kèm 10% tiền phục vụ.
+bill | verb | /bɪl/ | gửi hóa đơn | to send a bill to | be billed monthly | You will be *billed* at the end of the month. | Bạn sẽ nhận hóa đơn vào cuối tháng.
+split the bill | verb | /ˌsplɪt ðə ˈbɪl/ | chia hóa đơn | to divide the cost of a meal | split the bill three ways | Shall we *split the bill*? | Chúng ta chia hóa đơn nhé?
+food court | noun | /ˈfuːd kɔːrt/ | khu ẩm thực | an area with many food stalls | at the food court | There's a *food court* on the top floor of the mall. | Có khu ẩm thực trên tầng cao nhất của trung tâm thương mại.
+hygiene | noun | /ˈhaɪdʒiːn/ | vệ sinh | keeping things clean to stay healthy | food hygiene; personal hygiene | Kitchen staff must follow strict *hygiene* rules. | Nhân viên bếp phải tuân thủ quy tắc vệ sinh nghiêm ngặt.
+banquet manager | noun | /ˈbæŋkwɪt ˌmænɪdʒər/ | quản lý tiệc | a person who manages large events in a hotel | contact the banquet manager | The *banquet manager* will help you plan the menu. | Quản lý tiệc sẽ giúp bạn lên thực đơn.

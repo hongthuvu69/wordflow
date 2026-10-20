@@ -1,0 +1,71 @@
+#id: linking
+#prefix: lnk
+#order: 38
+#icon: 🔗
+#title: Linking Words & Adverbs
+#title_vi: Từ nối & Trạng từ quan trọng
+#desc: However, therefore, despite, whereas, unless…: nhóm từ quyết định điểm Part 5–6 và giúp viết/nói mạch lạc.
+however | adverb | /haʊˈevər/ | tuy nhiên | used to add a contrasting statement | However, …; however much | The hotel was expensive. *However*, the service was excellent. | Khách sạn đắt. Tuy nhiên, dịch vụ rất tuyệt. | Đứng đầu câu + dấu phẩy; không nối hai mệnh đề như but.
+nevertheless | adverb | /ˌnevərðəˈles/ | tuy vậy, dẫu sao | despite what has just been said | Nevertheless, … | The task was difficult; *nevertheless*, we finished on time. | Nhiệm vụ khó; tuy vậy, chúng tôi vẫn xong đúng hạn.
+therefore | adverb | /ˈðerfɔːr/ | vì vậy | for that reason | and therefore; therefore, … | The road is closed. *Therefore*, please use the side entrance. | Đường bị chặn. Vì vậy, vui lòng dùng lối vào bên hông.
+thus | adverb | /ðʌs/ | do đó; như vậy | as a result; in this way | thus far | The new system is faster and *thus* cheaper to run. | Hệ thống mới nhanh hơn và do đó rẻ hơn khi vận hành.
+hence | adverb | /hens/ | vì thế | for this reason | hence the name | The café is next to the river, *hence* its name, River Café. | Quán cà phê nằm cạnh sông, vì thế mới có tên River Café.
+consequently | adverb | /ˈkɑːnsəkwentli/ | kết quả là | as a result | Consequently, … | The flight was delayed. *Consequently*, I missed the meeting. | Chuyến bay bị trễ. Kết quả là tôi lỡ cuộc họp.
+consequence | noun | /ˈkɑːnsəkwens/ | hậu quả | a result of an action | as a consequence; serious consequences | Missing the deadline could have serious *consequences*. | Trễ hạn có thể gây hậu quả nghiêm trọng.
+furthermore | adverb | /ˌfɜːrðərˈmɔːr/ | hơn nữa | in addition | Furthermore, … | The apartment is cheap. *Furthermore*, it's close to the station. | Căn hộ rẻ. Hơn nữa, nó gần ga.
+moreover | adverb | /mɔːrˈoʊvər/ | hơn nữa, ngoài ra | in addition (formal) | Moreover, … | The plan is risky. *Moreover*, it is very expensive. | Kế hoạch rủi ro. Hơn nữa, nó rất tốn kém.
+additionally | adverb | /əˈdɪʃənəli/ | thêm vào đó | also; in addition | Additionally, … | *Additionally*, all staff will receive a bonus. | Thêm vào đó, toàn bộ nhân viên sẽ được thưởng.
+addition | noun | /əˈdɪʃn/ | sự thêm vào; người/vật mới thêm | the act of adding; a new person or thing | in addition to; a new addition | In *addition* to a salary, we offer free lunch. | Ngoài lương, chúng tôi còn có bữa trưa miễn phí. | in addition to + N/V-ing.
+additional | adjective | /əˈdɪʃənl/ | thêm, bổ sung | more than expected; extra | additional cost; additional information | For *additional* information, visit our website. | Để biết thêm thông tin, truy cập website của chúng tôi.
+besides | preposition | /bɪˈsaɪdz/ | ngoài ra; bên cạnh | in addition to | besides that | *Besides* English, she speaks Japanese. | Ngoài tiếng Anh, cô ấy còn nói tiếng Nhật. | Khác beside = bên cạnh (vị trí).
+beside | preposition | /bɪˈsaɪd/ | bên cạnh | next to | sit beside; beside the door | The printer is *beside* the window. | Máy in ở cạnh cửa sổ.
+despite | preposition | /dɪˈspaɪt/ | mặc dù | without being affected by | despite the rain; despite being | *Despite* the bad weather, the event was a success. | Dù thời tiết xấu, sự kiện vẫn thành công. | despite + danh từ / V-ing (không + mệnh đề).
+spite | noun | /spaɪt/ | (in spite of) mặc dù | used in "in spite of" | in spite of | In *spite* of the traffic, we arrived on time. | Mặc dù kẹt xe, chúng tôi vẫn đến đúng giờ.
+though | conjunction | /ðoʊ/ | mặc dù; tuy nhiên | although; however | even though; as though | *Though* it was late, the store was still busy. | Dù đã muộn, cửa hàng vẫn đông khách.
+whereas | conjunction | /ˌwerˈæz/ | trong khi (đối lập) | used to compare two different facts | whereas | Some staff prefer mornings, *whereas* others prefer evenings. | Một số nhân viên thích ca sáng, trong khi số khác thích ca tối.
+while | conjunction | /waɪl/ | trong khi; mặc dù | during the time that; although | while working; while I agree | *While* I agree with the idea, the cost is too high. | Dù tôi đồng ý với ý tưởng, chi phí quá cao.
+unless | conjunction | /ənˈles/ | trừ khi | except if | unless otherwise stated | You can't enter *unless* you have an ID card. | Bạn không thể vào trừ khi có thẻ nhân viên. | unless = if … not.
+otherwise | adverb | /ˈʌðərwaɪz/ | nếu không thì; khác | if not; differently | unless otherwise noted | Please book early; *otherwise*, there may be no seats. | Vui lòng đặt sớm, nếu không có thể hết chỗ.
+whether | conjunction | /ˈweðər/ | liệu…có…không | used to show a choice or doubt | whether or not; ask whether | Please let me know *whether* you can attend. | Vui lòng cho tôi biết liệu bạn có tham dự được không.
+except | preposition | /ɪkˈsept/ | ngoại trừ | not including | except for; except Sunday | The office is open every day *except* Sunday. | Văn phòng mở cửa hằng ngày trừ Chủ nhật.
+exception | noun | /ɪkˈsepʃn/ | ngoại lệ | something that does not follow the rule | with the exception of; make an exception | All staff, with the *exception* of managers, must clock in. | Mọi nhân viên, trừ quản lý, phải chấm công.
+apart | adverb | /əˈpɑːrt/ | cách xa; ngoài ra | separated by distance or time; except | apart from; far apart | *Apart* from the price, I like everything about it. | Ngoài giá cả, tôi thích mọi thứ ở nó.
+aside | adverb | /əˈsaɪd/ | sang một bên | to one side; for later use | aside from; put aside | We set *aside* $500 for emergencies. | Chúng tôi để riêng 500 đô cho trường hợp khẩn cấp.
+indeed | adverb | /ɪnˈdiːd/ | quả thật | used to emphasize or confirm | very … indeed; indeed | The results were *indeed* impressive. | Kết quả quả thật rất ấn tượng.
+meanwhile | adverb | /ˈmiːnwaɪl/ | trong khi đó | at the same time | in the meanwhile | The new office isn't ready. *Meanwhile*, we'll work from home. | Văn phòng mới chưa xong. Trong khi đó, chúng tôi làm việc tại nhà.
+eventually | adverb | /ɪˈventʃuəli/ | cuối cùng | after a long time | eventually agree | After many delays, the package *eventually* arrived. | Sau nhiều lần trễ, gói hàng cuối cùng cũng đến.
+ultimately | adverb | /ˈʌltɪmətli/ | rốt cuộc | in the end; most importantly | ultimately responsible | *Ultimately*, the decision is yours. | Rốt cuộc, quyết định là của bạn.
+ultimate | adjective | /ˈʌltɪmət/ | cuối cùng, tối thượng | final; the best | the ultimate goal; ultimate guide | Our *ultimate* goal is to become the market leader. | Mục tiêu tối thượng của chúng tôi là dẫn đầu thị trường.
+essentially | adverb | /ɪˈsenʃəli/ | về bản chất | basically | essentially the same | The two jobs are *essentially* the same. | Hai công việc về bản chất là giống nhau.
+basically | adverb | /ˈbeɪsɪkli/ | về cơ bản | in the most important ways | basically the same | *Basically*, we need more staff. | Về cơ bản, chúng ta cần thêm nhân sự.
+apparently | adverb | /əˈpærəntli/ | nghe nói là, có vẻ | according to what you have heard | apparently not | *Apparently*, the meeting has been cancelled. | Nghe nói cuộc họp đã bị hủy.
+apparent | adjective | /əˈpærənt/ | rõ ràng; có vẻ | easy to see; seeming real | it became apparent that; for no apparent reason | It soon became *apparent* that we needed help. | Rõ ràng chúng tôi cần sự giúp đỡ.
+obviously | adverb | /ˈɑːbviəsli/ | rõ ràng là | clearly | obviously not | *Obviously*, safety comes first. | Rõ ràng an toàn là trên hết.
+obvious | adjective | /ˈɑːbviəs/ | hiển nhiên | easy to see or understand | an obvious mistake; it's obvious that | The answer seemed *obvious*. | Câu trả lời có vẻ hiển nhiên.
+evident | adjective | /ˈevɪdənt/ | rõ ràng | clear | it is evident that | It was *evident* that she had prepared well. | Rõ ràng cô ấy đã chuẩn bị kỹ.
+surely | adverb | /ˈʃʊrli/ | chắc chắn là | used to show you are sure or surprised | surely not | *Surely* someone in the office knows the password. | Chắc chắn ai đó trong văn phòng biết mật khẩu.
+truly | adverb | /ˈtruːli/ | thực sự | sincerely; really | truly sorry; yours truly | We are *truly* sorry for the inconvenience. | Chúng tôi thực sự xin lỗi vì sự bất tiện.
+literally | adverb | /ˈlɪtərəli/ | theo nghĩa đen; thật sự | in the exact meaning; (informal) really | literally translated | I *literally* ran to the station. | Tôi đúng là đã chạy tới ga.
+simply | adverb | /ˈsɪmpli/ | đơn giản là | just; in an easy way | simply click; put simply | *Simply* click the link to register. | Chỉ cần nhấp vào đường dẫn để đăng ký.
+somehow | adverb | /ˈsʌmhaʊ/ | bằng cách nào đó | in a way that is not known | somehow manage | We *somehow* finished the project on time. | Bằng cách nào đó chúng tôi đã xong dự án đúng hạn.
+somewhat | adverb | /ˈsʌmwʌt/ | hơi, phần nào | to some degree | somewhat different; somewhat surprised | The results were *somewhat* disappointing. | Kết quả hơi đáng thất vọng.
+fairly | adverb | /ˈferli/ | khá; công bằng | quite; in a fair way | fairly easy; treat fairly | The test was *fairly* easy. | Bài kiểm tra khá dễ.
+hardly | adverb | /ˈhɑːrdli/ | hầu như không | almost not | hardly ever; hardly any | I *hardly* ever take a day off. | Tôi hầu như không bao giờ nghỉ phép. | Không nhầm với hard (chăm chỉ).
+barely | adverb | /ˈberli/ | vừa đủ, suýt không | only just; almost not | barely enough; barely make it | We *barely* had time to eat lunch. | Chúng tôi hầu như không có thời gian ăn trưa.
+nor | conjunction | /nɔːr/ | cũng không | used after neither or not | neither … nor | Neither the manager *nor* his assistant was available. | Cả quản lý lẫn trợ lý đều không có mặt.
+neither | determiner | /ˈniːðər/ | không cái nào (trong hai) | not one or the other of two | neither of; neither … nor | *Neither* option is perfect. | Không lựa chọn nào hoàn hảo. | Động từ chia theo danh từ gần nor nhất.
+via | preposition | /ˈvaɪə/ | qua, thông qua | through a place or by means of | via e-mail; fly via Singapore | Please send the file *via* e-mail. | Vui lòng gửi tệp qua e-mail.
+upon | preposition | /əˈpɑːn/ | khi; trên (trang trọng) | on; immediately after | upon arrival; upon request | Payment is due *upon* receipt of the invoice. | Thanh toán ngay khi nhận hóa đơn.
+within | preposition | /wɪˈðɪn/ | trong vòng; bên trong | inside a period or area | within 24 hours; within the company | We will reply *within* two business days. | Chúng tôi sẽ trả lời trong vòng hai ngày làm việc.
+throughout | preposition | /θruːˈaʊt/ | khắp; suốt | in every part of; during the whole time | throughout the year; throughout the building | Free Wi-Fi is available *throughout* the hotel. | Có Wi-Fi miễn phí khắp khách sạn.
+beyond | preposition | /bɪˈjɑːnd/ | vượt quá; bên kia | further than; outside the limits of | beyond our control; beyond expectations | The delay was due to circumstances *beyond* our control. | Sự chậm trễ do hoàn cảnh ngoài tầm kiểm soát của chúng tôi.
+till | conjunction | /tɪl/ | cho đến khi | until | till late; from 9 till 5 | The shop is open *till* 10 p.m. | Cửa hàng mở đến 10 giờ tối.
+once | conjunction | /wʌns/ | một khi | as soon as; when | once you finish | *Once* you receive the code, enter it on the website. | Một khi nhận được mã, hãy nhập nó trên website.
+since | conjunction | /sɪns/ | vì; kể từ | because; from a time in the past | since then; ever since | *Since* you're here, can you help me with this? | Vì bạn đang ở đây, giúp tôi việc này được không?
+so-called | adjective | /ˌsoʊ ˈkɔːld/ | cái gọi là | used to show that a name is not suitable | the so-called experts | The *so-called* "free" gift cost me $10 in shipping. | Món quà cái gọi là "miễn phí" tốn của tôi 10 đô phí ship.
+whatever | pronoun | /wʌtˈevər/ | bất cứ điều gì | anything or everything | whatever you want; whatever happens | We'll do *whatever* we can to help. | Chúng tôi sẽ làm mọi điều có thể để giúp.
+whenever | conjunction | /wenˈevər/ | bất cứ khi nào | at any time that | whenever possible | Call me *whenever* you need help. | Gọi tôi bất cứ khi nào bạn cần giúp.
+wherever | conjunction | /werˈevər/ | bất cứ đâu | in any place | wherever possible | You can work *wherever* you like. | Bạn có thể làm việc ở bất cứ đâu bạn thích.
+whoever | pronoun | /huːˈevər/ | bất cứ ai | any person who | whoever wins | *Whoever* arrives first should open the office. | Ai đến trước thì mở cửa văn phòng.
+whom | pronoun | /huːm/ | người mà (tân ngữ) | used instead of "who" as an object | to whom; with whom | To *whom* should I send the report? | Tôi nên gửi báo cáo cho ai? | Part 5: whom sau giới từ hoặc làm tân ngữ.
+ought | modal verb | /ɔːt/ | nên | should | ought to | You *ought* to check the contract before signing. | Bạn nên kiểm tra hợp đồng trước khi ký.

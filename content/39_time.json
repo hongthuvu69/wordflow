@@ -1,0 +1,951 @@
+{
+ "id": "time",
+ "order": 39,
+ "icon": "⏰",
+ "level": "B2",
+ "title": "Time & Frequency",
+ "title_vi": "Thời gian & Tần suất",
+ "description": "Trước – sau, ban đầu – về sau, thường xuyên – thỉnh thoảng: dấu hiệu chia thì trong Part 5 và đọc lịch trình.",
+ "words": [
+  {
+   "id": "tim_afterwards",
+   "word": "afterwards",
+   "pos": "adverb",
+   "ipa": "/ˈæftərwərdz/",
+   "level": "B2",
+   "meaning": "sau đó",
+   "definition": "later; after something",
+   "collocations": [
+    "shortly afterwards"
+   ],
+   "examples": [
+    {
+     "en": "We had a meeting and went to lunch *afterwards*.",
+     "vi": "Chúng tôi họp rồi sau đó đi ăn trưa."
+    }
+   ]
+  },
+  {
+   "id": "tim_formerly",
+   "word": "formerly",
+   "pos": "adverb",
+   "ipa": "/ˈfɔːrmərli/",
+   "level": "B2",
+   "meaning": "trước đây",
+   "definition": "in the past",
+   "collocations": [
+    "formerly known as"
+   ],
+   "examples": [
+    {
+     "en": "The hotel was *formerly* a factory.",
+     "vi": "Khách sạn trước đây là một nhà máy."
+    }
+   ]
+  },
+  {
+   "id": "tim_former",
+   "word": "former",
+   "pos": "adjective",
+   "ipa": "/ˈfɔːrmər/",
+   "level": "B2",
+   "meaning": "cũ, trước đây",
+   "definition": "from an earlier time",
+   "collocations": [
+    "former employee",
+    "former manager"
+   ],
+   "examples": [
+    {
+     "en": "She is a *former* employee of our company.",
+     "vi": "Cô ấy là nhân viên cũ của công ty chúng tôi."
+    }
+   ],
+   "note": "the former … the latter = cái trước … cái sau."
+  },
+  {
+   "id": "tim_lately",
+   "word": "lately",
+   "pos": "adverb",
+   "ipa": "/ˈleɪtli/",
+   "level": "B2",
+   "meaning": "gần đây",
+   "definition": "recently",
+   "collocations": [
+    "have been busy lately"
+   ],
+   "examples": [
+    {
+     "en": "I've been very busy *lately*.",
+     "vi": "Gần đây tôi rất bận."
+    }
+   ]
+  },
+  {
+   "id": "tim_newly",
+   "word": "newly",
+   "pos": "adverb",
+   "ipa": "/ˈnuːli/",
+   "level": "B2",
+   "meaning": "mới (vừa)",
+   "definition": "recently",
+   "collocations": [
+    "newly opened",
+    "newly built"
+   ],
+   "examples": [
+    {
+     "en": "We had lunch at the *newly* opened restaurant.",
+     "vi": "Chúng tôi ăn trưa ở nhà hàng mới khai trương."
+    }
+   ]
+  },
+  {
+   "id": "tim_nowadays",
+   "word": "nowadays",
+   "pos": "adverb",
+   "ipa": "/ˈnaʊədeɪz/",
+   "level": "B2",
+   "meaning": "ngày nay",
+   "definition": "at the present time",
+   "collocations": [
+    "Nowadays, …"
+   ],
+   "examples": [
+    {
+     "en": "*Nowadays*, most people shop online.",
+     "vi": "Ngày nay, hầu hết mọi người mua sắm trực tuyến."
+    }
+   ]
+  },
+  {
+   "id": "tim_overnight",
+   "word": "overnight",
+   "pos": "adverb",
+   "ipa": "/ˌoʊvərˈnaɪt/",
+   "level": "B2",
+   "meaning": "qua đêm; chỉ sau một đêm",
+   "definition": "during the night; suddenly",
+   "collocations": [
+    "stay overnight",
+    "overnight delivery"
+   ],
+   "examples": [
+    {
+     "en": "The package will be delivered *overnight*.",
+     "vi": "Gói hàng sẽ được giao trong đêm."
+    }
+   ]
+  },
+  {
+   "id": "tim_previous",
+   "word": "previous",
+   "pos": "adjective",
+   "ipa": "/ˈpriːviəs/",
+   "level": "B1",
+   "meaning": "trước đó",
+   "definition": "happening before",
+   "collocations": [
+    "previous experience",
+    "the previous day"
+   ],
+   "examples": [
+    {
+     "en": "*Previous* experience is not required.",
+     "vi": "Không yêu cầu kinh nghiệm trước đó."
+    }
+   ]
+  },
+  {
+   "id": "tim_previously",
+   "word": "previously",
+   "pos": "adverb",
+   "ipa": "/ˈpriːviəsli/",
+   "level": "B1",
+   "meaning": "trước đây",
+   "definition": "before",
+   "collocations": [
+    "as previously mentioned"
+   ],
+   "examples": [
+    {
+     "en": "As *previously* mentioned, the office will close at 3 p.m.",
+     "vi": "Như đã đề cập trước đó, văn phòng sẽ đóng cửa lúc 3 giờ chiều."
+    }
+   ]
+  },
+  {
+   "id": "tim_prior",
+   "word": "prior",
+   "pos": "adjective",
+   "ipa": "/ˈpraɪər/",
+   "level": "B2",
+   "meaning": "trước",
+   "definition": "happening before",
+   "collocations": [
+    "prior to",
+    "prior experience",
+    "prior notice"
+   ],
+   "examples": [
+    {
+     "en": "Please arrive 30 minutes *prior* to the start.",
+     "vi": "Vui lòng đến 30 phút trước khi bắt đầu."
+    }
+   ],
+   "note": "prior to = before (trang trọng, rất hay gặp TOEIC)."
+  },
+  {
+   "id": "tim_shortly",
+   "word": "shortly",
+   "pos": "adverb",
+   "ipa": "/ˈʃɔːrtli/",
+   "level": "B2",
+   "meaning": "sắp, không lâu nữa",
+   "definition": "soon",
+   "collocations": [
+    "shortly after",
+    "shortly before"
+   ],
+   "examples": [
+    {
+     "en": "The train will arrive *shortly*.",
+     "vi": "Tàu sẽ đến trong ít phút nữa."
+    }
+   ]
+  },
+  {
+   "id": "tim_sometime",
+   "word": "sometime",
+   "pos": "adverb",
+   "ipa": "/ˈsʌmtaɪm/",
+   "level": "B2",
+   "meaning": "vào lúc nào đó",
+   "definition": "at a time not known",
+   "collocations": [
+    "sometime next week"
+   ],
+   "examples": [
+    {
+     "en": "Let's meet *sometime* next week.",
+     "vi": "Tuần sau mình gặp nhau lúc nào đó nhé."
+    }
+   ]
+  },
+  {
+   "id": "tim_subsequent",
+   "word": "subsequent",
+   "pos": "adjective",
+   "ipa": "/ˈsʌbsɪkwənt/",
+   "level": "B2",
+   "meaning": "tiếp theo, sau đó",
+   "definition": "happening after something",
+   "collocations": [
+    "subsequent years",
+    "subsequent to"
+   ],
+   "examples": [
+    {
+     "en": "Sales rose in *subsequent* months.",
+     "vi": "Doanh số tăng trong những tháng sau đó."
+    }
+   ]
+  },
+  {
+   "id": "tim_subsequently",
+   "word": "subsequently",
+   "pos": "adverb",
+   "ipa": "/ˈsʌbsɪkwəntli/",
+   "level": "B2",
+   "meaning": "sau đó",
+   "definition": "afterwards",
+   "collocations": [
+    "was subsequently"
+   ],
+   "examples": [
+    {
+     "en": "He joined as an intern and was *subsequently* hired.",
+     "vi": "Anh ấy vào làm thực tập rồi sau đó được tuyển chính thức."
+    }
+   ]
+  },
+  {
+   "id": "tim_initial",
+   "word": "initial",
+   "pos": "adjective",
+   "ipa": "/ɪˈnɪʃl/",
+   "level": "B2",
+   "meaning": "ban đầu",
+   "definition": "happening at the beginning",
+   "collocations": [
+    "initial stage",
+    "initial cost"
+   ],
+   "examples": [
+    {
+     "en": "The *initial* cost is high, but it saves money later.",
+     "vi": "Chi phí ban đầu cao nhưng về sau tiết kiệm."
+    }
+   ]
+  },
+  {
+   "id": "tim_initially",
+   "word": "initially",
+   "pos": "adverb",
+   "ipa": "/ɪˈnɪʃəli/",
+   "level": "B2",
+   "meaning": "lúc đầu",
+   "definition": "at the beginning",
+   "collocations": [
+    "initially planned"
+   ],
+   "examples": [
+    {
+     "en": "*Initially*, the project was planned for six months.",
+     "vi": "Lúc đầu dự án được lên kế hoạch sáu tháng."
+    }
+   ]
+  },
+  {
+   "id": "tim_instant",
+   "word": "instant",
+   "pos": "adjective",
+   "ipa": "/ˈɪnstənt/",
+   "level": "B2",
+   "meaning": "ngay lập tức; ăn liền",
+   "definition": "happening immediately",
+   "collocations": [
+    "instant access",
+    "instant coffee",
+    "instant message"
+   ],
+   "examples": [
+    {
+     "en": "Members get *instant* access to all videos.",
+     "vi": "Hội viên được truy cập ngay mọi video."
+    }
+   ]
+  },
+  {
+   "id": "tim_instantly",
+   "word": "instantly",
+   "pos": "adverb",
+   "ipa": "/ˈɪnstəntli/",
+   "level": "B2",
+   "meaning": "ngay lập tức",
+   "definition": "immediately",
+   "collocations": [
+    "instantly recognizable"
+   ],
+   "examples": [
+    {
+     "en": "The app updates *instantly*.",
+     "vi": "Ứng dụng cập nhật ngay lập tức."
+    }
+   ]
+  },
+  {
+   "id": "tim_immediate",
+   "word": "immediate",
+   "pos": "adjective",
+   "ipa": "/ɪˈmiːdiət/",
+   "level": "B1",
+   "meaning": "ngay lập tức; trực tiếp",
+   "definition": "happening now; nearest",
+   "collocations": [
+    "immediate action",
+    "immediate supervisor"
+   ],
+   "examples": [
+    {
+     "en": "Please report to your *immediate* supervisor.",
+     "vi": "Vui lòng báo cáo cho người giám sát trực tiếp."
+    }
+   ]
+  },
+  {
+   "id": "tim_frequent",
+   "word": "frequent",
+   "pos": "adjective",
+   "ipa": "/ˈfriːkwənt/",
+   "level": "B2",
+   "meaning": "thường xuyên",
+   "definition": "happening often",
+   "collocations": [
+    "frequent flyer",
+    "frequent visitor"
+   ],
+   "examples": [
+    {
+     "en": "*Frequent* customers receive a loyalty card.",
+     "vi": "Khách hàng thường xuyên nhận thẻ thành viên."
+    }
+   ]
+  },
+  {
+   "id": "tim_frequently",
+   "word": "frequently",
+   "pos": "adverb",
+   "ipa": "/ˈfriːkwəntli/",
+   "level": "B1",
+   "meaning": "thường xuyên",
+   "definition": "often",
+   "collocations": [
+    "frequently asked questions (FAQ)"
+   ],
+   "examples": [
+    {
+     "en": "Please read the *frequently* asked questions first.",
+     "vi": "Vui lòng đọc phần câu hỏi thường gặp trước."
+    }
+   ]
+  },
+  {
+   "id": "tim_frequency",
+   "word": "frequency",
+   "pos": "noun",
+   "ipa": "/ˈfriːkwənsi/",
+   "level": "B2",
+   "meaning": "tần suất",
+   "definition": "how often something happens",
+   "collocations": [
+    "increase the frequency"
+   ],
+   "examples": [
+    {
+     "en": "The *frequency* of buses will increase in summer.",
+     "vi": "Tần suất xe buýt sẽ tăng vào mùa hè."
+    }
+   ]
+  },
+  {
+   "id": "tim_occasionally",
+   "word": "occasionally",
+   "pos": "adverb",
+   "ipa": "/əˈkeɪʒnəli/",
+   "level": "B2",
+   "meaning": "thỉnh thoảng",
+   "definition": "sometimes but not often",
+   "collocations": [
+    "only occasionally"
+   ],
+   "examples": [
+    {
+     "en": "I *occasionally* work on Saturdays.",
+     "vi": "Thỉnh thoảng tôi làm việc vào thứ Bảy."
+    }
+   ]
+  },
+  {
+   "id": "tim_occasion",
+   "word": "occasion",
+   "pos": "noun",
+   "ipa": "/əˈkeɪʒn/",
+   "level": "B1",
+   "meaning": "dịp",
+   "definition": "a special event; a particular time",
+   "collocations": [
+    "special occasion",
+    "on occasion"
+   ],
+   "examples": [
+    {
+     "en": "The restaurant is perfect for special *occasions*.",
+     "vi": "Nhà hàng rất phù hợp cho các dịp đặc biệt."
+    }
+   ]
+  },
+  {
+   "id": "tim_regularly",
+   "word": "regularly",
+   "pos": "adverb",
+   "ipa": "/ˈreɡjələrli/",
+   "level": "B1",
+   "meaning": "đều đặn",
+   "definition": "often and at regular times",
+   "collocations": [
+    "regularly check",
+    "meet regularly"
+   ],
+   "examples": [
+    {
+     "en": "Please check your e-mail *regularly*.",
+     "vi": "Vui lòng kiểm tra e-mail thường xuyên."
+    }
+   ]
+  },
+  {
+   "id": "tim_constant",
+   "word": "constant",
+   "pos": "adjective",
+   "ipa": "/ˈkɑːnstənt/",
+   "level": "B2",
+   "meaning": "liên tục, không đổi",
+   "definition": "happening all the time; staying the same",
+   "collocations": [
+    "constant noise",
+    "constant temperature"
+   ],
+   "examples": [
+    {
+     "en": "Keep the medicine at a *constant* temperature.",
+     "vi": "Bảo quản thuốc ở nhiệt độ ổn định."
+    }
+   ]
+  },
+  {
+   "id": "tim_constantly",
+   "word": "constantly",
+   "pos": "adverb",
+   "ipa": "/ˈkɑːnstəntli/",
+   "level": "B2",
+   "meaning": "liên tục",
+   "definition": "all the time",
+   "collocations": [
+    "constantly changing",
+    "constantly improve"
+   ],
+   "examples": [
+    {
+     "en": "Technology is *constantly* changing.",
+     "vi": "Công nghệ liên tục thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "tim_continuous",
+   "word": "continuous",
+   "pos": "adjective",
+   "ipa": "/kənˈtɪnjuəs/",
+   "level": "B1",
+   "meaning": "liên tục",
+   "definition": "without stopping",
+   "collocations": [
+    "continuous improvement",
+    "continuous growth"
+   ],
+   "examples": [
+    {
+     "en": "We believe in *continuous* improvement.",
+     "vi": "Chúng tôi tin vào cải tiến liên tục."
+    }
+   ]
+  },
+  {
+   "id": "tim_consistent",
+   "word": "consistent",
+   "pos": "adjective",
+   "ipa": "/kənˈsɪstənt/",
+   "level": "B2",
+   "meaning": "nhất quán, ổn định",
+   "definition": "always the same",
+   "collocations": [
+    "consistent quality",
+    "consistent with"
+   ],
+   "examples": [
+    {
+     "en": "The hotel offers *consistent* quality in every branch.",
+     "vi": "Khách sạn có chất lượng đồng đều ở mọi chi nhánh."
+    }
+   ]
+  },
+  {
+   "id": "tim_consistently",
+   "word": "consistently",
+   "pos": "adverb",
+   "ipa": "/kənˈsɪstəntli/",
+   "level": "B2",
+   "meaning": "luôn luôn, nhất quán",
+   "definition": "in the same way every time",
+   "collocations": [
+    "consistently high"
+   ],
+   "examples": [
+    {
+     "en": "Her work is *consistently* excellent.",
+     "vi": "Công việc của cô ấy luôn xuất sắc."
+    }
+   ]
+  },
+  {
+   "id": "tim_ongoing",
+   "word": "ongoing",
+   "pos": "adjective",
+   "ipa": "/ˈɑːnɡoʊɪŋ/",
+   "level": "B2",
+   "meaning": "đang diễn ra",
+   "definition": "continuing",
+   "collocations": [
+    "ongoing project",
+    "ongoing training"
+   ],
+   "examples": [
+    {
+     "en": "Training is *ongoing* throughout the year.",
+     "vi": "Việc đào tạo diễn ra suốt năm."
+    }
+   ]
+  },
+  {
+   "id": "tim_long_term",
+   "word": "long-term",
+   "pos": "adjective",
+   "ipa": "/ˌlɔːŋ ˈtɜːrm/",
+   "level": "B2",
+   "meaning": "dài hạn",
+   "definition": "lasting a long time",
+   "collocations": [
+    "long-term goals",
+    "long-term contract"
+   ],
+   "examples": [
+    {
+     "en": "We are looking for a *long-term* partner.",
+     "vi": "Chúng tôi đang tìm đối tác lâu dài."
+    }
+   ]
+  },
+  {
+   "id": "tim_short_term",
+   "word": "short-term",
+   "pos": "adjective",
+   "ipa": "/ˌʃɔːrt ˈtɜːrm/",
+   "level": "B2",
+   "meaning": "ngắn hạn",
+   "definition": "lasting a short time",
+   "collocations": [
+    "short-term contract",
+    "short-term solution"
+   ],
+   "examples": [
+    {
+     "en": "This is only a *short-term* solution.",
+     "vi": "Đây chỉ là giải pháp ngắn hạn."
+    }
+   ]
+  },
+  {
+   "id": "tim_lifetime",
+   "word": "lifetime",
+   "pos": "noun",
+   "ipa": "/ˈlaɪftaɪm/",
+   "level": "B2",
+   "meaning": "cả đời",
+   "definition": "the time a person lives",
+   "collocations": [
+    "once in a lifetime",
+    "lifetime warranty"
+   ],
+   "examples": [
+    {
+     "en": "The product comes with a *lifetime* warranty.",
+     "vi": "Sản phẩm được bảo hành trọn đời."
+    }
+   ]
+  },
+  {
+   "id": "tim_duration",
+   "word": "duration",
+   "pos": "noun",
+   "ipa": "/duˈreɪʃn/",
+   "level": "B2",
+   "meaning": "khoảng thời gian",
+   "definition": "the length of time something lasts",
+   "collocations": [
+    "for the duration of",
+    "duration of the contract"
+   ],
+   "examples": [
+    {
+     "en": "Please stay seated for the *duration* of the flight.",
+     "vi": "Vui lòng ngồi yên trong suốt chuyến bay."
+    }
+   ]
+  },
+  {
+   "id": "tim_interval",
+   "word": "interval",
+   "pos": "noun",
+   "ipa": "/ˈɪntərvl/",
+   "level": "B2",
+   "meaning": "khoảng thời gian giữa; giờ giải lao",
+   "definition": "a period between two events",
+   "collocations": [
+    "at regular intervals",
+    "a 15-minute interval"
+   ],
+   "examples": [
+    {
+     "en": "Buses run at 10-minute *intervals*.",
+     "vi": "Xe buýt chạy cách nhau 10 phút."
+    }
+   ]
+  },
+  {
+   "id": "tim_timing",
+   "word": "timing",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmɪŋ/",
+   "level": "B2",
+   "meaning": "sự chọn thời điểm",
+   "definition": "choosing when something happens",
+   "collocations": [
+    "good timing",
+    "perfect timing"
+   ],
+   "examples": [
+    {
+     "en": "The *timing* of the launch is very important.",
+     "vi": "Thời điểm ra mắt rất quan trọng."
+    }
+   ]
+  },
+  {
+   "id": "tim_timeline",
+   "word": "timeline",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmlaɪn/",
+   "level": "B2",
+   "meaning": "dòng thời gian, tiến độ",
+   "definition": "a plan showing when things will happen",
+   "collocations": [
+    "project timeline",
+    "tight timeline"
+   ],
+   "examples": [
+    {
+     "en": "Here is the *timeline* for the project.",
+     "vi": "Đây là tiến độ của dự án."
+    }
+   ]
+  },
+  {
+   "id": "tim_monthly",
+   "word": "monthly",
+   "pos": "adjective",
+   "ipa": "/ˈmʌnθli/",
+   "level": "B2",
+   "meaning": "hằng tháng",
+   "definition": "happening every month",
+   "collocations": [
+    "monthly meeting",
+    "monthly fee"
+   ],
+   "examples": [
+    {
+     "en": "There is a *monthly* fee of $10.",
+     "vi": "Có phí hằng tháng là 10 đô."
+    }
+   ]
+  },
+  {
+   "id": "tim_weekly",
+   "word": "weekly",
+   "pos": "adjective",
+   "ipa": "/ˈwiːkli/",
+   "level": "B2",
+   "meaning": "hằng tuần",
+   "definition": "happening every week",
+   "collocations": [
+    "weekly report",
+    "weekly meeting"
+   ],
+   "examples": [
+    {
+     "en": "Please send your *weekly* report every Friday.",
+     "vi": "Vui lòng gửi báo cáo tuần vào mỗi thứ Sáu."
+    }
+   ]
+  },
+  {
+   "id": "tim_daily",
+   "word": "daily",
+   "pos": "adjective",
+   "ipa": "/ˈdeɪli/",
+   "level": "B1",
+   "meaning": "hằng ngày",
+   "definition": "happening every day",
+   "collocations": [
+    "daily routine",
+    "daily newspaper"
+   ],
+   "examples": [
+    {
+     "en": "The museum offers *daily* tours.",
+     "vi": "Bảo tàng có tour tham quan hằng ngày."
+    }
+   ]
+  },
+  {
+   "id": "tim_forever",
+   "word": "forever",
+   "pos": "adverb",
+   "ipa": "/fərˈevər/",
+   "level": "B1",
+   "meaning": "mãi mãi",
+   "definition": "for all time",
+   "collocations": [
+    "last forever",
+    "take forever"
+   ],
+   "examples": [
+    {
+     "en": "The download is taking *forever*.",
+     "vi": "Tải xuống mãi không xong."
+    }
+   ]
+  },
+  {
+   "id": "tim_sudden",
+   "word": "sudden",
+   "pos": "adjective",
+   "ipa": "/ˈsʌdn/",
+   "level": "B1",
+   "meaning": "đột ngột",
+   "definition": "happening quickly and unexpectedly",
+   "collocations": [
+    "a sudden change",
+    "all of a sudden"
+   ],
+   "examples": [
+    {
+     "en": "There was a *sudden* change in plans.",
+     "vi": "Kế hoạch thay đổi đột ngột."
+    }
+   ]
+  },
+  {
+   "id": "tim_precede",
+   "word": "precede",
+   "pos": "verb",
+   "ipa": "/prɪˈsiːd/",
+   "level": "B2",
+   "meaning": "đến trước",
+   "definition": "to happen before",
+   "collocations": [
+    "be preceded by"
+   ],
+   "examples": [
+    {
+     "en": "The meeting will be *preceded* by a short lunch.",
+     "vi": "Trước cuộc họp sẽ có bữa trưa nhẹ."
+    }
+   ]
+  },
+  {
+   "id": "tim_sequence",
+   "word": "sequence",
+   "pos": "noun",
+   "ipa": "/ˈsiːkwəns/",
+   "level": "B2",
+   "meaning": "trình tự",
+   "definition": "a series of things in order",
+   "collocations": [
+    "in sequence",
+    "sequence of events"
+   ],
+   "examples": [
+    {
+     "en": "Please follow the steps in *sequence*.",
+     "vi": "Vui lòng làm theo các bước theo thứ tự."
+    }
+   ]
+  },
+  {
+   "id": "tim_upcoming",
+   "word": "upcoming",
+   "pos": "adjective",
+   "ipa": "/ˈʌpkʌmɪŋ/",
+   "level": "C1",
+   "meaning": "sắp tới",
+   "definition": "happening soon",
+   "collocations": [
+    "upcoming event",
+    "upcoming meeting"
+   ],
+   "examples": [
+    {
+     "en": "Please register for the *upcoming* conference.",
+     "vi": "Vui lòng đăng ký hội nghị sắp tới."
+    }
+   ]
+  },
+  {
+   "id": "tim_recently",
+   "word": "recently",
+   "pos": "adverb",
+   "ipa": "/ˈriːsntli/",
+   "level": "A2",
+   "meaning": "gần đây",
+   "definition": "not long ago",
+   "collocations": [
+    "until recently",
+    "recently opened"
+   ],
+   "examples": [
+    {
+     "en": "The company *recently* opened an office in Da Nang.",
+     "vi": "Công ty mới mở văn phòng ở Đà Nẵng."
+    }
+   ]
+  },
+  {
+   "id": "tim_punctual",
+   "word": "punctual",
+   "pos": "adjective",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "level": "TOEIC",
+   "meaning": "đúng giờ",
+   "definition": "arriving at the right time",
+   "collocations": [
+    "be punctual"
+   ],
+   "examples": [
+    {
+     "en": "Please be *punctual* for all meetings.",
+     "vi": "Vui lòng đúng giờ trong mọi cuộc họp."
+    }
+   ]
+  },
+  {
+   "id": "tim_overdue",
+   "word": "overdue",
+   "pos": "adjective",
+   "ipa": "/ˌoʊvərˈduː/",
+   "level": "TOEIC",
+   "meaning": "quá hạn",
+   "definition": "not done or paid by the expected time",
+   "collocations": [
+    "overdue payment",
+    "overdue books"
+   ],
+   "examples": [
+    {
+     "en": "Your payment is two weeks *overdue*.",
+     "vi": "Khoản thanh toán của bạn đã quá hạn hai tuần."
+    }
+   ]
+  },
+  {
+   "id": "tim_in_advance",
+   "word": "in advance",
+   "pos": "adverb",
+   "ipa": "/ɪn ədˈvæns/",
+   "level": "TOEIC",
+   "meaning": "trước (thời hạn)",
+   "definition": "before a particular time",
+   "collocations": [
+    "book in advance",
+    "pay in advance"
+   ],
+   "examples": [
+    {
+     "en": "Please book at least two days *in advance*.",
+     "vi": "Vui lòng đặt trước ít nhất hai ngày."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}

@@ -1,0 +1,889 @@
+{
+ "id": "body",
+ "order": 23,
+ "icon": "🧍",
+ "level": "B2",
+ "title": "Body & Appearance",
+ "title_vi": "Cơ thể & Ngoại hình",
+ "description": "Bộ phận cơ thể, trang phục, vẻ ngoài: hữu ích cho Part 1 (mô tả người) và giao tiếp hằng ngày.",
+ "words": [
+  {
+   "id": "bod_chest",
+   "word": "chest",
+   "pos": "noun",
+   "ipa": "/tʃest/",
+   "level": "B1",
+   "meaning": "ngực",
+   "definition": "the front part of the body between neck and stomach",
+   "collocations": [
+    "chest pain",
+    "across the chest"
+   ],
+   "examples": [
+    {
+     "en": "He felt a pain in his *chest*.",
+     "vi": "Anh ấy thấy đau ở ngực."
+    }
+   ]
+  },
+  {
+   "id": "bod_breast",
+   "word": "breast",
+   "pos": "noun",
+   "ipa": "/brest/",
+   "level": "B2",
+   "meaning": "vú; ức (gà)",
+   "definition": "part of a woman's chest; meat from a bird's chest",
+   "collocations": [
+    "chicken breast",
+    "breast cancer"
+   ],
+   "examples": [
+    {
+     "en": "I'll have the grilled chicken *breast*.",
+     "vi": "Tôi gọi món ức gà nướng."
+    }
+   ]
+  },
+  {
+   "id": "bod_lung",
+   "word": "lung",
+   "pos": "noun",
+   "ipa": "/lʌŋ/",
+   "level": "B2",
+   "meaning": "phổi",
+   "definition": "one of the two organs used for breathing",
+   "collocations": [
+    "lung cancer",
+    "lung disease"
+   ],
+   "examples": [
+    {
+     "en": "Smoking damages your *lungs*.",
+     "vi": "Hút thuốc làm hại phổi."
+    }
+   ]
+  },
+  {
+   "id": "bod_organ",
+   "word": "organ",
+   "pos": "noun",
+   "ipa": "/ˈɔːrɡən/",
+   "level": "B2",
+   "meaning": "cơ quan (cơ thể); đàn organ",
+   "definition": "a part of the body with a special job",
+   "collocations": [
+    "internal organs",
+    "organ donor"
+   ],
+   "examples": [
+    {
+     "en": "The heart is a vital *organ*.",
+     "vi": "Tim là một cơ quan sống còn."
+    }
+   ]
+  },
+  {
+   "id": "bod_muscle",
+   "word": "muscle",
+   "pos": "noun",
+   "ipa": "/ˈmʌsl/",
+   "level": "B1",
+   "meaning": "cơ bắp",
+   "definition": "tissue in the body that produces movement",
+   "collocations": [
+    "pull a muscle",
+    "build muscle"
+   ],
+   "examples": [
+    {
+     "en": "I pulled a *muscle* in my leg.",
+     "vi": "Tôi bị căng cơ ở chân."
+    }
+   ],
+   "note": "Chữ c câm."
+  },
+  {
+   "id": "bod_nerve",
+   "word": "nerve",
+   "pos": "noun",
+   "ipa": "/nɜːrv/",
+   "level": "B2",
+   "meaning": "dây thần kinh; sự can đảm",
+   "definition": "a fibre that sends messages in the body; courage",
+   "collocations": [
+    "nerve damage",
+    "lose your nerve",
+    "get on my nerves"
+   ],
+   "examples": [
+    {
+     "en": "The noise is getting on my *nerves*.",
+     "vi": "Tiếng ồn làm tôi phát bực."
+    }
+   ]
+  },
+  {
+   "id": "bod_skull",
+   "word": "skull",
+   "pos": "noun",
+   "ipa": "/skʌl/",
+   "level": "B2",
+   "meaning": "hộp sọ",
+   "definition": "the bones of the head",
+   "collocations": [
+    "fractured skull"
+   ],
+   "examples": [
+    {
+     "en": "The helmet protects your *skull*.",
+     "vi": "Mũ bảo hiểm bảo vệ hộp sọ của bạn."
+    }
+   ]
+  },
+  {
+   "id": "bod_throat",
+   "word": "throat",
+   "pos": "noun",
+   "ipa": "/θroʊt/",
+   "level": "B1",
+   "meaning": "cổ họng",
+   "definition": "the passage at the back of the mouth",
+   "collocations": [
+    "sore throat",
+    "clear your throat"
+   ],
+   "examples": [
+    {
+     "en": "He cleared his *throat* before speaking.",
+     "vi": "Anh ấy hắng giọng trước khi nói."
+    }
+   ]
+  },
+  {
+   "id": "bod_tongue",
+   "word": "tongue",
+   "pos": "noun",
+   "ipa": "/tʌŋ/",
+   "level": "B1",
+   "meaning": "cái lưỡi; ngôn ngữ",
+   "definition": "the soft part in the mouth; a language",
+   "collocations": [
+    "mother tongue",
+    "on the tip of my tongue"
+   ],
+   "examples": [
+    {
+     "en": "His name is on the tip of my *tongue*.",
+     "vi": "Tên anh ấy ở ngay đầu lưỡi tôi (sắp nhớ ra)."
+    }
+   ]
+  },
+  {
+   "id": "bod_lip",
+   "word": "lip",
+   "pos": "noun",
+   "ipa": "/lɪp/",
+   "level": "B1",
+   "meaning": "môi",
+   "definition": "the edge of the mouth",
+   "collocations": [
+    "upper lip",
+    "bite your lip"
+   ],
+   "examples": [
+    {
+     "en": "She bit her *lip* nervously.",
+     "vi": "Cô ấy cắn môi lo lắng."
+    }
+   ]
+  },
+  {
+   "id": "bod_cheek",
+   "word": "cheek",
+   "pos": "noun",
+   "ipa": "/tʃiːk/",
+   "level": "B2",
+   "meaning": "má",
+   "definition": "the side of the face below the eye",
+   "collocations": [
+    "kiss on the cheek",
+    "red cheeks"
+   ],
+   "examples": [
+    {
+     "en": "She kissed him on the *cheek*.",
+     "vi": "Cô ấy hôn lên má anh."
+    }
+   ]
+  },
+  {
+   "id": "bod_elbow",
+   "word": "elbow",
+   "pos": "noun",
+   "ipa": "/ˈelboʊ/",
+   "level": "B2",
+   "meaning": "khuỷu tay",
+   "definition": "the joint in the middle of the arm",
+   "collocations": [
+    "bend your elbow",
+    "elbow injury"
+   ],
+   "examples": [
+    {
+     "en": "Don't put your *elbows* on the table.",
+     "vi": "Đừng chống khuỷu tay lên bàn."
+    }
+   ]
+  },
+  {
+   "id": "bod_wrist",
+   "word": "wrist",
+   "pos": "noun",
+   "ipa": "/rɪst/",
+   "level": "B2",
+   "meaning": "cổ tay",
+   "definition": "the joint between the hand and arm",
+   "collocations": [
+    "wrist watch",
+    "sprain your wrist"
+   ],
+   "examples": [
+    {
+     "en": "She wears a watch on her left *wrist*.",
+     "vi": "Cô ấy đeo đồng hồ ở cổ tay trái."
+    }
+   ]
+  },
+  {
+   "id": "bod_palm",
+   "word": "palm",
+   "pos": "noun",
+   "ipa": "/pɑːm/",
+   "level": "B2",
+   "meaning": "lòng bàn tay; cây cọ",
+   "definition": "the inside of the hand; a tropical tree",
+   "collocations": [
+    "palm tree",
+    "in the palm of your hand"
+   ],
+   "examples": [
+    {
+     "en": "*Palm* trees line the beach.",
+     "vi": "Hàng cây cọ chạy dọc bãi biển."
+    }
+   ]
+  },
+  {
+   "id": "bod_thumb",
+   "word": "thumb",
+   "pos": "noun",
+   "ipa": "/θʌm/",
+   "level": "B2",
+   "meaning": "ngón tay cái",
+   "definition": "the short thick finger",
+   "collocations": [
+    "thumbs up",
+    "rule of thumb"
+   ],
+   "examples": [
+    {
+     "en": "As a rule of *thumb*, arrive 15 minutes early.",
+     "vi": "Theo kinh nghiệm chung, hãy đến sớm 15 phút."
+    }
+   ],
+   "note": "Chữ b câm."
+  },
+  {
+   "id": "bod_toe",
+   "word": "toe",
+   "pos": "noun",
+   "ipa": "/toʊ/",
+   "level": "B1",
+   "meaning": "ngón chân",
+   "definition": "one of the five parts at the end of the foot",
+   "collocations": [
+    "big toe",
+    "on your toes"
+   ],
+   "examples": [
+    {
+     "en": "I hurt my big *toe*.",
+     "vi": "Tôi bị đau ngón chân cái."
+    }
+   ]
+  },
+  {
+   "id": "bod_heel",
+   "word": "heel",
+   "pos": "noun",
+   "ipa": "/hiːl/",
+   "level": "B2",
+   "meaning": "gót chân; gót giày",
+   "definition": "the back part of the foot or shoe",
+   "collocations": [
+    "high heels",
+    "heel pain"
+   ],
+   "examples": [
+    {
+     "en": "She can't walk far in high *heels*.",
+     "vi": "Cô ấy không đi xa được bằng giày cao gót."
+    }
+   ]
+  },
+  {
+   "id": "bod_hip",
+   "word": "hip",
+   "pos": "noun",
+   "ipa": "/hɪp/",
+   "level": "B2",
+   "meaning": "hông",
+   "definition": "the side of the body below the waist",
+   "collocations": [
+    "hip injury",
+    "hands on hips"
+   ],
+   "examples": [
+    {
+     "en": "My grandmother had a *hip* operation.",
+     "vi": "Bà tôi đã mổ hông."
+    }
+   ]
+  },
+  {
+   "id": "bod_tissue",
+   "word": "tissue",
+   "pos": "noun",
+   "ipa": "/ˈtɪʃuː/",
+   "level": "B2",
+   "meaning": "mô (cơ thể); khăn giấy",
+   "definition": "the cells forming an animal or plant; a soft paper",
+   "collocations": [
+    "a box of tissues",
+    "body tissue"
+   ],
+   "examples": [
+    {
+     "en": "Could you pass me a *tissue*?",
+     "vi": "Bạn đưa tôi tờ khăn giấy được không?"
+    }
+   ]
+  },
+  {
+   "id": "bod_pale",
+   "word": "pale",
+   "pos": "adjective",
+   "ipa": "/peɪl/",
+   "level": "B1",
+   "meaning": "nhợt nhạt; nhạt màu",
+   "definition": "having less colour than usual",
+   "collocations": [
+    "look pale",
+    "pale blue"
+   ],
+   "examples": [
+    {
+     "en": "You look *pale*. Are you OK?",
+     "vi": "Trông bạn nhợt nhạt quá. Bạn ổn chứ?"
+    }
+   ]
+  },
+  {
+   "id": "bod_naked",
+   "word": "naked",
+   "pos": "adjective",
+   "ipa": "/ˈneɪkɪd/",
+   "level": "B2",
+   "meaning": "trần truồng; trần trụi",
+   "definition": "not wearing clothes; not covered",
+   "collocations": [
+    "with the naked eye"
+   ],
+   "examples": [
+    {
+     "en": "The planet can be seen with the *naked* eye.",
+     "vi": "Có thể nhìn thấy hành tinh này bằng mắt thường."
+    }
+   ]
+  },
+  {
+   "id": "bod_bent",
+   "word": "bent",
+   "pos": "adjective",
+   "ipa": "/bent/",
+   "level": "B2",
+   "meaning": "cong, cúi",
+   "definition": "not straight",
+   "collocations": [
+    "bent over",
+    "a bent nail"
+   ],
+   "examples": [
+    {
+     "en": "The man was *bent* over his desk, reading.",
+     "vi": "Người đàn ông cúi xuống bàn đọc sách."
+    }
+   ],
+   "note": "Part 1 hay gặp: bend over = cúi người."
+  },
+  {
+   "id": "bod_bend",
+   "word": "bend",
+   "pos": "verb",
+   "ipa": "/bend/",
+   "level": "B1",
+   "meaning": "cúi, uốn cong",
+   "definition": "to move your body forward and down; to make something curved",
+   "collocations": [
+    "bend down",
+    "bend over",
+    "bend your knees"
+   ],
+   "examples": [
+    {
+     "en": "The woman is *bending* down to pick up a box.",
+     "vi": "Người phụ nữ đang cúi xuống nhặt một chiếc hộp."
+    }
+   ]
+  },
+  {
+   "id": "bod_tattoo",
+   "word": "tattoo",
+   "pos": "noun",
+   "ipa": "/tæˈtuː/",
+   "level": "B2",
+   "meaning": "hình xăm",
+   "definition": "a picture drawn on skin with ink",
+   "collocations": [
+    "have a tattoo",
+    "get a tattoo"
+   ],
+   "examples": [
+    {
+     "en": "He has a small *tattoo* on his arm.",
+     "vi": "Anh ấy có một hình xăm nhỏ trên cánh tay."
+    }
+   ]
+  },
+  {
+   "id": "bod_make_up",
+   "word": "make-up",
+   "pos": "noun",
+   "ipa": "/ˈmeɪk ʌp/",
+   "level": "B2",
+   "meaning": "đồ trang điểm",
+   "definition": "creams and powders put on the face",
+   "collocations": [
+    "wear make-up",
+    "put on make-up"
+   ],
+   "examples": [
+    {
+     "en": "She doesn't usually wear *make-up* to work.",
+     "vi": "Cô ấy thường không trang điểm khi đi làm."
+    }
+   ]
+  },
+  {
+   "id": "bod_outfit",
+   "word": "outfit",
+   "pos": "noun",
+   "ipa": "/ˈaʊtfɪt/",
+   "level": "B2",
+   "meaning": "bộ trang phục",
+   "definition": "a set of clothes worn together",
+   "collocations": [
+    "a new outfit",
+    "wear an outfit"
+   ],
+   "examples": [
+    {
+     "en": "She bought a new *outfit* for the interview.",
+     "vi": "Cô ấy mua một bộ đồ mới để đi phỏng vấn."
+    }
+   ]
+  },
+  {
+   "id": "bod_dressed",
+   "word": "dressed",
+   "pos": "adjective",
+   "ipa": "/drest/",
+   "level": "B1",
+   "meaning": "mặc quần áo",
+   "definition": "wearing clothes",
+   "collocations": [
+    "get dressed",
+    "well dressed",
+    "dressed in black"
+   ],
+   "examples": [
+    {
+     "en": "He was *dressed* in a dark suit.",
+     "vi": "Anh ấy mặc bộ vest tối màu."
+    }
+   ]
+  },
+  {
+   "id": "bod_casual",
+   "word": "casual",
+   "pos": "adjective",
+   "ipa": "/ˈkæʒuəl/",
+   "level": "B2",
+   "meaning": "thường ngày, giản dị",
+   "definition": "not formal",
+   "collocations": [
+    "casual clothes",
+    "business casual",
+    "casual conversation"
+   ],
+   "examples": [
+    {
+     "en": "We can wear *casual* clothes on Fridays.",
+     "vi": "Thứ Sáu chúng tôi được mặc đồ thường ngày."
+    }
+   ]
+  },
+  {
+   "id": "bod_fashionable",
+   "word": "fashionable",
+   "pos": "adjective",
+   "ipa": "/ˈfæʃnəbl/",
+   "level": "B1",
+   "meaning": "hợp thời trang",
+   "definition": "popular at a particular time",
+   "collocations": [
+    "fashionable clothes",
+    "a fashionable area"
+   ],
+   "examples": [
+    {
+     "en": "The shop sells *fashionable* clothes at low prices.",
+     "vi": "Cửa hàng bán quần áo hợp thời trang giá rẻ."
+    }
+   ]
+  },
+  {
+   "id": "bod_elegant",
+   "word": "elegant",
+   "pos": "adjective",
+   "ipa": "/ˈelɪɡənt/",
+   "level": "B2",
+   "meaning": "thanh lịch",
+   "definition": "attractive and well designed",
+   "collocations": [
+    "an elegant dress",
+    "elegant design"
+   ],
+   "examples": [
+    {
+     "en": "The hotel has an *elegant* restaurant.",
+     "vi": "Khách sạn có một nhà hàng thanh lịch."
+    }
+   ]
+  },
+  {
+   "id": "bod_gorgeous",
+   "word": "gorgeous",
+   "pos": "adjective",
+   "ipa": "/ˈɡɔːrdʒəs/",
+   "level": "B2",
+   "meaning": "lộng lẫy, rất đẹp",
+   "definition": "very beautiful",
+   "collocations": [
+    "a gorgeous view",
+    "look gorgeous"
+   ],
+   "examples": [
+    {
+     "en": "The view from the room is *gorgeous*.",
+     "vi": "Tầm nhìn từ phòng tuyệt đẹp."
+    }
+   ]
+  },
+  {
+   "id": "bod_cute",
+   "word": "cute",
+   "pos": "adjective",
+   "ipa": "/kjuːt/",
+   "level": "B2",
+   "meaning": "dễ thương",
+   "definition": "pretty and attractive",
+   "collocations": [
+    "a cute baby",
+    "so cute"
+   ],
+   "examples": [
+    {
+     "en": "What a *cute* puppy!",
+     "vi": "Chú cún dễ thương quá!"
+    }
+   ]
+  },
+  {
+   "id": "bod_ugly",
+   "word": "ugly",
+   "pos": "adjective",
+   "ipa": "/ˈʌɡli/",
+   "level": "B1",
+   "meaning": "xấu xí",
+   "definition": "unpleasant to look at",
+   "collocations": [
+    "an ugly building"
+   ],
+   "examples": [
+    {
+     "en": "They replaced the *ugly* old sign with a new one.",
+     "vi": "Họ thay tấm biển cũ xấu xí bằng biển mới."
+    }
+   ]
+  },
+  {
+   "id": "bod_beauty",
+   "word": "beauty",
+   "pos": "noun",
+   "ipa": "/ˈbjuːti/",
+   "level": "B1",
+   "meaning": "vẻ đẹp; sắc đẹp",
+   "definition": "the quality of being beautiful",
+   "collocations": [
+    "natural beauty",
+    "beauty salon"
+   ],
+   "examples": [
+    {
+     "en": "The area is famous for its natural *beauty*.",
+     "vi": "Khu vực nổi tiếng với vẻ đẹp tự nhiên."
+    }
+   ]
+  },
+  {
+   "id": "bod_appearance",
+   "word": "appearance",
+   "pos": "noun",
+   "ipa": "/əˈpɪrəns/",
+   "level": "A2",
+   "meaning": "vẻ bề ngoài; sự xuất hiện",
+   "definition": "the way someone or something looks; the act of appearing",
+   "collocations": [
+    "physical appearance",
+    "make an appearance"
+   ],
+   "examples": [
+    {
+     "en": "Staff should keep a neat *appearance*.",
+     "vi": "Nhân viên nên giữ vẻ ngoài gọn gàng."
+    }
+   ]
+  },
+  {
+   "id": "bod_height",
+   "word": "height",
+   "pos": "noun",
+   "ipa": "/haɪt/",
+   "level": "A2",
+   "meaning": "chiều cao",
+   "definition": "how tall someone or something is",
+   "collocations": [
+    "average height",
+    "adjust the height"
+   ],
+   "examples": [
+    {
+     "en": "The chair's *height* can be adjusted.",
+     "vi": "Có thể điều chỉnh độ cao của ghế."
+    }
+   ]
+  },
+  {
+   "id": "bod_weigh",
+   "word": "weigh",
+   "pos": "verb",
+   "ipa": "/weɪ/",
+   "level": "B1",
+   "meaning": "cân nặng; cân nhắc",
+   "definition": "to have a certain weight; to measure weight",
+   "collocations": [
+    "weigh 5 kilos",
+    "weigh the options"
+   ],
+   "examples": [
+    {
+     "en": "The package *weighs* about two kilos.",
+     "vi": "Gói hàng nặng khoảng hai ký."
+    }
+   ]
+  },
+  {
+   "id": "bod_glove",
+   "word": "glove",
+   "pos": "noun",
+   "ipa": "/ɡlʌv/",
+   "level": "B1",
+   "meaning": "găng tay",
+   "definition": "a covering for the hand",
+   "collocations": [
+    "a pair of gloves",
+    "rubber gloves"
+   ],
+   "examples": [
+    {
+     "en": "Wear *gloves* when handling chemicals.",
+     "vi": "Đeo găng tay khi xử lý hóa chất."
+    }
+   ]
+  },
+  {
+   "id": "bod_helmet",
+   "word": "helmet",
+   "pos": "noun",
+   "ipa": "/ˈhelmɪt/",
+   "level": "B2",
+   "meaning": "mũ bảo hiểm",
+   "definition": "a hard hat to protect the head",
+   "collocations": [
+    "wear a helmet",
+    "safety helmet"
+   ],
+   "examples": [
+    {
+     "en": "Workers must wear *helmets* on site.",
+     "vi": "Công nhân phải đội mũ bảo hộ tại công trường."
+    }
+   ]
+  },
+  {
+   "id": "bod_underwear",
+   "word": "underwear",
+   "pos": "noun",
+   "ipa": "/ˈʌndərwer/",
+   "level": "B1",
+   "meaning": "đồ lót",
+   "definition": "clothes worn under other clothes",
+   "collocations": [
+    "clean underwear"
+   ],
+   "examples": [
+    {
+     "en": "Pack enough *underwear* for the trip.",
+     "vi": "Mang đủ đồ lót cho chuyến đi."
+    }
+   ]
+  },
+  {
+   "id": "bod_fabric",
+   "word": "fabric",
+   "pos": "noun",
+   "ipa": "/ˈfæbrɪk/",
+   "level": "B2",
+   "meaning": "vải",
+   "definition": "cloth",
+   "collocations": [
+    "cotton fabric",
+    "soft fabric"
+   ],
+   "examples": [
+    {
+     "en": "The sofa is covered in a soft *fabric*.",
+     "vi": "Ghế sofa được bọc bằng vải mềm."
+    }
+   ]
+  },
+  {
+   "id": "bod_cotton",
+   "word": "cotton",
+   "pos": "noun",
+   "ipa": "/ˈkɑːtn/",
+   "level": "B1",
+   "meaning": "vải bông, cotton",
+   "definition": "a natural cloth made from a plant",
+   "collocations": [
+    "100% cotton",
+    "cotton shirt"
+   ],
+   "examples": [
+    {
+     "en": "This shirt is made of 100% *cotton*.",
+     "vi": "Chiếc áo này làm từ 100% cotton."
+    }
+   ]
+  },
+  {
+   "id": "bod_silk",
+   "word": "silk",
+   "pos": "noun",
+   "ipa": "/sɪlk/",
+   "level": "B2",
+   "meaning": "lụa",
+   "definition": "a fine soft cloth made by insects",
+   "collocations": [
+    "silk scarf",
+    "pure silk"
+   ],
+   "examples": [
+    {
+     "en": "She bought a *silk* scarf as a souvenir.",
+     "vi": "Cô ấy mua một chiếc khăn lụa làm quà lưu niệm."
+    }
+   ]
+  },
+  {
+   "id": "bod_wool",
+   "word": "wool",
+   "pos": "noun",
+   "ipa": "/wʊl/",
+   "level": "B1",
+   "meaning": "len",
+   "definition": "soft hair from sheep made into cloth",
+   "collocations": [
+    "wool sweater",
+    "made of wool"
+   ],
+   "examples": [
+    {
+     "en": "This *wool* sweater keeps me warm.",
+     "vi": "Chiếc áo len này giữ ấm cho tôi."
+    }
+   ]
+  },
+  {
+   "id": "bod_leather",
+   "word": "leather",
+   "pos": "noun",
+   "ipa": "/ˈleðər/",
+   "level": "B1",
+   "meaning": "da (thuộc)",
+   "definition": "animal skin used for shoes, bags etc.",
+   "collocations": [
+    "leather jacket",
+    "leather shoes"
+   ],
+   "examples": [
+    {
+     "en": "He bought a brown *leather* bag.",
+     "vi": "Anh ấy mua một chiếc túi da màu nâu."
+    }
+   ]
+  },
+  {
+   "id": "bod_fur",
+   "word": "fur",
+   "pos": "noun",
+   "ipa": "/fɜːr/",
+   "level": "B1",
+   "meaning": "lông thú",
+   "definition": "the thick hair of some animals",
+   "collocations": [
+    "fur coat",
+    "animal fur"
+   ],
+   "examples": [
+    {
+     "en": "The cat's *fur* is very soft.",
+     "vi": "Lông con mèo rất mềm."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}
