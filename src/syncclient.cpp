@@ -211,6 +211,30 @@ void SyncClient::signOut()
     setStatus(QStringLiteral("Đã đăng xuất. Dữ liệu trên máy vẫn được giữ nguyên."));
 }
 
+void SyncClient::changePassword(const QString &newPassword)
+{
+    if (!configured() || !signedIn() || m_busy)
+        return;
+    if (newPassword.size() < 6) {
+        setStatus(QStringLiteral("Mật khẩu mới phải có ít nhất 6 ký tự"), false);
+        return;
+    }
+    setBusy(true);
+    setStatus(QStringLiteral("Đang đổi mật khẩu…"));
+    ensureToken([this, newPassword](bool ok) {
+        if (!ok)
+            return;
+        const QByteArray body = toJson(QVariantMap{{"password", newPassword}});
+        request("PUT", "/auth/v1/user", body, {}, true, [this](int status, const QByteArray &resp) {
+            m_busy = false;
+            if (status == 200)
+                setStatus(QStringLiteral("Đã đổi mật khẩu. Dùng mật khẩu mới để đăng nhập trên iPhone."));
+            else
+                setStatus(QStringLiteral("Đổi mật khẩu thất bại: %1").arg(errorText(status, resp)), false);
+        });
+    });
+}
+
 void SyncClient::ensureToken(std::function<void(bool)> cb)
 {
     if (!m_access.isEmpty() && m_accessExpiry > QDateTime::currentSecsSinceEpoch() + 60) {

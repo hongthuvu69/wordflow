@@ -254,8 +254,69 @@ Item {
                             }
                             Button {
                                 enabled: !Sync.busy
+                                text: "🔑 Đổi mật khẩu"
+                                onClicked: pwBox.visible = !pwBox.visible
+                            }
+                            Button {
+                                enabled: !Sync.busy
                                 text: "Đăng xuất"
                                 onClicked: Sync.signOut()
+                            }
+                        }
+
+                        // Đổi mật khẩu (dùng phiên đăng nhập hiện tại, không cần mật khẩu cũ)
+                        ColumnLayout {
+                            id: pwBox
+                            visible: false
+                            Layout.fillWidth: true
+                            Layout.topMargin: 6
+                            spacing: 8
+
+                            readonly property bool match: newPass.text === newPass2.text
+                            readonly property bool valid: newPass.text.length >= 6 && match
+
+                            Text {
+                                Layout.fillWidth: true
+                                text: "Đặt mật khẩu mới (ít nhất 6 ký tự). Nên dùng chữ không dấu và số để gõ trên iPhone không bị sai."
+                                color: Theme.subtext
+                                font.pixelSize: 13
+                                wrapMode: Text.WordWrap
+                            }
+                            RowLayout {
+                                Layout.fillWidth: true
+                                TextField {
+                                    id: newPass
+                                    Layout.fillWidth: true
+                                    placeholderText: "Mật khẩu mới"
+                                    echoMode: showPw.checked ? TextInput.Normal : TextInput.Password
+                                }
+                                CheckBox {
+                                    id: showPw
+                                    text: "Hiện"
+                                }
+                            }
+                            TextField {
+                                id: newPass2
+                                Layout.fillWidth: true
+                                placeholderText: "Nhập lại mật khẩu mới"
+                                echoMode: showPw.checked ? TextInput.Normal : TextInput.Password
+                            }
+                            Text {
+                                visible: newPass2.text.length > 0 && !pwBox.match
+                                text: "Hai mật khẩu chưa giống nhau"
+                                color: Theme.bad
+                                font.pixelSize: 13
+                            }
+                            Button {
+                                highlighted: true
+                                enabled: pwBox.valid && !Sync.busy
+                                text: "Lưu mật khẩu mới"
+                                onClicked: {
+                                    Sync.changePassword(newPass.text)
+                                    newPass.text = ""
+                                    newPass2.text = ""
+                                    pwBox.visible = false
+                                }
                             }
                         }
                     }

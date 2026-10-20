@@ -43,6 +43,8 @@ public:
     Q_INVOKABLE void signIn(const QString &email, const QString &password);
     Q_INVOKABLE void signUp(const QString &email, const QString &password);
     Q_INVOKABLE void signOut();
+    // Đặt mật khẩu mới bằng phiên đăng nhập hiện tại (không cần mật khẩu cũ).
+    Q_INVOKABLE void changePassword(const QString &newPassword);
     Q_INVOKABLE void syncNow();
     Q_INVOKABLE void deleteRemoteData();
 
