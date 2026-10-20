@@ -161,7 +161,7 @@ void SyncClient::signIn(const QString &email, const QString &password)
         return;
     setBusy(true);
     setStatus(QStringLiteral("Đang đăng nhập…"));
-    const QByteArray body = toJson(QVariantMap{{"email", email.trimmed()}, {"password", password}});
+    const QByteArray body = toJson(QVariantMap{{"email", email.trimmed().toLower()}, {"password", password}});
     request("POST", "/auth/v1/token?grant_type=password", body, {}, false,
             [this](int status, const QByteArray &resp) {
                 setBusy(false);
@@ -182,7 +182,7 @@ void SyncClient::signUp(const QString &email, const QString &password)
         return;
     setBusy(true);
     setStatus(QStringLiteral("Đang tạo tài khoản…"));
-    const QByteArray body = toJson(QVariantMap{{"email", email.trimmed()}, {"password", password}});
+    const QByteArray body = toJson(QVariantMap{{"email", email.trimmed().toLower()}, {"password", password}});
     request("POST", "/auth/v1/signup", body, {}, false, [this](int status, const QByteArray &resp) {
         setBusy(false);
         if (status != 200) {

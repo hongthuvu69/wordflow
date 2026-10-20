@@ -439,8 +439,12 @@ function viewSettings() {
   } else if (!sync.signedIn) {
     account = `<div class="muted small" style="margin-bottom:8px">Máy chủ: ${esc(sync.url)}</div>
       <form data-form="login">
-      <input class="field" id="lg-email" type="email" placeholder="Email" autocomplete="username" autocapitalize="off">
-      <input class="field" id="lg-pass" type="password" placeholder="Mật khẩu (ít nhất 6 ký tự)" autocomplete="current-password">
+      <input class="field" id="lg-email" type="email" placeholder="Email" autocomplete="username" autocapitalize="none" autocorrect="off" spellcheck="false">
+      <div class="pass-wrap">
+        <input class="field" id="lg-pass" type="password" placeholder="Mật khẩu (ít nhất 6 ký tự)" autocomplete="current-password" autocapitalize="none" autocorrect="off" spellcheck="false">
+        <button type="button" class="pass-eye" data-act="toggle-pass" aria-label="Hiện/ẩn mật khẩu">👁</button>
+      </div>
+      <div class="muted small" style="margin:-4px 0 10px">Mật khẩu phải giống hệt lúc tạo tài khoản trên PC. Nếu dùng bàn phím tiếng Việt, hãy chuyển sang bàn phím English (🌐) để không bị tự thêm dấu.</div>
       <div class="btns"><button class="btn primary" type="submit" ${sync.busy ? "disabled" : ""}>Đăng nhập</button>
       <button class="btn" type="button" data-act="signup" ${sync.busy ? "disabled" : ""}>Tạo tài khoản</button>
       <button class="btn" type="button" data-act="sv-edit">Đổi máy chủ</button></div></form>`;
@@ -606,6 +610,12 @@ document.addEventListener("click", (ev) => {
     case "signup":
       sync.signUp(document.getElementById("lg-email").value, document.getElementById("lg-pass").value);
       break;
+    case "toggle-pass": {
+      const input = document.getElementById("lg-pass");
+      input.type = input.type === "password" ? "text" : "password";
+      el.textContent = input.type === "password" ? "👁" : "🙈";
+      break;
+    }
     case "sync-now":
       sync.syncNow();
       break;

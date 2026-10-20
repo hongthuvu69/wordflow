@@ -291,6 +291,9 @@ input, select { font: inherit; color: var(--text); }
   margin-bottom: 10px;
 }
 .field:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.pass-wrap { position: relative; }
+.pass-wrap .field { padding-right: 52px; }
+.pass-eye { position: absolute; right: 4px; top: 4px; width: 44px; height: 42px; border: none; background: transparent; font-size: 20px; }
 .stepper { display: inline-flex; align-items: center; gap: 4px; background: var(--alt); border-radius: 12px; }
 .stepper button { border: none; background: transparent; width: 40px; height: 40px; font-size: 20px; }
 .stepper b { min-width: 28px; text-align: center; }

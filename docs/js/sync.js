@@ -113,7 +113,7 @@ export const sync = {
     this.setStatus("Đang đăng nhập…");
     try {
       const data = await this.http("POST", "/auth/v1/token?grant_type=password", {
-        body: { email: email.trim(), password },
+        body: { email: email.trim().toLowerCase(), password },
         auth: false,
       });
       this.saveSession(data);
@@ -134,7 +134,7 @@ export const sync = {
     this.setStatus("Đang tạo tài khoản…");
     try {
       const data = await this.http("POST", "/auth/v1/signup", {
-        body: { email: email.trim(), password },
+        body: { email: email.trim().toLowerCase(), password },
         auth: false,
       });
       this.setBusy(false);
