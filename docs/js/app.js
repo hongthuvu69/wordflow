@@ -1,58 +1,15 @@
 import { content, progress, shuffle } from "./store.js";
 import { sync } from "./sync.js";
 import * as P from "./practice.js";
+import { esc, hl, plain, go, header, bar, speak, spk, toast } from "./ui.js";
+import * as TU from "./toeic-ui.js";
 
 const $view = document.getElementById("view");
-
-// ---------------- Tiện ích ----------------
-
-const esc = (s) =>
-  String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
-const hl = (s) => esc(s).replace(/\*(.+?)\*/g, '<b class="hl">$1</b>');
-const plain = (s) => String(s ?? "").replace(/\*/g, "");
-const go = (hash) => (location.hash = hash);
 
 const STATE_LABEL = (st) =>
   !st.exists ? ["Mới", "info"] : st.due ? ["Cần ôn", "warn"] : st.state === 3 ? ["Thành thạo", "good"] : ["Đang học", ""];
 
-// ---------------- Phát âm ----------------
-
-let voice = null;
-function pickVoice() {
-  const vs = speechSynthesis.getVoices();
-  voice =
-    vs.find((v) => v.lang === "en-US" && /Samantha|Google US|Aaron|Nicky/i.test(v.name)) ||
-    vs.find((v) => v.lang === "en-US") ||
-    vs.find((v) => v.lang && v.lang.startsWith("en")) ||
-    null;
-}
-if ("speechSynthesis" in window) {
-  pickVoice();
-  speechSynthesis.onvoiceschanged = pickVoice;
-}
-function speak(text, slow = false) {
-  if (!("speechSynthesis" in window) || !text) return;
-  speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(plain(text));
-  u.lang = "en-US";
-  if (voice) u.voice = voice;
-  u.rate = slow ? 0.6 : 0.95;
-  speechSynthesis.speak(u);
-}
-const spk = (text, slow = false) =>
-  `<button class="spk" data-say="${esc(plain(text))}"${slow ? ' data-slow="1"' : ""} aria-label="${slow ? "Nghe chậm" : "Nghe"}">${slow ? "🐢" : "🔊"}</button>`;
-
 // ---------------- Khối giao diện dùng lại ----------------
-
-function header(title, sub = "", { back = false, right = "" } = {}) {
-  return `<div class="head">
-    ${back ? `<button class="icon-btn" data-act="back" aria-label="Quay lại">←</button>` : ""}
-    <div class="grow"><h1>${title}</h1>${sub ? `<div class="sub">${sub}</div>` : ""}</div>
-    ${right}
-  </div>`;
-}
-
-const bar = (value, max) => `<div class="bar"><i style="width:${max ? Math.round((100 * value) / max) : 0}%"></i></div>`;
 
 function syncLine() {
   if (!sync.signedIn) return "";
@@ -94,7 +51,7 @@ function wordCard(w, { showHeader = true } = {}) {
   return parts.join("");
 }
 
-// ---------------- Trang chủ ----------------
+// ---------------- Từ vựng (trang tổng) ----------------
 
 function phraseOfDay() {
   const all = content.topics.flatMap((t) => content.phrases.get(t.id) || []);
@@ -109,14 +66,14 @@ function levelRoadmap() {
   });
 }
 
-function viewHome() {
+function viewVocab() {
   const s = progress.stats(content.allIds);
   const total = s.due + s.newRemaining;
   const tip = phraseOfDay();
   const date = new Date().toLocaleDateString("vi-VN", { weekday: "long", day: "2-digit", month: "2-digit" });
 
   return `
-    ${header("Chào bạn 👋", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">⚙️</a>` })}
+    ${header("Từ vựng", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">⚙️</a>` })}
     ${syncLine()}
     <div class="card hero">
       <div class="label">Bài học hôm nay</div>
@@ -129,6 +86,12 @@ function viewHome() {
       <div class="stat"><span class="i">✨</span><div class="v">${s.newToday}/${progress.settings.dailyNewLimit}</div><div class="l">Từ mới hôm nay</div></div>
       <div class="stat"><span class="i">📖</span><div class="v">${s.seen}/${s.total}</div><div class="l">Từ đã học</div></div>
       <div class="stat"><span class="i">🔥</span><div class="v">${s.streak}</div><div class="l">Ngày liên tiếp · ${s.reviewedToday} lượt hôm nay</div></div>
+    </div>
+    <div class="vocab-tools">
+      <a href="#/topics"><span>📚</span>Chủ đề</a>
+      <a href="#/quiz"><span>🎯</span>Quiz</a>
+      <a href="#/practice"><span>✍️</span>Luyện viết</a>
+      <a href="#/phrases"><span>💬</span>Mẫu câu</a>
     </div>
     <div class="section-title">🗺️ Lộ trình A2 → B2</div>
     <div class="card">${levelRoadmap()
@@ -575,19 +538,6 @@ function practiceNext(ok) {
   window.scrollTo(0, 0);
 }
 
-function toast(text) {
-  let el = document.getElementById("toast");
-  if (!el) {
-    el = document.createElement("div");
-    el.id = "toast";
-    document.body.appendChild(el);
-  }
-  el.textContent = text;
-  el.classList.add("show");
-  clearTimeout(el._t);
-  el._t = setTimeout(() => el.classList.remove("show"), 2200);
-}
-
 // ---------------- Mẫu câu ----------------
 
 function viewPhrases(topicId) {
@@ -646,6 +596,7 @@ function viewSettings() {
   }
 
   return `${header("⚙️ Cài đặt", "", { back: true })}
+    ${TU.settingsCard()}
     <div class="card stack">
       <b>Học tập</b>
       <div class="row"><div class="grow">Số từ mới mỗi ngày<div class="muted small">Gợi ý 10–15 từ</div></div>
@@ -673,8 +624,10 @@ function viewSettings() {
 
 // ---------------- Điều hướng ----------------
 
+// Mỗi route: [mẫu địa chỉ, tên màn hình, hàm vẽ]. Tab được bật theo TAB_OF.
 const routes = [
-  [/^#?\/?$/, "home", () => viewHome()],
+  ...TU.routes,
+  [/^#\/vocab$/, "vocab", () => viewVocab()],
   [/^#\/topics$/, "topics", () => viewTopics()],
   [/^#\/topic\/([\w-]+)$/, "topics", (m) => viewTopic(m[1])],
   [/^#\/word\/([\w-]+)$/, "topics", (m) => viewWord(m[1])],
@@ -684,6 +637,8 @@ const routes = [
   [/^#\/phrases(?:\/([\w-]+))?$/, "phrases", (m) => viewPhrases(m[1])],
   [/^#\/settings$/, "settings", () => viewSettings()],
 ];
+const TAB_OF = { topics: "vocab", study: "vocab", quiz: "vocab", practice: "vocab", phrases: "vocab", settings: "home" };
+const BUSY = ["study", "quiz", "practice", "run"];
 let currentTab = "home";
 let lastHash = null;
 
@@ -693,9 +648,11 @@ function render() {
     const m = hash.match(re);
     if (!m) continue;
     currentTab = tab;
+    TU.onRoute(hash);
     $view.innerHTML = fn(m);
-    document.body.classList.toggle("focus", tab === "study" && /^#\/study/.test(hash));
-    for (const a of document.querySelectorAll(".tabbar a")) a.classList.toggle("active", a.dataset.tab === tab);
+    document.body.classList.toggle("focus", tab === "study" || tab === "run");
+    document.body.classList.toggle("wide", tab === "run");
+    for (const a of document.querySelectorAll(".tabbar a")) a.classList.toggle("active", a.dataset.tab === (TAB_OF[tab] || tab));
     if (hash !== lastHash) window.scrollTo(0, 0);
     lastHash = hash;
     return;
@@ -907,7 +864,7 @@ document.addEventListener("keydown", (ev) => {
 
 // Cập nhật giao diện khi dữ liệu thay đổi từ nơi khác (đồng bộ, cài đặt).
 progress.onChange((kind) => {
-  if (kind !== "review" && !["study", "quiz", "practice"].includes(currentTab)) render();
+  if (kind !== "review" && !BUSY.includes(currentTab)) render();
 });
 
 let wasSignedIn = sync.signedIn;
@@ -921,7 +878,7 @@ sync.onChange(() => {
         el.className = "status " + (sync.ok ? "ok" : "err");
         el.textContent = sync.status ? (sync.ok ? "✓ " : "⚠ ") + sync.status : "";
       }
-    } else if (!["study", "quiz", "practice"].includes(currentTab)) render();
+    } else if (!BUSY.includes(currentTab)) render();
     return;
   }
   const line = document.querySelector("[data-sync-line]");
@@ -940,7 +897,7 @@ document.addEventListener("visibilitychange", () => {
 
 (async () => {
   try {
-    await content.load();
+    await Promise.all([content.load(), TU.init(render)]);
   } catch (e) {
     $view.innerHTML = `<div class="done"><div class="emo">😕</div><h2>Không tải được nội dung</h2><p class="muted">${esc(e.message || e)}</p></div>`;
     return;

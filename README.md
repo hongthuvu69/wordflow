@@ -48,8 +48,43 @@ Tạo file `content/NN_ten_chu_de.json` theo cấu trúc giống các file có s
 - **Quiz:** chọn nghĩa, điền từ, nghe chọn từ, chọn câu đúng.
 - **Mẫu câu:** hội thoại theo tình huống.
 
+## Luyện thi TOEIC (web app)
+
+Web app trong `docs/` có 4 tab: **Hôm nay** (việc cần làm theo lịch người đi làm), **Luyện đề**, **Từ vựng**, **Tiến độ** (biểu đồ điểm, lộ trình 48 tuần, báo cáo tuần). Code nằm ở `docs/js/toeic.js` (dữ liệu, chấm điểm, lộ trình) và `docs/js/toeic-ui.js` (giao diện).
+
+Kết quả luyện đề, sổ lỗi sai và điểm Study4 hiện chỉ lưu trên từng máy (localStorage), chưa đồng bộ qua Supabase.
+
+### Thêm đề vào kho
+
+Mỗi đề là một file trong `docs/tests/`, khai báo trong `docs/tests/index.json`. Cấu trúc (xem mẫu `mini-01.json`):
+
+```jsonc
+{
+  "id": "full-01", "title": "Full Test 01", "kind": "full",   // full | mini
+  "duration": 120, "source": "…",
+  "parts": [{
+    "part": 3, "directions": "…",
+    "groups": [{                       // một nhóm = một đoạn hội thoại / đoạn văn / một câu đơn
+      "script": [{ "sp": "W", "accent": "us", "text": "…" }],   // Part 1–4: lời thoại (us/uk/au/ca)
+      "audio": "audio/full-01/g12.mp3",                           // (sẽ hỗ trợ) file nghe thật
+      "image": "img/full-01/p1-1.jpg",                           // Part 1
+      "passages": [{ "kind": "email", "head": "From: …", "text": "… {{131}} …" }],  // Part 6–7; {{n}} = chỗ trống
+      "questions": [{
+        "id": "f01-32", "n": 32, "type": "p34-detail",          // type: xem TYPES trong toeic.js
+        "prompt": "…", "options": ["…", "…", "…", "…"], "answer": 2,
+        "explain": "giải thích tiếng Việt", "evidence": "câu chứa đáp án (được tô vàng)",
+        "vocab": [["từ", "nghĩa"]]
+      }]
+    }]
+  }]
+}
+```
+
+`id` của câu hỏi phải duy nhất trong toàn bộ kho, vì sổ lỗi sai và thống kê theo dạng câu dùng `id` này.
+
 ## Phím tắt
 
 - Flashcard: `Space` để lật thẻ, `1`–`4` để chấm (Quên / Khó / Nhớ / Dễ), `R` để nghe lại.
 - Quiz: `1`–`4` để chọn đáp án, `Enter` để sang câu tiếp.
+- Làm đề (web): `A`–`D` chọn đáp án cho câu chưa làm, `←`/`→` chuyển trang.
 - `Backspace` để quay lại.

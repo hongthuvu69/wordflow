@@ -1,7 +1,7 @@
 // Service worker: cho app chạy offline.
 // Chiến lược "network-first": có mạng thì luôn lấy bản mới nhất (bỏ qua cache HTTP 10 phút của
 // GitHub Pages), mạng chậm quá 3 giây hoặc mất mạng thì dùng bản đã lưu.
-const CACHE = "wordflow-v2";
+const CACHE = "wordflow-v3";
 const TIMEOUT_MS = 3000;
 const SHELL = [
   "./",
@@ -13,9 +13,13 @@ const SHELL = [
   "js/sync.js",
   "js/practice.js",
   "js/config.js",
+  "js/ui.js",
+  "js/toeic.js",
+  "js/toeic-ui.js",
   "icons/icon-192.png",
   "icons/apple-touch-icon.png",
   "content/index.json",
+  "tests/index.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -26,6 +30,9 @@ self.addEventListener("install", (event) => {
       // Tải sẵn toàn bộ file nội dung.
       const index = await (await fetch("content/index.json", { cache: "no-cache" })).json();
       await cache.addAll(index.files.map((f) => new Request("content/" + f, { cache: "no-cache" })));
+      // Tải sẵn ngân hàng đề để làm bài khi không có mạng.
+      const tests = await (await fetch("tests/index.json", { cache: "no-cache" })).json();
+      await cache.addAll(tests.tests.map((t) => new Request("tests/" + t.file, { cache: "no-cache" })));
       await self.skipWaiting();
     })()
   );

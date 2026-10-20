@@ -1,7 +1,7 @@
 {
-  "name": "WordFlow – Học từ vựng tiếng Anh",
+  "name": "WordFlow – Luyện thi TOEIC",
   "short_name": "WordFlow",
-  "description": "Học từ vựng tiếng Anh A2 → B2 theo chủ đề, đồng bộ với app trên PC.",
+  "description": "Luyện thi TOEIC cho người đi làm: lộ trình 48 tuần, luyện đề theo Part, sổ lỗi sai, báo cáo tuần và từ vựng theo chủ đề.",
   "lang": "vi",
   "start_url": "./",
   "scope": "./",

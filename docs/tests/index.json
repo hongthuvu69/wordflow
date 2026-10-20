@@ -1,0 +1,5 @@
+{
+  "tests": [
+    { "id": "mini-01", "file": "mini-01.json" }
+  ]
+}
