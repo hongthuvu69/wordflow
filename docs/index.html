@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>WordFlow TOEIC</title>
   <meta name="description" content="Luyện thi TOEIC cho người đi làm: lộ trình 48 tuần, luyện đề theo Part, sổ lỗi sai, báo cáo tuần và 3.500 từ vựng.">
-  <meta name="theme-color" content="#0F9D8A">
+  <meta name="theme-color" content="#F4F6FB" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0A0F1E" media="(prefers-color-scheme: dark)">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -13,6 +14,9 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" type="image/png" href="icons/icon-192.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,10 +25,10 @@
   </main>
 
   <nav class="tabbar" id="tabbar">
-    <a href="#/" data-tab="home"><span>🏠</span>Hôm nay</a>
-    <a href="#/tests" data-tab="tests"><span>📝</span>Luyện đề</a>
-    <a href="#/vocab" data-tab="vocab"><span>📚</span>Từ vựng</a>
-    <a href="#/progress" data-tab="progress"><span>📊</span>Tiến độ</a>
+    <a href="#/" data-tab="home"><span class="ti"><svg viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V9.5"/></svg></span>Hôm nay</a>
+    <a href="#/tests" data-tab="tests"><span class="ti"><svg viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="2.5"/><path d="M9 3.5h6v2.5H9z"/><path d="m9 12 2 2 4-4"/><path d="M9 17h6"/></svg></span>Luyện đề</a>
+    <a href="#/vocab" data-tab="vocab"><span class="ti"><svg viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M9 8h7M9 11.5h5"/></svg></span>Từ vựng</a>
+    <a href="#/progress" data-tab="progress"><span class="ti"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></span>Tiến độ</a>
   </nav>
 
   <script type="module" src="js/app.js"></script>

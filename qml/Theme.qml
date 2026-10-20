@@ -4,15 +4,15 @@ import QtQuick
 QtObject {
     readonly property bool dark: Application.styleHints.colorScheme === Qt.ColorScheme.Dark
 
-    readonly property color bg: dark ? "#12141A" : "#F5F6FA"
-    readonly property color surface: dark ? "#1C1F27" : "#FFFFFF"
-    readonly property color surfaceAlt: dark ? "#232733" : "#F0F2F7"
-    readonly property color border: dark ? "#2C313C" : "#E3E6EC"
-    readonly property color text: dark ? "#E8EAF0" : "#1F2430"
-    readonly property color subtext: dark ? "#9AA3B2" : "#6B7280"
+    readonly property color bg: dark ? "#0A0F1E" : "#F4F6FB"
+    readonly property color surface: dark ? "#131A2E" : "#FFFFFF"
+    readonly property color surfaceAlt: dark ? "#1B2440" : "#F0F3F9"
+    readonly property color border: dark ? "#243052" : "#E5E9F2"
+    readonly property color text: dark ? "#E8ECF5" : "#0F172A"
+    readonly property color subtext: dark ? "#97A3BC" : "#64748B"
 
-    readonly property color accent: dark ? "#2DD4BF" : "#0F9D8A"
-    readonly property color accentSoft: dark ? "#123A36" : "#E0F4F1"
+    readonly property color accent: dark ? "#6366F1" : "#4F46E5"
+    readonly property color accentSoft: dark ? "#222A55" : "#EEF0FF"
     readonly property color good: dark ? "#4ADE80" : "#16A34A"
     readonly property color goodSoft: dark ? "#14321F" : "#DCFCE7"
     readonly property color bad: dark ? "#F87171" : "#DC2626"

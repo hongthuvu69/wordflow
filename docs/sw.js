@@ -1,7 +1,8 @@
 // Service worker: cho app chạy offline.
 // Chiến lược "network-first": có mạng thì luôn lấy bản mới nhất (bỏ qua cache HTTP 10 phút của
 // GitHub Pages), mạng chậm quá 3 giây hoặc mất mạng thì dùng bản đã lưu.
-const CACHE = "wordflow-v4";
+const CACHE = "wordflow-v5";
+const FONT_CACHE = "wordflow-fonts"; // font Google: lưu lâu dài, không xóa khi đổi phiên bản
 const TIMEOUT_MS = 3000;
 const SHELL = [
   "./",
@@ -41,7 +42,7 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
-      for (const key of await caches.keys()) if (key !== CACHE) await caches.delete(key);
+      for (const key of await caches.keys()) if (key !== CACHE && key !== FONT_CACHE) await caches.delete(key);
       await self.clients.claim();
     })()
   );
@@ -50,6 +51,20 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const req = event.request;
   const url = new URL(req.url);
+  // Font Google: lấy từ cache trước, chưa có thì tải rồi lưu lại.
+  if (req.method === "GET" && /^https:\/\/fonts\.(googleapis|gstatic)\.com$/.test(url.origin)) {
+    event.respondWith(
+      (async () => {
+        const cache = await caches.open(FONT_CACHE);
+        const hit = await cache.match(req);
+        if (hit) return hit;
+        const res = await fetch(req);
+        if (res.ok || res.type === "opaque") cache.put(req, res.clone());
+        return res;
+      })()
+    );
+    return;
+  }
   // Chỉ cache file của chính app; request tới Supabase đi thẳng ra mạng.
   if (req.method !== "GET" || url.origin !== self.location.origin) return;
 

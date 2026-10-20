@@ -1,7 +1,7 @@
 import { content, progress, shuffle } from "./store.js";
 import { sync } from "./sync.js";
 import * as P from "./practice.js";
-import { esc, hl, plain, go, header, bar, speak, spk, toast } from "./ui.js";
+import { esc, hl, plain, go, header, bar, speak, spk, toast, GEAR } from "./ui.js";
 import * as TU from "./toeic-ui.js";
 
 const $view = document.getElementById("view");
@@ -73,7 +73,7 @@ function viewVocab() {
   const date = new Date().toLocaleDateString("vi-VN", { weekday: "long", day: "2-digit", month: "2-digit" });
 
   return `
-    ${header("Từ vựng", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">⚙️</a>` })}
+    ${header("Từ vựng", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">${GEAR}</a>` })}
     ${syncLine()}
     <div class="card hero">
       <div class="label">Bài học hôm nay</div>

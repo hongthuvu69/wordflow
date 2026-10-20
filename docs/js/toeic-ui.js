@@ -1,7 +1,7 @@
 // Giao diện luyện thi TOEIC: Hôm nay, Luyện đề, màn hình làm bài (kiểu Study4), kết quả,
 // sổ lỗi sai, Tiến độ, báo cáo tuần, nhập điểm Study4.
 import { content, progress, startOfDay } from "./store.js";
-import { esc, header, bar, pct, go, toast, speakLines, fmtDuration, fmtMinutes } from "./ui.js";
+import { esc, header, bar, pct, go, toast, speakLines, fmtDuration, fmtMinutes, GEAR } from "./ui.js";
 import * as T from "./toeic.js";
 
 const { PARTS, PART_SIZE, TYPES, REASONS, PHASES } = T;
@@ -45,6 +45,16 @@ function delta(now, before, unit = "") {
 
 // ================= HÔM NAY =================
 
+// Vòng tiến độ (0–1) với số ở giữa.
+function ring(ratio, big, small) {
+  const r = 52;
+  const c = 2 * Math.PI * r;
+  const off = c * (1 - Math.max(0, Math.min(1, ratio)));
+  return `<div class="ring"><svg viewBox="0 0 120 120"><circle class="track" cx="60" cy="60" r="${r}" fill="none" stroke-width="10"/>
+    <circle class="val" cx="60" cy="60" r="${r}" fill="none" stroke-width="10" stroke-dasharray="${c.toFixed(1)}" stroke-dashoffset="${off.toFixed(1)}"/></svg>
+    <div class="c"><b>${big}</b><span>${small}</span></div></div>`;
+}
+
 function viewToday() {
   const week = T.currentWeek();
   const phase = T.phaseOf(week);
@@ -61,22 +71,22 @@ function viewToday() {
   let examLine = "";
   if (T.plan.examDate) {
     const days = Math.round((localDay(T.plan.examDate) - startOfDay(0)) / 86400);
-    examLine = days >= 0 ? ` · còn <b>${days}</b> ngày tới ngày thi` : "";
+    examLine = days >= 0 ? `<span class="pill">⏳ còn ${days} ngày thi</span>` : "";
   }
 
   return `
-    ${header("Hôm nay", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">⚙️</a>` })}
+    ${header("Hôm nay", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">${GEAR}</a>` })}
     <div class="card hero goal">
-      <div class="label">Tuần ${Math.min(week, 48)}/48 · Giai đoạn ${phase.n}: ${phase.name}${examLine}</div>
-      <div class="goal-row">
-        <div><div class="big">${latest ? latest.score : "—"}</div><div class="hint">Điểm gần nhất${latest ? ` (${latest.src})` : ""}</div></div>
-        <div class="arrow">→</div>
-        <div><div class="big">${expected}</div><div class="hint">Mốc tuần này</div></div>
-        <div class="arrow">→</div>
-        <div><div class="big">${T.plan.target}</div><div class="hint">Mục tiêu</div></div>
+      <div class="goal-top"><span class="pill">Tuần ${Math.min(week, 48)}/48</span><span class="pill">Giai đoạn ${phase.n} · ${phase.name}</span>${examLine}</div>
+      <div class="goal-main">
+        ${ring(latest ? latest.score / T.plan.target : 0, latest ? latest.score : "—", `/ ${T.plan.target}`)}
+        <div class="goal-stats">
+          <div><span>Điểm gần nhất</span><b>${latest ? latest.score : "—"}</b></div>
+          <div><span>Mốc tuần này</span><b>${expected}</b></div>
+          <div><span>Mục tiêu</span><b>${T.plan.target}</b></div>
+        </div>
       </div>
-      <div class="bar light"><i style="width:${latest ? Math.min(100, Math.round((100 * latest.score) / T.plan.target)) : 0}%"></i></div>
-      <div class="hint" style="margin:8px 0 0">Trọng tâm: ${esc(phase.focus)}</div>
+      <div class="goal-focus">🎯 ${esc(phase.focus)}</div>
     </div>
 
     <div class="section-title row"><span class="grow">📋 Việc hôm nay</span><span class="muted small">${fmtMinutes(doneMin)} / ${fmtMinutes(totalMin)}</span></div>
@@ -112,16 +122,17 @@ function taskRow(t) {
   const action = t.href ? `href="${t.href}"` : `data-act="${t.act}"${t.parts ? ` data-parts="${t.parts.join(",")}"` : ""}`;
   const tag = t.href ? "a" : "button";
   return `<div class="task ${t.done ? "done" : ""}">
+    <span class="tico">${t.icon}</span>
+    <${tag} class="grow task-body plain-btn" ${action}>
+      <div class="task-when">${esc(t.when)} · ${t.min} phút</div>
+      <div class="t">${esc(t.title)}</div>
+      <div class="muted small">${esc(t.sub)}</div>
+    </${tag}>
     ${
       t.manual
         ? `<button class="check" data-act="tick" data-id="${t.id}" aria-label="Đánh dấu xong">${t.done ? "✓" : ""}</button>`
         : `<span class="check auto" title="Tự đánh dấu khi bạn làm xong">${t.done ? "✓" : ""}</span>`
     }
-    <${tag} class="grow task-body plain-btn" ${action}>
-      <div class="task-when">${esc(t.when)} · ${t.min} phút</div>
-      <div class="t">${t.icon} ${esc(t.title)}</div>
-      <div class="muted small">${esc(t.sub)}</div>
-    </${tag}>
   </div>`;
 }
 
@@ -365,10 +376,13 @@ function highlight(html, evidence) {
 
 function passageHtml(p, evidence = []) {
   if (p.kind === "chat") {
+    // Người nhắn đầu tiên ở bên trái, những người khác ở bên phải.
+    let first = null;
     const lines = p.text.split("\n").map((line) => {
       const m = line.match(/^(.+?) \[(.+?)\]:\s*(.*)$/);
+      if (m && first === null) first = m[1];
       return m
-        ? `<div class="msg"><div class="who"><b>${esc(m[1])}</b> <span>${esc(m[2])}</span></div><div>${highlight(esc(m[3]), evidence)}</div></div>`
+        ? `<div class="msg ${m[1] === first ? "" : "r"}"><div class="who"><b>${esc(m[1])}</b> <span>${esc(m[2])}</span></div><div>${highlight(esc(m[3]), evidence)}</div></div>`
         : `<div class="msg">${highlight(esc(line), evidence)}</div>`;
     });
     return `<div class="passage chat">${lines.join("")}</div>`;

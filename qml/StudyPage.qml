@@ -278,7 +278,7 @@ Item {
                             // Màu đậm cố định để chữ trắng luôn dễ đọc ở cả nền sáng lẫn tối.
                             { label: "Quên", key: 1, color: "#DC2626" },
                             { label: "Khó", key: 2, color: "#D97706" },
-                            { label: "Nhớ", key: 3, color: "#0F9D8A" },
+                            { label: "Nhớ", key: 3, color: "#4F46E5" },
                             { label: "Dễ", key: 4, color: "#16A34A" }
                         ]
                         Rectangle {
