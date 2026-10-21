@@ -66,6 +66,8 @@ Nghĩa tiếng Việt, câu ví dụ và collocation do WordFlow tự viết. Da
 
 Web app trong `docs/` có 4 tab: **Hôm nay** (việc cần làm theo lịch người đi làm), **Luyện đề**, **Từ vựng**, **Tiến độ** (biểu đồ điểm, lộ trình 48 tuần, báo cáo tuần). Code nằm ở `docs/js/toeic.js` (dữ liệu, chấm điểm, lộ trình) và `docs/js/toeic-ui.js` (giao diện).
 
+**Học từ vựng** (`docs/js/vocab-ui.js`): mỗi chủ đề chia thành bài 10 từ, học theo nhóm 5 từ qua 3 bước Làm quen → Nhận diện → Nhớ chủ động (gõ từ / điền vào câu). Ôn tập bằng câu hỏi, app tự chấm và gọi cùng lịch ôn SM-2 với flashcard (vẫn đồng bộ với app PC). Có 5 mức ghi nhớ và danh sách Từ khó.
+
 Kết quả luyện đề, sổ lỗi sai và điểm Study4 hiện chỉ lưu trên từng máy (localStorage), chưa đồng bộ qua Supabase.
 
 ### Thêm đề vào kho

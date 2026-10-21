@@ -1,7 +1,7 @@
 // Service worker: cho app chạy offline.
 // Chiến lược "network-first": có mạng thì luôn lấy bản mới nhất (bỏ qua cache HTTP 10 phút của
 // GitHub Pages), mạng chậm quá 3 giây hoặc mất mạng thì dùng bản đã lưu.
-const CACHE = "wordflow-v5";
+const CACHE = "wordflow-v6";
 const FONT_CACHE = "wordflow-fonts"; // font Google: lưu lâu dài, không xóa khi đổi phiên bản
 const TIMEOUT_MS = 3000;
 const SHELL = [
@@ -17,6 +17,7 @@ const SHELL = [
   "js/ui.js",
   "js/toeic.js",
   "js/toeic-ui.js",
+  "js/vocab-ui.js",
   "icons/icon-192.png",
   "icons/apple-touch-icon.png",
   "content/index.json",

@@ -3,6 +3,7 @@ import { sync } from "./sync.js";
 import * as P from "./practice.js";
 import { esc, hl, plain, go, header, bar, speak, spk, toast, GEAR } from "./ui.js";
 import * as TU from "./toeic-ui.js";
+import * as VU from "./vocab-ui.js";
 
 const $view = document.getElementById("view");
 
@@ -53,79 +54,6 @@ function wordCard(w, { showHeader = true } = {}) {
 
 // ---------------- Từ vựng (trang tổng) ----------------
 
-function phraseOfDay() {
-  const all = content.topics.flatMap((t) => content.phrases.get(t.id) || []);
-  return all.length ? all[Math.floor(Date.now() / 86400000) % all.length] : null;
-}
-
-// Tiến độ theo cấp độ của chủ đề (A2, B1, B2).
-function levelRoadmap() {
-  return ["A2", "B1", "B2", "TOEIC"].map((level) => {
-    const ids = content.topics.filter((t) => t.level === level).flatMap((t) => content.wordIds(t.id));
-    return { level, ...progress.topicStats(ids) };
-  });
-}
-
-function viewVocab() {
-  const s = progress.stats(content.allIds);
-  const total = s.due + s.newRemaining;
-  const tip = phraseOfDay();
-  const date = new Date().toLocaleDateString("vi-VN", { weekday: "long", day: "2-digit", month: "2-digit" });
-
-  return `
-    ${header("Từ vựng", esc(date), { right: `<a class="icon-btn" href="#/settings" aria-label="Cài đặt">${GEAR}</a>` })}
-    ${syncLine()}
-    <div class="card hero">
-      <div class="label">Bài học hôm nay</div>
-      <div class="big">${total ? `${s.due} từ cần ôn + ${s.newRemaining} từ mới` : "Xong hết rồi! 🎉"}</div>
-      <div class="hint">${total ? `Khoảng ${Math.max(1, Math.round(total * 0.4))} phút` : "Làm thêm Quiz hoặc luyện Mẫu câu nhé."}</div>
-      <button class="btn" data-act="${total ? "start-today" : "goto-quiz"}">${total ? "Bắt đầu học →" : "Làm Quiz →"}</button>
-    </div>
-    <div class="stats">
-      <div class="stat"><span class="i">⏰</span><div class="v">${s.due}</div><div class="l">Cần ôn hôm nay</div></div>
-      <div class="stat"><span class="i">✨</span><div class="v">${s.newToday}/${progress.settings.dailyNewLimit}</div><div class="l">Từ mới hôm nay</div></div>
-      <div class="stat"><span class="i">📖</span><div class="v">${s.seen}/${s.total}</div><div class="l">Từ đã học</div></div>
-      <div class="stat"><span class="i">🔥</span><div class="v">${s.streak}</div><div class="l">Ngày liên tiếp · ${s.reviewedToday} lượt hôm nay</div></div>
-    </div>
-    <div class="vocab-tools">
-      <a href="#/topics"><span>📚</span>Chủ đề</a>
-      <a href="#/quiz"><span>🎯</span>Quiz</a>
-      <a href="#/practice"><span>✍️</span>Luyện viết</a>
-      <a href="#/phrases"><span>💬</span>Mẫu câu</a>
-    </div>
-    <div class="section-title">🗺️ Lộ trình A2 → B2 → TOEIC</div>
-    <div class="card">${levelRoadmap()
-      .map(
-        (l) => `<div class="list-row"><b style="width:34px">${l.level}</b>
-          <div class="grow">${l.total ? bar(l.seen, l.total) : '<span class="muted small">Sắp có</span>'}</div>
-          <span class="muted small">${l.total ? `${l.seen}/${l.total}` : ""}</span></div>`
-      )
-      .join("")}</div>
-    <div class="section-title row"><span class="grow">Chủ đề đang học</span><a class="link" href="#/topics">Tất cả ${content.topics.length} chủ đề →</a></div>
-    <div class="card">
-      ${(content.topics.filter((t) => progress.topicStats(content.wordIds(t.id)).seen > 0).slice(0, 8).concat(
-          content.topics.filter((t) => progress.topicStats(content.wordIds(t.id)).seen === 0).slice(0, 3)))
-        .map((t) => {
-          const ts = progress.topicStats(content.wordIds(t.id));
-          return `<a class="list-row" href="#/topic/${t.id}">
-            <span class="ico">${t.icon}</span>
-            <div class="grow"><div class="t">${esc(t.title_vi)}</div>${bar(ts.seen, ts.total)}</div>
-            <span class="muted small">${ts.seen}/${ts.total}</span>
-            ${ts.due ? `<span class="chip warn">${ts.due}</span>` : ""}
-          </a>`;
-        })
-        .join("")}
-    </div>
-    ${
-      tip
-        ? `<div class="card" style="background:var(--purple-soft);border:none">
-        <div class="small" style="color:var(--purple);font-weight:700">💬 Mẫu câu của ngày · ${esc(tip.situation_vi)}</div>
-        <div class="row"><b class="grow" style="font-size:18px">${esc(tip.neutral)}</b>${spk(tip.neutral)}</div>
-        <div class="muted">${esc(tip.vi)}</div></div>`
-        : ""
-    }`;
-}
-
 // ---------------- Chủ đề ----------------
 
 const LEVEL_NAME = { A2: "A2 · Nền tảng", B1: "B1 · Trung cấp", B2: "B2 · Trung cao cấp (Oxford 3000/5000)", TOEIC: "TOEIC · Từ vựng công sở chuyên ngành" };
@@ -161,11 +89,14 @@ function viewTopic(id) {
   const ts = progress.topicStats(ids);
   return `${header(`${t.icon} ${esc(t.title_vi)}`, `${ts.seen}/${ts.total} đã học · ${ts.mastered} thành thạo`, { back: true })}
     <div class="btns" style="margin-bottom:12px">
-      <button class="btn primary" data-act="start-topic" data-id="${id}">🃏 Học chủ đề</button>
+      <button class="btn primary" data-act="vl-learn" data-topic="${id}" data-unit="0">📖 Học bài tiếp theo</button>
       <a class="btn" href="#/quiz/${id}">🎯 Quiz</a>
       <a class="btn" href="#/practice/${id}">✍️ Luyện viết</a>
       <a class="btn" href="#/phrases/${id}">💬 Mẫu câu</a>
     </div>
+    <div class="section-title">Các bài học</div>
+    ${VU.unitsHtml(id)}
+    <div class="section-title">Danh sách từ</div>
     <input class="field search" type="search" placeholder="🔍 Tìm từ hoặc nghĩa…" data-filter>
     <div class="card" style="padding:4px 12px">
       ${ids
@@ -639,7 +570,7 @@ function viewSettings() {
 // Mỗi route: [mẫu địa chỉ, tên màn hình, hàm vẽ]. Tab được bật theo TAB_OF.
 const routes = [
   ...TU.routes,
-  [/^#\/vocab$/, "vocab", () => viewVocab()],
+  ...VU.routes,
   [/^#\/topics$/, "topics", () => viewTopics()],
   [/^#\/topic\/([\w-]+)$/, "topics", (m) => viewTopic(m[1])],
   [/^#\/word\/([\w-]+)$/, "topics", (m) => viewWord(m[1])],
@@ -649,8 +580,8 @@ const routes = [
   [/^#\/phrases(?:\/([\w-]+))?$/, "phrases", (m) => viewPhrases(m[1])],
   [/^#\/settings$/, "settings", () => viewSettings()],
 ];
-const TAB_OF = { topics: "vocab", study: "vocab", quiz: "vocab", practice: "vocab", phrases: "vocab", settings: "home" };
-const BUSY = ["study", "quiz", "practice", "run"];
+const TAB_OF = { learn: "vocab", topics: "vocab", study: "vocab", quiz: "vocab", practice: "vocab", phrases: "vocab", settings: "home" };
+const BUSY = ["study", "quiz", "practice", "run", "learn"];
 let currentTab = "home";
 let lastHash = null;
 
@@ -661,10 +592,15 @@ function render() {
     if (!m) continue;
     currentTab = tab;
     TU.onRoute(hash);
+    VU.onRoute(hash);
     $view.innerHTML = fn(m);
-    document.body.classList.toggle("focus", tab === "study" || tab === "run");
+    VU.focusInput();
+    document.body.classList.toggle("focus", tab === "study" || tab === "run" || tab === "learn");
     document.body.classList.toggle("wide", tab === "run");
-    for (const a of document.querySelectorAll(".tabbar a")) a.classList.toggle("active", a.dataset.tab === (TAB_OF[tab] || tab));
+    const tabs = [...document.querySelectorAll(".tabbar a")];
+    tabs.forEach((a) => a.classList.toggle("active", a.dataset.tab === (TAB_OF[tab] || tab)));
+    // Vị trí "giọt kính" trượt dưới tab đang chọn.
+    document.getElementById("tabbar").style.setProperty("--i", Math.max(0, tabs.findIndex((a) => a.classList.contains("active"))));
     if (hash !== lastHash) window.scrollTo(0, 0);
     lastHash = hash;
     return;
@@ -916,6 +852,7 @@ document.addEventListener("visibilitychange", () => {
 (async () => {
   try {
     await Promise.all([content.load(), TU.init(render)]);
+    VU.init(render);
   } catch (e) {
     $view.innerHTML = `<div class="done"><div class="emo">😕</div><h2>Không tải được nội dung</h2><p class="muted">${esc(e.message || e)}</p></div>`;
     return;

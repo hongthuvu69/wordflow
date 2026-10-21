@@ -433,7 +433,7 @@ export function todayTasks() {
   const d = log[dateKey(now)] || { reviews: 0 };
   const vocabDone = d.reviews >= 10;
   const tasks = [];
-  const vocab = { id: "vocab", icon: "🃏", title: "Ôn từ vựng + học từ mới", sub: `${d.reviews} lượt ôn hôm nay`, min: 15, href: "#/study", done: vocabDone, when: "Sáng / đi làm" };
+  const vocab = { id: "vocab", icon: "🃏", title: "Ôn từ vựng + học từ mới", sub: `${d.reviews} lượt ôn hôm nay`, min: 15, act: "vl-today", done: vocabDone, when: "Sáng / đi làm" };
 
   if (wd >= 1 && wd <= 5) {
     const ev = EVENING[wd];
